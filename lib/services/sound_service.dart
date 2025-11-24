@@ -1,77 +1,62 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:audioplayers/audioplayers.dart';
 
 class SoundService {
-  static const MethodChannel _channel = MethodChannel('quiz/sound');
+  static final AudioPlayer _audioPlayer = AudioPlayer();
+  static bool _isInitialized = false;
+
+  static Future<void> _ensureInitialized() async {
+    if (!_isInitialized) {
+      await _audioPlayer.setReleaseMode(ReleaseMode.stop);
+      _isInitialized = true;
+    }
+  }
 
   static Future<void> playCorrectSound() async {
     try {
-      // Создаем приятную мелодию из нескольких тонов
-      // Играем последовательность нот: до-ми-соль-до (мажорное трезвучие)
-      // Для правильного ответа используем короткую последовательность звуков
-      
-      // Используем вибрацию для имитации приятной мелодии
-      // Каждая вибрация имитирует один тон в последовательности
-      for (int i = 0; i < 4; i++) {
-        await HapticFeedback.mediumImpact();
-        await Future.delayed(const Duration(milliseconds: 100));
-        
-        if (i < 3) {
-          await Future.delayed(const Duration(milliseconds: 30));
-        }
-      }
-      
-      // Системный звук успеха (если доступен на платформе)
-      try {
-        await SystemSound.play(SystemSoundType.alert);
-      } catch (e) {
-        debugPrint('System sound not available: $e');
-      }
-      
-      // Дополнительная обратная связь через нативные звуки (если доступны)
-      try {
-        await _channel.invokeMethod('playCorrectSound');
-      } catch (e) {
-        // Платформа не поддерживает метод - игнорируем
-        debugPrint('Platform sound not available: $e');
-      }
+      await _ensureInitialized();
+      await _audioPlayer.play(AssetSource('sounds/correct.mp3'));
     } catch (e) {
-      debugPrint('Sound error: $e');
+      debugPrint('Sound error (correct): $e');
       // Fallback на вибрацию
-      await HapticFeedback.mediumImpact();
+      try {
+        await HapticFeedback.mediumImpact();
+      } catch (e2) {
+        debugPrint('Haptic feedback error: $e2');
+      }
     }
   }
 
   static Future<void> playIncorrectSound() async {
     try {
-      // Простой однотонный краткий сигнал (низкий тон)
-      // Используем легкую вибрацию для имитации низкого тона
-      await HapticFeedback.lightImpact();
-      await Future.delayed(const Duration(milliseconds: 150));
-      
-      // Системный звук ошибки (если доступен на платформе)
-      try {
-        // Используем вибрацию как основной сигнал для неправильного ответа
-        await HapticFeedback.vibrate();
-      } catch (e) {
-        debugPrint('Haptic feedback not available: $e');
-      }
-      
-      // Дополнительная обратная связь через нативные звуки (если доступны)
-      try {
-        await _channel.invokeMethod('playIncorrectSound');
-      } catch (e) {
-        // Платформа не поддерживает метод - игнорируем
-        debugPrint('Platform sound not available: $e');
-      }
-      
-      await Future.delayed(const Duration(milliseconds: 150));
+      await _ensureInitialized();
+      await _audioPlayer.play(AssetSource('sounds/incorrect.mp3'));
     } catch (e) {
-      debugPrint('Sound error: $e');
+      debugPrint('Sound error (incorrect): $e');
       // Fallback на вибрацию
-      await HapticFeedback.lightImpact();
+      try {
+        await HapticFeedback.lightImpact();
+      } catch (e2) {
+        debugPrint('Haptic feedback error: $e2');
+      }
     }
+  }
+
+  static Future<void> playNewQuestionSound() async {
+    try {
+      await _ensureInitialized();
+      await _audioPlayer.play(AssetSource('sounds/new_question.mp3'));
+    } catch (e) {
+      debugPrint('Sound error (new question): $e');
+      // Fallback - kein Sound, nur leise
+    }
+  }
+
+  static Future<void> dispose() async {
+    await _audioPlayer.dispose();
+    _isInitialized = false;
   }
 }
 

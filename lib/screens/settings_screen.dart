@@ -64,7 +64,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
           ),
         ),
         child: ListView(
-          padding: const EdgeInsets.all(16),
+          padding: EdgeInsets.all(MediaQuery.of(context).size.width < 400 ? 12 : 16),
           children: [
             Card(
               elevation: 4,
@@ -72,27 +72,27 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 borderRadius: BorderRadius.circular(12),
               ),
               child: Padding(
-                padding: const EdgeInsets.all(16),
+                padding: EdgeInsets.all(MediaQuery.of(context).size.width < 400 ? 12 : 16),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const Text(
+                    Text(
                       'Filter',
                       style: TextStyle(
-                        fontSize: 24,
+                        fontSize: MediaQuery.of(context).size.width < 400 ? 20 : 24,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-                    const SizedBox(height: 24),
+                    SizedBox(height: MediaQuery.of(context).size.width < 400 ? 16 : 24),
                     // Kategorie-Filter (Land)
-                    const Text(
+                    Text(
                       'Land/Kategorie:',
                       style: TextStyle(
-                        fontSize: 18,
+                        fontSize: MediaQuery.of(context).size.width < 400 ? 16 : 18,
                         fontWeight: FontWeight.w600,
                       ),
                     ),
-                    const SizedBox(height: 8),
+                    SizedBox(height: MediaQuery.of(context).size.width < 400 ? 6 : 8),
                     DropdownButtonFormField<String>(
                       value: _selectedCategory,
                       decoration: InputDecoration(
@@ -122,16 +122,16 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         _applyFilters();
                       },
                     ),
-                    const SizedBox(height: 24),
+                    SizedBox(height: MediaQuery.of(context).size.width < 400 ? 16 : 24),
                     // Epoche-Filter
-                    const Text(
+                    Text(
                       'Epoche:',
                       style: TextStyle(
-                        fontSize: 18,
+                        fontSize: MediaQuery.of(context).size.width < 400 ? 16 : 18,
                         fontWeight: FontWeight.w600,
                       ),
                     ),
-                    const SizedBox(height: 8),
+                    SizedBox(height: MediaQuery.of(context).size.width < 400 ? 6 : 8),
                     DropdownButtonFormField<String>(
                       value: _selectedPeriod,
                       decoration: InputDecoration(
@@ -165,7 +165,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
               ),
             ),
-            const SizedBox(height: 16),
+            SizedBox(height: MediaQuery.of(context).size.width < 400 ? 12 : 16),
             // Statistik-Karte
             Card(
               elevation: 4,
@@ -173,18 +173,18 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 borderRadius: BorderRadius.circular(12),
               ),
               child: Padding(
-                padding: const EdgeInsets.all(16),
+                padding: EdgeInsets.all(MediaQuery.of(context).size.width < 400 ? 12 : 16),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const Text(
+                    Text(
                       'Statistik',
                       style: TextStyle(
-                        fontSize: 24,
+                        fontSize: MediaQuery.of(context).size.width < 400 ? 20 : 24,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-                    const SizedBox(height: 16),
+                    SizedBox(height: MediaQuery.of(context).size.width < 400 ? 12 : 16),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceAround,
                       children: [
@@ -206,7 +206,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
               ),
             ),
-            const SizedBox(height: 24),
+            SizedBox(height: MediaQuery.of(context).size.width < 400 ? 16 : 24),
             // Start-Button
             ElevatedButton(
               onPressed: _filteredQuestions.isEmpty
@@ -223,10 +223,10 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
                 elevation: 4,
               ),
-              child: const Text(
+              child: Text(
                 'Quiz starten',
                 style: TextStyle(
-                  fontSize: 20,
+                  fontSize: MediaQuery.of(context).size.width < 400 ? 18 : 20,
                   fontWeight: FontWeight.bold,
                 ),
               ),
@@ -245,7 +245,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
         Text(
           value,
           style: TextStyle(
-            fontSize: 28,
+            fontSize: MediaQuery.of(context).size.width < 400 ? 24 : 28,
             fontWeight: FontWeight.bold,
             color: color,
           ),

@@ -56,6 +56,14 @@ class QuizQuestion {
   List<String> get factsTranslated {
     return factsRu;
   }
+
+  String? get explanation {
+    return explanationDe;
+  }
+
+  String? get explanationTranslated {
+    return explanationRu;
+  }
 }
 
 

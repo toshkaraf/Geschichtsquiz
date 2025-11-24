@@ -63,8 +63,13 @@ class _QuizScreenState extends State<QuizScreen> {
       answerPairs.add(MapEntry(optionsDe[i], optionsRu[i]));
     }
     
-    // Mischen
-    answerPairs.shuffle(random);
+    // Mischen - jedes Mal zufällig sortieren mit Fisher-Yates Algorithmus
+    for (int i = answerPairs.length - 1; i > 0; i--) {
+      final j = random.nextInt(i + 1);
+      final temp = answerPairs[i];
+      answerPairs[i] = answerPairs[j];
+      answerPairs[j] = temp;
+    }
     
     // Neue Listen erstellen und korrekten Index finden
     _shuffledOptionsDe = answerPairs.map((e) => e.key).toList();
@@ -98,6 +103,9 @@ class _QuizScreenState extends State<QuizScreen> {
       _hasAnswered = false;
       _selectedAnswerIndex = null;
     });
+    
+    // Sound für neue Frage abspielen
+    SoundService.playNewQuestionSound();
   }
 
   void _showEndDialog() {
@@ -143,8 +151,8 @@ class _QuizScreenState extends State<QuizScreen> {
       SoundService.playIncorrectSound();
     }
 
-    // Показываем экран результата через небольшую задержку
-    Future.delayed(const Duration(milliseconds: 500), () {
+    // Показываем экран результата через задержку в 1 секунду
+    Future.delayed(const Duration(milliseconds: 1000), () {
       if (!mounted) return;
       Navigator.push(
         context,
@@ -165,10 +173,12 @@ class _QuizScreenState extends State<QuizScreen> {
   Color _getAnswerColor(int index) {
     if (!_hasAnswered || _currentQuestion == null) return Colors.grey.shade200;
     
+    // Richtige Antwort immer grün leuchten lassen
     if (index == _currentQuestion!.correctAnswerIndex) {
       return Colors.green;
     }
     
+    // Falsche ausgewählte Antwort rot leuchten lassen
     if (index == _selectedAnswerIndex && index != _currentQuestion!.correctAnswerIndex) {
       return Colors.red;
     }

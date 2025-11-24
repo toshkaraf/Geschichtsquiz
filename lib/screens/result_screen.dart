@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../models/quiz_question.dart';
 import '../widgets/facts_dialog.dart';
+import '../widgets/explanation_dialog.dart';
 
 class ResultScreen extends StatelessWidget {
   final QuizQuestion question;
@@ -70,22 +71,47 @@ class ResultScreen extends StatelessWidget {
             const Spacer(flex: 3),
             Padding(
               padding: const EdgeInsets.only(bottom: 32),
-              child: IconButton(
-                icon: const Icon(
-                  Icons.lightbulb,
-                  size: 48,
-                  color: Colors.amber,
-                ),
-                onPressed: () {
-                  showDialog(
-                    context: context,
-                    builder: (context) => FactsDialog(
-                      facts: question.facts,
-                      factsTranslated: question.factsTranslated,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  IconButton(
+                    icon: const Icon(
+                      Icons.lightbulb,
+                      size: 48,
+                      color: Colors.amber,
                     ),
-                  );
-                },
-                tooltip: 'Interessante Fakten',
+                    onPressed: () {
+                      showDialog(
+                        context: context,
+                        builder: (context) => FactsDialog(
+                          facts: question.facts,
+                          factsTranslated: question.factsTranslated,
+                        ),
+                      );
+                    },
+                    tooltip: 'Interessante Fakten',
+                  ),
+                  const SizedBox(width: 24),
+                  IconButton(
+                    icon: const Icon(
+                      Icons.menu_book,
+                      size: 48,
+                      color: Colors.blue,
+                    ),
+                    onPressed: () {
+                      if (question.explanation != null && question.explanationTranslated != null) {
+                        showDialog(
+                          context: context,
+                          builder: (context) => ExplanationDialog(
+                            explanation: question.explanation!,
+                            explanationTranslated: question.explanationTranslated!,
+                          ),
+                        );
+                      }
+                    },
+                    tooltip: 'Erklärung',
+                  ),
+                ],
               ),
             ),
           ],
