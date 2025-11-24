@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 201,
+    "question": "Какой греческий философ был учителем Александра Македонского?",
+    "answer": "Аристотель",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "философия",
+      "Македония"
+    ]
+  },
+  {
+    "id": 202,
+    "question": "Что означает термин 'полис'?",
+    "answer": "Город-государство",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "8th century BCE",
+    "tags": [
+      "политика",
+      "термины"
+    ]
+  },
+  {
+    "id": 203,
+    "question": "Кто написал 'Илиаду'?",
+    "answer": "Гомер",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "литература",
+      "эпос"
+    ]
+  },
+  {
+    "id": 204,
+    "question": "В каком году произошла битва при Марафоне?",
+    "answer": "490 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "490 BCE",
+    "tags": [
+      "войны",
+      "персы"
+    ]
+  },
+  {
+    "id": 205,
+    "question": "Какой город-государство был известен военной культурой?",
+    "answer": "Спарта",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "военное дело",
+      "полисы"
+    ]
+  },
+  {
+    "id": 206,
+    "question": "Как называлась система правления богатых граждан?",
+    "answer": "Олигархия",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "8th century BCE",
+    "tags": [
+      "политика",
+      "власть"
+    ]
+  },
+  {
+    "id": 207,
+    "question": "В каком городе находился Колосс?",
+    "answer": "Родос",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "280 BCE",
+    "tags": [
+      "чудеса света",
+      "статуи"
+    ]
+  },
+  {
+    "id": 208,
+    "question": "Кто был богом виноделия?",
+    "answer": "Дионис",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "вино"
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Как назывался главный храм Афины в Афинах?",
+    "answer": "Парфенон",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "447-432 BCE",
+    "tags": [
+      "храмы",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 210,
+    "question": "Кто был отцом Александра Македонского?",
+    "answer": "Филипп II",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "правители",
+      "Македония"
+    ]
+  },
+  {
+    "id": 211,
+    "question": "Какой философ основал Академию?",
+    "answer": "Платон",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "философия",
+      "образование"
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Кто был верховным богом?",
+    "answer": "Зевс",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "Олимп"
+    ]
+  },
+  {
+    "id": 213,
+    "question": "В каком году произошла битва при Фермопилах?",
+    "answer": "480 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "480 BCE",
+    "tags": [
+      "войны",
+      "Спарта"
+    ]
+  },
+  {
+    "id": 214,
+    "question": "Как назывался древнегреческий военный строй?",
+    "answer": "Фаланга",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "7th century BCE",
+    "tags": [
+      "армия",
+      "тактика"
+    ]
+  },
+  {
+    "id": 215,
+    "question": "Кто была богиня любви и красоты?",
+    "answer": "Афродита",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "любовь"
+    ]
+  },
+  {
+    "id": 216,
+    "question": "В каком году Александр умер?",
+    "answer": "323 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "323 BCE",
+    "tags": [
+      "правители",
+      "смерть"
+    ]
+  },
+  {
+    "id": 217,
+    "question": "Как называлось народное собрание в Афинах?",
+    "answer": "Экклесия",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "политика",
+      "демократия"
+    ]
+  },
+  {
+    "id": 218,
+    "question": "Кто был учителем Платона?",
+    "answer": "Сократ",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "философия",
+      "учителя"
+    ]
+  },
+  {
+    "id": 219,
+    "question": "Как назывался древнегреческий праздник Диониса?",
+    "answer": "Дионисии",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "праздники",
+      "театр"
+    ]
+  },
+  {
+    "id": 220,
+    "question": "Какой город был центром культа Аполлона?",
+    "answer": "Дельфы",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "8th century BCE",
+    "tags": [
+      "религия",
+      "оракулы"
+    ]
+  },
+  {
+    "id": 221,
+    "question": "Кто была богиня мудрости?",
+    "answer": "Афина",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "мудрость"
+    ]
+  },
+  {
+    "id": 222,
+    "question": "В каком году произошла битва при Саламине?",
+    "answer": "480 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "480 BCE",
+    "tags": [
+      "войны",
+      "морские сражения"
+    ]
+  },
+  {
+    "id": 223,
+    "question": "Кто был богом моря?",
+    "answer": "Посейдон",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "море"
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Как назывался рыночный центр города?",
+    "answer": "Агора",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "8th century BCE",
+    "tags": [
+      "города",
+      "торговля"
+    ]
+  },
+  {
+    "id": 225,
+    "question": "Кто была богиня плодородия?",
+    "answer": "Деметра",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "земледелие"
+    ]
+  },
+  {
+    "id": 226,
+    "question": "Какой математик сформулировал теорему о треугольнике?",
+    "answer": "Пифагор",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "математика",
+      "теоремы"
+    ]
+  },
+  {
+    "id": 227,
+    "question": "Кто был богом подземного царства?",
+    "answer": "Аид",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "загробный мир"
+    ]
+  },
+  {
+    "id": 228,
+    "question": "В каком году началась Пелопоннесская война?",
+    "answer": "431 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "431 BCE",
+    "tags": [
+      "войны",
+      "Афины"
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Кто написал 'Одиссею'?",
+    "answer": "Гомер",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "литература",
+      "эпос"
+    ]
+  },
+  {
+    "id": 230,
+    "question": "Как назывался древнегреческий воин-пехотинец?",
+    "answer": "Гоплит",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "7th century BCE",
+    "tags": [
+      "армия",
+      "воины"
+    ]
+  },
+  {
+    "id": 231,
+    "question": "Кто был богом-вестником?",
+    "answer": "Гермес",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "торговля"
+    ]
+  },
+  {
+    "id": 232,
+    "question": "В каком году закончилась Пелопоннесская война?",
+    "answer": "404 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "404 BCE",
+    "tags": [
+      "войны",
+      "Спарта"
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Какой драматург написал 'Царя Эдипа'?",
+    "answer": "Софокл",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "трагедии"
+    ]
+  },
+  {
+    "id": 234,
+    "question": "Кто был богом-кузнецом?",
+    "answer": "Гефест",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "ремёсла"
+    ]
+  },
+  {
+    "id": 235,
+    "question": "В каком году произошла битва при Платеях?",
+    "answer": "479 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "479 BCE",
+    "tags": [
+      "войны",
+      "персы"
+    ]
+  },
+  {
+    "id": 236,
+    "question": "Какой историк написал 'Историю'?",
+    "answer": "Геродот",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "история",
+      "литература"
+    ]
+  },
+  {
+    "id": 237,
+    "question": "Кто была богиня охоты?",
+    "answer": "Артемида",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Какой учёный создал закон рычага?",
+    "answer": "Архимед",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "физика",
+      "механика"
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Кто была богиня правосудия?",
+    "answer": "Фемида",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "справедливость"
+    ]
+  },
+  {
+    "id": 240,
+    "question": "В каком году Александр вторгся в Индию?",
+    "answer": "326 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "326 BCE",
+    "tags": [
+      "походы",
+      "Индия"
+    ]
+  },
+  {
+    "id": 241,
+    "question": "Какой врач считается отцом медицины?",
+    "answer": "Гиппократ",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "медицина",
+      "врачи"
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Кто была богиня победы?",
+    "answer": "Ника",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "войны"
+    ]
+  },
+  {
+    "id": 243,
+    "question": "В каком году произошла битва при Гавгамелах?",
+    "answer": "331 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "331 BCE",
+    "tags": [
+      "битвы",
+      "Александр"
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Какой философ основал стоицизм?",
+    "answer": "Зенон Китийский",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "философия",
+      "стоицизм"
+    ]
+  },
+  {
+    "id": 245,
+    "question": "Кто был богом врачевания?",
+    "answer": "Асклепий",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "медицина"
+    ]
+  },
+  {
+    "id": 246,
+    "question": "В каком году произошла битва при Иссе?",
+    "answer": "333 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "333 BCE",
+    "tags": [
+      "битвы",
+      "Персия"
+    ]
+  },
+  {
+    "id": 247,
+    "question": "Какой скульптор создал статую Зевса?",
+    "answer": "Фидий",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "скульптура",
+      "чудеса света"
+    ]
+  },
+  {
+    "id": 248,
+    "question": "Кто был богом сна?",
+    "answer": "Гипнос",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "сон"
+    ]
+  },
+  {
+    "id": 249,
+    "question": "В каком году произошла битва при Левктрах?",
+    "answer": "371 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "371 BCE",
+    "tags": [
+      "битвы",
+      "Фивы"
+    ]
+  },
+  {
+    "id": 250,
+    "question": "Какой математик основал геометрию?",
+    "answer": "Евклид",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "математика",
+      "геометрия"
+    ]
+  },
+  {
+    "id": 251,
+    "question": "Кто был богом сновидений?",
+    "answer": "Морфей",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "сны"
+    ]
+  },
+  {
+    "id": 252,
+    "question": "В каком году произошла битва при Херонее?",
+    "answer": "338 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "338 BCE",
+    "tags": [
+      "битвы",
+      "Македония"
+    ]
+  },
+  {
+    "id": 253,
+    "question": "Какой философ основал эпикуреизм?",
+    "answer": "Эпикур",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "философия",
+      "эпикуреизм"
+    ]
+  },
+  {
+    "id": 254,
+    "question": "Кто была богиня памяти?",
+    "answer": "Мнемозина",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "музы"
+    ]
+  },
+  {
+    "id": 255,
+    "question": "Какой учёный измерил окружность Земли?",
+    "answer": "Эратосфен",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "география",
+      "измерения"
+    ]
+  },
+  {
+    "id": 256,
+    "question": "Кто была богиня радуги?",
+    "answer": "Ирида",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 257,
+    "question": "Какой астроном предложил гелиоцентризм?",
+    "answer": "Аристарх Самосский",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "астрономия",
+      "теории"
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Кто была богиня ночи?",
+    "answer": "Никта",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "ночь"
+    ]
+  },
+  {
+    "id": 259,
+    "question": "Какой философ учил в бочке?",
+    "answer": "Диоген",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "философия",
+      "киники"
+    ]
+  },
+  {
+    "id": 260,
+    "question": "Кто был богом леса?",
+    "answer": "Пан",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 261,
+    "question": "Какой драматург написал 'Лисистрату'?",
+    "answer": "Аристофан",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "комедии"
+    ]
+  },
+  {
+    "id": 262,
+    "question": "Кто была богиня мщения?",
+    "answer": "Немесида",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "справедливость"
+    ]
+  },
+  {
+    "id": 263,
+    "question": "Какой историк написал 'Пелопоннесскую войну'?",
+    "answer": "Фукидид",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "история",
+      "войны"
+    ]
+  },
+  {
+    "id": 264,
+    "question": "Кто был богом страха?",
+    "answer": "Фобос",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "эмоции"
+    ]
+  },
+  {
+    "id": 265,
+    "question": "Какой философ утверждал 'всё течёт'?",
+    "answer": "Гераклит",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "философия",
+      "учения"
+    ]
+  },
+  {
+    "id": 266,
+    "question": "Кто был богом ужаса?",
+    "answer": "Деймос",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "война"
+    ]
+  },
+  {
+    "id": 267,
+    "question": "Какой учёный создал атомистику?",
+    "answer": "Демокрит",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "философия",
+      "атомы"
+    ]
+  },
+  {
+    "id": 268,
+    "question": "Кто была богиня раздора?",
+    "answer": "Эрида",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "конфликты"
+    ]
+  },
+  {
+    "id": 269,
+    "question": "В каком году была основана Византия?",
+    "answer": "667 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "667 BCE",
+    "tags": [
+      "города",
+      "основание"
+    ]
+  },
+  {
+    "id": 270,
+    "question": "Какой колониальный тип был в древней Греции?",
+    "answer": "Апойкия",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "8th century BCE",
+    "tags": [
+      "колонии",
+      "термины"
+    ]
+  },
+  {
+    "id": 271,
+    "question": "Кто был богом эфира?",
+    "answer": "Эфир",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "элементы"
+    ]
+  },
+  {
+    "id": 272,
+    "question": "Какой философ основал скептицизм?",
+    "answer": "Пиррон",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "философия",
+      "скептицизм"
+    ]
+  },
+  {
+    "id": 273,
+    "question": "Кто была богиня дня?",
+    "answer": "Гемера",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "время"
+    ]
+  },
+  {
+    "id": 274,
+    "question": "Какой порт был главным в Афинах?",
+    "answer": "Пирей",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "5th century BCE",
+    "tags": [
+      "порты",
+      "торговля"
+    ]
+  },
+  {
+    "id": 275,
+    "question": "Кто был богом северного ветра?",
+    "answer": "Борей",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "ветры"
+    ]
+  },
+  {
+    "id": 276,
+    "question": "Какое расстояние составлял марафон?",
+    "answer": "Около 42 км",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "490 BCE",
+    "tags": [
+      "спорт",
+      "расстояния"
+    ]
+  },
+  {
+    "id": 277,
+    "question": "Кто был богом западного ветра?",
+    "answer": "Зефир",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "ветры"
+    ]
+  },
+  {
+    "id": 278,
+    "question": "В каком году основаны Олимпийские игры?",
+    "answer": "776 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "776 BCE",
+    "tags": [
+      "спорт",
+      "игры"
+    ]
+  },
+  {
+    "id": 279,
+    "question": "Кто был богом восточного ветра?",
+    "answer": "Эвр",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "ветры"
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Сколько дней длились Олимпийские игры?",
+    "answer": "Пять дней",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "776 BCE",
+    "tags": [
+      "спорт",
+      "продолжительность"
+    ]
+  },
+  {
+    "id": 281,
+    "question": "Кто был богом южного ветра?",
+    "answer": "Нот",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "ветры"
+    ]
+  },
+  {
+    "id": 282,
+    "question": "Какие виды спорта были на Олимпиаде?",
+    "answer": "Бег, борьба, метание, прыжки, пятиборье",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "776 BCE",
+    "tags": [
+      "спорт",
+      "дисциплины"
+    ]
+  },
+  {
+    "id": 283,
+    "question": "Кто была богиня клятв?",
+    "answer": "Стикс",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "река"
+    ]
+  },
+  {
+    "id": 284,
+    "question": "Кто мог участвовать в Олимпиадах?",
+    "answer": "Свободные греки-мужчины",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "776 BCE",
+    "tags": [
+      "спорт",
+      "участники"
+    ]
+  },
+  {
+    "id": 285,
+    "question": "Кто был богом времени?",
+    "answer": "Хронос",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "время"
+    ]
+  },
+  {
+    "id": 286,
+    "question": "В честь какого бога проводились игры?",
+    "answer": "Зевс",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "776 BCE",
+    "tags": [
+      "боги",
+      "спорт"
+    ]
+  },
+  {
+    "id": 287,
+    "question": "Кто был богом рек?",
+    "answer": "Ахелой",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "вода"
+    ]
+  },
+  {
+    "id": 288,
+    "question": "Где проводились Олимпийские игры?",
+    "answer": "Олимпия",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "776 BCE",
+    "tags": [
+      "спорт",
+      "места"
+    ]
+  },
+  {
+    "id": 289,
+    "question": "Кто был богом богатства?",
+    "answer": "Плутос",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "богатство"
+    ]
+  },
+  {
+    "id": 290,
+    "question": "Что получал победитель Олимпиады?",
+    "answer": "Оливковый венок",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "776 BCE",
+    "tags": [
+      "спорт",
+      "награды"
+    ]
+  },
+  {
+    "id": 291,
+    "question": "Кто была богиня луны?",
+    "answer": "Селена",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "небо"
+    ]
+  },
+  {
+    "id": 292,
+    "question": "Какая колонна имела простую капитель?",
+    "answer": "Дорическая",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "7th century BCE",
+    "tags": [
+      "архитектура",
+      "стили"
+    ]
+  },
+  {
+    "id": 293,
+    "question": "Кто был богом старости?",
+    "answer": "Герас",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "возраст"
+    ]
+  },
+  {
+    "id": 294,
+    "question": "Какая колонна имела завитки?",
+    "answer": "Ионическая",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "архитектура",
+      "стили"
+    ]
+  },
+  {
+    "id": 295,
+    "question": "Кто был богом брака?",
+    "answer": "Гименей",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "свадьбы"
+    ]
+  },
+  {
+    "id": 296,
+    "question": "Какая колонна самая нарядная?",
+    "answer": "Коринфская",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "5th century BCE",
+    "tags": [
+      "архитектура",
+      "стили"
+    ]
+  },
+  {
+    "id": 297,
+    "question": "Кто был богом пастухов?",
+    "answer": "Пан",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "пастухи"
+    ]
+  },
+  {
+    "id": 298,
+    "question": "Как называлась верхняя часть храма?",
+    "answer": "Педимент",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "архитектура",
+      "элементы"
+    ]
+  },
+  {
+    "id": 299,
+    "question": "Кто была богиня согласия?",
+    "answer": "Гармония",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "мир"
+    ]
+  },
+  {
+    "id": 300,
+    "question": "Что такое акрополь?",
+    "answer": "Верхний город, укрепление",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "8th century BCE",
+    "tags": [
+      "архитектура",
+      "города"
+    ]
+  },
+  {
+    "id": 301,
+    "question": "Кто был богом искусств?",
+    "answer": "Аполлон",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "искусство"
+    ]
+  },
+  {
+    "id": 302,
+    "question": "Где находился самый известный акрополь?",
+    "answer": "Афины",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "5th century BCE",
+    "tags": [
+      "архитектура",
+      "места"
+    ]
+  },
+  {
+    "id": 303,
+    "question": "Кто были музы?",
+    "answer": "Дочери Зевса и Мнемозины",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "искусство"
+    ]
+  },
+  {
+    "id": 304,
+    "question": "Когда построен Парфенон?",
+    "answer": "447-432 годы до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "447 BCE",
+    "tags": [
+      "храмы",
+      "строительство"
+    ]
+  },
+  {
+    "id": 305,
+    "question": "Сколько было муз?",
+    "answer": "Девять",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "количество"
+    ]
+  },
+  {
+    "id": 306,
+    "question": "Кто был архитектором Парфенона?",
+    "answer": "Иктин и Калликрат",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "447 BCE",
+    "tags": [
+      "архитекторы",
+      "строительство"
+    ]
+  },
+  {
+    "id": 307,
+    "question": "Кто была муза эпоса?",
+    "answer": "Каллиопа",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "музы",
+      "искусство"
+    ]
+  },
+  {
+    "id": 308,
+    "question": "Какой скульптор создал статую Афины в Парфеноне?",
+    "answer": "Фидий",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "447 BCE",
+    "tags": [
+      "скульптура",
+      "храмы"
+    ]
+  },
+  {
+    "id": 309,
+    "question": "Кто была муза истории?",
+    "answer": "Клио",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "музы",
+      "история"
+    ]
+  },
+  {
+    "id": 310,
+    "question": "Из какого материала была статуя Афины?",
+    "answer": "Золото и слоновая кость",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "447 BCE",
+    "tags": [
+      "скульптура",
+      "материалы"
+    ]
+  },
+  {
+    "id": 311,
+    "question": "Кто была муза комедии?",
+    "answer": "Талия",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "музы",
+      "театр"
+    ]
+  },
+  {
+    "id": 312,
+    "question": "Какой высоты была статуя Афины?",
+    "answer": "Около 12 метров",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "447 BCE",
+    "tags": [
+      "скульптура",
+      "размеры"
+    ]
+  },
+  {
+    "id": 313,
+    "question": "Кто была муза трагедии?",
+    "answer": "Мельпомена",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "музы",
+      "театр"
+    ]
+  },
+  {
+    "id": 314,
+    "question": "Сколько колонн в Парфеноне?",
+    "answer": "46 внешних колонн",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "447 BCE",
+    "tags": [
+      "архитектура",
+      "количество"
+    ]
+  },
+  {
+    "id": 315,
+    "question": "Кто была муза лирической поэзии?",
+    "answer": "Эрато",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "музы",
+      "поэзия"
+    ]
+  },
+  {
+    "id": 316,
+    "question": "Какого стиля колонны в Парфеноне?",
+    "answer": "Дорический",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "447 BCE",
+    "tags": [
+      "архитектура",
+      "стили"
+    ]
+  },
+  {
+    "id": 317,
+    "question": "Кто была муза танца?",
+    "answer": "Терпсихора",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "музы",
+      "танец"
+    ]
+  },
+  {
+    "id": 318,
+    "question": "Как называется площадь перед храмом?",
+    "answer": "Стилобат",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "архитектура",
+      "термины"
+    ]
+  },
+  {
+    "id": 319,
+    "question": "Кто была муза музыки?",
+    "answer": "Евтерпа",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "музы",
+      "музыка"
+    ]
+  },
+  {
+    "id": 320,
+    "question": "Что такое портик?",
+    "answer": "Крытая галерея с колоннами",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "архитектура",
+      "элементы"
+    ]
+  },
+  {
+    "id": 321,
+    "question": "Кто была муза гимнов?",
+    "answer": "Полигимния",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "музы",
+      "религия"
+    ]
+  },
+  {
+    "id": 322,
+    "question": "Как называлась внутренняя часть храма?",
+    "answer": "Целла (наос)",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "архитектура",
+      "термины"
+    ]
+  },
+  {
+    "id": 323,
+    "question": "Кто была муза астрономии?",
+    "answer": "Урания",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "музы",
+      "наука"
+    ]
+  },
+  {
+    "id": 324,
+    "question": "Что такое стоа?",
+    "answer": "Крытая колоннада",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "архитектура",
+      "здания"
+    ]
+  },
+  {
+    "id": 325,
+    "question": "Кто были титаны?",
+    "answer": "Древние боги, родители олимпийцев",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "поколения"
+    ]
+  },
+  {
+    "id": 326,
+    "question": "Где проводились театральные представления?",
+    "answer": "Театрон",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "здания"
+    ]
+  },
+  {
+    "id": 327,
+    "question": "Кто был главой титанов?",
+    "answer": "Кронос",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "титаны",
+      "правители"
+    ]
+  },
+  {
+    "id": 328,
+    "question": "Как называлась сцена в театре?",
+    "answer": "Скене",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "элементы"
+    ]
+  },
+  {
+    "id": 329,
+    "question": "Кто была женой Кроноса?",
+    "answer": "Рея",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "титаны",
+      "семья"
+    ]
+  },
+  {
+    "id": 330,
+    "question": "Как назывался хор в театре?",
+    "answer": "Орхестра",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "термины"
+    ]
+  },
+  {
+    "id": 331,
+    "question": "Какой титан держал небо?",
+    "answer": "Атлант",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "титаны",
+      "наказания"
+    ]
+  },
+  {
+    "id": 332,
+    "question": "Сколько мест было в театре Диониса?",
+    "answer": "Около 17 000",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "размеры"
+    ]
+  },
+  {
+    "id": 333,
+    "question": "Какой титан дал людям огонь?",
+    "answer": "Прометей",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "титаны",
+      "мифы"
+    ]
+  },
+  {
+    "id": 334,
+    "question": "Когда проводились театральные фестивали?",
+    "answer": "Во время Дионисий",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "праздники"
+    ]
+  },
+  {
+    "id": 335,
+    "question": "Как Зевс наказал Прометея?",
+    "answer": "Приковал к скале, орёл клевал печень",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "титаны",
+      "наказания"
+    ]
+  },
+  {
+    "id": 336,
+    "question": "Какие маски носили актёры?",
+    "answer": "Трагическую и комическую",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "костюмы"
+    ]
+  },
+  {
+    "id": 337,
+    "question": "Кто были родителями Зевса?",
+    "answer": "Кронос и Рея",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 338,
+    "question": "Могли ли женщины быть актрисами?",
+    "answer": "Нет, все роли играли мужчины",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "актёры"
+    ]
+  },
+  {
+    "id": 339,
+    "question": "Сколько было олимпийских богов?",
+    "answer": "Двенадцать главных",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "количество"
+    ]
+  },
+  {
+    "id": 340,
+    "question": "Кто был первым драматургом?",
+    "answer": "Феспид",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "основатели"
+    ]
+  },
+  {
+    "id": 341,
+    "question": "Где жили олимпийские боги?",
+    "answer": "На горе Олимп",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "места"
+    ]
+  },
+  {
+    "id": 342,
+    "question": "Сколько актёров в греческой трагедии?",
+    "answer": "Три актёра",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "правила"
+    ]
+  },
+  {
+    "id": 343,
+    "question": "Какая гора была самой высокой в Греции?",
+    "answer": "Олимп",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "8th century BCE",
+    "tags": [
+      "география",
+      "горы"
+    ]
+  },
+  {
+    "id": 344,
+    "question": "Кто написал 'Антигону'?",
+    "answer": "Софокл",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "трагедии"
+    ]
+  },
+  {
+    "id": 345,
+    "question": "Кто была женой Зевса?",
+    "answer": "Гера",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 346,
+    "question": "Кто написал 'Медею'?",
+    "answer": "Еврипид",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "трагедии"
+    ]
+  },
+  {
+    "id": 347,
+    "question": "Кто был братом Зевса?",
+    "answer": "Посейдон и Аид",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 348,
+    "question": "Кто написал 'Орестею'?",
+    "answer": "Эсхил",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "трагедии"
+    ]
+  },
+  {
+    "id": 349,
+    "question": "Кто была сестрой Зевса?",
+    "answer": "Гера, Деметра, Гестия",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 350,
+    "question": "Сколько трагедий написал Эсхил?",
+    "answer": "Около 90",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "количество"
+    ]
+  },
+  {
+    "id": 351,
+    "question": "Кто были дети Зевса?",
+    "answer": "Афина, Аполлон, Артемида, Гермес и др.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "дети"
+    ]
+  },
+  {
+    "id": 352,
+    "question": "Сколько трагедий Эсхила сохранилось?",
+    "answer": "Семь",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "сохранность"
+    ]
+  },
+  {
+    "id": 353,
+    "question": "Из чьей головы родилась Афина?",
+    "answer": "Из головы Зевса",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "рождение"
+    ]
+  },
+  {
+    "id": 354,
+    "question": "Сколько трагедий написал Софокл?",
+    "answer": "Около 123",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "количество"
+    ]
+  },
+  {
+    "id": 355,
+    "question": "Кто были родители Аполлона?",
+    "answer": "Зевс и Лето",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 356,
+    "question": "Сколько трагедий Софокла сохранилось?",
+    "answer": "Семь",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "сохранность"
+    ]
+  },
+  {
+    "id": 357,
+    "question": "Кто была сестра-близнец Аполлона?",
+    "answer": "Артемида",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 358,
+    "question": "Сколько трагедий написал Еврипид?",
+    "answer": "Около 92",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "количество"
+    ]
+  },
+  {
+    "id": 359,
+    "question": "Какой атрибут был у Посейдона?",
+    "answer": "Трезубец",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "символы"
+    ]
+  },
+  {
+    "id": 360,
+    "question": "Сколько трагедий Еврипида сохранилось?",
+    "answer": "Восемнадцать",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "сохранность"
+    ]
+  },
+  {
+    "id": 361,
+    "question": "Какой атрибут был у Зевса?",
+    "answer": "Молния",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "символы"
+    ]
+  },
+  {
+    "id": 362,
+    "question": "Кто написал 'Облака'?",
+    "answer": "Аристофан",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "комедии"
+    ]
+  },
+  {
+    "id": 363,
+    "question": "Какой атрибут был у Гермеса?",
+    "answer": "Крылатые сандалии и кадуцей",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "символы"
+    ]
+  },
+  {
+    "id": 364,
+    "question": "Кто написал 'Лягушек'?",
+    "answer": "Аристофан",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "комедии"
+    ]
+  },
+  {
+    "id": 365,
+    "question": "Какой атрибут был у Артемиды?",
+    "answer": "Лук и стрелы",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "оружие"
+    ]
+  },
+  {
+    "id": 366,
+    "question": "Сколько комедий Аристофана сохранилось?",
+    "answer": "Одиннадцать",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "сохранность"
+    ]
+  },
+  {
+    "id": 367,
+    "question": "Какой атрибут был у Афродиты?",
+    "answer": "Зеркало и голубь",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "символы"
+    ]
+  },
+  {
+    "id": 368,
+    "question": "Что такое сатировская драма?",
+    "answer": "Комическая пьеса с сатирами",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "жанры"
+    ]
+  },
+  {
+    "id": 369,
+    "question": "Какой атрибут был у Ареса?",
+    "answer": "Меч и щит",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "оружие"
+    ]
+  },
+  {
+    "id": 370,
+    "question": "Когда возникла греческая комедия?",
+    "answer": "В 6 веке до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "возникновение"
+    ]
+  },
+  {
+    "id": 371,
+    "question": "Когда возникла греческая трагедия?",
+    "answer": "В 6 веке до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "возникновение"
+    ]
+  },
+  {
+    "id": 372,
+    "question": "Что означает слово 'трагедия'?",
+    "answer": "Песнь козлов",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "этимология"
+    ]
+  },
+  {
+    "id": 373,
+    "question": "Кто был покровителем театра?",
+    "answer": "Дионис",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "боги"
+    ]
+  },
+  {
+    "id": 374,
+    "question": "Какой город был центром театра?",
+    "answer": "Афины",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "6th century BCE",
+    "tags": [
+      "театр",
+      "места"
+    ]
+  },
+  {
+    "id": 375,
+    "question": "Что такое катарсис?",
+    "answer": "Очищение через сопереживание",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "философия"
+    ]
+  },
+  {
+    "id": 376,
+    "question": "Кто ввёл понятие катарсиса?",
+    "answer": "Аристотель",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "философия",
+      "театр"
+    ]
+  },
+  {
+    "id": 377,
+    "question": "Как называлась главная площадь Афин?",
+    "answer": "Агора",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "5th century BCE",
+    "tags": [
+      "города",
+      "площади"
+    ]
+  },
+  {
+    "id": 378,
+    "question": "Что строили на агоре?",
+    "answer": "Храмы, портики, административные здания",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "архитектура",
+      "города"
+    ]
+  },
+  {
+    "id": 379,
+    "question": "Как называлась афинская тюрьма?",
+    "answer": "Десмотерий",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "5th century BCE",
+    "tags": [
+      "здания",
+      "правосудие"
+    ]
+  },
+  {
+    "id": 380,
+    "question": "Где хранилась казна Делосского союза?",
+    "answer": "Сначала на Делосе, потом в Афинах",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "5th century BCE",
+    "tags": [
+      "финансы",
+      "союзы"
+    ]
+  },
+  {
+    "id": 381,
+    "question": "Что такое Делосский союз?",
+    "answer": "Афинский морской союз",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "478 BCE",
+    "tags": [
+      "политика",
+      "альянсы"
+    ]
+  },
+  {
+    "id": 382,
+    "question": "Когда был создан Делосский союз?",
+    "answer": "478 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "478 BCE",
+    "tags": [
+      "союзы",
+      "даты"
+    ]
+  },
+  {
+    "id": 383,
+    "question": "Сколько полисов входило в союз?",
+    "answer": "Около 150-200",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "политика",
+      "количество"
+    ]
+  },
+  {
+    "id": 384,
+    "question": "Кто возглавлял Делосский союз?",
+    "answer": "Афины",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "478 BCE",
+    "tags": [
+      "политика",
+      "лидерство"
+    ]
+  },
+  {
+    "id": 385,
+    "question": "Что такое Пелопоннесский союз?",
+    "answer": "Спартанский сухопутный союз",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "6th century BCE",
+    "tags": [
+      "политика",
+      "альянсы"
+    ]
+  },
+  {
+    "id": 386,
+    "question": "Кто возглавлял Пелопоннесский союз?",
+    "answer": "Спарта",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "политика",
+      "лидерство"
+    ]
+  },
+  {
+    "id": 387,
+    "question": "Как долго длилась Пелопоннесская война?",
+    "answer": "27 лет",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "431-404 BCE",
+    "tags": [
+      "войны",
+      "длительность"
+    ]
+  },
+  {
+    "id": 388,
+    "question": "Кто победил в Пелопоннесской войне?",
+    "answer": "Спарта",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "404 BCE",
+    "tags": [
+      "войны",
+      "победители"
+    ]
+  },
+  {
+    "id": 389,
+    "question": "Какая чума поразила Афины?",
+    "answer": "Афинская чума",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "430 BCE",
+    "tags": [
+      "эпидемии",
+      "бедствия"
+    ]
+  },
+  {
+    "id": 390,
+    "question": "Кто умер от афинской чумы?",
+    "answer": "Перикл",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "429 BCE",
+    "tags": [
+      "правители",
+      "смерть"
+    ]
+  },
+  {
+    "id": 391,
+    "question": "Сколько лет правил Перикл?",
+    "answer": "Около 30 лет",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "461-429 BCE",
+    "tags": [
+      "правители",
+      "власть"
+    ]
+  },
+  {
+    "id": 392,
+    "question": "Как называлась эпоха Перикла?",
+    "answer": "Золотой век Афин",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "461-429 BCE",
+    "tags": [
+      "периоды",
+      "расцвет"
+    ]
+  },
+  {
+    "id": 393,
+    "question": "Кто был главным стратегом Афин?",
+    "answer": "Перикл",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "461-429 BCE",
+    "tags": [
+      "правители",
+      "должности"
+    ]
+  },
+  {
+    "id": 394,
+    "question": "Что означает слово 'стратег'?",
+    "answer": "Военачальник",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "5th century BCE",
+    "tags": [
+      "военное дело",
+      "термины"
+    ]
+  },
+  {
+    "id": 395,
+    "question": "Сколько стратегов было в Афинах?",
+    "answer": "Десять",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "политика",
+      "количество"
+    ]
+  },
+  {
+    "id": 396,
+    "question": "На какой срок избирали стратегов?",
+    "answer": "На один год",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "политика",
+      "сроки"
+    ]
+  },
+  {
+    "id": 397,
+    "question": "Что такое остракизм?",
+    "answer": "Изгнание из города голосованием",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "5th century BCE",
+    "tags": [
+      "политика",
+      "наказания"
+    ]
+  },
+  {
+    "id": 398,
+    "question": "На сколько лет изгоняли остракизмом?",
+    "answer": "На 10 лет",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "политика",
+      "сроки"
+    ]
+  },
+  {
+    "id": 399,
+    "question": "Чем голосовали при остракизме?",
+    "answer": "Черепками (остраконами)",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "политика",
+      "процедуры"
+    ]
+  },
+  {
+    "id": 400,
+    "question": "Кто ввёл остракизм в Афинах?",
+    "answer": "Клисфен",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "508 BCE",
+    "tags": [
+      "реформы",
+      "политика"
+    ]
+  }
+]

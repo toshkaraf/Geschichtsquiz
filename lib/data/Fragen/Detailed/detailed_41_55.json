@@ -1,0 +1,703 @@
+[
+  {
+    "id": 41,
+    "question": "Какая древняя цивилизация создала город Ашшур?",
+    "question_de": "Welche antike Zivilisation erschuf die Stadt Assur?",
+    "answer": "Ассирийцы",
+    "answer_de": "Assyrer",
+    "wrong_answers": [
+      {
+        "ru": "Вавилоняне",
+        "de": "Babylonier"
+      },
+      {
+        "ru": "Шумеры",
+        "de": "Sumerer"
+      },
+      {
+        "ru": "Хетты",
+        "de": "Hethiter"
+      }
+    ],
+    "explanation": "Ашшур (Ассур) был древней столицей Ассирийской империи и одним из важнейших городов Месопотамии. Город назван в честь главного бога ассирийского пантеона — Ашшура. Расположенный на западном берегу Тигра, город был основан около 2600 г. до н.э. и служил религиозным и политическим центром. В период расцвета Ассирийской империи (около 900-612 гг. до н.э.) Ашшур оставался священным городом, даже когда столица была перенесена сначала в Калху (Нимруд), затем в Дур-Шаррукин и, наконец, в Ниневию. Город был разрушен в 614 г. до н.э. мидийцами.",
+    "explanation_de": "Assur war die antike Hauptstadt des Assyrischen Reiches und eine der wichtigsten Städte Mesopotamiens. Die Stadt ist nach dem Hauptgott des assyrischen Pantheons - Aššur - benannt. Am Westufer des Tigris gelegen, wurde die Stadt um 2600 v. Chr. gegründet und diente als religiöses und politisches Zentrum. In der Blütezeit des Assyrischen Reiches (ca. 900-612 v. Chr.) blieb Assur eine heilige Stadt, auch als die Hauptstadt zuerst nach Kalhu (Nimrud), dann nach Dur-Sharrukin und schließlich nach Ninive verlegt wurde. Die Stadt wurde 614 v. Chr. von den Medern zerstört.",
+    "interesting_facts": [
+      {
+        "ru": "Ашшур был не только городом, но и именем верховного бога ассирийцев, а также названием всего государства. Это уникальный случай тройного совпадения в древнем мире. Бог Ашшур часто изображался как крылатый диск, парящий над сценами сражений на ассирийских рельефах.",
+        "de": "Assur war nicht nur eine Stadt, sondern auch der Name des obersten Gottes der Assyrer und der Name des gesamten Staates. Dies ist ein einzigartiger Fall dreifacher Übereinstimmung in der antiken Welt. Der Gott Aššur wurde oft als geflügelte Scheibe dargestellt, die über Kampfszenen auf assyrischen Reliefs schwebt."
+      },
+      {
+        "ru": "В Ашшуре существовал уникальный ритуал коронации: каждый новый ассирийский царь должен был 'взять руки бога Ашшура' в храме. Это символизировало легитимность его власти. Царь также ежегодно отчитывался перед богом о своих военных победах и строительных достижениях.",
+        "de": "In Assur gab es ein einzigartiges Krönungsritual: Jeder neue assyrische König musste im Tempel 'die Hände des Gottes Aššur ergreifen'. Dies symbolisierte die Legitimität seiner Macht. Der König berichtete auch jährlich dem Gott über seine militärischen Siege und Bauvorhaben."
+      },
+      {
+        "ru": "Археологические раскопки в Ашшуре обнаружили более 16 000 глиняных табличек, включая королевские архивы, торговые контракты и религиозные тексты. Город был важным торговым центром, контролирующим торговые пути между Анатолией и южной Месопотамией. В 2003 году Ашшур был внесён в список Всемирного наследия ЮНЕСКО.",
+        "de": "Archäologische Ausgrabungen in Assur entdeckten über 16.000 Tontafeln, darunter königliche Archive, Handelsverträge und religiöse Texte. Die Stadt war ein wichtiges Handelszentrum, das die Handelsrouten zwischen Anatolien und Südmesopotamien kontrollierte. 2003 wurde Assur in die UNESCO-Welterbeliste aufgenommen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "2600 BCE",
+    "tags": [
+      "города",
+      "Ассирия",
+      "Месопотамия",
+      "столицы"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Как назывался древнеегипетский головной убор коршуна?",
+    "question_de": "Wie hieß die altägyptische Geier-Kopfbedeckung?",
+    "answer": "Нехбет",
+    "answer_de": "Nechbet",
+    "wrong_answers": [
+      {
+        "ru": "Уаджет",
+        "de": "Wadjet"
+      },
+      {
+        "ru": "Хепреш",
+        "de": "Chepresh"
+      },
+      {
+        "ru": "Атеф",
+        "de": "Atef"
+      }
+    ],
+    "explanation": "Головной убор в виде коршуна (грифа) был связан с богиней Нехбет, покровительницей Верхнего Египта. Этот головной убор носили царицы и богини. Коршун был символом материнства и защиты. Нехбет изображалась с распростёртыми крыльями, обнимающими голову носительницы. Вместе с уреем (коброй богини Уаджет, символом Нижнего Египта) коршун образовывал 'Две владычицы' — важнейший символ единства Египта. Головной убор изготавливался из золота с инкрустацией драгоценными камнями и носился поверх парика. Самые знаменитые изображения — на золотой маске Тутанхамона и статуях Нефертити.",
+    "explanation_de": "Die Kopfbedeckung in Form eines Geiers war mit der Göttin Nechbet verbunden, der Schutzgöttin von Oberägypten. Diese Kopfbedeckung trugen Königinnen und Göttinnen. Der Geier war ein Symbol für Mutterschaft und Schutz. Nechbet wurde mit ausgebreiteten Flügeln dargestellt, die den Kopf der Trägerin umarmten. Zusammen mit dem Uräus (Kobra der Göttin Wadjet, Symbol von Unterägypten) bildete der Geier die 'Zwei Herrinnen' - ein wichtigstes Symbol der Einheit Ägyptens. Die Kopfbedeckung wurde aus Gold mit Edelsteinintarsien gefertigt und über einer Perücke getragen. Die berühmtesten Darstellungen sind auf der goldenen Maske Tutanchamuns und Statuen der Nofretete.",
+    "interesting_facts": [
+      {
+        "ru": "Богиня Нехбет почиталась с додинастических времён и была одной из древнейших божеств Египта. Её главный храм находился в городе Нехеб (современный Эль-Каб), одном из старейших поселений Египта. Город был настолько древним, что его стены датируются периодом Накада II (около 3500 г. до н.э.).",
+        "de": "Die Göttin Nechbet wurde seit vordynastischen Zeiten verehrt und war eine der ältesten Gottheiten Ägyptens. Ihr Haupttempel befand sich in der Stadt Necheb (heute El-Kab), einer der ältesten Siedlungen Ägyptens. Die Stadt war so alt, dass ihre Mauern auf die Naqada II-Periode (ca. 3500 v. Chr.) datiert werden."
+      },
+      {
+        "ru": "В царской титулатуре фараонов использовалось имя 'Небти' ('Две владычицы'), объединяющее Нехбет и Уаджет. Это было одно из пяти имён фараона и подчёркивало его власть над обеими землями. Например, 'небти'-имя Рамсеса II было 'Тот, кто защищает Египет и покоряет чужеземцев'.",
+        "de": "In der königlichen Titulatur der Pharaonen wurde der Name 'Nebti' ('Zwei Herrinnen') verwendet, der Nechbet und Wadjet vereinte. Dies war einer der fünf Namen des Pharaos und betonte seine Herrschaft über beide Länder. Zum Beispiel war der 'Nebti'-Name von Ramses II. 'Derjenige, der Ägypten schützt und Fremde unterwirft'."
+      },
+      {
+        "ru": "Коршун-гриф был выбран символом Верхнего Египта не случайно. Эти птицы гнездились на скалах вдоль Нила в Верхнем Египте и считались заботливыми родителями. Египтяне верили, что коршуны-самки могут размножаться без самцов (на самом деле самцы и самки выглядят почти одинаково), что делало их символом божественного материнства и непорочного зачатия.",
+        "de": "Der Geier wurde nicht zufällig als Symbol für Oberägypten gewählt. Diese Vögel nisteten in den Felsen entlang des Nils in Oberägypten und galten als fürsorgliche Eltern. Die Ägypter glaubten, dass Geierweibchen sich ohne Männchen fortpflanzen könnten (tatsächlich sehen Männchen und Weibchen fast identisch aus), was sie zu einem Symbol göttlicher Mutterschaft und unbefleckter Empfängnis machte."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "регалии",
+      "символы",
+      "головные уборы",
+      "богини"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Какая древнеегипетская царица правила как фараон?",
+    "question_de": "Welche altägyptische Königin regierte als Pharao?",
+    "answer": "Хатшепсут",
+    "answer_de": "Hatschepsut",
+    "wrong_answers": [
+      {
+        "ru": "Нефертити",
+        "de": "Nofretete"
+      },
+      {
+        "ru": "Клеопатра",
+        "de": "Kleopatra"
+      },
+      {
+        "ru": "Нефертари",
+        "de": "Nefertari"
+      }
+    ],
+    "explanation": "Хатшепсут (правила около 1479-1458 гг. до н.э.) была одной из немногих женщин-фараонов в истории Египта. Она была дочерью фараона Тутмоса I, женой Тутмоса II и мачехой Тутмоса III. После смерти мужа стала регентом при малолетнем пасынке, но через несколько лет объявила себя фараоном и правила как полноправный царь. Хатшепсут изображалась в мужском облике с накладной бородой и мужскими регалиями. Её правление было мирным и процветающим — она организовала торговую экспедицию в страну Пунт, построила величественный заупокойный храм в Дейр-эль-Бахри и восстановила множество памятников по всему Египту.",
+    "explanation_de": "Hatschepsut (regierte ca. 1479-1458 v. Chr.) war eine der wenigen weiblichen Pharaonen in der Geschichte Ägyptens. Sie war die Tochter von Pharao Thutmosis I., Ehefrau von Thutmosis II. und Stiefmutter von Thutmosis III. Nach dem Tod ihres Mannes wurde sie Regentin für ihren minderjährigen Stiefsohn, erklärte sich aber nach einigen Jahren zur Pharaonin und regierte als vollwertiger König. Hatschepsut wurde in männlicher Gestalt mit Zeremonialbart und männlichen Insignien dargestellt. Ihre Herrschaft war friedlich und wohlhabend - sie organisierte eine Handelsexpedition ins Land Punt, baute den prächtigen Totentempel in Deir el-Bahari und restaurierte zahlreiche Denkmäler in ganz Ägypten.",
+    "interesting_facts": [
+      {
+        "ru": "После смерти Хатшепсут её пасынок Тутмос III приказал стереть её имя и изображения с памятников. Картуши с её именем были высечены, статуи разбиты, а имя заменено именами её отца или мужа. Это было сделано не из мести, а через 20 лет после её смерти, вероятно, чтобы обеспечить законную преемственность мужской линии и стереть прецедент женщины-фараона.",
+        "de": "Nach Hatschepsuts Tod befahl ihr Stiefsohn Thutmosis III., ihren Namen und ihre Darstellungen von Denkmälern zu löschen. Kartuschen mit ihrem Namen wurden gemeißelt, Statuen zerbrochen und der Name durch die Namen ihres Vaters oder Mannes ersetzt. Dies geschah nicht aus Rache, sondern 20 Jahre nach ihrem Tod, wahrscheinlich um die rechtmäßige Nachfolge der männlichen Linie zu sichern und den Präzedenzfall einer weiblichen Pharaonin auszulöschen."
+      },
+      {
+        "ru": "Экспедиция Хатшепсут в Пунт (вероятно, современное Сомали или Эритрея) была одним из величайших достижений её правления. Экспедиция привезла золото, слоновую кость, эбеновое дерево, мирровые деревья, экзотических животных и благовония. Сцены экспедиции подробно изображены на стенах её заупокойного храма, включая изображение пунтийской царицы с признаками ожирения — редкий случай реалистичного портрета в египетском искусстве.",
+        "de": "Hatschepsuts Expedition nach Punt (wahrscheinlich das heutige Somalia oder Eritrea) war eine der größten Errungenschaften ihrer Herrschaft. Die Expedition brachte Gold, Elfenbein, Ebenholz, Myrrhe-Bäume, exotische Tiere und Weihrauch mit. Die Expeditionsszenen sind detailliert an den Wänden ihres Totentempels dargestellt, einschließlich der Darstellung der puntischen Königin mit Anzeichen von Adipositas - ein seltener Fall realistischer Porträtkunst in der ägyptischen Kunst."
+      },
+      {
+        "ru": "Мумия Хатшепсут была идентифицирована только в 2007 году с помощью ДНК-анализа. Она была найдена не в царской гробнице, а в скромной гробнице KV60, которая принадлежала её кормилице. Мумия показывает, что Хатшепсут страдала от диабета, артрита и умерла около 50 лет от рака костей или абсцесса зуба, осложнённого инфекцией.",
+        "de": "Hatschepsuts Mumie wurde erst 2007 mittels DNA-Analyse identifiziert. Sie wurde nicht in einem königlichen Grab gefunden, sondern in dem bescheidenen Grab KV60, das ihrer Amme gehörte. Die Mumie zeigt, dass Hatschepsut an Diabetes, Arthritis litt und mit etwa 50 Jahren an Knochenkrebs oder einem Zahnabszess mit Komplikation durch Infektion starb."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1479 BCE",
+    "tags": [
+      "фараоны",
+      "женщины-правители",
+      "Новое царство"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Как назывался древнеегипетский символ защиты?",
+    "question_de": "Wie hieß das altägyptische Symbol des Schutzes?",
+    "answer": "Уджат",
+    "answer_de": "Udjat",
+    "wrong_answers": [
+      {
+        "ru": "Анх",
+        "de": "Ankh"
+      },
+      {
+        "ru": "Джед",
+        "de": "Djed"
+      },
+      {
+        "ru": "Шен",
+        "de": "Schen"
+      }
+    ],
+    "explanation": "Уджат (также известный как 'Око Хора' или 'Глаз Гора') — один из самых узнаваемых древнеегипетских символов, представляющий глаз бога Хора с характерной разметкой под ним. Согласно мифу, бог Сет вырвал глаз Хора во время битвы за трон Египта. Глаз был исцелён богом Тотом и стал символом исцеления, защиты и целостности. Уджат использовался как мощный амулет, защищающий от злых сил, болезней и сглаза. Символ также имел математическое значение — различные части глаза представляли дроби, используемые для измерения зерна и других товаров.",
+    "explanation_de": "Udjat (auch bekannt als 'Horusauge' oder 'Auge des Horus') ist eines der bekanntesten altägyptischen Symbole, das das Auge des Gottes Horus mit charakteristischen Markierungen darunter darstellt. Der Mythologie zufolge riss der Gott Seth während des Kampfes um den ägyptischen Thron das Auge des Horus heraus. Das Auge wurde vom Gott Thoth geheilt und wurde zum Symbol für Heilung, Schutz und Vollständigkeit. Udjat wurde als mächtiges Amulett verwendet, das vor bösen Mächten, Krankheiten und dem bösen Blick schützt. Das Symbol hatte auch mathematische Bedeutung - verschiedene Teile des Auges repräsentierten Brüche, die zur Messung von Getreide und anderen Waren verwendet wurden.",
+    "interesting_facts": [
+      {
+        "ru": "Глаз Хора имел математическое применение в древнеегипетской системе мер. Каждая часть глаза представляла дробь: бровь = 1/8, зрачок = 1/4, белок = 1/2, спираль = 1/16, слёзная отметка = 1/64, вертикальная линия = 1/32. Все части вместе составляли 63/64, а недостающая 1/64 считалась магической частью, добавленной Тотом при исцелении глаза.",
+        "de": "Das Horusauge hatte eine mathematische Anwendung im altägyptischen Maßsystem. Jeder Teil des Auges repräsentierte einen Bruch: Augenbraue = 1/8, Pupille = 1/4, Weiß = 1/2, Spirale = 1/16, Tränenmarkierung = 1/64, vertikale Linie = 1/32. Alle Teile zusammen ergaben 63/64, und das fehlende 1/64 galt als magischer Teil, der von Thoth bei der Heilung des Auges hinzugefügt wurde."
+      },
+      {
+        "ru": "Существуют два вида 'глаза' в египетской символике: правый глаз Хора (уджат) представлял солнце и Ра, левый глаз представлял луну и был связан с Тотом. Правый глаз был более распространён как защитный амулет. Моряки рисовали уджат на носах кораблей, чтобы 'видеть' путь и избегать опасностей.",
+        "de": "Es gibt zwei Arten von 'Augen' in der ägyptischen Symbolik: Das rechte Auge des Horus (Udjat) repräsentierte die Sonne und Ra, das linke Auge repräsentierte den Mond und war mit Thoth verbunden. Das rechte Auge war als Schutzamulett verbreiteter. Seeleute malten Udjat auf Schiffsbuge, um den Weg zu 'sehen' und Gefahren zu vermeiden."
+      },
+      {
+        "ru": "Амулеты уджат часто изготавливались из фаянса (глазурованной керамики) синего или зелёного цвета, символизирующих воду и возрождение. Их носили живые для защиты и помещали в погребальные пеленания мумий. Особенно важным считалось положение уджата на область горла мумии, где он мог помочь умершему дышать и говорить в загробном мире.",
+        "de": "Udjat-Amulette wurden oft aus Fayence (glasierter Keramik) in Blau oder Grün hergestellt, die Wasser und Wiedergeburt symbolisierten. Sie wurden von Lebenden zum Schutz getragen und in die Mumienbandagen gelegt. Besonders wichtig galt die Platzierung des Udjat im Halsbereich der Mumie, wo es dem Verstorbenen helfen konnte, im Jenseits zu atmen und zu sprechen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "амулеты",
+      "мифология",
+      "Хор"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Какая древняя цивилизация создала город Умма?",
+    "question_de": "Welche antike Zivilisation erschuf die Stadt Umma?",
+    "answer": "Шумеры",
+    "answer_de": "Sumerer",
+    "wrong_answers": [
+      {
+        "ru": "Аккадцы",
+        "de": "Akkader"
+      },
+      {
+        "ru": "Вавилоняне",
+        "de": "Babylonier"
+      },
+      {
+        "ru": "Ассирийцы",
+        "de": "Assyrer"
+      }
+    ],
+    "explanation": "Умма была одним из важнейших городов-государств древнего Шумера, расположенным в южной Месопотамии (территория современного Ирака). Город процветал в период раннединастического Шумера (около 2900-2350 гг. до н.э.) и был крупным сельскохозяйственным и торговым центром. Умма известна своим длительным конфликтом с соседним городом Лагаш из-за контроля над плодородной пограничной областью Гу-эдин. Этот конфликт, продолжавшийся столетиями, документирован на многочисленных глиняных табличках и стелах, что делает его одним из первых детально зафиксированных международных конфликтов в истории.",
+    "explanation_de": "Umma war einer der wichtigsten Stadtstaaten des antiken Sumer, gelegen in Südmesopotamien (Gebiet des heutigen Irak). Die Stadt florierte in der frühdynastischen Periode Sumers (ca. 2900-2350 v. Chr.) und war ein bedeutendes landwirtschaftliches und Handelszentrum. Umma ist bekannt für seinen langwierigen Konflikt mit der Nachbarstadt Lagasch um die Kontrolle über das fruchtbare Grenzgebiet Gu-edin. Dieser jahrhundertelange Konflikt ist auf zahlreichen Tontafeln und Stelen dokumentiert, was ihn zu einem der ersten detailliert aufgezeichneten internationalen Konflikte der Geschichte macht.",
+    "interesting_facts": [
+      {
+        "ru": "Конфликт между Уммой и Лагашем был настолько значим, что даже боги были вовлечены в спор. Согласно надписям, бог Энлиль установил границу между городами, но правители Уммы неоднократно нарушали её. Царь Лагаша Эаннатум воздвиг знаменитую 'Стелу Коршунов' (около 2460 г. до н.э.), изображающую богов, помогающих ему наказать Умму за нарушение священной границы.",
+        "de": "Der Konflikt zwischen Umma und Lagasch war so bedeutend, dass sogar Götter in den Streit verwickelt waren. Laut Inschriften legte der Gott Enlil die Grenze zwischen den Städten fest, aber die Herrscher von Umma verletzten sie wiederholt. Der König von Lagasch, Eannatum, errichtete die berühmte 'Geierstele' (ca. 2460 v. Chr.), die Götter darstellt, die ihm halfen, Umma für die Verletzung der heiligen Grenze zu bestrafen."
+      },
+      {
+        "ru": "Умма была важным центром текстильного производства. Археологи обнаружили тысячи административных табличек, документирующих производство шерсти, ткачество и распределение готовой ткани. Город имел огромные мастерские, где работали сотни ткачей, многие из которых были женщинами. Эти таблички дают уникальное представление о экономике и организации труда в древнем Шумере.",
+        "de": "Umma war ein wichtiges Zentrum der Textilproduktion. Archäologen entdeckten Tausende von Verwaltungstafeln, die die Wollproduktion, Weberei und Verteilung fertiger Stoffe dokumentieren. Die Stadt hatte riesige Werkstätten, in denen Hunderte von Webern arbeiteten, viele davon Frauen. Diese Tafeln geben einzigartige Einblicke in die Wirtschaft und Arbeitsorganisation im antiken Sumer."
+      },
+      {
+        "ru": "После падения Третьей династии Ура (около 2004 г. до н.э.), когда Месопотамию захватили эламиты, Умма постепенно пришла в упадок. К старовавилонскому периоду город почти опустел. Сегодня на месте древней Уммы находится холм Телль-Джоха, который был частично разграблен в результате беспорядков после войны в Ираке 2003 года, что привело к утрате тысяч артефактов.",
+        "de": "Nach dem Fall der Dritten Dynastie von Ur (ca. 2004 v. Chr.), als Mesopotamien von den Elamitern erobert wurde, verfiel Umma allmählich. In der altbabylonischen Periode war die Stadt fast verlassen. Heute befindet sich an der Stelle des antiken Umma der Hügel Tell Jokha, der nach den Unruhen im Irak-Krieg 2003 teilweise geplündert wurde, was zum Verlust Tausender Artefakte führte."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "2900 BCE",
+    "tags": [
+      "города",
+      "Шумер",
+      "Месопотамия",
+      "города-государства"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Как назывался древнеегипетский символ вечности?",
+    "question_de": "Wie hieß das altägyptische Symbol der Ewigkeit?",
+    "answer": "Шен",
+    "answer_de": "Schen",
+    "wrong_answers": [
+      {
+        "ru": "Анх",
+        "de": "Ankh"
+      },
+      {
+        "ru": "Уджат",
+        "de": "Udjat"
+      },
+      {
+        "ru": "Джед",
+        "de": "Djed"
+      }
+    ],
+    "explanation": "Шен — древнеегипетский иероглиф в форме круга или овала из верёвки с завязанным узлом, символизирующий вечность, бесконечность и защиту. Название происходит от египетского слова 'шену', означающего 'окружать' или 'охватывать'. Круглая форма без начала и конца представляла вечный цикл времени и солнца. Шен часто изображался с вписанным в него царским именем (картуш — это удлинённая форма шена). Богини Нехбет и Уаджет часто держали шен в когтях над головой фараона, символизируя божественную защиту и вечность его правления.",
+    "explanation_de": "Schen war ein altägyptisches Hieroglyphensymbol in Form eines Kreises oder Ovals aus Seil mit gebundenem Knoten, das Ewigkeit, Unendlichkeit und Schutz symbolisierte. Der Name stammt vom ägyptischen Wort 'schenu', was 'umgeben' oder 'umfassen' bedeutet. Die runde Form ohne Anfang und Ende repräsentierte den ewigen Zyklus von Zeit und Sonne. Schen wurde oft mit dem königlichen Namen darin dargestellt (Kartusche ist eine verlängerte Form von Schen). Die Göttinnen Nechbet und Wadjet hielten oft Schen in ihren Krallen über dem Kopf des Pharaos und symbolisierten göttlichen Schutz und die Ewigkeit seiner Herrschaft.",
+    "interesting_facts": [
+      {
+        "ru": "Картуш — овальная рамка вокруг имени фараона — это просто удлинённый шен. Слово 'картуш' французское и означает 'патрон' (пулевая гильза), потому что солдаты Наполеона в Египте подумали, что овальная форма напоминает их патроны. Египтяне называли это 'шену'.",
+        "de": "Die Kartusche - der ovale Rahmen um den Namen des Pharaos - ist einfach ein verlängerter Schen. Das Wort 'Kartusche' ist französisch und bedeutet 'Patrone' (Patronenhülse), weil Napoleons Soldaten in Ägypten dachten, die ovale Form erinnere an ihre Patronen. Die Ägypter nannten dies 'Schenu'."
+      },
+      {
+        "ru": "Шен часто комбинировался с другими символами. Когда шен помещали на посох (уас), получался символ власти над вечностью. Когда к шену добавляли крылья, он становился символом божественной защиты. Крылатый шен часто изображался на потолках храмов и гробниц, символизируя небесную защиту.",
+        "de": "Schen wurde oft mit anderen Symbolen kombiniert. Wenn Schen auf einem Stab (Was) platziert wurde, entstand ein Symbol der Macht über die Ewigkeit. Wenn Flügel zu Schen hinzugefügt wurden, wurde es zum Symbol göttlichen Schutzes. Der geflügelte Schen wurde oft an Decken von Tempeln und Gräbern dargestellt und symbolisierte himmlischen Schutz."
+      },
+      {
+        "ru": "Интересно, что концепция бесконечности через замкнутую петлю существовала в египетской культуре за тысячелетия до математического символа ∞ (лемниската Бернулли, введённого в 1655 году). Египтяне интуитивно понимали, что замкнутая линия без начала и конца — идеальный символ вечности.",
+        "de": "Interessanterweise existierte das Konzept der Unendlichkeit durch eine geschlossene Schleife in der ägyptischen Kultur Jahrtausende vor dem mathematischen Symbol ∞ (Bernoulli-Lemniskate, eingeführt 1655). Die Ägypter verstanden intuitiv, dass eine geschlossene Linie ohne Anfang und Ende das perfekte Symbol der Ewigkeit war."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "вечность",
+      "иероглифы"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "В каком году произошла битва при Кадеше?",
+    "question_de": "In welchem Jahr fand die Schlacht von Kadesch statt?",
+    "answer": "1274 год до н.э.",
+    "answer_de": "1274 v. Chr.",
+    "wrong_answers": [
+      {
+        "ru": "1479 год до н.э.",
+        "de": "1479 v. Chr."
+      },
+      {
+        "ru": "1184 год до н.э.",
+        "de": "1184 v. Chr."
+      },
+      {
+        "ru": "1350 год до н.э.",
+        "de": "1350 v. Chr."
+      }
+    ],
+    "explanation": "Битва при Кадеше (1274 г. до н.э.) была одним из крупнейших сражений бронзового века между войсками египетского фараона Рамсеса II и хеттского царя Муваталли II. Битва произошла у города Кадеш на реке Оронт (современная Сирия). В сражении участвовало около 5000-6000 колесниц и десятки тысяч пехотинцев. Рамсес попал в засаду и был окружён, но смог вырваться благодаря подкреплению. Обе стороны объявили победу, но территориальный статус-кво сохранился. Позже Рамсес II и хеттский царь Хаттусили III заключили первый известный в истории мирный договор (около 1259 г. до н.э.), текст которого выставлен в ООН.",
+    "explanation_de": "Die Schlacht von Kadesch (1274 v. Chr.) war eine der größten Schlachten der Bronzezeit zwischen den Truppen des ägyptischen Pharaos Ramses II. und des hethitischen Königs Muwatalli II. Die Schlacht fand bei der Stadt Kadesch am Fluss Orontes (heutiges Syrien) statt. An der Schlacht nahmen etwa 5000-6000 Streitwagen und Zehntausende Fußsoldaten teil. Ramses geriet in einen Hinterhalt und wurde umzingelt, konnte sich aber dank Verstärkung befreien. Beide Seiten erklärten den Sieg, aber der territoriale Status quo blieb erhalten. Später schlossen Ramses II. und der hethitische König Hattusili III. den ersten bekannten Friedensvertrag der Geschichte (ca. 1259 v. Chr.), dessen Text in der UNO ausgestellt ist.",
+    "interesting_facts": [
+      {
+        "ru": "Битва при Кадеше — одно из наиболее детально задокументированных сражений древности. Рамсес II приказал изобразить битву на стенах по меньшей мере пяти храмов, включая Карнак, Луксор, Рамессеум и Абу-Симбел. Сохранилась даже поэма 'Пентаур', описывающая героизм фараона. Хеттские записи также сохранились, давая редкую возможность сравнить две версии одного события.",
+        "de": "Die Schlacht von Kadesch ist eine der am detailliertesten dokumentierten Schlachten der Antike. Ramses II. befahl, die Schlacht an den Wänden von mindestens fünf Tempeln darzustellen, darunter Karnak, Luxor, Ramesseum und Abu Simbel. Es ist sogar das Gedicht 'Pentaur' erhalten, das den Heroismus des Pharaos beschreibt. Auch hethitische Aufzeichnungen sind erhalten, was eine seltene Gelegenheit bietet, zwei Versionen desselben Ereignisses zu vergleichen."
+      },
+      {
+        "ru": "Мирный договор между Египтом и хеттами (около 1259 г. до н.э.) — первый известный письменный мирный договор в истории. Он был заключён на серебряных табличках на аккадском языке (дипломатическом языке того времени). Договор включал положения о ненападении, взаимной помощи против врагов, выдаче беглецов и даже содержал клятвы богов обеих сторон. Копия договора висит в здании ООН в Нью-Йорке.",
+        "de": "Der Friedensvertrag zwischen Ägypten und den Hethitern (ca. 1259 v. Chr.) ist der erste bekannte schriftliche Friedensvertrag der Geschichte. Er wurde auf Silbertafeln in akkadischer Sprache (Diplomatensprache der Zeit) geschlossen. Der Vertrag enthielt Bestimmungen über Nicht-Angriff, gegenseitige Hilfe gegen Feinde, Auslieferung von Flüchtlingen und enthielt sogar Schwüre der Götter beider Seiten. Eine Kopie des Vertrags hängt im UN-Gebäude in New York."
+      },
+      {
+        "ru": "Рамсес II использовал битву при Кадеше для масштабной пропаганды, хотя реально сражение закончилось ничьей. Он изображал себя как героя, в одиночку сражающегося против тысяч врагов. Однако хеттские источники рассказывают другую историю, утверждая, что египтяне были разбиты. Истина, вероятно, где-то посередине — тактическая победа хеттов, но стратегическая ничья, так как ни одна сторона не смогла захватить Кадеш.",
+        "de": "Ramses II. nutzte die Schlacht von Kadesch für massive Propaganda, obwohl die Schlacht tatsächlich unentschieden endete. Er stellte sich als Held dar, der allein gegen Tausende von Feinden kämpfte. Hethitische Quellen erzählen jedoch eine andere Geschichte und behaupten, die Ägypter seien besiegt worden. Die Wahrheit liegt wahrscheinlich irgendwo dazwischen - ein taktischer Sieg der Hethiter, aber ein strategisches Unentschieden, da keine Seite Kadesch erobern konnte."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "date",
+    "period": "1274 BCE",
+    "tags": [
+      "битвы",
+      "Рамсес II",
+      "хетты",
+      "военная история"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Как назывался древнеегипетский символ стабильности?",
+    "question_de": "Wie hieß das altägyptische Symbol der Stabilität?",
+    "answer": "Джед",
+    "answer_de": "Djed",
+    "wrong_answers": [
+      {
+        "ru": "Анх",
+        "de": "Ankh"
+      },
+      {
+        "ru": "Уас",
+        "de": "Was"
+      },
+      {
+        "ru": "Шен",
+        "de": "Schen"
+      }
+    ],
+    "explanation": "Джед — древнеегипетский символ в форме колонны с четырьмя горизонтальными перекладинами наверху, представляющий стабильность, постоянство и позвоночник бога Осириса. Согласно мифу, джед символизировал позвоночник Осириса после его убийства и расчленения Сетом. Символ имел глубокое религиозное значение и использовался в ритуале 'воздвижения джеда' во время праздника хеб-сед, где фараон физически поднимал столб джеда, символизируя обновление его силы и стабильность царства. Джед часто изображался с руками, держащими анх и уас, объединяя концепции жизни, власти и стабильности.",
+    "explanation_de": "Djed war ein altägyptisches Symbol in Form einer Säule mit vier horizontalen Querbalken oben, das Stabilität, Beständigkeit und die Wirbelsäule des Gottes Osiris repräsentierte. Der Mythologie zufolge symbolisierte Djed die Wirbelsäule des Osiris nach seiner Ermordung und Zerstückelung durch Seth. Das Symbol hatte tiefe religiöse Bedeutung und wurde im Ritual des 'Aufrichtens des Djed' während des Heb-Sed-Festes verwendet, wo der Pharao physisch die Djed-Säule aufrichtete und die Erneuerung seiner Kraft und die Stabilität des Königreichs symbolisierte. Djed wurde oft mit Armen dargestellt, die Ankh und Was hielten und die Konzepte von Leben, Macht und Stabilität vereinten.",
+    "interesting_facts": [
+      {
+        "ru": "Церемония 'воздвижения джеда' была одним из важнейших ритуалов царства. Фараон, его придворные и жрецы поднимали огромный столб джеда с помощью верёвок. Это символизировало воскрешение Осириса, обновление силы фараона и стабильность государства. Церемония проводилась во время праздника хеб-сед — юбилея правления, обычно на 30-м году царствования.",
+        "de": "Die Zeremonie des 'Aufrichtens des Djed' war eines der wichtigsten Rituale des Königreichs. Der Pharao, sein Hofstaat und Priester richteten mit Seilen eine riesige Djed-Säule auf. Dies symbolisierte die Auferstehung des Osiris, die Erneuerung der Kraft des Pharaos und die Stabilität des Staates. Die Zeremonie wurde während des Heb-Sed-Festes durchgeführt - dem Regierungsjubiläum, normalerweise im 30. Jahr der Herrschaft."
+      },
+      {
+        "ru": "Амулеты джеда делали из различных материалов: фаянса, золота, серебра, камня. Их помещали на спину или грудь мумии, чтобы дать умершему силу встать в загробной жизни. В 'Книге мёртвых' есть специальное заклинание (глава 155) для джед-амулета: 'Восстань, Осирис! У тебя есть твой позвоночник, о Нестабильный! У тебя есть кости твоей спины, о Нестабильный!'",
+        "de": "Djed-Amulette wurden aus verschiedenen Materialien hergestellt: Fayence, Gold, Silber, Stein. Sie wurden auf den Rücken oder die Brust der Mumie gelegt, um dem Verstorbenen Kraft zu geben, im Jenseits aufzustehen. Im 'Totenbuch' gibt es einen speziellen Zauberspruch (Kapitel 155) für das Djed-Amulett: 'Steh auf, Osiris! Du hast deine Wirbelsäule, oh Instabiler! Du hast die Knochen deines Rückens, oh Instabiler!'"
+      },
+      {
+        "ru": "Происхождение символа джеда остаётся загадкой. Теории включают: позвоночник Осириса, связка стеблей зерна (символ плодородия), ствол дерева с обрубленными ветвями (дерево, в котором было заключено тело Осириса), или даже стилизованное изображение Тата — древнего додинастического божества. Наиболее популярна теория позвоночника, но точное происхождение неизвестно.",
+        "de": "Der Ursprung des Djed-Symbols bleibt ein Rätsel. Theorien umfassen: die Wirbelsäule des Osiris, ein Bündel Getreidestängel (Symbol der Fruchtbarkeit), einen Baumstamm mit abgeschnittenen Ästen (Baum, in dem Osiris' Körper eingeschlossen war), oder sogar eine stilisierte Darstellung von Tat - einer alten vordynastischen Gottheit. Die Wirbelsäulen-Theorie ist am populärsten, aber der genaue Ursprung ist unbekannt."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "Осирис",
+      "стабильность",
+      "амулеты"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Какая древняя цивилизация создала город Эбла?",
+    "question_de": "Welche antike Zivilisation erschuf die Stadt Ebla?",
+    "answer": "Эблаиты",
+    "answer_de": "Eblaiter",
+    "wrong_answers": [
+      {
+        "ru": "Шумеры",
+        "de": "Sumerer"
+      },
+      {
+        "ru": "Аккадцы",
+        "de": "Akkader"
+      },
+      {
+        "ru": "Хетты",
+        "de": "Hethiter"
+      }
+    ],
+    "explanation": "Эбла была могущественным городом-государством в северной Сирии, процветавшим в период раннего бронзового века (около 3000-2300 гг. до н.э.). Город контролировал обширную торговую сеть, связывающую Месопотамию, Анатолию и Египет. В 1975 году в Эбле была обнаружена царская библиотека с более чем 17 000 глиняных табличек, написанных на эблаитском языке (семитский язык, родственный аккадскому). Таблички содержат административные записи, словари, литературные тексты и дипломатическую переписку. Эбла была разрушена около 2240 г. до н.э., вероятно, аккадским царём Нарам-Суэном.",
+    "explanation_de": "Ebla war ein mächtiger Stadtstaat in Nordsyrien, der in der frühen Bronzezeit (ca. 3000-2300 v. Chr.) florierte. Die Stadt kontrollierte ein ausgedehntes Handelsnetzwerk, das Mesopotamien, Anatolien und Ägypten verband. 1975 wurde in Ebla eine königliche Bibliothek mit über 17.000 Tontafeln entdeckt, die in der eblaitischen Sprache (eine semitische Sprache, verwandt mit Akkadisch) geschrieben waren. Die Tafeln enthalten Verwaltungsaufzeichnungen, Wörterbücher, literarische Texte und diplomatische Korrespondenz. Ebla wurde um 2240 v. Chr. zerstört, wahrscheinlich vom akkadischen König Naram-Sin.",
+    "interesting_facts": [
+      {
+        "ru": "Открытие библиотеки Эблы в 1975 году итальянским археологом Паоло Маттиэ стало одной из величайших археологических находок XX века. Таблички сохранились, потому что пожар, уничтоживший дворец, обжёг глину, сделав её более прочной. Эблаитский язык был неизвестен до этого открытия.",
+        "de": "Die Entdeckung der Bibliothek von Ebla 1975 durch den italienischen Archäologen Paolo Matthiae war eine der größten archäologischen Funde des 20. Jahrhunderts. Die Tafeln blieben erhalten, weil das Feuer, das den Palast zerstörte, den Ton brannte und ihn haltbarer machte. Die eblaitische Sprache war vor dieser Entdeckung unbekannt."
+      },
+      {
+        "ru": "Таблички Эблы содержат древнейшие известные двуязычные словари (эблаитско-шумерские), что помогло расшифровать эблаитский язык. Они также упоминают географические названия, включающие Иерусалим, Мегиддо и Газу, что делает их одними из древнейших внебиблейских упоминаний этих мест. Некоторые имена в табличках напоминают библейские имена, что вызвало дебаты среди учёных.",
+        "de": "Die Tafeln von Ebla enthalten die ältesten bekannten zweisprachigen Wörterbücher (Eblaitisch-Sumerisch), was bei der Entzifferung der eblaitischen Sprache half. Sie erwähnen auch geografische Namen wie Jerusalem, Megiddo und Gaza, was sie zu einigen der ältesten außerbiblischen Erwähnungen dieser Orte macht. Einige Namen in den Tafeln ähneln biblischen Namen, was Debatten unter Gelehrten auslöste."
+      },
+      {
+        "ru": "Эбла была богатым торговым центром с населением около 30 000-40 000 человек. Город торговал тканями, металлами, драгоценными камнями и древесиной. Царский дворец занимал площадь около 10 000 квадратных метров. В городе было развитое текстильное производство — некоторые таблички упоминают склады с 80 000 голов овец для производства шерсти.",
+        "de": "Ebla war ein wohlhabendes Handelszentrum mit etwa 30.000-40.000 Einwohnern. Die Stadt handelte mit Textilien, Metallen, Edelsteinen und Holz. Der königliche Palast umfasste etwa 10.000 Quadratmeter. Die Stadt hatte eine entwickelte Textilindustrie - einige Tafeln erwähnen Lager mit 80.000 Schafen für die Wollproduktion."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "города",
+      "Сирия",
+      "археология",
+      "таблички"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Как назывался древнеегипетский флаг на шесте?",
+    "question_de": "Wie hieß die altägyptische Standarte?",
+    "answer": "Имиут",
+    "answer_de": "Imiut",
+    "wrong_answers": [
+      {
+        "ru": "Уас",
+        "de": "Was"
+      },
+      {
+        "ru": "Нехакха",
+        "de": "Nekhakha"
+      },
+      {
+        "ru": "Секхем",
+        "de": "Sechem"
+      }
+    ],
+    "explanation": "Имиут — ритуальный символ в виде шкуры безголового животного (предположительно быка или леопарда), прикреплённой к шесту, который вставлялся в сосуд. Этот символ тесно ассоциировался с богом Анубисом и использовался в погребальных ритуалах. Имиут часто размещали у входа в гробницу или в погребальной камере. Символ олицетворял защиту умершего и его путь в загробный мир. Шкура могла символизировать власть фараона над дикой природой или жертвенное животное. Имиут изображался на стенах гробниц, включая гробницу Тутанхамона, где были найдены настоящие экземпляры этого символа.",
+    "explanation_de": "Imiut war ein rituelles Symbol in Form eines Fells eines kopflosen Tieres (vermutlich eines Stiers oder Leoparden), das an einem Stab befestigt war, der in ein Gefäß gesteckt wurde. Dieses Symbol war eng mit dem Gott Anubis verbunden und wurde in Bestattungsritualen verwendet. Imiut wurde oft am Eingang zum Grab oder in der Grabkammer platziert. Das Symbol verkörperte den Schutz des Verstorbenen und seinen Weg ins Jenseits. Das Fell könnte die Macht des Pharaos über die wilde Natur oder ein Opfertier symbolisieren. Imiut wurde an Grabwänden dargestellt, einschließlich des Grabes von Tutanchamun, wo echte Exemplare dieses Symbols gefunden wurden.",
+    "interesting_facts": [
+      {
+        "ru": "В гробнице Тутанхамона Говард Картер обнаружил два настоящих имиута, стоящих у входа во внутренние покои. Они были сделаны из деревянного шеста, обёрнутого золотой фольгой, с прикреплённой шкурой из ткани, пропитанной смолой. Эти имиуты датируются примерно 1323 годом до н.э. и сейчас находятся в Каирском музее.",
+        "de": "Im Grab Tutanchamuns entdeckte Howard Carter zwei echte Imiut, die am Eingang zu den inneren Gemächern standen. Sie waren aus einem Holzstab gefertigt, der mit Goldfolie umwickelt war, mit einem Fell aus Stoff, getränkt mit Harz. Diese Imiut stammen aus etwa 1323 v. Chr. und befinden sich jetzt im Ägyptischen Museum in Kairo."
+      },
+      {
+        "ru": "Точное значение имиута остаётся загадкой. Некоторые учёные считают, что это связано с мифом об Анубисе и его роли в мумификации Осириса. Другие предполагают, что это символ победы над хаосом (дикими животными) или жертвоприношения. Имиут всегда изображается без головы, что может символизировать смерть и трансформацию.",
+        "de": "Die genaue Bedeutung von Imiut bleibt ein Rätsel. Einige Gelehrte glauben, es sei mit dem Mythos von Anubis und seiner Rolle bei der Mumifizierung des Osiris verbunden. Andere vermuten, es sei ein Symbol des Sieges über das Chaos (wilde Tiere) oder ein Opfer. Imiut wird immer ohne Kopf dargestellt, was Tod und Transformation symbolisieren könnte."
+      },
+      {
+        "ru": "Имиут иногда называют 'фетиш Анубиса' в египтологической литературе. Слово 'имиут' буквально означает 'тот, кто в бинтах' или 'тот, кто в обёртках', что прямо указывает на связь с мумификацией. Символ мог представлять Анубиса как бога бальзамирования, защищающего вход в загробный мир.",
+        "de": "Imiut wird in der ägyptologischen Literatur manchmal als 'Anubis-Fetisch' bezeichnet. Das Wort 'Imiut' bedeutet wörtlich 'derjenige in Bandagen' oder 'derjenige in Umhüllungen', was direkt auf die Verbindung zur Mumifizierung hinweist. Das Symbol könnte Anubis als Gott der Einbalsamierung darstellen, der den Eingang zur Unterwelt schützt."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "Анубис",
+      "погребальные ритуалы"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Какой фараон построил Великую пирамиду?",
+    "question_de": "Welcher Pharao baute die Große Pyramide?",
+    "answer": "Хеопс",
+    "answer_de": "Cheops",
+    "wrong_answers": [
+      {
+        "ru": "Хефрен",
+        "de": "Chephren"
+      },
+      {
+        "ru": "Джосер",
+        "de": "Djoser"
+      },
+      {
+        "ru": "Снофру",
+        "de": "Snofru"
+      }
+    ],
+    "explanation": "Хеопс (Хуфу) был вторым фараоном IV династии Древнего царства, правившим около 2589-2566 гг. до н.э. Он построил Великую пирамиду в Гизе — крупнейшую из трёх пирамид и единственное сохранившееся из Семи чудес древнего мира. Пирамида первоначально достигала 146,5 метров в высоту и состояла из 2,3 миллиона каменных блоков весом в среднем 2,5 тонны каждый. Строительство заняло около 20 лет и потребовало труда десятков тысяч рабочих. Внутри пирамиды находятся три камеры: подземная камера, Камера царицы и Камера царя с саркофагом из красного гранита. Хеопс был сыном фараона Снофру и продолжил традицию строительства монументальных пирамид.",
+    "explanation_de": "Cheops (Khufu) war der zweite Pharao der IV. Dynastie des Alten Reiches, der um 2589-2566 v. Chr. regierte. Er baute die Große Pyramide von Gizeh - die größte der drei Pyramiden und das einzige erhaltene der Sieben Weltwunder der Antike. Die Pyramide erreichte ursprünglich 146,5 Meter Höhe und bestand aus 2,3 Millionen Steinblöcken mit einem Durchschnittsgewicht von jeweils 2,5 Tonnen. Der Bau dauerte etwa 20 Jahre und erforderte die Arbeit von Zehntausenden von Arbeitern. Im Inneren der Pyramide befinden sich drei Kammern: die unterirdische Kammer, die Königinnenkammer und die Königskammer mit einem Sarkophag aus rotem Granit. Cheops war der Sohn von Pharao Snofru und setzte die Tradition des Baus monumentaler Pyramiden fort.",
+    "interesting_facts": [
+      {
+        "ru": "Единственное сохранившееся изображение Хеопса — крошечная статуэтка из слоновой кости высотой 7,5 см, найденная в Абидосе. Для фараона, построившего величайшее сооружение древности, сохранилось удивительно мало изображений. Это контрастирует с тысячами статуй более поздних фараонов, таких как Рамсес II.",
+        "de": "Die einzige erhaltene Darstellung von Cheops ist eine winzige Elfenbeinstatuette mit einer Höhe von 7,5 cm, die in Abydos gefunden wurde. Für einen Pharao, der das größte Bauwerk der Antike errichtete, sind erstaunlich wenige Darstellungen erhalten. Dies steht im Kontrast zu Tausenden von Statuen späterer Pharaonen wie Ramses II."
+      },
+      {
+        "ru": "Геродот, посетивший Египет в V веке до н.э. (2000 лет после Хеопса), писал, что пирамиду строили 100 000 человек в течение 20 лет, работая трёхмесячными сменами. Современные археологи считают, что число было меньше — около 20 000-30 000 постоянных рабочих плюс сезонные работники во время разлива Нила. Рабочие получали зарплату, пиво и хлеб — это не были рабы.",
+        "de": "Herodot, der Ägypten im 5. Jahrhundert v. Chr. besuchte (2000 Jahre nach Cheops), schrieb, dass 100.000 Menschen die Pyramide in 20 Jahren bauten und in dreimonatigen Schichten arbeiteten. Moderne Archäologen glauben, die Zahl war geringer - etwa 20.000-30.000 ständige Arbeiter plus saisonale Arbeiter während der Nilüberschwemmung. Die Arbeiter erhielten Lohn, Bier und Brot - es waren keine Sklaven."
+      },
+      {
+        "ru": "Пирамида Хеопса была самым высоким сооружением в мире 3800 лет — до постройки Линкольнского собора в Англии (160 м) в 1311 году. Она была облицована 144 000 полированными плитами белого известняка, которые сверкали на солнце. Большинство облицовки было снято в Средние века для строительства Каира. Точность постройки поразительна: основание почти идеально квадратное с погрешностью всего 58 мм на сторону длиной 230 метров.",
+        "de": "Die Cheops-Pyramide war 3800 Jahre lang das höchste Bauwerk der Welt - bis zum Bau der Lincoln-Kathedrale in England (160 m) im Jahr 1311. Sie war mit 144.000 polierten Platten aus weißem Kalkstein verkleidet, die in der Sonne glänzten. Die meisten Verkleidungen wurden im Mittelalter für den Bau Kairos entfernt. Die Baugenauigkeit ist erstaunlich: Die Basis ist fast perfekt quadratisch mit einer Abweichung von nur 58 mm auf einer Seite von 230 Metern Länge."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2560 BCE",
+    "tags": [
+      "фараоны",
+      "пирамиды",
+      "Хеопс",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Сколько лет строилась пирамида Хеопса?",
+    "question_de": "Wie viele Jahre wurde die Cheops-Pyramide gebaut?",
+    "answer": "Около 20 лет",
+    "answer_de": "Etwa 20 Jahre",
+    "wrong_answers": [
+      {
+        "ru": "10 лет",
+        "de": "10 Jahre"
+      },
+      {
+        "ru": "30 лет",
+        "de": "30 Jahre"
+      },
+      {
+        "ru": "50 лет",
+        "de": "50 Jahre"
+      }
+    ],
+    "explanation": "Строительство Великой пирамиды Хеопса заняло примерно 20 лет, согласно оценкам современных археологов и древним источникам. Геродот упоминал этот срок в своих записях. Для постройки пирамиды высотой 146 метров из 2,3 миллиона каменных блоков требовалось укладывать в среднем по одному блоку каждые 2-3 минуты в течение 20 лет, работая круглосуточно. Работы велись особенно интенсивно во время разлива Нила (июль-ноябрь), когда крестьяне были свободны от полевых работ. Рабочие жили в специально построенных поселениях рядом с пирамидой, получали регулярное питание и медицинскую помощь.",
+    "explanation_de": "Der Bau der Großen Cheops-Pyramide dauerte etwa 20 Jahre, laut Schätzungen moderner Archäologen und antiker Quellen. Herodot erwähnte diese Zeitspanne in seinen Aufzeichnungen. Für den Bau einer 146 Meter hohen Pyramide aus 2,3 Millionen Steinblöcken musste im Durchschnitt alle 2-3 Minuten ein Block verlegt werden, über 20 Jahre hinweg rund um die Uhr arbeitend. Die Arbeiten wurden besonders intensiv während der Nilüberschwemmung (Juli-November) durchgeführt, wenn Bauern von Feldarbeiten frei waren. Die Arbeiter lebten in speziell gebauten Siedlungen neben der Pyramide, erhielten regelmäßige Verpflegung und medizinische Versorgung.",
+    "interesting_facts": [
+      {
+        "ru": "Археолог Марк Ленер обнаружил остатки рабочего посёлка возле пирамид, где жили строители. Найдены пекарни, пивоварни, медные инструменты и даже кладбище рабочих. Анализ костей показал, что рабочие получали качественное питание, включая мясо, что было роскошью для простых египтян. Это подтверждает, что строители были квалифицированными оплачиваемыми работниками, а не рабами.",
+        "de": "Der Archäologe Mark Lehner entdeckte die Überreste einer Arbeitersiedlung in der Nähe der Pyramiden, wo die Bauherren lebten. Es wurden Bäckereien, Brauereien, Kupferwerkzeuge und sogar ein Arbeiterfriedhof gefunden. Die Knochenanalyse zeigte, dass die Arbeiter hochwertige Nahrung erhielten, einschließlich Fleisch, was für gewöhnliche Ägypter ein Luxus war. Dies bestätigt, dass die Bauherren qualifizierte bezahlte Arbeiter waren, keine Sklaven."
+      },
+      {
+        "ru": "Камень для пирамиды добывали на плато Гиза, а белый облицовочный известняк везли на лодках из Туры (южный берег Нила, в 13 км от Гизы). Гранит для внутренних камер доставляли из Асуана, находящегося в 800 км вверх по Нилу. Транспортировка этих огромных гранитных блоков весом до 80 тонн была выдающимся инженерным достижением.",
+        "de": "Der Stein für die Pyramide wurde auf dem Gizeh-Plateau abgebaut, und weißer Verkleidungskalkstein wurde mit Booten aus Tura (Südufer des Nils, 13 km von Gizeh) transportiert. Granit für die Innenkammern wurde aus Assuan geliefert, 800 km nilaufwärts. Der Transport dieser riesigen Granitblöcke mit einem Gewicht von bis zu 80 Tonnen war eine herausragende ingenieurtechnische Leistung."
+      },
+      {
+        "ru": "Египтологи спорят о методах строительства. Основная теория предполагает использование прямых или спиральных пандусов из кирпича и щебня. Недавние исследования с помощью микрогравиметрии обнаружили возможную внутреннюю спиральную рампу внутри пирамиды. Также использовались деревянные сани, смазанные водой, рычаги и возможно, примитивные краны. Блоки могли обрабатываться медными инструментами с кварцевым песком как абразивом.",
+        "de": "Ägyptologen streiten über Baumethoden. Die Haupttheorie geht von geraden oder spiralförmigen Rampen aus Ziegeln und Schutt aus. Neuere Untersuchungen mittels Mikrogravimetrie entdeckten eine mögliche innere Spiralrampe innerhalb der Pyramide. Es wurden auch Holzschlitten verwendet, die mit Wasser geschmiert wurden, Hebel und möglicherweise primitive Kräne. Blöcke konnten mit Kupferwerkzeugen mit Quarzsand als Schleifmittel bearbeitet werden."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2560 BCE",
+    "tags": [
+      "пирамиды",
+      "строительство",
+      "время"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Какой бог был супругом Исиды?",
+    "question_de": "Welcher Gott war der Gemahl der Isis?",
+    "answer": "Осирис",
+    "answer_de": "Osiris",
+    "wrong_answers": [
+      {
+        "ru": "Ра",
+        "de": "Ra"
+      },
+      {
+        "ru": "Гор",
+        "de": "Horus"
+      },
+      {
+        "ru": "Анубис",
+        "de": "Anubis"
+      }
+    ],
+    "explanation": "Осирис был супругом богини Исиды и одним из важнейших богов египетского пантеона, богом загробного мира, возрождения и плодородия. Миф об Осирисе и Исиде — центральный в египетской мифологии. Осирис был убит и расчленён своим завистливым братом Сетом. Исида собрала части тела Осириса по всему Египту и с помощью магии временно воскресила его, чтобы зачать сына Хора. После этого Осирис стал правителем Дуата (загробного мира). Хор вырос и отомстил Сету, отвоевав трон Египта. Осирис изображался как мумифицированный царь с зелёной или чёрной кожей (цвет возрождения и плодородной почвы), держащий скипетр и цеп.",
+    "explanation_de": "Osiris war der Gemahl der Göttin Isis und einer der wichtigsten Götter des ägyptischen Pantheons, Gott der Unterwelt, der Wiedergeburt und der Fruchtbarkeit. Der Mythos von Osiris und Isis ist zentral in der ägyptischen Mythologie. Osiris wurde von seinem neidischen Bruder Seth getötet und zerstückelt. Isis sammelte die Körperteile des Osiris in ganz Ägypten und erweckte ihn mit Hilfe von Magie vorübergehend zum Leben, um ihren Sohn Horus zu empfangen. Danach wurde Osiris Herrscher der Duat (Unterwelt). Horus wuchs auf und rächte Seth, gewann den Thron Ägyptens zurück. Osiris wurde als mumifizierter König mit grüner oder schwarzer Haut (Farbe der Wiedergeburt und des fruchtbaren Bodens) dargestellt, der Zepter und Dreschflegel hielt.",
+    "interesting_facts": [
+      {
+        "ru": "Миф об Осирисе имеет параллели с аграрными циклами. Его смерть символизировала засуху и увядание растительности, воскрешение — разлив Нила и рост урожая. Каждый год египтяне проводили 'Мистерии Осириса' — ритуальные представления, воспроизводящие его смерть и воскрешение. Во время праздника изготавливали 'сады Осириса' — глиняные формы с зерном, которые прорастали, символизируя возрождение.",
+        "de": "Der Osiris-Mythos hat Parallelen zu Agrarzyklen. Sein Tod symbolisierte Dürre und welkende Vegetation, die Auferstehung - die Nilüberschwemmung und Erntewachstum. Jedes Jahr führten die Ägypter die 'Mysterien des Osiris' durch - rituelle Aufführungen, die seinen Tod und seine Auferstehung nachstellten. Während des Festes wurden 'Gärten des Osiris' hergestellt - Tonformen mit Getreide, das keimte und Wiedergeburt symbolisierte."
+      },
+      {
+        "ru": "Город Абидос был главным культовым центром Осириса, где, как верили египтяне, была похоронена его голова. Абидос стал важнейшим местом паломничества — каждый египтянин мечтал быть похороненным там или хотя бы совершить паломничество. Тысячи стел с именами паломников установлены в Абидосе. Фараоны строили там кенотафы (ложные гробницы), чтобы быть 'похороненными' рядом с Осирисом.",
+        "de": "Die Stadt Abydos war das Hauptkultzentrum des Osiris, wo die Ägypter glaubten, sein Kopf sei begraben. Abydos wurde der wichtigste Pilgerort - jeder Ägypter träumte davon, dort begraben zu werden oder zumindest eine Pilgerreise zu machen. Tausende Stelen mit Namen von Pilgern sind in Abydos aufgestellt. Pharaonen bauten dort Kenotaphe (Scheingräber), um 'neben' Osiris 'begraben' zu werden."
+      },
+      {
+        "ru": "Культ Осириса оказал влияние на другие религии. Некоторые учёные видят параллели между Осирисом (умирающий и воскресающий бог) и более поздними религиозными концепциями, включая христианство. Греки отождествляли Осириса со своим богом Дионисом. В эллинистический период культ Осириса-Сераписа распространился по всему Средиземноморью, достигнув Рима и Греции.",
+        "de": "Der Osiris-Kult beeinflusste andere Religionen. Einige Gelehrte sehen Parallelen zwischen Osiris (sterbender und auferstehender Gott) und späteren religiösen Konzepten, einschließlich des Christentums. Die Griechen identifizierten Osiris mit ihrem Gott Dionysos. In der hellenistischen Zeit verbreitete sich der Osiris-Serapis-Kult im gesamten Mittelmeerraum und erreichte Rom und Griechenland."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "Осирис",
+      "Исида",
+      "мифология"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Как называлась египетская богиня-кошка?",
+    "question_de": "Wie hieß die ägyptische Katzengöttin?",
+    "answer": "Бастет",
+    "answer_de": "Bastet",
+    "wrong_answers": [
+      {
+        "ru": "Сехмет",
+        "de": "Sachmet"
+      },
+      {
+        "ru": "Хатхор",
+        "de": "Hathor"
+      },
+      {
+        "ru": "Нут",
+        "de": "Nut"
+      }
+    ],
+    "explanation": "Бастет (также Баст) — древнеегипетская богиня, изображавшаяся как женщина с головой кошки или полностью в виде кошки. Она была богиней дома, плодородия, радости, танца, музыки и защитницей беременных женщин и детей. Первоначально Бастет изображалась как львица и была более грозной богиней войны, но к Новому царству её образ смягчился до домашней кошки. Главный культовый центр Бастет находился в городе Бубастис (Пер-Баст) в дельте Нила. Кошки считались священными животными Бастет, и убийство кошки каралось смертью. Тысячи мумифицированных кошек были погребены в Бубастисе как подношения богине.",
+    "explanation_de": "Bastet (auch Bast) war eine altägyptische Göttin, die als Frau mit Katzenkopf oder vollständig als Katze dargestellt wurde. Sie war die Göttin des Hauses, der Fruchtbarkeit, Freude, des Tanzes, der Musik und Beschützerin schwangerer Frauen und Kinder. Ursprünglich wurde Bastet als Löwin dargestellt und war eine furchterregendere Kriegsgöttin, aber im Neuen Reich milderte sich ihr Bild zur Hauskatze. Das Hauptkultzentrum der Bastet befand sich in der Stadt Bubastis (Per-Bast) im Nildelta. Katzen galten als heilige Tiere der Bastet, und das Töten einer Katze wurde mit dem Tod bestraft. Tausende mumifizierte Katzen wurden in Bubastis als Opfergaben für die Göttin begraben.",
+    "interesting_facts": [
+      {
+        "ru": "Геродот описал ежегодный праздник Бастет в Бубастисе как один из величайших праздников Египта. По его словам, на празднике собиралось до 700 000 паломников. Празднование включало музыку, танцы, распитие вина и ритуальные процессии с статуей богини на священной барке по каналам города. Это было одно из самых радостных и шумных празднеств в Египте.",
+        "de": "Herodot beschrieb das jährliche Bastet-Fest in Bubastis als eines der größten Feste Ägyptens. Seinen Worten zufolge versammelten sich bis zu 700.000 Pilger beim Fest. Die Feierlichkeiten umfassten Musik, Tanz, Weintrinken und rituelle Prozessionen mit der Götterstatue auf einer heiligen Barke durch die Kanäle der Stadt. Dies war eines der freudigsten und lautesten Feste in Ägypten."
+      },
+      {
+        "ru": "В 1888 году египетский крестьянин обнаружил огромное кладбище мумифицированных кошек в Бубастисе — около 80 000 мумий. К сожалению, большинство было продано как удобрение в Англию (19 тонн кошачьих мумий!). Лишь небольшая часть попала в музеи. Это одна из величайших археологических трагедий, поскольку были утрачены бесценные научные данные о древнеегипетских кошках и практиках мумификации животных.",
+        "de": "1888 entdeckte ein ägyptischer Bauer einen riesigen Friedhof mumifizierter Katzen in Bubastis - etwa 80.000 Mumien. Leider wurden die meisten als Dünger nach England verkauft (19 Tonnen Katzenmumien!). Nur ein kleiner Teil gelangte in Museen. Dies ist eine der größten archäologischen Tragödien, da unschätzbare wissenschaftliche Daten über altägyptische Katzen und Tiermumifizierungspraktiken verloren gingen."
+      },
+      {
+        "ru": "Когда в доме умирала кошка, все члены семьи сбривали брови в знак траура. Кошку мумифицировали и хоронили с почестями. Убийство кошки, даже случайное, каралось смертью. Геродот рассказывает, что когда в горящем доме находилась кошка, египтяне сначала спасали кошку, а потом тушили пожар. Это показывает, насколько кошки были священны в египетском обществе.",
+        "de": "Wenn eine Katze im Haus starb, rasierten sich alle Familienmitglieder als Zeichen der Trauer die Augenbrauen. Die Katze wurde mumifiziert und mit Ehren begraben. Das Töten einer Katze, selbst versehentlich, wurde mit dem Tod bestraft. Herodot erzählt, dass wenn sich eine Katze in einem brennenden Haus befand, die Ägypter zuerst die Katze retteten und dann das Feuer löschten. Dies zeigt, wie heilig Katzen in der ägyptischen Gesellschaft waren."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "Бастет",
+      "кошки",
+      "животные"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Какой город был столицей Древнего царства?",
+    "question_de": "Welche Stadt war die Hauptstadt des Alten Reiches?",
+    "answer": "Мемфис",
+    "answer_de": "Memphis",
+    "wrong_answers": [
+      {
+        "ru": "Фивы",
+        "de": "Theben"
+      },
+      {
+        "ru": "Александрия",
+        "de": "Alexandria"
+      },
+      {
+        "ru": "Гелиополь",
+        "de": "Heliopolis"
+      }
+    ],
+    "explanation": "Мемфис (египетское название Инебу-хедж — 'Белые стены', позже Мен-нефер — 'Прочная красота') был столицей Египта во время Древнего царства (около 2686-2181 гг. до н.э.) и оставался важным административным и культурным центром на протяжении всей истории Древнего Египта. Город был основан первым фараоном объединённого Египта Нармером (Менесом) около 3100 г. до н.э. на границе между Верхним и Нижним Египтом, примерно в 20 км к югу от современного Каира. Мемфис был крупнейшим городом древнего мира до возвышения Александрии. Город был центром поклонения богу Птаху, покровителю ремесленников и творцов.",
+    "explanation_de": "Memphis (ägyptischer Name Ineb-hedj - 'Weiße Mauern', später Men-nefer - 'Beständige Schönheit') war die Hauptstadt Ägyptens während des Alten Reiches (ca. 2686-2181 v. Chr.) und blieb ein wichtiges Verwaltungs- und Kulturzentrum während der gesamten Geschichte des Alten Ägyptens. Die Stadt wurde vom ersten Pharao des vereinigten Ägyptens, Narmer (Menes), um 3100 v. Chr. an der Grenze zwischen Ober- und Unterägypten gegründet, etwa 20 km südlich des heutigen Kairo. Memphis war die größte Stadt der antiken Welt bis zum Aufstieg Alexandrias. Die Stadt war das Zentrum der Verehrung des Gottes Ptah, Schutzpatron der Handwerker und Schöpfer.",
+    "interesting_facts": [
+      {
+        "ru": "Стратегическое расположение Мемфиса на границе Верхнего и Нижнего Египта делало его идеальной столицей. Город контролировал торговые пути и служил символом единства двух земель. Даже когда политическая столица переместилась в Фивы во время Среднего и Нового царств, Мемфис оставался важнейшим городом, и фараонов всё ещё короновали там.",
+        "de": "Die strategische Lage von Memphis an der Grenze zwischen Ober- und Unterägypten machte es zur idealen Hauptstadt. Die Stadt kontrollierte Handelsrouten und diente als Symbol der Einheit beider Länder. Selbst als die politische Hauptstadt während des Mittleren und Neuen Reiches nach Theben verlegt wurde, blieb Memphis die wichtigste Stadt, und Pharaonen wurden dort noch gekrönt."
+      },
+      {
+        "ru": "В Мемфисе находился великий храм Птаха, одно из величайших святилищ Египта. Птах был богом-творцом, создавшим мир словом и мыслью. В храме работали тысячи жрецов, ремесленников и художников. К сожалению, от древнего Мемфиса сохранилось очень мало — город был разобран для строительства средневекового Каира. Сегодня на месте Мемфиса находится музей под открытым небом с колоссальной статуей Рамсеса II и алебастровым Сфинксом.",
+        "de": "In Memphis befand sich der große Ptah-Tempel, eines der größten Heiligtümer Ägyptens. Ptah war der Schöpfergott, der die Welt durch Wort und Gedanken erschuf. Im Tempel arbeiteten Tausende von Priestern, Handwerkern und Künstlern. Leider ist vom antiken Memphis sehr wenig erhalten - die Stadt wurde für den Bau des mittelalterlichen Kairo abgebaut. Heute befindet sich an der Stelle von Memphis ein Freilichtmuseum mit einer kolossalen Statue von Ramses II. und einer Alabaster-Sphinx."
+      },
+      {
+        "ru": "Некрополь Мемфиса включает знаменитое плато Гиза с тремя Великими пирамидами, Сфинксом, пирамиды в Саккаре (включая Ступенчатую пирамиду Джосера — первую каменную пирамиду), Дашуре (с Ломаной и Красной пирамидами Снофру) и Абусире. Эта область содержит больше пирамид, чем любое другое место в Египте, отражая важность Мемфиса как столицы во время эпохи строительства пирамид.",
+        "de": "Die Nekropole von Memphis umfasst das berühmte Gizeh-Plateau mit drei Großen Pyramiden, der Sphinx, Pyramiden in Saqqara (einschließlich der Stufenpyramide von Djoser - der ersten Steinpyramide), Dahschur (mit der Knick- und Roten Pyramide von Snofru) und Abusir. Dieses Gebiet enthält mehr Pyramiden als jeder andere Ort in Ägypten und spiegelt die Bedeutung von Memphis als Hauptstadt während der Pyramidenbauzeit wider."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "geography",
+    "period": "3100 BCE",
+    "tags": [
+      "столицы",
+      "Мемфис",
+      "города",
+      "Древнее царство"
+    ]
+  }
+]

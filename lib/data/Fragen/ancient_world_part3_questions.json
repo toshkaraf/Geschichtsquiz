@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 401,
+    "question": "В каком году была основана Римская республика?",
+    "answer": "509 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "509 BCE",
+    "tags": [
+      "республика",
+      "основание"
+    ]
+  },
+  {
+    "id": 402,
+    "question": "Кто был легендарным основателем Рима?",
+    "answer": "Ромул",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "753 BCE",
+    "tags": [
+      "легенды",
+      "основатели"
+    ]
+  },
+  {
+    "id": 403,
+    "question": "В каком году был основан Рим?",
+    "answer": "753 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "753 BCE",
+    "tags": [
+      "основание",
+      "даты"
+    ]
+  },
+  {
+    "id": 404,
+    "question": "Кто был первым императором?",
+    "answer": "Октавиан Август",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "27 BCE",
+    "tags": [
+      "императоры",
+      "правители"
+    ]
+  },
+  {
+    "id": 405,
+    "question": "В каком году Юлий Цезарь был убит?",
+    "answer": "44 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "44 BCE",
+    "tags": [
+      "убийства",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 406,
+    "question": "Какой город был разрушен извержением Везувия?",
+    "answer": "Помпеи",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "79 CE",
+    "tags": [
+      "катастрофы",
+      "города"
+    ]
+  },
+  {
+    "id": 407,
+    "question": "В каком году извергся Везувий?",
+    "answer": "79 год н.э.",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "79 CE",
+    "tags": [
+      "катастрофы",
+      "вулканы"
+    ]
+  },
+  {
+    "id": 408,
+    "question": "Кто был богом войны?",
+    "answer": "Марс",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "война"
+    ]
+  },
+  {
+    "id": 409,
+    "question": "Какой автор написал 'Энеиду'?",
+    "answer": "Вергилий",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "литература",
+      "эпос"
+    ]
+  },
+  {
+    "id": 410,
+    "question": "Как называлась древнеримская дорога в Италии?",
+    "answer": "Аппиева дорога",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "312 BCE",
+    "tags": [
+      "дороги",
+      "инфраструктура"
+    ]
+  },
+  {
+    "id": 411,
+    "question": "Как называлось народное собрание?",
+    "answer": "Комиции",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "509 BCE",
+    "tags": [
+      "политика",
+      "институты"
+    ]
+  },
+  {
+    "id": 412,
+    "question": "Кто был богом моря?",
+    "answer": "Нептун",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "море"
+    ]
+  },
+  {
+    "id": 413,
+    "question": "В каком году пала Западная Римская империя?",
+    "answer": "476 год н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "476 CE",
+    "tags": [
+      "падение",
+      "конец"
+    ]
+  },
+  {
+    "id": 414,
+    "question": "Кто был богом торговли?",
+    "answer": "Меркурий",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "торговля"
+    ]
+  },
+  {
+    "id": 415,
+    "question": "Какой император разделил империю?",
+    "answer": "Диоклетиан",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "285 CE",
+    "tags": [
+      "императоры",
+      "реформы"
+    ]
+  },
+  {
+    "id": 416,
+    "question": "Как называлась римская баня?",
+    "answer": "Термы",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "быт",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 417,
+    "question": "Кто был богом огня?",
+    "answer": "Вулкан",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "ремёсла"
+    ]
+  },
+  {
+    "id": 418,
+    "question": "В каком году Константинополь стал столицей?",
+    "answer": "330 год н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "330 CE",
+    "tags": [
+      "столицы",
+      "города"
+    ]
+  },
+  {
+    "id": 419,
+    "question": "Какой император построил колонну?",
+    "answer": "Траян",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "113 CE",
+    "tags": [
+      "памятники",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 420,
+    "question": "Как называлась римская одежда?",
+    "answer": "Тога",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "8th century BCE",
+    "tags": [
+      "одежда",
+      "традиции"
+    ]
+  },
+  {
+    "id": 421,
+    "question": "Кто был богиной любви?",
+    "answer": "Венера",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "любовь"
+    ]
+  },
+  {
+    "id": 422,
+    "question": "В каком году произошла битва при Каннах?",
+    "answer": "216 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "216 BCE",
+    "tags": [
+      "битвы",
+      "Ганнибал"
+    ]
+  },
+  {
+    "id": 423,
+    "question": "Кто был карфагенским полководцем?",
+    "answer": "Ганнибал",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "218 BCE",
+    "tags": [
+      "полководцы",
+      "враги"
+    ]
+  },
+  {
+    "id": 424,
+    "question": "Как называлась римская система водоснабжения?",
+    "answer": "Акведук",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "312 BCE",
+    "tags": [
+      "инженерия",
+      "вода"
+    ]
+  },
+  {
+    "id": 425,
+    "question": "Кто был богиней домашнего очага?",
+    "answer": "Веста",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "дом"
+    ]
+  },
+  {
+    "id": 426,
+    "question": "В каком году был построен Колизей?",
+    "answer": "80 год н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "80 CE",
+    "tags": [
+      "архитектура",
+      "амфитеатры"
+    ]
+  },
+  {
+    "id": 427,
+    "question": "Какой император построил стену в Британии?",
+    "answer": "Адриан",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "122 CE",
+    "tags": [
+      "укрепления",
+      "Британия"
+    ]
+  },
+  {
+    "id": 428,
+    "question": "Как назывался римский короткий меч?",
+    "answer": "Гладиус",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "оружие",
+      "армия"
+    ]
+  },
+  {
+    "id": 429,
+    "question": "Кто был богом виноделия?",
+    "answer": "Бахус",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "вино"
+    ]
+  },
+  {
+    "id": 430,
+    "question": "В каком году произошла битва при Заме?",
+    "answer": "202 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "202 BCE",
+    "tags": [
+      "битвы",
+      "победы"
+    ]
+  },
+  {
+    "id": 431,
+    "question": "Кто победил Ганнибала?",
+    "answer": "Сципион Африканский",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "202 BCE",
+    "tags": [
+      "полководцы",
+      "победители"
+    ]
+  },
+  {
+    "id": 432,
+    "question": "Как называлось римское копьё?",
+    "answer": "Пилум",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "4th century BCE",
+    "tags": [
+      "оружие",
+      "армия"
+    ]
+  },
+  {
+    "id": 433,
+    "question": "Кто был богиней мудрости?",
+    "answer": "Минерва",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "мудрость"
+    ]
+  },
+  {
+    "id": 434,
+    "question": "В каком году Юлий Цезарь пересёк Рубикон?",
+    "answer": "49 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "49 BCE",
+    "tags": [
+      "гражданская война",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 435,
+    "question": "Как назывался римский щит?",
+    "answer": "Скутум",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "оружие",
+      "защита"
+    ]
+  },
+  {
+    "id": 436,
+    "question": "Кто была матерью Ромула?",
+    "answer": "Рея Сильвия",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "753 BCE",
+    "tags": [
+      "легенды",
+      "семья"
+    ]
+  },
+  {
+    "id": 437,
+    "question": "В каком году произошла битва при Акциуме?",
+    "answer": "31 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "31 BCE",
+    "tags": [
+      "битвы",
+      "Октавиан"
+    ]
+  },
+  {
+    "id": 438,
+    "question": "Какой оратор был казнён Марком Антонием?",
+    "answer": "Цицерон",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "43 BCE",
+    "tags": [
+      "ораторы",
+      "смерть"
+    ]
+  },
+  {
+    "id": 439,
+    "question": "Как называлась римская осадная машина?",
+    "answer": "Баллиста",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "оружие",
+      "осады"
+    ]
+  },
+  {
+    "id": 440,
+    "question": "Кто был богом дверей?",
+    "answer": "Янус",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "переходы"
+    ]
+  },
+  {
+    "id": 441,
+    "question": "В каком году начался восстание Спартака?",
+    "answer": "73 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "73 BCE",
+    "tags": [
+      "восстания",
+      "рабы"
+    ]
+  },
+  {
+    "id": 442,
+    "question": "Кто был последним царём Рима?",
+    "answer": "Тарквиний Гордый",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "509 BCE",
+    "tags": [
+      "цари",
+      "республика"
+    ]
+  },
+  {
+    "id": 443,
+    "question": "Как называлась римская военная черепаха?",
+    "answer": "Тестудо",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "тактика",
+      "армия"
+    ]
+  },
+  {
+    "id": 444,
+    "question": "Кто был богом солнца?",
+    "answer": "Соль",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "солнце"
+    ]
+  },
+  {
+    "id": 445,
+    "question": "В каком году был издан эдикт о веротерпимости?",
+    "answer": "313 год н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "313 CE",
+    "tags": [
+      "христианство",
+      "религия"
+    ]
+  },
+  {
+    "id": 446,
+    "question": "Какой император издал эдикт о христианах?",
+    "answer": "Константин I",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "313 CE",
+    "tags": [
+      "императоры",
+      "религия"
+    ]
+  },
+  {
+    "id": 447,
+    "question": "Как называлась римская монета из золота?",
+    "answer": "Ауреус",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "деньги",
+      "монеты"
+    ]
+  },
+  {
+    "id": 448,
+    "question": "Кто была богиней охоты?",
+    "answer": "Диана",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 449,
+    "question": "В каком году был разрушен Карфаген?",
+    "answer": "146 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "146 BCE",
+    "tags": [
+      "войны",
+      "разрушения"
+    ]
+  },
+  {
+    "id": 450,
+    "question": "Как называлась римская монета из серебра?",
+    "answer": "Денарий",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "211 BCE",
+    "tags": [
+      "деньги",
+      "монеты"
+    ]
+  },
+  {
+    "id": 451,
+    "question": "Кто был богом границ?",
+    "answer": "Термин",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "земля"
+    ]
+  },
+  {
+    "id": 452,
+    "question": "В каком году разрушен Иерусалим?",
+    "answer": "70 год н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "70 CE",
+    "tags": [
+      "войны",
+      "Иудея"
+    ]
+  },
+  {
+    "id": 453,
+    "question": "Какой историк написал 'Анналы'?",
+    "answer": "Тацит",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "история"
+    ]
+  },
+  {
+    "id": 454,
+    "question": "Как называлась римская крепость?",
+    "answer": "Кастра",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "военное дело",
+      "укрепления"
+    ]
+  },
+  {
+    "id": 455,
+    "question": "Кто был богом сна?",
+    "answer": "Сомн",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "сон"
+    ]
+  },
+  {
+    "id": 456,
+    "question": "В каком году Нерон стал императором?",
+    "answer": "54 год н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "54 CE",
+    "tags": [
+      "императоры",
+      "правление"
+    ]
+  },
+  {
+    "id": 457,
+    "question": "Какой биограф написал о 12 цезарях?",
+    "answer": "Светоний",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "литература",
+      "биографии"
+    ]
+  },
+  {
+    "id": 458,
+    "question": "Как называлась римская укреплённая граница?",
+    "answer": "Лимес",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century CE",
+    "tags": [
+      "границы",
+      "оборона"
+    ]
+  },
+  {
+    "id": 459,
+    "question": "Кто была богиня верности?",
+    "answer": "Фидес",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "добродетели"
+    ]
+  },
+  {
+    "id": 460,
+    "question": "В каком году произошла битва при Филиппах?",
+    "answer": "42 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "42 BCE",
+    "tags": [
+      "битвы",
+      "гражданская война"
+    ]
+  },
+  {
+    "id": 461,
+    "question": "Какой философ был советником Нерона?",
+    "answer": "Сенека",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "философы",
+      "императоры"
+    ]
+  },
+  {
+    "id": 462,
+    "question": "Как называлась римская система отопления?",
+    "answer": "Гипокауст",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "технологии",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 463,
+    "question": "Кто была богиня надежды?",
+    "answer": "Спес",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "чувства"
+    ]
+  },
+  {
+    "id": 464,
+    "question": "В каком году император Калигула был убит?",
+    "answer": "41 год н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "41 CE",
+    "tags": [
+      "императоры",
+      "убийства"
+    ]
+  },
+  {
+    "id": 465,
+    "question": "Какой историк написал 'Историю'?",
+    "answer": "Тит Ливий",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "литература",
+      "история"
+    ]
+  },
+  {
+    "id": 466,
+    "question": "Как называлась римская триррема?",
+    "answer": "Трирема",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "флот",
+      "корабли"
+    ]
+  },
+  {
+    "id": 467,
+    "question": "Кто был богом леса?",
+    "answer": "Сильван",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 468,
+    "question": "В каком году издан эдикт Каракаллы о гражданстве?",
+    "answer": "212 год н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "212 CE",
+    "tags": [
+      "законы",
+      "гражданство"
+    ]
+  },
+  {
+    "id": 469,
+    "question": "Какой поэт написал 'Метаморфозы'?",
+    "answer": "Овидий",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "поэзия"
+    ]
+  },
+  {
+    "id": 470,
+    "question": "Как называлась римская галера?",
+    "answer": "Либурна",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "флот",
+      "корабли"
+    ]
+  },
+  {
+    "id": 471,
+    "question": "Кто была богиня плодородия?",
+    "answer": "Церера",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "земледелие"
+    ]
+  },
+  {
+    "id": 472,
+    "question": "В каком году началась Первая Пуническая война?",
+    "answer": "264 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "264 BCE",
+    "tags": [
+      "войны",
+      "Карфаген"
+    ]
+  },
+  {
+    "id": 473,
+    "question": "Какой медик написал труды по анатомии?",
+    "answer": "Гален",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "медицина",
+      "наука"
+    ]
+  },
+  {
+    "id": 474,
+    "question": "Как назывался римский таран?",
+    "answer": "Ариес",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "оружие",
+      "осады"
+    ]
+  },
+  {
+    "id": 475,
+    "question": "Кто был богом урожая?",
+    "answer": "Сатурн",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "земледелие"
+    ]
+  },
+  {
+    "id": 476,
+    "question": "В каком году началась Вторая Пуническая война?",
+    "answer": "218 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "218 BCE",
+    "tags": [
+      "войны",
+      "Ганнибал"
+    ]
+  },
+  {
+    "id": 477,
+    "question": "Какой философ написал 'О природе вещей'?",
+    "answer": "Лукреций",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "философия",
+      "поэзия"
+    ]
+  },
+  {
+    "id": 478,
+    "question": "Как называлась римская когорта?",
+    "answer": "Подразделение легиона",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "армия",
+      "организация"
+    ]
+  },
+  {
+    "id": 479,
+    "question": "Кто был богом полей?",
+    "answer": "Фавн",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 480,
+    "question": "В каком году была битва при Треббии?",
+    "answer": "218 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "218 BCE",
+    "tags": [
+      "битвы",
+      "Ганнибал"
+    ]
+  },
+  {
+    "id": 481,
+    "question": "Какой астроном создал геоцентрическую систему?",
+    "answer": "Птолемей",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "астрономия",
+      "теории"
+    ]
+  },
+  {
+    "id": 482,
+    "question": "Как называлась римская катапульта?",
+    "answer": "Онагр",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century CE",
+    "tags": [
+      "оружие",
+      "осады"
+    ]
+  },
+  {
+    "id": 483,
+    "question": "Кто была богиня луны?",
+    "answer": "Луна",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "небо"
+    ]
+  },
+  {
+    "id": 484,
+    "question": "В каком году произошла битва при Тразименском озере?",
+    "answer": "217 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "217 BCE",
+    "tags": [
+      "битвы",
+      "Ганнибал"
+    ]
+  },
+  {
+    "id": 485,
+    "question": "Какой архитектор написал об архитектуре?",
+    "answer": "Витрувий",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "архитектура",
+      "литература"
+    ]
+  },
+  {
+    "id": 486,
+    "question": "Как назывались римские гладиаторы?",
+    "answer": "Гладиаторы",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "развлечения",
+      "бои"
+    ]
+  },
+  {
+    "id": 487,
+    "question": "Кто был богом садов?",
+    "answer": "Вертумн",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 488,
+    "question": "В каком году была осада Алезии?",
+    "answer": "52 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "52 BCE",
+    "tags": [
+      "осады",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 489,
+    "question": "Какой поэт написал 'Оды'?",
+    "answer": "Гораций",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "литература",
+      "поэзия"
+    ]
+  },
+  {
+    "id": 490,
+    "question": "Как называлась римская повозка?",
+    "answer": "Карпентум",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "транспорт",
+      "повозки"
+    ]
+  },
+  {
+    "id": 491,
+    "question": "Кто была богиня цветов?",
+    "answer": "Флора",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 492,
+    "question": "В каком году была битва при Фарсале?",
+    "answer": "48 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "48 BCE",
+    "tags": [
+      "битвы",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 493,
+    "question": "Какой писатель создал 'Сатирикон'?",
+    "answer": "Петроний",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "сатира"
+    ]
+  },
+  {
+    "id": 494,
+    "question": "Как называлась римская монета из бронзы?",
+    "answer": "Асс",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "деньги",
+      "монеты"
+    ]
+  },
+  {
+    "id": 495,
+    "question": "Кто была богиня зари?",
+    "answer": "Аврора",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "утро"
+    ]
+  },
+  {
+    "id": 496,
+    "question": "В каком году состоялась битва при Мунде?",
+    "answer": "45 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "45 BCE",
+    "tags": [
+      "битвы",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 497,
+    "question": "Какой поэт написал 'Фасты'?",
+    "answer": "Овидий",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "календарь"
+    ]
+  },
+  {
+    "id": 498,
+    "question": "Как называлась римская квинкверема?",
+    "answer": "Пятирядный корабль",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "флот",
+      "корабли"
+    ]
+  },
+  {
+    "id": 499,
+    "question": "Кто был богом источников?",
+    "answer": "Фонс",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "вода"
+    ]
+  },
+  {
+    "id": 500,
+    "question": "В каком году Цезарь завоевал Галлию?",
+    "answer": "58-50 годы до н.э.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "58 BCE",
+    "tags": [
+      "завоевания",
+      "Галлия"
+    ]
+  },
+  {
+    "id": 501,
+    "question": "Какой ритор написал наставления?",
+    "answer": "Квинтилиан",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "риторика",
+      "образование"
+    ]
+  },
+  {
+    "id": 502,
+    "question": "Как назывался римский легион?",
+    "answer": "Основное войсковое подразделение",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "армия",
+      "организация"
+    ]
+  },
+  {
+    "id": 503,
+    "question": "Кто был богом деревьев?",
+    "answer": "Сильванус",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "леса"
+    ]
+  },
+  {
+    "id": 504,
+    "question": "Сколько солдат в римском легионе?",
+    "answer": "Около 5000",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "армия",
+      "количество"
+    ]
+  },
+  {
+    "id": 505,
+    "question": "Какой естествоиспытатель погиб при Везувии?",
+    "answer": "Плиний Старший",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "79 CE",
+    "tags": [
+      "учёные",
+      "катастрофы"
+    ]
+  },
+  {
+    "id": 506,
+    "question": "Как называлась римская центурия?",
+    "answer": "Подразделение когорты",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "армия",
+      "организация"
+    ]
+  },
+  {
+    "id": 507,
+    "question": "Кто была богиня здоровья?",
+    "answer": "Салюс",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "медицина"
+    ]
+  },
+  {
+    "id": 508,
+    "question": "Сколько солдат в центурии?",
+    "answer": "80-100 человек",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "армия",
+      "количество"
+    ]
+  },
+  {
+    "id": 509,
+    "question": "Какой философ был императором?",
+    "answer": "Марк Аврелий",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "философы",
+      "императоры"
+    ]
+  },
+  {
+    "id": 510,
+    "question": "Как назывался командир центурии?",
+    "answer": "Центурион",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "армия",
+      "должности"
+    ]
+  },
+  {
+    "id": 511,
+    "question": "Кто была богиня свободы?",
+    "answer": "Либертас",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "добродетели"
+    ]
+  },
+  {
+    "id": 512,
+    "question": "Какой знак отличия был у центуриона?",
+    "answer": "Виноградная лоза",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "армия",
+      "символы"
+    ]
+  },
+  {
+    "id": 513,
+    "question": "Какой писатель создал 'Золотого осла'?",
+    "answer": "Апулей",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "литература",
+      "романы"
+    ]
+  },
+  {
+    "id": 514,
+    "question": "Как называлась римская знамя?",
+    "answer": "Аквила (орёл)",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "армия",
+      "символы"
+    ]
+  },
+  {
+    "id": 515,
+    "question": "Кто была богиня счастья?",
+    "answer": "Фелицитас",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "удача"
+    ]
+  },
+  {
+    "id": 516,
+    "question": "Что означал орёл для легиона?",
+    "answer": "Священный символ чести",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "армия",
+      "символы"
+    ]
+  },
+  {
+    "id": 517,
+    "question": "Какой географ создал 'Географию'?",
+    "answer": "Страбон",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "география",
+      "литература"
+    ]
+  },
+  {
+    "id": 518,
+    "question": "Как назывался римский лагерь?",
+    "answer": "Кастра",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "армия",
+      "укрепления"
+    ]
+  },
+  {
+    "id": 519,
+    "question": "Кто была богиня благочестия?",
+    "answer": "Пиетас",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "добродетели"
+    ]
+  },
+  {
+    "id": 520,
+    "question": "Какую форму имел римский лагерь?",
+    "answer": "Прямоугольную или квадратную",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "армия",
+      "планировка"
+    ]
+  },
+  {
+    "id": 521,
+    "question": "Какой драматург написал 'Федра'?",
+    "answer": "Сенека",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "трагедии"
+    ]
+  },
+  {
+    "id": 522,
+    "question": "Как называлась главная улица лагеря?",
+    "answer": "Via principalis",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "армия",
+      "планировка"
+    ]
+  },
+  {
+    "id": 523,
+    "question": "Кто была богиня храбрости?",
+    "answer": "Виртус",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "добродетели"
+    ]
+  },
+  {
+    "id": 524,
+    "question": "Где располагалась палатка командира?",
+    "answer": "В центре лагеря",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "армия",
+      "планировка"
+    ]
+  },
+  {
+    "id": 525,
+    "question": "Какой энциклопедист написал 'Искусства'?",
+    "answer": "Варрон",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "литература",
+      "энциклопедии"
+    ]
+  },
+  {
+    "id": 526,
+    "question": "Как называлась римская стража?",
+    "answer": "Vigiles",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "армия",
+      "охрана"
+    ]
+  },
+  {
+    "id": 527,
+    "question": "Кто была богиня благоразумия?",
+    "answer": "Пруденция",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "мудрость"
+    ]
+  },
+  {
+    "id": 528,
+    "question": "Сколько часов длилась стража?",
+    "answer": "4 часа",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "армия",
+      "распорядок"
+    ]
+  },
+  {
+    "id": 529,
+    "question": "Какой поэт написал 'Фиваиду'?",
+    "answer": "Стаций",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "эпос"
+    ]
+  },
+  {
+    "id": 530,
+    "question": "Как называлась римская дорога?",
+    "answer": "Via",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "инфраструктура",
+      "дороги"
+    ]
+  },
+  {
+    "id": 531,
+    "question": "Кто была богиня целомудрия?",
+    "answer": "Пудиция",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "добродетели"
+    ]
+  },
+  {
+    "id": 532,
+    "question": "Из чего строили римские дороги?",
+    "answer": "Камень, гравий, бетон",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "инженерия",
+      "материалы"
+    ]
+  },
+  {
+    "id": 533,
+    "question": "Какой агроном написал о сельском хозяйстве?",
+    "answer": "Колумелла",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "агрономия",
+      "литература"
+    ]
+  },
+  {
+    "id": 534,
+    "question": "Какова была ширина римских дорог?",
+    "answer": "4-6 метров",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "дороги",
+      "размеры"
+    ]
+  },
+  {
+    "id": 535,
+    "question": "Кто был богом жатвы?",
+    "answer": "Консус",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "урожай"
+    ]
+  },
+  {
+    "id": 536,
+    "question": "Сколько километров дорог построили римляне?",
+    "answer": "Более 80 000 км",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "инфраструктура",
+      "масштабы"
+    ]
+  },
+  {
+    "id": 537,
+    "question": "Какой сатирик написал сатиры?",
+    "answer": "Ювенал",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "сатира"
+    ]
+  },
+  {
+    "id": 538,
+    "question": "Как назывались дорожные станции?",
+    "answer": "Mansio",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "инфраструктура",
+      "станции"
+    ]
+  },
+  {
+    "id": 539,
+    "question": "Кто был богом посевов?",
+    "answer": "Сатурн",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "земледелие"
+    ]
+  },
+  {
+    "id": 540,
+    "question": "Через какие расстояния ставили станции?",
+    "answer": "Каждые 25-30 км",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "дороги",
+      "расстояния"
+    ]
+  },
+  {
+    "id": 541,
+    "question": "Какой философ написал 'Размышления'?",
+    "answer": "Марк Аврелий",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "философия",
+      "литература"
+    ]
+  },
+  {
+    "id": 542,
+    "question": "Как назывались мильные столбы?",
+    "answer": "Milliarium",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "дороги",
+      "указатели"
+    ]
+  },
+  {
+    "id": 543,
+    "question": "Кто был богом пастухов?",
+    "answer": "Палес",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "скот"
+    ]
+  },
+  {
+    "id": 544,
+    "question": "Что указывали на мильных столбах?",
+    "answer": "Расстояние до Рима",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "дороги",
+      "информация"
+    ]
+  },
+  {
+    "id": 545,
+    "question": "Какой грамматик написал 'Аттические ночи'?",
+    "answer": "Авл Геллий",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "литература",
+      "эрудиция"
+    ]
+  },
+  {
+    "id": 546,
+    "question": "Какая была римская миля?",
+    "answer": "1000 двойных шагов (около 1,5 км)",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "измерения",
+      "расстояния"
+    ]
+  },
+  {
+    "id": 547,
+    "question": "Кто был богом виноградников?",
+    "answer": "Либер Патер",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "виноград"
+    ]
+  },
+  {
+    "id": 548,
+    "question": "Как называлась римская почта?",
+    "answer": "Cursus publicus",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "коммуникации",
+      "почта"
+    ]
+  },
+  {
+    "id": 549,
+    "question": "Какой комедиограф написал 'Братья'?",
+    "answer": "Теренций",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century BCE",
+    "tags": [
+      "литература",
+      "комедии"
+    ]
+  },
+  {
+    "id": 550,
+    "question": "Кто мог пользоваться государственной почтой?",
+    "answer": "Только чиновники и военные",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "почта",
+      "доступ"
+    ]
+  },
+  {
+    "id": 551,
+    "question": "Кто был богом ночи?",
+    "answer": "Нокс",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "тьма"
+    ]
+  },
+  {
+    "id": 552,
+    "question": "Как быстро доставлялась почта?",
+    "answer": "До 80 км в день",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "почта",
+      "скорость"
+    ]
+  },
+  {
+    "id": 553,
+    "question": "Какой драматург написал комедии?",
+    "answer": "Плавт",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "литература",
+      "театр"
+    ]
+  },
+  {
+    "id": 554,
+    "question": "Какой налог платили провинции?",
+    "answer": "Tributum",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "налоги",
+      "экономика"
+    ]
+  },
+  {
+    "id": 555,
+    "question": "Кто был богом дня?",
+    "answer": "Диес",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "свет"
+    ]
+  },
+  {
+    "id": 556,
+    "question": "Сколько процентов составлял налог?",
+    "answer": "Обычно 10%",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "налоги",
+      "проценты"
+    ]
+  },
+  {
+    "id": 557,
+    "question": "Какой географ работал в Александрии?",
+    "answer": "Птолемей",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "география",
+      "учёные"
+    ]
+  },
+  {
+    "id": 558,
+    "question": "Как назывались сборщики налогов?",
+    "answer": "Publicani",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "2nd century BCE",
+    "tags": [
+      "налоги",
+      "должности"
+    ]
+  },
+  {
+    "id": 559,
+    "question": "Кто был богом смерти?",
+    "answer": "Плутон",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "загробный мир"
+    ]
+  },
+  {
+    "id": 560,
+    "question": "Какой основной продукт экспортировал Рим?",
+    "answer": "Вино и оливковое масло",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "торговля",
+      "экспорт"
+    ]
+  },
+  {
+    "id": 561,
+    "question": "Какой писатель создал 'Естественную историю'?",
+    "answer": "Плиний Старший",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "наука"
+    ]
+  },
+  {
+    "id": 562,
+    "question": "Какой основной импорт получал Рим?",
+    "answer": "Зерно из Египта и Африки",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "торговля",
+      "импорт"
+    ]
+  },
+  {
+    "id": 563,
+    "question": "Какой порт был главным в Риме?",
+    "answer": "Остия",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "geography",
+    "period": "1st century BCE",
+    "tags": [
+      "порты",
+      "торговля"
+    ]
+  },
+  {
+    "id": 564,
+    "question": "Сколько зерна потреблял Рим ежегодно?",
+    "answer": "Около 300 000 тонн",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "экономика",
+      "потребление"
+    ]
+  },
+  {
+    "id": 565,
+    "question": "Как называлась бесплатная раздача зерна?",
+    "answer": "Annona",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "социальная политика",
+      "зерно"
+    ]
+  },
+  {
+    "id": 566,
+    "question": "Сколько человек получали бесплатное зерно?",
+    "answer": "До 200 000",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "социальная политика",
+      "количество"
+    ]
+  },
+  {
+    "id": 567,
+    "question": "Как называлась римская биржа?",
+    "answer": "Forum boarium",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "торговля",
+      "места"
+    ]
+  },
+  {
+    "id": 568,
+    "question": "Какая валюта была в Риме?",
+    "answer": "Сестерций, денарий, ауреус",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "деньги",
+      "валюта"
+    ]
+  },
+  {
+    "id": 569,
+    "question": "Сколько сестерциев в денарии?",
+    "answer": "Четыре",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "деньги",
+      "курс"
+    ]
+  },
+  {
+    "id": 570,
+    "question": "Сколько денариев в ауреусе?",
+    "answer": "Двадцать пять",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "деньги",
+      "курс"
+    ]
+  },
+  {
+    "id": 571,
+    "question": "Кто мог быть римским гражданином?",
+    "answer": "Свободные мужчины, рождённые в Риме",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "гражданство",
+      "право"
+    ]
+  },
+  {
+    "id": 572,
+    "question": "Какие права имел римский гражданин?",
+    "answer": "Голосование, торговля, брак",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "права",
+      "гражданство"
+    ]
+  },
+  {
+    "id": 573,
+    "question": "Как называлась римская семья?",
+    "answer": "Familia",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "8th century BCE",
+    "tags": [
+      "общество",
+      "семья"
+    ]
+  },
+  {
+    "id": 574,
+    "question": "Кто был главой семьи?",
+    "answer": "Paterfamilias (отец семейства)",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "8th century BCE",
+    "tags": [
+      "семья",
+      "власть"
+    ]
+  },
+  {
+    "id": 575,
+    "question": "Какую власть имел отец семейства?",
+    "answer": "Абсолютную над всеми членами",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "семья",
+      "право"
+    ]
+  },
+  {
+    "id": 576,
+    "question": "С какого возраста мужчина считался взрослым?",
+    "answer": "С 14-17 лет",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "возраст",
+      "право"
+    ]
+  },
+  {
+    "id": 577,
+    "question": "Как называлась церемония совершеннолетия?",
+    "answer": "Toga virilis",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "церемонии",
+      "возраст"
+    ]
+  },
+  {
+    "id": 578,
+    "question": "Какую тогу надевал юноша?",
+    "answer": "Белую тогу взрослого",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "одежда",
+      "церемонии"
+    ]
+  },
+  {
+    "id": 579,
+    "question": "С какого возраста девушка могла выйти замуж?",
+    "answer": "С 12 лет",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "брак",
+      "возраст"
+    ]
+  },
+  {
+    "id": 580,
+    "question": "С какого возраста юноша мог жениться?",
+    "answer": "С 14 лет",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "брак",
+      "возраст"
+    ]
+  },
+  {
+    "id": 581,
+    "question": "Как называлась римская свадьба?",
+    "answer": "Nuptiae",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "брак",
+      "церемонии"
+    ]
+  },
+  {
+    "id": 582,
+    "question": "Какого цвета было свадебное покрывало?",
+    "answer": "Оранжевое (flammeum)",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "свадьбы",
+      "одежда"
+    ]
+  },
+  {
+    "id": 583,
+    "question": "Как называлось римское имя из трёх частей?",
+    "answer": "Tria nomina",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "имена",
+      "традиции"
+    ]
+  },
+  {
+    "id": 584,
+    "question": "Из чего состояло римское имя?",
+    "answer": "Praenomen, nomen, cognomen",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "имена",
+      "структура"
+    ]
+  },
+  {
+    "id": 585,
+    "question": "Сколько преноменов было в ходу?",
+    "answer": "Около 18",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "имена",
+      "количество"
+    ]
+  },
+  {
+    "id": 586,
+    "question": "Что означал номен?",
+    "answer": "Родовое имя",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "имена",
+      "значение"
+    ]
+  },
+  {
+    "id": 587,
+    "question": "Что означал когномен?",
+    "answer": "Прозвище семейной ветви",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "имена",
+      "значение"
+    ]
+  },
+  {
+    "id": 588,
+    "question": "Какое образование получали римляне?",
+    "answer": "Домашнее, затем школьное",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "система"
+    ]
+  },
+  {
+    "id": 589,
+    "question": "С какого возраста начиналось обучение?",
+    "answer": "С 7 лет",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "возраст"
+    ]
+  },
+  {
+    "id": 590,
+    "question": "Чему учили в начальной школе?",
+    "answer": "Чтению, письму, счёту",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "предметы"
+    ]
+  },
+  {
+    "id": 591,
+    "question": "Как называлась начальная школа?",
+    "answer": "Ludus",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "школы"
+    ]
+  },
+  {
+    "id": 592,
+    "question": "Кто преподавал в начальной школе?",
+    "answer": "Litterator",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "учителя"
+    ]
+  },
+  {
+    "id": 593,
+    "question": "Чему учили в средней школе?",
+    "answer": "Грамматике, греческому, литературе",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "предметы"
+    ]
+  },
+  {
+    "id": 594,
+    "question": "Кто преподавал грамматику?",
+    "answer": "Grammaticus",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "учителя"
+    ]
+  },
+  {
+    "id": 595,
+    "question": "Чему учили в высшей школе?",
+    "answer": "Риторике и философии",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "предметы"
+    ]
+  },
+  {
+    "id": 596,
+    "question": "Кто преподавал риторику?",
+    "answer": "Rhetor",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "учителя"
+    ]
+  },
+  {
+    "id": 597,
+    "question": "Могли ли девочки учиться?",
+    "answer": "Да, но реже и меньше",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "женщины"
+    ]
+  },
+  {
+    "id": 598,
+    "question": "На чём писали римские школьники?",
+    "answer": "На восковых табличках",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "материалы"
+    ]
+  },
+  {
+    "id": 599,
+    "question": "Чем писали на табличках?",
+    "answer": "Стилусом (острая палочка)",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "образование",
+      "инструменты"
+    ]
+  },
+  {
+    "id": 600,
+    "question": "Как называлась римская библиотека?",
+    "answer": "Bibliotheca",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "культура",
+      "библиотеки"
+    ]
+  }
+]

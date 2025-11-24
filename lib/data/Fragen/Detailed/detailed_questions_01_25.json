@@ -1,0 +1,1047 @@
+[
+  {
+    "id": 1,
+    "question_ru": "Кто был первым фараоном объединённого Египта?",
+    "question_de": "Wer war der erste Pharao des vereinigten Ägyptens?",
+    "correct_answer_ru": "Нармер (Менес)",
+    "correct_answer_de": "Narmer (Menes)",
+    "wrong_answers_ru": [
+      "Хеопс",
+      "Рамсес II",
+      "Тутанхамон"
+    ],
+    "wrong_answers_de": [
+      "Cheops",
+      "Ramses II.",
+      "Tutanchamun"
+    ],
+    "explanation_ru": "Нармер (также известный как Менес) был первым фараоном, объединившим Верхний и Нижний Египет около 3100 года до н.э. Это событие ознаменовало начало Раннединастического периода и создание первого централизованного государства в истории человечества.",
+    "explanation_de": "Narmer (auch bekannt als Menes) war der erste Pharao, der Ober- und Unterägypten um 3100 v. Chr. vereinigte. Dieses Ereignis markierte den Beginn der Frühdynastischen Periode und die Gründung des ersten zentralisierten Staates in der Geschichte der Menschheit.",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE",
+    "tags": [
+      "фараоны",
+      "объединение"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Палетка Нармера, найденная в Иераконполе в 1898 году, является одним из древнейших исторических документов. На одной стороне царь изображён в белой короне Верхнего Египта, на другой — в красной короне Нижнего Египта, что символизирует объединение двух земель.",
+        "de": "Die Narmer-Palette, die 1898 in Hierakonpolis gefunden wurde, ist eines der ältesten historischen Dokumente. Auf einer Seite ist der König mit der weißen Krone von Oberägypten dargestellt, auf der anderen mit der roten Krone von Unterägypten, was die Vereinigung der beiden Länder symbolisiert."
+      },
+      {
+        "ru": "Существует дискуссия среди египтологов: являются ли Нармер и Менес одним и тем же человеком или двумя разными правителями. Античные источники называют Менеса основателем Египта, но археологические находки больше указывают на Нармера. Возможно, Менес было тронным именем Нармера.",
+        "de": "Es gibt eine Debatte unter Ägyptologen, ob Narmer und Menes dieselbe Person oder zwei verschiedene Herrscher waren. Antike Quellen nennen Menes als Gründer Ägyptens, aber archäologische Funde deuten eher auf Narmer hin. Möglicherweise war Menes der Thronname von Narmer."
+      },
+      {
+        "ru": "Нармер основал город Мемфис (Инебу-хедж — 'Белые стены') на границе между Верхним и Нижним Египтом, который стал столицей объединённой страны. Стратегическое расположение Мемфиса позволяло контролировать обе части Египта и оставалось важным административным центром на протяжении тысячелетий.",
+        "de": "Narmer gründete die Stadt Memphis (Ineb-hedj - 'Weiße Mauern') an der Grenze zwischen Ober- und Unterägypten, die zur Hauptstadt des vereinigten Landes wurde. Die strategische Lage von Memphis ermöglichte die Kontrolle beider Teile Ägyptens und blieb über Jahrtausende ein wichtiges Verwaltungszentrum."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question_ru": "В каком году началось строительство пирамиды Хеопса?",
+    "question_de": "In welchem Jahr begann der Bau der Cheops-Pyramide?",
+    "correct_answer_ru": "Около 2560 года до н.э.",
+    "correct_answer_de": "Um 2560 v. Chr.",
+    "wrong_answers_ru": [
+      "2700 год до н.э.",
+      "2400 год до н.э.",
+      "2800 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "2700 v. Chr.",
+      "2400 v. Chr.",
+      "2800 v. Chr."
+    ],
+    "explanation_ru": "Великая пирамида Хеопса (Хуфу) начала строиться около 2560 года до н.э. и является самой большой из трёх пирамид Гизы. Строительство заняло примерно 20 лет и потребовало труда десятков тысяч рабочих.",
+    "explanation_de": "Die Große Pyramide von Cheops (Khufu) wurde um 2560 v. Chr. zu bauen begonnen und ist die größte der drei Pyramiden von Gizeh. Der Bau dauerte etwa 20 Jahre und erforderte die Arbeit von Zehntausenden von Arbeitern.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "date",
+    "period": "2560 BCE",
+    "tags": [
+      "пирамиды",
+      "архитектура"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Пирамида Хеопса была самым высоким сооружением в мире на протяжении почти 3800 лет — до постройки Линкольнского собора в Англии в 1311 году (высота 160 м). Первоначальная высота пирамиды составляла 146,5 метров, сейчас из-за утраты облицовки — 138,8 метров.",
+        "de": "Die Cheops-Pyramide war fast 3800 Jahre lang das höchste Bauwerk der Welt - bis zum Bau der Lincoln-Kathedrale in England im Jahr 1311 (Höhe 160 m). Die ursprüngliche Höhe der Pyramide betrug 146,5 Meter, heute sind es aufgrund des Verlusts der Verkleidung 138,8 Meter."
+      },
+      {
+        "ru": "Для строительства пирамиды было использовано около 2,3 миллиона каменных блоков весом от 2,5 до 15 тонн каждый. Блоки подгонялись с такой точностью, что между ними невозможно просунуть лезвие ножа. Вся пирамида была покрыта белым известняком с полированной поверхностью, который сверкал на солнце.",
+        "de": "Für den Bau der Pyramide wurden etwa 2,3 Millionen Steinblöcke mit einem Gewicht von jeweils 2,5 bis 15 Tonnen verwendet. Die Blöcke wurden so präzise angepasst, dass zwischen ihnen keine Messerklinge hindurchpasst. Die gesamte Pyramide war mit weißem Kalkstein mit polierter Oberfläche bedeckt, der in der Sonne glänzte."
+      },
+      {
+        "ru": "Температура внутри пирамиды постоянно держится на уровне 20°C, независимо от температуры снаружи. Это достигается благодаря особенностям конструкции и использованным материалам. Также пирамида изначально имела вращающуюся дверь весом 20 тонн, которая идеально балансировалась и могла открываться изнутри одним человеком.",
+        "de": "Die Temperatur innerhalb der Pyramide hält sich konstant bei 20°C, unabhängig von der Außentemperatur. Dies wird durch die besonderen Konstruktionsmerkmale und verwendeten Materialien erreicht. Die Pyramide hatte ursprünglich auch eine drehbare Tür mit einem Gewicht von 20 Tonnen, die perfekt ausbalanciert war und von einer Person von innen geöffnet werden konnte."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question_ru": "Какой древнеегипетский бог изображался с головой шакала?",
+    "question_de": "Welcher altägyptische Gott wurde mit einem Schakalkopf dargestellt?",
+    "correct_answer_ru": "Анубис",
+    "correct_answer_de": "Anubis",
+    "wrong_answers_ru": [
+      "Гор",
+      "Тот",
+      "Осирис"
+    ],
+    "wrong_answers_de": [
+      "Horus",
+      "Thoth",
+      "Osiris"
+    ],
+    "explanation_ru": "Анубис - бог бальзамирования и покровитель мёртвых в древнеегипетской мифологии. Изображался с головой шакала (или дикой собаки) и телом человека. Анубис руководил процессом мумификации и взвешивал сердца умерших на суде Осириса, определяя их судьбу в загробном мире.",
+    "explanation_de": "Anubis war der altägyptische Gott mit Schakalkopf, Schutzgott der Toten und Gott der Einbalsamierung. Er spielte eine Schlüsselrolle in Bestattungsriten und im Mumifizierungsprozess und leitete die Seelen der Verstorbenen ins Jenseits.",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "религия"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Анубис изначально был главным богом мёртвых, но позже эту роль занял Осирис. Анубис стал помощником Осириса и проводником душ в загробный мир. Согласно мифу, именно Анубис изобрёл мумификацию, когда бальзамировал тело Осириса после его убийства Сетом.",
+        "de": "Anubis war ursprünglich der Hauptgott der Toten, aber später übernahm Osiris diese Rolle. Anubis wurde Osiris' Helfer und Führer der Seelen ins Jenseits. Dem Mythos zufolge erfand Anubis die Mumifizierung, als er Osiris' Körper nach seiner Ermordung durch Seth einbalsamierte."
+      },
+      {
+        "ru": "В церемонии взвешивания сердца Анубис играл роль судьи. Он взвешивал сердце умершего на весах против пера богини Маат (символа истины). Если сердце было тяжелее пера из-за грехов, его пожирало чудовище Амемат. Эта сцена изображена в многочисленных папирусах 'Книги Мёртвых'.",
+        "de": "In der Zeremonie des Herzwiegens spielte Anubis die Rolle des Richters. Er wog das Herz des Verstorbenen auf einer Waage gegen die Feder der Göttin Maat (Symbol der Wahrheit). War das Herz schwerer als die Feder aufgrund von Sünden, wurde es vom Monster Ammit verschlungen. Diese Szene ist in zahlreichen Papyri des 'Totenbuchs' dargestellt."
+      },
+      {
+        "ru": "Чёрный цвет Анубиса символизировал не смерть, а возрождение и плодородие. Чёрная почва, оставшаяся после разлива Нила, была самой плодородной. Также мумифицированные тела чернели от смол и масел, использовавшихся при бальзамировании, что связывало их с Анубисом и обещанием воскрешения.",
+        "de": "Die schwarze Farbe des Anubis symbolisierte nicht den Tod, sondern Wiedergeburt und Fruchtbarkeit. Der schwarze Boden nach der Nilüberschwemmung war der fruchtbarste. Auch mumifizierte Körper wurden durch die bei der Einbalsamierung verwendeten Harze und Öle schwarz, was sie mit Anubis und dem Versprechen der Auferstehung verband."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question_ru": "Кто был последним фараоном Египта?",
+    "question_de": "Wer war der letzte Pharao Ägyptens?",
+    "correct_answer_ru": "Клеопатра VII",
+    "correct_answer_de": "Kleopatra VII.",
+    "wrong_answers_ru": [
+      "Тутанхамон",
+      "Рамсес II",
+      "Нефертити"
+    ],
+    "wrong_answers_de": [
+      "Tutanchamun",
+      "Ramses II.",
+      "Nofretete"
+    ],
+    "explanation_ru": "Клеопатра VII (69-30 до н.э.) - последняя царица Египта из династии Птолемеев. Известна своими романтическими отношениями с Юлием Цезарем и Марком Антонием. После поражения при Акциуме (31 г. до н.э.) и смерти Антония, покончила с собой, не желая стать пленницей Октавиана. С её смертью Египет стал римской провинцией.",
+    "explanation_de": "Kleopatra VII. (69-30 v. Chr.) war die letzte aktive Herrscherin des ptolemäischen Königreichs Ägypten. Nach ihrem Tod im Jahr 30 v. Chr. wurde Ägypten eine römische Provinz, was das Ende der pharaonischen Ära markierte.",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "30 BCE",
+    "tags": [
+      "фараоны",
+      "Птолемеи"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Клеопатра VII была невероятно образованной женщиной и единственной правительницей династии Птолемеев, которая выучила египетский язык. Она говорила на девяти языках, включая греческий, латынь, арамейский, эфиопский и мидийский, что позволяло ей общаться с послами без переводчиков.",
+        "de": "Kleopatra VII. war eine unglaublich gebildete Frau und die einzige Herrscherin der ptolemäischen Dynastie, die die ägyptische Sprache lernte. Sie sprach neun Sprachen, darunter Griechisch, Latein, Aramäisch, Äthiopisch und Medisch, was es ihr ermöglichte, ohne Übersetzer mit Botschaftern zu kommunizieren."
+      },
+      {
+        "ru": "Клеопатра была не египтянкой по происхождению, а гречанкой из династии Птолемеев, основанной полководцем Александра Македонского. Птолемеи правили Египтом 275 лет после смерти Александра. Клеопатра жила ближе к высадке на Луну (1969), чем к строительству пирамид в Гизе (около 2560 г. до н.э.).",
+        "de": "Kleopatra war von Herkunft keine Ägypterin, sondern Griechin aus der ptolemäischen Dynastie, die von Alexanders des Großen General gegründet wurde. Die Ptolemäer regierten Ägypten 275 Jahre nach Alexanders Tod. Kleopatra lebte näher an der Mondlandung (1969) als am Bau der Pyramiden von Gizeh (ca. 2560 v. Chr.)."
+      },
+      {
+        "ru": "Смерть Клеопатры от укуса змеи (аспида) — популярная легенда, но историки сомневаются в её достоверности. Античные источники предлагают разные версии: укус змеи, яд в заколке или отравленный гребень. Возможно, она использовала смесь ядов, чтобы обеспечить быструю и безболезненную смерть, не желая быть пленницей Октавиана в Риме.",
+        "de": "Kleopatras Tod durch Schlangenbiss (Aspis) ist eine populäre Legende, aber Historiker zweifeln an ihrer Wahrhaftigkeit. Antike Quellen bieten verschiedene Versionen: Schlangenbiss, Gift in einer Haarnadel oder vergifteter Kamm. Möglicherweise verwendete sie eine Giftmischung, um einen schnellen und schmerzlosen Tod zu gewährleisten, da sie nicht Octavians Gefangene in Rom sein wollte."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question_ru": "Какой материал использовали древние египтяне для письма?",
+    "question_de": "Welches Material verwendeten die alten Ägypter zum Schreiben?",
+    "correct_answer_ru": "Папирус",
+    "correct_answer_de": "Papyrus",
+    "wrong_answers_ru": [
+      "Пергамент",
+      "Глиняные таблички",
+      "Бамбук"
+    ],
+    "wrong_answers_de": [
+      "Pergament",
+      "Tontafeln",
+      "Bambus"
+    ],
+    "explanation_ru": "Папирус - материал для письма, изготавливаемый из стеблей тростникового растения Cyperus papyrus, росшего в болотах дельты Нила. Стебли разрезали на полосы, укладывали крест-накрест и прессовали. Получался прочный, лёгкий материал, на котором писали тростниковым пером и чернилами.",
+    "explanation_de": "Papyrus ist ein Schreibmaterial, hergestellt aus den Stängeln der Schilfpflanze Cyperus papyrus, die in den Sümpfen des Nildeltas wuchs. Die Stängel wurden in Streifen geschnitten, kreuzweise übereinander gelegt und gepresst. Das Ergebnis war ein robustes, leichtes Material, auf das mit Schilfrohrfeder und Tinte geschrieben wurde.",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "письменность",
+      "материалы"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Розеттский камень был найден французским солдатом Пьером-Франсуа Бушаром 15 июля 1799 года во время наполеоновской экспедиции в Египет. Камень использовался как строительный материал в стене форта около города Розетта (Рашид), где и был обнаружен.",
+        "de": "Der Rosetta-Stein wurde am 15. Juli 1799 von dem französischen Soldaten Pierre-François Bouchard während Napoleons Ägypten-Expedition gefunden. Der Stein wurde als Baumaterial in einer Festungsmauer in der Nähe der Stadt Rosetta (Raschid) verwendet, wo er entdeckt wurde."
+      },
+      {
+        "ru": "Жан-Франсуа Шампольон расшифровал иероглифы в 1822 году, сравнивая греческий текст с демотическим и иероглифическим. Ключом стало имя Птолемея, заключённое в картуш (овальную рамку). Это открытие позволило впервые прочитать древнеегипетские тексты и стало рождением египтологии как науки.",
+        "de": "Jean-François Champollion entzifferte die Hieroglyphen 1822, indem er den griechischen Text mit dem demotischen und hieroglyphischen verglich. Der Schlüssel war der Name Ptolemaios in einer Kartusche (ovaler Rahmen). Diese Entdeckung ermöglichte zum ersten Mal das Lesen altägyptischer Texte und markierte die Geburt der Ägyptologie als Wissenschaft."
+      },
+      {
+        "ru": "Розеттский камень сейчас находится в Британском музее в Лондоне, хотя Египет неоднократно требовал его возвращения. После капитуляции Франции в 1801 году камень стал собственностью Великобритании по условиям Александрийского договора. Это один из самых посещаемых экспонатов музея — около 6 миллионов человек видят его ежегодно.",
+        "de": "Der Rosetta-Stein befindet sich jetzt im British Museum in London, obwohl Ägypten wiederholt seine Rückgabe gefordert hat. Nach Frankreichs Kapitulation 1801 wurde der Stein gemäß den Bedingungen des Vertrags von Alexandria britisches Eigentum. Er ist eines der meistbesuchten Exponate des Museums - etwa 6 Millionen Menschen sehen ihn jährlich."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question_ru": "Какая река была центром месопотамской цивилизации наряду с Тигром?",
+    "question_de": "Welcher Fluss war das Zentrum der mesopotamischen Zivilisation neben dem Tigris?",
+    "correct_answer_ru": "Евфрат",
+    "correct_answer_de": "Euphrat",
+    "wrong_answers_ru": [
+      "Нил",
+      "Инд",
+      "Ганг"
+    ],
+    "wrong_answers_de": [
+      "Nil",
+      "Indus",
+      "Ganges"
+    ],
+    "explanation_ru": "Реки Тигр и Евфрат образовывали Месопотамию ('Междуречье'), колыбель цивилизации. Между ними возникли первые города, письменность и законы. Плодородная почва речных долин позволяла собирать богатые урожаи и поддерживать большое население.",
+    "explanation_de": "Die Flüsse Tigris und Euphrat bildeten Mesopotamien ('Zweistromland'), die Wiege der Zivilisation. Zwischen ihnen entstanden die ersten Städte, Schrift und Gesetze. Der fruchtbare Boden der Flusstäler ermöglichte reiche Ernten und die Versorgung einer großen Bevölkerung.",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "4000-539 BCE",
+    "tags": [
+      "география",
+      "реки",
+      "цивилизация"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Долина между Тигром и Евфратом была настолько плодородной, что древние греки называли Месопотамию 'колыбелью цивилизации'. Реки приносили ил, который удобрял почву, позволяя собирать богатые урожаи. Однако разливы были непредсказуемыми и разрушительными, что требовало строительства ирригационных систем.",
+        "de": "Das Tal zwischen Tigris und Euphrat war so fruchtbar, dass die alten Griechen Mesopotamien 'Wiege der Zivilisation' nannten. Die Flüsse brachten Schlamm, der den Boden düngte und reiche Ernten ermöglichte. Die Überschwemmungen waren jedoch unvorhersehbar und zerstörerisch, was den Bau von Bewässerungssystemen erforderte."
+      },
+      {
+        "ru": "Евфрат длиннее Тигра — его длина составляет около 2780 км, в то время как Тигр — 1850 км. Оба реки берут начало в горах восточной Турции и впадают в Персидский залив. В древности они впадали отдельно, но сейчас объединяются в реку Шатт-эль-Араб перед впадением в залив.",
+        "de": "Der Euphrat ist länger als der Tigris - seine Länge beträgt etwa 2780 km, während der Tigris 1850 km lang ist. Beide Flüsse entspringen in den Bergen der östlichen Türkei und münden in den Persischen Golf. In der Antike mündeten sie getrennt, aber heute vereinigen sie sich zum Fluss Shatt al-Arab vor der Mündung in den Golf."
+      },
+      {
+        "ru": "На берегах Евфрата и Тигра возникли первые города мира: Урук, Ур, Ниппур, Вавилон, Ниневия. Эти города были центрами торговли, ремесла и культуры. Урук, основанный около 4000 г. до н.э., считается одним из первых настоящих городов в истории человечества с населением до 50 000 человек.",
+        "de": "An den Ufern von Euphrat und Tigris entstanden die ersten Städte der Welt: Uruk, Ur, Nippur, Babylon, Ninive. Diese Städte waren Zentren des Handels, Handwerks und der Kultur. Uruk, gegründet um 4000 v. Chr., gilt als eine der ersten echten Städte in der Geschichte der Menschheit mit einer Bevölkerung von bis zu 50.000 Menschen."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question_ru": "Кто написал эпическую поэму 'Илиада'?",
+    "question_de": "Wer schrieb das epische Gedicht 'Ilias'?",
+    "correct_answer_ru": "Гомер",
+    "correct_answer_de": "Homer",
+    "wrong_answers_ru": [
+      "Гесиод",
+      "Вергилий",
+      "Софокл"
+    ],
+    "wrong_answers_de": [
+      "Hesiod",
+      "Vergil",
+      "Sophokles"
+    ],
+    "explanation_ru": "Гомер - легендарный древнегреческий поэт, живший предположительно в 8 веке до н.э. Автор двух величайших эпических поэм - 'Илиады' (о Троянской войне) и 'Одиссеи' (о возвращении Одиссея домой). До сих пор ведутся споры о том, был ли Гомер реальным человеком или собирательным образом.",
+    "explanation_de": "Homer ist ein legendärer altgriechischer Dichter, der vermutlich im 8. Jahrhundert v. Chr. lebte. Verfasser der zwei größten Epen - der 'Ilias' (über den Trojanischen Krieg) und der 'Odyssee' (über Odysseus' Heimkehr). Bis heute wird diskutiert, ob Homer eine reale Person oder eine Sammelfigur war.",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "литература",
+      "эпос",
+      "поэзия"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Гомеровский вопрос — одна из величайших загадок классической филологии: существовал ли Гомер как реальная личность или 'Илиада' и 'Одиссея' были созданы коллективно? Некоторые учёные считают, что поэмы были результатом устной традиции и записаны позже. Анализ языка и стиля показывает, что поэмы могли быть созданы в разное время.",
+        "de": "Die homerische Frage ist eines der größten Rätsel der klassischen Philologie: Gab es Homer als reale Person, oder wurden 'Ilias' und 'Odyssee' kollektiv geschaffen? Einige Gelehrte glauben, dass die Epen das Ergebnis einer mündlichen Tradition waren und später niedergeschrieben wurden. Die Analyse von Sprache und Stil zeigt, dass die Epen zu unterschiedlichen Zeiten entstanden sein könnten."
+      },
+      {
+        "ru": "'Илиада' состоит из 15 693 строк гекзаметром и описывает 51 день из десятилетней Троянской войны. Поэма начинается с гнева Ахиллеса и заканчивается похоронами Гектора. Интересно, что в поэме не упоминается троянский конь — эта история появляется только в 'Одиссее'.",
+        "de": "Die 'Ilias' besteht aus 15.693 Hexameter-Zeilen und beschreibt 51 Tage des zehnjährigen Trojanischen Krieges. Das Epos beginnt mit dem Zorn des Achilles und endet mit der Beerdigung Hektors. Interessanterweise wird das Trojanische Pferd im Epos nicht erwähnt - diese Geschichte erscheint nur in der 'Odyssee'."
+      },
+      {
+        "ru": "Гомер использовал сложную систему эпитетов и формул, которые помогали аэдам (певцам) запоминать и исполнять длинные поэмы. Например, Ахиллес всегда 'быстроногий', Одиссей — 'хитроумный', а Гера — 'волоокая'. Эта техника характерна для устной поэзии и позволяет импровизировать, сохраняя структуру.",
+        "de": "Homer verwendete ein komplexes System von Epitheta und Formeln, die den Aoiden (Sängern) halfen, lange Epen zu memorieren und aufzuführen. Zum Beispiel war Achilles immer 'schnellfüßig', Odysseus 'listig', und Hera 'kuhäugig'. Diese Technik ist charakteristisch für mündliche Poesie und ermöglicht Improvisation bei Beibehaltung der Struktur."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question_ru": "Какой древнеегипетский бог изображался с головой шакала?",
+    "question_de": "Welcher altägyptische Gott wurde mit einem Schakalskopf dargestellt?",
+    "correct_answer_ru": "Анубис",
+    "correct_answer_de": "Anubis",
+    "wrong_answers_ru": [
+      "Гор",
+      "Тот",
+      "Себек"
+    ],
+    "wrong_answers_de": [
+      "Horus",
+      "Thot",
+      "Sobek"
+    ],
+    "explanation_ru": "Анубис - бог бальзамирования и покровитель мёртвых в древнеегипетской мифологии. Изображался с головой шакала (или дикой собаки) и телом человека. Анубис руководил процессом мумификации и взвешивал сердца умерших на суде Осириса, определяя их судьбу в загробном мире.",
+    "explanation_de": "Anubis ist der Gott der Einbalsamierung und Schutzpatron der Toten in der altägyptischen Mythologie. Er wurde mit dem Kopf eines Schakals (oder wilden Hundes) und dem Körper eines Menschen dargestellt. Anubis leitete den Mumifizierungsprozess und wog die Herzen der Verstorbenen im Gericht des Osiris, um ihr Schicksal im Jenseits zu bestimmen.",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "религия",
+      "боги",
+      "символика"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Анубис часто изображался в виде чёрной шакалоголовой фигуры или полностью в виде шакала. Чёрный цвет символизировал не смерть, а возрождение и плодородие — чёрная почва после разлива Нила была самой плодородной. В гробницах найдены тысячи статуэток Анубиса, которые должны были защищать умерших.",
+        "de": "Anubis wurde oft als schwarze schakalköpfige Figur oder vollständig als Schakal dargestellt. Die schwarze Farbe symbolisierte nicht den Tod, sondern Wiedergeburt und Fruchtbarkeit - der schwarze Boden nach der Nilüberschwemmung war der fruchtbarste. In Gräbern wurden Tausende von Anubis-Statuetten gefunden, die die Toten schützen sollten."
+      },
+      {
+        "ru": "В Древнем Египте шакалы часто рылись в могилах, поэтому египтяне ассоциировали их с загробным миром. Чтобы защитить могилы, они обожествили шакала в образе Анубиса. Интересно, что настоящие шакалы в Египте имеют серо-жёлтую окраску, но Анубис всегда изображался чёрным, что подчёркивало его связь с плодородием и возрождением.",
+        "de": "Im Alten Ägypten gruben Schakale oft in Gräbern, daher assoziierten die Ägypter sie mit dem Jenseits. Um die Gräber zu schützen, vergöttlichten sie den Schakal in der Gestalt des Anubis. Interessanterweise haben echte Schakale in Ägypten eine grau-gelbe Färbung, aber Anubis wurde immer schwarz dargestellt, was seine Verbindung zu Fruchtbarkeit und Wiedergeburt betonte."
+      },
+      {
+        "ru": "Анубис был одним из самых почитаемых богов в Древнем Египте. Его главный культовый центр находился в Кинополисе ('Город собак') в Верхнем Египте. Жрецы Анубиса, которые проводили обряды мумификации, носили маски шакала. Процесс мумификации длился 70 дней, и на каждом этапе читались молитвы Анубису.",
+        "de": "Anubis war einer der am meisten verehrten Götter im Alten Ägypten. Sein Hauptkultzentrum befand sich in Kynopolis ('Hundestadt') in Oberägypten. Die Priester des Anubis, die Mumifizierungsriten durchführten, trugen Schakalmasken. Der Mumifizierungsprozess dauerte 70 Tage, und in jeder Phase wurden Gebete an Anubis gerichtet."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question_ru": "В каком году произошла битва при Марафоне?",
+    "question_de": "In welchem Jahr fand die Schlacht von Marathon statt?",
+    "correct_answer_ru": "490 год до н.э.",
+    "correct_answer_de": "490 v. Chr.",
+    "wrong_answers_ru": [
+      "480 год до н.э.",
+      "479 год до н.э.",
+      "500 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "480 v. Chr.",
+      "479 v. Chr.",
+      "500 v. Chr."
+    ],
+    "explanation_ru": "Битва при Марафоне (490 г. до н.э.) - решающее сражение первой греко-персидской войны. Афиняне и их союзники из Платей разгромили значительно превосходящую армию персидского царя Дария I. Эта победа показала, что персы не непобедимы, и вдохновила греков на дальнейшее сопротивление.",
+    "explanation_de": "Die Schlacht von Marathon (490 v. Chr.) war eine entscheidende Schlacht des ersten griechisch-persischen Krieges. Die Athener und ihre Verbündeten aus Platäa besiegten die zahlenmäßig weit überlegene Armee des persischen Königs Darius I. Dieser Sieg zeigte, dass die Perser nicht unbesiegbar waren, und inspirierte die Griechen zu weiterem Widerstand.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "490 BCE",
+    "tags": [
+      "войны",
+      "битвы",
+      "персы"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Легенда о гонце Фидиппиде, пробежавшем 42 км от Марафона до Афин с вестью о победе и умершем от истощения, скорее всего, выдумана. Геродот не упоминает этот эпизод. Зато он рассказывает, что Фидиппид пробежал около 240 км от Афин до Спарты за два дня, чтобы просить помощи перед битвой. Современный марафон вдохновлён этими легендами, но дистанция 42,195 км установлена только в 1921 году.",
+        "de": "Die Legende vom Boten Pheidippides, der 42 km von Marathon nach Athen lief, die Siegesnachricht überbrachte und an Erschöpfung starb, ist höchstwahrscheinlich erfunden. Herodot erwähnt diese Episode nicht. Stattdessen erzählt er, dass Pheidippides etwa 240 km von Athen nach Sparta in zwei Tagen lief, um vor der Schlacht um Hilfe zu bitten. Der moderne Marathon ist von diesen Legenden inspiriert, aber die Distanz von 42,195 km wurde erst 1921 festgelegt."
+      },
+      {
+        "ru": "Афиняне победили, несмотря на огромное численное превосходство персов (возможно, 25 000 против 10 000). Секрет успеха — фаланга гоплитов с тяжёлым вооружением и революционная тактика Мильтиада: он усилил фланги, ослабив центр. Когда персы прорвали центр, усиленные фланги окружили их в классический 'двойной охват'. Афиняне потеряли 192 воина, персы — около 6400. Павшие афиняне были похоронены на поле битвы под курганом Сoros, который стоит до сих пор.",
+        "de": "Die Athener siegten trotz enormer zahlenmäßiger Überlegenheit der Perser (möglicherweise 25.000 gegen 10.000). Das Erfolgsgeheimnis war die Hopliten-Phalanx mit schwerer Bewaffnung und Miltiades' revolutionäre Taktik: Er verstärkte die Flanken und schwächte das Zentrum. Als die Perser das Zentrum durchbrachen, umzingelten die verstärkten Flanken sie in einer klassischen 'doppelten Umfassung'. Die Athener verloren 192 Krieger, die Perser etwa 6400. Die gefallenen Athener wurden auf dem Schlachtfeld unter dem Hügel Soros begraben, der bis heute steht."
+      },
+      {
+        "ru": "После битвы афинские гоплиты совершили невероятный подвиг: они прошли маршем обратно в Афины (около 40 км) в полном вооружении, чтобы защитить город от персидского флота, который направлялся туда. Они прибыли раньше персов. Увидев, что Афины защищены, персидский флот развернулся и отплыл в Азию. Солдаты прошли около 80 км за один день в тяжёлой броне — феноменальное достижение выносливости.",
+        "de": "Nach der Schlacht vollbrachten die athenischen Hopliten eine unglaubliche Leistung: Sie marschierten in voller Rüstung zurück nach Athen (etwa 40 km), um die Stadt vor der persischen Flotte zu schützen, die dorthin unterwegs war. Sie kamen vor den Persern an. Als die persische Flotte sah, dass Athen verteidigt wurde, drehte sie um und segelte nach Asien zurück. Die Soldaten legten etwa 80 km an einem Tag in schwerer Rüstung zurück - eine phänomenale Ausdauerleistung."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question_ru": "Как называлась письменность древних шумеров?",
+    "question_de": "Wie hieß die Schrift der alten Sumerer?",
+    "correct_answer_ru": "Клинопись",
+    "correct_answer_de": "Keilschrift",
+    "wrong_answers_ru": [
+      "Иероглифы",
+      "Руны",
+      "Линейное письмо А"
+    ],
+    "wrong_answers_de": [
+      "Hieroglyphen",
+      "Runen",
+      "Linearschrift A"
+    ],
+    "explanation_ru": "Клинопись - одна из древнейших систем письменности, изобретённая шумерами около 3500-3000 лет до н.э. Название происходит от клиновидной формы знаков, которые выдавливались заострённой палочкой (стилусом) на глиняных табличках. Первоначально использовалась для хозяйственного учёта, затем для записи законов, литературы и научных знаний.",
+    "explanation_de": "Die Keilschrift ist eines der ältesten Schriftsysteme, erfunden von den Sumerern um 3500-3000 v. Chr. Der Name kommt von der keilförmigen Form der Zeichen, die mit einem spitzen Stock (Griffel) in Tontafeln gedrückt wurden. Ursprünglich für Wirtschaftsaufzeichnungen verwendet, später für Gesetze, Literatur und wissenschaftliches Wissen.",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "3500-3000 BCE",
+    "tags": [
+      "письменность",
+      "культура",
+      "изобретения"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Эпос о Гильгамеше — древнейшее из сохранившихся литературных произведений человечества, записанное на аккадском языке около 2100 г. до н.э. Наиболее полная версия была найдена в библиотеке ассирийского царя Ашшурбанипала в Ниневии на 12 глиняных табличках, содержащих около 3000 строк.",
+        "de": "Das Gilgamesch-Epos ist das älteste erhaltene literarische Werk der Menschheit, das um 2100 v. Chr. in akkadischer Sprache niedergeschrieben wurde. Die vollständigste Version wurde in der Bibliothek des assyrischen Königs Assurbanipal in Ninive auf 12 Tontafeln mit etwa 3000 Zeilen gefunden."
+      },
+      {
+        "ru": "История о Великом потопе в эпосе о Гильгамеше поразительно похожа на библейский рассказ о Ное. Герой Утнапиштим строит ковчег, спасает животных и после потопа выпускает птиц, чтобы найти сушу. Это сходство шокировало викторианское общество, когда эпос был переведён в 1872 году, поскольку месопотамская версия древнее библейской на тысячелетия.",
+        "de": "Die Geschichte der Großen Flut im Gilgamesch-Epos ähnelt erstaunlich der biblischen Erzählung von Noah. Der Held Utnapischtim baut eine Arche, rettet Tiere und lässt nach der Flut Vögel frei, um Land zu finden. Diese Ähnlichkeit schockierte die viktorianische Gesellschaft, als das Epos 1872 übersetzt wurde, da die mesopotamische Version Jahrtausende älter als die biblische ist."
+      },
+      {
+        "ru": "Гильгамеш, возможно, был реальным правителем города Урук около 2700 г. до н.э. Его имя упоминается в 'Списке шумерских царей' как пятый царь первой династии Урука после потопа. Археологи обнаружили остатки массивных городских стен Урука, которые эпос приписывает Гильгамешу. В 2003 году немецкая экспедиция нашла структуру, которая может быть его гробницей.",
+        "de": "Gilgamesch war möglicherweise ein echter Herrscher der Stadt Uruk um 2700 v. Chr. Sein Name wird in der 'Sumerischen Königsliste' als fünfter König der ersten Dynastie von Uruk nach der Flut erwähnt. Archäologen entdeckten Reste der massiven Stadtmauern von Uruk, die das Epos Gilgamesch zuschreibt. 2003 fand eine deutsche Expedition eine Struktur, die sein Grab sein könnte."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question_ru": "Кто был последним фараоном Египта?",
+    "question_de": "Wer war der letzte Pharao Ägyptens?",
+    "correct_answer_ru": "Клеопатра VII",
+    "correct_answer_de": "Kleopatra VII.",
+    "wrong_answers_ru": [
+      "Нефертити",
+      "Хатшепсут",
+      "Нефертари"
+    ],
+    "wrong_answers_de": [
+      "Nofretete",
+      "Hatschepsut",
+      "Nefertari"
+    ],
+    "explanation_ru": "Клеопатра VII (69-30 до н.э.) - последняя царица Египта из династии Птолемеев. Известна своими романтическими отношениями с Юлием Цезарем и Марком Антонием. После поражения при Акциуме (31 г. до н.э.) и смерти Антония, покончила с собой, не желая стать пленницей Октавиана. С её смертью Египет стал римской провинцией.",
+    "explanation_de": "Kleopatra VII. (69-30 v. Chr.) war die letzte Königin Ägyptens aus der Ptolemäer-Dynastie. Bekannt für ihre romantischen Beziehungen zu Julius Caesar und Marcus Antonius. Nach der Niederlage bei Actium (31 v. Chr.) und Antonius' Tod beging sie Selbstmord, da sie nicht Octavians Gefangene werden wollte. Mit ihrem Tod wurde Ägypten zur römischen Provinz.",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "30 BCE",
+    "tags": [
+      "фараоны",
+      "правители",
+      "птолемеи"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Клеопатра VII была невероятно образованной женщиной и единственной правительницей династии Птолемеев, которая выучила египетский язык. Она говорила на девяти языках, включая греческий, латынь, арамейский, эфиопский и мидийский, что позволяло ей общаться с послами без переводчиков.",
+        "de": "Kleopatra VII. war eine unglaublich gebildete Frau und die einzige Herrscherin der ptolemäischen Dynastie, die die ägyptische Sprache lernte. Sie sprach neun Sprachen, darunter Griechisch, Latein, Aramäisch, Äthiopisch und Medisch, was es ihr ermöglichte, ohne Übersetzer mit Botschaftern zu kommunizieren."
+      },
+      {
+        "ru": "Клеопатра была не египтянкой по происхождению, а гречанкой из династии Птолемеев, основанной полководцем Александра Македонского. Птолемеи правили Египтом 275 лет после смерти Александра. Клеопатра жила ближе к высадке на Луну (1969), чем к строительству пирамид в Гизе (около 2560 г. до н.э.).",
+        "de": "Kleopatra war von Herkunft keine Ägypterin, sondern Griechin aus der ptolemäischen Dynastie, die von Alexanders des Großen General gegründet wurde. Die Ptolemäer regierten Ägypten 275 Jahre nach Alexanders Tod. Kleopatra lebte näher an der Mondlandung (1969) als am Bau der Pyramiden von Gizeh (ca. 2560 v. Chr.)."
+      },
+      {
+        "ru": "Смерть Клеопатры от укуса змеи (аспида) — популярная легенда, но историки сомневаются в её достоверности. Античные источники предлагают разные версии: укус змеи, яд в заколке или отравленный гребень. Возможно, она использовала смесь ядов, чтобы обеспечить быструю и безболезненную смерть, не желая быть пленницей Октавиана в Риме.",
+        "de": "Kleopatras Tod durch Schlangenbiss (Aspis) ist eine populäre Legende, aber Historiker zweifeln an ihrer Wahrhaftigkeit. Antike Quellen bieten verschiedene Versionen: Schlangenbiss, Gift in einer Haarnadel oder vergifteter Kamm. Möglicherweise verwendete sie eine Giftmischung, um einen schnellen und schmerzlosen Tod zu gewährleisten, da sie nicht Octavians Gefangene in Rom sein wollte."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question_ru": "Какой материал использовали древние египтяне для письма?",
+    "question_de": "Welches Material verwendeten die alten Ägypter zum Schreiben?",
+    "correct_answer_ru": "Папирус",
+    "correct_answer_de": "Papyrus",
+    "wrong_answers_ru": [
+      "Пергамент",
+      "Глиняные таблички",
+      "Бамбук"
+    ],
+    "wrong_answers_de": [
+      "Pergament",
+      "Tontafeln",
+      "Bambus"
+    ],
+    "explanation_ru": "Папирус - материал для письма, изготавливаемый из стеблей тростникового растения Cyperus papyrus, росшего в болотах дельты Нила. Стебли разрезали на полосы, укладывали крест-накрест и прессовали. Получался прочный, лёгкий материал, на котором писали тростниковым пером и чернилами.",
+    "explanation_de": "Papyrus ist ein Schreibmaterial, hergestellt aus den Stängeln der Schilfpflanze Cyperus papyrus, die in den Sümpfen des Nildeltas wuchs. Die Stängel wurden in Streifen geschnitten, kreuzweise übereinander gelegt und gepresst. Das Ergebnis war ein robustes, leichtes Material, auf das mit Schilfrohrfeder und Tinte geschrieben wurde.",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE - 300 CE",
+    "tags": [
+      "письменность",
+      "материалы",
+      "культура"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Розеттский камень был найден французским солдатом Пьером-Франсуа Бушаром 15 июля 1799 года во время наполеоновской экспедиции в Египет. Камень использовался как строительный материал в стене форта около города Розетта (Рашид), где и был обнаружен.",
+        "de": "Der Rosetta-Stein wurde am 15. Juli 1799 von dem französischen Soldaten Pierre-François Bouchard während Napoleons Ägypten-Expedition gefunden. Der Stein wurde als Baumaterial in einer Festungsmauer in der Nähe der Stadt Rosetta (Raschid) verwendet, wo er entdeckt wurde."
+      },
+      {
+        "ru": "Жан-Франсуа Шампольон расшифровал иероглифы в 1822 году, сравнивая греческий текст с демотическим и иероглифическим. Ключом стало имя Птолемея, заключённое в картуш (овальную рамку). Это открытие позволило впервые прочитать древнеегипетские тексты и стало рождением египтологии как науки.",
+        "de": "Jean-François Champollion entzifferte die Hieroglyphen 1822, indem er den griechischen Text mit dem demotischen und hieroglyphischen verglich. Der Schlüssel war der Name Ptolemaios in einer Kartusche (ovaler Rahmen). Diese Entdeckung ermöglichte zum ersten Mal das Lesen altägyptischer Texte und markierte die Geburt der Ägyptologie als Wissenschaft."
+      },
+      {
+        "ru": "Розеттский камень сейчас находится в Британском музее в Лондоне, хотя Египет неоднократно требовал его возвращения. После капитуляции Франции в 1801 году камень стал собственностью Великобритании по условиям Александрийского договора. Это один из самых посещаемых экспонатов музея — около 6 миллионов человек видят его ежегодно.",
+        "de": "Der Rosetta-Stein befindet sich jetzt im British Museum in London, obwohl Ägypten wiederholt seine Rückgabe gefordert hat. Nach Frankreichs Kapitulation 1801 wurde der Stein gemäß den Bedingungen des Vertrags von Alexandria britisches Eigentum. Er ist eines der meistbesuchten Exponate des Museums - etwa 6 Millionen Menschen sehen ihn jährlich."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question_ru": "В каком году Юлий Цезарь был убит?",
+    "question_de": "In welchem Jahr wurde Julius Caesar ermordet?",
+    "correct_answer_ru": "44 год до н.э.",
+    "correct_answer_de": "44 v. Chr.",
+    "wrong_answers_ru": [
+      "45 год до н.э.",
+      "43 год до н.э.",
+      "46 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "45 v. Chr.",
+      "43 v. Chr.",
+      "46 v. Chr."
+    ],
+    "explanation_ru": "Юлий Цезарь был убит 15 марта (в иды марта) 44 года до н.э. группой сенаторов-заговорщиков во главе с Брутом и Кассием. Заговорщики боялись, что Цезарь хочет стать царём и уничтожить республику. Убийство произошло в театре Помпея во время заседания Сената. Цезарь получил 23 ножевых ранения.",
+    "explanation_de": "Julius Caesar wurde am 15. März (an den Iden des März) 44 v. Chr. von einer Gruppe verschwörerischer Senatoren unter Führung von Brutus und Cassius ermordet. Die Verschwörer fürchteten, dass Caesar König werden und die Republik zerstören wollte. Der Mord geschah im Pompejus-Theater während einer Senatssitzung. Caesar erlitt 23 Messerstiche.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "44 BCE",
+    "tags": [
+      "правители",
+      "убийства",
+      "политика"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Юлий Цезарь был похищен пиратами в 75 году до н.э. Когда они потребовали выкуп в 20 талантов, Цезарь возмутился и сказал, что стоит минимум 50 талантов. После освобождения он собрал флот, вернулся, захватил пиратов и распял их всех, как и обещал во время пленения.",
+        "de": "Julius Caesar wurde 75 v. Chr. von Piraten entführt. Als sie ein Lösegeld von 20 Talenten forderten, war Caesar empört und sagte, er sei mindestens 50 Talente wert. Nach seiner Freilassung stellte er eine Flotte zusammen, kehrte zurück, nahm die Piraten gefangen und ließ sie alle kreuzigen, wie er während seiner Gefangenschaft versprochen hatte."
+      },
+      {
+        "ru": "Знаменитая фраза 'Et tu, Brute?' ('И ты, Брут?'), которую Цезарь якобы произнёс при убийстве, скорее всего, выдумана Шекспиром. Античные источники сообщают, что Цезарь не произнёс ни слова или сказал по-гречески: 'Καὶ σύ, τέκνον?' ('И ты, дитя?'), обращаясь к Бруту, которого некоторые считали его незаконным сыном.",
+        "de": "Der berühmte Satz 'Et tu, Brute?' ('Auch du, Brutus?'), den Caesar angeblich bei seiner Ermordung aussprach, wurde höchstwahrscheinlich von Shakespeare erfunden. Antike Quellen berichten, dass Caesar kein Wort sagte oder auf Griechisch sprach: 'Καὶ σύ, τέκνον?' ('Auch du, mein Kind?'), und sich an Brutus wandte, den einige für seinen unehelichen Sohn hielten."
+      },
+      {
+        "ru": "Юлий Цезарь страдал от эпилепсии, что подтверждают древние источники, описывающие его припадки. Некоторые историки полагают, что это могло быть результатом серии небольших инсультов. Несмотря на болезнь, он совершил выдающиеся военные походы и завоевал Галлию, значительно расширив территорию Рима.",
+        "de": "Julius Caesar litt an Epilepsie, was antike Quellen bestätigen, die seine Anfälle beschreiben. Einige Historiker glauben, dass dies das Ergebnis einer Reihe kleiner Schlaganfälle gewesen sein könnte. Trotz seiner Krankheit führte er herausragende Militärkampagnen durch und eroberte Gallien, wodurch er Roms Territorium erheblich erweiterte."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question_ru": "Какой древнегреческий город-государство был известен своей военной культурой?",
+    "question_de": "Welcher antike griechische Stadtstaat war für seine Militärkultur bekannt?",
+    "correct_answer_ru": "Спарта",
+    "correct_answer_de": "Sparta",
+    "wrong_answers_ru": [
+      "Афины",
+      "Коринф",
+      "Фивы"
+    ],
+    "wrong_answers_de": [
+      "Athen",
+      "Korinth",
+      "Theben"
+    ],
+    "explanation_ru": "Спарта - древнегреческий полис в Лаконии (Пелопоннес), известный своей уникальной военной культурой. Всё общество было организовано вокруг военной подготовки. Мальчиков с 7 лет забирали в казармы (агогé), где они проходили суровое воспитание. Спартанцы считались лучшими воинами Греции.",
+    "explanation_de": "Sparta war eine antike griechische Polis in Lakonien (Peloponnes), bekannt für ihre einzigartige Militärkultur. Die gesamte Gesellschaft war um militärische Ausbildung organisiert. Jungen wurden ab 7 Jahren in Kasernen (Agoge) gebracht, wo sie eine harte Erziehung durchliefen. Die Spartaner galten als die besten Krieger Griechenlands.",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th-2nd century BCE",
+    "tags": [
+      "военное дело",
+      "общество",
+      "полисы"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Спартанцы были единственными греками, не имевшими городских стен, полагаясь на свою армию как на защиту. Царь Агесилай II говорил: 'Город хорошо укреплён, если он окружён стеной из мужей, а не кирпичей'. Когда македонский царь Филипп II угрожал 'Если я войду в Лаконию, я сравняю Спарту с землёй', спартанцы ответили одним словом: 'Если'.",
+        "de": "Die Spartaner waren die einzigen Griechen ohne Stadtmauern und verließen sich auf ihre Armee als Verteidigung. König Agesilaos II. sagte: 'Eine Stadt ist gut befestigt, wenn sie von einer Mauer aus Männern umgeben ist, nicht aus Ziegeln'. Als der makedonische König Philipp II. drohte 'Wenn ich Lakonien betrete, werde ich Sparta dem Erdboden gleichmachen', antworteten die Spartaner mit einem Wort: 'Wenn'."
+      },
+      {
+        "ru": "Спартанские женщины обладали необычайной свободой для античного мира. Они владели собственностью (к IV веку до н.э. контролировали 40% земли Спарты), получали физическое образование, участвовали в спортивных состязаниях и могли разводиться. Горянка из Аргоса, увидев спартанок, воскликнула: 'Только спартанки рожают настоящих мужчин!', на что царица Горго ответила: 'Потому что только мы можем разговаривать с ними!'",
+        "de": "Spartanische Frauen besaßen außergewöhnliche Freiheit für die antike Welt. Sie besaßen Eigentum (im 4. Jahrhundert v. Chr. kontrollierten sie 40% des Landes von Sparta), erhielten körperliche Ausbildung, nahmen an Sportwettkämpfen teil und konnten sich scheiden lassen. Eine Frau aus Argos rief beim Anblick der Spartanerinnen: 'Nur Spartanerinnen gebären echte Männer!', worauf Königin Gorgo antwortete: 'Weil nur wir mit ihnen reden können!'"
+      },
+      {
+        "ru": "Система образования в Спарте (агогэ) была суровой с рождения. Новорожденных осматривали старейшины: слабых сбрасывали с горы Тайгет (хотя археологические свидетельства этого практики ограничены). С 7 лет мальчики жили в казармах, учились выживать с минимумом пищи, воровать еду (не попадаясь!), терпеть боль. Один мальчик, украв лисёнка, спрятал его под одеждой и молчал, пока тот не прогрыз ему живот до смерти.",
+        "de": "Das Bildungssystem in Sparta (Agoge) war von Geburt an hart. Neugeborene wurden von Ältesten untersucht: Schwache wurden vom Berg Taygetos geworfen (obwohl archäologische Beweise für diese Praxis begrenzt sind). Ab 7 Jahren lebten Jungen in Kasernen, lernten mit minimaler Nahrung zu überleben, Essen zu stehlen (ohne erwischt zu werden!), Schmerz zu ertragen. Ein Junge, der ein Fuchsjunges gestohlen hatte, versteckte es unter seiner Kleidung und schwieg, während es sich durch seinen Bauch fraß, bis er starb."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question_ru": "Как называлась система правления, при которой власть принадлежала небольшой группе богатых граждан?",
+    "question_de": "Wie nannte man die Regierungsform, bei der die Macht einer kleinen Gruppe reicher Bürger gehörte?",
+    "correct_answer_ru": "Олигархия",
+    "correct_answer_de": "Oligarchie",
+    "wrong_answers_ru": [
+      "Демократия",
+      "Монархия",
+      "Тирания"
+    ],
+    "wrong_answers_de": [
+      "Demokratie",
+      "Monarchie",
+      "Tyrannis"
+    ],
+    "explanation_ru": "Олигархия (от греч. ὀλίγος - 'немногие' и ἀρχή - 'власть') - форма правления, при которой власть принадлежит узкой группе богатых и влиятельных людей. В отличие от демократии, где решения принимаются большинством граждан, в олигархии правит элита. Эта форма правления была распространена во многих греческих полисах.",
+    "explanation_de": "Oligarchie (von griech. ὀλίγος - 'wenige' und ἀρχή - 'Herrschaft') ist eine Regierungsform, bei der die Macht einer engen Gruppe reicher und einflussreicher Menschen gehört. Im Gegensatz zur Demokratie, wo Entscheidungen von der Mehrheit der Bürger getroffen werden, regiert in der Oligarchie eine Elite. Diese Regierungsform war in vielen griechischen Poleis verbreitet.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "definition",
+    "period": "8th-4th century BCE",
+    "tags": [
+      "политика",
+      "термины",
+      "власть"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Сократ не оставил ни одного письменного произведения — всё, что мы знаем о нём, исходит от его учеников, особенно Платона. Сократ считал, что письмо ослабляет память и создаёт иллюзию знания без истинного понимания. Он предпочитал устную беседу, где можно было задавать вопросы и исследовать истину через диалог.",
+        "de": "Sokrates hinterließ kein einziges schriftliches Werk - alles, was wir über ihn wissen, stammt von seinen Schülern, insbesondere Platon. Sokrates glaubte, dass Schreiben das Gedächtnis schwächt und eine Illusion von Wissen ohne echtes Verständnis erzeugt. Er bevorzugte mündliche Gespräche, wo man Fragen stellen und die Wahrheit durch Dialog erforschen konnte."
+      },
+      {
+        "ru": "Сократ обладал замечательной физической выносливостью. Во время военных походов он мог ходить босиком по снегу и льду, когда другие солдаты были в сапогах. Однажды он простоял в размышлениях 24 часа подряд, не двигаясь. Также был известен своей способностью пить вино, не пьянея — после симпозиума, где все были пьяны, он спокойно шёл домой трезвым.",
+        "de": "Sokrates besaß bemerkenswerte körperliche Ausdauer. Während Militärkampagnen konnte er barfuß durch Schnee und Eis gehen, während andere Soldaten Stiefel trugen. Einmal stand er 24 Stunden lang in Gedanken versunken, ohne sich zu bewegen. Er war auch für seine Fähigkeit bekannt, Wein zu trinken, ohne betrunken zu werden - nach einem Symposium, bei dem alle betrunken waren, ging er nüchtern nach Hause."
+      },
+      {
+        "ru": "Сократ мог избежать смертного приговора. Ему предложили изгнание или штраф, но он отказался признавать вину. Более того, он насмехался над судом, предлагая в качестве 'наказания' кормить его за государственный счёт в Пританее (почесть для олимпийских победителей). Друзья подготовили побег из тюрьмы, но Сократ отказался, считая неправильным нарушать законы города, даже несправедливые.",
+        "de": "Sokrates hätte das Todesurteil vermeiden können. Ihm wurden Exil oder eine Geldstrafe angeboten, aber er weigerte sich, seine Schuld anzuerkennen. Mehr noch, er verspottete das Gericht und schlug als 'Strafe' vor, auf Staatskosten im Prytaneion gespeist zu werden (eine Ehre für olympische Sieger). Freunde bereiteten eine Flucht aus dem Gefängnis vor, aber Sokrates lehnte ab und hielt es für falsch, die Gesetze der Stadt zu brechen, selbst wenn sie ungerecht waren."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question_ru": "Какой древнеримский акведук считается одним из наиболее хорошо сохранившихся?",
+    "question_de": "Welches römische Aquädukt gilt als eines der am besten erhaltenen?",
+    "correct_answer_ru": "Пон-дю-Гар",
+    "correct_answer_de": "Pont du Gard",
+    "wrong_answers_ru": [
+      "Аква Клаудиа",
+      "Аква Марция",
+      "Аква Вирго"
+    ],
+    "wrong_answers_de": [
+      "Aqua Claudia",
+      "Aqua Marcia",
+      "Aqua Virgo"
+    ],
+    "explanation_ru": "Пон-дю-Гар - римский акведук в южной Франции, построенный в I веке н.э. для снабжения водой города Нимa. Трёхъярусная арочная конструкция высотой 49 метров и длиной 275 метров является шедевром римской инженерии. Акведук построен без использования раствора - массивные камни держатся за счёт собственного веса и точной подгонки.",
+    "explanation_de": "Der Pont du Gard ist ein römisches Aquädukt in Südfrankreich, das im 1. Jahrhundert n. Chr. zur Wasserversorgung der Stadt Nîmes gebaut wurde. Die dreistöckige Bogenkonstruktion mit einer Höhe von 49 Metern und einer Länge von 275 Metern ist ein Meisterwerk römischer Ingenieurskunst. Das Aquädukt wurde ohne Mörtel gebaut - die massiven Steine halten durch ihr Eigengewicht und präzise Passform.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "архитектура",
+      "инженерия",
+      "акведуки"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Пон-дю-Гар — единственный трёхъярусный акведук, сохранившийся со времён Римской империи. Верхний ярус (водопровод) имеет длину 275 метров, средний — 242 метра, нижний — 142 метра. Ширина уменьшается с каждым ярусом: от 6 метров внизу до 3 метров наверху. Это создаёт оптическую иллюзию, делая конструкцию более элегантной.",
+        "de": "Der Pont du Gard ist der einzige dreistöckige Aquädukt, der aus der Zeit des Römischen Reiches erhalten geblieben ist. Die obere Ebene (Wasserleitung) ist 275 Meter lang, die mittlere 242 Meter, die untere 142 Meter. Die Breite nimmt mit jeder Ebene ab: von 6 Metern unten bis 3 Metern oben. Dies schafft eine optische Illusion, die die Konstruktion eleganter erscheinen lässt."
+      },
+      {
+        "ru": "Акведук построен без использования раствора или цемента — массивные известняковые блоки (некоторые весят до 6 тонн) держатся только за счёт собственного веса и точной подгонки. Камни были обработаны так точно, что между ними невозможно просунуть даже лезвие ножа. Такая техника требовала невероятной точности и мастерства.",
+        "de": "Das Aquädukt wurde ohne Verwendung von Mörtel oder Zement gebaut - die massiven Kalksteinblöcke (einige wiegen bis zu 6 Tonnen) halten nur durch ihr Eigengewicht und präzise Passform. Die Steine wurden so präzise bearbeitet, dass zwischen ihnen nicht einmal eine Messerklinge hindurchpasst. Diese Technik erforderte unglaubliche Präzision und Handwerkskunst."
+      },
+      {
+        "ru": "Пон-дю-Гар доставлял воду из источника в Юзесе в город Ним (древний Немаус), преодолевая расстояние около 50 км. Вода текла самотеком, используя гравитацию. Уклон составлял всего 34 см на километр — невероятно точная инженерная работа для того времени. Акведук снабжал Ним 20 000 кубометрами воды ежедневно.",
+        "de": "Der Pont du Gard lieferte Wasser aus der Quelle in Uzès in die Stadt Nîmes (antikes Nemausus) über eine Entfernung von etwa 50 km. Das Wasser floss durch Schwerkraft. Das Gefälle betrug nur 34 cm pro Kilometer - eine unglaublich präzise Ingenieursarbeit für diese Zeit. Das Aquädukt versorgte Nîmes täglich mit 20.000 Kubikmetern Wasser."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question_ru": "Кто был основателем Персидской империи?",
+    "question_de": "Wer war der Gründer des Persischen Reiches?",
+    "correct_answer_ru": "Кир II Великий",
+    "correct_answer_de": "Kyros II. der Große",
+    "wrong_answers_ru": [
+      "Дарий I",
+      "Ксеркс I",
+      "Камбиз II"
+    ],
+    "wrong_answers_de": [
+      "Darius I.",
+      "Xerxes I.",
+      "Kambyses II."
+    ],
+    "explanation_ru": "Кир II Великий (около 600-530 до н.э.) - основатель Персидской империи Ахеменидов, одной из величайших империй древности. Он объединил мидийские и персидские племена, завоевал Лидию, Вавилон и создал империю, простиравшуюся от Средиземного моря до Индии. Кир был известен своей веротерпимостью и гуманным отношением к покорённым народам.",
+    "explanation_de": "Kyros II. der Große (ca. 600-530 v. Chr.) war der Gründer des Achämenidenreiches, eines der größten Reiche der Antike. Er vereinigte medische und persische Stämme, eroberte Lydien, Babylon und schuf ein Reich, das sich vom Mittelmeer bis nach Indien erstreckte. Kyros war bekannt für seine Toleranz und humane Behandlung unterworfener Völker.",
+    "difficulty": "medium",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "550 BCE",
+    "tags": [
+      "правители",
+      "империи",
+      "основатели"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Кир II Великий был известен своей необычайной веротерпимостью и гуманным отношением к покорённым народам. После завоевания Вавилона в 539 г. до н.э. он освободил евреев из плена и разрешил им вернуться в Иерусалим и восстановить храм. Это событие описано в Ветхом Завете, где Кир назван 'помазанником Божьим'.",
+        "de": "Kyros II. der Große war bekannt für seine außergewöhnliche Toleranz und humane Behandlung unterworfener Völker. Nach der Eroberung Babylons 539 v. Chr. befreite er die Juden aus der Gefangenschaft und erlaubte ihnen, nach Jerusalem zurückzukehren und den Tempel wiederaufzubauen. Dieses Ereignis wird im Alten Testament beschrieben, wo Kyros als 'Gesalbter Gottes' bezeichnet wird."
+      },
+      {
+        "ru": "Кирова цилиндр — глиняный цилиндр с надписью на аккадском языке, найденный в Вавилоне в 1879 году. На нём Кир провозглашает свою политику веротерпимости и уважения к местным обычаям. Многие историки считают его первой в истории декларацией прав человека. Копия цилиндра хранится в штаб-квартире ООН в Нью-Йорке.",
+        "de": "Der Kyros-Zylinder ist ein Tonzylinder mit einer Inschrift in akkadischer Sprache, der 1879 in Babylon gefunden wurde. Darauf verkündet Kyros seine Politik der Toleranz und des Respekts vor lokalen Bräuchen. Viele Historiker betrachten ihn als die erste Menschenrechtserklärung der Geschichte. Eine Kopie des Zylinders wird im UN-Hauptquartier in New York aufbewahrt."
+      },
+      {
+        "ru": "Смерть Кира остаётся загадкой. Согласно Геродоту, он погиб в битве против массагетов (кочевого племени) в Центральной Азии около 530 г. до н.э. Царица массагетов Томирис, чей сын был убит в предыдущей битве, отомстила, убив Кира и окунув его голову в бурдюк с кровью. Однако другие источники дают разные версии его смерти.",
+        "de": "Kyros' Tod bleibt ein Rätsel. Laut Herodot starb er in einer Schlacht gegen die Massageten (ein nomadisches Volk) in Zentralasien um 530 v. Chr. Die Königin der Massageten, Tomyris, deren Sohn in einer früheren Schlacht getötet worden war, rächte sich, indem sie Kyros tötete und seinen Kopf in einen Schlauch mit Blut tauchte. Andere Quellen geben jedoch unterschiedliche Versionen seines Todes an."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question_ru": "В каком городе находился знаменитый Колосс - одно из семи чудес древнего мира?",
+    "question_de": "In welcher Stadt stand der berühmte Koloss - eines der sieben Weltwunder der Antike?",
+    "correct_answer_ru": "Родос",
+    "correct_answer_de": "Rhodos",
+    "wrong_answers_ru": [
+      "Александрия",
+      "Эфес",
+      "Галикарнас"
+    ],
+    "wrong_answers_de": [
+      "Alexandria",
+      "Ephesos",
+      "Halikarnassos"
+    ],
+    "explanation_ru": "Колосс Родосский - гигантская статуя бога Гелиоса, установленная у входа в гавань города Родос около 280 года до н.э. Высота статуи достигала 33 метров. Она была изготовлена из бронзы на железном каркасе скульптором Харесом из Линда. Статуя простояла всего 56 лет и была разрушена землетрясением в 226 году до н.э.",
+    "explanation_de": "Der Koloss von Rhodos war eine riesige Statue des Gottes Helios, die um 280 v. Chr. am Hafeneingang der Stadt Rhodos errichtet wurde. Die Statue erreichte eine Höhe von 33 Metern. Sie wurde aus Bronze auf einem Eisengerüst vom Bildhauer Chares von Lindos gefertigt. Die Statue stand nur 56 Jahre und wurde 226 v. Chr. durch ein Erdbeben zerstört.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "280 BCE",
+    "tags": [
+      "чудеса света",
+      "статуи",
+      "острова"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Колосс Родосский был построен на средства от продажи осадных машин, оставленных Деметрием Полиоркетом после неудачной осады Родоса в 305-304 гг. до н.э. Родосцы продали бронзу и железо и использовали вырученные средства для строительства гигантской статуи бога Гелиоса, покровителя острова. Строительство заняло 12 лет.",
+        "de": "Der Koloss von Rhodos wurde mit den Erlösen aus dem Verkauf von Belagerungsmaschinen gebaut, die Demetrios Poliorketes nach der erfolglosen Belagerung von Rhodos 305-304 v. Chr. zurückgelassen hatte. Die Rhodier verkauften Bronze und Eisen und verwendeten die Einnahmen für den Bau einer riesigen Statue des Gottes Helios, des Schutzpatrons der Insel. Der Bau dauerte 12 Jahre."
+      },
+      {
+        "ru": "Вопреки популярному изображению, Колосс, вероятно, не стоял, расставив ноги над входом в гавань — это было бы технически невозможно. Скорее всего, он стоял на одном берегу гавани или рядом с ней. Статуя была сделана из бронзы на железном каркасе, заполненном камнями для устойчивости. Высота составляла около 33 метров — примерно как Статуя Свободы без пьедестала.",
+        "de": "Entgegen der populären Darstellung stand der Koloss wahrscheinlich nicht mit gespreizten Beinen über dem Hafeneingang - das wäre technisch unmöglich gewesen. Wahrscheinlich stand er an einem Ufer des Hafens oder daneben. Die Statue war aus Bronze auf einem Eisengerüst gefertigt, das mit Steinen für Stabilität gefüllt war. Die Höhe betrug etwa 33 Meter - etwa wie die Freiheitsstatue ohne Sockel."
+      },
+      {
+        "ru": "Колосс простоял всего 56 лет и был разрушен землетрясением в 226 г. до н.э. Статуя сломалась в коленях и упала. Оракул запретил восстанавливать её, поэтому обломки оставались на месте более 800 лет, пока арабы не продали их еврейскому купцу в 654 г. н.э. Потребовалось 900 верблюдов, чтобы перевезти весь металл.",
+        "de": "Der Koloss stand nur 56 Jahre und wurde 226 v. Chr. durch ein Erdbeben zerstört. Die Statue brach an den Knien und stürzte um. Ein Orakel verbot ihre Wiederherstellung, daher blieben die Trümmer mehr als 800 Jahre an Ort und Stelle, bis die Araber sie 654 n. Chr. an einen jüdischen Händler verkauften. Es dauerte 900 Kamele, um das gesamte Metall zu transportieren."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question_ru": "Как называлось народное собрание в Древнем Риме?",
+    "question_de": "Wie hieß die Volksversammlung im Alten Rom?",
+    "correct_answer_ru": "Комиции",
+    "correct_answer_de": "Komitien",
+    "wrong_answers_ru": [
+      "Сенат",
+      "Курия",
+      "Форум"
+    ],
+    "wrong_answers_de": [
+      "Senat",
+      "Kurie",
+      "Forum"
+    ],
+    "explanation_ru": "Комиции (comitia) - народные собрания в Древнем Риме, где граждане голосовали по важным вопросам. Существовало три типа комиций: куриатные (древнейшие), центуриатные (военные) и трибутные (территориальные). Комиции избирали магистратов, принимали законы и решали вопросы войны и мира. Голосование было публичным, что позволяло патронам контролировать клиентов.",
+    "explanation_de": "Komitien (comitia) waren Volksversammlungen im Alten Rom, wo Bürger über wichtige Fragen abstimmten. Es gab drei Arten von Komitien: Kuriatkomitien (die ältesten), Zenturiatkomitien (militärisch) und Tributkomitien (territorial). Die Komitien wählten Magistrate, verabschiedeten Gesetze und entschieden über Krieg und Frieden. Die Abstimmung war öffentlich, was es Patronen ermöglichte, ihre Klienten zu kontrollieren.",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "509-27 BCE",
+    "tags": [
+      "политика",
+      "институты",
+      "демократия"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Римляне построили 11 главных акведуков, снабжавших Рим 1 миллионом кубометров воды ежедневно — это около 1000 литров на человека в день, больше, чем во многих современных городах! Общая длина акведуков составляла около 500 км, но только 47 км шли по аркам над землёй. Большая часть проходила под землёй, защищённая от загрязнения и саботажа.",
+        "de": "Die Römer bauten 11 Hauptaquädukte, die Rom täglich mit 1 Million Kubikmetern Wasser versorgten - das sind etwa 1000 Liter pro Person pro Tag, mehr als in vielen modernen Städten! Die Gesamtlänge der Aquädukte betrug etwa 500 km, aber nur 47 km verliefen auf Bögen über der Erde. Der größte Teil verlief unterirdisch, geschützt vor Verschmutzung und Sabotage."
+      },
+      {
+        "ru": "Акведуки работали исключительно под действием гравитации, без насосов. Инженеры создавали очень точный уклон — обычно всего 1:4800 (около 2,5 см на 100 метров). Для этого использовали устройство, называемое хоробатес (древний уровень) и диоптру. Вода текла со скоростью около 5 км/ч. При таком незначительном уклоне на протяжении десятков километров точность была поразительной.",
+        "de": "Aquädukte funktionierten ausschließlich durch Schwerkraft, ohne Pumpen. Ingenieure schufen ein sehr präzises Gefälle - normalerweise nur 1:4800 (etwa 2,5 cm auf 100 Meter). Dazu verwendeten sie ein Gerät namens Chorobates (antike Wasserwaage) und Dioptra. Das Wasser floss mit etwa 5 km/h. Bei einem so geringen Gefälle über Dutzende Kilometer war die Genauigkeit erstaunlich."
+      },
+      {
+        "ru": "Римский бетон (opus caementicium), использованный в акведуках, был настолько прочным, что многие сооружения стоят до сих пор. Секрет его прочности — вулканический пепел (пуццолан) из окрестностей Неаполя, который вступал в химическую реакцию с морской водой, создавая кристаллы, укрепляющие бетон. Некоторые римские бетонные конструкции прочнее современных — они крепнут со временем, а не разрушаются.",
+        "de": "Römischer Beton (opus caementicium), der in Aquädukten verwendet wurde, war so haltbar, dass viele Bauten bis heute stehen. Das Geheimnis seiner Festigkeit ist vulkanische Asche (Puzzolan) aus der Gegend um Neapel, die mit Meerwasser eine chemische Reaktion einging und Kristalle bildete, die den Beton verstärkten. Einige römische Betonkonstruktionen sind stärker als moderne - sie werden mit der Zeit stärker, anstatt zu zerfallen."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question_ru": "Какой металл первым начали обрабатывать древние цивилизации?",
+    "question_de": "Welches Metall wurde von den alten Zivilisationen zuerst bearbeitet?",
+    "correct_answer_ru": "Медь",
+    "correct_answer_de": "Kupfer",
+    "wrong_answers_ru": [
+      "Железо",
+      "Бронза",
+      "Золото"
+    ],
+    "wrong_answers_de": [
+      "Eisen",
+      "Bronze",
+      "Gold"
+    ],
+    "explanation_ru": "Медь была первым металлом, который человек научился обрабатывать, около 5000 года до н.э. (медный век или халколит). Медь встречается в природе в самородном виде и легко плавится при относительно низкой температуре (1085°C). Сначала её обрабатывали холодной ковкой, затем научились плавить. Позже медь стали сплавлять с оловом, получая бронзу.",
+    "explanation_de": "Kupfer war das erste Metall, das der Mensch zu bearbeiten lernte, etwa um 5000 v. Chr. (Kupferzeit oder Chalkolithikum). Kupfer kommt in der Natur in gediegener Form vor und schmilzt leicht bei relativ niedriger Temperatur (1085°C). Zunächst wurde es kaltgeschmiedet, dann lernte man es zu schmelzen. Später begann man Kupfer mit Zinn zu legieren und erhielt Bronze.",
+    "difficulty": "medium",
+    "category": "Общее",
+    "type": "factual",
+    "period": "5000 BCE",
+    "tags": [
+      "технологии",
+      "металлургия",
+      "изобретения"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Извержение Везувия 79 года н.э. было настолько внезапным и мощным, что город был погребён за один день. Пирокластический поток (смесь раскалённого газа и пепла) двигался со скоростью 700 км/ч при температуре 400°C, мгновенно убивая всё живое. Люди буквально испарились, оставив пустоты в затвердевшем пепле. Археолог Джузеппе Фьорелли заливал их гипсом, создавая жуткие слепки погибших в последние моменты жизни.",
+        "de": "Der Ausbruch des Vesuvs 79 n. Chr. war so plötzlich und mächtig, dass die Stadt an einem Tag begraben wurde. Der pyroklastische Strom (Mischung aus heißem Gas und Asche) bewegte sich mit 700 km/h bei 400°C und tötete sofort alles Lebende. Menschen verdampften buchstäblich und hinterließen Hohlräume in der gehärteten Asche. Der Archäologe Giuseppe Fiorelli füllte sie mit Gips und schuf gruselige Abgüsse von Menschen in ihren letzten Momenten."
+      },
+      {
+        "ru": "Плиний Младший был единственным очевидцем, оставившим письменное описание катастрофы. Он наблюдал извержение из Мизена (около 30 км от Везувия) и описал облако в форме средиземноморской сосны-пинии. Его дядя, Плиний Старший, адмирал римского флота и натуралист, попытался спасти людей на кораблях и погиб от удушья. Теперь такие извержения называют 'плинианскими'.",
+        "de": "Plinius der Jüngere war der einzige Augenzeuge, der eine schriftliche Beschreibung der Katastrophe hinterließ. Er beobachtete den Ausbruch von Misenum (etwa 30 km vom Vesuv) und beschrieb die Wolke in Form einer mediterranen Pinie. Sein Onkel, Plinius der Ältere, Admiral der römischen Flotte und Naturforscher, versuchte Menschen mit Schiffen zu retten und starb an Erstickung. Solche Ausbrüche werden jetzt 'plinianisch' genannt."
+      },
+      {
+        "ru": "Помпеи сохранили уникальные детали римской жизни. Найдены граффити на стенах ('Марк любит Спендузу', 'Здесь был Гай', политические слоганы), меню в тавернах, реклама публичных домов с прямыми изображениями услуг. В булочных обнаружили обугленный хлеб с клеймом пекаря. На стенах сохранились фаллические символы, указывающие дорогу к лупанарию (борделю). Один дом имел надпись: 'Приветствие тебе, прибыль!' над входом.",
+        "de": "Pompeji bewahrte einzigartige Details des römischen Lebens. Es wurden Graffiti an Wänden gefunden ('Marcus liebt Spendusa', 'Gaius war hier', politische Slogans), Menüs in Tavernen, Werbung für Bordelle mit direkten Darstellungen von Dienstleistungen. In Bäckereien wurde verkohltes Brot mit dem Stempel des Bäckers entdeckt. An den Wänden blieben phallische Symbole erhalten, die den Weg zum Lupanar (Bordell) wiesen. Ein Haus hatte die Inschrift: 'Sei gegrüßt, Gewinn!' über dem Eingang."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question_ru": "Кто был богом виноделия в древнегреческой мифологии?",
+    "question_de": "Wer war der Gott des Weinbaus in der griechischen Mythologie?",
+    "correct_answer_ru": "Дионис",
+    "correct_answer_de": "Dionysos",
+    "wrong_answers_ru": [
+      "Аполлон",
+      "Гермес",
+      "Гефест"
+    ],
+    "wrong_answers_de": [
+      "Apollon",
+      "Hermes",
+      "Hephaistos"
+    ],
+    "explanation_ru": "Дионис - бог виноделия, виноградарства, плодородия и религиозного экстаза в древнегреческой мифологии. Сын Зевса и смертной женщины Семелы. Культ Диониса включал экстатические празднества с вином, танцами и театральными представлениями. Его римский эквивалент - Вакх (Бахус).",
+    "explanation_de": "Dionysos war der Gott des Weinbaus, der Trauben, der Fruchtbarkeit und der religiösen Ekstase in der griechischen Mythologie. Sohn des Zeus und der sterblichen Frau Semele. Der Kult des Dionysos umfasste ekstatische Feste mit Wein, Tanz und Theateraufführungen. Sein römisches Äquivalent ist Bacchus.",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE onwards",
+    "tags": [
+      "боги",
+      "мифология",
+      "религия"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Легенда о гонце Фидиппиде, пробежавшем 42 км от Марафона до Афин с вестью о победе и умершем от истощения, скорее всего, выдумана. Геродот не упоминает этот эпизод. Зато он рассказывает, что Фидиппид пробежал около 240 км от Афин до Спарты за два дня, чтобы просить помощи перед битвой. Современный марафон вдохновлён этими легендами, но дистанция 42,195 км установлена только в 1921 году.",
+        "de": "Die Legende vom Boten Pheidippides, der 42 km von Marathon nach Athen lief, die Siegesnachricht überbrachte und an Erschöpfung starb, ist höchstwahrscheinlich erfunden. Herodot erwähnt diese Episode nicht. Stattdessen erzählt er, dass Pheidippides etwa 240 km von Athen nach Sparta in zwei Tagen lief, um vor der Schlacht um Hilfe zu bitten. Der moderne Marathon ist von diesen Legenden inspiriert, aber die Distanz von 42,195 km wurde erst 1921 festgelegt."
+      },
+      {
+        "ru": "Афиняне победили, несмотря на огромное численное превосходство персов (возможно, 25 000 против 10 000). Секрет успеха — фаланга гоплитов с тяжёлым вооружением и революционная тактика Мильтиада: он усилил фланги, ослабив центр. Когда персы прорвали центр, усиленные фланги окружили их в классический 'двойной охват'. Афиняне потеряли 192 воина, персы — около 6400. Павшие афиняне были похоронены на поле битвы под курганом Сoros, который стоит до сих пор.",
+        "de": "Die Athener siegten trotz enormer zahlenmäßiger Überlegenheit der Perser (möglicherweise 25.000 gegen 10.000). Das Erfolgsgeheimnis war die Hopliten-Phalanx mit schwerer Bewaffnung und Miltiades' revolutionäre Taktik: Er verstärkte die Flanken und schwächte das Zentrum. Als die Perser das Zentrum durchbrachen, umzingelten die verstärkten Flanken sie in einer klassischen 'doppelten Umfassung'. Die Athener verloren 192 Krieger, die Perser etwa 6400. Die gefallenen Athener wurden auf dem Schlachtfeld unter dem Hügel Soros begraben, der bis heute steht."
+      },
+      {
+        "ru": "После битвы афинские гоплиты совершили невероятный подвиг: они прошли маршем обратно в Афины (около 40 км) в полном вооружении, чтобы защитить город от персидского флота, который направлялся туда. Они прибыли раньше персов. Увидев, что Афины защищены, персидский флот развернулся и отплыл в Азию. Солдаты прошли около 80 км за один день в тяжёлой броне — феноменальное достижение выносливости.",
+        "de": "Nach der Schlacht vollbrachten die athenischen Hopliten eine unglaubliche Leistung: Sie marschierten in voller Rüstung zurück nach Athen (etwa 40 km), um die Stadt vor der persischen Flotte zu schützen, die dorthin unterwegs war. Sie kamen vor den Persern an. Als die persische Flotte sah, dass Athen verteidigt wurde, drehte sie um und segelte nach Asien zurück. Die Soldaten legten etwa 80 km an einem Tag in schwerer Rüstung zurück - eine phänomenale Ausdauerleistung."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question_ru": "В каком году пала Западная Римская империя?",
+    "question_de": "In welchem Jahr fiel das Weströmische Reich?",
+    "correct_answer_ru": "476 год н.э.",
+    "correct_answer_de": "476 n. Chr.",
+    "wrong_answers_ru": [
+      "410 год н.э.",
+      "455 год н.э.",
+      "493 год н.э."
+    ],
+    "wrong_answers_de": [
+      "410 n. Chr.",
+      "455 n. Chr.",
+      "493 n. Chr."
+    ],
+    "explanation_ru": "Западная Римская империя пала в 476 году н.э., когда германский военачальник Одоакр сверг последнего западноримского императора Ромула Августула. Одоакр отослал императорские регалии в Константинополь, заявив, что один император (восточный) достаточен для всей империи. Это событие традиционно считается концом античности и началом Средневековья.",
+    "explanation_de": "Das Weströmische Reich fiel 476 n. Chr., als der germanische Heerführer Odoaker den letzten weströmischen Kaiser Romulus Augustulus absetzte. Odoaker schickte die Kaiserinsignien nach Konstantinopel und erklärte, ein Kaiser (der östliche) sei für das ganze Reich ausreichend. Dieses Ereignis gilt traditionell als Ende der Antike und Beginn des Mittelalters.",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "476 CE",
+    "tags": [
+      "падение",
+      "империи",
+      "конец эпохи"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Падение Западной Римской империи в 476 г. н.э. было скорее символическим событием, чем реальным концом. К тому времени империя уже давно находилась в упадке: экономический кризис, нашествия варваров, гражданские войны. Последний император Ромул Августул был всего лишь мальчиком-марионеткой, а реальная власть принадлежала его отцу Оресту и военачальнику Одоакру.",
+        "de": "Der Fall des Weströmischen Reiches 476 n. Chr. war eher ein symbolisches Ereignis als ein tatsächliches Ende. Zu dieser Zeit war das Reich bereits lange im Niedergang: wirtschaftliche Krise, Barbareneinfälle, Bürgerkriege. Der letzte Kaiser Romulus Augustulus war nur ein Marionettenjunge, während die wahre Macht seinem Vater Orestes und dem Heerführer Odoaker gehörte."
+      },
+      {
+        "ru": "Одоакр не провозгласил себя императором, а отправил императорские регалии в Константинополь, заявив, что один император (восточный) достаточен. Он правил Италией как 'король' (rex), формально признавая власть восточного императора. Это событие традиционно считается концом античности, хотя Восточная Рömische империя просуществовала ещё тысячу лет.",
+        "de": "Odoaker proklamierte sich nicht zum Kaiser, sondern sandte die Kaiserinsignien nach Konstantinopel und erklärte, ein Kaiser (der östliche) sei ausreichend. Er regierte Italien als 'König' (rex) und erkannte formell die Autorität des östlichen Kaisers an. Dieses Ereignis gilt traditionell als Ende der Antike, obwohl das Oströmische Reich noch tausend Jahre lang bestand."
+      },
+      {
+        "ru": "Термин 'падение Римской империи' был популяризирован британским историком Эдвардом Гиббоном в его знаменитом труде 'История упадка и падения Римской империи' (1776-1789). Гиббон видел причину падения в упадке римских добродетелей и распространении христианства. Современные историки считают падение более сложным процессом, включающим экономические, военные и социальные факторы.",
+        "de": "Der Begriff 'Fall des Römischen Reiches' wurde vom britischen Historiker Edward Gibbon in seinem berühmten Werk 'Geschichte des Verfalls und Untergangs des Römischen Reiches' (1776-1789) populär gemacht. Gibbon sah die Ursache des Falls im Niedergang der römischen Tugenden und der Ausbreitung des Christentums. Moderne Historiker betrachten den Fall als komplexeren Prozess, der wirtschaftliche, militärische und soziale Faktoren umfasst."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question_ru": "Какой древний город был разрушен извержением Везувия в 79 году н.э.?",
+    "question_de": "Welche antike Stadt wurde 79 n. Chr. durch den Ausbruch des Vesuvs zerstört?",
+    "correct_answer_ru": "Помпеи",
+    "correct_answer_de": "Pompeji",
+    "wrong_answers_ru": [
+      "Геркуланум",
+      "Стабии",
+      "Оплонтис"
+    ],
+    "wrong_answers_de": [
+      "Herculaneum",
+      "Stabiae",
+      "Oplontis"
+    ],
+    "explanation_ru": "Помпеи - древнеримский город у подножия вулкана Везувий, который был погребён под слоем вулканического пепла во время извержения 24 августа 79 года н.э. Город был забыт на 1500 лет и случайно обнаружен в 1599 году при строительстве канала. Систематические раскопки начались в 1748 году. Помпеи дают уникальное представление о повседневной жизни древних римлян.",
+    "explanation_de": "Pompeji war eine antike römische Stadt am Fuße des Vesuvs, die am 24. August 79 n. Chr. während eines Ausbruchs unter einer Schicht vulkanischer Asche begraben wurde. Die Stadt war 1500 Jahre lang vergessen und wurde 1599 beim Kanalbau zufällig entdeckt. Systematische Ausgrabungen begannen 1748. Pompeji bietet einen einzigartigen Einblick in das tägliche Leben der alten Römer.",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "79 CE",
+    "tags": [
+      "катастрофы",
+      "города",
+      "вулканы"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Извержение Везувия 79 года н.э. было настолько внезапным и мощным, что город был погребён за один день. Пирокластический поток (смесь раскалённого газа и пепла) двигался со скоростью 700 км/ч при температуре 400°C, мгновенно убивая всё живое. Люди буквально испарились, оставив пустоты в затвердевшем пепле. Археолог Джузеппе Фьорелли заливал их гипсом, создавая жуткие слепки погибших в последние моменты жизни.",
+        "de": "Der Ausbruch des Vesuvs 79 n. Chr. war so plötzlich und mächtig, dass die Stadt an einem Tag begraben wurde. Der pyroklastische Strom (Mischung aus heißem Gas und Asche) bewegte sich mit 700 km/h bei 400°C und tötete sofort alles Lebende. Menschen verdampften buchstäblich und hinterließen Hohlräume in der gehärteten Asche. Der Archäologe Giuseppe Fiorelli füllte sie mit Gips und schuf gruselige Abgüsse von Menschen in ihren letzten Momenten."
+      },
+      {
+        "ru": "Плиний Младший был единственным очевидцем, оставившим письменное описание катастрофы. Он наблюдал извержение из Мизена (около 30 км от Везувия) и описал облако в форме средиземноморской сосны-пинии. Его дядя, Плиний Старший, адмирал римского флота и натуралист, попытался спасти людей на кораблях и погиб от удушья. Теперь такие извержения называют 'плинианскими'.",
+        "de": "Plinius der Jüngere war der einzige Augenzeuge, der eine schriftliche Beschreibung der Katastrophe hinterließ. Er beobachtete den Ausbruch von Misenum (etwa 30 km vom Vesuv) und beschrieb die Wolke in Form einer mediterranen Pinie. Sein Onkel, Plinius der Ältere, Admiral der römischen Flotte und Naturforscher, versuchte Menschen mit Schiffen zu retten und starb an Erstickung. Solche Ausbrüche werden jetzt 'plinianisch' genannt."
+      },
+      {
+        "ru": "Помпеи сохранили уникальные детали римской жизни. Найдены граффити на стенах ('Марк любит Спендузу', 'Здесь был Гай', политические слоганы), меню в тавернах, реклама публичных домов с прямыми изображениями услуг. В булочных обнаружили обугленный хлеб с клеймом пекаря. На стенах сохранились фаллические символы, указывающие дорогу к лупанарию (борделю). Один дом имел надпись: 'Приветствие тебе, прибыль!' над входом.",
+        "de": "Pompeji bewahrte einzigartige Details des römischen Lebens. Es wurden Graffiti an Wänden gefunden ('Marcus liebt Spendusa', 'Gaius war hier', politische Slogans), Menüs in Tavernen, Werbung für Bordelle mit direkten Darstellungen von Dienstleistungen. In Bäckereien wurde verkohltes Brot mit dem Stempel des Bäckers entdeckt. An den Wänden blieben phallische Symbole erhalten, die den Weg zum Lupanar (Bordell) wiesen. Ein Haus hatte die Inschrift: 'Sei gegrüßt, Gewinn!' über dem Eingang."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question_ru": "Как назывались рабы-гладиаторы, обученные для боёв на арене?",
+    "question_de": "Wie nannten sich die Sklaven-Gladiatoren, die für Kämpfe in der Arena ausgebildet wurden?",
+    "correct_answer_ru": "Гладиаторы",
+    "correct_answer_de": "Gladiatoren",
+    "wrong_answers_ru": [
+      "Легионеры",
+      "Ауксилиарии",
+      "Велиты"
+    ],
+    "wrong_answers_de": [
+      "Legionäre",
+      "Auxiliaren",
+      "Veliten"
+    ],
+    "explanation_ru": "Гладиаторы - профессиональные бойцы в Древнем Риме, выступавшие на публичных представлениях. Большинство были рабами, военнопленными или преступниками, но некоторые свободные люди добровольно становились гладиаторами ради славы и денег. Они жили в специальных школах (лудусах), тренировались и сражались по строгим правилам. Существовало много типов гладиаторов с разным вооружением.",
+    "explanation_de": "Gladiatoren waren professionelle Kämpfer im Alten Rom, die bei öffentlichen Vorstellungen auftraten. Die meisten waren Sklaven, Kriegsgefangene oder Verbrecher, aber einige freie Menschen wurden freiwillig Gladiatoren für Ruhm und Geld. Sie lebten in speziellen Schulen (Ludi), trainierten und kämpften nach strengen Regeln. Es gab viele Typen von Gladiatoren mit unterschiedlicher Bewaffnung.",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE - 5th century CE",
+    "tags": [
+      "развлечения",
+      "рабство",
+      "бои"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Всего произошло три Пунических войны (264-146 гг. до н.э.). Первая война (264-241) велась за Сицилию и закончилась победой Рима. Вторая (218-201) была самой драматичной: Ганнибал перешёл Альпы со слонами и разбил римлян в нескольких битвах, включая Канны (216 г. до н.э.) — одно из величайших поражений Рима (70 000 убитых за день). Третья война (149-146) завершилась полным уничтожением Карфагена.",
+        "de": "Es gab insgesamt drei Punische Kriege (264-146 v. Chr.). Der erste Krieg (264-241) wurde um Sizilien geführt und endete mit Roms Sieg. Der zweite (218-201) war der dramatischste: Hannibal überquerte die Alpen mit Elefanten und besiegte die Römer in mehreren Schlachten, darunter Cannae (216 v. Chr.) - eine der größten Niederlagen Roms (70.000 Tote an einem Tag). Der dritte Krieg (149-146) endete mit der völligen Zerstörung Karthagos."
+      },
+      {
+        "ru": "После победы в Третьей Пунической войне римляне буквально стёрли Карфаген с лица земли. Город горел 17 дней. Римский полководец Сципион Эмилиан приказал сравнять руины с землёй и, по легенде, засеять землю солью, чтобы ничто не росло. Около 50 000 выживших были проданы в рабство. Территория стала римской провинцией Африка. Место было проклято, и лишь спустя столетие Юлий Цезарь основал там колонию.",
+        "de": "Nach dem Sieg im Dritten Punischen Krieg löschten die Römer Karthago buchstäblich vom Erdboden. Die Stadt brannte 17 Tage. Der römische Feldherr Scipio Aemilianus befahl, die Ruinen dem Erdboden gleichzumachen und der Legende nach das Land mit Salz zu besäen, damit nichts wachsen konnte. Etwa 50.000 Überlebende wurden in die Sklaverei verkauft. Das Gebiet wurde zur römischen Provinz Africa. Der Ort war verflucht, und erst ein Jahrhundert später gründete Julius Caesar dort eine Kolonie."
+      },
+      {
+        "ru": "Катон Старший, римский сенатор, был так одержим уничтожением Карфагена, что заканчивал каждую свою речь в Сенате фразой 'Ceterum censeo Carthaginem esse delendam' ('Кроме того, я полагаю, что Карфаген должен быть разрушен'), независимо от темы выступления. Его паранойя была отчасти оправдана — Карфаген быстро восстанавливался экономически, и Катон видел в этом угрозу Риму.",
+        "de": "Cato der Ältere, ein römischer Senator, war so besessen von der Zerstörung Karthagos, dass er jede seiner Reden im Senat mit dem Satz 'Ceterum censeo Carthaginem esse delendam' ('Übrigens bin ich der Meinung, dass Karthago zerstört werden muss') beendete, unabhängig vom Thema der Rede. Seine Paranoia war teilweise gerechtfertigt - Karthago erholte sich wirtschaftlich schnell, und Cato sah darin eine Bedrohung für Rom."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question_ru": "Кто был первым императором Римской империи?",
+    "question_de": "Wer war der erste Kaiser des Römischen Reiches?",
+    "correct_answer_ru": "Октавиан Август",
+    "correct_answer_de": "Octavian Augustus",
+    "wrong_answers_ru": [
+      "Юлий Цезарь",
+      "Тиберий",
+      "Нерон"
+    ],
+    "wrong_answers_de": [
+      "Julius Caesar",
+      "Tiberius",
+      "Nero"
+    ],
+    "explanation_ru": "Октавиан Август (63 до н.э. - 14 н.э.) - первый римский император, правивший с 27 года до н.э. Приёмный сын и наследник Юлия Цезаря. После победы в гражданских войнах формально восстановил республику, но фактически установил единоличную власть. Его правление началось Pax Romana - 200 лет относительного мира и процветания. Месяц август назван в его честь.",
+    "explanation_de": "Octavian Augustus (63 v. Chr. - 14 n. Chr.) war der erste römische Kaiser, der ab 27 v. Chr. regierte. Adoptivohn und Erbe von Julius Caesar. Nach dem Sieg in den Bürgerkriegen stellte er formal die Republik wieder her, etablierte aber faktisch die Alleinherrschaft. Seine Herrschaft begann die Pax Romana - 200 Jahre relativen Friedens und Wohlstands. Der Monat August ist nach ihm benannt.",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "27 BCE",
+    "tags": [
+      "императоры",
+      "правители",
+      "начало империи"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Римский Форум был центром общественной жизни на протяжении более тысячи лет. Здесь проходили триумфальные процессии победоносных полководцев по Священной дороге (Via Sacra), публичные казни, гладиаторские бои (до постройки Колизея), выборы, судебные процессы. На Форуме Цицерон произносил свои обличительные речи против Катилины, здесь же выставили голову и руки самого Цицерона после его убийства.",
+        "de": "Das Forum Romanum war über tausend Jahre lang das Zentrum des öffentlichen Lebens. Hier fanden Triumphzüge siegreicher Feldherren auf der Heiligen Straße (Via Sacra), öffentliche Hinrichtungen, Gladiatorenkämpfe (bis zum Bau des Kolosseums), Wahlen, Gerichtsprozesse statt. Auf dem Forum hielt Cicero seine anklagenden Reden gegen Catilina, hier wurden auch Ciceros Kopf und Hände nach seiner Ermordung ausgestellt."
+      },
+      {
+        "ru": "Ростра — ораторская трибуна на Форуме — была украшена носами (rostra) захваченных вражеских кораблей после победы над Антием в 338 г. до н.э. С этой трибуны произносились важнейшие речи. После убийства Цезаря Марк Антоний произнёс с Ростры знаменитую речь 'Друзья, римляне, соотечественники!' (в шекспировской версии), которая спровоцировала восстание против убийц.",
+        "de": "Die Rostra - die Rednertribüne auf dem Forum - war mit den Bugspitzen (rostra) erbeuteter feindlicher Schiffe nach dem Sieg über Antium 338 v. Chr. geschmückt. Von dieser Tribüne wurden die wichtigsten Reden gehalten. Nach Caesars Ermordung hielt Marcus Antonius von den Rostra die berühmte Rede 'Freunde, Römer, Landsleute!' (in Shakespeares Version), die einen Aufstand gegen die Mörder provozierte."
+      },
+      {
+        "ru": "В Средние века Форум назывался 'Campo Vaccino' ('Коровье поле'), потому что использовался как пастбище для скота. Величественные руины были погребены под 8-10 метрами земли и мусора. Мраморные колонны и статуи грабили для строительства церквей и дворцов. Систематические раскопки начались только в XIX веке. Сегодня уровень древнего Форума находится значительно ниже современного уровня города.",
+        "de": "Im Mittelalter wurde das Forum 'Campo Vaccino' ('Kuhfeld') genannt, weil es als Weideland für Vieh genutzt wurde. Die prächtigen Ruinen waren unter 8-10 Metern Erde und Schutt begraben. Marmorsäulen und Statuen wurden für den Bau von Kirchen und Palästen geplündert. Systematische Ausgrabungen begannen erst im 19. Jahrhundert. Heute liegt das Niveau des antiken Forums deutlich unter dem modernen Stadtniveau."
+      }
+    ]
+  }
+]

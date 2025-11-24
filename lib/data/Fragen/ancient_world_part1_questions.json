@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "question": "Кто был первым фараоном объединённого Египта?",
+    "answer": "Нармер (Менес)",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE",
+    "tags": [
+      "фараоны",
+      "объединение"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "В каком году началось строительство пирамиды Хеопса?",
+    "answer": "Около 2560 года до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "date",
+    "period": "2560 BCE",
+    "tags": [
+      "пирамиды",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Какой древнеегипетский бог изображался с головой шакала?",
+    "answer": "Анубис",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "религия"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Кто был последним фараоном Египта?",
+    "answer": "Клеопатра VII",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "30 BCE",
+    "tags": [
+      "фараоны",
+      "Птолемеи"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Какой материал использовали древние египтяне для письма?",
+    "answer": "Папирус",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "письменность",
+      "материалы"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Как называлась письменность древних шумеров?",
+    "answer": "Клинопись",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "definition",
+    "period": "3500 BCE",
+    "tags": [
+      "письменность",
+      "шумеры"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Какая река была центром месопотамской цивилизации наряду с Тигром?",
+    "answer": "Евфрат",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "4000 BCE",
+    "tags": [
+      "реки",
+      "география"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Какой древний закон был записан на каменной стеле в Вавилоне?",
+    "answer": "Законы Хаммурапи",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "1750 BCE",
+    "tags": [
+      "законы",
+      "Вавилон"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Как назывался древнеегипетский процесс сохранения тела после смерти?",
+    "answer": "Мумификация",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "погребения",
+      "ритуалы"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Какой древнеегипетский фараон построил самую большую пирамиду?",
+    "answer": "Хеопс (Хуфу)",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2560 BCE",
+    "tags": [
+      "пирамиды",
+      "фараоны"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Как назывался древнеегипетский бог солнца?",
+    "answer": "Ра",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "солнце"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Какая древняя цивилизация изобрела колесо?",
+    "answer": "Шумеры",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "3500 BCE",
+    "tags": [
+      "изобретения",
+      "технологии"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Как назывался древнеегипетский крест с петлёй?",
+    "answer": "Анх",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "религия"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Какой древнеегипетский бог изображался с головой сокола?",
+    "answer": "Гор",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "небо"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Как назывался древнеегипетский головной убор фараона?",
+    "answer": "Немес",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "фараоны",
+      "одежда"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Какая древняя цивилизация построила зиккураты?",
+    "answer": "Шумеры",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "архитектура",
+      "храмы"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Какой древний город был известен своими висячими садами?",
+    "answer": "Вавилон",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "600 BCE",
+    "tags": [
+      "чудеса света",
+      "сады"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Как назывался древнеегипетский бог подземного мира?",
+    "answer": "Осирис",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "загробная жизнь"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Какой древний правитель создал первый свод законов?",
+    "answer": "Хаммурапи",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "1750 BCE",
+    "tags": [
+      "законы",
+      "правители"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Как назывался древнеегипетский бог с головой ибиса?",
+    "answer": "Тот",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "мудрость"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Какая древняя цивилизация создала календарь из 365 дней?",
+    "answer": "Древний Египет",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "календарь",
+      "наука"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Как назывался древнеегипетский столб с иероглифами?",
+    "answer": "Обелиск",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "архитектура",
+      "памятники"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Какой древнеегипетский бог изображался с головой крокодила?",
+    "answer": "Себек",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "вода"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Как называлась древнеегипетская книга мёртвых?",
+    "answer": "Книга выхода в день",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1550 BCE",
+    "tags": [
+      "религия",
+      "тексты"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Какая древняя цивилизация создала город Ур?",
+    "answer": "Шумеры",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "4000 BCE",
+    "tags": [
+      "города",
+      "шумеры"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Как назывался древнеегипетский жезл в форме крюка?",
+    "answer": "Хека",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "регалии",
+      "фараоны"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Какой древнеегипетский фараон провёл религиозную реформу?",
+    "answer": "Эхнатон",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1350 BCE",
+    "tags": [
+      "реформы",
+      "религия"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Как назывался древнеегипетский символ жизни?",
+    "answer": "Анх",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "жизнь"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Какая древняя цивилизация создала город Вавилон?",
+    "answer": "Вавилоняне",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "1894 BCE",
+    "tags": [
+      "города",
+      "Вавилон"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Как назывался древнеегипетский бог с головой барана?",
+    "answer": "Хнум",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "творение"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Какой древнеегипетский храм находился в Карнаке?",
+    "answer": "Храм Амона-Ра",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2000 BCE",
+    "tags": [
+      "храмы",
+      "религия"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Как назывался древнеегипетский белый венец?",
+    "answer": "Хеджет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "венцы",
+      "Верхний Египет"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Какая древняя цивилизация создала город Ниневия?",
+    "answer": "Ассирийцы",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "705 BCE",
+    "tags": [
+      "города",
+      "Ассирия"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Как назывался древнеегипетский красный венец?",
+    "answer": "Дешрет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "венцы",
+      "Нижний Египет"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Какой древнеегипетский бог был покровителем мёртвых?",
+    "answer": "Анубис",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "смерть"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Как назывался древнеегипетский двойной венец?",
+    "answer": "Пшент",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "венцы",
+      "объединение"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Какая древняя цивилизация создала город Лагаш?",
+    "answer": "Шумеры",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "2500 BCE",
+    "tags": [
+      "города",
+      "шумеры"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Как назывался древнеегипетский синий венец?",
+    "answer": "Хепреш",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "1550 BCE",
+    "tags": [
+      "венцы",
+      "военные"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Какой древнеегипетский бог был богом пустыни?",
+    "answer": "Сет",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "пустыня"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Как назывался древнеегипетский солнечный диск?",
+    "answer": "Атон",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "1350 BCE",
+    "tags": [
+      "религия",
+      "солнце"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Какая древняя цивилизация создала город Ашшур?",
+    "answer": "Ассирийцы",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "2600 BCE",
+    "tags": [
+      "города",
+      "Ассирия"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Как назывался древнеегипетский головной убор коршуна?",
+    "answer": "Нехбет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "богини"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Какая древнеегипетская царица правила как фараон?",
+    "answer": "Хатшепсут",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1479 BCE",
+    "tags": [
+      "фараоны",
+      "женщины"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Как назывался древнеегипетский символ защиты?",
+    "answer": "Уджат",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "око Гора"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Какая древняя цивилизация создала город Умма?",
+    "answer": "Шумеры",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "города",
+      "войны"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Как назывался древнеегипетский символ вечности?",
+    "answer": "Шен",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "вечность"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "В каком году произошла битва при Кадеше?",
+    "answer": "1274 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "date",
+    "period": "1274 BCE",
+    "tags": [
+      "битвы",
+      "Рамсес II"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Как назывался древнеегипетский символ стабильности?",
+    "answer": "Джед",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "Осирис"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Какая древняя цивилизация создала город Эбла?",
+    "answer": "Эблаиты",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "города",
+      "Сирия"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Как назывался древнеегипетский флаг на шесте?",
+    "answer": "Имиут",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "религия"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Какой фараон построил Великую пирамиду?",
+    "answer": "Хеопс",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2560 BCE",
+    "tags": [
+      "пирамиды",
+      "фараоны"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Сколько лет строилась пирамида Хеопса?",
+    "answer": "Около 20 лет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2560 BCE",
+    "tags": [
+      "строительство",
+      "пирамиды"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Какой бог был супругом Исиды?",
+    "answer": "Осирис",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Как называлась египетская богиня-кошка?",
+    "answer": "Бастет",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "кошки"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Какой город был столицей Древнего царства?",
+    "answer": "Мемфис",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "geography",
+    "period": "3100 BCE",
+    "tags": [
+      "столицы",
+      "города"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Какой город был столицей Нового царства?",
+    "answer": "Фивы",
+    "difficulty": "medium",
+    "category": "Древний Egipt",
+    "type": "geography",
+    "period": "1550 BCE",
+    "tags": [
+      "столицы",
+      "города"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Кто был богом мудрости в Египте?",
+    "answer": "Тот",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "мудрость"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Как называлась египетская богиня неба?",
+    "answer": "Нут",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "небо"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Кто был египетским богом земли?",
+    "answer": "Геб",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "земля"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Какой фараон был мужем Нефертити?",
+    "answer": "Эхнатон",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1350 BCE",
+    "tags": [
+      "фараоны",
+      "семья"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Как называлась столица Эхнатона?",
+    "answer": "Ахетатон",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "geography",
+    "period": "1350 BCE",
+    "tags": [
+      "города",
+      "столицы"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Кто был отцом Тутанхамона?",
+    "answer": "Эхнатон",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1330 BCE",
+    "tags": [
+      "фараоны",
+      "семья"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "В каком году была открыта гробница Тутанхамона?",
+    "answer": "1922 год",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "date",
+    "period": "1922 CE",
+    "tags": [
+      "археология",
+      "открытия"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Кто открыл гробницу Тутанхамона?",
+    "answer": "Говард Картер",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1922 CE",
+    "tags": [
+      "археология",
+      "учёные"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Какой фараон построил Абу-Симбел?",
+    "answer": "Рамсес II",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1264 BCE",
+    "tags": [
+      "храмы",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Как называлась супруга Рамсеса II?",
+    "answer": "Нефертари",
+    "difficulty": "hard",
+    "category": "Древний Egipt",
+    "type": "factual",
+    "period": "1250 BCE",
+    "tags": [
+      "царицы",
+      "семья"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Сколько лет правил Рамсес II?",
+    "answer": "66 лет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1279-1213 BCE",
+    "tags": [
+      "правление",
+      "фараоны"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Какой египетский бог взвешивал сердца умерших?",
+    "answer": "Анубис",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "суд"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Как называлось египетское загробное царство?",
+    "answer": "Дуат",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "религия",
+      "смерть"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Какое животное было священным для бога Тота?",
+    "answer": "Ибис и павиан",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "животные"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Как называлась египетская богиня войны?",
+    "answer": "Сехмет",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "война"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Какой царь объединил Верхний и Нижний Египет?",
+    "answer": "Нармер",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE",
+    "tags": [
+      "объединение",
+      "фараоны"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Как называлась палетка Нармера?",
+    "answer": "Косметическая палетка",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3100 BCE",
+    "tags": [
+      "артефакты",
+      "искусство"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Какой фараон построил Ступенчатую пирамиду?",
+    "answer": "Джосер",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2650 BCE",
+    "tags": [
+      "пирамиды",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Кто был архитектором пирамиды Джосера?",
+    "answer": "Имхотеп",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2650 BCE",
+    "tags": [
+      "архитекторы",
+      "строительство"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Где находится Ступенчатая пирамида?",
+    "answer": "Саккара",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "geography",
+    "period": "2650 BCE",
+    "tags": [
+      "пирамиды",
+      "места"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Сколько ступеней в пирамиде Джосера?",
+    "answer": "Шесть",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2650 BCE",
+    "tags": [
+      "пирамиды",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Как называлась египетская письменность на папирусе?",
+    "answer": "Иератическая",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "письменность",
+      "виды"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Как называлась упрощённая египетская письменность?",
+    "answer": "Демотическая",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "650 BCE",
+    "tags": [
+      "письменность",
+      "виды"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Кто расшифровал египетские иероглифы?",
+    "answer": "Жан-Франсуа Шампольон",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1822 CE",
+    "tags": [
+      "учёные",
+      "открытия"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Как называется камень, помогший расшифровать иероглифы?",
+    "answer": "Розеттский камень",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "196 BCE",
+    "tags": [
+      "артефакты",
+      "письменность"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "В каком году был найден Розеттский камень?",
+    "answer": "1799 год",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "date",
+    "period": "1799 CE",
+    "tags": [
+      "находки",
+      "археология"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Сколько языков на Розеттском камне?",
+    "answer": "Три",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "196 BCE",
+    "tags": [
+      "языки",
+      "письменность"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Какие языки на Розеттском камне?",
+    "answer": "Древнегреческий, демотический, иероглифы",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "196 BCE",
+    "tags": [
+      "языки",
+      "письменность"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Как называлась египетская богиня истины?",
+    "answer": "Маат",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "справедливость"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Что символизировало перо Маат?",
+    "answer": "Истину и справедливость",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "религия"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "С чем сравнивали сердце на суде Осириса?",
+    "answer": "С пером Маат",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "религия",
+      "суд"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Какое чудовище пожирало грешников в египетской мифологии?",
+    "answer": "Амат",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "существа",
+      "суд"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Как называлась египетская ладья мёртвых?",
+    "answer": "Барка Ра",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "религия",
+      "путешествия"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Какой бог перевозил умерших в загробный мир?",
+    "answer": "Анубис",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "смерть"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Как называлась египетская церемония 'открытия рта'?",
+    "answer": "Уэб-ра",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "ритуалы",
+      "погребения"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Какие органы извлекали при мумификации?",
+    "answer": "Печень, лёгкие, желудок, кишечник",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "мумификация",
+      "процесс"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Какой орган оставляли в теле при мумификации?",
+    "answer": "Сердце",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "мумификация",
+      "религия"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Как называлис сосуды для органов при мумификации?",
+    "answer": "Канопы",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "мумификация",
+      "сосуды"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Сколько канопов использовалось?",
+    "answer": "Четыре",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "мумификация",
+      "количество"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Какие боги охраняли канопы?",
+    "answer": "Сыновья Гора",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "защита"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Как звали старшего сына Гора?",
+    "answer": "Имсети",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "имена"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Какой сын Гора охранял печень?",
+    "answer": "Имсети",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "органы"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Как назывался город мёртвых в Египте?",
+    "answer": "Некрополь",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "погребения",
+      "города"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Где находится Долина царей?",
+    "answer": "Фивы (Луксор)",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "geography",
+    "period": "1550 BCE",
+    "tags": [
+      "некрополи",
+      "места"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Сколько гробниц в Долине царей?",
+    "answer": "Более 60",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1550 BCE",
+    "tags": [
+      "некрополи",
+      "количество"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Как называется долина цариц?",
+    "answer": "Та-Сет-Неферу",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "1550 BCE",
+    "tags": [
+      "некрополи",
+      "названия"
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Какой материал использовали для бальзамирования?",
+    "answer": "Натр (сода)",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "мумификация",
+      "материалы"
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Сколько дней длилась мумификация?",
+    "answer": "70 дней",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "мумификация",
+      "время"
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Какое масло использовали в мумификации?",
+    "answer": "Кедровое",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "мумификация",
+      "материалы"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Как называлась египетская богиня-скорпион?",
+    "answer": "Серкет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "животные"
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Какой бог был покровителем Мемфиса?",
+    "answer": "Птах",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "города"
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Как называлась жена Птаха?",
+    "answer": "Сехмет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Какой бог был покровителем Фив?",
+    "answer": "Амон",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "2000 BCE",
+    "tags": [
+      "боги",
+      "города"
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Как называлась жена Амона?",
+    "answer": "Мут",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "2000 BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Какой бог был сыном Амона?",
+    "answer": "Хонсу",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "2000 BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Как называлась фиванская триада богов?",
+    "answer": "Амон, Мут, Хонсу",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "2000 BCE",
+    "tags": [
+      "боги",
+      "группы"
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Какая богиня была матерью Гора?",
+    "answer": "Исида",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Кто убил Осириса?",
+    "answer": "Сет",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "мифы"
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Кто воскресила Осириса?",
+    "answer": "Исида",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "магия"
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Как называлась сестра Исиды?",
+    "answer": "Нефтида",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Кто был мужем Нефтиды?",
+    "answer": "Сет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Какой бог был покровителем писцов?",
+    "answer": "Тот",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "профессии"
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Как называлась супруга Тота?",
+    "answer": "Маат",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Какая богиня была дочерью Ра?",
+    "answer": "Бастет (и другие)",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "семья"
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Как называлась ладья Ра для дневного путешествия?",
+    "answer": "Манджет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "путешествия"
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Как называлась ночная ладья Ра?",
+    "answer": "Месектет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "путешествия"
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Какой змей пытался проглотить солнце?",
+    "answer": "Апоп (Апофис)",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "существа",
+      "хаос"
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Кто защищал Ра от Апопа?",
+    "answer": "Сет",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "защита"
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Как называлась египетская богиня-корова?",
+    "answer": "Хатхор",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "животные"
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Какой бог был покровителем фараонов?",
+    "answer": "Гор",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "власть"
+    ]
+  },
+  {
+    "id": 127,
+    "question": "В каком виде изображался Гор?",
+    "answer": "Сокол или человек с головой сокола",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "изображения"
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Как назывался Око Гора?",
+    "answer": "Уджат",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "защита"
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Что символизировал скарабей?",
+    "answer": "Возрождение и воскрешение",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "религия"
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Как звали бога-скарабея?",
+    "answer": "Хепри",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "солнце"
+    ]
+  },
+  {
+    "id": 131,
+    "question": "Какой бог катил солнце по небу?",
+    "answer": "Хепри",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "мифы"
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Как называлась египетская богиня-лягушка?",
+    "answer": "Хекет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "животные"
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Какая богиня помогала при родах?",
+    "answer": "Таурт",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "роды"
+    ]
+  },
+  {
+    "id": 134,
+    "question": "В виде какого животного изображалась Таурт?",
+    "answer": "Гиппопотам",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "животные"
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Какой бог был покровителем Нила?",
+    "answer": "Хапи",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "река"
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Как изображался бог Хапи?",
+    "answer": "Полный мужчина с грудью",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "изображения"
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Какой цвет ассоциировался с Осирисом?",
+    "answer": "Зелёный",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "цвета"
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Почему Осирис изображался зелёным?",
+    "answer": "Символ возрождения",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "символизм"
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Как называлась египетская богиня-змея?",
+    "answer": "Уаджет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "животные"
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Какая богиня была покровительницей Нижнего Египта?",
+    "answer": "Уаджет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "регионы"
+    ]
+  },
+  {
+    "id": 141,
+    "question": "Какая богиня была покровительницей Верхнего Египта?",
+    "answer": "Нехбет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "регионы"
+    ]
+  },
+  {
+    "id": 142,
+    "question": "В виде кого изображалась Нехбет?",
+    "answer": "Коршун",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "птицы"
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Какой бог был судьёй мёртвых?",
+    "answer": "Осирис",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "суд"
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Сколько богов было в египетском пантеоне?",
+    "answer": "Более 2000",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "количество"
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Как называлась девятка главных богов Гелиополя?",
+    "answer": "Эннеада",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "группы"
+    ]
+  },
+  {
+    "id": 146,
+    "question": "Кто был главой Эннеады?",
+    "answer": "Атум",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "иерархия"
+    ]
+  },
+  {
+    "id": 147,
+    "question": "Как называлась восьмёрка богов Гермополя?",
+    "answer": "Огдоада",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "группы"
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Сколько номов было в Древнем Египте?",
+    "answer": "42",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "административное деление",
+      "география"
+    ]
+  },
+  {
+    "id": 149,
+    "question": "Как назывался правитель нома?",
+    "answer": "Номарх",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "управление",
+      "должности"
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Какой титул носили фараоны?",
+    "answer": "Царь Верхнего и Нижнего Египта",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "фараоны",
+      "титулы"
+    ]
+  },
+  {
+    "id": 151,
+    "question": "Сколько имён было у фараона?",
+    "answer": "Пять",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "фараоны",
+      "имена"
+    ]
+  },
+  {
+    "id": 152,
+    "question": "Как называлось тронное имя фараона?",
+    "answer": "Пренемен",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "фараоны",
+      "имена"
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Что означает слово 'фараон'?",
+    "answer": "Великий дом",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "термины",
+      "власть"
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Какой фараон правил дольше всех?",
+    "answer": "Пепи II (94 года)",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2278-2184 BCE",
+    "tags": [
+      "фараоны",
+      "рекорды"
+    ]
+  },
+  {
+    "id": 155,
+    "question": "Сколько династий было в Древнем Египте?",
+    "answer": "31",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100-332 BCE",
+    "tags": [
+      "династии",
+      "история"
+    ]
+  },
+  {
+    "id": 156,
+    "question": "Кто создал классификацию династий?",
+    "answer": "Манефон",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "историки",
+      "систематизация"
+    ]
+  },
+  {
+    "id": 157,
+    "question": "Сколько периодов выделяют в истории Египта?",
+    "answer": "Три основных царства",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100-332 BCE",
+    "tags": [
+      "периодизация",
+      "история"
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Как называлось Древнее царство?",
+    "answer": "Эпоха пирамид",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "2686-2181 BCE",
+    "tags": [
+      "периоды",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Какое царство называют Средним?",
+    "answer": "Период возрождения после Древнего царства",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "2055-1650 BCE",
+    "tags": [
+      "периоды",
+      "история"
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Какое царство считается золотым веком?",
+    "answer": "Новое царство",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1550-1077 BCE",
+    "tags": [
+      "периоды",
+      "расцвет"
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Кто завоевал Египет в 332 году до н.э.?",
+    "answer": "Александр Македонский",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "332 BCE",
+    "tags": [
+      "завоевания",
+      "история"
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Какая династия правила после Александра?",
+    "answer": "Птолемеи",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "305-30 BCE",
+    "tags": [
+      "династии",
+      "эллинизм"
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Кто был основателем династии Птолемеев?",
+    "answer": "Птолемей I Сотер",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "305 BCE",
+    "tags": [
+      "правители",
+      "династии"
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Где находилась Александрийская библиотека?",
+    "answer": "Александрия",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "geography",
+    "period": "300 BCE",
+    "tags": [
+      "библиотеки",
+      "культура"
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Кто основал Александрийскую библиотеку?",
+    "answer": "Птолемей I",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "300 BCE",
+    "tags": [
+      "библиотеки",
+      "основатели"
+    ]
+  },
+  {
+    "id": 166,
+    "question": "Сколько свитков хранилось в библиотеке?",
+    "answer": "До 700 000",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "300 BCE",
+    "tags": [
+      "библиотеки",
+      "количество"
+    ]
+  },
+  {
+    "id": 167,
+    "question": "Где находился Александрийский маяк?",
+    "answer": "Остров Фарос",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "geography",
+    "period": "280 BCE",
+    "tags": [
+      "маяки",
+      "чудеса света"
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Какой высоты был Фаросский маяк?",
+    "answer": "Около 120-140 метров",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "280 BCE",
+    "tags": [
+      "маяки",
+      "размеры"
+    ]
+  },
+  {
+    "id": 169,
+    "question": "В каком веке рухнул Александрийский маяк?",
+    "answer": "14 век",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "date",
+    "period": "1303-1323 CE",
+    "tags": [
+      "маяки",
+      "разрушение"
+    ]
+  },
+  {
+    "id": 170,
+    "question": "Какой металл использовали египтяне в Древнем царстве?",
+    "answer": "Медь",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2686-2181 BCE",
+    "tags": [
+      "металлургия",
+      "технологии"
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Когда в Египте начали использовать железо?",
+    "answer": "В Новом царстве",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "date",
+    "period": "1550 BCE",
+    "tags": [
+      "металлургия",
+      "технологии"
+    ]
+  },
+  {
+    "id": 172,
+    "question": "Какой материал использовали для изготовления статуй?",
+    "answer": "Известняк, гранит, базальт",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "скульптура",
+      "материалы"
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Как называлась египетская система письма для быстрого письма?",
+    "answer": "Иератическая",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "письменность",
+      "типы"
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Сколько знаков в египетском иероглифическом письме?",
+    "answer": "Более 700",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "письменность",
+      "количество"
+    ]
+  },
+  {
+    "id": 175,
+    "question": "Какой инструмент использовали писцы?",
+    "answer": "Тростниковое перо",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "письменность",
+      "инструменты"
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Из чего делали египетские чернила?",
+    "answer": "Сажа и растительный клей",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "письменность",
+      "материалы"
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Какого цвета были чернила для важных текстов?",
+    "answer": "Красные",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "письменность",
+      "цвета"
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Как назывался футляр для письменных принадлежностей?",
+    "answer": "Палетка писца",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "инструменты",
+      "писцы"
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Какую должность занимали образованные люди?",
+    "answer": "Писцы",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "профессии",
+      "образование"
+    ]
+  },
+  {
+    "id": 180,
+    "question": "Где обучались писцы?",
+    "answer": "Дома Жизни",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "образование",
+      "учреждения"
+    ]
+  },
+  {
+    "id": 181,
+    "question": "С какого возраста начиналось обучение писцов?",
+    "answer": "С 5-7 лет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "образование",
+      "возраст"
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Сколько лет длилось обучение писца?",
+    "answer": "10-12 лет",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "образование",
+      "срок"
+    ]
+  },
+  {
+    "id": 183,
+    "question": "Какой бог был покровителем писцов?",
+    "answer": "Тот",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "профессии"
+    ]
+  },
+  {
+    "id": 184,
+    "question": "Какая богиня была покровительницей письменности?",
+    "answer": "Сешат",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "письменность"
+    ]
+  },
+  {
+    "id": 185,
+    "question": "Как изображалась богиня Сешат?",
+    "answer": "Женщина со звездой над головой",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "изображения"
+    ]
+  },
+  {
+    "id": 186,
+    "question": "Какая пища была основной в Египте?",
+    "answer": "Хлеб и пиво",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "быт",
+      "питание"
+    ]
+  },
+  {
+    "id": 187,
+    "question": "Из какого зерна пекли хлеб?",
+    "answer": "Ячмень и эммер (пшеница)",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "земледелие",
+      "продукты"
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Какой овощ был священным?",
+    "answer": "Лук",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "растения",
+      "религия"
+    ]
+  },
+  {
+    "id": 189,
+    "question": "Какое мясо ели чаще всего?",
+    "answer": "Рыба и птица",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "питание",
+      "мясо"
+    ]
+  },
+  {
+    "id": 190,
+    "question": "Какое животное не ели египтяне?",
+    "answer": "Свинья (считалась нечистой)",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "питание",
+      "запреты"
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Какой напиток был популярен кроме пива?",
+    "answer": "Вино",
+    "difficulty": "easy",
+    "category": "Древний Egipt",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "напитки",
+      "алкоголь"
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Где выращивали виноград?",
+    "answer": "В Дельте и оазисах",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "geography",
+    "period": "3000 BCE",
+    "tags": [
+      "земледелие",
+      "места"
+    ]
+  },
+  {
+    "id": 193,
+    "question": "Какую одежду носили мужчины?",
+    "answer": "Схенти (набедренная повязка)",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "одежда",
+      "мужчины"
+    ]
+  },
+  {
+    "id": 194,
+    "question": "Какую одежду носили женщины?",
+    "answer": "Калазирис (длинное платье)",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "definition",
+    "period": "3000 BCE",
+    "tags": [
+      "одежда",
+      "женщины"
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Из какого материала шили одежду?",
+    "answer": "Лён",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "одежда",
+      "материалы"
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Почему египтяне носили парики?",
+    "answer": "Защита от солнца и вшей",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "мода",
+      "гигиена"
+    ]
+  },
+  {
+    "id": 197,
+    "question": "Какую косметику использовали египтяне?",
+    "answer": "Малахитовая подводка для глаз",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "косметика",
+      "красота"
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Для чего красили глаза?",
+    "answer": "Защита от солнца и инфекций",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "косметика",
+      "здоровье"
+    ]
+  },
+  {
+    "id": 199,
+    "question": "Какой цвет подводки использовали?",
+    "answer": "Чёрный и зелёный",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "косметика",
+      "цвета"
+    ]
+  },
+  {
+    "id": 200,
+    "question": "Из чего делали чёрную подводку?",
+    "answer": "Галенит (свинцовая руда)",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "косметика",
+      "материалы"
+    ]
+  }
+]

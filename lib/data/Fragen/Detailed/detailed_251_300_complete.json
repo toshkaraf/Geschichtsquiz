@@ -1,0 +1,708 @@
+[
+  {
+    "id": 251,
+    "question": "Кто был богом сновидений?",
+    "question_de": "Wer war der Gott der Träume?",
+    "answer": "Морфей",
+    "answer_de": "Morpheus",
+    "wrong_answers": [
+      {
+        "ru": "Гипнос",
+        "de": "Hypnos"
+      },
+      {
+        "ru": "Танатос",
+        "de": "Thanatos"
+      },
+      {
+        "ru": "Гермес",
+        "de": "Hermes"
+      }
+    ],
+    "explanation": {
+      "ru": "Морфей был богом сновидений в древнегреческой мифологии, сыном Гипноса, бога сна. Он мог принимать любую форму во сне и появляться людям в их сновидениях. Морфей изображался с маковыми цветами и рогом, из которого лились сны. Его имя стало символом сна и сновидений.",
+      "de": "Morpheus war der Gott der Träume in der antiken griechischen Mythologie, Sohn des Hypnos, des Gottes des Schlafes. Er konnte jede Form im Traum annehmen und Menschen in ihren Träumen erscheinen. Morpheus wurde mit Mohnblumen und einem Horn dargestellt, aus dem Träume flossen. Sein Name wurde zum Symbol für Schlaf und Träume."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Морфей был одним из тысячи сыновей Гипноса, каждый из которых отвечал за определённый тип снов. Морфей специализировался на человеческих формах, в то время как его братья Фобетор и Фантас создавали образы животных и неодушевлённых предметов. Вместе они помогали людям видеть разные сны.",
+        "de": "Morpheus war einer von tausend Söhnen des Hypnos, von denen jeder für eine bestimmte Art von Träumen verantwortlich war. Morpheus spezialisierte sich auf menschliche Formen, während seine Brüder Phobetor und Phantasos Bilder von Tieren und unbelebten Objekten schufen. Zusammen halfen sie den Menschen, verschiedene Träume zu sehen."
+      },
+      {
+        "ru": "В римской поэзии Морфей стал популярным персонажем, особенно в 'Метаморфозах' Овидия. Он изображался как красивый юноша с крыльями, который мог летать бесшумно и входить в окна спящих. Его имя используется в современном языке для обозначения морфия - опиата, вызывающего сон.",
+        "de": "In der römischen Poesie wurde Morpheus zu einer beliebten Figur, besonders in Ovids 'Metamorphosen'. Er wurde als schöner Jüngling mit Flügeln dargestellt, der geräuschlos fliegen und durch die Fenster der Schlafenden eintreten konnte. Sein Name wird in der modernen Sprache für Morphin verwendet - ein Opiat, das Schlaf verursacht."
+      },
+      {
+        "ru": "Морфей часто появлялся в мифах как посланник богов, передавая важные сообщения через сны. Он помогал богам общаться с людьми, не нарушая их покой. В некоторых мифах Морфей предсказывал будущее или предупреждал о грядущих опасностях.",
+        "de": "Morpheus erschien oft in Mythen als Bote der Götter und übermittelte wichtige Botschaften durch Träume. Er half den Göttern, mit Menschen zu kommunizieren, ohne ihren Frieden zu stören. In einigen Mythen prophezeite Morpheus die Zukunft oder warnte vor kommenden Gefahren."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "сны"
+    ]
+  },
+  {
+    "id": 252,
+    "question": "В каком году произошла битва при Херонее?",
+    "question_de": "In welchem Jahr fand die Schlacht bei Chaironeia statt?",
+    "answer": "338 год до н.э.",
+    "answer_de": "338 v. Chr.",
+    "wrong_answers": [
+      {
+        "ru": "337 год до н.э.",
+        "de": "337 v. Chr."
+      },
+      {
+        "ru": "339 год до н.э.",
+        "de": "339 v. Chr."
+      },
+      {
+        "ru": "340 год до н.э.",
+        "de": "340 v. Chr."
+      }
+    ],
+    "explanation": {
+      "ru": "Битва при Херонее произошла в 338 году до н.э. между македонской армией Филиппа II и объединёнными силами Афин и Фив. Филипп одержал решительную победу, установив македонскую гегемонию над Грецией. В битве участвовал 18-летний Александр, который возглавил атаку на Священный отряд фиванцев.",
+      "de": "Die Schlacht bei Chaironeia fand 338 v. Chr. zwischen der makedonischen Armee Philipps II. und den vereinten Kräften Athens und Thebens statt. Philipp errang einen entscheidenden Sieg und etablierte die makedonische Hegemonie über Griechenland. In der Schlacht nahm der 18-jährige Alexander teil, der den Angriff auf die Heilige Schar der Thebaner anführte."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Священный отряд фиванцев, состоявший из 300 гомосексуальных пар, был полностью уничтожен в битве. Все воины погибли, не отступив ни на шаг, что стало символом мужества и преданности. Филипп, увидев их тела, заплакал и сказал: 'Погибнет тот, кто подумает, что эти люди сделали или потерпели что-либо постыдное'.",
+        "de": "Die Heilige Schar der Thebaner, bestehend aus 300 homosexuellen Paaren, wurde in der Schlacht vollständig vernichtet. Alle Krieger starben, ohne einen Schritt zurückzuweichen, was zum Symbol für Mut und Hingabe wurde. Philipp, der ihre Leichen sah, weinte und sagte: 'Möge derjenige zugrunde gehen, der denkt, dass diese Männer etwas Schändliches getan oder erlitten haben'."
+      },
+      {
+        "ru": "После битвы Филипп создал Коринфский союз, объединивший все греческие полисы (кроме Спарты) под македонским руководством. Союз должен был готовиться к войне с Персией. Александр использовал этот союз для организации своего похода на восток.",
+        "de": "Nach der Schlacht schuf Philipp den Korinthischen Bund, der alle griechischen Poleis (außer Sparta) unter makedonischer Führung vereinte. Der Bund sollte sich auf den Krieg mit Persien vorbereiten. Alexander nutzte diesen Bund zur Organisation seines Feldzugs nach Osten."
+      },
+      {
+        "ru": "Битва при Херонее положила конец независимости греческих полисов. Хотя формально они сохранили автономию, реальная власть перешла к Македонии. Это была последняя крупная битва между греческими государствами перед объединением под македонским владычеством.",
+        "de": "Die Schlacht bei Chaironeia beendete die Unabhängigkeit der griechischen Poleis. Obwohl sie formell ihre Autonomie behielten, ging die tatsächliche Macht an Makedonien über. Dies war die letzte große Schlacht zwischen griechischen Staaten vor der Vereinigung unter makedonischer Herrschaft."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "338 BCE",
+    "tags": [
+      "битвы",
+      "Македония"
+    ]
+  },
+  {
+    "id": 253,
+    "question": "Какой философ основал эпикуреизм?",
+    "question_de": "Welcher Philosoph begründete den Epikureismus?",
+    "answer": "Эпикур",
+    "answer_de": "Epikur",
+    "wrong_answers": [
+      {
+        "ru": "Зенон",
+        "de": "Zenon"
+      },
+      {
+        "ru": "Платон",
+        "de": "Platon"
+      },
+      {
+        "ru": "Аристотель",
+        "de": "Aristoteles"
+      }
+    ],
+    "explanation": {
+      "ru": "Эпикур (341-270 гг. до н.э.) основал эпикуреизм - философскую школу, проповедовавшую стремление к счастью через отсутствие страданий. Он учил, что высшее благо - это удовольствие, понимаемое как отсутствие боли и душевного беспокойства. Эпикур основал школу в Афинах, названную 'Сад', где жили его последователи.",
+      "de": "Epikur (341-270 v. Chr.) begründete den Epikureismus - eine philosophische Schule, die das Streben nach Glück durch die Abwesenheit von Leiden predigte. Er lehrte, dass das höchste Gut das Vergnügen ist, verstanden als Abwesenheit von Schmerz und seelischer Unruhe. Epikur gründete eine Schule in Athen namens 'Garten', wo seine Anhänger lebten."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Эпикур учил, что нужно избегать излишеств, так как они ведут к страданиям. Он проповедовал умеренность и простую жизнь, дружбу и философские размышления. Его часто неправильно понимают как проповедника разврата, но на самом деле он призывал к аскетическому образу жизни.",
+        "de": "Epikur lehrte, dass man Exzesse vermeiden sollte, da sie zu Leiden führen. Er predigte Mäßigung und einfaches Leben, Freundschaft und philosophische Reflexion. Er wird oft fälschlicherweise als Prediger der Ausschweifung verstanden, aber tatsächlich rief er zu einem asketischen Lebensstil auf."
+      },
+      {
+        "ru": "Эпикур был одним из первых философов, который принимал женщин и рабов в свою школу. Его 'Сад' был открыт для всех, независимо от социального положения. Это было революционно для того времени, когда образование было привилегией свободных мужчин.",
+        "de": "Epikur war einer der ersten Philosophen, der Frauen und Sklaven in seine Schule aufnahm. Sein 'Garten' war für alle offen, unabhängig vom sozialen Status. Dies war revolutionär für eine Zeit, in der Bildung ein Privileg freier Männer war."
+      },
+      {
+        "ru": "Эпикур разработал атомистическую теорию, заимствованную у Демокрита, но добавил концепцию 'случайного отклонения' атомов. Это позволяло объяснить свободу воли в детерминистическом мире. Его философия оказала влияние на римских поэтов Лукреция и Горация.",
+        "de": "Epikur entwickelte eine atomistische Theorie, die von Demokrit übernommen wurde, fügte aber das Konzept der 'zufälligen Abweichung' der Atome hinzu. Dies ermöglichte es, den freien Willen in einer deterministischen Welt zu erklären. Seine Philosophie beeinflusste die römischen Dichter Lukrez und Horaz."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "философия",
+      "эпикуреизм"
+    ]
+  },
+  {
+    "id": 254,
+    "question": "Кто была богиня памяти?",
+    "question_de": "Wer war die Göttin des Gedächtnisses?",
+    "answer": "Мнемозина",
+    "answer_de": "Mnemosyne",
+    "wrong_answers": [
+      {
+        "ru": "Клио",
+        "de": "Klio"
+      },
+      {
+        "ru": "Урания",
+        "de": "Urania"
+      },
+      {
+        "ru": "Талия",
+        "de": "Thalia"
+      }
+    ],
+    "explanation": {
+      "ru": "Мнемозина была богиней памяти в древнегреческой мифологии, титанидой, дочерью Урана и Геи. Она была матерью девяти муз, родив их от Зевса после девяти ночей любви. Мнемозина олицетворяла память как основу знания и искусства. Её имя означает 'память' и связано с мнемоникой - искусством запоминания.",
+      "de": "Mnemosyne war die Göttin des Gedächtnisses in der antiken griechischen Mythologie, eine Titanin, Tochter des Uranos und der Gaia. Sie war die Mutter der neun Musen, die sie von Zeus nach neun Nächten der Liebe gebar. Mnemosyne verkörperte das Gedächtnis als Grundlage von Wissen und Kunst. Ihr Name bedeutet 'Gedächtnis' und ist mit Mnemonik verbunden - der Kunst des Erinnerns."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Мнемозина провела с Зевсом девять ночей подряд, и каждая ночь принесла одну из муз. Музы стали покровительницами различных искусств и наук: истории, трагедии, комедии, музыки, танца, астрономии и других. Без памяти, которую олицетворяла Мнемозина, не было бы искусства.",
+        "de": "Mnemosyne verbrachte neun aufeinanderfolgende Nächte mit Zeus, und jede Nacht brachte eine der Musen hervor. Die Musen wurden Schutzpatroninnen verschiedener Künste und Wissenschaften: Geschichte, Tragödie, Komödie, Musik, Tanz, Astronomie und andere. Ohne das Gedächtnis, das Mnemosyne verkörperte, gäbe es keine Kunst."
+      },
+      {
+        "ru": "В некоторых мифах существовал источник Мнемозины в подземном мире, противоположный реке Лете (забвения). Умершие, которые пили из источника Мнемозины, сохраняли память в загробной жизни. Это символизировало важность памяти для человеческой идентичности.",
+        "de": "In einigen Mythen gab es eine Quelle der Mnemosyne in der Unterwelt, das Gegenteil des Flusses Lethe (Vergessenheit). Die Toten, die aus der Quelle der Mnemosyne tranken, behielten ihr Gedächtnis im Jenseits. Dies symbolisierte die Bedeutung des Gedächtnisses für die menschliche Identität."
+      },
+      {
+        "ru": "Имя Мнемозины дало начало термину 'мнемоника' - техникам запоминания информации. Древние греки использовали мнемонические приёмы для запоминания длинных текстов, включая эпические поэмы. Современная психология изучает мнемонику как способ улучшения памяти.",
+        "de": "Der Name der Mnemosyne gab Anlass zum Begriff 'Mnemonik' - Techniken zum Erinnern von Informationen. Die alten Griechen verwendeten mnemotechnische Methoden, um lange Texte zu erinnern, einschließlich epischer Gedichte. Die moderne Psychologie untersucht Mnemonik als Mittel zur Verbesserung des Gedächtnisses."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "музы"
+    ]
+  },
+  {
+    "id": 255,
+    "question": "Какой учёный измерил окружность Земли?",
+    "question_de": "Welcher Wissenschaftler maß den Umfang der Erde?",
+    "answer": "Эратосфен",
+    "answer_de": "Eratosthenes",
+    "wrong_answers": [
+      {
+        "ru": "Птолемей",
+        "de": "Ptolemaios"
+      },
+      {
+        "ru": "Аристарх",
+        "de": "Aristarch"
+      },
+      {
+        "ru": "Гиппарх",
+        "de": "Hipparchos"
+      }
+    ],
+    "explanation": {
+      "ru": "Эратосфен (ок. 276-194 гг. до н.э.) измерил окружность Земли с удивительной точностью. Он заметил, что в день летнего солнцестояния в Сиене (Асуане) солнце светило прямо в колодец, а в Александрии отбрасывало тень. Измерив угол тени и расстояние между городами, он вычислил окружность Земли.",
+      "de": "Eratosthenes (ca. 276-194 v. Chr.) maß den Umfang der Erde mit erstaunlicher Genauigkeit. Er bemerkte, dass am Tag der Sommersonnenwende in Syene (Assuan) die Sonne direkt in einen Brunnen schien, während sie in Alexandria einen Schatten warf. Durch Messen des Schattenwinkels und der Entfernung zwischen den Städten berechnete er den Umfang der Erde."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Эратосфен вычислил окружность Земли примерно в 39 375 км, что очень близко к современному значению 40 075 км. Его ошибка составила менее 2%! Он использовал простые геометрические принципы и точные измерения расстояний. Это было одно из величайших достижений античной науки.",
+        "de": "Eratosthenes berechnete den Umfang der Erde auf etwa 39.375 km, was dem modernen Wert von 40.075 km sehr nahe kommt. Sein Fehler betrug weniger als 2%! Er verwendete einfache geometrische Prinzipien und genaue Entfernungsmessungen. Dies war eine der größten Errungenschaften der antiken Wissenschaft."
+      },
+      {
+        "ru": "Эратосфен был главным библиотекарем Александрийской библиотеки и разносторонним учёным. Он занимался математикой, географией, астрономией и литературой. Его прозвали 'Бета' (вторая буква), потому что он был вторым во многих науках, но не первым ни в одной.",
+        "de": "Eratosthenes war der Hauptbibliothekar der Bibliothek von Alexandria und ein vielseitiger Gelehrter. Er beschäftigte sich mit Mathematik, Geographie, Astronomie und Literatur. Er wurde 'Beta' (zweiter Buchstabe) genannt, weil er in vielen Wissenschaften der Zweite war, aber in keiner der Erste."
+      },
+      {
+        "ru": "Эратосфен также создал карту мира с параллелями и меридианами, систему определения високосных лет и метод просеивания для нахождения простых чисел (решето Эратосфена). Его работы по географии были основой для последующих картографов на протяжении веков.",
+        "de": "Eratosthenes schuf auch eine Weltkarte mit Parallelen und Meridianen, ein System zur Bestimmung von Schaltjahren und eine Siebmethode zur Findung von Primzahlen (Sieb des Eratosthenes). Seine geographischen Arbeiten waren die Grundlage für nachfolgende Kartographen über Jahrhunderte."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "география",
+      "измерения"
+    ]
+  },
+  {
+    "id": 256,
+    "question": "Кто была богиня радуги?",
+    "question_de": "Wer war die Göttin des Regenbogens?",
+    "answer": "Ирида",
+    "answer_de": "Iris",
+    "wrong_answers": [
+      {
+        "ru": "Гера",
+        "de": "Hera"
+      },
+      {
+        "ru": "Афродита",
+        "de": "Aphrodite"
+      },
+      {
+        "ru": "Артемида",
+        "de": "Artemis"
+      }
+    ],
+    "explanation": {
+      "ru": "Ирида была богиней радуги и вестницей богов в древнегреческой мифологии, дочерью Тавманта и Электры. Она изображалась крылатой женщиной, которая могла перемещаться по радуге между небом и землёй. Ирида служила посланницей богов, особенно Геры, и связывала богов с людьми.",
+      "de": "Iris war die Göttin des Regenbogens und Botin der Götter in der antiken griechischen Mythologie, Tochter des Thaumas und der Elektra. Sie wurde als geflügelte Frau dargestellt, die sich auf dem Regenbogen zwischen Himmel und Erde bewegen konnte. Iris diente als Botin der Götter, besonders der Hera, und verband Götter mit Menschen."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Ирида была сестрой гарпий и океанид, дочерью морских божеств. Она изображалась с золотыми крыльями и кувшином воды, которой она усыпляла тех, кто нарушал клятвы. Ирида могла принимать любую форму и была быстрее ветра в своих перемещениях.",
+        "de": "Iris war die Schwester der Harpyien und Okeaniden, Tochter der Meeresgottheiten. Sie wurde mit goldenen Flügeln und einem Krug Wasser dargestellt, mit dem sie diejenigen einschläferte, die Eide brachen. Iris konnte jede Form annehmen und war schneller als der Wind in ihren Bewegungen."
+      },
+      {
+        "ru": "В отличие от Гермеса, который был посланником Зевса, Ирида служила преимущественно Гере. Она доставляла сообщения между богами и людьми, приносила воду из реки Стикс для клятв и помогала душам умерших женщин попасть в подземный мир.",
+        "de": "Im Gegensatz zu Hermes, der der Bote des Zeus war, diente Iris hauptsächlich der Hera. Sie übermittelte Nachrichten zwischen Göttern und Menschen, brachte Wasser aus dem Fluss Styx für Eide und half den Seelen verstorbener Frauen, in die Unterwelt zu gelangen."
+      },
+      {
+        "ru": "Имя Ириды связано со словом 'ирис' (радуга) и дало название цветку ирису, который имеет разноцветные лепестки. В современной анатомии 'ирис' - это цветная часть глаза, названная так из-за разнообразия цветов. Ирида символизировала связь между небом и землёй.",
+        "de": "Der Name der Iris ist mit dem Wort 'Iris' (Regenbogen) verbunden und gab der Blume Iris ihren Namen, die bunte Blütenblätter hat. In der modernen Anatomie ist die 'Iris' der farbige Teil des Auges, benannt nach der Vielfalt der Farben. Iris symbolisierte die Verbindung zwischen Himmel und Erde."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 257,
+    "question": "Какой астроном предложил гелиоцентризм?",
+    "question_de": "Welcher Astronom schlug das Heliozentrismus vor?",
+    "answer": "Аристарх Самосский",
+    "answer_de": "Aristarchos von Samos",
+    "wrong_answers": [
+      {
+        "ru": "Птолемей",
+        "de": "Ptolemaios"
+      },
+      {
+        "ru": "Гиппарх",
+        "de": "Hipparchos"
+      },
+      {
+        "ru": "Эратосфен",
+        "de": "Eratosthenes"
+      }
+    ],
+    "explanation": {
+      "ru": "Аристарх Самосский (ок. 310-230 гг. до н.э.) первым предложил гелиоцентрическую модель Вселенной, где Солнце находится в центре, а Земля вращается вокруг него. Его идеи опередили время на 1800 лет, но не были приняты современниками. Аристарх также пытался измерить расстояния до Солнца и Луны.",
+      "de": "Aristarchos von Samos (ca. 310-230 v. Chr.) schlug als erster das heliozentrische Modell des Universums vor, bei dem die Sonne im Zentrum steht und die Erde sich um sie dreht. Seine Ideen waren ihrer Zeit um 1800 Jahre voraus, wurden aber von Zeitgenossen nicht akzeptiert. Aristarchos versuchte auch, die Entfernungen zur Sonne und zum Mond zu messen."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Аристарх вычислил, что Солнце намного больше Земли (примерно в 19 раз, хотя правильное значение - в 109 раз). Он также определил, что Солнце дальше от Земли, чем Луна. Эти расчёты привели его к выводу, что логичнее, чтобы маленькая Земля вращалась вокруг большого Солнца.",
+        "de": "Aristarchos berechnete, dass die Sonne viel größer als die Erde ist (etwa 19 Mal, obwohl der richtige Wert 109 Mal ist). Er bestimmte auch, dass die Sonne weiter von der Erde entfernt ist als der Mond. Diese Berechnungen führten ihn zu dem Schluss, dass es logischer wäre, dass die kleine Erde um die große Sonne kreist."
+      },
+      {
+        "ru": "Идеи Аристарха были отвергнуты большинством учёных, включая Архимеда, который упомянул их в своём труде 'Псаммит'. Птолемей позже разработал геоцентрическую модель, которая доминировала до Коперника. Аристарх даже был обвинён в нечестии за свои взгляды.",
+        "de": "Aristarchos' Ideen wurden von den meisten Gelehrten abgelehnt, einschließlich Archimedes, der sie in seinem Werk 'Sandrechner' erwähnte. Ptolemaios entwickelte später das geozentrische Modell, das bis zu Kopernikus dominierte. Aristarchos wurde sogar der Gottlosigkeit für seine Ansichten beschuldigt."
+      },
+      {
+        "ru": "Аристарх использовал геометрические методы для измерения относительных размеров и расстояний небесных тел. Он наблюдал лунные фазы и затмения, чтобы сделать свои расчёты. Хотя его конкретные числа были неточными, метод был правильным и использовался последующими астрономами.",
+        "de": "Aristarchos verwendete geometrische Methoden zur Messung der relativen Größen und Entfernungen von Himmelskörpern. Er beobachtete Mondphasen und Finsternisse, um seine Berechnungen zu machen. Obwohl seine spezifischen Zahlen ungenau waren, war die Methode korrekt und wurde von nachfolgenden Astronomen verwendet."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "астрономия",
+      "теории"
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Кто была богиня ночи?",
+    "question_de": "Wer war die Göttin der Nacht?",
+    "answer": "Никта",
+    "answer_de": "Nyx",
+    "wrong_answers": [
+      {
+        "ru": "Геката",
+        "de": "Hekate"
+      },
+      {
+        "ru": "Артемида",
+        "de": "Artemis"
+      },
+      {
+        "ru": "Селена",
+        "de": "Selene"
+      }
+    ],
+    "explanation": {
+      "ru": "Никта была богиней ночи в древнегреческой мифологии, одной из первозданных богинь, родившейся из Хаоса. Она была матерью многих божеств, включая Гипноса (сна), Танатоса (смерти), Немезиды (мести) и других. Никта изображалась в тёмных одеждах, часто в колеснице, запряжённой чёрными лошадьми.",
+      "de": "Nyx war die Göttin der Nacht in der antiken griechischen Mythologie, eine der ursprünglichen Göttinnen, die aus dem Chaos geboren wurde. Sie war die Mutter vieler Gottheiten, einschließlich Hypnos (Schlaf), Thanatos (Tod), Nemesis (Rache) und anderer. Nyx wurde in dunklen Gewändern dargestellt, oft in einem Wagen, der von schwarzen Pferden gezogen wurde."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Никта была настолько могущественной, что даже Зевс боялся её гнева. В 'Илиаде' Гомера Гера просит Гипноса усыпить Зевса, но тот отказывается, боясь гнева Никты. Когда Зевс всё же разгневался, Никта защитила сына, и Зевс отступил, не желая конфликта с ней.",
+        "de": "Nyx war so mächtig, dass sogar Zeus ihren Zorn fürchtete. In Homers 'Ilias' bittet Hera Hypnos, Zeus einzuschläfern, aber er weigert sich, den Zorn der Nyx zu fürchten. Als Zeus dennoch wütend wurde, schützte Nyx ihren Sohn, und Zeus wich zurück, da er keinen Konflikt mit ihr wollte."
+      },
+      {
+        "ru": "Никта была одной из первых богинь, появившихся в начале времён. Она родилась вместе со своим братом Эребом (тьмой) из Хаоса. От них произошли Эфир (свет) и Гемера (день). Никта олицетворяла первозданную тьму, существовавшую до создания мира.",
+        "de": "Nyx war eine der ersten Göttinnen, die am Anfang der Zeit erschien. Sie wurde zusammen mit ihrem Bruder Erebos (Dunkelheit) aus dem Chaos geboren. Von ihnen stammten Äther (Licht) und Hemera (Tag) ab. Nyx verkörperte die ursprüngliche Dunkelheit, die vor der Schöpfung der Welt existierte."
+      },
+      {
+        "ru": "Никта была матерью множества персонификаций: Сна, Смерти, Сновидений, Старости, Раздора и других. Она представляла тёмную сторону бытия, но не обязательно злую. Ночь была необходима для отдыха и восстановления, а также для тайн и мистики.",
+        "de": "Nyx war die Mutter vieler Personifikationen: Schlaf, Tod, Träume, Alter, Zwietracht und andere. Sie repräsentierte die dunkle Seite des Seins, aber nicht unbedingt böse. Die Nacht war notwendig für Ruhe und Erholung sowie für Geheimnisse und Mystik."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "ночь"
+    ]
+  },
+  {
+    "id": 259,
+    "question": "Какой философ учил в бочке?",
+    "question_de": "Welcher Philosoph lehrte in einem Fass?",
+    "answer": "Диоген",
+    "answer_de": "Diogenes",
+    "wrong_answers": [
+      {
+        "ru": "Сократ",
+        "de": "Sokrates"
+      },
+      {
+        "ru": "Антисфен",
+        "de": "Antisthenes"
+      },
+      {
+        "ru": "Кратет",
+        "de": "Krates"
+      }
+    ],
+    "explanation": {
+      "ru": "Диоген Синопский (ок. 412-323 гг. до н.э.) был философом-киником, который жил в бочке (пифосе) на афинской агоре. Он проповедовал аскетический образ жизни, свободу от общественных условностей и возврат к природе. Диоген стал символом кинической философии и независимости от материальных благ.",
+      "de": "Diogenes von Sinope (ca. 412-323 v. Chr.) war ein kynischer Philosoph, der in einem Fass (Pithos) auf der Athener Agora lebte. Er predigte einen asketischen Lebensstil, Freiheit von gesellschaftlichen Konventionen und Rückkehr zur Natur. Diogenes wurde zum Symbol der kynischen Philosophie und Unabhängigkeit von materiellem Wohlstand."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Диоген искал 'человека с фонарём' среди бела дня, демонстрируя, что настоящих людей мало. Когда Александр Македонский спросил, что он может для него сделать, Диоген ответил: 'Отойди, не заслоняй мне солнце'. Эта история показывает его независимость даже перед лицом власти.",
+        "de": "Diogenes suchte 'einen Menschen mit einer Laterne' am helllichten Tag und demonstrierte, dass es wenige echte Menschen gibt. Als Alexander der Große fragte, was er für ihn tun könne, antwortete Diogenes: 'Geh zur Seite, verdeck mir nicht die Sonne'. Diese Geschichte zeigt seine Unabhängigkeit selbst angesichts der Macht."
+      },
+      {
+        "ru": "Диоген был учеником Антисфена, основателя кинической школы. Он довёл принципы кинизма до крайности, живя в полной нищете и пренебрегая всеми условностями. Он ел на площади, справлял нужду публично и критиковал всех, кто жил иначе.",
+        "de": "Diogenes war Schüler des Antisthenes, des Gründers der kynischen Schule. Er trieb die Prinzipien des Kynismus auf die Spitze, lebte in völliger Armut und missachtete alle Konventionen. Er aß auf dem Platz, erledigte seine Notdurft öffentlich und kritisierte alle, die anders lebten."
+      },
+      {
+        "ru": "Диоген умер в один день с Александром Македонским в 323 году до н.э. По легенде, он задержал дыхание, чтобы умереть. Его философия повлияла на стоицизм и другие школы. Диоген стал символом философа, который живёт согласно своим принципам, невзирая на общественное мнение.",
+        "de": "Diogenes starb am selben Tag wie Alexander der Große im Jahr 323 v. Chr. Der Legende nach hielt er den Atem an, um zu sterben. Seine Philosophie beeinflusste den Stoizismus und andere Schulen. Diogenes wurde zum Symbol eines Philosophen, der nach seinen Prinzipien lebt, unabhängig von der öffentlichen Meinung."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "философия",
+      "киники"
+    ]
+  },
+  {
+    "id": 260,
+    "question": "Кто был богом леса?",
+    "question_de": "Wer war der Gott des Waldes?",
+    "answer": "Пан",
+    "answer_de": "Pan",
+    "wrong_answers": [
+      {
+        "ru": "Дионис",
+        "de": "Dionysos"
+      },
+      {
+        "ru": "Гермес",
+        "de": "Hermes"
+      },
+      {
+        "ru": "Аполлон",
+        "de": "Apollon"
+      }
+    ],
+    "explanation": {
+      "ru": "Пан был богом лесов, пастбищ, стад и дикой природы в древнегреческой мифологии. Он изображался с козлиными ногами, рогами и бородой, играющим на свирели. Пан был сыном Гермеса и нимфы Дриопы. Он жил в Аркадии и был покровителем пастухов и охотников.",
+      "de": "Pan war der Gott der Wälder, Weiden, Herden und Wildnis in der antiken griechischen Mythologie. Er wurde mit Ziegenbeinen, Hörnern und Bart dargestellt, wie er auf der Flöte spielte. Pan war der Sohn des Hermes und der Nymphe Dryope. Er lebte in Arkadien und war der Schutzpatron der Hirten und Jäger."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Пан был известен своей способностью вызывать внезапный, необъяснимый страх у людей и животных - отсюда слово 'паника'. Когда он играл на своей свирели, все вокруг впадали в состояние ужаса или экстаза. Его музыка могла как успокаивать, так и пугать.",
+        "de": "Pan war bekannt für seine Fähigkeit, plötzliche, unerklärliche Angst bei Menschen und Tieren zu verursachen - daher das Wort 'Panik'. Wenn er auf seiner Flöte spielte, fielen alle um ihn herum in einen Zustand des Schreckens oder der Ekstase. Seine Musik konnte sowohl beruhigen als auch erschrecken."
+      },
+      {
+        "ru": "Пан преследовал нимфу Сирингу, которая превратилась в тростник, чтобы избежать его. Из этого тростника Пан сделал свою свирель (сиринкс), которая стала его главным атрибутом. Миф объясняет происхождение музыкального инструмента и показывает связь Пана с природой.",
+        "de": "Pan verfolgte die Nymphe Syrinx, die sich in ein Schilfrohr verwandelte, um ihm zu entkommen. Aus diesem Schilfrohr machte Pan seine Flöte (Syrinx), die zu seinem Hauptattribut wurde. Der Mythos erklärt den Ursprung des Musikinstruments und zeigt die Verbindung des Pan mit der Natur."
+      },
+      {
+        "ru": "Согласно легенде, Пан умер во время правления императора Тиберия, когда голос с неба объявил: 'Великий Пан мёртв'. Это событие совпало с распятием Христа, что христиане интерпретировали как конец языческих богов. Пан стал символом уходящей античной эпохи.",
+        "de": "Der Legende nach starb Pan während der Regierungszeit von Kaiser Tiberius, als eine Stimme vom Himmel verkündete: 'Der große Pan ist tot'. Dieses Ereignis fiel mit der Kreuzigung Christi zusammen, was Christen als das Ende der heidnischen Götter interpretierten. Pan wurde zum Symbol der vergehenden antiken Ära."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 261,
+    "question": "Какой драматург написал 'Лисистрату'?",
+    "question_de": "Welcher Dramatiker schrieb 'Lysistrata'?",
+    "answer": "Аристофан",
+    "answer_de": "Aristophanes",
+    "wrong_answers": [
+      {
+        "ru": "Софокл",
+        "de": "Sophokles"
+      },
+      {
+        "ru": "Еврипид",
+        "de": "Euripides"
+      },
+      {
+        "ru": "Эсхил",
+        "de": "Aischylos"
+      }
+    ],
+    "explanation": {
+      "ru": "Аристофан (ок. 446-386 гг. до н.э.) написал комедию 'Лисистрата' в 411 году до н.э. Пьеса рассказывает о женщинах, которые отказываются от интимных отношений с мужьями, чтобы заставить их прекратить Пелопоннесскую войну. Это одна из самых известных антивоенных комедий в истории театра.",
+      "de": "Aristophanes (ca. 446-386 v. Chr.) schrieb die Komödie 'Lysistrata' im Jahr 411 v. Chr. Das Stück erzählt von Frauen, die sich weigern, intime Beziehungen mit ihren Ehemännern zu haben, um sie zu zwingen, den Peloponnesischen Krieg zu beenden. Es ist eine der bekanntesten antimilitaristischen Komödien in der Theatergeschichte."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Аристофан написал около 40 комедий, но до нас дошло только 11. Его пьесы были сатирическими и критиковали политиков, философов и общественные проблемы. 'Лисистрата' была написана во время войны, когда Афины переживали кризис, и призывала к миру.",
+        "de": "Aristophanes schrieb etwa 40 Komödien, aber nur 11 sind erhalten geblieben. Seine Stücke waren satirisch und kritisierten Politiker, Philosophen und gesellschaftliche Probleme. 'Lysistrata' wurde während des Krieges geschrieben, als Athen eine Krise durchlebte, und rief zum Frieden auf."
+      },
+      {
+        "ru": "Комедия 'Лисистрата' была очень смелой для своего времени, так как женщины в Афинах не имели политических прав. Пьеса показывает женщин, берущих инициативу в свои руки. Название означает 'распускающая войско' и отражает главную идею произведения.",
+        "de": "Die Komödie 'Lysistrata' war sehr mutig für ihre Zeit, da Frauen in Athen keine politischen Rechte hatten. Das Stück zeigt Frauen, die die Initiative ergreifen. Der Titel bedeutet 'die das Heer auflöst' und spiegelt die Hauptidee des Werks wider."
+      },
+      {
+        "ru": "Аристофан также написал 'Облака', где высмеивал Сократа, и 'Лягушки', где критиковал Еврипида. Его комедии были популярны и часто выигрывали театральные конкурсы. Аристофан считается величайшим комедиографом античности.",
+        "de": "Aristophanes schrieb auch 'Die Wolken', in denen er Sokrates verspottete, und 'Die Frösche', in denen er Euripides kritisierte. Seine Komödien waren beliebt und gewannen oft Theaterwettbewerbe. Aristophanes gilt als der größte Komödiendichter der Antike."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "театр",
+      "комедии"
+    ]
+  },
+  {
+    "id": 262,
+    "question": "Кто была богиня мщения?",
+    "question_de": "Wer war die Göttin der Rache?",
+    "answer": "Немесида",
+    "answer_de": "Nemesis",
+    "wrong_answers": [
+      {
+        "ru": "Фемида",
+        "de": "Themis"
+      },
+      {
+        "ru": "Эрида",
+        "de": "Eris"
+      },
+      {
+        "ru": "Алекто",
+        "de": "Alekto"
+      }
+    ],
+    "explanation": {
+      "ru": "Немесида была богиней мщения, возмездия и справедливого наказания в древнегреческой мифологии. Она наказывала тех, кто проявлял гордыню (гибрис) перед богами или получал незаслуженное счастье. Немесида изображалась с весами, мечом или плетью и символизировала божественное правосудие.",
+      "de": "Nemesis war die Göttin der Rache, Vergeltung und gerechten Bestrafung in der antiken griechischen Mythologie. Sie bestrafte diejenigen, die Stolz (Hybris) vor den Göttern zeigten oder unverdientes Glück erhielten. Nemesis wurde mit Waage, Schwert oder Peitsche dargestellt und symbolisierte göttliche Gerechtigkeit."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Немесида была дочерью Никты (ночи) и олицетворяла неизбежное возмездие за неправильные поступки. Она следила за тем, чтобы никто не получал больше счастья, чем заслуживал. Её имя означает 'распределение' и связано с идеей справедливого воздаяния.",
+        "de": "Nemesis war die Tochter der Nyx (Nacht) und verkörperte die unvermeidliche Vergeltung für falsche Taten. Sie sorgte dafür, dass niemand mehr Glück erhielt, als er verdiente. Ihr Name bedeutet 'Verteilung' und ist mit der Idee der gerechten Vergeltung verbunden."
+      },
+      {
+        "ru": "В мифе о Нарциссе Немесида наказала юношу за его гордыню и пренебрежение к нимфе Эхо. Она заставила его влюбиться в собственное отражение, что привело к его гибели. Этот миф показывает, как Немесида восстанавливает баланс, наказывая чрезмерную гордость.",
+        "de": "Im Mythos von Narziss bestrafte Nemesis den Jüngling für seinen Stolz und seine Missachtung der Nymphe Echo. Sie ließ ihn sich in sein eigenes Spiegelbild verlieben, was zu seinem Tod führte. Dieser Mythos zeigt, wie Nemesis das Gleichgewicht wiederherstellt, indem sie übermäßigen Stolz bestraft."
+      },
+      {
+        "ru": "Немесида часто изображалась с колесом фортуны, символизирующим изменчивость судьбы. Она могла как наказывать, так и вознаграждать, восстанавливая справедливость. В римской мифологии ей соответствовала Инвидия (зависть), хотя функции были схожими.",
+        "de": "Nemesis wurde oft mit einem Schicksalsrad dargestellt, das die Veränderlichkeit des Schicksals symbolisiert. Sie konnte sowohl bestrafen als auch belohnen und Gerechtigkeit wiederherstellen. In der römischen Mythologie entsprach ihr Invidia (Neid), obwohl die Funktionen ähnlich waren."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "справедливость"
+    ]
+  },
+  {
+    "id": 263,
+    "question": "Какой историк написал 'Пелопоннесскую войну'?",
+    "question_de": "Welcher Historiker schrieb den 'Peloponnesischen Krieg'?",
+    "answer": "Фукидид",
+    "answer_de": "Thukydides",
+    "wrong_answers": [
+      {
+        "ru": "Геродот",
+        "de": "Herodot"
+      },
+      {
+        "ru": "Ксенофонт",
+        "de": "Xenophon"
+      },
+      {
+        "ru": "Полибий",
+        "de": "Polybios"
+      }
+    ],
+    "explanation": {
+      "ru": "Фукидид (ок. 460-400 гг. до н.э.) написал 'Историю Пелопоннесской войны' - одно из величайших исторических произведений античности. Он был участником войны и писал как очевидец событий. Фукидид стремился к объективности и точности, избегая мифов и легенд, в отличие от Геродота.",
+      "de": "Thukydides (ca. 460-400 v. Chr.) schrieb die 'Geschichte des Peloponnesischen Krieges' - eines der größten historischen Werke der Antike. Er war Teilnehmer des Krieges und schrieb als Augenzeuge der Ereignisse. Thukydides strebte nach Objektivität und Genauigkeit und vermied Mythen und Legenden, im Gegensatz zu Herodot."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Фукидид был афинским стратегом, но был изгнан за неудачу в битве при Амфиполе в 424 году до н.э. Изгнание позволило ему путешествовать и собирать информацию с обеих сторон конфликта. Его работа осталась незавершённой - он умер до окончания войны.",
+        "de": "Thukydides war ein athenischer Stratege, wurde aber 424 v. Chr. für das Versagen in der Schlacht bei Amphipolis verbannt. Die Verbannung ermöglichte es ihm, zu reisen und Informationen von beiden Seiten des Konflikts zu sammeln. Seine Arbeit blieb unvollendet - er starb vor dem Ende des Krieges."
+      },
+      {
+        "ru": "Фукидид ввёл метод исторического исследования, основанный на проверке фактов и критическом анализе источников. Он включал в свой труд речи участников событий, которые сам сочинял, но которые отражали их реальные мотивы. Это стало стандартом для исторической науки.",
+        "de": "Thukydides führte eine Methode der historischen Forschung ein, die auf der Überprüfung von Fakten und kritischer Analyse von Quellen basiert. Er nahm Reden von Teilnehmern der Ereignisse in sein Werk auf, die er selbst verfasste, aber die ihre wirklichen Motive widerspiegelten. Dies wurde zum Standard für die Geschichtswissenschaft."
+      },
+      {
+        "ru": "Фукидид описал чуму в Афинах, которой сам переболел, что дало ему возможность наблюдать её симптомы. Его описание стало важным источником для изучения древних эпидемий. Он также анализировал причины войны, показывая, что настоящей причиной был страх Спарты перед растущей мощью Афин.",
+        "de": "Thukydides beschrieb die Pest in Athen, an der er selbst erkrankte, was ihm die Möglichkeit gab, ihre Symptome zu beobachten. Seine Beschreibung wurde eine wichtige Quelle für das Studium antiker Epidemien. Er analysierte auch die Ursachen des Krieges und zeigte, dass die wahre Ursache Spartas Furcht vor der wachsenden Macht Athens war."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "история",
+      "войны"
+    ]
+  },
+  {
+    "id": 264,
+    "question": "Кто был богом страха?",
+    "question_de": "Wer war der Gott der Furcht?",
+    "answer": "Фобос",
+    "answer_de": "Phobos",
+    "wrong_answers": [
+      {
+        "ru": "Деймос",
+        "de": "Deimos"
+      },
+      {
+        "ru": "Арес",
+        "de": "Ares"
+      },
+      {
+        "ru": "Энио",
+        "de": "Enyo"
+      }
+    ],
+    "explanation": {
+      "ru": "Фобос был богом страха и паники в древнегреческой мифологии, сыном Ареса, бога войны, и Афродиты. Он сопровождал отца в битвах, вселяя ужас во врагов. Фобос изображался на щите Ареса вместе со своим братом Деймосом (ужасом). Его имя дало название фобии - патологическому страху.",
+      "de": "Phobos war der Gott der Furcht und Panik in der antiken griechischen Mythologie, Sohn des Ares, des Gottes des Krieges, und der Aphrodite. Er begleitete seinen Vater in Schlachten und verbreitete Schrecken unter den Feinden. Phobos wurde auf dem Schild des Ares zusammen mit seinem Bruder Deimos (Schrecken) dargestellt. Sein Name gab der Phobie ihren Namen - pathologische Angst."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Фобос и Деймос были постоянными спутниками Ареса на поле боя. Они олицетворяли эмоциональные аспекты войны - страх и ужас, которые испытывали воины. В римской мифологии им соответствовали Метус (страх) и Паллор (бледность от ужаса).",
+        "de": "Phobos und Deimos waren ständige Begleiter des Ares auf dem Schlachtfeld. Sie verkörperten die emotionalen Aspekte des Krieges - Furcht und Schrecken, die Krieger erlebten. In der römischen Mythologie entsprachen ihnen Metus (Furcht) und Pallor (Blässe vor Schrecken)."
+      },
+      {
+        "ru": "Имена Фобоса и Деймоса были даны двум спутникам планеты Марс, открытым в 1877 году. Это было символично, так как Марс - римский аналог Ареса. Спутники очень малы и имеют неправильную форму, что соответствует их мифологическому происхождению.",
+        "de": "Die Namen Phobos und Deimos wurden den beiden Monden des Planeten Mars gegeben, die 1877 entdeckt wurden. Dies war symbolisch, da Mars das römische Äquivalent des Ares ist. Die Monde sind sehr klein und haben eine unregelmäßige Form, was ihrer mythologischen Herkunft entspricht."
+      },
+      {
+        "ru": "Фобос изображался как ужасное существо, способное парализовать врагов страхом. В некоторых мифах он был одним из сыновей Никты (ночи), что подчёркивало его связь с тёмными аспектами человеческой природы. Страх был важным оружием в древней войне.",
+        "de": "Phobos wurde als schreckliches Wesen dargestellt, das Feinde mit Furcht lähmen konnte. In einigen Mythen war er einer der Söhne der Nyx (Nacht), was seine Verbindung zu den dunklen Aspekten der menschlichen Natur betonte. Furcht war eine wichtige Waffe im antiken Krieg."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "эмоции"
+    ]
+  },
+  {
+    "id": 265,
+    "question": "Какой философ утверждал 'всё течёт'?",
+    "question_de": "Welcher Philosoph behauptete 'alles fließt'?",
+    "answer": "Гераклит",
+    "answer_de": "Heraklit",
+    "wrong_answers": [
+      {
+        "ru": "Парменид",
+        "de": "Parmenides"
+      },
+      {
+        "ru": "Зенон",
+        "de": "Zenon"
+      },
+      {
+        "ru": "Анаксимандр",
+        "de": "Anaximander"
+      }
+    ],
+    "explanation": {
+      "ru": "Гераклит Эфесский (ок. 535-475 гг. до н.э.) утверждал, что 'всё течёт' (πάντα ῥεῖ) и 'нельзя войти в одну и ту же реку дважды'. Он считал, что мир находится в постоянном изменении и движении. Гераклит также учил, что огонь - первоначало всего сущего, и что всё возникает из борьбы противоположностей.",
+      "de": "Heraklit von Ephesos (ca. 535-475 v. Chr.) behauptete, dass 'alles fließt' (πάντα ῥεῖ) und man 'nicht zweimal in denselben Fluss steigen kann'. Er glaubte, dass die Welt in ständiger Veränderung und Bewegung ist. Heraklit lehrte auch, dass Feuer der Urgrund aller Dinge ist und dass alles aus dem Kampf der Gegensätze entsteht."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Гераклита называли 'Тёмным' из-за сложности и загадочности его высказываний. Он писал афоризмами и метафорами, что делало его учение трудным для понимания. Его знаменитое изречение 'всё течёт' стало символом постоянства изменений в мире.",
+        "de": "Heraklit wurde 'der Dunkle' genannt wegen der Komplexität und Rätselhaftigkeit seiner Aussagen. Er schrieb in Aphorismen und Metaphern, was seine Lehre schwer verständlich machte. Sein berühmter Ausspruch 'alles fließt' wurde zum Symbol für die Beständigkeit der Veränderungen in der Welt."
+      },
+      {
+        "ru": "Гераклит верил в единство противоположностей: день и ночь, добро и зло, жизнь и смерть - всё это части единого целого. Он говорил: 'Путь вверх и путь вниз - один и тот же'. Эта диалектическая идея повлияла на последующую философию, включая Гегеля и Маркса.",
+        "de": "Heraklit glaubte an die Einheit der Gegensätze: Tag und Nacht, Gut und Böse, Leben und Tod - alles sind Teile eines Ganzen. Er sagte: 'Der Weg nach oben und der Weg nach unten ist derselbe'. Diese dialektische Idee beeinflusste die spätere Philosophie, einschließlich Hegel und Marx."
+      },
+      {
+        "ru": "Гераклит считал, что космос управляется логосом - разумным законом, который люди должны понять. Он критиковал других философов за многознание, которое не даёт мудрости. Его идеи о постоянном изменении противоречили учению Парменида о неизменном бытии.",
+        "de": "Heraklit glaubte, dass der Kosmos vom Logos - einem vernünftigen Gesetz - regiert wird, das die Menschen verstehen müssen. Er kritisierte andere Philosophen für Vielwissen, das keine Weisheit gibt. Seine Ideen über ständige Veränderung widersprachen Parmenides' Lehre vom unveränderlichen Sein."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "философия",
+      "учения"
+    ]
+  }
+]
+

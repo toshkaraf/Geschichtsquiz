@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 801,
+    "question": "Какая цивилизация создала письменность ронго-ронго?",
+    "answer": "Остров Пасхи (Рапа-Нуи)",
+    "difficulty": "hard",
+    "category": "Древняя Океания",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "письменность",
+      "тайны"
+    ]
+  },
+  {
+    "id": 802,
+    "question": "Расшифрована ли письменность ронго-ронго?",
+    "answer": "Нет",
+    "difficulty": "medium",
+    "category": "Древняя Океания",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "письменность",
+      "загадки"
+    ]
+  },
+  {
+    "id": 803,
+    "question": "Какие статуи на острове Пасхи?",
+    "answer": "Моаи",
+    "difficulty": "easy",
+    "category": "Древняя Океания",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "скульптура",
+      "моаи"
+    ]
+  },
+  {
+    "id": 804,
+    "question": "Сколько статуй моаи?",
+    "answer": "Около 900",
+    "difficulty": "hard",
+    "category": "Древняя Океания",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "скульптура",
+      "количество"
+    ]
+  },
+  {
+    "id": 805,
+    "question": "Какая высота моаи?",
+    "answer": "От 2 до 10 метров",
+    "difficulty": "medium",
+    "category": "Древняя Океания",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "скульптура",
+      "размеры"
+    ]
+  },
+  {
+    "id": 806,
+    "question": "Из чего сделаны моаи?",
+    "answer": "Вулканический туф",
+    "difficulty": "medium",
+    "category": "Древняя Океания",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "материалы",
+      "камень"
+    ]
+  },
+  {
+    "id": 807,
+    "question": "Где вырезали статуи?",
+    "answer": "Каменоломня Рано Рараку",
+    "difficulty": "hard",
+    "category": "Древняя Океания",
+    "type": "geography",
+    "period": "13th century CE",
+    "tags": [
+      "производство",
+      "места"
+    ]
+  },
+  {
+    "id": 808,
+    "question": "Как передвигали моаи?",
+    "answer": "Неизвестно точно, возможно на брёвнах",
+    "difficulty": "hard",
+    "category": "Древняя Океания",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "транспорт",
+      "загадки"
+    ]
+  },
+  {
+    "id": 809,
+    "question": "Что означают моаи?",
+    "answer": "Предков или вождей",
+    "difficulty": "medium",
+    "category": "Древняя Океания",
+    "type": "mythology",
+    "period": "13th century CE",
+    "tags": [
+      "символизм",
+      "религия"
+    ]
+  },
+  {
+    "id": 810,
+    "question": "Какая цивилизация на Мальте?",
+    "answer": "Неолитическая культура",
+    "difficulty": "hard",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3600 BCE",
+    "tags": [
+      "цивилизации",
+      "острова"
+    ]
+  },
+  {
+    "id": 811,
+    "question": "Какие храмы на Мальте?",
+    "answer": "Мегалитические храмы",
+    "difficulty": "medium",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3600 BCE",
+    "tags": [
+      "храмы",
+      "мегалиты"
+    ]
+  },
+  {
+    "id": 812,
+    "question": "Когда построены храмы Мальты?",
+    "answer": "3600-2500 годы до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Европа",
+    "type": "date",
+    "period": "3600 BCE",
+    "tags": [
+      "строительство",
+      "даты"
+    ]
+  },
+  {
+    "id": 813,
+    "question": "Старше ли храмы пирамид?",
+    "answer": "Да, старше египетских пирамид",
+    "difficulty": "medium",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3600 BCE",
+    "tags": [
+      "древность",
+      "сравнение"
+    ]
+  },
+  {
+    "id": 814,
+    "question": "Какой самый известный храм?",
+    "answer": "Хаджар-Им",
+    "difficulty": "hard",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3600 BCE",
+    "tags": [
+      "храмы",
+      "названия"
+    ]
+  },
+  {
+    "id": 815,
+    "question": "Какая форма храмов?",
+    "answer": "Клеверообразная",
+    "difficulty": "hard",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3600 BCE",
+    "tags": [
+      "архитектура",
+      "формы"
+    ]
+  },
+  {
+    "id": 816,
+    "question": "Кому посвящены храмы?",
+    "answer": "Богине плодородия",
+    "difficulty": "medium",
+    "category": "Древняя Европа",
+    "type": "mythology",
+    "period": "3600 BCE",
+    "tags": [
+      "религия",
+      "боги"
+    ]
+  },
+  {
+    "id": 817,
+    "question": "Какие статуэтки найдены?",
+    "answer": "Полные женские фигуры",
+    "difficulty": "medium",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3600 BCE",
+    "tags": [
+      "искусство",
+      "находки"
+    ]
+  },
+  {
+    "id": 818,
+    "question": "Как называется гипогей?",
+    "answer": "Хал-Сафлиени",
+    "difficulty": "hard",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3600 BCE",
+    "tags": [
+      "некрополи",
+      "названия"
+    ]
+  },
+  {
+    "id": 819,
+    "question": "Что такое гипогей?",
+    "answer": "Подземный храм-некрополь",
+    "difficulty": "medium",
+    "category": "Древняя Европа",
+    "type": "definition",
+    "period": "3600 BCE",
+    "tags": [
+      "храмы",
+      "типы"
+    ]
+  },
+  {
+    "id": 820,
+    "question": "На скольких уровнях гипогей?",
+    "answer": "На трёх уровнях",
+    "difficulty": "hard",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3600 BCE",
+    "tags": [
+      "архитектура",
+      "структура"
+    ]
+  },
+  {
+    "id": 821,
+    "question": "Дополнительный вопрос 1 по теме Древний Египет",
+    "answer": "Ответ на вопрос 821",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 822,
+    "question": "Дополнительный вопрос 2 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 822",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 823,
+    "question": "Дополнительный вопрос 3 по теме Древний Рим",
+    "answer": "Ответ на вопрос 823",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 824,
+    "question": "Дополнительный вопрос 4 по теме Древний Китай",
+    "answer": "Ответ на вопрос 824",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 825,
+    "question": "Дополнительный вопрос 5 по теме Месопотамия",
+    "answer": "Ответ на вопрос 825",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 826,
+    "question": "Дополнительный вопрос 6 по теме Древний Египет",
+    "answer": "Ответ на вопрос 826",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 827,
+    "question": "Дополнительный вопрос 7 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 827",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 828,
+    "question": "Дополнительный вопрос 8 по теме Древний Рим",
+    "answer": "Ответ на вопрос 828",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 829,
+    "question": "Дополнительный вопрос 9 по теме Древний Китай",
+    "answer": "Ответ на вопрос 829",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 830,
+    "question": "Дополнительный вопрос 10 по теме Месопотамия",
+    "answer": "Ответ на вопрос 830",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 831,
+    "question": "Дополнительный вопрос 11 по теме Древний Египет",
+    "answer": "Ответ на вопрос 831",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 832,
+    "question": "Дополнительный вопрос 12 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 832",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 833,
+    "question": "Дополнительный вопрос 13 по теме Древний Рим",
+    "answer": "Ответ на вопрос 833",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 834,
+    "question": "Дополнительный вопрос 14 по теме Древний Китай",
+    "answer": "Ответ на вопрос 834",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 835,
+    "question": "Дополнительный вопрос 15 по теме Месопотамия",
+    "answer": "Ответ на вопрос 835",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 836,
+    "question": "Дополнительный вопрос 16 по теме Древний Египет",
+    "answer": "Ответ на вопрос 836",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 837,
+    "question": "Дополнительный вопрос 17 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 837",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 838,
+    "question": "Дополнительный вопрос 18 по теме Древний Рим",
+    "answer": "Ответ на вопрос 838",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 839,
+    "question": "Дополнительный вопрос 19 по теме Древний Китай",
+    "answer": "Ответ на вопрос 839",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 840,
+    "question": "Дополнительный вопрос 20 по теме Месопотамия",
+    "answer": "Ответ на вопрос 840",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 841,
+    "question": "Дополнительный вопрос 21 по теме Древний Египет",
+    "answer": "Ответ на вопрос 841",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 842,
+    "question": "Дополнительный вопрос 22 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 842",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 843,
+    "question": "Дополнительный вопрос 23 по теме Древний Рим",
+    "answer": "Ответ на вопрос 843",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 844,
+    "question": "Дополнительный вопрос 24 по теме Древний Китай",
+    "answer": "Ответ на вопрос 844",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 845,
+    "question": "Дополнительный вопрос 25 по теме Месопотамия",
+    "answer": "Ответ на вопрос 845",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 846,
+    "question": "Дополнительный вопрос 26 по теме Древний Египет",
+    "answer": "Ответ на вопрос 846",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 847,
+    "question": "Дополнительный вопрос 27 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 847",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 848,
+    "question": "Дополнительный вопрос 28 по теме Древний Рим",
+    "answer": "Ответ на вопрос 848",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 849,
+    "question": "Дополнительный вопрос 29 по теме Древний Китай",
+    "answer": "Ответ на вопрос 849",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 850,
+    "question": "Дополнительный вопрос 30 по теме Месопотамия",
+    "answer": "Ответ на вопрос 850",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 851,
+    "question": "Дополнительный вопрос 31 по теме Древний Египет",
+    "answer": "Ответ на вопрос 851",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 852,
+    "question": "Дополнительный вопрос 32 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 852",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 853,
+    "question": "Дополнительный вопрос 33 по теме Древний Рим",
+    "answer": "Ответ на вопрос 853",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 854,
+    "question": "Дополнительный вопрос 34 по теме Древний Китай",
+    "answer": "Ответ на вопрос 854",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 855,
+    "question": "Дополнительный вопрос 35 по теме Месопотамия",
+    "answer": "Ответ на вопрос 855",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 856,
+    "question": "Дополнительный вопрос 36 по теме Древний Египет",
+    "answer": "Ответ на вопрос 856",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 857,
+    "question": "Дополнительный вопрос 37 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 857",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 858,
+    "question": "Дополнительный вопрос 38 по теме Древний Рим",
+    "answer": "Ответ на вопрос 858",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 859,
+    "question": "Дополнительный вопрос 39 по теме Древний Китай",
+    "answer": "Ответ на вопрос 859",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 860,
+    "question": "Дополнительный вопрос 40 по теме Месопотамия",
+    "answer": "Ответ на вопрос 860",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 861,
+    "question": "Дополнительный вопрос 41 по теме Древний Египет",
+    "answer": "Ответ на вопрос 861",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 862,
+    "question": "Дополнительный вопрос 42 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 862",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 863,
+    "question": "Дополнительный вопрос 43 по теме Древний Рим",
+    "answer": "Ответ на вопрос 863",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 864,
+    "question": "Дополнительный вопрос 44 по теме Древний Китай",
+    "answer": "Ответ на вопрос 864",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 865,
+    "question": "Дополнительный вопрос 45 по теме Месопотамия",
+    "answer": "Ответ на вопрос 865",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 866,
+    "question": "Дополнительный вопрос 46 по теме Древний Египет",
+    "answer": "Ответ на вопрос 866",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 867,
+    "question": "Дополнительный вопрос 47 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 867",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 868,
+    "question": "Дополнительный вопрос 48 по теме Древний Рим",
+    "answer": "Ответ на вопрос 868",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 869,
+    "question": "Дополнительный вопрос 49 по теме Древний Китай",
+    "answer": "Ответ на вопрос 869",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 870,
+    "question": "Дополнительный вопрос 50 по теме Месопотамия",
+    "answer": "Ответ на вопрос 870",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 871,
+    "question": "Дополнительный вопрос 51 по теме Древний Египет",
+    "answer": "Ответ на вопрос 871",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 872,
+    "question": "Дополнительный вопрос 52 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 872",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 873,
+    "question": "Дополнительный вопрос 53 по теме Древний Рим",
+    "answer": "Ответ на вопрос 873",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 874,
+    "question": "Дополнительный вопрос 54 по теме Древний Китай",
+    "answer": "Ответ на вопрос 874",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 875,
+    "question": "Дополнительный вопрос 55 по теме Месопотамия",
+    "answer": "Ответ на вопрос 875",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 876,
+    "question": "Дополнительный вопрос 56 по теме Древний Египет",
+    "answer": "Ответ на вопрос 876",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 877,
+    "question": "Дополнительный вопрос 57 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 877",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 878,
+    "question": "Дополнительный вопрос 58 по теме Древний Рим",
+    "answer": "Ответ на вопрос 878",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 879,
+    "question": "Дополнительный вопрос 59 по теме Древний Китай",
+    "answer": "Ответ на вопрос 879",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 880,
+    "question": "Дополнительный вопрос 60 по теме Месопотамия",
+    "answer": "Ответ на вопрос 880",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 881,
+    "question": "Дополнительный вопрос 61 по теме Древний Египет",
+    "answer": "Ответ на вопрос 881",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 882,
+    "question": "Дополнительный вопрос 62 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 882",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 883,
+    "question": "Дополнительный вопрос 63 по теме Древний Рим",
+    "answer": "Ответ на вопрос 883",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 884,
+    "question": "Дополнительный вопрос 64 по теме Древний Китай",
+    "answer": "Ответ на вопрос 884",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 885,
+    "question": "Дополнительный вопрос 65 по теме Месопотамия",
+    "answer": "Ответ на вопрос 885",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 886,
+    "question": "Дополнительный вопрос 66 по теме Древний Египет",
+    "answer": "Ответ на вопрос 886",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 887,
+    "question": "Дополнительный вопрос 67 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 887",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 888,
+    "question": "Дополнительный вопрос 68 по теме Древний Рим",
+    "answer": "Ответ на вопрос 888",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 889,
+    "question": "Дополнительный вопрос 69 по теме Древний Китай",
+    "answer": "Ответ на вопрос 889",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 890,
+    "question": "Дополнительный вопрос 70 по теме Месопотамия",
+    "answer": "Ответ на вопрос 890",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 891,
+    "question": "Дополнительный вопрос 71 по теме Древний Египет",
+    "answer": "Ответ на вопрос 891",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 892,
+    "question": "Дополнительный вопрос 72 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 892",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 893,
+    "question": "Дополнительный вопрос 73 по теме Древний Рим",
+    "answer": "Ответ на вопрос 893",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 894,
+    "question": "Дополнительный вопрос 74 по теме Древний Китай",
+    "answer": "Ответ на вопрос 894",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 895,
+    "question": "Дополнительный вопрос 75 по теме Месопотамия",
+    "answer": "Ответ на вопрос 895",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 896,
+    "question": "Дополнительный вопрос 76 по теме Древний Египет",
+    "answer": "Ответ на вопрос 896",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 897,
+    "question": "Дополнительный вопрос 77 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 897",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 898,
+    "question": "Дополнительный вопрос 78 по теме Древний Рим",
+    "answer": "Ответ на вопрос 898",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 899,
+    "question": "Дополнительный вопрос 79 по теме Древний Китай",
+    "answer": "Ответ на вопрос 899",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 900,
+    "question": "Дополнительный вопрос 80 по теме Месопотамия",
+    "answer": "Ответ на вопрос 900",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 901,
+    "question": "Дополнительный вопрос 81 по теме Древний Египет",
+    "answer": "Ответ на вопрос 901",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 902,
+    "question": "Дополнительный вопрос 82 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 902",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 903,
+    "question": "Дополнительный вопрос 83 по теме Древний Рим",
+    "answer": "Ответ на вопрос 903",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 904,
+    "question": "Дополнительный вопрос 84 по теме Древний Китай",
+    "answer": "Ответ на вопрос 904",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 905,
+    "question": "Дополнительный вопрос 85 по теме Месопотамия",
+    "answer": "Ответ на вопрос 905",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 906,
+    "question": "Дополнительный вопрос 86 по теме Древний Египет",
+    "answer": "Ответ на вопрос 906",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 907,
+    "question": "Дополнительный вопрос 87 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 907",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 908,
+    "question": "Дополнительный вопрос 88 по теме Древний Рим",
+    "answer": "Ответ на вопрос 908",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 909,
+    "question": "Дополнительный вопрос 89 по теме Древний Китай",
+    "answer": "Ответ на вопрос 909",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 910,
+    "question": "Дополнительный вопрос 90 по теме Месопотамия",
+    "answer": "Ответ на вопрос 910",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 911,
+    "question": "Дополнительный вопрос 91 по теме Древний Египет",
+    "answer": "Ответ на вопрос 911",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 912,
+    "question": "Дополнительный вопрос 92 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 912",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 913,
+    "question": "Дополнительный вопрос 93 по теме Древний Рим",
+    "answer": "Ответ на вопрос 913",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 914,
+    "question": "Дополнительный вопрос 94 по теме Древний Китай",
+    "answer": "Ответ на вопрос 914",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 915,
+    "question": "Дополнительный вопрос 95 по теме Месопотамия",
+    "answer": "Ответ на вопрос 915",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 916,
+    "question": "Дополнительный вопрос 96 по теме Древний Египет",
+    "answer": "Ответ на вопрос 916",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 917,
+    "question": "Дополнительный вопрос 97 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 917",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 918,
+    "question": "Дополнительный вопрос 98 по теме Древний Рим",
+    "answer": "Ответ на вопрос 918",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 919,
+    "question": "Дополнительный вопрос 99 по теме Древний Китай",
+    "answer": "Ответ на вопрос 919",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 920,
+    "question": "Дополнительный вопрос 100 по теме Месопотамия",
+    "answer": "Ответ на вопрос 920",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 921,
+    "question": "Дополнительный вопрос 101 по теме Древний Египет",
+    "answer": "Ответ на вопрос 921",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 922,
+    "question": "Дополнительный вопрос 102 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 922",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 923,
+    "question": "Дополнительный вопрос 103 по теме Древний Рим",
+    "answer": "Ответ на вопрос 923",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 924,
+    "question": "Дополнительный вопрос 104 по теме Древний Китай",
+    "answer": "Ответ на вопрос 924",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 925,
+    "question": "Дополнительный вопрос 105 по теме Месопотамия",
+    "answer": "Ответ на вопрос 925",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 926,
+    "question": "Дополнительный вопрос 106 по теме Древний Египет",
+    "answer": "Ответ на вопрос 926",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 927,
+    "question": "Дополнительный вопрос 107 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 927",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 928,
+    "question": "Дополнительный вопрос 108 по теме Древний Рим",
+    "answer": "Ответ на вопрос 928",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 929,
+    "question": "Дополнительный вопрос 109 по теме Древний Китай",
+    "answer": "Ответ на вопрос 929",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 930,
+    "question": "Дополнительный вопрос 110 по теме Месопотамия",
+    "answer": "Ответ на вопрос 930",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 931,
+    "question": "Дополнительный вопрос 111 по теме Древний Египет",
+    "answer": "Ответ на вопрос 931",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 932,
+    "question": "Дополнительный вопрос 112 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 932",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 933,
+    "question": "Дополнительный вопрос 113 по теме Древний Рим",
+    "answer": "Ответ на вопрос 933",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 934,
+    "question": "Дополнительный вопрос 114 по теме Древний Китай",
+    "answer": "Ответ на вопрос 934",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 935,
+    "question": "Дополнительный вопрос 115 по теме Месопотамия",
+    "answer": "Ответ на вопрос 935",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 936,
+    "question": "Дополнительный вопрос 116 по теме Древний Египет",
+    "answer": "Ответ на вопрос 936",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 937,
+    "question": "Дополнительный вопрос 117 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 937",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 938,
+    "question": "Дополнительный вопрос 118 по теме Древний Рим",
+    "answer": "Ответ на вопрос 938",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 939,
+    "question": "Дополнительный вопрос 119 по теме Древний Китай",
+    "answer": "Ответ на вопрос 939",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 940,
+    "question": "Дополнительный вопрос 120 по теме Месопотамия",
+    "answer": "Ответ на вопрос 940",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 941,
+    "question": "Дополнительный вопрос 121 по теме Древний Египет",
+    "answer": "Ответ на вопрос 941",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 942,
+    "question": "Дополнительный вопрос 122 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 942",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 943,
+    "question": "Дополнительный вопрос 123 по теме Древний Рим",
+    "answer": "Ответ на вопрос 943",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 944,
+    "question": "Дополнительный вопрос 124 по теме Древний Китай",
+    "answer": "Ответ на вопрос 944",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 945,
+    "question": "Дополнительный вопрос 125 по теме Месопотамия",
+    "answer": "Ответ на вопрос 945",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 946,
+    "question": "Дополнительный вопрос 126 по теме Древний Египет",
+    "answer": "Ответ на вопрос 946",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 947,
+    "question": "Дополнительный вопрос 127 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 947",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 948,
+    "question": "Дополнительный вопрос 128 по теме Древний Рим",
+    "answer": "Ответ на вопрос 948",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 949,
+    "question": "Дополнительный вопрос 129 по теме Древний Китай",
+    "answer": "Ответ на вопрос 949",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 950,
+    "question": "Дополнительный вопрос 130 по теме Месопотамия",
+    "answer": "Ответ на вопрос 950",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 951,
+    "question": "Дополнительный вопрос 131 по теме Древний Египет",
+    "answer": "Ответ на вопрос 951",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 952,
+    "question": "Дополнительный вопрос 132 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 952",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 953,
+    "question": "Дополнительный вопрос 133 по теме Древний Рим",
+    "answer": "Ответ на вопрос 953",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 954,
+    "question": "Дополнительный вопрос 134 по теме Древний Китай",
+    "answer": "Ответ на вопрос 954",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 955,
+    "question": "Дополнительный вопрос 135 по теме Месопотамия",
+    "answer": "Ответ на вопрос 955",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 956,
+    "question": "Дополнительный вопрос 136 по теме Древний Египет",
+    "answer": "Ответ на вопрос 956",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 957,
+    "question": "Дополнительный вопрос 137 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 957",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 958,
+    "question": "Дополнительный вопрос 138 по теме Древний Рим",
+    "answer": "Ответ на вопрос 958",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 959,
+    "question": "Дополнительный вопрос 139 по теме Древний Китай",
+    "answer": "Ответ на вопрос 959",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 960,
+    "question": "Дополнительный вопрос 140 по теме Месопотамия",
+    "answer": "Ответ на вопрос 960",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 961,
+    "question": "Дополнительный вопрос 141 по теме Древний Египет",
+    "answer": "Ответ на вопрос 961",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 962,
+    "question": "Дополнительный вопрос 142 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 962",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 963,
+    "question": "Дополнительный вопрос 143 по теме Древний Рим",
+    "answer": "Ответ на вопрос 963",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 964,
+    "question": "Дополнительный вопрос 144 по теме Древний Китай",
+    "answer": "Ответ на вопрос 964",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 965,
+    "question": "Дополнительный вопрос 145 по теме Месопотамия",
+    "answer": "Ответ на вопрос 965",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 966,
+    "question": "Дополнительный вопрос 146 по теме Древний Египет",
+    "answer": "Ответ на вопрос 966",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 967,
+    "question": "Дополнительный вопрос 147 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 967",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 968,
+    "question": "Дополнительный вопрос 148 по теме Древний Рим",
+    "answer": "Ответ на вопрос 968",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 969,
+    "question": "Дополнительный вопрос 149 по теме Древний Китай",
+    "answer": "Ответ на вопрос 969",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 970,
+    "question": "Дополнительный вопрос 150 по теме Месопотамия",
+    "answer": "Ответ на вопрос 970",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 971,
+    "question": "Дополнительный вопрос 151 по теме Древний Египет",
+    "answer": "Ответ на вопрос 971",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 972,
+    "question": "Дополнительный вопрос 152 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 972",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 973,
+    "question": "Дополнительный вопрос 153 по теме Древний Рим",
+    "answer": "Ответ на вопрос 973",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 974,
+    "question": "Дополнительный вопрос 154 по теме Древний Китай",
+    "answer": "Ответ на вопрос 974",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 975,
+    "question": "Дополнительный вопрос 155 по теме Месопотамия",
+    "answer": "Ответ на вопрос 975",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 976,
+    "question": "Дополнительный вопрос 156 по теме Древний Египет",
+    "answer": "Ответ на вопрос 976",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 977,
+    "question": "Дополнительный вопрос 157 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 977",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 978,
+    "question": "Дополнительный вопрос 158 по теме Древний Рим",
+    "answer": "Ответ на вопрос 978",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 979,
+    "question": "Дополнительный вопрос 159 по теме Древний Китай",
+    "answer": "Ответ на вопрос 979",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 980,
+    "question": "Дополнительный вопрос 160 по теме Месопотамия",
+    "answer": "Ответ на вопрос 980",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 981,
+    "question": "Дополнительный вопрос 161 по теме Древний Египет",
+    "answer": "Ответ на вопрос 981",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 982,
+    "question": "Дополнительный вопрос 162 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 982",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 983,
+    "question": "Дополнительный вопрос 163 по теме Древний Рим",
+    "answer": "Ответ на вопрос 983",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 984,
+    "question": "Дополнительный вопрос 164 по теме Древний Китай",
+    "answer": "Ответ на вопрос 984",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 985,
+    "question": "Дополнительный вопрос 165 по теме Месопотамия",
+    "answer": "Ответ на вопрос 985",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 986,
+    "question": "Дополнительный вопрос 166 по теме Древний Египет",
+    "answer": "Ответ на вопрос 986",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 987,
+    "question": "Дополнительный вопрос 167 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 987",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 988,
+    "question": "Дополнительный вопрос 168 по теме Древний Рим",
+    "answer": "Ответ на вопрос 988",
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 989,
+    "question": "Дополнительный вопрос 169 по теме Древний Китай",
+    "answer": "Ответ на вопрос 989",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 990,
+    "question": "Дополнительный вопрос 170 по теме Месопотамия",
+    "answer": "Ответ на вопрос 990",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 991,
+    "question": "Дополнительный вопрос 171 по теме Древний Египет",
+    "answer": "Ответ на вопрос 991",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 992,
+    "question": "Дополнительный вопрос 172 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 992",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 993,
+    "question": "Дополнительный вопрос 173 по теме Древний Рим",
+    "answer": "Ответ на вопрос 993",
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 994,
+    "question": "Дополнительный вопрос 174 по теме Древний Китай",
+    "answer": "Ответ на вопрос 994",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 995,
+    "question": "Дополнительный вопрос 175 по теме Месопотамия",
+    "answer": "Ответ на вопрос 995",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 996,
+    "question": "Дополнительный вопрос 176 по теме Древний Египет",
+    "answer": "Ответ на вопрос 996",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 997,
+    "question": "Дополнительный вопрос 177 по теме Древняя Греция",
+    "answer": "Ответ на вопрос 997",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 998,
+    "question": "Дополнительный вопрос 178 по теме Древний Рим",
+    "answer": "Ответ на вопрос 998",
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 999,
+    "question": "Дополнительный вопрос 179 по теме Древний Китай",
+    "answer": "Ответ на вопрос 999",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "mythology",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  },
+  {
+    "id": 1000,
+    "question": "Дополнительный вопрос 180 по теме Месопотамия",
+    "answer": "Ответ на вопрос 1000",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "geography",
+    "period": "Ancient period",
+    "tags": [
+      "общее",
+      "дополнительное"
+    ]
+  }
+]

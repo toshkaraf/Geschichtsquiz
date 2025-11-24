@@ -1,0 +1,705 @@
+[
+  {
+    "id": 26,
+    "question": "Как назывался древнеегипетский жезл в форме крюка?",
+    "question_de": "Wie hieß das altägyptische krummstabförmige Zepter?",
+    "answer": "Хека",
+    "answer_de": "Heka",
+    "wrong_answers": [
+      {
+        "ru": "Уас",
+        "de": "Was"
+      },
+      {
+        "ru": "Джед",
+        "de": "Djed"
+      },
+      {
+        "ru": "Анкх",
+        "de": "Ankh"
+      }
+    ],
+    "explanation": "Хека (или хекет) — это ритуальный жезл фараона в форме пастушьего крюка, символизирующий власть правителя как пастыря своего народа. Вместе с цепом (нехеху) хека образовывал важнейшие регалии фараоновской власти. Жезл представлял собой длинный посох с загнутым верхним концом, напоминающим крюк пастуха. Этот символ происходит от додинастических времен, когда многие египтяне были скотоводами. В иконографии хеку обычно держали в левой руке, а цеп — в правой, скрещивая их на груди. Жезл также ассоциировался с богом Осирисом и подземным миром.",
+    "explanation_de": "Heka (oder Heqat) ist das rituelle Pharaonenzepter in Form eines Hirtenstabs, das die Macht des Herrschers als Hirte seines Volkes symbolisiert. Zusammen mit dem Dreschflegel (Nekhakha) bildete Heka die wichtigsten Insignien der Pharaonenmacht. Das Zepter war ein langer Stab mit gebogenem oberen Ende, das an einen Hirtenstab erinnert. Dieses Symbol stammt aus vordynastischen Zeiten, als viele Ägypter Viehzüchter waren. In der Ikonographie wurde das Heka normalerweise in der linken Hand gehalten und der Dreschflegel in der rechten, wobei sie über der Brust gekreuzt wurden. Der Stab wurde auch mit dem Gott Osiris und der Unterwelt assoziiert.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE",
+    "tags": [
+      "регалии",
+      "символы власти",
+      "фараоны"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Слово 'хека' также означало 'магия' в древнеегипетском языке, и существовал одноименный бог магии Хека. Таким образом, жезл символизировал не только светскую власть фараона, но и его магическую силу и божественную природу как живого бога на земле.",
+        "de": "Das Wort 'Heka' bedeutete auch 'Magie' im Altägyptischen, und es gab einen gleichnamigen Gott der Magie namens Heka. Somit symbolisierte das Zepter nicht nur die weltliche Macht des Pharaos, sondern auch seine magische Kraft und göttliche Natur als lebender Gott auf Erden."
+      },
+      {
+        "ru": "Жезл хека всегда держали в левой руке фараона, а цеп (нехеху) — в правой, при этом их скрещивали на груди. Эта поза символизировала защиту сердца и жизненной силы правителя. Такое положение регалий встречается на всех изображениях фараонов в саркофагах и на статуях.",
+        "de": "Das Heka-Zepter wurde immer in der linken Hand des Pharaos gehalten und der Dreschflegel (Nekhakha) in der rechten, wobei sie über der Brust gekreuzt wurden. Diese Haltung symbolisierte den Schutz des Herzens und der Lebenskraft des Herrschers. Diese Position der Insignien findet sich auf allen Darstellungen von Pharaonen in Sarkophagen und auf Statuen."
+      },
+      {
+        "ru": "Археологи не нашли ни одного подлинного жезла хека, сохранившегося до наших дней, хотя их сотни раз изображали в древнеегипетском искусстве. Предполагается, что они были сделаны из дерева, обшитого золотом, и не выдержали испытания временем, в отличие от каменных и металлических артефактов.",
+        "de": "Archäologen haben kein einziges authentisches Heka-Zepter gefunden, das bis heute erhalten geblieben ist, obwohl es hunderte Male in der altägyptischen Kunst dargestellt wurde. Es wird angenommen, dass sie aus Holz gefertigt waren, das mit Gold überzogen war, und im Gegensatz zu Stein- und Metallartefakten die Zeit nicht überdauerten."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Какой древнеегипетский фараон провёл религиозную реформу?",
+    "question_de": "Welcher altägyptische Pharao führte eine religiöse Reform durch?",
+    "answer": "Эхнатон",
+    "answer_de": "Echnaton",
+    "wrong_answers": [
+      {
+        "ru": "Тутанхамон",
+        "de": "Tutanchamun"
+      },
+      {
+        "ru": "Рамсес II",
+        "de": "Ramses II"
+      },
+      {
+        "ru": "Хеопс",
+        "de": "Cheops"
+      }
+    ],
+    "explanation": "Эхнатон (правил около 1353-1336 гг. до н.э.), первоначально известный как Аменхотep IV, провёл радикальную религиозную реформу, установив монотеистический культ бога солнечного диска Атона. Он закрыл храмы традиционных богов, особенно Амона-Ра, перенёс столицу из Фив в новый город Ахетатон (современная Амарна) и изменил художественные каноны. Реформа была настолько радикальной, что после его смерти жрецы и последующие фараоны попытались стереть память о нём, восстановив традиционное многобожие. Эхнатон был женат на знаменитой красавице Нефертити, и отцом Тутанхамона.",
+    "explanation_de": "Echnaton (regierte ca. 1353-1336 v. Chr.), ursprünglich bekannt als Amenophis IV., führte eine radikale religiöse Reform durch und etablierte den monotheistischen Kult des Sonnengottes Aton. Er schloss die Tempel der traditionellen Götter, insbesondere Amun-Ra, verlegte die Hauptstadt von Theben in die neue Stadt Achetaton (das heutige Amarna) und veränderte die künstlerischen Kanons. Die Reform war so radikal, dass Priester und nachfolgende Pharaonen nach seinem Tod versuchten, sein Andenken auszulöschen und den traditionellen Polytheismus wiederherzustellen. Echnaton war mit der berühmten Schönheit Nofretete verheiratet und Vater von Tutanchamun.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1353 BCE",
+    "tags": [
+      "фараоны",
+      "религиозная реформа",
+      "Амарна",
+      "Атон"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Период правления Эхнатона называют 'амарнским периодом', и он отличался уникальным художественным стилем. В отличие от идеализированных изображений других фараонов, Эхнатон изображался с вытянутым лицом, полными губами и женственными чертами. Некоторые учёные предполагают, что у него было редкое генетическое заболевание, хотя это остаётся предметом дебатов.",
+        "de": "Die Regierungszeit Echnatons wird als 'Amarna-Zeit' bezeichnet und zeichnete sich durch einen einzigartigen künstlerischen Stil aus. Im Gegensatz zu den idealisierten Darstellungen anderer Pharaonen wurde Echnaton mit einem länglichen Gesicht, vollen Lippen und weiblichen Zügen dargestellt. Einige Wissenschaftler vermuten, dass er an einer seltenen genetischen Erkrankung litt, obwohl dies umstritten bleibt."
+      },
+      {
+        "ru": "После смерти Эхнатона его имя было вычеркнуто из всех царских списков, а его памятники разрушены. Фараонов-'еретиков' амарнского периода (Эхнатона, Сменхкару, Тутанхамона) вообще не включали в официальные списки правителей. Лишь в XIX веке археологи заново открыли этого загадочного фараона.",
+        "de": "Nach Echnatons Tod wurde sein Name aus allen Königslisten gestrichen und seine Denkmäler zerstört. Die 'Ketzer'-Pharaonen der Amarna-Zeit (Echnaton, Semenchkare, Tutanchamun) wurden überhaupt nicht in die offiziellen Herrscherlisten aufgenommen. Erst im 19. Jahrhundert entdeckten Archäologen diesen rätselhaften Pharao wieder."
+      },
+      {
+        "ru": "Реформа Эхнатона была настолько радикальной, что он даже изменил своё имя с Аменхотепа IV ('Амон доволен') на Эхнатон ('Полезный для Атона'). Он также приказал стереть имя бога Амона со всех монументов по всему Египту, что было беспрецедентным актом религиозного вандализма.",
+        "de": "Echnatons Reform war so radikal, dass er sogar seinen Namen von Amenophis IV. ('Amun ist zufrieden') zu Echnaton ('Nützlich für Aton') änderte. Er befahl auch, den Namen des Gottes Amun von allen Monumenten in ganz Ägypten zu löschen, was ein beispielloser Akt religiösen Vandalismus war."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Как назывался древнеегипетский символ жизни?",
+    "question_de": "Wie hieß das altägyptische Symbol des Lebens?",
+    "answer": "Анх",
+    "answer_de": "Ankh",
+    "wrong_answers": [
+      {
+        "ru": "Джед",
+        "de": "Djed"
+      },
+      {
+        "ru": "Уас",
+        "de": "Was"
+      },
+      {
+        "ru": "Уджат",
+        "de": "Udjat"
+      }
+    ],
+    "explanation": "Анх (☥) — древнейший и наиболее известный египетский иероглиф, означающий 'жизнь' или 'живущий'. Символ имеет форму креста с петлёй наверху и представляет концепцию вечной жизни. В египетской иконографии боги и фараоны часто изображаются держащими анх, а боги могут подносить его к носу человека, даруя 'дыхание жизни'. Анх также символизировал ключ к загробной жизни и бессмертию. Происхождение формы анха остается предметом дебатов: некоторые видят в нём стилизованный узел сандалии, другие — сочетание мужского и женского символов.",
+    "explanation_de": "Ankh (☥) ist das älteste und bekannteste ägyptische Hieroglyphensymbol, das 'Leben' oder 'lebend' bedeutet. Das Symbol hat die Form eines Kreuzes mit einer Schleife oben und repräsentiert das Konzept des ewigen Lebens. In der ägyptischen Ikonographie werden Götter und Pharaonen oft mit dem Ankh dargestellt, und Götter können es an die Nase einer Person halten, um den 'Atem des Lebens' zu spenden. Das Ankh symbolisierte auch den Schlüssel zum Jenseits und zur Unsterblichkeit. Der Ursprung der Ankh-Form bleibt umstritten: Einige sehen darin einen stilisierten Sandalenknoten, andere eine Kombination männlicher und weiblicher Symbole.",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "символы",
+      "религия",
+      "иероглифы"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Анх стал популярным символом в современной культуре и часто используется в украшениях и татуировках. В коптском христианстве Египта анх был адаптирован как символ жизни вечной через Христа. Символ также играет важную роль в афроцентрической культуре как связь с древнеегипетским наследием.",
+        "de": "Das Ankh wurde zu einem populären Symbol in der modernen Kultur und wird oft in Schmuck und Tätowierungen verwendet. Im koptischen Christentum Ägyptens wurde das Ankh als Symbol des ewigen Lebens durch Christus adaptiert. Das Symbol spielt auch eine wichtige Rolle in der afrozentrischen Kultur als Verbindung zum altägyptischen Erbe."
+      },
+      {
+        "ru": "В египетском искусстве анх часто подносился богами к носу фараона или умершего, символизируя дарование 'дыхания жизни'. Этот жест встречается на бесчисленных храмовых рельефах и папирусах. Боги, дарующие анх, как бы вдыхали жизненную силу в получателя.",
+        "de": "In der ägyptischen Kunst wurde das Ankh oft von Göttern an die Nase des Pharaos oder Verstorbenen gehalten und symbolisierte die Gewährung des 'Atems des Lebens'. Diese Geste findet sich auf unzähligen Tempelreliefs und Papyri. Götter, die das Ankh gewähren, hauchen dem Empfänger gleichsam Lebenskraft ein."
+      },
+      {
+        "ru": "Происхождение формы анха остаётся загадкой для учёных. Существует несколько теорий: узел сандалии, восходящее солнце над горизонтом, зеркало, комбинация мужского и женского символов (вертикальная линия и овал), или даже позвонок быка. Каждая теория имеет своих сторонников среди египтологов.",
+        "de": "Der Ursprung der Ankh-Form bleibt für Wissenschaftler ein Rätsel. Es gibt mehrere Theorien: Sandalenknoten, aufgehende Sonne über dem Horizont, Spiegel, Kombination männlicher und weiblicher Symbole (vertikale Linie und Oval) oder sogar ein Rinderwirbel. Jede Theorie hat ihre Befürworter unter Ägyptologen."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Какая древняя цивилизация создала город Вавилон?",
+    "question_de": "Welche antike Zivilisation erschuf die Stadt Babylon?",
+    "answer": "Вавилоняне",
+    "answer_de": "Babylonier",
+    "wrong_answers": [
+      {
+        "ru": "Шумеры",
+        "de": "Sumerer"
+      },
+      {
+        "ru": "Ассирийцы",
+        "de": "Assyrer"
+      },
+      {
+        "ru": "Персы",
+        "de": "Perser"
+      }
+    ],
+    "explanation": "Вавилон был основан амореями около 2300 года до н.э. и стал столицей Вавилонской империи. Город достиг своего расцвета при царе Хаммурапи (1792-1750 гг. до н.э.), который создал знаменитый Кодекс Хаммурапи — один из древнейших сводов законов. Вавилон находился на реке Евфрат в Месопотамии (современный Ирак) и был одним из крупнейших городов древнего мира. При Навуходоносоре II (605-562 гг. до н.э.) город был перестроен и украшен величественными сооружениями, включая Висячие сады Семирамиды и ворота Иштар. Вавилоняне внесли огромный вклад в астрономию, математику и создали шестидесятеричную систему счисления.",
+    "explanation_de": "Babylon wurde um 2300 v. Chr. von den Amoritern gegründet und wurde zur Hauptstadt des Babylonischen Reiches. Die Stadt erreichte unter König Hammurabi (1792-1750 v. Chr.) ihre Blütezeit, der den berühmten Codex Hammurabi schuf - eine der ältesten Gesetzessammlungen. Babylon lag am Euphrat in Mesopotamien (heutiger Irak) und war eine der größten Städte der antiken Welt. Unter Nebukadnezar II. (605-562 v. Chr.) wurde die Stadt umgebaut und mit prächtigen Bauwerken geschmückt, darunter die Hängenden Gärten der Semiramis und das Ischtar-Tor. Die Babylonier leisteten enorme Beiträge zur Astronomie, Mathematik und schufen das Sexagesimalsystem.",
+    "difficulty": "easy",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "2300 BCE",
+    "tags": [
+      "города",
+      "Вавилон",
+      "Месопотамия"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Название 'Вавилон' происходит от аккадского 'Bāb-ilim', что означает 'Врата Бога'. В Библии город известен благодаря истории о Вавилонской башне, которая, возможно, была вдохновлена реальным зиккуратом Этеменанки, посвящённым богу Мардуку. Этот зиккурат достигал высоты около 91 метра.",
+        "de": "Der Name 'Babylon' stammt vom akkadischen 'Bāb-ilim', was 'Tor Gottes' bedeutet. In der Bibel ist die Stadt durch die Geschichte vom Turmbau zu Babel bekannt, die möglicherweise vom echten Zikkurat Etemenanki inspiriert war, der dem Gott Marduk gewidmet war. Dieser Zikkurat erreichte eine Höhe von etwa 91 Metern."
+      },
+      {
+        "ru": "Висячие сады Семирамиды, одно из Семи чудес древнего мира, предположительно находились в Вавилоне при Навуходоносоре II. Хотя их существование оспаривается, древние источники описывают многоярусные террасные сады с экзотическими растениями и сложной ирригационной системой, которые царь построил для своей жены-мидянки.",
+        "de": "Die Hängenden Gärten der Semiramis, eines der Sieben Weltwunder der Antike, befanden sich vermutlich unter Nebukadnezar II. in Babylon. Obwohl ihre Existenz umstritten ist, beschreiben antike Quellen mehrstöckige Terrassengärten mit exotischen Pflanzen und einem komplexen Bewässerungssystem, die der König für seine medische Frau bauen ließ."
+      },
+      {
+        "ru": "Вавилон был центром астрономических наблюдений. Вавилонские астрономы составили первые звёздные каталоги, предсказывали лунные и солнечные затмения и разделили год на 12 месяцев, а круг на 360 градусов. Их шестидесятеричная система счисления (основа 60) до сих пор используется для измерения времени и углов.",
+        "de": "Babylon war ein Zentrum astronomischer Beobachtungen. Babylonische Astronomen erstellten die ersten Sternkataloge, sagten Mond- und Sonnenfinsternisse voraus und teilten das Jahr in 12 Monate und den Kreis in 360 Grad ein. Ihr Sexagesimalsystem (Basis 60) wird noch heute zur Messung von Zeit und Winkeln verwendet."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Как назывался древнеегипетский бог с головой барана?",
+    "question_de": "Wie hieß der altägyptische Gott mit dem Widderkopf?",
+    "answer": "Хнум",
+    "answer_de": "Chnum",
+    "wrong_answers": [
+      {
+        "ru": "Амон",
+        "de": "Amun"
+      },
+      {
+        "ru": "Анубис",
+        "de": "Anubis"
+      },
+      {
+        "ru": "Тот",
+        "de": "Thoth"
+      }
+    ],
+    "explanation": "Хнум — древнеегипетский бог-творец с головой барана, которого почитали как создателя человечества и других живых существ. Согласно мифологии, Хнум лепил людей и их ка (жизненную силу) на гончарном круге из глины Нила. Он был особенно почитаем в районе первого порога Нила, в городе Элефантина. Хнум также считался хранителем истоков Нила и контролировал ежегодные разливы реки, которые были жизненно важны для египетского земледелия. Бога изображали с горизонтальными закрученными рогами, характерными для нильского барана, вымершего вида.",
+    "explanation_de": "Chnum war ein altägyptischer Schöpfergott mit Widderkopf, der als Erschaffer der Menschheit und anderer Lebewesen verehrt wurde. Der Mythologie zufolge formte Chnum Menschen und ihr Ka (Lebenskraft) auf einer Töpferscheibe aus dem Nilschlamm. Er wurde besonders in der Region des ersten Nilkatarakts in der Stadt Elephantine verehrt. Chnum galt auch als Hüter der Nilquellen und kontrollierte die jährlichen Nilüberschwemmungen, die für die ägyptische Landwirtschaft lebenswichtig waren. Der Gott wurde mit horizontal gewundenen Hörnern dargestellt, die für den ausgestorbenen Nil-Widder charakteristisch waren.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "религия",
+      "мифология",
+      "творение"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "В знаменитой надписи на скале острова Сехель описывается, как фараон Джосер обратился к Хнуму во время семилетнего голода, вызванного недостаточными разливами Нила. Бог явился фараону во сне и пообещал восстановить плодородие земли. Хнума также связывали с созданием божественного яйца, из которого появилось солнце.",
+        "de": "In der berühmten Inschrift auf dem Felsen der Insel Sehel wird beschrieben, wie Pharao Djoser sich während einer siebenjährigen Hungersnot an Chnum wandte, die durch unzureichende Nilüberschwemmungen verursacht wurde. Der Gott erschien dem Pharao im Traum und versprach, die Fruchtbarkeit des Landes wiederherzustellen. Chnum wurde auch mit der Erschaffung des göttlichen Eis in Verbindung gebracht, aus dem die Sonne hervorging."
+      },
+      {
+        "ru": "Хнум имел супруг: богиню-лягушку Хекет, которая помогала при родах, и богиню Сатет, связанную с разливами Нила. Вместе они образовывали триаду Элефантины. В храмах Хнума изображали процесс создания человека на гончарном круге, включая создание как физического тела, так и духовной ка.",
+        "de": "Chnum hatte Gemahlinnen: die Froschgöttin Heket, die bei Geburten half, und die Göttin Satet, die mit den Nilüberschwemmungen verbunden war. Zusammen bildeten sie die Triade von Elephantine. In Chnums Tempeln wurde der Prozess der Menschenschöpfung auf der Töpferscheibe dargestellt, einschließlich der Erschaffung sowohl des physischen Körpers als auch des spirituellen Ka."
+      },
+      {
+        "ru": "Культ Хнума был особенно важен в период разливов Нила. Жрецы проводили специальные ритуалы, чтобы умилостивить бога и обеспечить благоприятный разлив. Считалось, что Хнум контролирует пещеры, из которых вытекает Нил, расположенные, по верованиям египтян, возле первого порога реки.",
+        "de": "Der Chnum-Kult war besonders wichtig während der Nilüberschwemmungen. Priester führten spezielle Rituale durch, um den Gott zu besänftigen und eine günstige Überschwemmung zu gewährleisten. Es wurde geglaubt, dass Chnum die Höhlen kontrollierte, aus denen der Nil entsprang, die nach ägyptischem Glauben in der Nähe des ersten Katarakts lagen."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Какой древнеегипетский храм находился в Карнаке?",
+    "question_de": "Welcher altägyptische Tempel befand sich in Karnak?",
+    "answer": "Храм Амона-Ра",
+    "answer_de": "Tempel des Amun-Re",
+    "wrong_answers": [
+      {
+        "ru": "Храм Хатшепсут",
+        "de": "Tempel der Hatschepsut"
+      },
+      {
+        "ru": "Храм Рамессеум",
+        "de": "Ramesseum"
+      },
+      {
+        "ru": "Храм Абу-Симбел",
+        "de": "Abu Simbel Tempel"
+      }
+    ],
+    "explanation": "Храмовый комплекс Карнака — крупнейшее древнее религиозное сооружение в мире, занимающее площадь около 100 гектаров. Главным храмом комплекса является храм Амона-Ра, верховного бога египетского пантеона периода Нового царства. Строительство комплекса продолжалось более 2000 лет, с Среднего царства до птолемеевского периода, и в нём работали многие фараоны. Знаменитый Гипостильный зал храма Амона-Ра содержит 134 массивные колонны высотой до 23 метров. Карнак был соединён с Луксорским храмом трёхкилометровой аллеей сфинксов.",
+    "explanation_de": "Der Tempelkomplex von Karnak ist das größte antike religiöse Bauwerk der Welt mit einer Fläche von etwa 100 Hektar. Der Haupttempel des Komplexes ist der Tempel des Amun-Re, der obersten Gottheit des ägyptischen Pantheons während des Neuen Reiches. Der Bau des Komplexes dauerte über 2000 Jahre, vom Mittleren Reich bis zur ptolemäischen Zeit, und viele Pharaonen arbeiteten daran. Der berühmte Hypostylsaal des Amun-Re-Tempels enthält 134 massive Säulen mit einer Höhe von bis zu 23 Metern. Karnak war durch eine drei Kilometer lange Sphinxallee mit dem Luxor-Tempel verbunden.",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "2000 BCE",
+    "tags": [
+      "храмы",
+      "архитектура",
+      "Карнак",
+      "Амон-Ра"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "В храме Карнака находится священное озеро площадью более 5000 квадратных метров, где жрецы совершали ритуальные омовения. На его берегу стоит гигантский скарабей — статуя жука-навозника, который символизировал утреннее солнце. Согласно поверью, если обойти вокруг скарабея семь раз против часовой стрелки, исполнится желание.",
+        "de": "Im Tempel von Karnak befindet sich ein heiliger See mit einer Fläche von über 5000 Quadratmetern, wo Priester rituelle Waschungen durchführten. An seinem Ufer steht ein riesiger Skarabäus - eine Statue des Mistkäfers, der die Morgensonne symbolisierte. Dem Glauben nach wird ein Wunsch erfüllt, wenn man siebenmal gegen den Uhrzeigersinn um den Skarabäus herumgeht."
+      },
+      {
+        "ru": "Гипостильный зал Карнака — одно из величайших архитектурных достижений древности. Его 134 колонны расположены в 16 рядов, причём центральные колонны достигают 23 метров в высоту и 3,5 метра в диаметре. На их капителях могли поместиться 50 человек. Зал был украшен яркими красками и золотом, создавая эффект каменного леса.",
+        "de": "Die Hypostylhalle von Karnak ist eine der größten architektonischen Leistungen der Antike. Ihre 134 Säulen sind in 16 Reihen angeordnet, wobei die zentralen Säulen eine Höhe von 23 Metern und einen Durchmesser von 3,5 Metern erreichen. Auf ihren Kapitellen hätten 50 Menschen Platz finden können. Die Halle war mit leuchtenden Farben und Gold geschmückt und schuf den Effekt eines steinernen Waldes."
+      },
+      {
+        "ru": "Ежегодно в Карнаке проводился грандиозный праздник Опет, длившийся до 27 дней. Во время этого праздника статую Амона торжественно переносили из Карнака в Луксорский храм по трёхкилометровой аллее сфинксов. Фараон проводил ритуалы обновления своей божественной силы. Народ получал раздачу пива и хлеба.",
+        "de": "Jährlich wurde in Karnak das große Opet-Fest gefeiert, das bis zu 27 Tage dauerte. Während dieses Festes wurde die Statue des Amun feierlich von Karnak zum Luxor-Tempel über die drei Kilometer lange Sphinxallee getragen. Der Pharao führte Rituale zur Erneuerung seiner göttlichen Kraft durch. Das Volk erhielt Bier und Brot."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Как назывался древнеегипетский белый венец?",
+    "question_de": "Wie hieß die altägyptische weiße Krone?",
+    "answer": "Хеджет",
+    "answer_de": "Hedjet",
+    "wrong_answers": [
+      {
+        "ru": "Дешрет",
+        "de": "Deschret"
+      },
+      {
+        "ru": "Пшент",
+        "de": "Pschent"
+      },
+      {
+        "ru": "Хепреш",
+        "de": "Chepresh"
+      }
+    ],
+    "explanation": "Хеджет — белая корона Верхнего (Южного) Египта, имевшая форму высокого конуса. Этот головной убор символизировал власть над южными территориями Египта от первого порога Нила до Мемфиса. Белый цвет короны ассоциировался с чистотой и светом. Хеджет часто носили в сочетании с уреем (священной коброй) на лбу, символизирующим защиту фараона. До объединения Египта около 3100 года до н.э. существовали отдельные царства Верхнего и Нижнего Египта, каждое со своей короной. После объединения фараоны носили обе короны, подчёркивая своё господство над всей страной.",
+    "explanation_de": "Hedjet war die weiße Krone von Oberägypten (Südägypten), die die Form eines hohen Kegels hatte. Diese Kopfbedeckung symbolisierte die Herrschaft über die südlichen Gebiete Ägyptens vom ersten Nilkatarakt bis Memphis. Die weiße Farbe der Krone wurde mit Reinheit und Licht assoziiert. Hedjet wurde oft in Kombination mit dem Uräus (heilige Kobra) auf der Stirn getragen, der den Schutz des Pharaos symbolisierte. Vor der Vereinigung Ägyptens um 3100 v. Chr. existierten separate Königreiche von Ober- und Unterägypten, jedes mit seiner eigenen Krone. Nach der Vereinigung trugen die Pharaonen beide Kronen und betonten damit ihre Herrschaft über das gesamte Land.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE",
+    "tags": [
+      "регалии",
+      "короны",
+      "Верхний Египет",
+      "символы власти"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Белая корона была тесно связана с богиней-коршуном Нехбет, покровительницей Верхнего Египта, чей культовый центр находился в городе Нехеб (современный Эль-Каб). В королевской титулатуре фараонов использовалось выражение 'Тот, кто принадлежит осоке' (растение, символизирующее Верхний Египет), в противовес 'Тот, кто принадлежит пчеле' для Нижнего Египта.",
+        "de": "Die weiße Krone war eng mit der Geiergöttin Nechbet verbunden, der Schutzgöttin von Oberägypten, deren Kultzentrum sich in der Stadt Necheb (heute El-Kab) befand. In der königlichen Titulatur der Pharaonen wurde der Ausdruck 'Der zur Binse gehört' (eine Pflanze, die Oberägypten symbolisiert) verwendet, im Gegensatz zu 'Der zur Biene gehört' für Unterägypten."
+      },
+      {
+        "ru": "До объединения Египта Верхнее царство имело свою столицу в городе Нехен (Иераконполь), где археологи обнаружили древнейшие изображения белой короны на додинастической керамике. Эти находки датируются периодом Накада II (около 3500-3200 гг. до н.э.), что делает хеджет одним из древнейших царских символов.",
+        "de": "Vor der Vereinigung Ägyptens hatte das Oberägyptische Königreich seine Hauptstadt in der Stadt Nechen (Hierakonpolis), wo Archäologen die ältesten Darstellungen der weißen Krone auf vordynastischer Keramik entdeckten. Diese Funde stammen aus der Naqada II-Periode (ca. 3500-3200 v. Chr.), was Hedjet zu einem der ältesten königlichen Symbole macht."
+      },
+      {
+        "ru": "В религиозных текстах белая корона ассоциировалась с богиней Нейт из города Саис, которая считалась матерью солнца Ра. Хеджет также связывали с верхним регистром космоса — небом, в противовес красной короне, символизировавшей нижний регистр — землю. Это отражало египетскую космологическую дуальность.",
+        "de": "In religiösen Texten wurde die weiße Krone mit der Göttin Neith aus der Stadt Sais assoziiert, die als Mutter der Sonne Ra galt. Hedjet wurde auch mit dem oberen Register des Kosmos - dem Himmel - in Verbindung gebracht, im Gegensatz zur roten Krone, die das untere Register - die Erde - symbolisierte. Dies spiegelte die ägyptische kosmologische Dualität wider."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Какая древняя цивилизация создала город Ниневия?",
+    "question_de": "Welche antike Zivilisation erschuf die Stadt Ninive?",
+    "answer": "Ассирийцы",
+    "answer_de": "Assyrer",
+    "wrong_answers": [
+      {
+        "ru": "Вавилоняне",
+        "de": "Babylonier"
+      },
+      {
+        "ru": "Шумеры",
+        "de": "Sumerer"
+      },
+      {
+        "ru": "Хетты",
+        "de": "Hethiter"
+      }
+    ],
+    "explanation": "Ниневия была древней столицей Ассирийской империи, расположенной на восточном берегу реки Тигр (территория современного Ирака, недалеко от города Мосул). Город достиг величайшего расцвета при царе Синаххерибе (705-681 гг. до н.э.), который сделал его своей столицей и построил великолепный дворец, известный как 'Дворец без равных'. При Ашшурбанипале (668-627 гг. до н.э.) в Ниневии была создана знаменитая библиотека, содержавшая около 30 000 глиняных табличек. Город был окружён мощными стенами длиной около 12 км с 15 воротами. Ниневия была разрушена в 612 году до н.э. коалицией мидийцев и вавилонян.",
+    "explanation_de": "Ninive war die antike Hauptstadt des Assyrischen Reiches, gelegen am Ostufer des Tigris (Gebiet des heutigen Irak, nahe der Stadt Mossul). Die Stadt erreichte ihre größte Blüte unter König Sanherib (705-681 v. Chr.), der sie zu seiner Hauptstadt machte und einen prächtigen Palast baute, bekannt als 'Palast ohne Rivalen'. Unter Assurbanipal (668-627 v. Chr.) wurde in Ninive die berühmte Bibliothek mit etwa 30.000 Tontafeln geschaffen. Die Stadt war von mächtigen Mauern mit einer Länge von etwa 12 km mit 15 Toren umgeben. Ninive wurde 612 v. Chr. von einer Koalition aus Medern und Babyloniern zerstört.",
+    "difficulty": "medium",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "700 BCE",
+    "tags": [
+      "города",
+      "Ассирия",
+      "Месопотамия",
+      "столицы"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Ниневия упоминается в Библии, особенно в книге пророка Ионы, который проповедовал покаяние её жителям. Город был настолько велик, что, по библейскому описанию, требовалось три дня, чтобы пройти через него. Археологи обнаружили в Ниневии рельефы, изображающие знаменитые 'висячие сады', которые, возможно, находились здесь, а не в Вавилоне, как традиционно считалось.",
+        "de": "Ninive wird in der Bibel erwähnt, besonders im Buch des Propheten Jona, der seinen Bewohnern Buße predigte. Die Stadt war so groß, dass es laut biblischer Beschreibung drei Tage dauerte, sie zu durchqueren. Archäologen entdeckten in Ninive Reliefs, die die berühmten 'hängenden Gärten' darstellen, die möglicherweise hier und nicht in Babylon waren, wie traditionell angenommen wurde."
+      },
+      {
+        "ru": "Библиотека Ашшурбанипала в Ниневии была крупнейшим собранием древних текстов. Она содержала около 30 000 глиняных табличек, включая эпос о Гильгамеше, астрономические таблицы, медицинские тексты и словари. Царь посылал писцов по всей империи для копирования важных текстов. Эта библиотека стала основой для понимания месопотамской цивилизации.",
+        "de": "Die Bibliothek von Assurbanipal in Ninive war die größte Sammlung antiker Texte. Sie enthielt etwa 30.000 Tontafeln, darunter das Gilgamesch-Epos, astronomische Tafeln, medizinische Texte und Wörterbücher. Der König sandte Schreiber durch das gesamte Reich, um wichtige Texte zu kopieren. Diese Bibliothek wurde zur Grundlage für das Verständnis der mesopotamischen Zivilisation."
+      },
+      {
+        "ru": "Ниневия была защищена впечатляющей системой укреплений: стены толщиной 15 метров и высотой до 26 метров окружали город периметром в 12 км. В стенах было 15 ворот, самые знаменитые из которых — ворота Нергала и ворота Машки. За стенами находился широкий ров, наполненный водой из реки Хосар, притока Тигра.",
+        "de": "Ninive war durch ein beeindruckendes Befestigungssystem geschützt: Mauern mit einer Dicke von 15 Metern und einer Höhe von bis zu 26 Metern umgaben die Stadt mit einem Umfang von 12 km. In den Mauern befanden sich 15 Tore, von denen die berühmtesten das Nergal-Tor und das Mashki-Tor waren. Hinter den Mauern befand sich ein breiter, mit Wasser aus dem Khosr, einem Nebenfluss des Tigris, gefüllter Graben."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Как назывался древнеегипетский красный венец?",
+    "question_de": "Wie hieß die altägyptische rote Krone?",
+    "answer": "Дешрет",
+    "answer_de": "Deschret",
+    "wrong_answers": [
+      {
+        "ru": "Хеджет",
+        "de": "Hedjet"
+      },
+      {
+        "ru": "Пшент",
+        "de": "Pschent"
+      },
+      {
+        "ru": "Атеф",
+        "de": "Atef"
+      }
+    ],
+    "explanation": "Дешрет — красная корона Нижнего (Северного) Египта, имевшая характерную плоскую форму с высоким выступом сзади и спиральным завитком спереди. Эта корона символизировала власть над дельтой Нила и северными территориями до Средиземного моря. Красный цвет ассоциировался с пустыней (дешрет означает 'красная земля') и богиней Нейт из города Саис. Дешрет часто изображалась с уреем — символом богини-кобры Уаджет, покровительницы Нижнего Египта. После объединения Египта красная корона стала частью двойной короны пшент, но продолжала использоваться отдельно в церемониях, связанных с Нижним Египтом.",
+    "explanation_de": "Deschret war die rote Krone von Unterägypten (Nordägypten), die eine charakteristische flache Form mit einem hohen Aufsatz hinten und einer spiralförmigen Locke vorne hatte. Diese Krone symbolisierte die Herrschaft über das Nildelta und die nördlichen Gebiete bis zum Mittelmeer. Die rote Farbe wurde mit der Wüste assoziiert (Deschret bedeutet 'rotes Land') und der Göttin Neith aus der Stadt Sais. Deschret wurde oft mit dem Uräus dargestellt - dem Symbol der Kobragöttin Wadjet, der Schutzgöttin von Unterägypten. Nach der Vereinigung Ägyptens wurde die rote Krone Teil der Doppelkrone Pschent, wurde aber weiterhin separat in Zeremonien verwendet, die mit Unterägypten verbunden waren.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE",
+    "tags": [
+      "регалии",
+      "короны",
+      "Нижний Египет",
+      "символы власти"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Интересно, что материал, из которого изготавливались короны, остаётся загадкой — ни одна настоящая корона не сохранилась до наших дней. Историки предполагают, что они могли быть сделаны из кожи, тростника или ткани на жёстком каркасе. Красная корона впервые появляется в изобразительном искусстве примерно в 3000 году до н.э. на палетке Нармера.",
+        "de": "Interessanterweise bleibt das Material, aus dem die Kronen hergestellt wurden, ein Rätsel - keine echte Krone hat bis heute überlebt. Historiker vermuten, dass sie aus Leder, Schilf oder Stoff auf einem starren Rahmen hergestellt worden sein könnten. Die rote Krone erscheint erstmals in der bildenden Kunst um 3000 v. Chr. auf der Narmer-Palette."
+      },
+      {
+        "ru": "Красная корона символизировала плодородные земли дельты Нила, которые были житницей Египта. Нижний Египет был богаче и плотнее населён, чем Верхний. Богиня-кобра Уаджет, священный символ дешрет, имела культовый центр в городе Пер-Уаджет (Буто) в дельте. Её изображение в виде урея защищало фараона от врагов.",
+        "de": "Die rote Krone symbolisierte die fruchtbaren Länder des Nildeltas, die Ägyptens Kornkammer waren. Unterägypten war reicher und dichter besiedelt als Oberägypten. Die Kobragöttin Wadjet, das heilige Symbol der Deschret, hatte ihr Kultzentrum in der Stadt Per-Wadjet (Buto) im Delta. Ihre Darstellung als Uräus schützte den Pharao vor Feinden."
+      },
+      {
+        "ru": "В египетской мифологии красный цвет имел двойственное значение. С одной стороны, он ассоциировался с пустыней ('красной землёй') и богом хаоса Сетом. С другой — с жизненной силой и победой. Красная корона, таким образом, воплощала способность фараона контролировать как порядок, так и хаос, поддерживая космическое равновесие — Маат.",
+        "de": "In der ägyptischen Mythologie hatte die rote Farbe eine doppelte Bedeutung. Einerseits wurde sie mit der Wüste ('rotes Land') und dem Chaosgott Seth assoziiert. Andererseits mit Lebenskraft und Sieg. Die rote Krone verkörperte somit die Fähigkeit des Pharaos, sowohl Ordnung als auch Chaos zu kontrollieren und das kosmische Gleichgewicht - Maat - aufrechtzuerhalten."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Какой древнеегипетский бог был покровителем мёртвых?",
+    "question_de": "Welcher altägyptische Gott war der Schutzgott der Toten?",
+    "answer": "Анубис",
+    "answer_de": "Anubis",
+    "wrong_answers": [
+      {
+        "ru": "Осирис",
+        "de": "Osiris"
+      },
+      {
+        "ru": "Тот",
+        "de": "Thoth"
+      },
+      {
+        "ru": "Птах",
+        "de": "Ptah"
+      }
+    ],
+    "explanation": "Анубис — древнеегипетский бог с головой шакала (или чёрной собаки), покровитель мёртвых и бог бальзамирования. Он играл ключевую роль в погребальных обрядах и процессе мумификации. Согласно мифологии, именно Анубис изобрёл мумификацию, когда бальзамировал тело Осириса. Он также выполнял важную функцию в Зале Двух Истин, где взвешивал сердце умершего на весах против пера богини Маат. Чёрный цвет Анубиса символизировал плодородную почву долины Нила и возрождение. Его главный культовый центр находился в городе Кинополь ('город собак').",
+    "explanation_de": "Anubis war der altägyptische Gott mit dem Schakal- (oder schwarzen Hunde-) Kopf, Schutzgott der Toten und Gott der Einbalsamierung. Er spielte eine Schlüsselrolle in Bestattungsriten und im Mumifizierungsprozess. Der Mythologie zufolge erfand Anubis die Mumifizierung, als er den Körper des Osiris einbalsamierte. Er erfüllte auch eine wichtige Funktion in der Halle der zwei Wahrheiten, wo er das Herz des Verstorbenen auf einer Waage gegen die Feder der Göttin Maat wog. Die schwarze Farbe des Anubis symbolisierte den fruchtbaren Boden des Niltals und die Wiedergeburt. Sein Hauptkultzentrum befand sich in der Stadt Kynopolis ('Stadt der Hunde').",
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "религия",
+      "загробная жизнь",
+      "мумификация"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Жрецы Анубиса во время погребальных церемоний надевали маски с головой шакала, олицетворяя бога. Шакалы часто бродили по некрополям и пустынным окраинам, где хоронили мёртвых, поэтому египтяне ассоциировали этих животных с загробным миром. Позже Анубис уступил часть своих функций Осирису, став его помощником, но сохранил роль проводника душ в загробный мир.",
+        "de": "Priester des Anubis trugen während Bestattungszeremonien Masken mit Schakalköpfen und verkörperten den Gott. Schakale streiften oft durch Nekropolen und Wüstenränder, wo die Toten begraben wurden, weshalb die Ägypter diese Tiere mit der Unterwelt assoziierten. Später trat Anubis einen Teil seiner Funktionen an Osiris ab und wurde dessen Helfer, behielt aber seine Rolle als Führer der Seelen ins Jenseits."
+      },
+      {
+        "ru": "Чёрный цвет Анубиса имел особое значение. В отличие от современных ассоциаций с трауром, для египтян чёрный цвет символизировал возрождение и плодородие, так как напоминал о чёрной плодородной почве, оставшейся после разлива Нила. Мумифицированные тела также становились чёрными из-за смол, что связывало их с Анубисом и возрождением.",
+        "de": "Die schwarze Farbe des Anubis hatte eine besondere Bedeutung. Im Gegensatz zu modernen Assoziationen mit Trauer symbolisierte die schwarze Farbe für die Ägypter Wiedergeburt und Fruchtbarkeit, da sie an den schwarzen fruchtbaren Boden erinnerte, der nach der Nilüberschwemmung zurückblieb. Mumifizierte Körper wurden ebenfalls schwarz durch Harze, was sie mit Anubis und Wiedergeburt verband."
+      },
+      {
+        "ru": "В 'Книге Мёртвых' Анубис играет ключевую роль в сцене психостасии — взвешивания сердца. Он устанавливает весы и следит за тем, чтобы сердце умершего было легче пера Маат (символа истины и справедливости). Если сердце было тяжелее, его пожирало чудовище Амемат. Если легче — душа получала доступ в рай Иару (Поля Камыша).",
+        "de": "Im 'Totenbuch' spielt Anubis eine Schlüsselrolle in der Szene der Psychostasie - dem Wiegen des Herzens. Er stellt die Waage auf und überwacht, dass das Herz des Verstorbenen leichter als die Feder der Maat (Symbol für Wahrheit und Gerechtigkeit) ist. War das Herz schwerer, wurde es vom Monster Ammit verschlungen. War es leichter, erhielt die Seele Zugang zum Paradies Iaru (Schilffelder)."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Как назывался древнеегипетский двойной венец?",
+    "question_de": "Wie hieß die altägyptische Doppelkrone?",
+    "answer": "Пшент",
+    "answer_de": "Pschent",
+    "wrong_answers": [
+      {
+        "ru": "Хеджет",
+        "de": "Hedjet"
+      },
+      {
+        "ru": "Дешрет",
+        "de": "Deschret"
+      },
+      {
+        "ru": "Хепреш",
+        "de": "Chepresh"
+      }
+    ],
+    "explanation": "Пшент — двойная корона, объединяющая белую корону Хеджет (Верхний Египет) и красную корону Дешрет (Нижний Египет), символизировала власть фараона над всей объединённой страной. Эта корона появилась после объединения Египта около 3100 года до н.э. первым фараоном Нармером (Менесом). Пшент носили во время важнейших государственных церемоний и изображали на монументальных памятниках. В древнеегипетской титулатуре фараон именовался 'Владыка Обеих Земель' и 'Носитель Обеих Корон'. Двойная корона подчёркивала дуалистическую природу египетской монархии и гармонию между двумя частями страны.",
+    "explanation_de": "Pschent war die Doppelkrone, die die weiße Krone Hedjet (Oberägypten) und die rote Krone Deschret (Unterägypten) vereinte und die Macht des Pharaos über das gesamte vereinte Land symbolisierte. Diese Krone erschien nach der Vereinigung Ägyptens um 3100 v. Chr. durch den ersten Pharao Narmer (Menes). Pschent wurde bei den wichtigsten Staatszeremonien getragen und auf monumentalen Denkmälern dargestellt. In der altägyptischen Titulatur wurde der Pharao als 'Herr der Beiden Länder' und 'Träger der Beiden Kronen' bezeichnet. Die Doppelkrone betonte die dualistische Natur der ägyptischen Monarchie und die Harmonie zwischen den beiden Teilen des Landes.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE",
+    "tags": [
+      "регалии",
+      "короны",
+      "объединение Египта",
+      "символы власти"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "В древнеегипетском языке слово 'пшент' писалось иероглифом, изображающим объединённые короны. Это был один из важнейших символов божественной власти фараона. Интересно, что двойная корона была не просто физическим соединением двух корон, но отдельным символом с собственным религиозным и политическим значением, представляющим космическую гармонию и единство противоположностей.",
+        "de": "Im Altägyptischen wurde das Wort 'Pschent' mit einer Hieroglyphe geschrieben, die die vereinten Kronen darstellte. Dies war eines der wichtigsten Symbole der göttlichen Macht des Pharaos. Interessanterweise war die Doppelkrone nicht einfach eine physische Verbindung zweier Kronen, sondern ein separates Symbol mit eigener religiöser und politischer Bedeutung, das die kosmische Harmonie und die Einheit der Gegensätze repräsentierte."
+      },
+      {
+        "ru": "Объединение Египта около 3100 года до н.э. было величайшим событием египетской истории. Фараон Нармер (или Менес) изображён на знаменитой палетке Нармера в обеих коронах на разных сторонах. Это было политической декларацией: один правитель контролирует обе земли. С этого момента все фараоны носили титул 'Царь Верхнего и Нижнего Египта'.",
+        "de": "Die Vereinigung Ägyptens um 3100 v. Chr. war das größte Ereignis der ägyptischen Geschichte. Pharao Narmer (oder Menes) wird auf der berühmten Narmer-Palette mit beiden Kronen auf verschiedenen Seiten dargestellt. Dies war eine politische Erklärung: ein Herrscher kontrolliert beide Länder. Von diesem Moment an trugen alle Pharaonen den Titel 'König von Ober- und Unterägypten'."
+      },
+      {
+        "ru": "Пшент носили только во время важнейших церемоний, таких как коронация, празднование Хеб-Сед (юбилея правления) и важные религиозные праздники. Для повседневного ношения корона была слишком тяжёлой и неудобной. В остальное время фараоны предпочитали носить немес (полосатый головной платок) или другие более лёгкие головные уборы.",
+        "de": "Pschent wurde nur bei den wichtigsten Zeremonien getragen, wie der Krönung, der Feier des Heb-Sed (Regierungsjubiläum) und wichtigen religiösen Festen. Für den täglichen Gebrauch war die Krone zu schwer und unbequem. In der restlichen Zeit bevorzugten Pharaonen das Tragen des Nemes (gestreiftes Kopftuch) oder andere leichtere Kopfbedeckungen."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Какая древняя цивилизация создала город Лагаш?",
+    "question_de": "Welche antike Zivilisation erschuf die Stadt Lagasch?",
+    "answer": "Шумеры",
+    "answer_de": "Sumerer",
+    "wrong_answers": [
+      {
+        "ru": "Аккадцы",
+        "de": "Akkader"
+      },
+      {
+        "ru": "Вавилоняне",
+        "de": "Babylonier"
+      },
+      {
+        "ru": "Ассирийцы",
+        "de": "Assyrer"
+      }
+    ],
+    "explanation": "Лагаш был одним из крупнейших городов-государств древнего Шумера, расположенным в южной Месопотамии (современный Ирак). Город процветал в период между 2500-2350 гг. до н.э. и был важным религиозным и политическим центром. Особенно знаменит правитель Лагаша Гудеа (около 2144-2124 гг. до н.э.), от которого сохранилось множество статуй. Из Лагаша происходят важнейшие шумерские тексты, включая административные документы и литературные произведения. В городе находились храмы богов Нингирсу (бога войны) и богини Нанше. Археологические раскопки в Лагаше обнаружили около 50 000 глиняных табличек.",
+    "explanation_de": "Lagasch war einer der größten Stadtstaaten des antiken Sumer, gelegen in Südmesopotamien (heutiger Irak). Die Stadt florierte zwischen 2500-2350 v. Chr. und war ein wichtiges religiöses und politisches Zentrum. Besonders berühmt ist der Herrscher von Lagasch, Gudea (ca. 2144-2124 v. Chr.), von dem viele Statuen erhalten sind. Aus Lagasch stammen wichtige sumerische Texte, darunter Verwaltungsdokumente und literarische Werke. In der Stadt befanden sich Tempel der Götter Ningirsu (Kriegsgott) und der Göttin Nansche. Archäologische Ausgrabungen in Lagasch entdeckten etwa 50.000 Tontafeln.",
+    "difficulty": "hard",
+    "category": "Месопотамия",
+    "type": "factual",
+    "period": "2500 BCE",
+    "tags": [
+      "города",
+      "Шумер",
+      "Месопотамия",
+      "города-государства"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "В Лагаше была обнаружена 'Стела Коршунов' — один из древнейших памятников, изображающих военную победу. На ней запечатлена победа царя Лагаша Эаннатума над соседним городом Уммой около 2450 года до н.э. Также в Лагаше правитель Уруинимгина провёл первую известную в истории социальную реформу, защищающую права бедных от злоупотреблений чиновников.",
+        "de": "In Lagasch wurde die 'Geierstele' entdeckt - eines der ältesten Denkmäler, die einen militärischen Sieg darstellen. Sie zeigt den Sieg des Königs von Lagasch, Eannatum, über die Nachbarstadt Umma um 2450 v. Chr. Auch führte in Lagasch der Herrscher Uru-inimgina die erste bekannte Sozialreform der Geschichte durch, die die Rechte der Armen vor Amtsmissbrauch schützte."
+      },
+      {
+        "ru": "Гудеа, правитель Лагаша около 2144-2124 гг. до н.э., был известен своей набожностью и строительной активностью. От него сохранилось больше статуй, чем от любого другого шумерского правителя — около 27 скульптур, большинство из тёмного диорита. На статуях Гудеа часто изображён сидящим со строительным планом храма на коленях, что подчёркивает его роль как благочестивого строителя.",
+        "de": "Gudea, Herrscher von Lagasch um 2144-2124 v. Chr., war bekannt für seine Frömmigkeit und Bautätigkeit. Von ihm sind mehr Statuen erhalten als von jedem anderen sumerischen Herrscher - etwa 27 Skulpturen, die meisten aus dunklem Diorit. Auf den Statuen wird Gudea oft sitzend dargestellt mit einem Bauplan eines Tempels auf seinen Knien, was seine Rolle als frommer Baumeister betont."
+      },
+      {
+        "ru": "Лагаш был важным центром шумерской литературы. Здесь были найдены первые примеры шумерских гимнов, молитв и административных текстов. Город процветал благодаря развитой системе каналов, которая обеспечивала интенсивное земледелие. Конфликт с соседней Уммой из-за контроля над плодородной пограничной областью Гу-эдин длился веками.",
+        "de": "Lagasch war ein wichtiges Zentrum der sumerischen Literatur. Hier wurden die ersten Beispiele sumerischer Hymnen, Gebete und Verwaltungstexte gefunden. Die Stadt florierte dank eines entwickelten Kanalsystems, das intensive Landwirtschaft ermöglichte. Der Konflikt mit dem benachbarten Umma um die Kontrolle über das fruchtbare Grenzgebiet Gu-edin dauerte Jahrhunderte."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Как назывался древнеегипетский синий венец?",
+    "question_de": "Wie hieß die altägyptische blaue Krone?",
+    "answer": "Хепреш",
+    "answer_de": "Chepresh",
+    "wrong_answers": [
+      {
+        "ru": "Пшент",
+        "de": "Pschent"
+      },
+      {
+        "ru": "Хеджет",
+        "de": "Hedjet"
+      },
+      {
+        "ru": "Атеф",
+        "de": "Atef"
+      }
+    ],
+    "explanation": "Хепреш, также известная как 'синяя корона' или 'боевая корона', — головной убор в форме шлема, который фараоны носили во время военных походов и в повседневной жизни. Корона появилась в период Нового царства (около 1550 г. до н.э.) и быстро стала одним из самых популярных царских головных уборов. Несмотря на название 'синяя', корона, вероятно, была тёмно-синей или голубой с золотыми дисками. Хепреш часто изображается на статуях и рельефах фараонов-воинов, таких как Тутмос III и Рамсес II. Корона символизировала военную мощь и победоносность фараона.",
+    "explanation_de": "Chepresh, auch bekannt als 'blaue Krone' oder 'Kriegskrone', war eine helmförmige Kopfbedeckung, die Pharaonen während Militärkampagnen und im täglichen Leben trugen. Die Krone erschien in der Periode des Neuen Reiches (um 1550 v. Chr.) und wurde schnell zu einer der beliebtesten königlichen Kopfbedeckungen. Trotz des Namens 'blaue' war die Krone wahrscheinlich dunkelblau oder hellblau mit goldenen Scheiben. Chepresh wird oft auf Statuen und Reliefs von Krieger-Pharaonen wie Thutmosis III. und Ramses II. dargestellt. Die Krone symbolisierte die militärische Macht und Sieghaftigkeit des Pharaos.",
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1550 BCE",
+    "tags": [
+      "регалии",
+      "короны",
+      "военное дело",
+      "Новое царство"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Хепреш была относительно лёгкой короной по сравнению с тяжёлыми церемониальными головными уборами, что делало её практичной для длительного ношения. Юный Тутанхамон часто изображался в хепреш, что подчёркивало его военные амбиции, хотя он умер в 19 лет. На золотой маске Тутанхамона изображён немес (полосатый головной платок), но в его гробнице нашли диадему с уреем для ношения с хепреш.",
+        "de": "Chepresh war eine relativ leichte Krone im Vergleich zu schweren zeremoniellen Kopfbedeckungen, was sie praktisch für langes Tragen machte. Der junge Tutanchamun wurde oft mit Chepresh dargestellt, was seine militärischen Ambitionen betonte, obwohl er mit 19 Jahren starb. Auf der goldenen Maske Tutanchamuns ist ein Nemes (gestreiftes Kopftuch) abgebildet, aber in seinem Grab wurde ein Diadem mit Uräus zum Tragen mit Chepresh gefunden."
+      },
+      {
+        "ru": "Синяя корона стала символом военной доблести фараона. Великие фараоны-завоеватели, такие как Тутмос III (который провёл 17 военных кампаний) и Рамсес II (известный битвой при Кадеше), постоянно изображались в хепреш. Корона часто украшалась золотыми дисками или розетками, которые могли символизировать победы или божественную защиту.",
+        "de": "Die blaue Krone wurde zum Symbol der militärischen Tapferkeit des Pharaos. Große Pharaonen-Eroberer wie Thutmosis III. (der 17 Militärkampagnen führte) und Ramses II. (bekannt für die Schlacht von Kadesch) wurden ständig mit Chepresh dargestellt. Die Krone war oft mit goldenen Scheiben oder Rosetten verziert, die Siege oder göttlichen Schutz symbolisieren könnten."
+      },
+      {
+        "ru": "Несмотря на название 'синяя корона', точный цвет остаётся предметом дебатов. Некоторые учёные считают, что она была голубой или лазурной, другие — что тёмно-синей или даже чёрной с голубым оттенком. Корона изготавливалась из кожи или ткани на твёрдом каркасе и украшалась металлическими дисками. Ни одна настоящая хепреш не сохранилась.",
+        "de": "Trotz des Namens 'blaue Krone' bleibt die genaue Farbe umstritten. Einige Gelehrte glauben, dass sie hellblau oder azurblau war, andere, dass sie dunkelblau oder sogar schwarz mit blauem Schimmer war. Die Krone wurde aus Leder oder Stoff auf einem festen Rahmen hergestellt und mit Metallscheiben verziert. Keine echte Chepresh hat überlebt."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Какой древнеегипетский бог был богом пустыни?",
+    "question_de": "Welcher altägyptische Gott war der Gott der Wüste?",
+    "answer": "Сет",
+    "answer_de": "Seth",
+    "wrong_answers": [
+      {
+        "ru": "Хор",
+        "de": "Horus"
+      },
+      {
+        "ru": "Анубис",
+        "de": "Anubis"
+      },
+      {
+        "ru": "Птах",
+        "de": "Ptah"
+      }
+    ],
+    "explanation": "Сет (или Сетх) — древнеегипетский бог пустыни, хаоса, бурь и иностранцев, часто изображавшийся с головой неопознанного животного (возможно, трубкозуба или мифического существа). Сет был сложной фигурой египетской мифологии — одновременно разрушителем и защитником. Согласно мифу об Осирисе, Сет убил своего брата Осириса из ревности, за что был побеждён племянником Хором. Несмотря на это, Сет играл важную защитную роль, сопровождая солнечную ладью Ра и отражая атаки змея Апопа. Красный цвет и пустынные животные были священны для Сета. Его главный культовый центр находился в Омбосе.",
+    "explanation_de": "Seth (oder Set) war der altägyptische Gott der Wüste, des Chaos, der Stürme und der Fremden, oft mit dem Kopf eines unidentifizierten Tieres (möglicherweise eines Erdferkels oder eines mythischen Wesens) dargestellt. Seth war eine komplexe Figur der ägyptischen Mythologie - gleichzeitig Zerstörer und Beschützer. Dem Osiris-Mythos zufolge tötete Seth aus Eifersucht seinen Bruder Osiris und wurde dafür von seinem Neffen Horus besiegt. Trotzdem spielte Seth eine wichtige Schutzrolle, indem er die Sonnenbarke des Ra begleitete und die Angriffe der Schlange Apophis abwehrte. Die rote Farbe und Wüstentiere waren Seth heilig. Sein Hauptkultzentrum befand sich in Ombos.",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3000 BCE",
+    "tags": [
+      "боги",
+      "религия",
+      "мифология",
+      "пустыня"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Отношение к Сету менялось на протяжении египетской истории. В ранние периоды он почитался как могущественный защитник, а фараоны-гиксосы особенно поклонялись ему. Однако в поздние периоды Сет был демонизирован и стал воплощением зла. Интересно, что имя 'Сет' носили некоторые фараоны, включая великих правителей XIX династии — Сети I и Сети II.",
+        "de": "Die Einstellung zu Seth änderte sich im Laufe der ägyptischen Geschichte. In frühen Perioden wurde er als mächtiger Beschützer verehrt, und die Hyksos-Pharaonen verehrten ihn besonders. In späteren Perioden wurde Seth jedoch dämonisiert und verkörperte das Böse. Interessanterweise trugen einige Pharaonen den Namen 'Seth', darunter die großen Herrscher der 19. Dynastie - Sethos I. und Sethos II."
+      },
+      {
+        "ru": "Миф об убийстве Осириса Сетом — один из центральных в египетской мифологии. Сет расчленил тело брата на 14 частей и разбросал по всему Египту. Исида, жена Осириса, собрала части и с помощью Анубиса создала первую мумию. Их сын Хор отомстил Сету в серии битв, в которых Хор потерял глаз, а Сет — гениталии, что символизировало восстановление космического порядка.",
+        "de": "Der Mythos von Seths Ermordung des Osiris ist einer der zentralen in der ägyptischen Mythologie. Seth zerstückelte den Körper seines Bruders in 14 Teile und verteilte sie über ganz Ägypten. Isis, Osiris' Frau, sammelte die Teile und schuf mit Hilfe von Anubis die erste Mumie. Ihr Sohn Horus rächte Seth in einer Reihe von Kämpfen, in denen Horus ein Auge und Seth seine Genitalien verlor, was die Wiederherstellung der kosmischen Ordnung symbolisierte."
+      },
+      {
+        "ru": "Сет играл важную роль в защите солнечной барки Ра. Каждую ночь, когда Ра путешествовал через подземный мир Дуат, гигантский змей Апоп пытался остановить барку и предотвратить восход солнца. Сет, стоя на носу барки с копьём, сражался с Апопом и защищал бога солнца. Эта роль показывает двойственную природу Сета — одновременно разрушителя и защитника космического порядка.",
+        "de": "Seth spielte eine wichtige Rolle beim Schutz der Sonnenbarke des Ra. Jede Nacht, wenn Ra durch die Unterwelt Duat reiste, versuchte die riesige Schlange Apophis, die Barke zu stoppen und den Sonnenaufgang zu verhindern. Seth stand mit einem Speer am Bug der Barke, kämpfte gegen Apophis und schützte den Sonnengott. Diese Rolle zeigt Seths doppelte Natur - gleichzeitig Zerstörer und Beschützer der kosmischen Ordnung."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Как назывался древнеегипетский солнечный диск?",
+    "question_de": "Wie hieß die altägyptische Sonnenscheibe?",
+    "answer": "Атон",
+    "answer_de": "Aton",
+    "wrong_answers": [
+      {
+        "ru": "Ра",
+        "de": "Ra"
+      },
+      {
+        "ru": "Амон",
+        "de": "Amun"
+      },
+      {
+        "ru": "Хепри",
+        "de": "Chepri"
+      }
+    ],
+    "explanation": "Атон — древнеегипетское божество, олицетворявшее солнечный диск и его физическую силу. Изначально Атон был аспектом бога солнца Ра, но фараон Эхнатон (Аменхотеп IV) в XIV веке до н.э. возвысил Атона до статуса единственного бога, проведя революционную монотеистическую реформу. Атон изображался как солнечный диск с исходящими лучами, заканчивающимися маленькими руками, дарующими анх (символ жизни). В отличие от других египетских богов, Атон не имел антропоморфной формы. После смерти Эхнатона культ Атона был упразднён, и Египет вернулся к традиционному политеизму.",
+    "explanation_de": "Aton war eine altägyptische Gottheit, die die Sonnenscheibe und ihre physische Kraft verkörperte. Ursprünglich war Aton ein Aspekt des Sonnengottes Ra, aber Pharao Echnaton (Amenophis IV.) erhob Aton im 14. Jahrhundert v. Chr. zum Status des einzigen Gottes und führte eine revolutionäre monotheistische Reform durch. Aton wurde als Sonnenscheibe mit ausstrahlenden Strahlen dargestellt, die in kleinen Händen endeten, die das Ankh (Symbol des Lebens) schenkten. Im Gegensatz zu anderen ägyptischen Göttern hatte Aton keine anthropomorphe Form. Nach Echnatons Tod wurde der Aton-Kult abgeschafft und Ägypten kehrte zum traditionellen Polytheismus zurück.",
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "1353 BCE",
+    "tags": [
+      "боги",
+      "религия",
+      "Атон",
+      "Эхнатон",
+      "монотеизм"
+    ],
+    "interesting_facts": [
+      {
+        "ru": "Культ Атона иногда считают одной из первых форм монотеизма в истории человечества. Эхнатон написал знаменитый 'Великий гимн Атону', который некоторые учёные сравнивают с библейским Псалмом 104. Город Ахетатон (Амарна), построенный Эхнатоном как новая столица, был полностью посвящён Атону и ориентирован так, чтобы храмы принимали первые лучи восходящего солнца.",
+        "de": "Der Aton-Kult wird manchmal als eine der ersten Formen des Monotheismus in der Menschheitsgeschichte betrachtet. Echnaton schrieb die berühmte 'Große Hymne an Aton', die einige Gelehrte mit dem biblischen Psalm 104 vergleichen. Die Stadt Achetaton (Amarna), von Echnaton als neue Hauptstadt erbaut, war vollständig Aton gewidmet und so ausgerichtet, dass die Tempel die ersten Strahlen der aufgehenden Sonne empfingen."
+      },
+      {
+        "ru": "В отличие от традиционных египетских богов, Атон не имел мифологии, храмовых статуй или антропоморфного облика. Он изображался исключительно как солнечный диск с лучами-руками. Храмы Атона были открытыми дворами без крыши, чтобы максимально использовать солнечный свет, в отличие от тёмных внутренних святилищ традиционных храмов. Это было радикальным отходом от египетских религиозных традиций.",
+        "de": "Im Gegensatz zu traditionellen ägyptischen Göttern hatte Aton keine Mythologie, keine Tempelstatuen und keine anthropomorphe Gestalt. Er wurde ausschließlich als Sonnenscheibe mit Strahlen-Händen dargestellt. Aton-Tempel waren offene, nicht überdachte Höfe, um das Sonnenlicht maximal zu nutzen, im Gegensatz zu den dunklen inneren Heiligtümern traditioneller Tempel. Dies war ein radikaler Bruch mit ägyptischen religiösen Traditionen."
+      },
+      {
+        "ru": "После смерти Эхнатона культ Атона был полностью уничтожен. Его преемник Тутанхатон ('Живой образ Атона') изменил своё имя на Тутанхамон ('Живой образ Амона'), столица была перенесена обратно в Фивы, а город Ахетатон заброшен. Храмы Атона были разрушены, а их камни использовались для других построек. Имя Эхнатона стирали с памятников, пытаясь стереть память о 'еретическом' периоде.",
+        "de": "Nach Echnatons Tod wurde der Aton-Kult vollständig vernichtet. Sein Nachfolger Tutanchaton ('Lebendiges Abbild des Aton') änderte seinen Namen zu Tutanchamun ('Lebendiges Abbild des Amun'), die Hauptstadt wurde zurück nach Theben verlegt und die Stadt Achetaton aufgegeben. Aton-Tempel wurden zerstört und ihre Steine für andere Bauten verwendet. Echnatons Name wurde von Denkmälern gelöscht, um die Erinnerung an die 'ketzerische' Periode auszulöschen."
+      }
+    ]
+  }
+]

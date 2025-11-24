@@ -1,0 +1,735 @@
+[
+  {
+    "id": 101,
+    "question": "Сколько гробниц в Долине царей?",
+    "question_de": "Wie viele Gräber befinden sich im Tal der Könige?",
+    "answer": "Более 60",
+    "answer_de": "Mehr als 60",
+    "wrong_answers": [
+      {
+        "ru": "Ровно 40",
+        "de": "Genau 40"
+      },
+      {
+        "ru": "Около 25",
+        "de": "Etwa 25"
+      },
+      {
+        "ru": "Более 100",
+        "de": "Mehr als 100"
+      }
+    ],
+    "explanation": {
+      "ru": "В Долине царей (Та-Сехет-Аат по-египетски) на западном берегу Нила напротив Фив было обнаружено более 60 гробниц. Это некрополь использовался в период Нового царства (1539-1075 гг. до н.э.) для погребения фараонов и высокопоставленной знати. Наиболее известные гробницы включают KV62 (Тутанхамон), KV5 (сыновья Рамсеса II), KV17 (Сети I). Долина была выбрана из-за удалённости и возможности охраны, хотя, несмотря на все меры предосторожности, почти все гробницы были разграблены ещё в древности. Исключением стала гробница Тутанхамона, найденная Говардом Картером в 1922 году практически нетронутой. Современная нумерация гробниц использует аббревиатуру KV (King's Valley) с порядковым номером. Последние открытия были сделаны в 2005-2008 годах, когда археолог Отто Шаден обнаружил KV63. Долина царей внесена в список Всемирного наследия ЮНЕСКО с 1979 года.",
+      "de": "Im Tal der Könige (auf Ägyptisch Ta-Sechet-Aat) am Westufer des Nils gegenüber Theben wurden über 60 Gräber entdeckt. Diese Nekropole wurde während des Neuen Reiches (1539-1075 v. Chr.) für die Bestattung von Pharaonen und hochrangigen Adligen genutzt. Zu den bekanntesten Gräbern gehören KV62 (Tutanchamun), KV5 (Söhne Ramses II.), KV17 (Sethos I.). Das Tal wurde wegen seiner Abgeschiedenheit und der Möglichkeit der Bewachung gewählt, obwohl trotz aller Vorsichtsmaßnahmen fast alle Gräber bereits in der Antike geplündert wurden. Eine Ausnahme bildete das Grab des Tutanchamun, das Howard Carter 1922 praktisch unberührt entdeckte. Die moderne Nummerierung der Gräber verwendet die Abkürzung KV (King's Valley) mit einer Ordnungsnummer. Die letzten Entdeckungen wurden 2005-2008 gemacht, als der Archäologe Otto Schaden KV63 entdeckte. Das Tal der Könige wurde 1979 in die Liste des UNESCO-Weltkulturerbes aufgenommen."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Самая длинная гробница в Долине царей – KV5, предназначенная для сыновей Рамсеса II. Она содержит более 120 комнат и коридоров, многие из которых до сих пор не полностью исследованы. Раскопки продолжаются с 1995 года под руководством Кента Уикса. По оценкам, в гробнице могли быть погребены до 52 принцев.",
+        "de": "Das längste Grab im Tal der Könige ist KV5, das für die Söhne Ramses II. bestimmt war. Es enthält über 120 Räume und Korridore, von denen viele noch nicht vollständig erforscht sind. Die Ausgrabungen dauern seit 1995 unter der Leitung von Kent Weeks an. Schätzungen zufolge könnten bis zu 52 Prinzen in dem Grab beigesetzt worden sein."
+      },
+      {
+        "ru": "Гробница Сети I (KV17) считается самой красивой в Долине царей. Её длина составляет 137 метров, стены покрыты превосходно сохранившимися цветными рельефами и текстами из 'Книги врат' и 'Амдуат'. Итальянский исследователь Джованни Бельцони обнаружил её в 1817 году. Алебастровый саркофаг Сети I сейчас находится в музее сэра Джона Соуна в Лондоне.",
+        "de": "Das Grab von Sethos I. (KV17) gilt als das schönste im Tal der Könige. Es ist 137 Meter lang, die Wände sind mit hervorragend erhaltenen farbigen Reliefs und Texten aus dem 'Buch der Pforten' und 'Amduat' bedeckt. Der italienische Forscher Giovanni Belzoni entdeckte es 1817. Der Alabaster-Sarkophag von Sethos I. befindet sich heute im Sir John Soane's Museum in London."
+      },
+      {
+        "ru": "Долина царей имеет естественную пирамидальную вершину – гору эль-Курн (Эль-Корн), которая возвышается над некрополем. Древние египтяне видели в этой горе природную пирамиду, олицетворяющую богиню Меретсегер ('Любящая тишину'). Она считалась хранительницей некрополя и жестоко карала грабителей. Многие рабочие, участвовавшие в строительстве гробниц и жившие в деревне Дейр эль-Медина, оставили стелы с молитвами к Меретсегер.",
+        "de": "Das Tal der Könige hat einen natürlichen pyramidenförmigen Gipfel – den Berg el-Qurn (El-Korn), der sich über der Nekropole erhebt. Die alten Ägypter sahen in diesem Berg eine natürliche Pyramide, die die Göttin Meretseger ('Die die Stille liebt') verkörperte. Sie galt als Hüterin der Nekropole und bestrafte Grabräuber hart. Viele Arbeiter, die am Bau der Gräber beteiligt waren und im Dorf Deir el-Medina lebten, hinterließen Stelen mit Gebeten an Meretseger."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "1539 BCE - 1075 BCE",
+    "tags": [
+      "гробницы",
+      "Долина царей",
+      "археология"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Как называется долина цариц?",
+    "question_de": "Wie heißt das Tal der Königinnen?",
+    "answer": "Та-Сет-Неферу",
+    "answer_de": "Ta-Set-Neferu",
+    "wrong_answers": [
+      {
+        "ru": "Та-Сехет-Аат",
+        "de": "Ta-Sechet-Aat"
+      },
+      {
+        "ru": "Та-Мерет-Сегер",
+        "de": "Ta-Meret-Seger"
+      },
+      {
+        "ru": "Та-Хесет-Нефру",
+        "de": "Ta-Heset-Nefru"
+      }
+    ],
+    "explanation": {
+      "ru": "Долина цариц по-древнеегипетски называлась Та-Сет-Неферу, что означает 'Место красоты' или 'Место царских детей'. Она расположена примерно в 1,5 км к юго-западу от Долины царей на западном берегу Нила в районе древних Фив (современный Луксор). В этом некрополе хоронили жён фараонов, принцев и принцесс, а также высокопоставленных придворных XVIII-XX династий (примерно 1550-1070 гг. до н.э.). Всего известно около 80 гробниц, но многие из них сильно повреждены или не завершены. Самая знаменитая гробница – QV66, принадлежащая Нефертари, главной жене Рамсеса II. Она содержит одни из самых красивых и хорошо сохранившихся росписей всего древнеегипетского искусства. Гробница была открыта итальянским археологом Эрнесто Скиапарелли в 1904 году. После масштабной реставрации, проведённой Институтом охраны памятников Гетти в 1986-1992 годах, гробница открыта для ограниченного посещения.",
+      "de": "Das Tal der Königinnen hieß auf Altägyptisch Ta-Set-Neferu, was 'Ort der Schönheit' oder 'Ort der königlichen Kinder' bedeutet. Es liegt etwa 1,5 km südwestlich des Tals der Könige am Westufer des Nils in der Region des antiken Theben (heute Luxor). In dieser Nekropole wurden Ehefrauen von Pharaonen, Prinzen und Prinzessinnen sowie hochrangige Hofbeamte der 18.-20. Dynastie (etwa 1550-1070 v. Chr.) begraben. Insgesamt sind etwa 80 Gräber bekannt, aber viele davon sind stark beschädigt oder unvollendet. Das berühmteste Grab ist QV66, das Nefertari gehört, der Hauptfrau Ramses II. Es enthält einige der schönsten und am besten erhaltenen Malereien der gesamten altägyptischen Kunst. Das Grab wurde 1904 vom italienischen Archäologen Ernesto Schiaparelli entdeckt. Nach einer umfangreichen Restaurierung durch das Getty Conservation Institute von 1986-1992 ist das Grab für begrenzte Besuche geöffnet."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Гробница Нефертари (QV66) считается 'Сикстинской капеллой Древнего Египта'. Росписи площадью более 520 квадратных метров изображают путешествие царицы в загробный мир. Стоимость реставрации составила около 6 миллионов долларов. Из-за хрупкости росписей доступ строго ограничен: лишь 150 посетителей в день могут провести в гробнице не более 10 минут, билет стоит около 1400 египетских фунтов (значительно дороже, чем в другие гробницы).",
+        "de": "Das Grab der Nefertari (QV66) gilt als 'Sixtinische Kapelle des Alten Ägypten'. Die Malereien mit einer Fläche von über 520 Quadratmetern zeigen die Reise der Königin in die Unterwelt. Die Kosten für die Restaurierung beliefen sich auf etwa 6 Millionen Dollar. Aufgrund der Zerbrechlichkeit der Malereien ist der Zugang streng begrenzt: Nur 150 Besucher pro Tag dürfen nicht mehr als 10 Minuten im Grab verbringen, ein Ticket kostet etwa 1400 ägyptische Pfund (deutlich teurer als zu anderen Gräbern)."
+      },
+      {
+        "ru": "В Долине цариц есть необычные гробницы принцев, таких как Амонхерхепешеф (QV55) и Хаэмуасет (QV44), сыновей Рамсеса III. В их гробницах фараон изображён вместе с сыновьями, представляя их различным божествам загробного мира. Это отличается от обычной практики, где усопший изображался в одиночестве. Росписи показывают трогательные сцены отцовской заботы о детях в загробной жизни.",
+        "de": "Im Tal der Königinnen gibt es ungewöhnliche Gräber von Prinzen wie Amunherchepeschef (QV55) und Chaemwaset (QV44), Söhne Ramses III. In ihren Gräbern ist der Pharao zusammen mit seinen Söhnen dargestellt, wie er sie verschiedenen Göttern der Unterwelt vorstellt. Dies unterscheidet sich von der üblichen Praxis, bei der der Verstorbene allein dargestellt wurde. Die Malereien zeigen berührende Szenen väterlicher Fürsorge für die Kinder im Jenseits."
+      },
+      {
+        "ru": "Долина цариц в древности подвергалась интенсивному грабежу. Папирус Мейера А (датируется концом Нового царства) содержит протоколы судебных разбирательств над грабителями гробниц. Один из обвиняемых признался: 'Мы открыли их саркофаги и гробы, в которых они были. Мы нашли благородную мумию этого царя... На шее его было великое множество амулетов и украшений из золота. Мы взяли всё, что нашли'. Большинство грабителей были казнены, но это не остановило других.",
+        "de": "Das Tal der Königinnen wurde in der Antike intensiv geplündert. Der Papyrus Mayer A (datiert auf das Ende des Neuen Reiches) enthält Protokolle von Gerichtsverhandlungen gegen Grabräuber. Einer der Angeklagten gestand: 'Wir öffneten ihre Sarkophage und Särge, in denen sie lagen. Wir fanden die edle Mumie dieses Königs... Um seinen Hals war eine große Menge von Amuletten und goldenen Schmuckstücken. Wir nahmen alles, was wir fanden.' Die meisten Räuber wurden hingerichtet, aber das hielt andere nicht ab."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "terminology",
+    "period": "1550 BCE - 1070 BCE",
+    "tags": [
+      "гробницы",
+      "Долина цариц",
+      "терминология",
+      "Нефертари"
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Какой материал использовали для бальзамирования?",
+    "question_de": "Welches Material wurde zur Einbalsamierung verwendet?",
+    "answer": "Натр (сода)",
+    "answer_de": "Natron (Soda)",
+    "wrong_answers": [
+      {
+        "ru": "Соль",
+        "de": "Salz"
+      },
+      {
+        "ru": "Песок",
+        "de": "Sand"
+      },
+      {
+        "ru": "Известь",
+        "de": "Kalk"
+      }
+    ],
+    "explanation": {
+      "ru": "Натр (натрон, или сода) – это природная смесь карбоната натрия (Na₂CO₃) и бикарбоната натрия (NaHCO₃), которая была ключевым материалом в процессе мумификации. Его добывали в Вади-Натрун, расположенной примерно в 110 км к северо-западу от Каира. После извлечения внутренних органов тело покойного полностью покрывали сухим натром на 35-40 дней. Натр действовал как мощный осушитель, вытягивая всю влагу из тела, что предотвращало разложение. Процесс был настолько эффективным, что тела сохранялись тысячелетиями. Химические свойства натра также нейтрализовали жиры и уничтожали бактерии. После высушивания натр удаляли, тело обмывали, натирали маслами и обматывали льняными бинтами. Натр также использовался в повседневной жизни египтян для чистки зубов, стирки одежды и в производстве фаянса и стекла. Геродот в V веке до н.э. описывал три метода мумификации разной стоимости, и во всех них натр играл центральную роль.",
+      "de": "Natron (Soda) ist eine natürliche Mischung aus Natriumcarbonat (Na₂CO₃) und Natriumbicarbonat (NaHCO₃), die ein Schlüsselmaterial im Mumifizierungsprozess war. Es wurde im Wadi Natrun gewonnen, etwa 110 km nordwestlich von Kairo. Nach der Entfernung der inneren Organe wurde der Körper des Verstorbenen 35-40 Tage lang vollständig mit trockenem Natron bedeckt. Natron wirkte als starkes Trocknungsmittel und entzog dem Körper alle Feuchtigkeit, was die Zersetzung verhinderte. Der Prozess war so effektiv, dass sich die Körper über Jahrtausende hinweg erhielten. Die chemischen Eigenschaften von Natron neutralisierten auch Fette und zerstörten Bakterien. Nach dem Trocknen wurde das Natron entfernt, der Körper gewaschen, mit Ölen eingerieben und mit Leinenbinden umwickelt. Natron wurde auch im täglichen Leben der Ägypter zum Zähneputzen, Wäschewaschen und zur Herstellung von Fayence und Glas verwendet. Herodot beschrieb im 5. Jahrhundert v. Chr. drei Mumifizierungsmethoden unterschiedlicher Kosten, und bei allen spielte Natron eine zentrale Rolle."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Современные эксперименты по мумификации, проводившиеся в 1990-х годах под руководством доктора Боба Бриера из Университета Лонг-Айленда, подтвердили эффективность древнеегипетских методов. Бриер и его команда успешно мумифицировали человеческое тело (с согласия донора), используя только древние технологии и материалы. Результаты показали, что натр действительно обезвоживает тело примерно на 75% от его первоначального веса.",
+        "de": "Moderne Mumifizierungsexperimente, die in den 1990er Jahren unter der Leitung von Dr. Bob Brier von der Long Island University durchgeführt wurden, bestätigten die Wirksamkeit der altägyptischen Methoden. Brier und sein Team mumifizierten erfolgreich einen menschlichen Körper (mit Zustimmung des Spenders) unter Verwendung nur antiker Technologien und Materialien. Die Ergebnisse zeigten, dass Natron den Körper tatsächlich um etwa 75% seines ursprünglichen Gewichts entwässert."
+      },
+      {
+        "ru": "Вади-Натрун не только снабжал Египет натром для мумификации, но и стал важным центром раннего христианского монашества. С IV века н.э. здесь возникли древнейшие в мире монастыри, четыре из которых действуют до сих пор. Коптские монахи также использовали натр в хозяйственных целях. Ирония истории заключается в том, что материал, служивший языческому ритуалу вечной жизни, позже использовался в месте, символизирующем христианское отречение от мира.",
+        "de": "Das Wadi Natrun versorgte Ägypten nicht nur mit Natron zur Mumifizierung, sondern wurde auch zu einem wichtigen Zentrum des frühchristlichen Mönchtums. Seit dem 4. Jahrhundert n. Chr. entstanden hier die ältesten Klöster der Welt, von denen vier noch heute aktiv sind. Koptische Mönche verwendeten Natron auch für wirtschaftliche Zwecke. Die Ironie der Geschichte liegt darin, dass das Material, das einem heidnischen Ritual des ewigen Lebens diente, später an einem Ort verwendet wurde, der die christliche Weltentsagung symbolisierte."
+      },
+      {
+        "ru": "Не все египтяне могли позволить себе мумификацию с натром. Для бедных существовал дешёвый метод 'песчаной мумификации' – тело хоронили прямо в горячем сухом песке пустыни, который также высушивал его, хотя и менее эффективно. Археологи находили подобные естественно мумифицированные тела, датируемые додинастическим периодом (до 3100 г. до н.э.). Возможно, именно такие случайные находки хорошо сохранившихся тел в песке вдохновили древних египтян на разработку искусственной мумификации.",
+        "de": "Nicht alle Ägypter konnten sich eine Mumifizierung mit Natron leisten. Für die Armen gab es eine billige Methode der 'Sandmumifizierung' – der Körper wurde direkt im heißen, trockenen Wüstensand begraben, der ihn ebenfalls austrocknete, wenn auch weniger effektiv. Archäologen haben solche natürlich mumifizierten Körper gefunden, die aus der prädynastischen Zeit (vor 3100 v. Chr.) stammen. Möglicherweise inspirierten gerade solche zufälligen Funde gut erhaltener Körper im Sand die alten Ägypter zur Entwicklung der künstlichen Mumifizierung."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "мумификация",
+      "материалы",
+      "натр"
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Сколько дней длилась мумификация?",
+    "question_de": "Wie viele Tage dauerte die Mumifizierung?",
+    "answer": "70 дней",
+    "answer_de": "70 Tage",
+    "wrong_answers": [
+      {
+        "ru": "40 дней",
+        "de": "40 Tage"
+      },
+      {
+        "ru": "100 дней",
+        "de": "100 Tage"
+      },
+      {
+        "ru": "30 дней",
+        "de": "30 Tage"
+      }
+    ],
+    "explanation": {
+      "ru": "Полный процесс мумификации в Древнем Египте занимал 70 дней. Это число имело глубокое религиозное значение и было связано с циклом звезды Сириус (Сопдет по-египетски), которая исчезала с небосклона на 70 дней, после чего её утренний восход совпадал с началом разлива Нила – важнейшего события в египетском календаре. Процесс делился на несколько этапов: первые 15 дней уходили на извлечение внутренних органов и подготовку тела; следующие 35-40 дней тело находилось в натре для полного обезвоживания; оставшееся время посвящалось обработке тела маслами, благовониями и обматыванию льняными бинтами с вложением амулетов. Каждый этап сопровождался специфическими ритуалами и заклинаниями из 'Текстов пирамид' и 'Книги мёртвых'. Весь процесс проводился в особых мастерских, называемых 'ибу' (место очищения) и 'ваебет' (место бальзамирования). После завершения мумификации тело помещали в несколько вложенных саркофагов, и начинались похоронные церемонии, включая ритуал 'Отверзания уст', который символически возвращал усопшему способность дышать, видеть и говорить в загробном мире.",
+      "de": "Der vollständige Mumifizierungsprozess im Alten Ägypten dauerte 70 Tage. Diese Zahl hatte eine tiefe religiöse Bedeutung und war mit dem Zyklus des Sterns Sirius (auf Ägyptisch Sopdet) verbunden, der 70 Tage lang vom Himmel verschwand, woraufhin sein morgendlicher Aufgang mit dem Beginn der Nilüberschwemmung zusammenfiel – dem wichtigsten Ereignis im ägyptischen Kalender. Der Prozess war in mehrere Phasen unterteilt: Die ersten 15 Tage wurden für die Entfernung der inneren Organe und die Vorbereitung des Körpers verwendet; die nächsten 35-40 Tage lag der Körper in Natron zur vollständigen Entwässerung; die verbleibende Zeit war der Behandlung des Körpers mit Ölen, Weihrauch und dem Umwickeln mit Leinenbinden mit eingelegten Amuletten gewidmet. Jede Phase wurde von spezifischen Ritualen und Beschwörungen aus den 'Pyramidentexten' und dem 'Totenbuch' begleitet. Der gesamte Prozess wurde in speziellen Werkstätten durchgeführt, die 'ibu' (Ort der Reinigung) und 'wabet' (Ort der Einbalsamierung) genannt wurden. Nach Abschluss der Mumifizierung wurde der Körper in mehrere ineinander geschachtelte Sarkophage gelegt, und es begannen die Bestattungszeremonien, einschließlich des Rituals der 'Mundöffnung', das dem Verstorbenen symbolisch die Fähigkeit zurückgab, in der Unterwelt zu atmen, zu sehen und zu sprechen."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Число 70 было священным в египетской нумерологии и встречается во многих контекстах. Согласно мифу об Осирисе, его тело было расчленено Сетом на 14 частей (по другой версии – на 42), а Исиде потребовалось 70 дней, чтобы собрать их. Этот миф непосредственно связан с ритуалом мумификации, поскольку каждый умерший египтянин отождествлялся с Осирисом. 70 дней траура соблюдалось не только для фараонов, но и для животных, почитаемых как священные, например, быков Аписов.",
+        "de": "Die Zahl 70 war in der ägyptischen Numerologie heilig und kommt in vielen Kontexten vor. Dem Osiris-Mythos zufolge wurde sein Körper von Seth in 14 Teile zerstückelt (nach einer anderen Version in 42), und Isis brauchte 70 Tage, um sie zu sammeln. Dieser Mythos ist direkt mit dem Mumifizierungsritual verbunden, da jeder verstorbene Ägypter mit Osiris identifiziert wurde. 70 Trauertage wurden nicht nur für Pharaonen, sondern auch für als heilig verehrte Tiere eingehalten, beispielsweise für Apis-Stiere."
+      },
+      {
+        "ru": "Современные исследования мумий методом компьютерной томографии показывают удивительные детали процесса. Например, выяснилось, что мозг извлекали через нос специальным крючком не всегда полностью – иногда его просто взбалтывали до жидкого состояния и сливали. У некоторых мумий обнаружены льняные пакеты с натром внутри черепа, что помогало высушить его изнутри. У фараона Рамсеса IV мозг вообще не извлекали, а забальзамировали вместе с телом.",
+        "de": "Moderne Untersuchungen von Mumien mittels Computertomographie zeigen erstaunliche Details des Prozesses. Zum Beispiel stellte sich heraus, dass das Gehirn nicht immer vollständig durch die Nase mit einem speziellen Haken entfernt wurde – manchmal wurde es einfach zu einem flüssigen Zustand aufgeschlagen und abgelassen. Bei einigen Mumien wurden Leinenpakete mit Natron im Schädel gefunden, was half, ihn von innen zu trocknen. Bei Pharao Ramses IV. wurde das Gehirn überhaupt nicht entfernt, sondern zusammen mit dem Körper einbalsamiert."
+      },
+      {
+        "ru": "Семья усопшего должна была оплатить не только саму мумификацию, но и содержание мумии в течение 70-дневного процесса, включая защиту мастерской от грабителей. Стоимость варьировалась в зависимости от метода: самый дорогой (с полным извлечением органов, использованием лучших масел и смол) мог стоить до 26 килограммов серебра – целое состояние. Средний метод стоил около 8 килограммов серебра, а самый простой был доступен практически всем. Геродот отмечал, что бальзамировщики показывали клиентам деревянные модели мумий разного класса, чтобы они выбрали подходящий вариант.",
+        "de": "Die Familie des Verstorbenen musste nicht nur für die Mumifizierung selbst bezahlen, sondern auch für die Erhaltung der Mumie während des 70-tägigen Prozesses, einschließlich des Schutzes der Werkstatt vor Räubern. Die Kosten variierten je nach Methode: Die teuerste (mit vollständiger Entfernung der Organe, Verwendung der besten Öle und Harze) konnte bis zu 26 Kilogramm Silber kosten – ein Vermögen. Die mittlere Methode kostete etwa 8 Kilogramm Silber, und die einfachste war praktisch für alle erschwinglich. Herodot bemerkte, dass die Einbalsamierer den Kunden Holzmodelle von Mumien verschiedener Klassen zeigten, damit sie die passende Variante wählen konnten."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "мумификация",
+      "ритуалы",
+      "хронология"
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Какое масло использовали в мумификации?",
+    "question_de": "Welches Öl wurde bei der Mumifizierung verwendet?",
+    "answer": "Кедровое",
+    "answer_de": "Zedernöl",
+    "wrong_answers": [
+      {
+        "ru": "Оливковое",
+        "de": "Olivenöl"
+      },
+      {
+        "ru": "Льняное",
+        "de": "Leinöl"
+      },
+      {
+        "ru": "Кунжутное",
+        "de": "Sesamöl"
+      }
+    ],
+    "explanation": {
+      "ru": "Кедровое масло было одним из ключевых компонентов в процессе мумификации в Древнем Египте. Его получали из ливанского кедра (Cedrus libani) путём дистилляции древесины и смолы. Масло обладало мощными антисептическими и консервирующими свойствами благодаря высокому содержанию терпенов и фенольных соединений. После извлечения внутренних органов полости тела промывали пальмовым вином и наполняли смесью, включающей кедровое масло. Геродот описывал специфический метод, где кедровое масло вводили в тело через анус, после чего запечатывали отверстие и оставляли на несколько дней – масло якобы растворяло внутренности изнутри (хотя современные учёные сомневаются в эффективности этого метода). Кедровое масло также использовали для пропитки льняных бинтов, которыми обматывали мумию – это придавало характерный смолистый запах. Помимо кедрового масла применяли можжевеловое масло, мирру и ладан. Кедровая древесина импортировалась из Ливана (особенно из города Библ) и была настолько ценной, что египетские фараоны организовывали специальные морские экспедиции за ней. В гробнице Тутанхамона нашли остатки кедрового масла в алебастровых сосудах возрастом более 3300 лет.",
+      "de": "Zedernöl war eine der Schlüsselkomponenten im Mumifizierungsprozess im Alten Ägypten. Es wurde aus der Libanon-Zeder (Cedrus libani) durch Destillation von Holz und Harz gewonnen. Das Öl besaß starke antiseptische und konservierende Eigenschaften aufgrund des hohen Gehalts an Terpenen und phenolischen Verbindungen. Nach der Entfernung der inneren Organe wurden die Körperhöhlen mit Palmwein gewaschen und mit einer Mischung gefüllt, die Zedernöl enthielt. Herodot beschrieb eine spezifische Methode, bei der Zedernöl durch den Anus in den Körper eingeführt wurde, woraufhin die Öffnung versiegelt und für mehrere Tage belassen wurde – das Öl sollte angeblich die Eingeweide von innen auflösen (obwohl moderne Wissenschaftler an der Wirksamkeit dieser Methode zweifeln). Zedernöl wurde auch zur Imprägnierung der Leinenbinden verwendet, mit denen die Mumie umwickelt wurde – dies gab einen charakteristischen harzigen Geruch. Neben Zedernöl wurden Wacholderöl, Myrrhe und Weihrauch verwendet. Zedernholz wurde aus dem Libanon (besonders aus der Stadt Byblos) importiert und war so wertvoll, dass ägyptische Pharaonen spezielle Seeexpeditionen dafür organisierten. In Tutanchamuns Grab wurden Reste von Zedernöl in Alabastergefäßen gefunden, die über 3300 Jahre alt sind."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Геродот описывал метод, при котором кедровое масло вводили через кишечник умершего. Масло растворяло внутренности, которые затем вытекали, избавляя от необходимости делать разрез на теле. Этот метод был дешевле, но современные учёные сомневаются в его эффективности и считают описание Геродота преувеличением или неправильным пониманием процесса. Возможно, Геродоту показали упрощённую версию для непосвящённых.",
+        "de": "Herodot beschrieb eine Methode, bei der Zedernöl durch den Darm des Verstorbenen eingeführt wurde. Das Öl sollte die Eingeweide auflösen, die dann herausflossen, wodurch ein Schnitt am Körper vermieden wurde. Diese Methode war billiger, aber moderne Wissenschaftler bezweifeln ihre Wirksamkeit und halten Herodots Beschreibung für eine Übertreibung oder ein Missverständnis des Prozesses. Möglicherweise zeigte man Herodot eine vereinfachte Version für Uneingeweihte."
+      },
+      {
+        "ru": "Торговля кедровым маслом и древесиной была важной частью египетской экономики и дипломатии. Египетские фараоны отправляли экспедиции в Ливан специально за кедром, что задокументировано в рельефах храма Хатшепсут в Дейр эль-Бахри, показывающих транспортировку кедровых брёвен. Библ (современный Джебейль в Ливане) был главным торговым партнёром Египта на протяжении тысячелетий. Египтяне называли его Кпни, и там даже находился храм, посвящённый египетской богине Хатхор.",
+        "de": "Der Handel mit Zedernöl und -holz war ein wichtiger Teil der ägyptischen Wirtschaft und Diplomatie. Ägyptische Pharaonen schickten Expeditionen in den Libanon speziell für Zedern, was in Reliefs des Tempels von Hatschepsut in Deir el-Bahari dokumentiert ist, die den Transport von Zedernstämmen zeigen. Byblos (das heutige Jbeil im Libanon) war über Jahrtausende Ägyptens wichtigster Handelspartner. Die Ägypter nannten es Kpny, und dort gab es sogar einen Tempel, der der ägyptischen Göttin Hathor gewidmet war."
+      },
+      {
+        "ru": "Современные исследования мумий с помощью газовой хроматографии и масс-спектрометрии показывают сложные смеси масел и смол. Помимо кедрового масла обнаружены пчелиный воск, животные жиры, фисташковая смола, масло из орехов ба (Balanites aegyptiaca) и масла из различных растений. Рецепты варьировались в зависимости от периода, региона и достатка семьи умершего. Некоторые мумии содержали экзотические ингредиенты, такие как битум из Мёртвого моря (слово 'мумия' происходит от персидского 'mūm' – битум, воск).",
+        "de": "Moderne Untersuchungen von Mumien mittels Gaschromatographie und Massenspektrometrie zeigen komplexe Mischungen von Ölen und Harzen. Neben Zedernöl wurden Bienenwachs, tierische Fette, Pistazienharz, Öl aus Ba-Nüssen (Balanites aegyptiaca) und Öle verschiedener Pflanzen gefunden. Die Rezepte variierten je nach Periode, Region und Wohlstand der Familie des Verstorbenen. Einige Mumien enthielten exotische Zutaten wie Bitumen aus dem Toten Meer (das Wort 'Mumie' stammt vom persischen 'mūm' – Bitumen, Wachs)."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Египет",
+    "type": "factual",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "мумификация",
+      "материалы",
+      "торговля"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Как называлась египетская богиня-скорпион?",
+    "question_de": "Wie hieß die ägyptische Skorpiongöttin?",
+    "answer": "Серкет",
+    "answer_de": "Selket",
+    "wrong_answers": [
+      {
+        "ru": "Нейт",
+        "de": "Neith"
+      },
+      {
+        "ru": "Таурет",
+        "de": "Taweret"
+      },
+      {
+        "ru": "Мут",
+        "de": "Mut"
+      }
+    ],
+    "explanation": {
+      "ru": "Серкет (также Селкет, Серқет-хетит) была одной из древнейших богинь египетского пантеона, защитницей от ядовитых существ, особенно скорпионов и змей. Её имя означает 'Та, которая заставляет дышать горло' или 'Та, которая сжимает горло', что отражает двойную природу скорпиона – как смертельно опасного, так и способного излечить своим ядом. Серкет изображалась в виде женщины со скорпионом на голове или как скорпион с женской головой. Она играла важную роль в погребальных ритуалах: вместе с Исидой, Нефтидой и Нейт она охраняла канопы с внутренними органами умершего. Серкет защищала канопу с кишечником, которую охранял бог Кебехсенуф. В мифологии она помогала Исиде защищать младенца Гора от укусов скорпионов и змей, когда та скрывалась в дельте Нила. Жрецы Серкет были известны как целители от укусов ядовитых существ и использовали магические заклинания вместе с практическими медицинскими знаниями. В гробнице Тутанхамона статуя Серкет была одной из четырёх богинь, охранявших золотой ковчег с каноническими сосудами. Её культ был особенно популярен в Позднем периоде.",
+      "de": "Selket (auch Serket, Serqet-hetyt) war eine der ältesten Göttinnen des ägyptischen Pantheons, Beschützerin vor giftigen Kreaturen, besonders Skorpionen und Schlangen. Ihr Name bedeutet 'Die, die die Kehle atmen lässt' oder 'Die, die die Kehle zusammendrückt', was die doppelte Natur des Skorpions widerspiegelt – sowohl tödlich gefährlich als auch in der Lage, mit seinem Gift zu heilen. Selket wurde als Frau mit einem Skorpion auf dem Kopf oder als Skorpion mit einem Frauenkopf dargestellt. Sie spielte eine wichtige Rolle in Bestattungsritualen: Zusammen mit Isis, Nephthys und Neith bewachte sie die Kanopen mit den inneren Organen des Verstorbenen. Selket schützte die Kanope mit dem Darm, die vom Gott Kebechsenef bewacht wurde. In der Mythologie half sie Isis, das Kind Horus vor Skorpion- und Schlangenbissen zu schützen, als diese sich im Nildelta versteckte. Die Priester der Selket waren als Heiler von Bissen giftiger Kreaturen bekannt und verwendeten magische Beschwörungen zusammen mit praktischem medizinischem Wissen. In Tutanchamuns Grab war die Statue der Selket eine von vier Göttinnen, die den goldenen Schrein mit den Kanopengefäßen bewachten. Ihr Kult war besonders in der Spätzeit beliebt."
+    },
+    "interesting_facts": [
+      {
+        "ru": "В Древнем Египте скорпионы были реальной угрозой, особенно в пустыне и сельских районах. Статистика укусов скорпионов была настолько серьёзной, что появилась целая профессия 'заклинателей скорпионов' (хери-херет), которые были жрецами Серкет. Они носили особые амулеты с изображением богини и использовали заклинания из специальных медицинских папирусов, таких как Папирус Бруклин (47.218.48 и 47.218.85), содержащий описание 38 видов змей и методов лечения их укусов.",
+        "de": "Im Alten Ägypten waren Skorpione eine reale Bedrohung, besonders in der Wüste und in ländlichen Gebieten. Die Statistik der Skorpionstiche war so ernst, dass ein ganzer Beruf der 'Skorpionbeschwörer' (cheri-cheret) entstand, die Priester der Selket waren. Sie trugen spezielle Amulette mit dem Bild der Göttin und verwendeten Beschwörungen aus speziellen medizinischen Papyri, wie dem Brooklyn-Papyrus (47.218.48 und 47.218.85), der 38 Schlangenarten und Behandlungsmethoden für ihre Bisse beschreibt."
+      },
+      {
+        "ru": "Согласно мифу 'Семь скорпионов Исиды', когда Исида бежала с младенцем Гором от Сета, её сопровождали семь скорпионов, посланных Серкет для защиты: Тефен, Бефен, Местет, Местетеф, Петет, Чететет и Мафет. Когда богатая женщина отказалась дать им приют, скорпион Тефен в отместку ужалил её сына. Исида пожалела мальчика и исцелила его своим заклинанием. Это заклинание позже использовали египетские маги при лечении укусов скорпионов, записывая его на папирусе или стеле и читая над пострадавшим.",
+        "de": "Dem Mythos der 'Sieben Skorpione der Isis' zufolge begleiteten Isis auf ihrer Flucht mit dem Kind Horus vor Seth sieben Skorpione, die Selket zum Schutz sandte: Tefen, Befen, Mestet, Mestetef, Petet, Thetet und Mafet. Als eine reiche Frau ihnen Zuflucht verweigerte, stach der Skorpion Tefen aus Rache ihren Sohn. Isis hatte Mitleid mit dem Jungen und heilte ihn mit ihrer Beschwörung. Diese Beschwörung wurde später von ägyptischen Magiern bei der Behandlung von Skorpionstichen verwendet, indem sie auf Papyrus oder Stelen aufgeschrieben und über dem Opfer vorgelesen wurde."
+      },
+      {
+        "ru": "В гробнице Тутанхамона золотая статуя Серкет, охраняющая ковчег с каноническими сосудами, считается одним из самых красивых произведений древнеегипетского искусства. Богиня изображена в профиль с вытянутыми руками, готовая защищать царя. Статуя сделана из дерева, покрытого золотым листом, и инкрустирована полудрагоценными камнями. Интересно, что в отличие от других защитных богинь, Серкет смотрит не вперёд, а в сторону, словно наблюдая за угрозами с фланга. Археолог Говард Картер писал, что лицо статуи Серкет исполнено 'тихой печали и сострадания'.",
+        "de": "In Tutanchamuns Grab gilt die goldene Statue der Selket, die den Schrein mit den Kanopengefäßen bewacht, als eines der schönsten Werke der altägyptischen Kunst. Die Göttin ist im Profil mit ausgestreckten Armen dargestellt, bereit, den König zu beschützen. Die Statue ist aus Holz gefertigt, mit Blattgold bedeckt und mit Halbedelsteinen eingelegt. Interessanterweise schaut Selket im Gegensatz zu anderen Schutzgöttinnen nicht nach vorne, sondern zur Seite, als ob sie die Bedrohungen von der Flanke aus beobachtet. Der Archäologe Howard Carter schrieb, dass das Gesicht der Selket-Statue voller 'stiller Trauer und Mitgefühl' sei."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "богини",
+      "мифология",
+      "Серкет",
+      "погребальный культ"
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Какой бог был покровителем Мемфиса?",
+    "question_de": "Welcher Gott war der Schutzpatron von Memphis?",
+    "answer": "Птах",
+    "answer_de": "Ptah",
+    "wrong_answers": [
+      {
+        "ru": "Ра",
+        "de": "Ra"
+      },
+      {
+        "ru": "Амон",
+        "de": "Amun"
+      },
+      {
+        "ru": "Осирис",
+        "de": "Osiris"
+      }
+    ],
+    "explanation": {
+      "ru": "Птах был главным богом Мемфиса (Мен-нефер), одного из древнейших городов Египта и столицы Древнего царства. Он считался богом-творцом, ремесленников, архитекторов и мастеров. Согласно мемфисской космогонии, изложенной в 'Шабакском камне' (датируется XXV династией, но содержит тексты времён Древнего царства), Птах создал мир силой мысли и слова – он задумал творение в своём сердце и произнёс его языком, и всё возникло. Это делает мемфисскую теологию одной из самых философски сложных в древнеегипетской религии. Птах изображался в виде мумифицированного человека в облегающем одеянии, с посохом уас, анкхом и джедом. Его главный храм, Хут-ка-Птах ('Дом ка Птаха'), дал название всему Египту – греки называли страну 'Айгюптос', что произошло от египетского названия храма. Птах был патроном Имхотепа, легендарного архитектора ступенчатой пирамиды Джосера. В Поздний период Птах отождествлялся с греческим богом Гефестом. Его женой была львиноголовая богиня Сехмет, а сыном – бог лотоса Нефертум. Вместе они составляли мемфисскую триаду.",
+      "de": "Ptah war der Hauptgott von Memphis (Men-nefer), einer der ältesten Städte Ägyptens und der Hauptstadt des Alten Reiches. Er galt als Schöpfergott, Gott der Handwerker, Architekten und Meister. Der memphitischen Kosmogonie zufolge, die im 'Shabaka-Stein' (datiert auf die 25. Dynastie, enthält aber Texte aus der Zeit des Alten Reiches) dargelegt ist, schuf Ptah die Welt durch die Kraft des Denkens und des Wortes – er dachte sich die Schöpfung in seinem Herzen aus und sprach sie mit seiner Zunge aus, und alles entstand. Dies macht die memphitische Theologie zu einer der philosophisch komplexesten in der altägyptischen Religion. Ptah wurde als mumifizierter Mensch in eng anliegender Kleidung mit einem Was-Zepter, Ankh und Djed dargestellt. Sein Haupttempel, Hut-ka-Ptah ('Haus des Ka des Ptah'), gab dem ganzen Ägypten seinen Namen – die Griechen nannten das Land 'Aigyptos', was vom ägyptischen Namen des Tempels abgeleitet ist. Ptah war der Patron von Imhotep, dem legendären Architekten der Stufenpyramide des Djoser. In der Spätzeit wurde Ptah mit dem griechischen Gott Hephaistos gleichgesetzt. Seine Frau war die löwenköpfige Göttin Sachmet, und sein Sohn war der Lotusgott Nefertem. Zusammen bildeten sie die memphitische Triade."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Храм Птаха в Мемфисе был одним из величайших религиозных комплексов древнего мира, сопоставимым по размерам с Карнаком в Фивах. К сожалению, большая часть храма не сохранилась, так как Мемфис служил каменоломней для строительства Каира в исламский период. Однако благодаря описаниям Геродота и археологическим раскопкам известно, что храм включал множество дворов, колоннад, священных озёр и мастерских. В храме работали тысячи жрецов, ремесленников и писцов. До наших дней дошла колоссальная известняковая статуя Рамсеса II высотой 10 метров, найденная в руинах храма в 1820 году.",
+        "de": "Der Ptah-Tempel in Memphis war einer der größten religiösen Komplexe der antiken Welt, vergleichbar mit Karnak in Theben. Leider ist der größte Teil des Tempels nicht erhalten, da Memphis in der islamischen Zeit als Steinbruch für den Bau von Kairo diente. Dank der Beschreibungen von Herodot und archäologischen Ausgrabungen ist jedoch bekannt, dass der Tempel viele Höfe, Kolonnaden, heilige Seen und Werkstätten umfasste. Im Tempel arbeiteten Tausende von Priestern, Handwerkern und Schreibern. Bis heute ist eine kolossale Kalksteinstatue von Ramses II. mit einer Höhe von 10 Metern erhalten, die 1820 in den Ruinen des Tempels gefunden wurde."
+      },
+      {
+        "ru": "Птах имел уникальный эпитет 'Тот, кто слушает молитвы' (Седжем-аб). В отличие от многих других египетских богов, к которым обращались через жрецов, простые люди могли напрямую молиться Птаху. В Мемфисе и других городах находили так называемые 'уши Птаха' – стелы с вырезанными ушами, символизирующими готовность бога выслушать просьбы. Рабочие и ремесленники особенно почитали Птаха, считая его покровителем своего труда. Перед началом важных работ – будь то строительство храма или изготовление статуи – они произносили молитвы Птаху и приносили ему скромные подношения.",
+        "de": "Ptah hatte das einzigartige Epitheton 'Der, der Gebete hört' (Sedjem-ab). Im Gegensatz zu vielen anderen ägyptischen Göttern, zu denen man sich durch Priester wandte, konnten einfache Menschen direkt zu Ptah beten. In Memphis und anderen Städten wurden sogenannte 'Ohren des Ptah' gefunden – Stelen mit geschnitzten Ohren, die die Bereitschaft des Gottes symbolisierten, Bitten anzuhören. Arbeiter und Handwerker verehrten Ptah besonders und betrachteten ihn als Patron ihrer Arbeit. Vor Beginn wichtiger Arbeiten – sei es der Bau eines Tempels oder die Herstellung einer Statue – sprachen sie Gebete zu Ptah und brachten ihm bescheidene Opfergaben dar."
+      },
+      {
+        "ru": "Согласно 'Шабакскому камню', Птах создал восемь первичных богов (Огдоаду), из которых возникли Атум и Эннеада (девять богов Гелиополя). Таким образом, мемфисская теология помещала Птаха выше даже солнечного бога Ра-Атума. Этот текст был настолько важен, что фараон Шабака (XXV династия, около 710 г. до н.э.) приказал перенести его с древнего папируса, съеденного червями, на базальтовый камень для вечного сохранения. Камень сейчас находится в Британском музее, хотя к сожалению, в более позднее время его использовали как жернов, что повредило центральную часть текста.",
+        "de": "Dem 'Shabaka-Stein' zufolge schuf Ptah die acht primären Götter (Ogdoade), aus denen Atum und die Enneade (neun Götter von Heliopolis) entstanden. Die memphitische Theologie stellte Ptah somit über den Sonnengott Ra-Atum. Dieser Text war so wichtig, dass Pharao Schabaka (25. Dynastie, etwa 710 v. Chr.) anordnete, ihn von einem alten, von Würmern zerfressenen Papyrus auf einen Basaltstein zu übertragen, um ihn ewig zu bewahren. Der Stein befindet sich heute im Britischen Museum, obwohl er leider zu späterer Zeit als Mühlstein verwendet wurde, was den zentralen Teil des Textes beschädigte."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "боги",
+      "Птах",
+      "Мемфис",
+      "космогония"
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Как называлась жена Птаха?",
+    "question_de": "Wie hieß die Frau des Ptah?",
+    "answer": "Сехмет",
+    "answer_de": "Sachmet",
+    "wrong_answers": [
+      {
+        "ru": "Хатхор",
+        "de": "Hathor"
+      },
+      {
+        "ru": "Бастет",
+        "de": "Bastet"
+      },
+      {
+        "ru": "Маат",
+        "de": "Maat"
+      }
+    ],
+    "explanation": {
+      "ru": "Сехмет ('Могущественная') была женой Птаха и одной из самых грозных богинь египетского пантеона. Она изображалась как женщина с головой львицы, обычно увенчанной солнечным диском. Сехмет была богиней войны, защиты фараона, целительства и божественного возмездия. Согласно мифу, когда люди восстали против стареющего бога Ра, он послал своё око в образе Сехмет уничтожить их. Богиня начала безжалостную бойню, и её кровожадность была такова, что боги испугались полного истребления человечества. Чтобы остановить её, они смешали пиво с красной охрой, имитируя кровь, и разлили по полям. Сехмет, приняв это за кровь, напилась и заснула, что спасло человечество. После этого она стала также богиней целительства и покровительницей врачей, поскольку та, что может насылать болезни и эпидемии, может и излечивать их. Жрецы Сехмет были одновременно врачами. В храме Мут в Карнаке было установлено более 700 статуй Сехмет (по две на каждый день года) для умиротворения богини. Вместе с Птахом и их сыном Нефертумом она составляла мемфисскую триаду. Сехмет часто отождествлялась с мирной богиней-кошкой Бастет, представляя две стороны кошачьей природы.",
+      "de": "Sachmet ('Die Mächtige') war die Frau des Ptah und eine der furchtbarsten Göttinnen des ägyptischen Pantheons. Sie wurde als Frau mit Löwenkopf dargestellt, normalerweise mit einer Sonnenscheibe gekrönt. Sachmet war die Göttin des Krieges, des Schutzes des Pharaos, der Heilung und der göttlichen Vergeltung. Dem Mythos zufolge sandte Ra, als die Menschen gegen den alternden Gott rebellierten, sein Auge in Gestalt der Sachmet aus, um sie zu vernichten. Die Göttin begann ein gnadenoses Gemetzel, und ihre Blutgier war so groß, dass die Götter die vollständige Auslöschung der Menschheit fürchteten. Um sie aufzuhalten, mischten sie Bier mit rotem Ocker, um Blut zu imitieren, und gossen es über die Felder. Sachmet, die dies für Blut hielt, trank sich voll und schlief ein, was die Menschheit rettete. Danach wurde sie auch zur Göttin der Heilung und Schutzpatronin der Ärzte, denn die, die Krankheiten und Epidemien senden kann, kann sie auch heilen. Die Priester der Sachmet waren gleichzeitig Ärzte. Im Tempel der Mut in Karnak wurden über 700 Statuen der Sachmet aufgestellt (zwei für jeden Tag des Jahres), um die Göttin zu besänftigen. Zusammen mit Ptah und ihrem Sohn Nefertem bildete sie die memphitische Triade. Sachmet wurde oft mit der friedlichen Katzengöttin Bastet gleichgesetzt und repräsentierte die zwei Seiten der Katzennatur."
+    },
+    "interesting_facts": [
+      {
+        "ru": "В Новом царстве фараоны регулярно проводили 'Праздник опьянения' (Теkh) в честь Сехмет, где участники обильно употребляли вино или пиво, воссоздавая миф о её усмирении. Праздник служил катарсисом и средством социального сплочения. На стенах храмов сохранились изображения участников в состоянии крайнего опьянения, что было редкостью для обычно сдержанного египетского искусства. Этот праздник обычно отмечался в начале нового года, символизируя обновление и защиту от болезней на предстоящий год.",
+        "de": "Im Neuen Reich feierten die Pharaonen regelmäßig das 'Fest der Trunkenheit' (Tekh) zu Ehren der Sachmet, bei dem die Teilnehmer reichlich Wein oder Bier konsumierten und den Mythos ihrer Besänftigung nachstellten. Das Fest diente als Katharsis und Mittel zum sozialen Zusammenhalt. An Tempelwänden sind Darstellungen von Teilnehmern in extremem Rauschzustand erhalten, was für die normalerweise zurückhaltende ägyptische Kunst selten war. Dieses Fest wurde normalerweise zu Beginn des neuen Jahres gefeiert und symbolisierte Erneuerung und Schutz vor Krankheiten für das kommende Jahr."
+      },
+      {
+        "ru": "Сехмет считалась особенно опасной в жаркие дни и в период засухи, когда болезни распространялись наиболее активно. Египтяне верили, что её гнев мог принести эпидемии (её 'посланники' или 'стрелы'). Археологи обнаружили тысячи амулетов Сехмет, которые носили как защиту от болезней. Особенно популярны были амулеты в форме львиноголовой богини с диском солнца. Жрецы Сехмет совершали особые ритуалы умиротворения в опасные периоды, читая заклинания из 'Книги умиротворения Сехмет', фрагменты которой дошли до нас на папирусах и стенах храмов.",
+        "de": "Sachmet galt als besonders gefährlich an heißen Tagen und in Dürreperioden, wenn sich Krankheiten am aktivsten verbreiteten. Die Ägypter glaubten, dass ihr Zorn Epidemien bringen konnte (ihre 'Boten' oder 'Pfeile'). Archäologen haben Tausende von Sachmet-Amuletten entdeckt, die als Schutz vor Krankheiten getragen wurden. Besonders beliebt waren Amulette in Form der löwenköpfigen Göttin mit Sonnenscheibe. Die Priester der Sachmet führten in gefährlichen Perioden besondere Besänftigungsrituale durch und lasen Beschwörungen aus dem 'Buch der Besänftigung der Sachmet' vor, dessen Fragmente auf Papyri und Tempelwänden erhalten sind."
+      },
+      {
+        "ru": "Многие статуи Сехмет из Карнака имеют надписи с именами фараонов, которые посвящали их богине. Аменхотеп III создал беспрецедентное количество статуй – более 700 – возможно, связывая это с эпидемией чумы, поразившей его царствование. Современные исследования показали, что многие статуи были изготовлены по стандартизированной технологии в специализированных мастерских, что делает их одним из первых примеров 'массового производства' в истории скульптуры. Каждая статуя весит несколько тонн и вырезана из чёрного гранита или диорита. Многие статуи рассеяны по музеям мира, но проект их виртуального воссоединения позволил учёным восстановить первоначальное расположение в храме.",
+        "de": "Viele Sachmet-Statuen aus Karnak tragen Inschriften mit den Namen von Pharaonen, die sie der Göttin weihten. Amenhotep III. schuf eine beispiellose Anzahl von Statuen – über 700 – möglicherweise im Zusammenhang mit einer Pestepidemie während seiner Regierungszeit. Moderne Untersuchungen zeigten, dass viele Statuen nach standardisierter Technologie in spezialisierten Werkstätten hergestellt wurden, was sie zu einem der ersten Beispiele für 'Massenproduktion' in der Geschichte der Bildhauerei macht. Jede Statue wiegt mehrere Tonnen und ist aus schwarzem Granit oder Diorit geschnitzt. Viele Statuen sind über Museen der Welt verstreut, aber ein Projekt ihrer virtuellen Wiedervereinigung ermöglichte es Wissenschaftlern, die ursprüngliche Anordnung im Tempel zu rekonstruieren."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "богини",
+      "Сехмет",
+      "мифология",
+      "мемфисская триада"
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Какой бог был покровителем Фив?",
+    "question_de": "Welcher Gott war der Schutzpatron von Theben?",
+    "answer": "Амон",
+    "answer_de": "Amun",
+    "wrong_answers": [
+      {
+        "ru": "Хнум",
+        "de": "Chnum"
+      },
+      {
+        "ru": "Собек",
+        "de": "Sobek"
+      },
+      {
+        "ru": "Монту",
+        "de": "Month"
+      }
+    ],
+    "explanation": {
+      "ru": "Амон (Амон-Ра) был верховным богом Фив (Уасет по-египетски) и главным божеством египетского пантеона в эпоху Среднего и Нового царств. Его имя означает 'Сокрытый' или 'Невидимый', что отражало его природу как изначальной творческой силы. Первоначально Амон был одним из восьми первичных богов гермопольской Огдоады, но с возвышением Фив при XI и XII династиях он стал главным государственным богом. При XVIII династии, после изгнания гиксосов, Амон слился с солнечным богом Ра, образовав синкретическое божество Амон-Ра, 'царя богов'. Храмовый комплекс Амона в Карнаке стал крупнейшим религиозным сооружением древнего мира, строившимся и расширявшимся на протяжении двух тысячелетий. Жречество Амона накопило огромную власть и богатство, контролируя значительную часть экономики Египта. Амон изображался в виде человека с двумя высокими перьями на короне или в виде барана. Его культ был настолько влиятелен, что даже после завоевания Египта греками Александр Македонский посетил оракул Амона в оазисе Сива, где был провозглашён сыном бога. Эхнатон попытался отменить культ Амона в пользу единого бога Атона, но после его смерти культ Амона был восстановлен с ещё большей силой.",
+      "de": "Amun (Amun-Ra) war der höchste Gott Thebens (auf Ägyptisch Waset) und die Hauptgottheit des ägyptischen Pantheons in der Zeit des Mittleren und Neuen Reiches. Sein Name bedeutet 'Der Verborgene' oder 'Der Unsichtbare', was seine Natur als ursprüngliche Schöpfungskraft widerspiegelte. Ursprünglich war Amun einer der acht primären Götter der hermopolitanischen Ogdoade, aber mit dem Aufstieg Thebens unter der 11. und 12. Dynastie wurde er zum wichtigsten Staatsgott. Unter der 18. Dynastie, nach der Vertreibung der Hyksos, verschmolz Amun mit dem Sonnengott Ra und bildete die synkretistische Gottheit Amun-Ra, 'König der Götter'. Der Tempelkomplex des Amun in Karnak wurde zum größten religiösen Bauwerk der antiken Welt und wurde zwei Jahrtausende lang gebaut und erweitert. Die Priesterschaft des Amun sammelte enorme Macht und Reichtum an und kontrollierte einen erheblichen Teil der ägyptischen Wirtschaft. Amun wurde als Mann mit zwei hohen Federn auf der Krone oder als Widder dargestellt. Sein Kult war so einflussreich, dass selbst nach der Eroberung Ägyptens durch die Griechen Alexander der Große das Orakel des Amun in der Oase Siwa besuchte, wo er zum Sohn des Gottes erklärt wurde. Echnaton versuchte, den Kult des Amun zugunsten des einzigen Gottes Aton abzuschaffen, aber nach seinem Tod wurde der Kult des Amun mit noch größerer Kraft wiederhergestellt."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Храм Карнака был не просто религиозным центром, но и крупнейшим экономическим предприятием древнего мира. В период наивысшего расцвета при Рамсесе III храм владел 2395 квадратными километрами земли, 433 садами, 421 000 голов скота, 65 деревнями, 83 корабля и 81 322 работниками. Верховный жрец Амона обладал властью, сопоставимой с властью фараона. В конце Нового царства жрецы Амона фактически правили Верхним Египтом, основав теократическое государство. Первосвященник Херихор даже принял царские титулы, что отражено в надписях в Карнаке.",
+        "de": "Der Karnak-Tempel war nicht nur ein religiöses Zentrum, sondern auch das größte Wirtschaftsunternehmen der antiken Welt. In der Blütezeit unter Ramses III. besaß der Tempel 2395 Quadratkilometer Land, 433 Gärten, 421.000 Stück Vieh, 65 Dörfer, 83 Schiffe und 81.322 Arbeiter. Der Hohepriester des Amun besaß Macht, die mit der Macht des Pharaos vergleichbar war. Am Ende des Neuen Reiches herrschten die Priester des Amun faktisch über Oberägypten und gründeten einen theokratischen Staat. Der Hohepriester Herihor nahm sogar königliche Titel an, was in Inschriften in Karnak dokumentiert ist."
+      },
+      {
+        "ru": "Культ Амона распространился далеко за пределы Египта. В Нубии (современный Судан) он стал главным богом кушитских царств Напата и Мероэ. Нубийские фараоны XXV династии считали себя избранниками Амона и строили для него храмы и пирамиды в Джебель-Баркале. Особенно интересен храм в Джебель-Баркале, расположенный у священной горы, напоминающей форму короны Амона. Оракул Амона в этом храме играл ключевую роль в легитимации нубийских царей. Даже после потери Египта кушиты продолжали почитать Амона, и его культ в Нубии существовал дольше, чем в самом Египте.",
+        "de": "Der Kult des Amun verbreitete sich weit über Ägypten hinaus. In Nubien (dem heutigen Sudan) wurde er zum Hauptgott der kuschitischen Königreiche Napata und Meroë. Die nubischen Pharaonen der 25. Dynastie betrachteten sich als Auserwählte des Amun und bauten für ihn Tempel und Pyramiden in Jebel Barkal. Besonders interessant ist der Tempel in Jebel Barkal, der am heiligen Berg liegt, der an die Form der Krone des Amun erinnert. Das Orakel des Amun in diesem Tempel spielte eine Schlüsselrolle bei der Legitimierung nubischer Könige. Selbst nach dem Verlust Ägyptens verehrten die Kuschiten weiterhin Amun, und sein Kult existierte in Nubien länger als in Ägypten selbst."
+      },
+      {
+        "ru": "Знаменитый Большой гипостильный зал в Карнаке – одно из величайших архитектурных достижений древности – содержит 134 массивные колонны высотой до 23 метров, покрытые рельефами и надписями. Центральные 12 колонн имеют диаметр 3,5 метра, и наверху каждой могло разместиться около 50 человек. Зал был построен при Сети I и Рамсесе II и занимает площадь около 5000 квадратных метров. Первоначально потолок зала был расписан звёздами, создавая ощущение священного леса, поддерживающего небо. Акустика зала такова, что жрецы могли произносить молитвы и гимны Амону, которые разносились по всему пространству храма, создавая мистическую атмосферу божественного присутствия.",
+        "de": "Die berühmte Große Säulenhalle in Karnak – eine der größten architektonischen Errungenschaften der Antike – enthält 134 massive Säulen mit einer Höhe von bis zu 23 Metern, die mit Reliefs und Inschriften bedeckt sind. Die mittleren 12 Säulen haben einen Durchmesser von 3,5 Metern, und auf jeder konnten etwa 50 Personen Platz finden. Die Halle wurde unter Sethos I. und Ramses II. erbaut und nimmt eine Fläche von etwa 5000 Quadratmetern ein. Ursprünglich war die Decke der Halle mit Sternen bemalt, was das Gefühl eines heiligen Waldes schuf, der den Himmel stützte. Die Akustik der Halle war so, dass die Priester Gebete und Hymnen an Amun sprechen konnten, die sich im gesamten Tempelraum verbreiteten und eine mystische Atmosphäre göttlicher Gegenwart schufen."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "2055 BCE - 30 BCE",
+    "tags": [
+      "боги",
+      "Амон",
+      "Фивы",
+      "Карнак"
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Как называлась жена Амона?",
+    "question_de": "Wie hieß die Frau des Amun?",
+    "answer": "Мут",
+    "answer_de": "Mut",
+    "wrong_answers": [
+      {
+        "ru": "Нут",
+        "de": "Nut"
+      },
+      {
+        "ru": "Тефнут",
+        "de": "Tefnut"
+      },
+      {
+        "ru": "Нехбет",
+        "de": "Nechbet"
+      }
+    ],
+    "explanation": {
+      "ru": "Мут ('Мать') была женой Амона и материнской богиней-царицей в фиванской триаде. Она олицетворяла изначальные воды хаоса Нун, из которых произошла жизнь, и считалась матерью всего сущего. Мут изображалась как женщина с двойной короной Египта (пшент) или как женщина с головой грифа – священной птицы, символизирующей материнскую защиту. Грифы в древнеегипетском представлении были исключительно заботливыми матерями, что делало эту птицу подходящим символом для богини-матери. Культ Мут приобрёл особое значение в Новом царстве, когда царица-супруга фараона становилась 'Супругой бога Амона' (hemet netjer), выполняя важные религиозные функции. Хатшепсут, Тия (мать Эхнатона) и Нефертари были верховными жрицами Мут. Главный храм Мут находился в Карнаке, к югу от большого храма Амона, и был соединён с ним аллеей сфинксов с бараньими головами. Священное озеро в форме полумесяца перед её храмом символизировало первозданные воды творения. В Позднем периоде Мут синкретически отождествлялась с другими богинями-матерями, включая Исиду, Нут и Хатхор.",
+      "de": "Mut ('Mutter') war die Frau des Amun und die mütterliche Königsgöttin in der thebanischen Triade. Sie verkörperte die Urwasser des Chaos Nun, aus denen das Leben entstand, und galt als Mutter alles Existierenden. Mut wurde als Frau mit der Doppelkrone Ägyptens (Pschent) oder als Frau mit Geierkopf dargestellt – dem heiligen Vogel, der mütterlichen Schutz symbolisierte. Geier galten im altägyptischen Verständnis als außerordentlich fürsorgliche Mütter, was diesen Vogel zu einem passenden Symbol für die Muttergöttin machte. Der Kult der Mut gewann im Neuen Reich besondere Bedeutung, als die Königin-Gemahlin des Pharaos zur 'Gemahlin des Gottes Amun' (hemet netjer) wurde und wichtige religiöse Funktionen ausübte. Hatschepsut, Tuja (Mutter von Echnaton) und Nefertari waren Hohepriesterinnen der Mut. Der Haupttempel der Mut befand sich in Karnak, südlich des großen Amun-Tempels, und war mit ihm durch eine Allee von Sphinxen mit Widderköpfen verbunden. Der halbmondförmige heilige See vor ihrem Tempel symbolisierte die Urwasser der Schöpfung. In der Spätzeit wurde Mut synkretistisch mit anderen Muttergöttinnen identifiziert, darunter Isis, Nut und Hathor."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Вокруг храма Мут в Карнаке было установлено более 700 статуй богини Сехмет (по другим подсчётам – до 1000). Это связано с синкретическим отождествлением Мут с Сехмет как проявления её грозного аспекта. Статуи представляли 'умиротворение' опасной богини и размещались парами – одна статуя показывала Сехмет стоящей (активный аспект), другая – сидящей (пассивный аспект). Большинство статуй было создано при Аменхотепе III. Многие из этих статуй сейчас находятся в музеях по всему миру, но археологический проект пытается каталогизировать их все и виртуально 'вернуть' в исходное расположение.",
+        "de": "Um den Mut-Tempel in Karnak herum wurden über 700 Statuen der Göttin Sachmet aufgestellt (nach anderen Berechnungen bis zu 1000). Dies hängt mit der synkretistischen Identifizierung von Mut mit Sachmet als Manifestation ihres furchtbaren Aspekts zusammen. Die Statuen repräsentierten die 'Besänftigung' der gefährlichen Göttin und wurden paarweise platziert – eine Statue zeigte Sachmet stehend (aktiver Aspekt), die andere sitzend (passiver Aspekt). Die meisten Statuen wurden unter Amenhotep III. geschaffen. Viele dieser Statuen befinden sich heute in Museen auf der ganzen Welt, aber ein archäologisches Projekt versucht, sie alle zu katalogisieren und virtuell in ihre ursprüngliche Anordnung 'zurückzubringen'."
+      },
+      {
+        "ru": "Титул 'Супруга бога Амона' (hemet netjer) был не просто почётным. Царица в этой роли выполняла ключевую религиозную функцию: считалось, что она вступает в священный брак с богом Амоном, обеспечивая божественную легитимность царской власти и благополучие страны. Это действо символически воспроизводилось в ритуалах, где царица представляла Мут, а статуя или символ Амона – бога. Особенно могущественным стал этот институт при XVIII династии. Некоторые царицы, такие как Тия (жена Аменхотепа III) и Нефертити, использовали этот титул для получения беспрецедентной политической власти.",
+        "de": "Der Titel 'Gemahlin des Gottes Amun' (hemet netjer) war nicht nur ehrenhaft. Die Königin führte in dieser Rolle eine Schlüsselrolle in der Religion aus: Es wurde angenommen, dass sie eine heilige Ehe mit dem Gott Amun eingeht, die die göttliche Legitimität der königlichen Macht und das Wohlergehen des Landes sichert. Diese Handlung wurde symbolisch in Ritualen reproduziert, bei denen die Königin Mut repräsentierte und eine Statue oder ein Symbol des Amun den Gott darstellte. Besonders mächtig wurde diese Institution unter der 18. Dynastie. Einige Königinnen, wie Tuja (Frau von Amenhotep III.) und Nofretete, nutzten diesen Titel, um beispiellose politische Macht zu erlangen."
+      },
+      {
+        "ru": "Священное озеро перед храмом Мут в Карнаке имеет форму полумесяца и было окружено сотнями статуй Сехмет. Озеро называлось Ишеру и считалось воплощением изначальных вод творения. Жрецы совершали здесь ритуалы очищения, а во время праздников на озере плавали священные ладьи. Археологические раскопки показали, что озеро было соединено каналами с Нилом и имело сложную систему фильтрации воды. На дне озера находили подношения – керамику, фигурки божеств, амулеты, что указывает на то, что паломники бросали их в воду как жертвоприношения богине. В 2004 году на дне озера была обнаружена статуя Тутанхамона.",
+        "de": "Der heilige See vor dem Mut-Tempel in Karnak hat eine Halbmondform und war von Hunderten von Sachmet-Statuen umgeben. Der See hieß Ischeru und galt als Verkörperung der Urwasser der Schöpfung. Die Priester führten hier Reinigungsrituale durch, und während der Feste fuhren heilige Barken auf dem See. Archäologische Ausgrabungen zeigten, dass der See durch Kanäle mit dem Nil verbunden war und ein komplexes Wasserfiltersystem hatte. Auf dem Grund des Sees wurden Opfergaben gefunden – Keramik, Götterfiguren, Amulette, was darauf hinweist, dass Pilger sie als Opfergaben für die Göttin ins Wasser warfen. Im Jahr 2004 wurde auf dem Grund des Sees eine Statue von Tutanchamun entdeckt."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "2055 BCE - 30 BCE",
+    "tags": [
+      "богини",
+      "Мут",
+      "фиванская триада",
+      "царицы"
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Какой бог был сыном Амона?",
+    "question_de": "Welcher Gott war der Sohn des Amun?",
+    "answer": "Хонсу",
+    "answer_de": "Chons",
+    "wrong_answers": [
+      {
+        "ru": "Гор",
+        "de": "Horus"
+      },
+      {
+        "ru": "Анубис",
+        "de": "Anubis"
+      },
+      {
+        "ru": "Тот",
+        "de": "Thot"
+      }
+    ],
+    "explanation": {
+      "ru": "Хонсу ('Странник' или 'Путешественник') был сыном Амона и Мут, завершая фиванскую триаду богов. Он был богом луны, времени и целительства. Его имя отражает движение луны по ночному небу. Хонсу изображался как юноша с лунным диском и полумесяцем на голове, часто с посохом и плетью – символами царской власти, или как мумифицированный человек с лунными атрибутами. Иногда его изображали с головой сокола, подчёркивая связь с Гором. В текстах Среднего царства Хонсу описывается как свирепое божество, помогающее царю побеждать врагов, но в Новом царстве он приобрёл более мирный характер целителя и защитника. Его главный храм в Карнаке, построенный при Рамсесе III, хорошо сохранился и является прекрасным примером храмовой архитектуры Нового царства. На стенах храма изображены сцены из мифа о Хонсу, исцеляющем принцессу иностранного царя. Хонсу также был связан с математикой и астрономией, поскольку лунный календарь играл важную роль в египетской жизни. В греко-римский период Хонсу отождествлялся с Гераклом. В магии Хонсу призывался для защиты от ночных опасностей и злых духов.",
+      "de": "Chons ('Wanderer' oder 'Reisender') war der Sohn von Amun und Mut und vervollständigte die thebanische Triade der Götter. Er war der Gott des Mondes, der Zeit und der Heilung. Sein Name spiegelt die Bewegung des Mondes am Nachthimmel wider. Chons wurde als junger Mann mit Mondscheibe und Mondsichel auf dem Kopf dargestellt, oft mit Stab und Geißel – Symbolen königlicher Macht – oder als mumifizierte Person mit Mondattributen. Manchmal wurde er mit Falkenkopf dargestellt, was die Verbindung zu Horus betonte. In Texten des Mittleren Reiches wird Chons als wilde Gottheit beschrieben, die dem König hilft, Feinde zu besiegen, aber im Neuen Reich nahm er einen friedlicheren Charakter als Heiler und Beschützer an. Sein Haupttempel in Karnak, der unter Ramses III. erbaut wurde, ist gut erhalten und ein hervorragendes Beispiel für die Tempelarchitektur des Neuen Reiches. An den Tempelwänden sind Szenen aus dem Mythos dargestellt, in dem Chons die Prinzessin eines ausländischen Königs heilt. Chons war auch mit Mathematik und Astronomie verbunden, da der Mondkalender eine wichtige Rolle im ägyptischen Leben spielte. In der griechisch-römischen Zeit wurde Chons mit Herakles identifiziert. In der Magie wurde Chons angerufen, um vor nächtlichen Gefahren und bösen Geistern zu schützen."
+    },
+    "interesting_facts": [
+      {
+        "ru": "На стенах храма Хонсу в Карнаке сохранилась надпись о чуде, произошедшем во времена Рамсеса II. Согласно тексту (известному как 'Стела Бентреш'), царь страны Бактан (вероятно, территория современной Сирии) попросил Рамсеса II прислать статую Хонсу для исцеления его дочери принцессы Бентреш, одержимой злым духом. Статуя бога была доставлена, и после длительных ритуалов принцесса исцелилась. Однако царь не хотел отпускать чудотворную статую обратно в Египет и держал её три года и девять месяцев. Только после того как ему приснился сон, в котором Хонсу в виде золотого сокола улетел в Египет, царь отправил статую назад с богатыми дарами.",
+        "de": "An den Wänden des Chons-Tempels in Karnak ist eine Inschrift über ein Wunder erhalten, das zur Zeit Ramses II. geschah. Dem Text zufolge (bekannt als 'Bentresch-Stele') bat der König des Landes Bachtan (wahrscheinlich das Gebiet des heutigen Syrien) Ramses II., eine Statue des Chons zu schicken, um seine Tochter Prinzessin Bentresch zu heilen, die von einem bösen Geist besessen war. Die Statue des Gottes wurde geliefert, und nach langwierigen Ritualen wurde die Prinzessin geheilt. Der König wollte jedoch die wundertätige Statue nicht nach Ägypten zurückschicken und hielt sie drei Jahre und neun Monate. Erst nachdem er einen Traum hatte, in dem Chons in Form eines goldenen Falken nach Ägypten flog, schickte der König die Statue mit reichen Gaben zurück."
+      },
+      {
+        "ru": "Храм Хонсу в Карнаке был построен при Рамсесе III (около 1187-1156 гг. до н.э.) и стал образцом для строительства птолемеевских храмов тысячелетие спустя. Его архитектурный план включал последовательность пилонов, дворов, гипостильных залов и святилища – классическую структуру египетского храма. Внутри сохранились оригинальные раскрашенные рельефы, показывающие фараона, совершающего ритуалы перед Хонсу. Крыша храма была доступна по внутренней лестнице, где жрецы проводили астрономические наблюдения за луной. На потолке изображены астрономические сцены с лунным и солнечным циклами.",
+        "de": "Der Chons-Tempel in Karnak wurde unter Ramses III. (etwa 1187-1156 v. Chr.) erbaut und wurde zum Vorbild für den Bau ptolemäischer Tempel ein Jahrtausend später. Sein architektonischer Plan umfasste eine Abfolge von Pylonen, Höfen, Säulenhallen und Heiligtum – die klassische Struktur eines ägyptischen Tempels. Im Inneren sind originale bemalte Reliefs erhalten, die den Pharao zeigen, der Rituale vor Chons vollzieht. Das Dach des Tempels war über eine interne Treppe zugänglich, wo die Priester astronomische Beobachtungen des Mondes durchführten. An der Decke sind astronomische Szenen mit Mond- und Sonnenzyklen dargestellt."
+      },
+      {
+        "ru": "В Поздний период Хонсу стал особенно популярен как защитник от демонов и злых духов. На многочисленных магических стелах (циппах Гора) изображён младенец Хонсу, топчущий крокодилов и держащий змей и скорпионов – аналогично изображениям Гора-младенца. Эти амулеты использовались для защиты детей. Интересно, что в демотических магических папирусах Хонсу призывается в заклинаниях для изгнания призраков и злых духов, часто в сочетании с другими богами. В одном папирусе сохранилось заклинание: 'Я призываю тебя, Хонсу в Фивах, прекрасный ликом, владыка радости... отгони от N [имя пациента] всех злых мёртвых, всех злых духов...'",
+        "de": "In der Spätzeit wurde Chons besonders als Beschützer vor Dämonen und bösen Geistern beliebt. Auf zahlreichen magischen Stelen (Horus-Zippi) ist der Säugling Chons dargestellt, der Krokodile zertritt und Schlangen und Skorpione hält – ähnlich den Darstellungen des Horus-Kindes. Diese Amulette wurden zum Schutz von Kindern verwendet. Interessanterweise wird Chons in demotischen magischen Papyri in Beschwörungen zur Vertreibung von Geistern und bösen Geistern angerufen, oft in Kombination mit anderen Göttern. In einem Papyrus ist eine Beschwörung erhalten: 'Ich rufe dich an, Chons in Theben, schön von Angesicht, Herr der Freude... vertreibe von N [Name des Patienten] alle bösen Toten, alle bösen Geister...'"
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "2055 BCE - 30 BCE",
+    "tags": [
+      "боги",
+      "Хонсу",
+      "луна",
+      "фиванская триада"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Как называлась фиванская триада богов?",
+    "question_de": "Wie hieß die thebanische Triade der Götter?",
+    "answer": "Амон, Мут, Хонсу",
+    "answer_de": "Amun, Mut, Chons",
+    "wrong_answers": [
+      {
+        "ru": "Осирис, Исида, Гор",
+        "de": "Osiris, Isis, Horus"
+      },
+      {
+        "ru": "Птах, Сехмет, Нефертум",
+        "de": "Ptah, Sachmet, Nefertem"
+      },
+      {
+        "ru": "Ра, Хатхор, Гор",
+        "de": "Ra, Hathor, Horus"
+      }
+    ],
+    "explanation": {
+      "ru": "Фиванская триада состояла из Амона (отец, царь богов), Мут (мать, царица богов) и Хонсу (сын, бог луны). Эта божественная семья стала главной в египетском пантеоне в период Среднего и Нового царств, когда Фивы были столицей Египта. Концепция триад была характерна для египетской теологии – божественная семья из отца, матери и сына символизировала полноту творения и отражала социальную структуру египетского общества. Фиванская триада стала особенно влиятельной после изгнания гиксосов (около 1550 г. до н.э.), когда фиванские правители объединили Египет и основали XVIII династию. Амон-Ра как глава триады считался создателем мира и царём богов, Мут – изначальной матерью и защитницей, а Хонсу – божественным сыном, связывающим поколения. Их культ сосредоточивался в храмовом комплексе Карнака, где каждое божество имело свой храм, соединённый процессионными аллеями. Во время ежегодного праздника Опет священные ладьи с изображениями триады переносили из Карнака в храм Луксора по Нилу или по аллее сфинксов, что символизировало обновление божественной силы фараона. Фиванская триада просуществовала до конца египетской цивилизации, и даже греко-римские правители продолжали поддерживать их культ.",
+      "de": "Die thebanische Triade bestand aus Amun (Vater, König der Götter), Mut (Mutter, Königin der Götter) und Chons (Sohn, Mondgott). Diese göttliche Familie wurde zur Hauptfamilie im ägyptischen Pantheon in der Zeit des Mittleren und Neuen Reiches, als Theben die Hauptstadt Ägyptens war. Das Konzept der Triaden war charakteristisch für die ägyptische Theologie – eine göttliche Familie aus Vater, Mutter und Sohn symbolisierte die Vollständigkeit der Schöpfung und spiegelte die soziale Struktur der ägyptischen Gesellschaft wider. Die thebanische Triade wurde besonders einflussreich nach der Vertreibung der Hyksos (um 1550 v. Chr.), als die thebanischen Herrscher Ägypten vereinten und die 18. Dynastie gründeten. Amun-Ra als Oberhaupt der Triade galt als Schöpfer der Welt und König der Götter, Mut als Urmutter und Beschützerin und Chons als göttlicher Sohn, der Generationen verband. Ihr Kult konzentrierte sich auf den Tempelkomplex von Karnak, wo jede Gottheit ihren eigenen Tempel hatte, der durch Prozessionsalleen verbunden war. Während des jährlichen Opet-Festes wurden heilige Barken mit Bildern der Triade von Karnak zum Luxor-Tempel auf dem Nil oder durch die Sphinxallee getragen, was die Erneuerung der göttlichen Macht des Pharaos symbolisierte. Die thebanische Triade bestand bis zum Ende der ägyptischen Zivilisation, und selbst griechisch-römische Herrscher unterstützten weiterhin ihren Kult."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Праздник Опет был одним из важнейших религиозных событий в Древнем Египте, длившимся от 11 дней при Тутмосе III до 27 дней при Рамсесе III. Процессия начиналась в Карнаке, где священные ладьи Амона, Мут и Хонсу выносили из храмов на плечах жрецов. Ладьи были украшены золотом и драгоценными камнями, а носы и кормы имели форму баранов – священных животных Амона. Путь до Луксора (около 2,5 км) сопровождался музыкой, танцами, воскурением благовоний и жертвоприношениями. Народ получал пиво, хлеб и мясо за счёт храмов. В Луксоре проводился ритуал 'священного брака', который символически обновлял божественную природу царской власти.",
+        "de": "Das Opet-Fest war eines der wichtigsten religiösen Ereignisse im Alten Ägypten und dauerte von 11 Tagen unter Thutmosis III. bis 27 Tage unter Ramses III. Die Prozession begann in Karnak, wo heilige Barken von Amun, Mut und Chons von Priestern auf den Schultern aus den Tempeln getragen wurden. Die Barken waren mit Gold und Edelsteinen geschmückt, und Bug und Heck hatten die Form von Widdern – den heiligen Tieren des Amun. Der Weg nach Luxor (etwa 2,5 km) wurde von Musik, Tänzen, Weihrauchopfern und Opfergaben begleitet. Das Volk erhielt Bier, Brot und Fleisch auf Kosten der Tempel. In Luxor wurde ein Ritual der 'heiligen Hochzeit' durchgeführt, das symbolisch die göttliche Natur der königlichen Macht erneuerte."
+      },
+      {
+        "ru": "Концепция божественных триад была широко распространена в Египте, и каждый крупный религиозный центр имел свою. Мемфисская триада (Птах, Сехмет, Нефертум), абидосская (Осирис, Исида, Гор), гелиопольская (Атум, Шу, Тефнут) – все они отражали локальные теологические традиции. Однако фиванская триада превзошла остальные по политическому и религиозному влиянию из-за могущества Фив. Интересно, что в разные периоды состав триад мог меняться. Например, в раннем Среднем царстве вместо Мут супругой Амона иногда называли богиню Амаунет, а вместо Хонсу – бога войны Монту. Фиксация триады как Амон-Мут-Хонсу произошла при XVIII династии.",
+        "de": "Das Konzept der göttlichen Triaden war in Ägypten weit verbreitet, und jedes große religiöse Zentrum hatte seine eigene. Die memphitische Triade (Ptah, Sachmet, Nefertem), die abydosche (Osiris, Isis, Horus), die heliopolitanische (Atum, Shu, Tefnut) – sie alle spiegelten lokale theologische Traditionen wider. Die thebanische Triade übertraf jedoch die anderen an politischem und religiösem Einfluss aufgrund der Macht von Theben. Interessanterweise konnte sich die Zusammensetzung der Triaden in verschiedenen Perioden ändern. Zum Beispiel wurde im frühen Mittleren Reich anstelle von Mut manchmal die Göttin Amaunet als Gemahlin des Amun genannt, und anstelle von Chons der Kriegsgott Month. Die Fixierung der Triade als Amun-Mut-Chons erfolgte unter der 18. Dynastie."
+      },
+      {
+        "ru": "Археологические раскопки в Луксорском храме обнаружили уникальные свидетельства праздника Опет. На стенах сохранились рельефы, показывающие процессию во всех деталях: музыкантов с систрами и барабанами, танцоров, жертвенных быков, украшенные ладьи на воде и на носилках. В одной сцене изображены нубийские танцоры, выполняющие акробатические трюки. Другая сцена показывает фараона Тутанхамона, совершающего ритуальный бег перед Амоном. Греческий историк Геродот описывал похожие процессии во время своего визита в Египет в V веке до н.э., отмечая, что египтяне были 'самыми религиозными из всех людей' и проводили бесчисленные празднества в честь богов.",
+        "de": "Archäologische Ausgrabungen im Luxor-Tempel haben einzigartige Zeugnisse des Opet-Festes entdeckt. An den Wänden sind Reliefs erhalten, die die Prozession in allen Details zeigen: Musiker mit Sistren und Trommeln, Tänzer, Opferstiere, geschmückte Barken auf dem Wasser und auf Bahren. In einer Szene sind nubische Tänzer dargestellt, die akrobatische Kunststücke aufführen. Eine andere Szene zeigt Pharao Tutanchamun, der einen rituellen Lauf vor Amun vollzieht. Der griechische Historiker Herodot beschrieb ähnliche Prozessionen während seines Besuchs in Ägypten im 5. Jahrhundert v. Chr. und bemerkte, dass die Ägypter 'die religiösesten aller Menschen' seien und unzählige Feste zu Ehren der Götter feierten."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "2055 BCE - 30 BCE",
+    "tags": [
+      "триады",
+      "Фивы",
+      "Амон",
+      "Мут",
+      "Хонсу"
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Какая богиня была матерью Гора?",
+    "question_de": "Welche Göttin war die Mutter des Horus?",
+    "answer": "Исида",
+    "answer_de": "Isis",
+    "wrong_answers": [
+      {
+        "ru": "Нефтида",
+        "de": "Nephthys"
+      },
+      {
+        "ru": "Хатхор",
+        "de": "Hathor"
+      },
+      {
+        "ru": "Нут",
+        "de": "Nut"
+      }
+    ],
+    "explanation": {
+      "ru": "Исида (Асет по-египетски, что означает 'трон' или 'престол') была одной из важнейших богинь египетского пантеона, матерью бога Гора и женой Осириса. Она воплощала идеал преданной жены и заботливой матери. Согласно мифу, после того как её брат и муж Осирис был убит и расчленён злым богом Сетом, Исида отправилась на поиски частей его тела по всему Египту. Она собрала их и с помощью магии временно воскресила Осириса, зачав от него сына Гора. Затем она скрывалась с младенцем в болотах дельты Нила, защищая его от Сета. Исида научила людей искусству плача и оплакивания мёртвых, сельскому хозяйству, ткачеству и медицине. Она изображалась как женщина с троном (иероглиф её имени) на голове или с коровьими рогами и солнечным диском (как Хатхор). Культ Исиды стал необычайно популярным и распространился за пределы Египта в греко-римский период. Храмы Исиды существовали по всей Римской империи, от Британии до Месопотамии. Она была объявлена богиней 'десяти тысяч имён' (myrionymos), отождествлялась со многими местными богинями. Последний действующий храм Исиды на острове Филе был закрыт только в VI веке н.э. по приказу императора Юстиниана, став последним оплотом древнеегипетской религии.",
+      "de": "Isis (auf Ägyptisch Aset, was 'Thron' oder 'Sitz' bedeutet) war eine der wichtigsten Göttinnen des ägyptischen Pantheons, die Mutter des Gottes Horus und die Frau des Osiris. Sie verkörperte das Ideal der treuen Ehefrau und fürsorglichen Mutter. Dem Mythos zufolge machte sich Isis, nachdem ihr Bruder und Ehemann Osiris vom bösen Gott Seth getötet und zerstückelt worden war, auf die Suche nach den Teilen seines Körpers in ganz Ägypten. Sie sammelte sie und erweckte Osiris mit Hilfe von Magie vorübergehend zum Leben und empfing von ihm den Sohn Horus. Dann versteckte sie sich mit dem Kind in den Sümpfen des Nildeltas und schützte ihn vor Seth. Isis lehrte die Menschen die Kunst des Klagens und der Totenklage, die Landwirtschaft, das Weben und die Medizin. Sie wurde als Frau mit einem Thron (das Hieroglyphen-Zeichen ihres Namens) auf dem Kopf oder mit Kuhhörnern und Sonnenscheibe (wie Hathor) dargestellt. Der Isis-Kult wurde außerordentlich beliebt und verbreitete sich in der griechisch-römischen Zeit über Ägypten hinaus. Isis-Tempel existierten im gesamten Römischen Reich, von Britannien bis Mesopotamien. Sie wurde zur Göttin der 'zehntausend Namen' (myrionymos) erklärt und mit vielen lokalen Göttinnen identifiziert. Der letzte aktive Isis-Tempel auf der Insel Philae wurde erst im 6. Jahrhundert n. Chr. auf Befehl von Kaiser Justinian geschlossen und war damit die letzte Bastion der altägyptischen Religion."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Миф об Исиде и Осирисе – одна из самых трогательных историй древнеегипетской мифологии. Плутарх в I веке н.э. записал подробную версию: Сет заманил Осириса в ловушку, заключив в саркофаг и бросив в Нил. Саркофаг приплыл к побережью Финикии (современный Ливан), где дерево выросло вокруг него. Царь Библа срубил дерево и сделал из него колонну для своего дворца. Исида узнала об этом и отправилась в Библ, где стала няней царского младенца. Она раскрыла свою божественную природу, получила колонну с телом Осириса и вернулась в Египет. Но Сет нашёл тело и разрубил его на 14 частей (или 42, по другой версии), разбросав по всему Египту. Исида снова собрала части, кроме фаллоса, который был съеден рыбой оксиринхом.",
+        "de": "Der Mythos von Isis und Osiris ist eine der berührendsten Geschichten der altägyptischen Mythologie. Plutarch schrieb im 1. Jahrhundert n. Chr. eine detaillierte Version auf: Seth lockte Osiris in eine Falle, schloss ihn in einen Sarkophag und warf ihn in den Nil. Der Sarkophag trieb zur Küste Phöniziens (das heutige Libanon), wo ein Baum um ihn herum wuchs. Der König von Byblos fällte den Baum und machte daraus eine Säule für seinen Palast. Isis erfuhr davon und reiste nach Byblos, wo sie die Amme des königlichen Kindes wurde. Sie offenbarte ihre göttliche Natur, erhielt die Säule mit Osiris' Körper und kehrte nach Ägypten zurück. Aber Seth fand den Körper und zerstückelte ihn in 14 Teile (oder 42, nach einer anderen Version), die er in ganz Ägypten verstreute. Isis sammelte die Teile wieder ein, außer dem Phallus, der von einem Oxyrhynchus-Fisch gefressen worden war."
+      },
+      {
+        "ru": "В греко-римский период Исида стала универсальной богиней, ассоциировавшейся с магией, мудростью, материнством, защитой моряков и исцелением. Римский писатель Апулей в 'Метаморфозах' описывает явление Исиды главному герою и её обещание спасения. Храмы Исиды в Риме пользовались огромной популярностью, особенно среди женщин. Её жрецы носили льняные одежды (шерсть считалась нечистой), брили головы и дважды в день совершали ритуальные омовения. Император Калигула был ревностным поклонником Исиды, а Нерон построил ей великолепный храм в Риме. Культ Исиды оказал влияние на раннее христианство: образ Исиды с младенцем Гором на руках мог повлиять на иконографию Девы Марии с Иисусом.",
+        "de": "In der griechisch-römischen Zeit wurde Isis zu einer universellen Göttin, die mit Magie, Weisheit, Mutterschaft, Schutz der Seeleute und Heilung assoziiert wurde. Der römische Schriftsteller Apuleius beschreibt in den 'Metamorphosen' die Erscheinung der Isis vor dem Helden und ihr Heilsversprechen. Isis-Tempel in Rom waren außerordentlich beliebt, besonders bei Frauen. Ihre Priester trugen Leinenkleidung (Wolle galt als unrein), rasierten sich die Köpfe und führten zweimal täglich rituelle Waschungen durch. Kaiser Caligula war ein eifriger Verehrer der Isis, und Nero baute ihr einen prächtigen Tempel in Rom. Der Isis-Kult beeinflusste das frühe Christentum: Das Bild der Isis mit dem Kind Horus auf dem Arm könnte die Ikonographie der Jungfrau Maria mit Jesus beeinflusst haben."
+      },
+      {
+        "ru": "Исида считалась величайшей волшебницей среди богов. Согласно одному мифу, она хитростью выведала тайное имя бога Ра, что дало ей власть над ним. Она создала змею из слюны Ра, смешанной с землёй, и спрятала её на пути бога. Когда змея ужалила Ра, он испытал мучительную боль. Исида предложила исцелить его, но потребовала назвать его тайное истинное имя (рен), знание которого давало магическую власть. Ра сопротивлялся, называя свои многочисленные эпитеты, но боль была нестерпимой. Наконец, он шёпотом сообщил Исиде своё тайное имя, которое она тут же передала Гору, обеспечив ему божественную силу. Этот миф показывает, что даже величайший бог мог быть побеждён хитростью и магией.",
+        "de": "Isis galt als größte Zauberin unter den Göttern. Einem Mythos zufolge erschlich sie sich den geheimen Namen des Gottes Ra, was ihr Macht über ihn gab. Sie erschuf eine Schlange aus Ras Speichel, gemischt mit Erde, und versteckte sie auf dem Weg des Gottes. Als die Schlange Ra biss, erlitt er qualvolle Schmerzen. Isis bot an, ihn zu heilen, forderte aber, dass er seinen geheimen wahren Namen (ren) nenne, dessen Kenntnis magische Macht verlieh. Ra widerstand und nannte seine zahlreichen Beinamen, aber der Schmerz war unerträglich. Schließlich flüsterte er Isis seinen geheimen Namen zu, den sie sofort an Horus weitergab und ihm damit göttliche Kraft sicherte. Dieser Mythos zeigt, dass selbst der größte Gott durch List und Magie besiegt werden konnte."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "богини",
+      "Исида",
+      "Гор",
+      "мифология"
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Кто убил Осириса?",
+    "question_de": "Wer tötete Osiris?",
+    "answer": "Сет",
+    "answer_de": "Seth",
+    "wrong_answers": [
+      {
+        "ru": "Апоп",
+        "de": "Apophis"
+      },
+      {
+        "ru": "Анубис",
+        "de": "Anubis"
+      },
+      {
+        "ru": "Тот",
+        "de": "Thot"
+      }
+    ],
+    "explanation": {
+      "ru": "Сет (Сетх, Сутех) был богом хаоса, пустыни, бурь и насилия, который убил своего брата Осириса из зависти к его власти. Согласно мифу, Сет устроил заговор, изготовив роскошный саркофаг точно по размерам Осириса. Во время пира он объявил, что подарит саркофаг тому, кто точно в него поместится. Когда Осирис лёг в саркофаг, заговорщики захлопнули крышку, запечатали её свинцом и бросили в Нил. Позже, когда Исида воскресила Осириса, Сет разрубил его тело на части. Это убийство стало центральным событием египетской мифологии, символизирующим вечную борьбу порядка (маат) и хаоса (исфет). Сет изображался как существо с длинной мордой, квадратными ушами и раздвоенным хвостом – это животное (называемое 'животное Сета') не поддаётся точной идентификации, возможно, это стилизованный трубкозуб, окапи или вымершее животное. Несмотря на негативную роль убийцы, Сет не был абсолютно злым богом в египетской теологии. Он защищал ладью бога Ра от змея Апопа в подземном мире, олицетворял мощь фараона в битве. Некоторые фараоны (особенно гиксосы и цари XIX династии) почитали Сета как своего покровителя. Рамсес II назвал одного из своих сыновей Сети ('принадлежащий Сету'). В Позднем периоде Сет был демонизирован, особенно после изгнания гиксосов, которые почитали его.",
+      "de": "Seth (Setekh, Sutekh) war der Gott des Chaos, der Wüste, der Stürme und der Gewalt, der seinen Bruder Osiris aus Neid auf seine Macht tötete. Dem Mythos zufolge schmiedete Seth eine Verschwörung und fertigte einen luxuriösen Sarkophag genau nach den Maßen des Osiris an. Während eines Festes verkündete er, dass er den Sarkophag demjenigen schenken würde, der genau hineinpasse. Als Osiris sich in den Sarkophag legte, schlossen die Verschwörer den Deckel, versiegelten ihn mit Blei und warfen ihn in den Nil. Später, als Isis Osiris wiederbelebte, zerstückelte Seth seinen Körper. Dieser Mord wurde zum zentralen Ereignis der ägyptischen Mythologie und symbolisierte den ewigen Kampf zwischen Ordnung (Maat) und Chaos (Isfet). Seth wurde als Wesen mit langer Schnauze, quadratischen Ohren und gegabeltem Schwanz dargestellt – dieses Tier (genannt 'Seth-Tier') lässt sich nicht genau identifizieren, möglicherweise ist es ein stilisiertes Erdferkel, Okapi oder ausgestorbenes Tier. Trotz seiner negativen Rolle als Mörder war Seth in der ägyptischen Theologie kein absolut böser Gott. Er schützte die Barke des Gottes Ra vor der Schlange Apophis in der Unterwelt und verkörperte die Macht des Pharaos in der Schlacht. Einige Pharaonen (besonders die Hyksos und Könige der 19. Dynastie) verehrten Seth als ihren Schutzpatron. Ramses II. nannte einen seiner Söhne Sethi ('zu Seth gehörend'). In der Spätzeit wurde Seth dämonisiert, besonders nach der Vertreibung der Hyksos, die ihn verehrten."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Отношение к Сету менялось на протяжении египетской истории. В Раннединастический период и Древнее царство он был почитаемым богом, защитником порядка. Во II династии один из фараонов носил имя Перибсен и заменил сокола Гора на своей серех животным Сета – единственный такой случай в египетской истории. При гиксосах (XV-XVI династии), которые отождествляли Сета со своим богом Баалом, культ Сета процветал в Аварисе. После изгнания гиксосов Сет стал ассоциироваться с иноземными врагами. В Позднем периоде его имя и изображения систематически уничтожались – процесс, называемый damnatio memoriae. На многих памятниках фигуру Сета вырубали или заменяли на нейтральные символы.",
+        "de": "Die Haltung gegenüber Seth änderte sich im Laufe der ägyptischen Geschichte. In der Frühdynastischen Zeit und im Alten Reich war er ein verehrter Gott und Beschützer der Ordnung. In der 2. Dynastie trug ein Pharao den Namen Peribsen und ersetzte den Horus-Falken auf seinem Serech durch das Seth-Tier – der einzige solche Fall in der ägyptischen Geschichte. Unter den Hyksos (15.-16. Dynastie), die Seth mit ihrem Gott Baal identifizierten, blühte der Seth-Kult in Avaris. Nach der Vertreibung der Hyksos wurde Seth mit ausländischen Feinden assoziiert. In der Spätzeit wurden sein Name und seine Darstellungen systematisch zerstört – ein Prozess, der damnatio memoriae genannt wird. Auf vielen Denkmälern wurde die Figur des Seth herausgemeißelt oder durch neutrale Symbole ersetzt."
+      },
+      {
+        "ru": "Конфликт между Гором и Сетом после смерти Осириса стал предметом целого цикла мифов. Согласно папирусу Честера Битти I (датируется XX династией), суд богов длился 80 лет, решая, кто должен наследовать трон Осириса. Сет претендовал на трон по праву силы и старшинства, Гор – как законный сын Осириса. Боги были разделены: Ра поддерживал Сета, Исида – Гора. Состоялось множество состязаний, включая превращение в гиппопотамов, строительство каменных кораблей (Сет схитрил, построив корабль из дерева и покрыв его краской под камень), и даже сексуальное состязание, где Сет пытался унизить Гора. В конце концов Осирис из загробного мира пригрозил, что пошлёт демонов пожирать сердца богов, если Гора не признают царём. Суд решил в пользу Гора, Сет был изгнан в пустыню.",
+        "de": "Der Konflikt zwischen Horus und Seth nach Osiris' Tod wurde zum Gegenstand eines ganzen Mythen-Zyklus. Dem Papyrus Chester Beatty I zufolge (datiert auf die 20. Dynastie) dauerte das Gericht der Götter 80 Jahre, um zu entscheiden, wer den Thron des Osiris erben sollte. Seth beanspruchte den Thron kraft seiner Stärke und seines Alters, Horus als rechtmäßiger Sohn des Osiris. Die Götter waren gespalten: Ra unterstützte Seth, Isis unterstützte Horus. Es fanden viele Wettbewerbe statt, darunter die Verwandlung in Nilpferde, der Bau von Steinschiffen (Seth täuschte, indem er ein Schiff aus Holz baute und es mit Farbe als Stein tarnte) und sogar ein sexueller Wettbewerb, bei dem Seth versuchte, Horus zu demütigen. Schließlich drohte Osiris aus der Unterwelt, dass er Dämonen schicken würde, um die Herzen der Götter zu fressen, wenn Horus nicht als König anerkannt würde. Das Gericht entschied zugunsten von Horus, Seth wurde in die Wüste verbannt."
+      },
+      {
+        "ru": "Животное Сета остаётся загадкой египтологии. Существует множество теорий о его идентификации: окапи (хотя это африканское животное неизвестно в Египте), стилизованный трубкозуб, шакал, осёл, муравьед, салюки, или даже вымерший вид. Некоторые учёные предполагают, что это полностью мифическое существо, не имеющее реального прототипа. Характерные черты – длинная изогнутая морда, прямоугольные уши и раздвоенный хвост с кисточкой – не соответствуют ни одному известному животному. Интересно, что животное Сета иногда использовалось как иероглиф для написания слов, связанных с беспорядком, смятением и яростью. В текстах Среднего царства встречается фраза 'рычать как животное Сета', описывающая гнев.",
+        "de": "Das Seth-Tier bleibt ein Rätsel der Ägyptologie. Es gibt viele Theorien zu seiner Identifizierung: Okapi (obwohl dieses afrikanische Tier in Ägypten unbekannt ist), stilisiertes Erdferkel, Schakal, Esel, Ameisenbär, Saluki oder sogar eine ausgestorbene Art. Einige Wissenschaftler vermuten, dass es ein völlig mythisches Wesen ist, das keinen realen Prototyp hat. Die charakteristischen Merkmale – lange gebogene Schnauze, rechteckige Ohren und gegabelter Schwanz mit Quaste – entsprechen keinem bekannten Tier. Interessanterweise wurde das Seth-Tier manchmal als Hieroglyphe für Wörter verwendet, die mit Unordnung, Verwirrung und Wut zu tun haben. In Texten des Mittleren Reiches findet sich die Phrase 'brüllen wie das Seth-Tier', die Zorn beschreibt."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "боги",
+      "Сет",
+      "Осирис",
+      "мифология"
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Кто воскресила Осириса?",
+    "question_de": "Wer erweckte Osiris wieder zum Leben?",
+    "answer": "Исида",
+    "answer_de": "Isis",
+    "wrong_answers": [
+      {
+        "ru": "Тот",
+        "de": "Thot"
+      },
+      {
+        "ru": "Анубис",
+        "de": "Anubis"
+      },
+      {
+        "ru": "Хатхор",
+        "de": "Hathor"
+      }
+    ],
+    "explanation": {
+      "ru": "Исида воскресила своего мужа Осириса с помощью магии после того, как он был убит Сетом. Это один из центральных мифов египетской религии, символизирующий победу жизни над смертью. После того как Исида нашла тело Осириса в Библе и вернула его в Египет, Сет снова напал на тело, разрубив его на части и разбросав по всему Египту. Исида, вместе со своей сестрой Нефтидой, обошла всю страну, собирая части тела Осириса. Согласно различным версиям мифа, тело было разрублено на 14 или 42 части. Исида нашла все части, кроме фаллоса, который был съеден рыбой оксиринхом (поэтому эту рыбу в некоторых регионах Египта было запрещено есть). Исида использовала свою магию, чтобы временно воскресить Осириса. Она превратилась в самку коршуна (или использовала крылья), создавая ветер взмахами крыльев, чтобы вдохнуть жизнь в Осириса. В этот момент она зачала от него сына Гора. Анубис, бог бальзамирования, помог Исиде забальзамировать тело Осириса, сделав его первой мумией. Осирис не вернулся в мир живых, но стал царём и судьёй мёртвых в Дуате (египетском загробном мире). Этот миф установил прецедент мумификации и веру в воскресение после смерти, центральные концепции египетской религии. Каждый умерший египтянин надеялся повторить путь Осириса: умереть, быть мумифицированным и воскреснуть в загробном мире.",
+      "de": "Isis erweckte ihren Mann Osiris mit Hilfe von Magie wieder zum Leben, nachdem er von Seth getötet worden war. Dies ist einer der zentralen Mythen der ägyptischen Religion und symbolisiert den Sieg des Lebens über den Tod. Nachdem Isis Osiris' Körper in Byblos gefunden und nach Ägypten zurückgebracht hatte, griff Seth den Körper erneut an, zerstückelte ihn und verstreute die Teile in ganz Ägypten. Isis durchquerte zusammen mit ihrer Schwester Nephthys das ganze Land und sammelte die Teile von Osiris' Körper. Verschiedenen Versionen des Mythos zufolge wurde der Körper in 14 oder 42 Teile zerstückelt. Isis fand alle Teile außer dem Phallus, der von einem Oxyrhynchus-Fisch gefressen wurde (daher war es in einigen Regionen Ägyptens verboten, diesen Fisch zu essen). Isis nutzte ihre Magie, um Osiris vorübergehend wiederzubeleben. Sie verwandelte sich in einen weiblichen Milan (oder benutzte Flügel) und erzeugte durch Flügelschläge Wind, um Osiris Leben einzuhauchen. In diesem Moment empfing sie von ihm den Sohn Horus. Anubis, der Gott der Einbalsamierung, half Isis, Osiris' Körper einzubalsamieren und machte ihn zur ersten Mumie. Osiris kehrte nicht in die Welt der Lebenden zurück, sondern wurde König und Richter der Toten in der Duat (ägyptischen Unterwelt). Dieser Mythos etablierte den Präzedenzfall der Mumifizierung und den Glauben an die Auferstehung nach dem Tod, zentrale Konzepte der ägyptischen Religion. Jeder verstorbene Ägypter hoffte, den Weg des Osiris zu wiederholen: zu sterben, mumifiziert zu werden und in der Unterwelt aufzuerstehen."
+    },
+    "interesting_facts": [
+      {
+        "ru": "Согласно Плутарху, Исида нашла 13 частей тела Осириса и в каждом месте, где нашла часть, основала храм или святилище. Это объясняет, почему во многих городах Египта существовали 'гробницы Осириса' и претензии на обладание частью его тела. Абидос считался местом захоронения головы Осириса и стал главным центром его культа. Тысячи паломников посещали Абидос, надеясь быть похороненными рядом с богом или хотя бы оставить там стелу со своим именем. Другие важные места включали Бусирис (позвоночник), остров Бигге близ Филе (левая нога), Гераклеополь Магна (бедро). Это создало сеть священных мест по всему Египту, объединённых культом Осириса.",
+        "de": "Plutarch zufolge fand Isis 13 Teile von Osiris' Körper und gründete an jedem Ort, wo sie ein Teil fand, einen Tempel oder ein Heiligtum. Dies erklärt, warum es in vielen Städten Ägyptens 'Gräber des Osiris' gab und Ansprüche auf den Besitz eines Teils seines Körpers. Abydos galt als Begräbnisort des Kopfes von Osiris und wurde zum Hauptzentrum seines Kultes. Tausende von Pilgern besuchten Abydos in der Hoffnung, neben dem Gott begraben zu werden oder zumindest eine Stele mit ihrem Namen dort zu hinterlassen. Andere wichtige Orte waren Busiris (Wirbelsäule), die Insel Bigge bei Philae (linkes Bein), Herakleopolis Magna (Oberschenkel). Dies schuf ein Netzwerk heiliger Orte in ganz Ägypten, vereint durch den Osiris-Kult."
+      },
+      {
+        "ru": "Воскрешение Осириса изображено в 'Мистериях Осириса' – ежегодном религиозном празднике, проводившемся в Абидосе. Жрецы разыгрывали драму смерти, поиска, воскрешения и триумфа Осириса. Процессия включала 34 эпизода, от убийства Сета до коронации Гора. Тысячи людей участвовали как актёры и зрители. Особенно драматичной была сцена 'Великой битвы', где сторонники Гора и Сета сражались, символически воспроизводя космическую борьбу добра и зла. Победа Гора означала обновление порядка и гарантировала плодородие земли на следующий год. Папирус Ихернофрета (Среднее царство) содержит описание обязанностей организатора этих мистерий.",
+        "de": "Die Auferstehung des Osiris wurde in den 'Osiris-Mysterien' dargestellt – einem jährlichen religiösen Fest in Abydos. Priester führten das Drama von Osiris' Tod, Suche, Auferstehung und Triumph auf. Die Prozession umfasste 34 Episoden, vom Mord durch Seth bis zur Krönung des Horus. Tausende Menschen nahmen als Schauspieler und Zuschauer teil. Besonders dramatisch war die Szene der 'Großen Schlacht', in der Anhänger von Horus und Seth kämpften und symbolisch den kosmischen Kampf zwischen Gut und Böse nachstellten. Der Sieg des Horus bedeutete die Erneuerung der Ordnung und garantierte die Fruchtbarkeit des Landes für das nächste Jahr. Der Papyrus Ikhernofret (Mittleres Reich) enthält eine Beschreibung der Pflichten des Organisators dieser Mysterien."
+      },
+      {
+        "ru": "Магическая сила Исиды была настолько велика, что её заклинания использовались в египетской медицине на протяжении тысячелетий. Папирусы содержат 'Заклинания Исиды' для лечения различных болезней, особенно укусов скорпионов и змей. Логика была проста: если Исида смогла воскресить мёртвого бога, она может исцелить любую болезнь. Формула заклинания часто начиналась: 'Я – Исида, великая волшебница'. Больной отождествлялся с Гором, а болезнь – с врагами, которых Исида побеждала своей магией. В одном из заклинаний Исида обращается к яду: 'Выйди из N [имя больного], упади на землю! Ибо я – Исида-волшебница, и Гор мой сын, и мои слова сильны против всех ядов'.",
+        "de": "Die magische Kraft der Isis war so groß, dass ihre Beschwörungen in der ägyptischen Medizin über Jahrtausende verwendet wurden. Papyri enthalten 'Isis-Beschwörungen' zur Behandlung verschiedener Krankheiten, besonders von Skorpion- und Schlangenbissen. Die Logik war einfach: Wenn Isis einen toten Gott wiederbeleben konnte, kann sie jede Krankheit heilen. Die Beschwörungsformel begann oft: 'Ich bin Isis, die große Zauberin'. Der Kranke wurde mit Horus identifiziert und die Krankheit mit Feinden, die Isis mit ihrer Magie besiegte. In einer der Beschwörungen wendet sich Isis an das Gift: 'Komm heraus aus N [Name des Kranken], fall auf den Boden! Denn ich bin Isis die Zauberin, und Horus ist mein Sohn, und meine Worte sind stark gegen alle Gifte'."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Египет",
+    "type": "mythology",
+    "period": "3100 BCE - 30 BCE",
+    "tags": [
+      "богини",
+      "Исида",
+      "Осирис",
+      "воскрешение",
+      "мифология"
+    ]
+  }
+]

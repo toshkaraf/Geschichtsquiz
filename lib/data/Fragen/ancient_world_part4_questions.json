@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 601,
+    "question": "Какая династия объединила Китай в 221 году до н.э.?",
+    "answer": "Династия Цинь",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "221 BCE",
+    "tags": [
+      "династии",
+      "объединение"
+    ]
+  },
+  {
+    "id": 602,
+    "question": "Кто был основателем династии Цинь?",
+    "answer": "Цинь Шихуанди",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "221 BCE",
+    "tags": [
+      "императоры",
+      "основатели"
+    ]
+  },
+  {
+    "id": 603,
+    "question": "Какая древняя цивилизация изобрела бумагу?",
+    "answer": "Древний Китай",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "105 CE",
+    "tags": [
+      "изобретения",
+      "бумага"
+    ]
+  },
+  {
+    "id": 604,
+    "question": "В каком году была изобретена бумага?",
+    "answer": "105 год н.э.",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "date",
+    "period": "105 CE",
+    "tags": [
+      "изобретения",
+      "даты"
+    ]
+  },
+  {
+    "id": 605,
+    "question": "Кто изобрёл бумагу?",
+    "answer": "Цай Лунь",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "105 CE",
+    "tags": [
+      "изобретатели",
+      "имена"
+    ]
+  },
+  {
+    "id": 606,
+    "question": "Какая династия правила после Цинь?",
+    "answer": "Династия Хань",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "206 BCE",
+    "tags": [
+      "династии",
+      "последовательность"
+    ]
+  },
+  {
+    "id": 607,
+    "question": "В каком году началась династия Хань?",
+    "answer": "206 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "date",
+    "period": "206 BCE",
+    "tags": [
+      "династии",
+      "даты"
+    ]
+  },
+  {
+    "id": 608,
+    "question": "Какой философ основал конфуцианство?",
+    "answer": "Конфуций",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "551 BCE",
+    "tags": [
+      "философия",
+      "основатели"
+    ]
+  },
+  {
+    "id": 609,
+    "question": "Когда жил Конфуций?",
+    "answer": "551-479 годы до н.э.",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "date",
+    "period": "551 BCE",
+    "tags": [
+      "философы",
+      "даты"
+    ]
+  },
+  {
+    "id": 610,
+    "question": "Какой философ основал даосизм?",
+    "answer": "Лао-цзы",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "философия",
+      "основатели"
+    ]
+  },
+  {
+    "id": 611,
+    "question": "Как называется главная книга даосизма?",
+    "answer": "Дао дэ цзин",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "философия",
+      "тексты"
+    ]
+  },
+  {
+    "id": 612,
+    "question": "Когда началось строительство Великой стены?",
+    "answer": "7 век до н.э.",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "date",
+    "period": "7th century BCE",
+    "tags": [
+      "архитектура",
+      "стены"
+    ]
+  },
+  {
+    "id": 613,
+    "question": "Какая династия объединила участки стены?",
+    "answer": "Династия Цинь",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "221 BCE",
+    "tags": [
+      "стены",
+      "строительство"
+    ]
+  },
+  {
+    "id": 614,
+    "question": "Какой длины Великая стена?",
+    "answer": "Около 21 000 км",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "3rd century BCE",
+    "tags": [
+      "стены",
+      "размеры"
+    ]
+  },
+  {
+    "id": 615,
+    "question": "Для чего строили Великую стену?",
+    "answer": "Защита от кочевников",
+    "difficulty": "easy",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "7th century BCE",
+    "tags": [
+      "оборона",
+      "цели"
+    ]
+  },
+  {
+    "id": 616,
+    "question": "Какая древняя китайская религия?",
+    "answer": "Даосизм и конфуцианство",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "религия",
+      "учения"
+    ]
+  },
+  {
+    "id": 617,
+    "question": "Какой материал изобрели в Китае?",
+    "answer": "Порцелан (фарфор)",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "620 CE",
+    "tags": [
+      "изобретения",
+      "материалы"
+    ]
+  },
+  {
+    "id": 618,
+    "question": "Что ещё изобрели древние китайцы?",
+    "answer": "Порох, компас, книгопечатание",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "9th century CE",
+    "tags": [
+      "изобретения",
+      "технологии"
+    ]
+  },
+  {
+    "id": 619,
+    "question": "Когда изобрели порох?",
+    "answer": "9 век н.э.",
+    "difficulty": "hard",
+    "category": "Древний Китай",
+    "type": "date",
+    "period": "9th century CE",
+    "tags": [
+      "изобретения",
+      "даты"
+    ]
+  },
+  {
+    "id": 620,
+    "question": "Для чего сначала использовали порох?",
+    "answer": "Фейерверки и медицина",
+    "difficulty": "medium",
+    "category": "Древний Китай",
+    "type": "factual",
+    "period": "9th century CE",
+    "tags": [
+      "порох",
+      "применение"
+    ]
+  },
+  {
+    "id": 621,
+    "question": "Кто был основателем Персидской империи?",
+    "answer": "Кир II Великий",
+    "difficulty": "medium",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "550 BCE",
+    "tags": [
+      "правители",
+      "основатели"
+    ]
+  },
+  {
+    "id": 622,
+    "question": "В каком году основана Персидская империя?",
+    "answer": "550 год до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Персия",
+    "type": "date",
+    "period": "550 BCE",
+    "tags": [
+      "империи",
+      "основание"
+    ]
+  },
+  {
+    "id": 623,
+    "question": "Как называлась столица Персии?",
+    "answer": "Персеполь",
+    "difficulty": "hard",
+    "category": "Древняя Персия",
+    "type": "geography",
+    "period": "515 BCE",
+    "tags": [
+      "столицы",
+      "города"
+    ]
+  },
+  {
+    "id": 624,
+    "question": "Кто построил Персеполь?",
+    "answer": "Дарий I",
+    "difficulty": "medium",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "515 BCE",
+    "tags": [
+      "правители",
+      "строительство"
+    ]
+  },
+  {
+    "id": 625,
+    "question": "Какая религия была в Персии?",
+    "answer": "Зороастризм",
+    "difficulty": "medium",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "религия",
+      "учения"
+    ]
+  },
+  {
+    "id": 626,
+    "question": "Кто основал зороастризм?",
+    "answer": "Заратустра (Зороастр)",
+    "difficulty": "medium",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "религия",
+      "основатели"
+    ]
+  },
+  {
+    "id": 627,
+    "question": "Как называлась священная книга?",
+    "answer": "Авеста",
+    "difficulty": "hard",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "6th century BCE",
+    "tags": [
+      "религия",
+      "тексты"
+    ]
+  },
+  {
+    "id": 628,
+    "question": "Кто был верховным богом?",
+    "answer": "Ахура Мазда",
+    "difficulty": "medium",
+    "category": "Древняя Персия",
+    "type": "mythology",
+    "period": "6th century BCE",
+    "tags": [
+      "боги",
+      "религия"
+    ]
+  },
+  {
+    "id": 629,
+    "question": "Кто был богом зла?",
+    "answer": "Ангра-Майнью (Ариман)",
+    "difficulty": "hard",
+    "category": "Древняя Персия",
+    "type": "mythology",
+    "period": "6th century BCE",
+    "tags": [
+      "боги",
+      "зло"
+    ]
+  },
+  {
+    "id": 630,
+    "question": "Какая династия правила Персией?",
+    "answer": "Ахемениды",
+    "difficulty": "hard",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "550 BCE",
+    "tags": [
+      "династии",
+      "правители"
+    ]
+  },
+  {
+    "id": 631,
+    "question": "Кто завоевал Персию?",
+    "answer": "Александр Македонский",
+    "difficulty": "easy",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "330 BCE",
+    "tags": [
+      "завоевания",
+      "конец"
+    ]
+  },
+  {
+    "id": 632,
+    "question": "В каком году пала Персия?",
+    "answer": "330 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Персия",
+    "type": "date",
+    "period": "330 BCE",
+    "tags": [
+      "падение",
+      "даты"
+    ]
+  },
+  {
+    "id": 633,
+    "question": "Как называлась персидская дорога?",
+    "answer": "Царская дорога",
+    "difficulty": "medium",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "дороги",
+      "инфраструктура"
+    ]
+  },
+  {
+    "id": 634,
+    "question": "Какой длины была Царская дорога?",
+    "answer": "Около 2500 км",
+    "difficulty": "hard",
+    "category": "Древняя Персия",
+    "type": "factual",
+    "period": "5th century BCE",
+    "tags": [
+      "дороги",
+      "размеры"
+    ]
+  },
+  {
+    "id": 635,
+    "question": "Что соединяла Царская дорога?",
+    "answer": "Сарды и Сузы",
+    "difficulty": "hard",
+    "category": "Древняя Персия",
+    "type": "geography",
+    "period": "5th century BCE",
+    "tags": [
+      "дороги",
+      "города"
+    ]
+  },
+  {
+    "id": 636,
+    "question": "Какая цивилизация в долине Инда?",
+    "answer": "Хараппская цивилизация",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "2600 BCE",
+    "tags": [
+      "цивилизации",
+      "Индия"
+    ]
+  },
+  {
+    "id": 637,
+    "question": "Какой город был центром?",
+    "answer": "Мохенджо-Даро",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "geography",
+    "period": "2600 BCE",
+    "tags": [
+      "города",
+      "центры"
+    ]
+  },
+  {
+    "id": 638,
+    "question": "Когда возникла хараппская цивилизация?",
+    "answer": "2600-1900 годы до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Индия",
+    "type": "date",
+    "period": "2600 BCE",
+    "tags": [
+      "цивилизации",
+      "даты"
+    ]
+  },
+  {
+    "id": 639,
+    "question": "Какую письменность использовали?",
+    "answer": "Хараппское письмо",
+    "difficulty": "hard",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "2600 BCE",
+    "tags": [
+      "письменность",
+      "нерасшифрованное"
+    ]
+  },
+  {
+    "id": 640,
+    "question": "Расшифровано ли хараппское письмо?",
+    "answer": "Нет, до сих пор не расшифровано",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "2600 BCE",
+    "tags": [
+      "письменность",
+      "загадки"
+    ]
+  },
+  {
+    "id": 641,
+    "question": "Какая религия возникла в Индии?",
+    "answer": "Индуизм и буддизм",
+    "difficulty": "easy",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "религия",
+      "учения"
+    ]
+  },
+  {
+    "id": 642,
+    "question": "Кто основал буддизм?",
+    "answer": "Будда Гаутама",
+    "difficulty": "easy",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "563 BCE",
+    "tags": [
+      "религия",
+      "основатели"
+    ]
+  },
+  {
+    "id": 643,
+    "question": "Когда жил Будда?",
+    "answer": "563-483 годы до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "date",
+    "period": "563 BCE",
+    "tags": [
+      "религия",
+      "даты"
+    ]
+  },
+  {
+    "id": 644,
+    "question": "Где родился Будда?",
+    "answer": "Лумбини (Непал)",
+    "difficulty": "hard",
+    "category": "Древняя Индия",
+    "type": "geography",
+    "period": "563 BCE",
+    "tags": [
+      "религия",
+      "места"
+    ]
+  },
+  {
+    "id": 645,
+    "question": "Под каким деревом достиг просветления?",
+    "answer": "Под деревом Бодхи",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "528 BCE",
+    "tags": [
+      "религия",
+      "события"
+    ]
+  },
+  {
+    "id": 646,
+    "question": "Как называются священные тексты индуизма?",
+    "answer": "Веды",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "религия",
+      "тексты"
+    ]
+  },
+  {
+    "id": 647,
+    "question": "Сколько Вед?",
+    "answer": "Четыре",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "религия",
+      "количество"
+    ]
+  },
+  {
+    "id": 648,
+    "question": "Какая самая древняя Веда?",
+    "answer": "Ригведа",
+    "difficulty": "hard",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "религия",
+      "тексты"
+    ]
+  },
+  {
+    "id": 649,
+    "question": "Какая система деления общества?",
+    "answer": "Касты (варны)",
+    "difficulty": "easy",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "общество",
+      "структура"
+    ]
+  },
+  {
+    "id": 650,
+    "question": "Сколько основных каст?",
+    "answer": "Четыре",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "касты",
+      "количество"
+    ]
+  },
+  {
+    "id": 651,
+    "question": "Какая высшая каста?",
+    "answer": "Брахманы (жрецы)",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "касты",
+      "иерархия"
+    ]
+  },
+  {
+    "id": 652,
+    "question": "Какая вторая каста?",
+    "answer": "Кшатрии (воины)",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "касты",
+      "иерархия"
+    ]
+  },
+  {
+    "id": 653,
+    "question": "Какая третья каста?",
+    "answer": "Вайшьи (торговцы)",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "касты",
+      "иерархия"
+    ]
+  },
+  {
+    "id": 654,
+    "question": "Какая четвёртая каста?",
+    "answer": "Шудры (слуги)",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "касты",
+      "иерархия"
+    ]
+  },
+  {
+    "id": 655,
+    "question": "Как называли неприкасаемых?",
+    "answer": "Чандалы или далиты",
+    "difficulty": "hard",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "касты",
+      "изгои"
+    ]
+  },
+  {
+    "id": 656,
+    "question": "Какая династия объединила Индию?",
+    "answer": "Династия Маурьев",
+    "difficulty": "hard",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "322 BCE",
+    "tags": [
+      "династии",
+      "объединение"
+    ]
+  },
+  {
+    "id": 657,
+    "question": "Кто был великим императором Маурьев?",
+    "answer": "Ашока",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "268 BCE",
+    "tags": [
+      "правители",
+      "императоры"
+    ]
+  },
+  {
+    "id": 658,
+    "question": "В какую религию обратился Ашока?",
+    "answer": "Буддизм",
+    "difficulty": "medium",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "260 BCE",
+    "tags": [
+      "религия",
+      "обращение"
+    ]
+  },
+  {
+    "id": 659,
+    "question": "Что построил Ашока?",
+    "answer": "Ступы и колонны с эдиктами",
+    "difficulty": "hard",
+    "category": "Древняя Индия",
+    "type": "factual",
+    "period": "250 BCE",
+    "tags": [
+      "архитектура",
+      "памятники"
+    ]
+  },
+  {
+    "id": 660,
+    "question": "Какая цивилизация построила Мачу-Пикчу?",
+    "answer": "Инки",
+    "difficulty": "easy",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "15th century CE",
+    "tags": [
+      "архитектура",
+      "города"
+    ]
+  },
+  {
+    "id": 661,
+    "question": "Где находится Мачу-Пикчу?",
+    "answer": "Перу, Анды",
+    "difficulty": "easy",
+    "category": "Древняя Америка",
+    "type": "geography",
+    "period": "15th century CE",
+    "tags": [
+      "города",
+      "места"
+    ]
+  },
+  {
+    "id": 662,
+    "question": "Когда построен Мачу-Пикчу?",
+    "answer": "15 век н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "date",
+    "period": "15th century CE",
+    "tags": [
+      "строительство",
+      "даты"
+    ]
+  },
+  {
+    "id": 663,
+    "question": "Какая столица инков?",
+    "answer": "Куско",
+    "difficulty": "easy",
+    "category": "Древняя Америка",
+    "type": "geography",
+    "period": "13th century CE",
+    "tags": [
+      "столицы",
+      "города"
+    ]
+  },
+  {
+    "id": 664,
+    "question": "Какая система письма у инков?",
+    "answer": "Кипу (узелковое)",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "письменность",
+      "системы"
+    ]
+  },
+  {
+    "id": 665,
+    "question": "Что такое кипу?",
+    "answer": "Узелковая система записи",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "definition",
+    "period": "13th century CE",
+    "tags": [
+      "письменность",
+      "термины"
+    ]
+  },
+  {
+    "id": 666,
+    "question": "Какая система дорог у инков?",
+    "answer": "Капак-Ньян",
+    "difficulty": "hard",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "дороги",
+      "инфраструктура"
+    ]
+  },
+  {
+    "id": 667,
+    "question": "Какой длины дороги инков?",
+    "answer": "Около 40 000 км",
+    "difficulty": "hard",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "13th century CE",
+    "tags": [
+      "дороги",
+      "размеры"
+    ]
+  },
+  {
+    "id": 668,
+    "question": "Какая цивилизация создала календарь майя?",
+    "answer": "Майя",
+    "difficulty": "easy",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "200 CE",
+    "tags": [
+      "календари",
+      "астрономия"
+    ]
+  },
+  {
+    "id": 669,
+    "question": "Сколько систем календаря было?",
+    "answer": "Три основных",
+    "difficulty": "hard",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "200 CE",
+    "tags": [
+      "календари",
+      "системы"
+    ]
+  },
+  {
+    "id": 670,
+    "question": "Как назывался священный календарь?",
+    "answer": "Цолькин (260 дней)",
+    "difficulty": "hard",
+    "category": "Древняя Америка",
+    "type": "definition",
+    "period": "200 CE",
+    "tags": [
+      "календари",
+      "названия"
+    ]
+  },
+  {
+    "id": 671,
+    "question": "Как назывался солнечный календарь?",
+    "answer": "Хааб (365 дней)",
+    "difficulty": "hard",
+    "category": "Древняя Америка",
+    "type": "definition",
+    "period": "200 CE",
+    "tags": [
+      "календари",
+      "названия"
+    ]
+  },
+  {
+    "id": 672,
+    "question": "Какую письменность имели майя?",
+    "answer": "Иероглифическую",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "200 CE",
+    "tags": [
+      "письменность",
+      "типы"
+    ]
+  },
+  {
+    "id": 673,
+    "question": "Какой город был центром майя?",
+    "answer": "Тикаль",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "geography",
+    "period": "200 CE",
+    "tags": [
+      "города",
+      "центры"
+    ]
+  },
+  {
+    "id": 674,
+    "question": "Где находился Тикаль?",
+    "answer": "Гватемала",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "geography",
+    "period": "200 CE",
+    "tags": [
+      "города",
+      "места"
+    ]
+  },
+  {
+    "id": 675,
+    "question": "Какой город майя был в Мексике?",
+    "answer": "Чичен-Ица",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "geography",
+    "period": "600 CE",
+    "tags": [
+      "города",
+      "Мексика"
+    ]
+  },
+  {
+    "id": 676,
+    "question": "Что строили майя?",
+    "answer": "Пирамиды и храмы",
+    "difficulty": "easy",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "200 CE",
+    "tags": [
+      "архитектура",
+      "сооружения"
+    ]
+  },
+  {
+    "id": 677,
+    "question": "Какая игра была у майя?",
+    "answer": "Пок-та-пок (игра с мячом)",
+    "difficulty": "hard",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "200 CE",
+    "tags": [
+      "спорт",
+      "игры"
+    ]
+  },
+  {
+    "id": 678,
+    "question": "Какая цивилизация создала Теночтитлан?",
+    "answer": "Ацтеки",
+    "difficulty": "easy",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "1325 CE",
+    "tags": [
+      "города",
+      "столицы"
+    ]
+  },
+  {
+    "id": 679,
+    "question": "Где находился Теночтитлан?",
+    "answer": "Мексика, озеро Тескоко",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "geography",
+    "period": "1325 CE",
+    "tags": [
+      "города",
+      "места"
+    ]
+  },
+  {
+    "id": 680,
+    "question": "Когда основан Теночтитлан?",
+    "answer": "1325 год н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "date",
+    "period": "1325 CE",
+    "tags": [
+      "основание",
+      "даты"
+    ]
+  },
+  {
+    "id": 681,
+    "question": "Какой бог был главным у ацтеков?",
+    "answer": "Уицилопочтли",
+    "difficulty": "hard",
+    "category": "Древняя Америка",
+    "type": "mythology",
+    "period": "14th century CE",
+    "tags": [
+      "боги",
+      "религия"
+    ]
+  },
+  {
+    "id": 682,
+    "question": "Что приносили в жертву ацтеки?",
+    "answer": "Людей",
+    "difficulty": "easy",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "14th century CE",
+    "tags": [
+      "религия",
+      "жертвоприношения"
+    ]
+  },
+  {
+    "id": 683,
+    "question": "Зачем приносили жертвы?",
+    "answer": "Чтобы солнце продолжало светить",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "14th century CE",
+    "tags": [
+      "религия",
+      "верования"
+    ]
+  },
+  {
+    "id": 684,
+    "question": "Какая цивилизация была старейшей в Америке?",
+    "answer": "Ольмеки",
+    "difficulty": "hard",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "цивилизации",
+      "древность"
+    ]
+  },
+  {
+    "id": 685,
+    "question": "Что создали ольмеки?",
+    "answer": "Гигантские каменные головы",
+    "difficulty": "medium",
+    "category": "Древняя Америка",
+    "type": "factual",
+    "period": "1500 BCE",
+    "tags": [
+      "скульптура",
+      "головы"
+    ]
+  },
+  {
+    "id": 686,
+    "question": "Где жили ольмеки?",
+    "answer": "Мексика, побережье Мексиканского залива",
+    "difficulty": "hard",
+    "category": "Древняя Америка",
+    "type": "geography",
+    "period": "1500 BCE",
+    "tags": [
+      "места",
+      "регионы"
+    ]
+  },
+  {
+    "id": 687,
+    "question": "Какая цивилизация построила Петру?",
+    "answer": "Набатеи",
+    "difficulty": "medium",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "города",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 688,
+    "question": "Где находится Петра?",
+    "answer": "Иордания",
+    "difficulty": "easy",
+    "category": "Древний Ближний Восток",
+    "type": "geography",
+    "period": "4th century BCE",
+    "tags": [
+      "города",
+      "места"
+    ]
+  },
+  {
+    "id": 689,
+    "question": "Из чего вырезана Петра?",
+    "answer": "Из скалы",
+    "difficulty": "easy",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "архитектура",
+      "материалы"
+    ]
+  },
+  {
+    "id": 690,
+    "question": "Какого цвета скалы Петры?",
+    "answer": "Розовые",
+    "difficulty": "medium",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "4th century BCE",
+    "tags": [
+      "архитектура",
+      "цвета"
+    ]
+  },
+  {
+    "id": 691,
+    "question": "Какой народ создал пурпурную краску?",
+    "answer": "Финикийцы",
+    "difficulty": "medium",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "1600 BCE",
+    "tags": [
+      "ремёсла",
+      "краски"
+    ]
+  },
+  {
+    "id": 692,
+    "question": "Из чего делали пурпур?",
+    "answer": "Из моллюсков мурекс",
+    "difficulty": "hard",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "1600 BCE",
+    "tags": [
+      "ремёсла",
+      "материалы"
+    ]
+  },
+  {
+    "id": 693,
+    "question": "Какой народ создал алфавит?",
+    "answer": "Финикийцы",
+    "difficulty": "medium",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "1050 BCE",
+    "tags": [
+      "письменность",
+      "изобретения"
+    ]
+  },
+  {
+    "id": 694,
+    "question": "Сколько букв в финикийском алфавите?",
+    "answer": "22 буквы",
+    "difficulty": "hard",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "1050 BCE",
+    "tags": [
+      "письменность",
+      "количество"
+    ]
+  },
+  {
+    "id": 695,
+    "question": "Какие буквы были в финикийском алфавите?",
+    "answer": "Только согласные",
+    "difficulty": "medium",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "1050 BCE",
+    "tags": [
+      "письменность",
+      "особенности"
+    ]
+  },
+  {
+    "id": 696,
+    "question": "Какой город был центром Финикии?",
+    "answer": "Тир и Сидон",
+    "difficulty": "medium",
+    "category": "Древний Ближний Восток",
+    "type": "geography",
+    "period": "1200 BCE",
+    "tags": [
+      "города",
+      "центры"
+    ]
+  },
+  {
+    "id": 697,
+    "question": "Чем славились финикийцы?",
+    "answer": "Мореплаванием и торговлей",
+    "difficulty": "easy",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "1200 BCE",
+    "tags": [
+      "торговля",
+      "навигация"
+    ]
+  },
+  {
+    "id": 698,
+    "question": "Какую колонию основали финикийцы?",
+    "answer": "Карфаген",
+    "difficulty": "medium",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "814 BCE",
+    "tags": [
+      "колонии",
+      "города"
+    ]
+  },
+  {
+    "id": 699,
+    "question": "Где находится Карфаген?",
+    "answer": "Тунис, Северная Африка",
+    "difficulty": "easy",
+    "category": "Древний Карфаген",
+    "type": "geography",
+    "period": "814 BCE",
+    "tags": [
+      "города",
+      "места"
+    ]
+  },
+  {
+    "id": 700,
+    "question": "Когда основан Карфаген?",
+    "answer": "814 год до н.э.",
+    "difficulty": "medium",
+    "category": "Древний Карфаген",
+    "type": "date",
+    "period": "814 BCE",
+    "tags": [
+      "основание",
+      "даты"
+    ]
+  },
+  {
+    "id": 701,
+    "question": "Кто основал Карфаген?",
+    "answer": "Царица Дидона",
+    "difficulty": "hard",
+    "category": "Древний Карфаген",
+    "type": "mythology",
+    "period": "814 BCE",
+    "tags": [
+      "основатели",
+      "легенды"
+    ]
+  },
+  {
+    "id": 702,
+    "question": "Какая цивилизация создала хетты?",
+    "answer": "Хеттская цивилизация",
+    "difficulty": "hard",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "1600 BCE",
+    "tags": [
+      "цивилизации",
+      "Анатолия"
+    ]
+  },
+  {
+    "id": 703,
+    "question": "Где жили хетты?",
+    "answer": "Малая Азия (Анатолия)",
+    "difficulty": "medium",
+    "category": "Древний Ближний Восток",
+    "type": "geography",
+    "period": "1600 BCE",
+    "tags": [
+      "места",
+      "регионы"
+    ]
+  },
+  {
+    "id": 704,
+    "question": "Какая столица хеттов?",
+    "answer": "Хаттуса",
+    "difficulty": "hard",
+    "category": "Древний Ближний Восток",
+    "type": "geography",
+    "period": "1600 BCE",
+    "tags": [
+      "столицы",
+      "города"
+    ]
+  },
+  {
+    "id": 705,
+    "question": "Какой металл освоили хетты первыми?",
+    "answer": "Железо",
+    "difficulty": "medium",
+    "category": "Древний Ближний Восток",
+    "type": "factual",
+    "period": "1400 BCE",
+    "tags": [
+      "металлургия",
+      "технологии"
+    ]
+  },
+  {
+    "id": 706,
+    "question": "Когда начался железный век?",
+    "answer": "Около 1200 года до н.э.",
+    "difficulty": "hard",
+    "category": "Древний Ближний Восток",
+    "type": "date",
+    "period": "1200 BCE",
+    "tags": [
+      "эпохи",
+      "металлы"
+    ]
+  },
+  {
+    "id": 707,
+    "question": "Какая цивилизация в Эфиопии?",
+    "answer": "Аксумское царство",
+    "difficulty": "hard",
+    "category": "Древняя Африка",
+    "type": "factual",
+    "period": "100 CE",
+    "tags": [
+      "цивилизации",
+      "Африка"
+    ]
+  },
+  {
+    "id": 708,
+    "question": "Где находился Аксум?",
+    "answer": "Эфиопия",
+    "difficulty": "medium",
+    "category": "Древняя Африка",
+    "type": "geography",
+    "period": "100 CE",
+    "tags": [
+      "города",
+      "места"
+    ]
+  },
+  {
+    "id": 709,
+    "question": "Чем славился Аксум?",
+    "answer": "Торговлей и обелисками",
+    "difficulty": "hard",
+    "category": "Древняя Африка",
+    "type": "factual",
+    "period": "100 CE",
+    "tags": [
+      "торговля",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 710,
+    "question": "Какая религия была в Аксуме?",
+    "answer": "Христианство (с 4 века)",
+    "difficulty": "hard",
+    "category": "Древняя Африка",
+    "type": "factual",
+    "period": "4th century CE",
+    "tags": [
+      "религия",
+      "обращение"
+    ]
+  },
+  {
+    "id": 711,
+    "question": "Какая цивилизация в Нубии?",
+    "answer": "Царство Куш",
+    "difficulty": "hard",
+    "category": "Древняя Африка",
+    "type": "factual",
+    "period": "1070 BCE",
+    "tags": [
+      "цивилизации",
+      "Африка"
+    ]
+  },
+  {
+    "id": 712,
+    "question": "Где находилось царство Куш?",
+    "answer": "Судан, южнее Египта",
+    "difficulty": "medium",
+    "category": "Древняя Африка",
+    "type": "geography",
+    "period": "1070 BCE",
+    "tags": [
+      "места",
+      "регионы"
+    ]
+  },
+  {
+    "id": 713,
+    "question": "Какая столица Куша?",
+    "answer": "Мероэ",
+    "difficulty": "hard",
+    "category": "Древняя Африка",
+    "type": "geography",
+    "period": "300 BCE",
+    "tags": [
+      "столицы",
+      "города"
+    ]
+  },
+  {
+    "id": 714,
+    "question": "Что строили в Куше?",
+    "answer": "Пирамиды",
+    "difficulty": "medium",
+    "category": "Древняя Африка",
+    "type": "factual",
+    "period": "300 BCE",
+    "tags": [
+      "архитектура",
+      "пирамиды"
+    ]
+  },
+  {
+    "id": 715,
+    "question": "Сколько пирамид в Мероэ?",
+    "answer": "Более 200",
+    "difficulty": "hard",
+    "category": "Древняя Африка",
+    "type": "factual",
+    "period": "300 BCE",
+    "tags": [
+      "архитектура",
+      "количество"
+    ]
+  },
+  {
+    "id": 716,
+    "question": "Какой народ создал Стоунхендж?",
+    "answer": "Неолитические бриты",
+    "difficulty": "hard",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "архитектура",
+      "мегалиты"
+    ]
+  },
+  {
+    "id": 717,
+    "question": "Где находится Стоунхендж?",
+    "answer": "Англия, Солсбери",
+    "difficulty": "easy",
+    "category": "Древняя Европа",
+    "type": "geography",
+    "period": "3000 BCE",
+    "tags": [
+      "места",
+      "мегалиты"
+    ]
+  },
+  {
+    "id": 718,
+    "question": "Когда построен Стоунхендж?",
+    "answer": "3000-2000 годы до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Европа",
+    "type": "date",
+    "period": "3000 BCE",
+    "tags": [
+      "строительство",
+      "даты"
+    ]
+  },
+  {
+    "id": 719,
+    "question": "Из каких камней Стоунхендж?",
+    "answer": "Сарсены и голубые камни",
+    "difficulty": "hard",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "материалы",
+      "камни"
+    ]
+  },
+  {
+    "id": 720,
+    "question": "Для чего построен Стоунхендж?",
+    "answer": "Обсерватория и храм",
+    "difficulty": "medium",
+    "category": "Древняя Европа",
+    "type": "factual",
+    "period": "3000 BCE",
+    "tags": [
+      "назначение",
+      "функции"
+    ]
+  },
+  {
+    "id": 721,
+    "question": "Какая цивилизация на Крите?",
+    "answer": "Минойская цивилизация",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "2700 BCE",
+    "tags": [
+      "цивилизации",
+      "острова"
+    ]
+  },
+  {
+    "id": 722,
+    "question": "Какой дворец был на Крите?",
+    "answer": "Кносский дворец",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1900 BCE",
+    "tags": [
+      "дворцы",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 723,
+    "question": "Кто открыл Кносский дворец?",
+    "answer": "Артур Эванс",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1900 CE",
+    "tags": [
+      "археология",
+      "открытия"
+    ]
+  },
+  {
+    "id": 724,
+    "question": "Какое письмо было у минойцев?",
+    "answer": "Линейное письмо А и Б",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1700 BCE",
+    "tags": [
+      "письменность",
+      "типы"
+    ]
+  },
+  {
+    "id": 725,
+    "question": "Расшифровано ли линейное А?",
+    "answer": "Нет",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1700 BCE",
+    "tags": [
+      "письменность",
+      "загадки"
+    ]
+  },
+  {
+    "id": 726,
+    "question": "Расшифровано ли линейное Б?",
+    "answer": "Да, это греческий язык",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1450 BCE",
+    "tags": [
+      "письменность",
+      "расшифровка"
+    ]
+  },
+  {
+    "id": 727,
+    "question": "Какая цивилизация на материке?",
+    "answer": "Микенская цивилизация",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1600 BCE",
+    "tags": [
+      "цивилизации",
+      "материк"
+    ]
+  },
+  {
+    "id": 728,
+    "question": "Где находились Микены?",
+    "answer": "Пелопоннес, Греция",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "geography",
+    "period": "1600 BCE",
+    "tags": [
+      "города",
+      "места"
+    ]
+  },
+  {
+    "id": 729,
+    "question": "Кто открыл Микены?",
+    "answer": "Генрих Шлиман",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1876 CE",
+    "tags": [
+      "археология",
+      "открытия"
+    ]
+  },
+  {
+    "id": 730,
+    "question": "Что нашёл Шлиман?",
+    "answer": "Золотую маску Агамемнона",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1876 CE",
+    "tags": [
+      "находки",
+      "золото"
+    ]
+  },
+  {
+    "id": 731,
+    "question": "Когда пали Микены?",
+    "answer": "Около 1100 года до н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "1100 BCE",
+    "tags": [
+      "падение",
+      "даты"
+    ]
+  },
+  {
+    "id": 732,
+    "question": "Что последовало за падением?",
+    "answer": "Тёмные века Греции",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1100 BCE",
+    "tags": [
+      "периоды",
+      "упадок"
+    ]
+  },
+  {
+    "id": 733,
+    "question": "Сколько длились тёмные века?",
+    "answer": "Около 300 лет",
+    "difficulty": "hard",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1100 BCE",
+    "tags": [
+      "периоды",
+      "длительность"
+    ]
+  },
+  {
+    "id": 734,
+    "question": "Что забыли в тёмные века?",
+    "answer": "Письменность",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "1100 BCE",
+    "tags": [
+      "культура",
+      "потери"
+    ]
+  },
+  {
+    "id": 735,
+    "question": "Когда возродилась греческая культура?",
+    "answer": "8 век до н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "date",
+    "period": "8th century BCE",
+    "tags": [
+      "возрождение",
+      "периоды"
+    ]
+  },
+  {
+    "id": 736,
+    "question": "Какой алфавит приняли греки?",
+    "answer": "Финикийский (с изменениями)",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "письменность",
+      "заимствования"
+    ]
+  },
+  {
+    "id": 737,
+    "question": "Что добавили греки к алфавиту?",
+    "answer": "Гласные буквы",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "письменность",
+      "нововведения"
+    ]
+  },
+  {
+    "id": 738,
+    "question": "Сколько букв в греческом алфавите?",
+    "answer": "24 буквы",
+    "difficulty": "medium",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "письменность",
+      "количество"
+    ]
+  },
+  {
+    "id": 739,
+    "question": "Какая первая буква алфавита?",
+    "answer": "Альфа",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "алфавит",
+      "буквы"
+    ]
+  },
+  {
+    "id": 740,
+    "question": "Какая последняя буква?",
+    "answer": "Омега",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "алфавит",
+      "буквы"
+    ]
+  },
+  {
+    "id": 741,
+    "question": "Откуда выражение 'от альфы до омеги'?",
+    "answer": "От первой до последней буквы",
+    "difficulty": "easy",
+    "category": "Древняя Греция",
+    "type": "factual",
+    "period": "8th century BCE",
+    "tags": [
+      "фразеологизмы",
+      "происхождение"
+    ]
+  },
+  {
+    "id": 742,
+    "question": "Какая цивилизация создала Ангкор-Ват?",
+    "answer": "Кхмеры",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "храмы",
+      "Камбоджа"
+    ]
+  },
+  {
+    "id": 743,
+    "question": "Где находится Ангкор-Ват?",
+    "answer": "Камбоджа",
+    "difficulty": "easy",
+    "category": "Древняя Азия",
+    "type": "geography",
+    "period": "12th century CE",
+    "tags": [
+      "храмы",
+      "места"
+    ]
+  },
+  {
+    "id": 744,
+    "question": "Когда построен Ангкор-Ват?",
+    "answer": "12 век н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "date",
+    "period": "12th century CE",
+    "tags": [
+      "строительство",
+      "даты"
+    ]
+  },
+  {
+    "id": 745,
+    "question": "Какому богу посвящён храм?",
+    "answer": "Вишну",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "mythology",
+    "period": "12th century CE",
+    "tags": [
+      "религия",
+      "боги"
+    ]
+  },
+  {
+    "id": 746,
+    "question": "Какая религия в Ангкоре?",
+    "answer": "Индуизм (затем буддизм)",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "религия",
+      "смена"
+    ]
+  },
+  {
+    "id": 747,
+    "question": "Какой размер Ангкор-Вата?",
+    "answer": "Около 200 гектаров",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "храмы",
+      "размеры"
+    ]
+  },
+  {
+    "id": 748,
+    "question": "Какая самая высокая башня?",
+    "answer": "Центральная - 65 метров",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "архитектура",
+      "высота"
+    ]
+  },
+  {
+    "id": 749,
+    "question": "Сколько башен всего?",
+    "answer": "Пять",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "архитектура",
+      "количество"
+    ]
+  },
+  {
+    "id": 750,
+    "question": "Что символизируют башни?",
+    "answer": "Гору Меру (центр мира)",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "mythology",
+    "period": "12th century CE",
+    "tags": [
+      "символизм",
+      "космология"
+    ]
+  },
+  {
+    "id": 751,
+    "question": "Какая длина рва вокруг?",
+    "answer": "Около 5,5 км",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "архитектура",
+      "размеры"
+    ]
+  },
+  {
+    "id": 752,
+    "question": "Что символизирует ров?",
+    "answer": "Океан",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "mythology",
+    "period": "12th century CE",
+    "tags": [
+      "символизм",
+      "космология"
+    ]
+  },
+  {
+    "id": 753,
+    "question": "Какие рельефы украшают стены?",
+    "answer": "Апсары и сцены из эпосов",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "искусство",
+      "рельефы"
+    ]
+  },
+  {
+    "id": 754,
+    "question": "Сколько рельефов в галереях?",
+    "answer": "Около 1200 метров",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "искусство",
+      "размеры"
+    ]
+  },
+  {
+    "id": 755,
+    "question": "Какой эпос изображён?",
+    "answer": "Рамаяна и Махабхарата",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "литература",
+      "эпосы"
+    ]
+  },
+  {
+    "id": 756,
+    "question": "Кто построил Ангкор-Ват?",
+    "answer": "Сурьяварман II",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "правители",
+      "строители"
+    ]
+  },
+  {
+    "id": 757,
+    "question": "Сколько лет строился?",
+    "answer": "Около 30 лет",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "строительство",
+      "сроки"
+    ]
+  },
+  {
+    "id": 758,
+    "question": "Сколько камней использовано?",
+    "answer": "Миллионы блоков",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "материалы",
+      "количество"
+    ]
+  },
+  {
+    "id": 759,
+    "question": "Откуда привозили камень?",
+    "answer": "Из карьеров за 50 км",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "материалы",
+      "доставка"
+    ]
+  },
+  {
+    "id": 760,
+    "question": "Как перевозили камни?",
+    "answer": "По воде на плотах",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "строительство",
+      "логистика"
+    ]
+  },
+  {
+    "id": 761,
+    "question": "Когда открыли для западного мира?",
+    "answer": "1860 год",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "date",
+    "period": "1860 CE",
+    "tags": [
+      "открытия",
+      "современность"
+    ]
+  },
+  {
+    "id": 762,
+    "question": "Кто открыл Ангкор?",
+    "answer": "Анри Муо",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "1860 CE",
+    "tags": [
+      "исследователи",
+      "открытия"
+    ]
+  },
+  {
+    "id": 763,
+    "question": "Почему город был заброшен?",
+    "answer": "Войны и климат",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "15th century CE",
+    "tags": [
+      "упадок",
+      "причины"
+    ]
+  },
+  {
+    "id": 764,
+    "question": "Когда заброшен Ангкор?",
+    "answer": "15 век н.э.",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "date",
+    "period": "15th century CE",
+    "tags": [
+      "упадок",
+      "даты"
+    ]
+  },
+  {
+    "id": 765,
+    "question": "Что росло на руинах?",
+    "answer": "Джунгли",
+    "difficulty": "easy",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "15th century CE",
+    "tags": [
+      "природа",
+      "запустение"
+    ]
+  },
+  {
+    "id": 766,
+    "question": "Какое дерево знаменито?",
+    "answer": "Баньян (фикус)",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "природа",
+      "деревья"
+    ]
+  },
+  {
+    "id": 767,
+    "question": "Какие животные изображены?",
+    "answer": "Слоны, львы, обезьяны",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "искусство",
+      "животные"
+    ]
+  },
+  {
+    "id": 768,
+    "question": "Сколько храмов в комплексе?",
+    "answer": "Около 1000",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "9th-15th century CE",
+    "tags": [
+      "храмы",
+      "количество"
+    ]
+  },
+  {
+    "id": 769,
+    "question": "Какой самый известный храм?",
+    "answer": "Ангкор-Ват",
+    "difficulty": "easy",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "храмы",
+      "известность"
+    ]
+  },
+  {
+    "id": 770,
+    "question": "Какой второй по известности?",
+    "answer": "Байон",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "храмы",
+      "известность"
+    ]
+  },
+  {
+    "id": 771,
+    "question": "Сколько лиц на башнях Байона?",
+    "answer": "216 лиц",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "скульптура",
+      "количество"
+    ]
+  },
+  {
+    "id": 772,
+    "question": "Чьё лицо на башнях?",
+    "answer": "Бодхисаттва Авалокитешвара",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "mythology",
+    "period": "12th century CE",
+    "tags": [
+      "религия",
+      "изображения"
+    ]
+  },
+  {
+    "id": 773,
+    "question": "Какой храм знаменит деревьями?",
+    "answer": "Та Пром",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "храмы",
+      "природа"
+    ]
+  },
+  {
+    "id": 774,
+    "question": "Какой фильм снимали в Та Проме?",
+    "answer": "Лара Крофт: Расхитительница гробниц",
+    "difficulty": "easy",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "2001 CE",
+    "tags": [
+      "кино",
+      "съёмки"
+    ]
+  },
+  {
+    "id": 775,
+    "question": "В каком году включён в ЮНЕСКО?",
+    "answer": "1992 год",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "date",
+    "period": "1992 CE",
+    "tags": [
+      "наследие",
+      "охрана"
+    ]
+  },
+  {
+    "id": 776,
+    "question": "Сколько туристов ежегодно?",
+    "answer": "Более 2 миллионов",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "21st century CE",
+    "tags": [
+      "туризм",
+      "статистика"
+    ]
+  },
+  {
+    "id": 777,
+    "question": "Какая угроза храмам?",
+    "answer": "Эрозия и туризм",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "21st century CE",
+    "tags": [
+      "сохранность",
+      "угрозы"
+    ]
+  },
+  {
+    "id": 778,
+    "question": "Какие работы ведутся?",
+    "answer": "Реставрация и консервация",
+    "difficulty": "easy",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "21st century CE",
+    "tags": [
+      "сохранность",
+      "работы"
+    ]
+  },
+  {
+    "id": 779,
+    "question": "Какие страны помогают?",
+    "answer": "Франция, Япония, Индия",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "21st century CE",
+    "tags": [
+      "сотрудничество",
+      "реставрация"
+    ]
+  },
+  {
+    "id": 780,
+    "question": "Что означает 'Ангкор'?",
+    "answer": "Город",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "definition",
+    "period": "12th century CE",
+    "tags": [
+      "названия",
+      "значения"
+    ]
+  },
+  {
+    "id": 781,
+    "question": "Что означает 'Ват'?",
+    "answer": "Храм",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "definition",
+    "period": "12th century CE",
+    "tags": [
+      "названия",
+      "значения"
+    ]
+  },
+  {
+    "id": 782,
+    "question": "На каком языке надписи?",
+    "answer": "Санскрит и кхмерский",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "языки",
+      "надписи"
+    ]
+  },
+  {
+    "id": 783,
+    "question": "Какая империя владела Ангкором?",
+    "answer": "Кхмерская империя",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "9th-15th century CE",
+    "tags": [
+      "империи",
+      "владения"
+    ]
+  },
+  {
+    "id": 784,
+    "question": "Когда основана империя?",
+    "answer": "802 год н.э.",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "date",
+    "period": "802 CE",
+    "tags": [
+      "империи",
+      "основание"
+    ]
+  },
+  {
+    "id": 785,
+    "question": "Кто основал империю?",
+    "answer": "Джаяварман II",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "802 CE",
+    "tags": [
+      "правители",
+      "основатели"
+    ]
+  },
+  {
+    "id": 786,
+    "question": "Какая территория империи?",
+    "answer": "Современная Камбоджа и части соседей",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "geography",
+    "period": "12th century CE",
+    "tags": [
+      "империи",
+      "территории"
+    ]
+  },
+  {
+    "id": 787,
+    "question": "Сколько правителей было?",
+    "answer": "Около 39",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "802-1431 CE",
+    "tags": [
+      "правители",
+      "количество"
+    ]
+  },
+  {
+    "id": 788,
+    "question": "Какой самый великий правитель?",
+    "answer": "Джаяварман VII",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "правители",
+      "величие"
+    ]
+  },
+  {
+    "id": 789,
+    "question": "Что построил Джаяварман VII?",
+    "answer": "Байон и многие храмы",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "строительство",
+      "правители"
+    ]
+  },
+  {
+    "id": 790,
+    "question": "Какая столица до Ангкора?",
+    "answer": "Харихаралайя",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "geography",
+    "period": "9th century CE",
+    "tags": [
+      "столицы",
+      "предшественники"
+    ]
+  },
+  {
+    "id": 791,
+    "question": "Какая столица после Ангкора?",
+    "answer": "Пномпень",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "geography",
+    "period": "15th century CE",
+    "tags": [
+      "столицы",
+      "последователи"
+    ]
+  },
+  {
+    "id": 792,
+    "question": "Какая система ирригации?",
+    "answer": "Барайи (водохранилища)",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "9th century CE",
+    "tags": [
+      "инженерия",
+      "вода"
+    ]
+  },
+  {
+    "id": 793,
+    "question": "Сколько барайев было?",
+    "answer": "Множество, крупнейший 8x2 км",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "11th century CE",
+    "tags": [
+      "инженерия",
+      "размеры"
+    ]
+  },
+  {
+    "id": 794,
+    "question": "Для чего служили барайи?",
+    "answer": "Орошение рисовых полей",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "9th century CE",
+    "tags": [
+      "земледелие",
+      "функции"
+    ]
+  },
+  {
+    "id": 795,
+    "question": "Сколько урожаев в год?",
+    "answer": "Три урожая риса",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "9th century CE",
+    "tags": [
+      "земледелие",
+      "урожаи"
+    ]
+  },
+  {
+    "id": 796,
+    "question": "Какая основная культура?",
+    "answer": "Рис",
+    "difficulty": "easy",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "9th century CE",
+    "tags": [
+      "земледелие",
+      "культуры"
+    ]
+  },
+  {
+    "id": 797,
+    "question": "Сколько населения было?",
+    "answer": "До 1 миллиона",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "население",
+      "статистика"
+    ]
+  },
+  {
+    "id": 798,
+    "question": "Какая площадь города?",
+    "answer": "Около 1000 км²",
+    "difficulty": "hard",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "города",
+      "размеры"
+    ]
+  },
+  {
+    "id": 799,
+    "question": "Крупнейший город того времени?",
+    "answer": "Да, крупнейший в мире",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "12th century CE",
+    "tags": [
+      "города",
+      "рекорды"
+    ]
+  },
+  {
+    "id": 800,
+    "question": "Какие ремёсла были развиты в Ангкоре?",
+    "answer": "Резьба по камню, ткачество, керамика",
+    "difficulty": "medium",
+    "category": "Древняя Азия",
+    "type": "factual",
+    "period": "9th-15th century CE",
+    "tags": [
+      "ремёсла",
+      "культура"
+    ]
+  }
+]
