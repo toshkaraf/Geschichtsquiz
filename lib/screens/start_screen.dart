@@ -105,7 +105,7 @@ class _StartScreenState extends State<StartScreen> {
                     ),
                     const SizedBox(height: 32),
                     const Text(
-                      'Quiz',
+                      'Geschichtsquiz',
                       style: TextStyle(
                         fontSize: 48,
                         fontWeight: FontWeight.bold,

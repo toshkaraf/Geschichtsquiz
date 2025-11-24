@@ -1,28 +1,22 @@
 [
   {
     "id": 301,
-    "question": "Кто был богом искусств?",
+    "question_ru": "Кто был богом искусств?",
     "question_de": "Wer war der Gott der Künste?",
-    "answer": "Аполлон",
-    "answer_de": "Apollon",
-    "wrong_answers": [
-      {
-        "ru": "Дионис",
-        "de": "Dionysos"
-      },
-      {
-        "ru": "Гермес",
-        "de": "Hermes"
-      },
-      {
-        "ru": "Гефест",
-        "de": "Hephaistos"
-      }
+    "correct_answer_ru": "Аполлон",
+    "correct_answer_de": "Apollon",
+    "wrong_answers_ru": [
+      "Дионис",
+      "Гермес",
+      "Гефест"
     ],
-    "explanation": {
-      "ru": "Аполлон был богом искусств, музыки, поэзии, пророчеств и стрельбы из лука в древнегреческой мифологии. Он был сыном Зевса и Лето, братом-близнецом Артемиды. Аполлон покровительствовал музам и считался покровителем всех искусств. Он изображался с кифарой (лирой) и был идеалом мужской красоты.",
-      "de": "Apollon war der Gott der Künste, Musik, Poesie, Prophezeiungen und des Bogenschießens in der antiken griechischen Mythologie. Er war der Sohn des Zeus und der Leto, der Zwillingsbruder der Artemis. Apollon war der Schutzpatron der Musen und galt als Patron aller Künste. Er wurde mit einer Kithara (Lyra) dargestellt und war das Ideal männlicher Schönheit."
-    },
+    "wrong_answers_de": [
+      "Dionysos",
+      "Hermes",
+      "Hephaistos"
+    ],
+    "explanation_ru": "Аполлон был богом искусств, музыки, поэзии, пророчеств и стрельбы из лука в древнегреческой мифологии. Он был сыном Зевса и Лето, братом-близнецом Артемиды. Аполлон покровительствовал музам и считался покровителем всех искусств. Он изображался с кифарой (лирой) и был идеалом мужской красоты.",
+    "explanation_de": "Apollon war der Gott der Künste, Musik, Poesie, Prophezeiungen und des Bogenschießens in der antiken griechischen Mythologie. Er war der Sohn des Zeus und der Leto, der Zwillingsbruder der Artemis. Apollon war der Schutzpatron der Musen und galt als Patron aller Künste. Er wurde mit einer Kithara (Lyra) dargestellt und war das Ideal männlicher Schönheit.",
     "interesting_facts": [
       {
         "ru": "Аполлон был покровителем Дельфийского оракула, самого важного прорицалища в Древней Греции. Жрица-пифия передавала пророчества Аполлона, находясь в состоянии транса. Оракул в Дельфах считался центром мира, отмеченным священным камнем омфалом.",
@@ -48,28 +42,22 @@
   },
   {
     "id": 302,
-    "question": "Где находился самый известный акрополь?",
+    "question_ru": "Где находился самый известный акрополь?",
     "question_de": "Wo befand sich die berühmteste Akropolis?",
-    "answer": "Афины",
-    "answer_de": "Athen",
-    "wrong_answers": [
-      {
-        "ru": "Спарта",
-        "de": "Sparta"
-      },
-      {
-        "ru": "Коринф",
-        "de": "Korinth"
-      },
-      {
-        "ru": "Фивы",
-        "de": "Theben"
-      }
+    "correct_answer_ru": "Афины",
+    "correct_answer_de": "Athen",
+    "wrong_answers_ru": [
+      "Спарта",
+      "Коринф",
+      "Фивы"
     ],
-    "explanation": {
-      "ru": "Акрополь в Афинах - самый известный акрополь в Древней Греции. Это укреплённый холм в центре Афин, на котором расположены знаменитые храмы, включая Парфенон, Эрехтейон и храм Ники Аптерос. Акрополь был религиозным и культурным центром Афин, символом могущества города.",
-      "de": "Die Akropolis in Athen ist die berühmteste Akropolis im antiken Griechenland. Es ist ein befestigter Hügel im Zentrum Athens, auf dem berühmte Tempel stehen, einschließlich des Parthenon, des Erechtheion und des Tempels der Nike Apteros. Die Akropolis war das religiöse und kulturelle Zentrum Athens, ein Symbol der Macht der Stadt."
-    },
+    "wrong_answers_de": [
+      "Sparta",
+      "Korinth",
+      "Theben"
+    ],
+    "explanation_ru": "Акрополь в Афинах - самый известный акрополь в Древней Греции. Это укреплённый холм в центре Афин, на котором расположены знаменитые храмы, включая Парфенон, Эрехтейон и храм Ники Аптерос. Акрополь был религиозным и культурным центром Афин, символом могущества города.",
+    "explanation_de": "Die Akropolis in Athen ist die berühmteste Akropolis im antiken Griechenland. Es ist ein befestigter Hügel im Zentrum Athens, auf dem berühmte Tempel stehen, einschließlich des Parthenon, des Erechtheion und des Tempels der Nike Apteros. Die Akropolis war das religiöse und kulturelle Zentrum Athens, ein Symbol der Macht der Stadt.",
     "interesting_facts": [
       {
         "ru": "Акрополь был заселён ещё в бронзовом веке (около 3000 года до н.э.), но свой знаменитый вид приобрёл в V веке до н.э. при Перикле. Большинство зданий было построено после персидских войн на деньги Афинского морского союза. Парфенон стал символом золотого века Афин.",
@@ -95,28 +83,22 @@
   },
   {
     "id": 303,
-    "question": "Кто были музы?",
+    "question_ru": "Кто были музы?",
     "question_de": "Wer waren die Musen?",
-    "answer": "Дочери Зевса и Мнемозины",
-    "answer_de": "Töchter des Zeus und der Mnemosyne",
-    "wrong_answers": [
-      {
-        "ru": "Дочери Аполлона",
-        "de": "Töchter des Apollon"
-      },
-      {
-        "ru": "Дочери Геры",
-        "de": "Töchter der Hera"
-      },
-      {
-        "ru": "Дочери Афродиты",
-        "de": "Töchter der Aphrodite"
-      }
+    "correct_answer_ru": "Дочери Зевса и Мнемозины",
+    "correct_answer_de": "Töchter des Zeus und der Mnemosyne",
+    "wrong_answers_ru": [
+      "Дочери Аполлона",
+      "Дочери Геры",
+      "Дочери Афродиты"
     ],
-    "explanation": {
-      "ru": "Музы были девятью богинями искусств и наук в древнегреческой мифологии, дочерьми Зевса и Мнемозины (богини памяти). Они покровительствовали различным видам искусства: поэзии, музыке, танцу, истории, астрономии и другим. Музы жили на горе Геликон или Парнас и вдохновляли художников и поэтов.",
-      "de": "Die Musen waren neun Göttinnen der Künste und Wissenschaften in der antiken griechischen Mythologie, Töchter des Zeus und der Mnemosyne (Göttin des Gedächtnisses). Sie waren Schutzpatroninnen verschiedener Künste: Poesie, Musik, Tanz, Geschichte, Astronomie und andere. Die Musen lebten auf dem Berg Helikon oder Parnass und inspirierten Künstler und Dichter."
-    },
+    "wrong_answers_de": [
+      "Töchter des Apollon",
+      "Töchter der Hera",
+      "Töchter der Aphrodite"
+    ],
+    "explanation_ru": "Музы были девятью богинями искусств и наук в древнегреческой мифологии, дочерьми Зевса и Мнемозины (богини памяти). Они покровительствовали различным видам искусства: поэзии, музыке, танцу, истории, астрономии и другим. Музы жили на горе Геликон или Парнас и вдохновляли художников и поэтов.",
+    "explanation_de": "Die Musen waren neun Göttinnen der Künste und Wissenschaften in der antiken griechischen Mythologie, Töchter des Zeus und der Mnemosyne (Göttin des Gedächtnisses). Sie waren Schutzpatroninnen verschiedener Künste: Poesie, Musik, Tanz, Geschichte, Astronomie und andere. Die Musen lebten auf dem Berg Helikon oder Parnass und inspirierten Künstler und Dichter.",
     "interesting_facts": [
       {
         "ru": "Музы родились после того, как Зевс провёл девять ночей с Мнемозиной. Каждая ночь принесла одну из муз. Они стали покровительницами: Каллиопа (эпос), Клио (история), Эрато (лирика), Эвтерпа (музыка), Мельпомена (трагедия), Полигимния (гимны), Терпсихора (танец), Талия (комедия) и Урания (астрономия).",
@@ -142,28 +124,22 @@
   },
   {
     "id": 304,
-    "question": "Когда построен Парфенон?",
+    "question_ru": "Когда построен Парфенон?",
     "question_de": "Wann wurde der Parthenon gebaut?",
-    "answer": "447-432 годы до н.э.",
-    "answer_de": "447-432 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "450-440 годы до н.э.",
-        "de": "450-440 v. Chr."
-      },
-      {
-        "ru": "440-430 годы до н.э.",
-        "de": "440-430 v. Chr."
-      },
-      {
-        "ru": "460-450 годы до н.э.",
-        "de": "460-450 v. Chr."
-      }
+    "correct_answer_ru": "447-432 годы до н.э.",
+    "correct_answer_de": "447-432 v. Chr.",
+    "wrong_answers_ru": [
+      "450-440 годы до н.э.",
+      "440-430 годы до н.э.",
+      "460-450 годы до н.э."
     ],
-    "explanation": {
-      "ru": "Парфенон был построен в 447-432 годах до н.э. по инициативе Перикла, лидера Афин. Храм был посвящён богине Афине Парфенос (Деве) и стал символом могущества и процветания Афин. Строительство велось под руководством архитекторов Иктина и Калликрата, скульптуры создавал Фидий.",
-      "de": "Der Parthenon wurde 447-432 v. Chr. auf Initiative von Perikles, dem Führer Athens, erbaut. Der Tempel war der Göttin Athena Parthenos (Jungfrau) geweiht und wurde zum Symbol der Macht und des Wohlstands Athens. Der Bau wurde unter der Leitung der Architekten Iktinos und Kallikrates durchgeführt, die Skulpturen wurden von Phidias geschaffen."
-    },
+    "wrong_answers_de": [
+      "450-440 v. Chr.",
+      "440-430 v. Chr.",
+      "460-450 v. Chr."
+    ],
+    "explanation_ru": "Парфенон был построен в 447-432 годах до н.э. по инициативе Перикла, лидера Афин. Храм был посвящён богине Афине Парфенос (Деве) и стал символом могущества и процветания Афин. Строительство велось под руководством архитекторов Иктина и Калликрата, скульптуры создавал Фидий.",
+    "explanation_de": "Der Parthenon wurde 447-432 v. Chr. auf Initiative von Perikles, dem Führer Athens, erbaut. Der Tempel war der Göttin Athena Parthenos (Jungfrau) geweiht und wurde zum Symbol der Macht und des Wohlstands Athens. Der Bau wurde unter der Leitung der Architekten Iktinos und Kallikrates durchgeführt, die Skulpturen wurden von Phidias geschaffen.",
     "interesting_facts": [
       {
         "ru": "Парфенон был построен на месте более раннего храма, разрушенного персами в 480 году до н.э. Строительство финансировалось из средств Афинского морского союза, что вызывало недовольство союзников. Храм был построен из пентелийского мрамора, который со временем приобретает золотистый оттенок.",
@@ -189,28 +165,22 @@
   },
   {
     "id": 305,
-    "question": "Сколько было муз?",
+    "question_ru": "Сколько было муз?",
     "question_de": "Wie viele Musen gab es?",
-    "answer": "Девять",
-    "answer_de": "Neun",
-    "wrong_answers": [
-      {
-        "ru": "Семь",
-        "de": "Sieben"
-      },
-      {
-        "ru": "Три",
-        "de": "Drei"
-      },
-      {
-        "ru": "Двенадцать",
-        "de": "Zwölf"
-      }
+    "correct_answer_ru": "Девять",
+    "correct_answer_de": "Neun",
+    "wrong_answers_ru": [
+      "Семь",
+      "Три",
+      "Двенадцать"
     ],
-    "explanation": {
-      "ru": "В древнегреческой мифологии было девять муз - богинь искусств и наук. Они были дочерьми Зевса и Мнемозины. Каждая муза покровительствовала определённому виду искусства или науки: эпосу, истории, лирике, музыке, трагедии, комедии, танцу, гимнам и астрономии.",
-      "de": "In der antiken griechischen Mythologie gab es neun Musen - Göttinnen der Künste und Wissenschaften. Sie waren Töchter des Zeus und der Mnemosyne. Jede Muse war Schutzpatronin einer bestimmten Kunst oder Wissenschaft: Epos, Geschichte, Lyrik, Musik, Tragödie, Komödie, Tanz, Hymnen und Astronomie."
-    },
+    "wrong_answers_de": [
+      "Sieben",
+      "Drei",
+      "Zwölf"
+    ],
+    "explanation_ru": "В древнегреческой мифологии было девять муз - богинь искусств и наук. Они были дочерьми Зевса и Мнемозины. Каждая муза покровительствовала определённому виду искусства или науки: эпосу, истории, лирике, музыке, трагедии, комедии, танцу, гимнам и астрономии.",
+    "explanation_de": "In der antiken griechischen Mythologie gab es neun Musen - Göttinnen der Künste und Wissenschaften. Sie waren Töchter des Zeus und der Mnemosyne. Jede Muse war Schutzpatronin einer bestimmten Kunst oder Wissenschaft: Epos, Geschichte, Lyrik, Musik, Tragödie, Komödie, Tanz, Hymnen und Astronomie.",
     "interesting_facts": [
       {
         "ru": "Изначально муз могло быть три, но к классическому периоду их число закрепилось как девять. Каждая муза имела свой атрибут: Каллиопа - свиток, Клио - книгу, Эрато - лиру, Эвтерпа - флейту, Мельпомена - трагическую маску, Талия - комическую маску, Терпсихора - лиру, Полигимния - покрывало, Урания - глобус.",
@@ -236,28 +206,22 @@
   },
   {
     "id": 306,
-    "question": "Кто был архитектором Парфенона?",
+    "question_ru": "Кто был архитектором Парфенона?",
     "question_de": "Wer waren die Architekten des Parthenon?",
-    "answer": "Иктин и Калликрат",
-    "answer_de": "Iktinos und Kallikrates",
-    "wrong_answers": [
-      {
-        "ru": "Фидий",
-        "de": "Phidias"
-      },
-      {
-        "ru": "Пракситель",
-        "de": "Praxiteles"
-      },
-      {
-        "ru": "Поликлет",
-        "de": "Polyklet"
-      }
+    "correct_answer_ru": "Иктин и Калликрат",
+    "correct_answer_de": "Iktinos und Kallikrates",
+    "wrong_answers_ru": [
+      "Фидий",
+      "Пракситель",
+      "Поликлет"
     ],
-    "explanation": {
-      "ru": "Парфенон был спроектирован архитекторами Иктином и Калликратом под общим руководством Перикла. Иктин отвечал за общий план и пропорции, а Калликрат - за детали строительства. Скульптурное убранство создавал Фидий, который также был главным художником проекта.",
-      "de": "Der Parthenon wurde von den Architekten Iktinos und Kallikrates unter der allgemeinen Leitung von Perikles entworfen. Iktinos war für den Gesamtplan und die Proportionen verantwortlich, Kallikrates für die Baudetails. Die skulpturale Ausstattung wurde von Phidias geschaffen, der auch der Hauptkünstler des Projekts war."
-    },
+    "wrong_answers_de": [
+      "Phidias",
+      "Praxiteles",
+      "Polyklet"
+    ],
+    "explanation_ru": "Парфенон был спроектирован архитекторами Иктином и Калликратом под общим руководством Перикла. Иктин отвечал за общий план и пропорции, а Калликрат - за детали строительства. Скульптурное убранство создавал Фидий, который также был главным художником проекта.",
+    "explanation_de": "Der Parthenon wurde von den Architekten Iktinos und Kallikrates unter der allgemeinen Leitung von Perikles entworfen. Iktinos war für den Gesamtplan und die Proportionen verantwortlich, Kallikrates für die Baudetails. Die skulpturale Ausstattung wurde von Phidias geschaffen, der auch der Hauptkünstler des Projekts war.",
     "interesting_facts": [
       {
         "ru": "Иктин также спроектировал храм Аполлона в Бассах и Телестерион в Элевсине. Он был известен своими инновационными решениями, включая использование оптических коррекций. Калликрат построил храм Ники Аптерос на Акрополе и участвовал в строительстве Длинных стен Афин.",
@@ -283,28 +247,22 @@
   },
   {
     "id": 307,
-    "question": "Кто была муза эпоса?",
+    "question_ru": "Кто была муза эпоса?",
     "question_de": "Wer war die Muse des Epos?",
-    "answer": "Каллиопа",
-    "answer_de": "Kalliope",
-    "wrong_answers": [
-      {
-        "ru": "Клио",
-        "de": "Klio"
-      },
-      {
-        "ru": "Эрато",
-        "de": "Erato"
-      },
-      {
-        "ru": "Мельпомена",
-        "de": "Melpomene"
-      }
+    "correct_answer_ru": "Каллиопа",
+    "correct_answer_de": "Kalliope",
+    "wrong_answers_ru": [
+      "Клио",
+      "Эрато",
+      "Мельпомена"
     ],
-    "explanation": {
-      "ru": "Каллиопа была музой эпической поэзии и красноречия, старшей из девяти муз. Она покровительствовала героическим поэмам, таким как 'Илиада' и 'Одиссея' Гомера. Каллиопа изображалась со свитком или табличками для письма и считалась самой важной из муз.",
-      "de": "Kalliope war die Muse der epischen Poesie und Beredsamkeit, die älteste der neun Musen. Sie war die Schutzpatronin heroischer Gedichte wie Homers 'Ilias' und 'Odyssee'. Kalliope wurde mit einer Schriftrolle oder Schreibtafeln dargestellt und galt als die wichtigste der Musen."
-    },
+    "wrong_answers_de": [
+      "Klio",
+      "Erato",
+      "Melpomene"
+    ],
+    "explanation_ru": "Каллиопа была музой эпической поэзии и красноречия, старшей из девяти муз. Она покровительствовала героическим поэмам, таким как 'Илиада' и 'Одиссея' Гомера. Каллиопа изображалась со свитком или табличками для письма и считалась самой важной из муз.",
+    "explanation_de": "Kalliope war die Muse der epischen Poesie und Beredsamkeit, die älteste der neun Musen. Sie war die Schutzpatronin heroischer Gedichte wie Homers 'Ilias' und 'Odyssee'. Kalliope wurde mit einer Schriftrolle oder Schreibtafeln dargestellt und galt als die wichtigste der Musen.",
     "interesting_facts": [
       {
         "ru": "Каллиопа была матерью Орфея, легендарного певца, чья музыка могла очаровывать животных и даже камни. Она научила его пению и игре на лире. Орфей стал величайшим музыкантом античности, способным смягчать сердца богов и людей своей музыкой.",
@@ -330,28 +288,22 @@
   },
   {
     "id": 308,
-    "question": "Какой скульптор создал статую Афины в Парфеноне?",
+    "question_ru": "Какой скульптор создал статую Афины в Парфеноне?",
     "question_de": "Welcher Bildhauer schuf die Statue der Athena im Parthenon?",
-    "answer": "Фидий",
-    "answer_de": "Phidias",
-    "wrong_answers": [
-      {
-        "ru": "Пракситель",
-        "de": "Praxiteles"
-      },
-      {
-        "ru": "Мирон",
-        "de": "Myron"
-      },
-      {
-        "ru": "Поликлет",
-        "de": "Polyklet"
-      }
+    "correct_answer_ru": "Фидий",
+    "correct_answer_de": "Phidias",
+    "wrong_answers_ru": [
+      "Пракситель",
+      "Мирон",
+      "Поликлет"
     ],
-    "explanation": {
-      "ru": "Фидий (ок. 480-430 гг. до н.э.) создал знаменитую статую Афины Парфенос для Парфенона. Статуя была высотой около 12 метров и сделана из золота и слоновой кости (хрисоэлефантинная техника). Фидий также руководил созданием всех скульптур Парфенона, включая фризы и метопы.",
-      "de": "Phidias (ca. 480-430 v. Chr.) schuf die berühmte Statue der Athena Parthenos für den Parthenon. Die Statue war etwa 12 Meter hoch und aus Gold und Elfenbein (chryselephantine Technik) gefertigt. Phidias leitete auch die Schaffung aller Skulpturen des Parthenon, einschließlich der Friese und Metopen."
-    },
+    "wrong_answers_de": [
+      "Praxiteles",
+      "Myron",
+      "Polyklet"
+    ],
+    "explanation_ru": "Фидий (ок. 480-430 гг. до н.э.) создал знаменитую статую Афины Парфенос для Парфенона. Статуя была высотой около 12 метров и сделана из золота и слоновой кости (хрисоэлефантинная техника). Фидий также руководил созданием всех скульптур Парфенона, включая фризы и метопы.",
+    "explanation_de": "Phidias (ca. 480-430 v. Chr.) schuf die berühmte Statue der Athena Parthenos für den Parthenon. Die Statue war etwa 12 Meter hoch und aus Gold und Elfenbein (chryselephantine Technik) gefertigt. Phidias leitete auch die Schaffung aller Skulpturen des Parthenon, einschließlich der Friese und Metopen.",
     "interesting_facts": [
       {
         "ru": "Статуя Афины Парфенос была одной из самых дорогих скульптур античности. На неё ушло около 40 талантов золота (примерно 1 тонна) и большое количество слоновой кости. Золото можно было снимать в случае необходимости, что делало статую своеобразным сокровищем Афин.",
@@ -377,28 +329,22 @@
   },
   {
     "id": 309,
-    "question": "Кто была муза истории?",
+    "question_ru": "Кто была муза истории?",
     "question_de": "Wer war die Muse der Geschichte?",
-    "answer": "Клио",
-    "answer_de": "Klio",
-    "wrong_answers": [
-      {
-        "ru": "Каллиопа",
-        "de": "Kalliope"
-      },
-      {
-        "ru": "Урания",
-        "de": "Urania"
-      },
-      {
-        "ru": "Эрато",
-        "de": "Erato"
-      }
+    "correct_answer_ru": "Клио",
+    "correct_answer_de": "Klio",
+    "wrong_answers_ru": [
+      "Каллиопа",
+      "Урания",
+      "Эрато"
     ],
-    "explanation": {
-      "ru": "Клио была музой истории в древнегреческой мифологии. Она покровительствовала историческим сочинениям и хроникам. Клио изображалась со свитком или книгой, часто с лавровым венком. Её имя означает 'прославлять' и связано с записью великих деяний и событий.",
-      "de": "Klio war die Muse der Geschichte in der antiken griechischen Mythologie. Sie war die Schutzpatronin historischer Schriften und Chroniken. Klio wurde mit einer Schriftrolle oder einem Buch dargestellt, oft mit einem Lorbeerkranz. Ihr Name bedeutet 'rühmen' und ist mit der Aufzeichnung großer Taten und Ereignisse verbunden."
-    },
+    "wrong_answers_de": [
+      "Kalliope",
+      "Urania",
+      "Erato"
+    ],
+    "explanation_ru": "Клио была музой истории в древнегреческой мифологии. Она покровительствовала историческим сочинениям и хроникам. Клио изображалась со свитком или книгой, часто с лавровым венком. Её имя означает 'прославлять' и связано с записью великих деяний и событий.",
+    "explanation_de": "Klio war die Muse der Geschichte in der antiken griechischen Mythologie. Sie war die Schutzpatronin historischer Schriften und Chroniken. Klio wurde mit einer Schriftrolle oder einem Buch dargestellt, oft mit einem Lorbeerkranz. Ihr Name bedeutet 'rühmen' und ist mit der Aufzeichnung großer Taten und Ereignisse verbunden.",
     "interesting_facts": [
       {
         "ru": "Клио часто изображалась с трубой, символизирующей славу и известность исторических событий. Она вдохновляла историков на запись прошлого для будущих поколений. Её атрибуты - свиток и стилус (палочка для письма) - подчёркивают её роль как хранительницы истории.",
@@ -424,28 +370,22 @@
   },
   {
     "id": 310,
-    "question": "Из какого материала была статуя Афины?",
+    "question_ru": "Из какого материала была статуя Афины?",
     "question_de": "Aus welchem Material war die Statue der Athena?",
-    "answer": "Золото и слоновая кость",
-    "answer_de": "Gold und Elfenbein",
-    "wrong_answers": [
-      {
-        "ru": "Мрамор",
-        "de": "Marmor"
-      },
-      {
-        "ru": "Бронза",
-        "de": "Bronze"
-      },
-      {
-        "ru": "Дерево",
-        "de": "Holz"
-      }
+    "correct_answer_ru": "Золото и слоновая кость",
+    "correct_answer_de": "Gold und Elfenbein",
+    "wrong_answers_ru": [
+      "Мрамор",
+      "Бронза",
+      "Дерево"
     ],
-    "explanation": {
-      "ru": "Статуя Афины Парфенос была сделана из золота и слоновой кости в технике хрисоэлефантинной скульптуры. Золото использовалось для одежды и украшений, а слоновая кость - для открытых частей тела (лицо, руки, ноги). Эта техника создавала впечатление роскоши и божественного сияния.",
-      "de": "Die Statue der Athena Parthenos wurde aus Gold und Elfenbein in der chryselephantinen Skulpturtechnik hergestellt. Gold wurde für Kleidung und Schmuck verwendet, Elfenbein für die freiliegenden Körperteile (Gesicht, Hände, Beine). Diese Technik schuf einen Eindruck von Luxus und göttlichem Glanz."
-    },
+    "wrong_answers_de": [
+      "Marmor",
+      "Bronze",
+      "Holz"
+    ],
+    "explanation_ru": "Статуя Афины Парфенос была сделана из золота и слоновой кости в технике хрисоэлефантинной скульптуры. Золото использовалось для одежды и украшений, а слоновая кость - для открытых частей тела (лицо, руки, ноги). Эта техника создавала впечатление роскоши и божественного сияния.",
+    "explanation_de": "Die Statue der Athena Parthenos wurde aus Gold und Elfenbein in der chryselephantinen Skulpturtechnik hergestellt. Gold wurde für Kleidung und Schmuck verwendet, Elfenbein für die freiliegenden Körperteile (Gesicht, Hände, Beine). Diese Technik schuf einen Eindruck von Luxus und göttlichem Glanz.",
     "interesting_facts": [
       {
         "ru": "Хрисоэлефантинная техника была очень дорогой и использовалась только для самых важных культовых статуй. Золотые части можно было снимать в случае финансовых трудностей, что делало такие статуи своеобразными сокровищницами. Статуя Афины содержала около 40 талантов золота (около 1 тонны).",
@@ -471,28 +411,22 @@
   },
   {
     "id": 311,
-    "question": "Кто была муза комедии?",
+    "question_ru": "Кто была муза комедии?",
     "question_de": "Wer war die Muse der Komödie?",
-    "answer": "Талия",
-    "answer_de": "Thalia",
-    "wrong_answers": [
-      {
-        "ru": "Мельпомена",
-        "de": "Melpomene"
-      },
-      {
-        "ru": "Терпсихора",
-        "de": "Terpsichore"
-      },
-      {
-        "ru": "Эрато",
-        "de": "Erato"
-      }
+    "correct_answer_ru": "Талия",
+    "correct_answer_de": "Thalia",
+    "wrong_answers_ru": [
+      "Мельпомена",
+      "Терпсихора",
+      "Эрато"
     ],
-    "explanation": {
-      "ru": "Талия была музой комедии и лёгкой поэзии в древнегреческой мифологии. Она покровительствовала комедийным представлениям и развлекательной литературе. Талия изображалась с комической маской, венком из плюща и бубном. Её имя означает 'цветущая' или 'изобилие'.",
-      "de": "Thalia war die Muse der Komödie und leichten Poesie in der antiken griechischen Mythologie. Sie war die Schutzpatronin komödiantischer Aufführungen und unterhaltsamer Literatur. Thalia wurde mit einer komischen Maske, einem Efeukranz und einer Handpauke dargestellt. Ihr Name bedeutet 'blühend' oder 'Überfluss'."
-    },
+    "wrong_answers_de": [
+      "Melpomene",
+      "Terpsichore",
+      "Erato"
+    ],
+    "explanation_ru": "Талия была музой комедии и лёгкой поэзии в древнегреческой мифологии. Она покровительствовала комедийным представлениям и развлекательной литературе. Талия изображалась с комической маской, венком из плюща и бубном. Её имя означает 'цветущая' или 'изобилие'.",
+    "explanation_de": "Thalia war die Muse der Komödie und leichten Poesie in der antiken griechischen Mythologie. Sie war die Schutzpatronin komödiantischer Aufführungen und unterhaltsamer Literatur. Thalia wurde mit einer komischen Maske, einem Efeukranz und einer Handpauke dargestellt. Ihr Name bedeutet 'blühend' oder 'Überfluss'.",
     "interesting_facts": [
       {
         "ru": "Талия часто изображалась в более расслабленной позе, чем её сестра Мельпомена (муза трагедии), что отражало лёгкий характер комедии. Она носила комическую маску с улыбкой, в отличие от трагической маски Мельпомены. Талия символизировала радость и веселье.",
@@ -518,28 +452,22 @@
   },
   {
     "id": 312,
-    "question": "Какой высоты была статуя Афины?",
+    "question_ru": "Какой высоты была статуя Афины?",
     "question_de": "Wie hoch war die Statue der Athena?",
-    "answer": "Около 12 метров",
-    "answer_de": "Etwa 12 Meter",
-    "wrong_answers": [
-      {
-        "ru": "Около 8 метров",
-        "de": "Etwa 8 Meter"
-      },
-      {
-        "ru": "Около 15 метров",
-        "de": "Etwa 15 Meter"
-      },
-      {
-        "ru": "Около 10 метров",
-        "de": "Etwa 10 Meter"
-      }
+    "correct_answer_ru": "Около 12 метров",
+    "correct_answer_de": "Etwa 12 Meter",
+    "wrong_answers_ru": [
+      "Около 8 метров",
+      "Около 15 метров",
+      "Около 10 метров"
     ],
-    "explanation": {
-      "ru": "Статуя Афины Парфенос работы Фидия была высотой около 12 метров (39 футов), что делало её одной из самых больших статуй античности. Она была настолько величественной, что голова богини почти касалась потолка целлы Парфенона. Статуя создавала впечатление божественного присутствия.",
-      "de": "Die Statue der Athena Parthenos von Phidias war etwa 12 Meter (39 Fuß) hoch, was sie zu einer der größten Statuen der Antike machte. Sie war so majestätisch, dass der Kopf der Göttin fast die Decke der Cella des Parthenon berührte. Die Statue schuf einen Eindruck göttlicher Präsenz."
-    },
+    "wrong_answers_de": [
+      "Etwa 8 Meter",
+      "Etwa 15 Meter",
+      "Etwa 10 Meter"
+    ],
+    "explanation_ru": "Статуя Афины Парфенос работы Фидия была высотой около 12 метров (39 футов), что делало её одной из самых больших статуй античности. Она была настолько величественной, что голова богини почти касалась потолка целлы Парфенона. Статуя создавала впечатление божественного присутствия.",
+    "explanation_de": "Die Statue der Athena Parthenos von Phidias war etwa 12 Meter (39 Fuß) hoch, was sie zu einer der größten Statuen der Antike machte. Sie war so majestätisch, dass der Kopf der Göttin fast die Decke der Cella des Parthenon berührte. Die Statue schuf einen Eindruck göttlicher Präsenz.",
     "interesting_facts": [
       {
         "ru": "Статуя была настолько высокой, что для её создания потребовалась специальная техника. Фидий использовал деревянный каркас, на который крепились золотые пластины и слоновая кость. Статуя была видна через открытые двери Парфенона, создавая впечатляющее зрелище для посетителей.",
@@ -565,28 +493,22 @@
   },
   {
     "id": 313,
-    "question": "Кто была муза трагедии?",
+    "question_ru": "Кто была муза трагедии?",
     "question_de": "Wer war die Muse der Tragödie?",
-    "answer": "Мельпомена",
-    "answer_de": "Melpomene",
-    "wrong_answers": [
-      {
-        "ru": "Талия",
-        "de": "Thalia"
-      },
-      {
-        "ru": "Клио",
-        "de": "Klio"
-      },
-      {
-        "ru": "Эрато",
-        "de": "Erato"
-      }
+    "correct_answer_ru": "Мельпомена",
+    "correct_answer_de": "Melpomene",
+    "wrong_answers_ru": [
+      "Талия",
+      "Клио",
+      "Эрато"
     ],
-    "explanation": {
-      "ru": "Мельпомена была музой трагедии в древнегреческой мифологии. Она покровительствовала трагическим представлениям и серьёзной драме. Мельпомена изображалась с трагической маской, мечом или дубинкой и венком из виноградных листьев. Её имя означает 'петь' или 'мелодия'.",
-      "de": "Melpomene war die Muse der Tragödie in der antiken griechischen Mythologie. Sie war die Schutzpatronin tragischer Aufführungen und ernster Dramen. Melpomene wurde mit einer tragischen Maske, einem Schwert oder einer Keule und einem Kranz aus Weinblättern dargestellt. Ihr Name bedeutet 'singen' oder 'Melodie'."
-    },
+    "wrong_answers_de": [
+      "Thalia",
+      "Klio",
+      "Erato"
+    ],
+    "explanation_ru": "Мельпомена была музой трагедии в древнегреческой мифологии. Она покровительствовала трагическим представлениям и серьёзной драме. Мельпомена изображалась с трагической маской, мечом или дубинкой и венком из виноградных листьев. Её имя означает 'петь' или 'мелодия'.",
+    "explanation_de": "Melpomene war die Muse der Tragödie in der antiken griechischen Mythologie. Sie war die Schutzpatronin tragischer Aufführungen und ernster Dramen. Melpomene wurde mit einer tragischen Maske, einem Schwert oder einer Keule und einem Kranz aus Weinblättern dargestellt. Ihr Name bedeutet 'singen' oder 'Melodie'.",
     "interesting_facts": [
       {
         "ru": "Мельпомена изначально была музой песни, но позже стала ассоциироваться с трагедией. Она изображалась в торжественной позе, часто опирающейся на меч или дубинку, что символизировало серьёзность трагического искусства. Трагическая маска выражала скорбь и страдание.",
@@ -612,28 +534,22 @@
   },
   {
     "id": 314,
-    "question": "Сколько колонн в Парфеноне?",
+    "question_ru": "Сколько колонн в Парфеноне?",
     "question_de": "Wie viele Säulen hat der Parthenon?",
-    "answer": "46 внешних колонн",
-    "answer_de": "46 äußere Säulen",
-    "wrong_answers": [
-      {
-        "ru": "50 колонн",
-        "de": "50 Säulen"
-      },
-      {
-        "ru": "40 колонн",
-        "de": "40 Säulen"
-      },
-      {
-        "ru": "48 колонн",
-        "de": "48 Säulen"
-      }
+    "correct_answer_ru": "46 внешних колонн",
+    "correct_answer_de": "46 äußere Säulen",
+    "wrong_answers_ru": [
+      "50 колонн",
+      "40 колонн",
+      "48 колонн"
     ],
-    "explanation": {
-      "ru": "Парфенон имеет 46 внешних колонн: 8 колонн на коротких сторонах (фасадах) и 17 колонн на длинных сторонах. Это создаёт периптеральную структуру (колонны со всех сторон). Внутри храма также были колонны, поддерживавшие крышу. Общее число колонн составляет 46 внешних плюс внутренние.",
-      "de": "Der Parthenon hat 46 äußere Säulen: 8 Säulen an den kurzen Seiten (Fassaden) und 17 Säulen an den langen Seiten. Dies schafft eine peripterale Struktur (Säulen auf allen Seiten). Im Inneren des Tempels gab es auch Säulen, die das Dach stützten. Die Gesamtzahl der Säulen beträgt 46 äußere plus innere."
-    },
+    "wrong_answers_de": [
+      "50 Säulen",
+      "40 Säulen",
+      "48 Säulen"
+    ],
+    "explanation_ru": "Парфенон имеет 46 внешних колонн: 8 колонн на коротких сторонах (фасадах) и 17 колонн на длинных сторонах. Это создаёт периптеральную структуру (колонны со всех сторон). Внутри храма также были колонны, поддерживавшие крышу. Общее число колонн составляет 46 внешних плюс внутренние.",
+    "explanation_de": "Der Parthenon hat 46 äußere Säulen: 8 Säulen an den kurzen Seiten (Fassaden) und 17 Säulen an den langen Seiten. Dies schafft eine peripterale Struktur (Säulen auf allen Seiten). Im Inneren des Tempels gab es auch Säulen, die das Dach stützten. Die Gesamtzahl der Säulen beträgt 46 äußere plus innere.",
     "interesting_facts": [
       {
         "ru": "Колонны Парфенона имеют лёгкий наклон внутрь и утолщение в средней части (энтазис), что создаёт оптическую иллюзию идеальной вертикальности. Это было сделано специально для компенсации зрительных искажений. Все колонны слегка наклонены, создавая ощущение устойчивости.",
@@ -659,28 +575,22 @@
   },
   {
     "id": 315,
-    "question": "Кто была муза лирической поэзии?",
+    "question_ru": "Кто была муза лирической поэзии?",
     "question_de": "Wer war die Muse der lyrischen Poesie?",
-    "answer": "Эрато",
-    "answer_de": "Erato",
-    "wrong_answers": [
-      {
-        "ru": "Каллиопа",
-        "de": "Kalliope"
-      },
-      {
-        "ru": "Эвтерпа",
-        "de": "Euterpe"
-      },
-      {
-        "ru": "Полигимния",
-        "de": "Polyhymnia"
-      }
+    "correct_answer_ru": "Эрато",
+    "correct_answer_de": "Erato",
+    "wrong_answers_ru": [
+      "Каллиопа",
+      "Эвтерпа",
+      "Полигимния"
     ],
-    "explanation": {
-      "ru": "Эрато была музой лирической поэзии и любовной поэзии в древнегреческой мифологии. Она покровительствовала стихам о любви, романтической поэзии и свадебным песням. Эрато изображалась с лирой или кифарой и часто с венком из роз. Её имя означает 'желанная' или 'любимая'.",
-      "de": "Erato war die Muse der lyrischen Poesie und Liebespoesie in der antiken griechischen Mythologie. Sie war die Schutzpatronin von Liebesgedichten, romantischer Poesie und Hochzeitsliedern. Erato wurde mit einer Lyra oder Kithara dargestellt und oft mit einem Rosenkranz. Ihr Name bedeutet 'begehrt' oder 'geliebt'."
-    },
+    "wrong_answers_de": [
+      "Kalliope",
+      "Euterpe",
+      "Polyhymnia"
+    ],
+    "explanation_ru": "Эрато была музой лирической поэзии и любовной поэзии в древнегреческой мифологии. Она покровительствовала стихам о любви, романтической поэзии и свадебным песням. Эрато изображалась с лирой или кифарой и часто с венком из роз. Её имя означает 'желанная' или 'любимая'.",
+    "explanation_de": "Erato war die Muse der lyrischen Poesie und Liebespoesie in der antiken griechischen Mythologie. Sie war die Schutzpatronin von Liebesgedichten, romantischer Poesie und Hochzeitsliedern. Erato wurde mit einer Lyra oder Kithara dargestellt und oft mit einem Rosenkranz. Ihr Name bedeutet 'begehrt' oder 'geliebt'.",
     "interesting_facts": [
       {
         "ru": "Эрато часто изображалась в романтическом контексте, с амуром или голубями - символами любви. Она вдохновляла поэтов на создание стихов о любви, страсти и красоте. Её связь с лирой подчёркивает музыкальность лирической поэзии.",
@@ -706,28 +616,22 @@
   },
   {
     "id": 316,
-    "question": "Какого стиля колонны в Парфеноне?",
+    "question_ru": "Какого стиля колонны в Парфеноне?",
     "question_de": "Welcher Stil sind die Säulen im Parthenon?",
-    "answer": "Дорический",
-    "answer_de": "Dorisch",
-    "wrong_answers": [
-      {
-        "ru": "Ионический",
-        "de": "Ionisch"
-      },
-      {
-        "ru": "Коринфский",
-        "de": "Korinthisch"
-      },
-      {
-        "ru": "Тосканский",
-        "de": "Toskanisch"
-      }
+    "correct_answer_ru": "Дорический",
+    "correct_answer_de": "Dorisch",
+    "wrong_answers_ru": [
+      "Ионический",
+      "Коринфский",
+      "Тосканский"
     ],
-    "explanation": {
-      "ru": "Парфенон построен в дорическом ордере - самом древнем и строгом из трёх классических ордеров греческой архитектуры. Дорические колонны имеют простую капитель без украшений, каннелюры (вертикальные бороздки) и мощный вид. Хотя в Парфеноне есть и ионические элементы (фриз), основная структура дорическая.",
-      "de": "Der Parthenon wurde im dorischen Stil erbaut - dem ältesten und strengsten der drei klassischen Stile der griechischen Architektur. Dorische Säulen haben ein einfaches Kapitell ohne Verzierungen, Kanneluren (vertikale Rillen) und ein mächtiges Aussehen. Obwohl der Parthenon auch ionische Elemente (Fries) hat, ist die Hauptstruktur dorisch."
-    },
+    "wrong_answers_de": [
+      "Ionisch",
+      "Korinthisch",
+      "Toskanisch"
+    ],
+    "explanation_ru": "Парфенон построен в дорическом ордере - самом древнем и строгом из трёх классических ордеров греческой архитектуры. Дорические колонны имеют простую капитель без украшений, каннелюры (вертикальные бороздки) и мощный вид. Хотя в Парфеноне есть и ионические элементы (фриз), основная структура дорическая.",
+    "explanation_de": "Der Parthenon wurde im dorischen Stil erbaut - dem ältesten und strengsten der drei klassischen Stile der griechischen Architektur. Dorische Säulen haben ein einfaches Kapitell ohne Verzierungen, Kanneluren (vertikale Rillen) und ein mächtiges Aussehen. Obwohl der Parthenon auch ionische Elemente (Fries) hat, ist die Hauptstruktur dorisch.",
     "interesting_facts": [
       {
         "ru": "Дорический ордер возник в VII веке до н.э. и стал символом силы и простоты. Колонны не имеют базы и стоят прямо на стилобате. Капитель состоит из эхина (подушки) и абака (квадратной плиты). Дорический стиль ассоциировался с мужественностью и строгостью.",
@@ -753,28 +657,22 @@
   },
   {
     "id": 317,
-    "question": "Кто была муза танца?",
+    "question_ru": "Кто была муза танца?",
     "question_de": "Wer war die Muse des Tanzes?",
-    "answer": "Терпсихора",
-    "answer_de": "Terpsichore",
-    "wrong_answers": [
-      {
-        "ru": "Эвтерпа",
-        "de": "Euterpe"
-      },
-      {
-        "ru": "Талия",
-        "de": "Thalia"
-      },
-      {
-        "ru": "Полигимния",
-        "de": "Polyhymnia"
-      }
+    "correct_answer_ru": "Терпсихора",
+    "correct_answer_de": "Terpsichore",
+    "wrong_answers_ru": [
+      "Эвтерпа",
+      "Талия",
+      "Полигимния"
     ],
-    "explanation": {
-      "ru": "Терпсихора была музой танца и хорового пения в древнегреческой мифологии. Она покровительствовала танцевальному искусству и хоровым представлениям. Терпсихора изображалась с лирой и часто в танцевальной позе. Её имя означает 'наслаждающаяся танцем'.",
-      "de": "Terpsichore war die Muse des Tanzes und des Chorgesangs in der antiken griechischen Mythologie. Sie war die Schutzpatronin der Tanzkunst und der Choraufführungen. Terpsichore wurde mit einer Lyra dargestellt und oft in einer Tanzpose. Ihr Name bedeutet 'die am Tanz Freude hat'."
-    },
+    "wrong_answers_de": [
+      "Euterpe",
+      "Thalia",
+      "Polyhymnia"
+    ],
+    "explanation_ru": "Терпсихора была музой танца и хорового пения в древнегреческой мифологии. Она покровительствовала танцевальному искусству и хоровым представлениям. Терпсихора изображалась с лирой и часто в танцевальной позе. Её имя означает 'наслаждающаяся танцем'.",
+    "explanation_de": "Terpsichore war die Muse des Tanzes und des Chorgesangs in der antiken griechischen Mythologie. Sie war die Schutzpatronin der Tanzkunst und der Choraufführungen. Terpsichore wurde mit einer Lyra dargestellt und oft in einer Tanzpose. Ihr Name bedeutet 'die am Tanz Freude hat'.",
     "interesting_facts": [
       {
         "ru": "Терпсихора часто изображалась с лирой, показывая связь между танцем и музыкой. Она вдохновляла хореографов и танцоров на создание гармоничных движений. В греческом театре хор исполнял танцы под музыку, что было важной частью представлений.",
@@ -800,28 +698,22 @@
   },
   {
     "id": 318,
-    "question": "Как называется площадь перед храмом?",
+    "question_ru": "Как называется площадь перед храмом?",
     "question_de": "Wie heißt der Platz vor dem Tempel?",
-    "answer": "Стилобат",
-    "answer_de": "Stylobat",
-    "wrong_answers": [
-      {
-        "ru": "Подиум",
-        "de": "Podium"
-      },
-      {
-        "ru": "Портик",
-        "de": "Portikus"
-      },
-      {
-        "ru": "Целла",
-        "de": "Cella"
-      }
+    "correct_answer_ru": "Стилобат",
+    "correct_answer_de": "Stylobat",
+    "wrong_answers_ru": [
+      "Подиум",
+      "Портик",
+      "Целла"
     ],
-    "explanation": {
-      "ru": "Стилобат - это верхняя ступень основания храма, на которой стоят колонны. Это платформа, обычно из трёх ступеней (крепида), на которой возводился храм. Стилобат поднимал храм над землёй, придавая ему величие и защищая от влаги. Название происходит от греческого 'стилос' (колонна) и 'батос' (стоящий).",
-      "de": "Der Stylobat ist die oberste Stufe des Tempelfundaments, auf der die Säulen stehen. Es ist eine Plattform, normalerweise aus drei Stufen (Krepis), auf der der Tempel errichtet wurde. Der Stylobat hob den Tempel über den Boden, verlieh ihm Größe und schützte vor Feuchtigkeit. Der Name stammt vom griechischen 'stylos' (Säule) und 'batos' (stehend)."
-    },
+    "wrong_answers_de": [
+      "Podium",
+      "Portikus",
+      "Cella"
+    ],
+    "explanation_ru": "Стилобат - это верхняя ступень основания храма, на которой стоят колонны. Это платформа, обычно из трёх ступеней (крепида), на которой возводился храм. Стилобат поднимал храм над землёй, придавая ему величие и защищая от влаги. Название происходит от греческого 'стилос' (колонна) и 'батос' (стоящий).",
+    "explanation_de": "Der Stylobat ist die oberste Stufe des Tempelfundaments, auf der die Säulen stehen. Es ist eine Plattform, normalerweise aus drei Stufen (Krepis), auf der der Tempel errichtet wurde. Der Stylobat hob den Tempel über den Boden, verlieh ihm Größe und schützte vor Feuchtigkeit. Der Name stammt vom griechischen 'stylos' (Säule) und 'batos' (stehend).",
     "interesting_facts": [
       {
         "ru": "Стилобат обычно имел лёгкий изгиб вверх (курватура), что создавало оптическую иллюзию идеальной горизонтальности. Это было сделано для компенсации зрительных искажений, как и наклон колонн. Такие тонкие оптические коррекции показывают мастерство греческих архитекторов.",
@@ -847,28 +739,22 @@
   },
   {
     "id": 319,
-    "question": "Кто была муза музыки?",
+    "question_ru": "Кто была муза музыки?",
     "question_de": "Wer war die Muse der Musik?",
-    "answer": "Евтерпа",
-    "answer_de": "Euterpe",
-    "wrong_answers": [
-      {
-        "ru": "Терпсихора",
-        "de": "Terpsichore"
-      },
-      {
-        "ru": "Эрато",
-        "de": "Erato"
-      },
-      {
-        "ru": "Полигимния",
-        "de": "Polyhymnia"
-      }
+    "correct_answer_ru": "Евтерпа",
+    "correct_answer_de": "Euterpe",
+    "wrong_answers_ru": [
+      "Терпсихора",
+      "Эрато",
+      "Полигимния"
     ],
-    "explanation": {
-      "ru": "Евтерпа была музой музыки и лирической поэзии в древнегреческой мифологии. Она покровительствовала музыкальному искусству, особенно игре на флейте и других духовых инструментах. Евтерпа изображалась с флейтой (авлос) или двойной флейтой. Её имя означает 'дарующая наслаждение'.",
-      "de": "Euterpe war die Muse der Musik und lyrischen Poesie in der antiken griechischen Mythologie. Sie war die Schutzpatronin der Musik, besonders des Flötenspiels und anderer Blasinstrumente. Euterpe wurde mit einer Flöte (Aulos) oder Doppelflöte dargestellt. Ihr Name bedeutet 'die Freude schenkt'."
-    },
+    "wrong_answers_de": [
+      "Terpsichore",
+      "Erato",
+      "Polyhymnia"
+    ],
+    "explanation_ru": "Евтерпа была музой музыки и лирической поэзии в древнегреческой мифологии. Она покровительствовала музыкальному искусству, особенно игре на флейте и других духовых инструментах. Евтерпа изображалась с флейтой (авлос) или двойной флейтой. Её имя означает 'дарующая наслаждение'.",
+    "explanation_de": "Euterpe war die Muse der Musik und lyrischen Poesie in der antiken griechischen Mythologie. Sie war die Schutzpatronin der Musik, besonders des Flötenspiels und anderer Blasinstrumente. Euterpe wurde mit einer Flöte (Aulos) oder Doppelflöte dargestellt. Ihr Name bedeutet 'die Freude schenkt'.",
     "interesting_facts": [
       {
         "ru": "Евтерпа часто изображалась с авлосом - древнегреческой флейтой, которая была одним из самых популярных инструментов. Она вдохновляла музыкантов и поэтов на создание мелодий и песен. Музыка играла важную роль в греческой культуре, сопровождая религиозные обряды, театральные представления и праздники.",
@@ -894,28 +780,22 @@
   },
   {
     "id": 320,
-    "question": "Что такое портик?",
+    "question_ru": "Что такое портик?",
     "question_de": "Was ist ein Portikus?",
-    "answer": "Крытая галерея с колоннами",
-    "answer_de": "Überdachte Galerie mit Säulen",
-    "wrong_answers": [
-      {
-        "ru": "Внутренняя часть храма",
-        "de": "Innerer Teil des Tempels"
-      },
-      {
-        "ru": "Основание храма",
-        "de": "Fundament des Tempels"
-      },
-      {
-        "ru": "Крыша храма",
-        "de": "Dach des Tempels"
-      }
+    "correct_answer_ru": "Крытая галерея с колоннами",
+    "correct_answer_de": "Überdachte Galerie mit Säulen",
+    "wrong_answers_ru": [
+      "Внутренняя часть храма",
+      "Основание храма",
+      "Крыша храма"
     ],
-    "explanation": {
-      "ru": "Портик (пронаос) - это крытая галерея с колоннами перед входом в храм или другое здание. Портик служил переходным пространством между внешним миром и внутренним святилищем. Он защищал вход от непогоды и создавал торжественное впечатление. Портики были важным элементом греческой архитектуры.",
-      "de": "Ein Portikus (Pronaos) ist eine überdachte Galerie mit Säulen vor dem Eingang zu einem Tempel oder einem anderen Gebäude. Der Portikus diente als Übergangsraum zwischen der Außenwelt und dem inneren Heiligtum. Er schützte den Eingang vor Wetter und schuf einen feierlichen Eindruck. Portiken waren ein wichtiges Element der griechischen Architektur."
-    },
+    "wrong_answers_de": [
+      "Innerer Teil des Tempels",
+      "Fundament des Tempels",
+      "Dach des Tempels"
+    ],
+    "explanation_ru": "Портик (пронаос) - это крытая галерея с колоннами перед входом в храм или другое здание. Портик служил переходным пространством между внешним миром и внутренним святилищем. Он защищал вход от непогоды и создавал торжественное впечатление. Портики были важным элементом греческой архитектуры.",
+    "explanation_de": "Ein Portikus (Pronaos) ist eine überdachte Galerie mit Säulen vor dem Eingang zu einem Tempel oder einem anderen Gebäude. Der Portikus diente als Übergangsraum zwischen der Außenwelt und dem inneren Heiligtum. Er schützte den Eingang vor Wetter und schuf einen feierlichen Eindruck. Portiken waren ein wichtiges Element der griechischen Architektur.",
     "interesting_facts": [
       {
         "ru": "Портики различались по количеству колонн: дистиль (2 колонны), тетрастиль (4), гексастиль (6), октастиль (8). Парфенон имеет гексастильный портик с 6 колоннами на фасаде. Портик создавал впечатление величия и подготавливал посетителей к входу в святилище.",
@@ -941,28 +821,22 @@
   },
   {
     "id": 321,
-    "question": "Кто была муза гимнов?",
+    "question_ru": "Кто была муза гимнов?",
     "question_de": "Wer war die Muse der Hymnen?",
-    "answer": "Полигимния",
-    "answer_de": "Polyhymnia",
-    "wrong_answers": [
-      {
-        "ru": "Каллиопа",
-        "de": "Kalliope"
-      },
-      {
-        "ru": "Эвтерпа",
-        "de": "Euterpe"
-      },
-      {
-        "ru": "Урания",
-        "de": "Urania"
-      }
+    "correct_answer_ru": "Полигимния",
+    "correct_answer_de": "Polyhymnia",
+    "wrong_answers_ru": [
+      "Каллиопа",
+      "Эвтерпа",
+      "Урания"
     ],
-    "explanation": {
-      "ru": "Полигимния была музой священных гимнов, красноречия и пантомимы в древнегреческой мифологии. Она покровительствовала религиозным песнопениям и ораторскому искусству. Полигимния изображалась в задумчивой позе, часто с покрывалом на голове и без музыкального инструмента. Её имя означает 'много гимнов'.",
-      "de": "Polyhymnia war die Muse der heiligen Hymnen, Beredsamkeit und Pantomime in der antiken griechischen Mythologie. Sie war die Schutzpatronin religiöser Gesänge und der Redekunst. Polyhymnia wurde in nachdenklicher Haltung dargestellt, oft mit einem Schleier auf dem Kopf und ohne Musikinstrument. Ihr Name bedeutet 'viele Hymnen'."
-    },
+    "wrong_answers_de": [
+      "Kalliope",
+      "Euterpe",
+      "Urania"
+    ],
+    "explanation_ru": "Полигимния была музой священных гимнов, красноречия и пантомимы в древнегреческой мифологии. Она покровительствовала религиозным песнопениям и ораторскому искусству. Полигимния изображалась в задумчивой позе, часто с покрывалом на голове и без музыкального инструмента. Её имя означает 'много гимнов'.",
+    "explanation_de": "Polyhymnia war die Muse der heiligen Hymnen, Beredsamkeit und Pantomime in der antiken griechischen Mythologie. Sie war die Schutzpatronin religiöser Gesänge und der Redekunst. Polyhymnia wurde in nachdenklicher Haltung dargestellt, oft mit einem Schleier auf dem Kopf und ohne Musikinstrument. Ihr Name bedeutet 'viele Hymnen'.",
     "interesting_facts": [
       {
         "ru": "Полигимния была единственной из муз, которая часто изображалась без музыкального инструмента, что подчёркивало её связь с вокальной музыкой и пением. Она покровительствовала религиозным гимнам, которые исполнялись в храмах и на праздниках. Полигимния вдохновляла создание священных текстов.",
@@ -988,28 +862,22 @@
   },
   {
     "id": 322,
-    "question": "Как называлась внутренняя часть храма?",
+    "question_ru": "Как называлась внутренняя часть храма?",
     "question_de": "Wie hieß der innere Teil des Tempels?",
-    "answer": "Целла (наос)",
-    "answer_de": "Cella (Naos)",
-    "wrong_answers": [
-      {
-        "ru": "Портик",
-        "de": "Portikus"
-      },
-      {
-        "ru": "Стилобат",
-        "de": "Stylobat"
-      },
-      {
-        "ru": "Фриз",
-        "de": "Fries"
-      }
+    "correct_answer_ru": "Целла (наос)",
+    "correct_answer_de": "Cella (Naos)",
+    "wrong_answers_ru": [
+      "Портик",
+      "Стилобат",
+      "Фриз"
     ],
-    "explanation": {
-      "ru": "Целла (или наос) - это внутреннее святилище храма, где находилась статуя божества. Это была самая важная часть храма, доступная только жрецам. Целла обычно была прямоугольной формы и могла иметь колонны внутри для поддержки крыши. В больших храмах целла делилась на несколько помещений.",
-      "de": "Die Cella (oder Naos) ist das innere Heiligtum des Tempels, wo die Statue der Gottheit stand. Dies war der wichtigste Teil des Tempels, der nur Priestern zugänglich war. Die Cella war normalerweise rechteckig und konnte innen Säulen zur Unterstützung des Daches haben. In großen Tempeln war die Cella in mehrere Räume unterteilt."
-    },
+    "wrong_answers_de": [
+      "Portikus",
+      "Stylobat",
+      "Fries"
+    ],
+    "explanation_ru": "Целла (или наос) - это внутреннее святилище храма, где находилась статуя божества. Это была самая важная часть храма, доступная только жрецам. Целла обычно была прямоугольной формы и могла иметь колонны внутри для поддержки крыши. В больших храмах целла делилась на несколько помещений.",
+    "explanation_de": "Die Cella (oder Naos) ist das innere Heiligtum des Tempels, wo die Statue der Gottheit stand. Dies war der wichtigste Teil des Tempels, der nur Priestern zugänglich war. Die Cella war normalerweise rechteckig und konnte innen Säulen zur Unterstützung des Daches haben. In großen Tempeln war die Cella in mehrere Räume unterteilt.",
     "interesting_facts": [
       {
         "ru": "Целла была самым священным местом храма, куда допускались только жрецы. Обычные посетители могли видеть статую божества через открытые двери, но не входили внутрь. В целле хранились сокровища храма и приношения божеству. Это было место прямого контакта с богом.",
@@ -1035,28 +903,22 @@
   },
   {
     "id": 323,
-    "question": "Кто была муза астрономии?",
+    "question_ru": "Кто была муза астрономии?",
     "question_de": "Wer war die Muse der Astronomie?",
-    "answer": "Урания",
-    "answer_de": "Urania",
-    "wrong_answers": [
-      {
-        "ru": "Клио",
-        "de": "Klio"
-      },
-      {
-        "ru": "Каллиопа",
-        "de": "Kalliope"
-      },
-      {
-        "ru": "Эрато",
-        "de": "Erato"
-      }
+    "correct_answer_ru": "Урания",
+    "correct_answer_de": "Urania",
+    "wrong_answers_ru": [
+      "Клио",
+      "Каллиопа",
+      "Эрато"
     ],
-    "explanation": {
-      "ru": "Урания была музой астрономии и небесных наук в древнегреческой мифологии. Она покровительствовала изучению звёзд, планет и небесных явлений. Урания изображалась с глобусом или небесной сферой и часто указывала на небо палочкой. Её имя означает 'небесная' и связано с Ураном, богом неба.",
-      "de": "Urania war die Muse der Astronomie und Himmelswissenschaften in der antiken griechischen Mythologie. Sie war die Schutzpatronin des Studiums der Sterne, Planeten und Himmelsphänomene. Urania wurde mit einem Globus oder einer Himmelskugel dargestellt und zeigte oft mit einem Stab zum Himmel. Ihr Name bedeutet 'himmlisch' und ist mit Uranos, dem Gott des Himmels, verbunden."
-    },
+    "wrong_answers_de": [
+      "Klio",
+      "Kalliope",
+      "Erato"
+    ],
+    "explanation_ru": "Урания была музой астрономии и небесных наук в древнегреческой мифологии. Она покровительствовала изучению звёзд, планет и небесных явлений. Урания изображалась с глобусом или небесной сферой и часто указывала на небо палочкой. Её имя означает 'небесная' и связано с Ураном, богом неба.",
+    "explanation_de": "Urania war die Muse der Astronomie und Himmelswissenschaften in der antiken griechischen Mythologie. Sie war die Schutzpatronin des Studiums der Sterne, Planeten und Himmelsphänomene. Urania wurde mit einem Globus oder einer Himmelskugel dargestellt und zeigte oft mit einem Stab zum Himmel. Ihr Name bedeutet 'himmlisch' und ist mit Uranos, dem Gott des Himmels, verbunden.",
     "interesting_facts": [
       {
         "ru": "Урания была одной из муз, покровительствовавших наукам, наряду с Клио (история). Она вдохновляла астрономов на изучение небес и создание звёздных карт. В древности астрономия была тесно связана с астрологией, и Урания покровительствовала обеим.",
@@ -1082,28 +944,22 @@
   },
   {
     "id": 324,
-    "question": "Что такое стоа?",
+    "question_ru": "Что такое стоа?",
     "question_de": "Was ist eine Stoa?",
-    "answer": "Крытая колоннада",
-    "answer_de": "Überdachte Säulenhalle",
-    "wrong_answers": [
-      {
-        "ru": "Храм",
-        "de": "Tempel"
-      },
-      {
-        "ru": "Театр",
-        "de": "Theater"
-      },
-      {
-        "ru": "Гимнасий",
-        "de": "Gymnasion"
-      }
+    "correct_answer_ru": "Крытая колоннада",
+    "correct_answer_de": "Überdachte Säulenhalle",
+    "wrong_answers_ru": [
+      "Храм",
+      "Театр",
+      "Гимнасий"
     ],
-    "explanation": {
-      "ru": "Стоа (стоя) - это длинная крытая колоннада, открытая с одной стороны, использовавшаяся в древнегреческой архитектуре. Стои служили общественными зданиями для встреч, торговли, философских бесед и укрытия от непогоды. Они были важным элементом греческих городов, особенно агор (рыночных площадей).",
-      "de": "Eine Stoa ist eine lange überdachte Säulenhalle, die auf einer Seite offen ist und in der antiken griechischen Architektur verwendet wurde. Stoas dienten als öffentliche Gebäude für Treffen, Handel, philosophische Gespräche und Schutz vor Wetter. Sie waren ein wichtiges Element griechischer Städte, besonders der Agoren (Marktplätze)."
-    },
+    "wrong_answers_de": [
+      "Tempel",
+      "Theater",
+      "Gymnasion"
+    ],
+    "explanation_ru": "Стоа (стоя) - это длинная крытая колоннада, открытая с одной стороны, использовавшаяся в древнегреческой архитектуре. Стои служили общественными зданиями для встреч, торговли, философских бесед и укрытия от непогоды. Они были важным элементом греческих городов, особенно агор (рыночных площадей).",
+    "explanation_de": "Eine Stoa ist eine lange überdachte Säulenhalle, die auf einer Seite offen ist und in der antiken griechischen Architektur verwendet wurde. Stoas dienten als öffentliche Gebäude für Treffen, Handel, philosophische Gespräche und Schutz vor Wetter. Sie waren ein wichtiges Element griechischer Städte, besonders der Agoren (Marktplätze).",
     "interesting_facts": [
       {
         "ru": "Самая известная стоа - это Стоа Пойкиле (Расписная стоа) в Афинах, где учил философ Зенон, основатель стоицизма. Название философской школы 'стоицизм' происходит от этой стои. Стои были центрами общественной жизни и философских дискуссий.",
@@ -1129,28 +985,22 @@
   },
   {
     "id": 325,
-    "question": "Кто были титаны?",
+    "question_ru": "Кто были титаны?",
     "question_de": "Wer waren die Titanen?",
-    "answer": "Древние боги, родители олимпийцев",
-    "answer_de": "Alte Götter, Eltern der Olympier",
-    "wrong_answers": [
-      {
-        "ru": "Дети Зевса",
-        "de": "Kinder des Zeus"
-      },
-      {
-        "ru": "Боги подземного мира",
-        "de": "Götter der Unterwelt"
-      },
-      {
-        "ru": "Морские боги",
-        "de": "Meeresgötter"
-      }
+    "correct_answer_ru": "Древние боги, родители олимпийцев",
+    "correct_answer_de": "Alte Götter, Eltern der Olympier",
+    "wrong_answers_ru": [
+      "Дети Зевса",
+      "Боги подземного мира",
+      "Морские боги"
     ],
-    "explanation": {
-      "ru": "Титаны были древними богами в греческой мифологии, детьми Урана (неба) и Геи (земли). Они были родителями олимпийских богов и правили миром до того, как их сверг Зевс. Главой титанов был Кронос, который сверг своего отца Урана. Титаномахия (война титанов) закончилась победой олимпийцев.",
-      "de": "Die Titanen waren alte Götter in der griechischen Mythologie, Kinder des Uranos (Himmel) und der Gaia (Erde). Sie waren die Eltern der olympischen Götter und regierten die Welt, bevor sie von Zeus gestürzt wurden. Das Oberhaupt der Titanen war Kronos, der seinen Vater Uranos stürzte. Die Titanomachie (Krieg der Titanen) endete mit dem Sieg der Olympier."
-    },
+    "wrong_answers_de": [
+      "Kinder des Zeus",
+      "Götter der Unterwelt",
+      "Meeresgötter"
+    ],
+    "explanation_ru": "Титаны были древними богами в греческой мифологии, детьми Урана (неба) и Геи (земли). Они были родителями олимпийских богов и правили миром до того, как их сверг Зевс. Главой титанов был Кронос, который сверг своего отца Урана. Титаномахия (война титанов) закончилась победой олимпийцев.",
+    "explanation_de": "Die Titanen waren alte Götter in der griechischen Mythologie, Kinder des Uranos (Himmel) und der Gaia (Erde). Sie waren die Eltern der olympischen Götter und regierten die Welt, bevor sie von Zeus gestürzt wurden. Das Oberhaupt der Titanen war Kronos, der seinen Vater Uranos stürzte. Die Titanomachie (Krieg der Titanen) endete mit dem Sieg der Olympier.",
     "interesting_facts": [
       {
         "ru": "Титанов было двенадцать: шесть братьев (Океан, Кой, Крий, Гиперион, Иапет, Кронос) и шесть сестёр (Тейя, Рея, Фемида, Мнемозина, Феба, Тефида). Они представляли различные силы природы: океан, солнце, память, справедливость и другие. Титаны были первым поколением богов после Хаоса.",
@@ -1176,28 +1026,22 @@
   },
   {
     "id": 326,
-    "question": "Где проводились театральные представления?",
+    "question_ru": "Где проводились театральные представления?",
     "question_de": "Wo fanden Theateraufführungen statt?",
-    "answer": "Театрон",
-    "answer_de": "Theatron",
-    "wrong_answers": [
-      {
-        "ru": "Одеон",
-        "de": "Odeon"
-      },
-      {
-        "ru": "Гимнасий",
-        "de": "Gymnasion"
-      },
-      {
-        "ru": "Стадион",
-        "de": "Stadion"
-      }
+    "correct_answer_ru": "Театрон",
+    "correct_answer_de": "Theatron",
+    "wrong_answers_ru": [
+      "Одеон",
+      "Гимнасий",
+      "Стадион"
     ],
-    "explanation": {
-      "ru": "Театрон - это зрительские места в древнегреческом театре, расположенные полукругом на склоне холма. Театрон был частью театрального комплекса, который включал также орхестру (площадку для хора) и скене (сцену). Театрон обеспечивал хорошую видимость и акустику для всех зрителей.",
-      "de": "Das Theatron sind die Zuschauerplätze im antiken griechischen Theater, die halbkreisförmig an einem Hügelhang angeordnet sind. Das Theatron war Teil des Theaterkomplexes, der auch die Orchestra (Plattform für den Chor) und die Skene (Bühne) umfasste. Das Theatron bot gute Sicht und Akustik für alle Zuschauer."
-    },
+    "wrong_answers_de": [
+      "Odeon",
+      "Gymnasion",
+      "Stadion"
+    ],
+    "explanation_ru": "Театрон - это зрительские места в древнегреческом театре, расположенные полукругом на склоне холма. Театрон был частью театрального комплекса, который включал также орхестру (площадку для хора) и скене (сцену). Театрон обеспечивал хорошую видимость и акустику для всех зрителей.",
+    "explanation_de": "Das Theatron sind die Zuschauerplätze im antiken griechischen Theater, die halbkreisförmig an einem Hügelhang angeordnet sind. Das Theatron war Teil des Theaterkomplexes, der auch die Orchestra (Plattform für den Chor) und die Skene (Bühne) umfasste. Das Theatron bot gute Sicht und Akustik für alle Zuschauer.",
     "interesting_facts": [
       {
         "ru": "Театрон обычно вырубался в склоне холма, что создавало естественную акустику. Зрители сидели на каменных скамьях, расположенных рядами. Самые важные места в первом ряду (проэдрия) были зарезервированы для жрецов и почётных граждан. Театрон мог вмещать тысячи зрителей.",
@@ -1223,28 +1067,22 @@
   },
   {
     "id": 327,
-    "question": "Кто был главой титанов?",
+    "question_ru": "Кто был главой титанов?",
     "question_de": "Wer war das Oberhaupt der Titanen?",
-    "answer": "Кронос",
-    "answer_de": "Kronos",
-    "wrong_answers": [
-      {
-        "ru": "Уран",
-        "de": "Uranos"
-      },
-      {
-        "ru": "Океан",
-        "de": "Okeanos"
-      },
-      {
-        "ru": "Атлант",
-        "de": "Atlas"
-      }
+    "correct_answer_ru": "Кронос",
+    "correct_answer_de": "Kronos",
+    "wrong_answers_ru": [
+      "Уран",
+      "Океан",
+      "Атлант"
     ],
-    "explanation": {
-      "ru": "Кронос был главой титанов и правителем мира до того, как его сверг сын Зевс. Он был сыном Урана (неба) и Геи (земли) и возглавил титанов в битве против отца. Кронос пожирал своих детей, опасаясь, что они свергнут его, но Зевс избежал этой участи и победил отца.",
-      "de": "Kronos war das Oberhaupt der Titanen und Herrscher der Welt, bevor er von seinem Sohn Zeus gestürzt wurde. Er war der Sohn des Uranos (Himmel) und der Gaia (Erde) und führte die Titanen in der Schlacht gegen den Vater an. Kronos verschlang seine Kinder aus Angst, dass sie ihn stürzen würden, aber Zeus entging diesem Schicksal und besiegte den Vater."
-    },
+    "wrong_answers_de": [
+      "Uranos",
+      "Okeanos",
+      "Atlas"
+    ],
+    "explanation_ru": "Кронос был главой титанов и правителем мира до того, как его сверг сын Зевс. Он был сыном Урана (неба) и Геи (земли) и возглавил титанов в битве против отца. Кронос пожирал своих детей, опасаясь, что они свергнут его, но Зевс избежал этой участи и победил отца.",
+    "explanation_de": "Kronos war das Oberhaupt der Titanen und Herrscher der Welt, bevor er von seinem Sohn Zeus gestürzt wurde. Er war der Sohn des Uranos (Himmel) und der Gaia (Erde) und führte die Titanen in der Schlacht gegen den Vater an. Kronos verschlang seine Kinder aus Angst, dass sie ihn stürzen würden, aber Zeus entging diesem Schicksal und besiegte den Vater.",
     "interesting_facts": [
       {
         "ru": "Кронос получил пророчество, что один из его детей свергнет его, поэтому он пожирал каждого новорождённого. Рея, его жена, спасла Зевса, подсунув Кроносу камень вместо младенца. Зевс вырос на Крите и позже заставил отца изрыгнуть своих братьев и сестёр.",
@@ -1270,28 +1108,22 @@
   },
   {
     "id": 328,
-    "question": "Как называлась сцена в театре?",
+    "question_ru": "Как называлась сцена в театре?",
     "question_de": "Wie hieß die Bühne im Theater?",
-    "answer": "Скене",
-    "answer_de": "Skene",
-    "wrong_answers": [
-      {
-        "ru": "Орхестра",
-        "de": "Orchestra"
-      },
-      {
-        "ru": "Театрон",
-        "de": "Theatron"
-      },
-      {
-        "ru": "Парод",
-        "de": "Parodos"
-      }
+    "correct_answer_ru": "Скене",
+    "correct_answer_de": "Skene",
+    "wrong_answers_ru": [
+      "Орхестра",
+      "Театрон",
+      "Парод"
     ],
-    "explanation": {
-      "ru": "Скене (сцена) - это здание за орхестрой в древнегреческом театре, где актёры переодевались и хранили реквизит. Изначально скене была простой палаткой, но позже стала каменным зданием с декорациями. От слова 'скене' произошло современное слово 'сцена'. Скене имела проёмы (пароды) для выхода актёров.",
-      "de": "Die Skene (Bühne) ist das Gebäude hinter der Orchestra im antiken griechischen Theater, wo Schauspieler sich umzogen und Requisiten aufbewahrten. Ursprünglich war die Skene ein einfaches Zelt, wurde aber später zu einem steinernen Gebäude mit Dekorationen. Das moderne Wort 'Szene' stammt vom Wort 'Skene'. Die Skene hatte Öffnungen (Parodoi) für den Auftritt der Schauspieler."
-    },
+    "wrong_answers_de": [
+      "Orchestra",
+      "Theatron",
+      "Parodos"
+    ],
+    "explanation_ru": "Скене (сцена) - это здание за орхестрой в древнегреческом театре, где актёры переодевались и хранили реквизит. Изначально скене была простой палаткой, но позже стала каменным зданием с декорациями. От слова 'скене' произошло современное слово 'сцена'. Скене имела проёмы (пароды) для выхода актёров.",
+    "explanation_de": "Die Skene (Bühne) ist das Gebäude hinter der Orchestra im antiken griechischen Theater, wo Schauspieler sich umzogen und Requisiten aufbewahrten. Ursprünglich war die Skene ein einfaches Zelt, wurde aber später zu einem steinernen Gebäude mit Dekorationen. Das moderne Wort 'Szene' stammt vom Wort 'Skene'. Die Skene hatte Öffnungen (Parodoi) für den Auftritt der Schauspieler.",
     "interesting_facts": [
       {
         "ru": "Скене развивалась от простой палатки до сложного каменного здания с колоннами, фронтонами и декорациями. На фасаде скене рисовали декорации, изображающие различные места действия. Позже появились вращающиеся декорации (периакты) для быстрой смены сцен. Скене стала важным элементом театральной архитектуры.",
@@ -1317,28 +1149,22 @@
   },
   {
     "id": 329,
-    "question": "Кто была женой Кроноса?",
+    "question_ru": "Кто была женой Кроноса?",
     "question_de": "Wer war die Frau des Kronos?",
-    "answer": "Рея",
-    "answer_de": "Rhea",
-    "wrong_answers": [
-      {
-        "ru": "Гера",
-        "de": "Hera"
-      },
-      {
-        "ru": "Деметра",
-        "de": "Demeter"
-      },
-      {
-        "ru": "Гестия",
-        "de": "Hestia"
-      }
+    "correct_answer_ru": "Рея",
+    "correct_answer_de": "Rhea",
+    "wrong_answers_ru": [
+      "Гера",
+      "Деметра",
+      "Гестия"
     ],
-    "explanation": {
-      "ru": "Рея была женой Кроноса и матерью олимпийских богов: Зевса, Геры, Посейдона, Аида, Деметры и Гестии. Она была титанидой, дочерью Урана и Геи. Рея помогла спасти Зевса, подсунув Кроносу камень вместо младенца, что позволило Зевсу вырасти и свергнуть отца.",
-      "de": "Rhea war die Frau des Kronos und Mutter der olympischen Götter: Zeus, Hera, Poseidon, Hades, Demeter und Hestia. Sie war eine Titanin, Tochter des Uranos und der Gaia. Rhea half, Zeus zu retten, indem sie Kronos einen Stein statt des Säuglings gab, was es Zeus ermöglichte, aufzuwachsen und den Vater zu stürzen."
-    },
+    "wrong_answers_de": [
+      "Hera",
+      "Demeter",
+      "Hestia"
+    ],
+    "explanation_ru": "Рея была женой Кроноса и матерью олимпийских богов: Зевса, Геры, Посейдона, Аида, Деметры и Гестии. Она была титанидой, дочерью Урана и Геи. Рея помогла спасти Зевса, подсунув Кроносу камень вместо младенца, что позволило Зевсу вырасти и свергнуть отца.",
+    "explanation_de": "Rhea war die Frau des Kronos und Mutter der olympischen Götter: Zeus, Hera, Poseidon, Hades, Demeter und Hestia. Sie war eine Titanin, Tochter des Uranos und der Gaia. Rhea half, Zeus zu retten, indem sie Kronos einen Stein statt des Säuglings gab, was es Zeus ermöglichte, aufzuwachsen und den Vater zu stürzen.",
     "interesting_facts": [
       {
         "ru": "Рея была известна как 'мать богов' и покровительница материнства. Она изображалась в короне и часто с львами, которые тащили её колесницу. Рея ассоциировалась с плодородием и природой. В римской мифологии ей соответствовала Опс, богиня изобилия.",
@@ -1364,28 +1190,22 @@
   },
   {
     "id": 330,
-    "question": "Как назывался хор в театре?",
+    "question_ru": "Как назывался хор в театре?",
     "question_de": "Wie hieß der Chor im Theater?",
-    "answer": "Орхестра",
-    "answer_de": "Orchestra",
-    "wrong_answers": [
-      {
-        "ru": "Скене",
-        "de": "Skene"
-      },
-      {
-        "ru": "Театрон",
-        "de": "Theatron"
-      },
-      {
-        "ru": "Парод",
-        "de": "Parodos"
-      }
+    "correct_answer_ru": "Орхестра",
+    "correct_answer_de": "Orchestra",
+    "wrong_answers_ru": [
+      "Скене",
+      "Театрон",
+      "Парод"
     ],
-    "explanation": {
-      "ru": "Орхестра - это круглая площадка в центре древнегреческого театра, где выступал хор. Она находилась между театроном (зрительскими местами) и скене (сценой). Орхестра была местом, где хор пел, танцевал и комментировал действие. От слова 'орхестра' произошло современное слово 'оркестр'.",
-      "de": "Die Orchestra ist eine runde Plattform im Zentrum des antiken griechischen Theaters, wo der Chor auftrat. Sie befand sich zwischen dem Theatron (Zuschauerplätzen) und der Skene (Bühne). Die Orchestra war der Ort, wo der Chor sang, tanzte und die Handlung kommentierte. Das moderne Wort 'Orchester' stammt vom Wort 'Orchestra'."
-    },
+    "wrong_answers_de": [
+      "Skene",
+      "Theatron",
+      "Parodos"
+    ],
+    "explanation_ru": "Орхестра - это круглая площадка в центре древнегреческого театра, где выступал хор. Она находилась между театроном (зрительскими местами) и скене (сценой). Орхестра была местом, где хор пел, танцевал и комментировал действие. От слова 'орхестра' произошло современное слово 'оркестр'.",
+    "explanation_de": "Die Orchestra ist eine runde Plattform im Zentrum des antiken griechischen Theaters, wo der Chor auftrat. Sie befand sich zwischen dem Theatron (Zuschauerplätzen) und der Skene (Bühne). Die Orchestra war der Ort, wo der Chor sang, tanzte und die Handlung kommentierte. Das moderne Wort 'Orchester' stammt vom Wort 'Orchestra'.",
     "interesting_facts": [
       {
         "ru": "Орхестра была круглой или полукруглой площадкой, обычно вымощенной камнем или землёй. В центре орхестры часто находился алтарь Диониса (тимэле), что подчёркивало религиозное происхождение театра. Хор входил в орхестру через боковые проходы (пароды) и оставался там на протяжении всего представления.",
@@ -1411,28 +1231,22 @@
   },
   {
     "id": 331,
-    "question": "Какой титан держал небо?",
+    "question_ru": "Какой титан держал небо?",
     "question_de": "Welcher Titan hielt den Himmel?",
-    "answer": "Атлант",
-    "answer_de": "Atlas",
-    "wrong_answers": [
-      {
-        "ru": "Прометей",
-        "de": "Prometheus"
-      },
-      {
-        "ru": "Кронос",
-        "de": "Kronos"
-      },
-      {
-        "ru": "Гиперион",
-        "de": "Hyperion"
-      }
+    "correct_answer_ru": "Атлант",
+    "correct_answer_de": "Atlas",
+    "wrong_answers_ru": [
+      "Прометей",
+      "Кронос",
+      "Гиперион"
     ],
-    "explanation": {
-      "ru": "Атлант был титаном, который держал небесный свод на своих плечах в наказание за участие в титаномахии против олимпийцев. Он был сыном титана Иапета и океаниды Климены. Атлант стоял на краю мира, поддерживая небо, чтобы оно не упало на землю. Его имя стало символом выносливости и силы.",
-      "de": "Atlas war ein Titan, der den Himmelsgewölbe auf seinen Schultern trug, als Strafe für die Teilnahme an der Titanomachie gegen die Olympier. Er war der Sohn des Titanen Iapetos und der Okeanide Klymene. Atlas stand am Rande der Welt und stützte den Himmel, damit er nicht auf die Erde fiel. Sein Name wurde zum Symbol für Ausdauer und Stärke."
-    },
+    "wrong_answers_de": [
+      "Prometheus",
+      "Kronos",
+      "Hyperion"
+    ],
+    "explanation_ru": "Атлант был титаном, который держал небесный свод на своих плечах в наказание за участие в титаномахии против олимпийцев. Он был сыном титана Иапета и океаниды Климены. Атлант стоял на краю мира, поддерживая небо, чтобы оно не упало на землю. Его имя стало символом выносливости и силы.",
+    "explanation_de": "Atlas war ein Titan, der den Himmelsgewölbe auf seinen Schultern trug, als Strafe für die Teilnahme an der Titanomachie gegen die Olympier. Er war der Sohn des Titanen Iapetos und der Okeanide Klymene. Atlas stand am Rande der Welt und stützte den Himmel, damit er nicht auf die Erde fiel. Sein Name wurde zum Symbol für Ausdauer und Stärke.",
     "interesting_facts": [
       {
         "ru": "Атлант был освобождён от своей ноши на время, когда Геракл попросил его помочь достать золотые яблоки Гесперид. Геракл временно подержал небо, пока Атлант принёс яблоки. Однако Атлант попытался обмануть Геракла, но тот перехитрил его и заставил снова взять небо на плечи.",
@@ -1458,28 +1272,22 @@
   },
   {
     "id": 332,
-    "question": "Сколько мест было в театре Диониса?",
+    "question_ru": "Сколько мест было в театре Диониса?",
     "question_de": "Wie viele Plätze hatte das Theater des Dionysos?",
-    "answer": "Около 17 000",
-    "answer_de": "Etwa 17.000",
-    "wrong_answers": [
-      {
-        "ru": "Около 10 000",
-        "de": "Etwa 10.000"
-      },
-      {
-        "ru": "Около 25 000",
-        "de": "Etwa 25.000"
-      },
-      {
-        "ru": "Около 5 000",
-        "de": "Etwa 5.000"
-      }
+    "correct_answer_ru": "Около 17 000",
+    "correct_answer_de": "Etwa 17.000",
+    "wrong_answers_ru": [
+      "Около 10 000",
+      "Около 25 000",
+      "Около 5 000"
     ],
-    "explanation": {
-      "ru": "Театр Диониса в Афинах мог вмещать около 17 000 зрителей, что делало его одним из самых больших театров античности. Он был построен на южном склоне Акрополя и использовался для драматических представлений во время Великих Дионисий. Театр был реконструирован несколько раз, увеличивая свою вместимость.",
-      "de": "Das Theater des Dionysos in Athen konnte etwa 17.000 Zuschauer aufnehmen, was es zu einem der größten Theater der Antike machte. Es wurde am Südhang der Akropolis erbaut und für dramatische Aufführungen während der Großen Dionysien verwendet. Das Theater wurde mehrmals rekonstruiert und erhöhte seine Kapazität."
-    },
+    "wrong_answers_de": [
+      "Etwa 10.000",
+      "Etwa 25.000",
+      "Etwa 5.000"
+    ],
+    "explanation_ru": "Театр Диониса в Афинах мог вмещать около 17 000 зрителей, что делало его одним из самых больших театров античности. Он был построен на южном склоне Акрополя и использовался для драматических представлений во время Великих Дионисий. Театр был реконструирован несколько раз, увеличивая свою вместимость.",
+    "explanation_de": "Das Theater des Dionysos in Athen konnte etwa 17.000 Zuschauer aufnehmen, was es zu einem der größten Theater der Antike machte. Es wurde am Südhang der Akropolis erbaut und für dramatische Aufführungen während der Großen Dionysien verwendet. Das Theater wurde mehrmals rekonstruiert und erhöhte seine Kapazität.",
     "interesting_facts": [
       {
         "ru": "Театр Диониса был первым каменным театром в мире, построенным в IV веке до н.э. Изначально он был деревянным, но после обрушения зрительских мест был перестроен в камне. Театр имел 64 ряда сидений, разделённых проходами на секции. Первый ряд был зарезервирован для почётных гостей.",
@@ -1505,28 +1313,22 @@
   },
   {
     "id": 333,
-    "question": "Какой титан дал людям огонь?",
+    "question_ru": "Какой титан дал людям огонь?",
     "question_de": "Welcher Titan gab den Menschen das Feuer?",
-    "answer": "Прометей",
-    "answer_de": "Prometheus",
-    "wrong_answers": [
-      {
-        "ru": "Атлант",
-        "de": "Atlas"
-      },
-      {
-        "ru": "Гефест",
-        "de": "Hephaistos"
-      },
-      {
-        "ru": "Зевс",
-        "de": "Zeus"
-      }
+    "correct_answer_ru": "Прометей",
+    "correct_answer_de": "Prometheus",
+    "wrong_answers_ru": [
+      "Атлант",
+      "Гефест",
+      "Зевс"
     ],
-    "explanation": {
-      "ru": "Прометей был титаном, который украл огонь у богов и подарил его людям, нарушив волю Зевса. Он был защитником человечества и помогал людям развиваться. За это Зевс наказал его, приковав к скале, где орёл клевал его печень каждый день. Прометей стал символом самопожертвования и защиты человечества.",
-      "de": "Prometheus war ein Titan, der das Feuer von den Göttern stahl und es den Menschen schenkte, was gegen den Willen des Zeus verstieß. Er war der Beschützer der Menschheit und half den Menschen, sich zu entwickeln. Dafür bestrafte ihn Zeus, indem er ihn an einen Felsen kettete, wo ein Adler täglich seine Leber pickte. Prometheus wurde zum Symbol der Selbstaufopferung und des Schutzes der Menschheit."
-    },
+    "wrong_answers_de": [
+      "Atlas",
+      "Hephaistos",
+      "Zeus"
+    ],
+    "explanation_ru": "Прометей был титаном, который украл огонь у богов и подарил его людям, нарушив волю Зевса. Он был защитником человечества и помогал людям развиваться. За это Зевс наказал его, приковав к скале, где орёл клевал его печень каждый день. Прометей стал символом самопожертвования и защиты человечества.",
+    "explanation_de": "Prometheus war ein Titan, der das Feuer von den Göttern stahl und es den Menschen schenkte, was gegen den Willen des Zeus verstieß. Er war der Beschützer der Menschheit und half den Menschen, sich zu entwickeln. Dafür bestrafte ihn Zeus, indem er ihn an einen Felsen kettete, wo ein Adler täglich seine Leber pickte. Prometheus wurde zum Symbol der Selbstaufopferung und des Schutzes der Menschheit.",
     "interesting_facts": [
       {
         "ru": "Прометей не только дал людям огонь, но и научил их ремёслам, письму, медицине и другим искусствам. Он создал людей из глины по образу богов и был их защитником. Прометей предвидел, что Зевс накажет его, но всё равно помог людям, жертвуя собой.",
@@ -1552,28 +1354,22 @@
   },
   {
     "id": 334,
-    "question": "Когда проводились театральные фестивали?",
+    "question_ru": "Когда проводились театральные фестивали?",
     "question_de": "Wann fanden Theaterfestivals statt?",
-    "answer": "Во время Дионисий",
-    "answer_de": "Während der Dionysien",
-    "wrong_answers": [
-      {
-        "ru": "Во время Олимпийских игр",
-        "de": "Während der Olympischen Spiele"
-      },
-      {
-        "ru": "Во время Панафиней",
-        "de": "Während der Panathenäen"
-      },
-      {
-        "ru": "Во время Элевсинских мистерий",
-        "de": "Während der Eleusinischen Mysterien"
-      }
+    "correct_answer_ru": "Во время Дионисий",
+    "correct_answer_de": "Während der Dionysien",
+    "wrong_answers_ru": [
+      "Во время Олимпийских игр",
+      "Во время Панафиней",
+      "Во время Элевсинских мистерий"
     ],
-    "explanation": {
-      "ru": "Театральные фестивали проводились во время Дионисий - праздников в честь бога Диониса. Главными были Великие (Городские) Дионисии в марте-апреле, когда проходили театральные конкурсы. Малые (Сельские) Дионисии в декабре также включали театральные представления. Театр был частью религиозного культа Диониса.",
-      "de": "Theaterfestivals fanden während der Dionysien statt - Feste zu Ehren des Gottes Dionysos. Die wichtigsten waren die Großen (Städtischen) Dionysien im März-April, wenn Theaterwettbewerbe stattfanden. Die Kleinen (Ländlichen) Dionysien im Dezember umfassten auch Theateraufführungen. Das Theater war Teil des religiösen Kultes des Dionysos."
-    },
+    "wrong_answers_de": [
+      "Während der Olympischen Spiele",
+      "Während der Panathenäen",
+      "Während der Eleusinischen Mysterien"
+    ],
+    "explanation_ru": "Театральные фестивали проводились во время Дионисий - праздников в честь бога Диониса. Главными были Великие (Городские) Дионисии в марте-апреле, когда проходили театральные конкурсы. Малые (Сельские) Дионисии в декабре также включали театральные представления. Театр был частью религиозного культа Диониса.",
+    "explanation_de": "Theaterfestivals fanden während der Dionysien statt - Feste zu Ehren des Gottes Dionysos. Die wichtigsten waren die Großen (Städtischen) Dionysien im März-April, wenn Theaterwettbewerbe stattfanden. Die Kleinen (Ländlichen) Dionysien im Dezember umfassten auch Theateraufführungen. Das Theater war Teil des religiösen Kultes des Dionysos.",
     "interesting_facts": [
       {
         "ru": "Великие Дионисии длились пять дней и включали процессии, жертвоприношения и театральные представления. В театральных конкурсах соревновались три драматурга, каждый представлял тетралогию (три трагедии и одну сатировскую драму). Победитель получал венок и славу. Это было важнейшее культурное событие года в Афинах.",
@@ -1599,28 +1395,22 @@
   },
   {
     "id": 335,
-    "question": "Как Зевс наказал Прометея?",
+    "question_ru": "Как Зевс наказал Прометея?",
     "question_de": "Wie bestrafte Zeus Prometheus?",
-    "answer": "Приковал к скале, орёл клевал печень",
-    "answer_de": "Fesselte ihn an einen Felsen, ein Adler pickte seine Leber",
-    "wrong_answers": [
-      {
-        "ru": "Заключил в Тартар",
-        "de": "Sperrte ihn in den Tartaros ein"
-      },
-      {
-        "ru": "Превратил в камень",
-        "de": "Verwandelte ihn in Stein"
-      },
-      {
-        "ru": "Лишил бессмертия",
-        "de": "Entzog ihm die Unsterblichkeit"
-      }
+    "correct_answer_ru": "Приковал к скале, орёл клевал печень",
+    "correct_answer_de": "Fesselte ihn an einen Felsen, ein Adler pickte seine Leber",
+    "wrong_answers_ru": [
+      "Заключил в Тартар",
+      "Превратил в камень",
+      "Лишил бессмертия"
     ],
-    "explanation": {
-      "ru": "Зевс наказал Прометея за кражу огня, приковав его к скале на Кавказе. Каждый день орёл прилетал и клевал печень Прометея, которая за ночь отрастала снова, делая наказание вечным. Прометей страдал тысячи лет, пока Геракл не освободил его, убив орла.",
-      "de": "Zeus bestrafte Prometheus für den Diebstahl des Feuers, indem er ihn an einen Felsen im Kaukasus kettete. Jeden Tag kam ein Adler und pickte Prometheus' Leber, die über Nacht nachwuchs, was die Strafe ewig machte. Prometheus litt Tausende von Jahren, bis Herakles ihn befreite, indem er den Adler tötete."
-    },
+    "wrong_answers_de": [
+      "Sperrte ihn in den Tartaros ein",
+      "Verwandelte ihn in Stein",
+      "Entzog ihm die Unsterblichkeit"
+    ],
+    "explanation_ru": "Зевс наказал Прометея за кражу огня, приковав его к скале на Кавказе. Каждый день орёл прилетал и клевал печень Прометея, которая за ночь отрастала снова, делая наказание вечным. Прометей страдал тысячи лет, пока Геракл не освободил его, убив орла.",
+    "explanation_de": "Zeus bestrafte Prometheus für den Diebstahl des Feuers, indem er ihn an einen Felsen im Kaukasus kettete. Jeden Tag kam ein Adler und pickte Prometheus' Leber, die über Nacht nachwuchs, was die Strafe ewig machte. Prometheus litt Tausende von Jahren, bis Herakles ihn befreite, indem er den Adler tötete.",
     "interesting_facts": [
       {
         "ru": "Печень Прометея отрастала каждую ночь, потому что он был бессмертным титаном. Это делало его страдания бесконечными. Наказание было особенно жестоким, так как печень считалась источником эмоций и страстей. Прометей выдержал это наказание, не сдаваясь и не раскаиваясь.",
@@ -1646,28 +1436,22 @@
   },
   {
     "id": 336,
-    "question": "Какие маски носили актёры?",
+    "question_ru": "Какие маски носили актёры?",
     "question_de": "Welche Masken trugen die Schauspieler?",
-    "answer": "Трагическую и комическую",
-    "answer_de": "Tragische und komische",
-    "wrong_answers": [
-      {
-        "ru": "Только трагическую",
-        "de": "Nur tragische"
-      },
-      {
-        "ru": "Только комическую",
-        "de": "Nur komische"
-      },
-      {
-        "ru": "Без масок",
-        "de": "Ohne Masken"
-      }
+    "correct_answer_ru": "Трагическую и комическую",
+    "correct_answer_de": "Tragische und komische",
+    "wrong_answers_ru": [
+      "Только трагическую",
+      "Только комическую",
+      "Без масок"
     ],
-    "explanation": {
-      "ru": "Актёры в древнегреческом театре носили маски, которые определяли характер персонажа. Трагические маски изображали скорбь и страдание, а комические - радость и веселье. Маски были большими и выразительными, чтобы их было видно издалека. Они также усиливали голос актёра благодаря встроенному рупору.",
-      "de": "Schauspieler im antiken griechischen Theater trugen Masken, die den Charakter der Figur bestimmten. Tragische Masken zeigten Trauer und Leiden, komische - Freude und Fröhlichkeit. Die Masken waren groß und ausdrucksstark, damit sie aus der Ferne sichtbar waren. Sie verstärkten auch die Stimme des Schauspielers dank eines eingebauten Megaphons."
-    },
+    "wrong_answers_de": [
+      "Nur tragische",
+      "Nur komische",
+      "Ohne Masken"
+    ],
+    "explanation_ru": "Актёры в древнегреческом театре носили маски, которые определяли характер персонажа. Трагические маски изображали скорбь и страдание, а комические - радость и веселье. Маски были большими и выразительными, чтобы их было видно издалека. Они также усиливали голос актёра благодаря встроенному рупору.",
+    "explanation_de": "Schauspieler im antiken griechischen Theater trugen Masken, die den Charakter der Figur bestimmten. Tragische Masken zeigten Trauer und Leiden, komische - Freude und Fröhlichkeit. Die Masken waren groß und ausdrucksstark, damit sie aus der Ferne sichtbar waren. Sie verstärkten auch die Stimme des Schauspielers dank eines eingebauten Megaphons.",
     "interesting_facts": [
       {
         "ru": "Маски делались из льна, пробки или дерева и покрывались гипсом или краской. Они имели отверстия для глаз и рта, а также встроенный рупор для усиления голоса. Маски позволяли одному актёру играть несколько ролей, просто меняя маску. Это было важно, так как в трагедии было только три актёра.",
@@ -1693,28 +1477,22 @@
   },
   {
     "id": 337,
-    "question": "Кто были родителями Зевса?",
+    "question_ru": "Кто были родителями Зевса?",
     "question_de": "Wer waren die Eltern des Zeus?",
-    "answer": "Кронос и Рея",
-    "answer_de": "Kronos und Rhea",
-    "wrong_answers": [
-      {
-        "ru": "Уран и Гея",
-        "de": "Uranos und Gaia"
-      },
-      {
-        "ru": "Океан и Тефида",
-        "de": "Okeanos und Tethys"
-      },
-      {
-        "ru": "Гиперион и Тейя",
-        "de": "Hyperion und Theia"
-      }
+    "correct_answer_ru": "Кронос и Рея",
+    "correct_answer_de": "Kronos und Rhea",
+    "wrong_answers_ru": [
+      "Уран и Гея",
+      "Океан и Тефида",
+      "Гиперион и Тейя"
     ],
-    "explanation": {
-      "ru": "Зевс был сыном титанов Кроноса и Реи. Кронос пожирал всех своих детей, опасаясь пророчества о свержении, но Рея спасла Зевса, подсунув Кроносу камень. Зевс вырос на Крите и позже заставил отца изрыгнуть своих братьев и сестёр, став главой олимпийских богов.",
-      "de": "Zeus war der Sohn der Titanen Kronos und Rhea. Kronos verschlang alle seine Kinder aus Angst vor der Prophezeiung des Sturzes, aber Rhea rettete Zeus, indem sie Kronos einen Stein gab. Zeus wuchs auf Kreta auf und zwang später den Vater, seine Brüder und Schwestern auszuspucken, und wurde zum Oberhaupt der olympischen Götter."
-    },
+    "wrong_answers_de": [
+      "Uranos und Gaia",
+      "Okeanos und Tethys",
+      "Hyperion und Theia"
+    ],
+    "explanation_ru": "Зевс был сыном титанов Кроноса и Реи. Кронос пожирал всех своих детей, опасаясь пророчества о свержении, но Рея спасла Зевса, подсунув Кроносу камень. Зевс вырос на Крите и позже заставил отца изрыгнуть своих братьев и сестёр, став главой олимпийских богов.",
+    "explanation_de": "Zeus war der Sohn der Titanen Kronos und Rhea. Kronos verschlang alle seine Kinder aus Angst vor der Prophezeiung des Sturzes, aber Rhea rettete Zeus, indem sie Kronos einen Stein gab. Zeus wuchs auf Kreta auf und zwang später den Vater, seine Brüder und Schwestern auszuspucken, und wurde zum Oberhaupt der olympischen Götter.",
     "interesting_facts": [
       {
         "ru": "Зевс был младшим из шестерых детей Кроноса и Реи. Его братьями и сёстрами были Гестия, Деметра, Гера, Аид и Посейдон. После того как Зевс заставил Кроноса изрыгнуть их, они стали олимпийскими богами. Зевс разделил мир между братьями: себе взял небо, Посейдону - море, Аиду - подземный мир.",
@@ -1740,28 +1518,22 @@
   },
   {
     "id": 338,
-    "question": "Могли ли женщины быть актрисами?",
+    "question_ru": "Могли ли женщины быть актрисами?",
     "question_de": "Konnten Frauen Schauspielerinnen sein?",
-    "answer": "Нет, все роли играли мужчины",
-    "answer_de": "Nein, alle Rollen wurden von Männern gespielt",
-    "wrong_answers": [
-      {
-        "ru": "Да, но только в комедиях",
-        "de": "Ja, aber nur in Komödien"
-      },
-      {
-        "ru": "Да, наравне с мужчинами",
-        "de": "Ja, gleichberechtigt mit Männern"
-      },
-      {
-        "ru": "Только в хоре",
-        "de": "Nur im Chor"
-      }
+    "correct_answer_ru": "Нет, все роли играли мужчины",
+    "correct_answer_de": "Nein, alle Rollen wurden von Männern gespielt",
+    "wrong_answers_ru": [
+      "Да, но только в комедиях",
+      "Да, наравне с мужчинами",
+      "Только в хоре"
     ],
-    "explanation": {
-      "ru": "В древнегреческом театре женщины не могли быть актрисами. Все роли, включая женские, играли мужчины. Это было связано с социальными нормами того времени, когда женщины не участвовали в публичных представлениях. Мужчины использовали маски и костюмы для изображения женских персонажей.",
-      "de": "Im antiken griechischen Theater konnten Frauen nicht Schauspielerinnen sein. Alle Rollen, einschließlich weiblicher, wurden von Männern gespielt. Dies war mit den sozialen Normen der Zeit verbunden, als Frauen nicht an öffentlichen Aufführungen teilnahmen. Männer verwendeten Masken und Kostüme, um weibliche Charaktere darzustellen."
-    },
+    "wrong_answers_de": [
+      "Ja, aber nur in Komödien",
+      "Ja, gleichberechtigt mit Männern",
+      "Nur im Chor"
+    ],
+    "explanation_ru": "В древнегреческом театре женщины не могли быть актрисами. Все роли, включая женские, играли мужчины. Это было связано с социальными нормами того времени, когда женщины не участвовали в публичных представлениях. Мужчины использовали маски и костюмы для изображения женских персонажей.",
+    "explanation_de": "Im antiken griechischen Theater konnten Frauen nicht Schauspielerinnen sein. Alle Rollen, einschließlich weiblicher, wurden von Männern gespielt. Dies war mit den sozialen Normen der Zeit verbunden, als Frauen nicht an öffentlichen Aufführungen teilnahmen. Männer verwendeten Masken und Kostüme, um weibliche Charaktere darzustellen.",
     "interesting_facts": [
       {
         "ru": "Женщины могли быть зрительницами, но их участие в театре было ограничено. Некоторые источники указывают, что женщины сидели отдельно от мужчин или на верхних рядах. Женщины также могли участвовать в хоре в некоторых религиозных обрядах, но не в театральных представлениях.",
@@ -1787,28 +1559,22 @@
   },
   {
     "id": 339,
-    "question": "Сколько было олимпийских богов?",
+    "question_ru": "Сколько было олимпийских богов?",
     "question_de": "Wie viele olympische Götter gab es?",
-    "answer": "Двенадцать главных",
-    "answer_de": "Zwölf Hauptgötter",
-    "wrong_answers": [
-      {
-        "ru": "Десять",
-        "de": "Zehn"
-      },
-      {
-        "ru": "Четырнадцать",
-        "de": "Vierzehn"
-      },
-      {
-        "ru": "Восемь",
-        "de": "Acht"
-      }
+    "correct_answer_ru": "Двенадцать главных",
+    "correct_answer_de": "Zwölf Hauptgötter",
+    "wrong_answers_ru": [
+      "Десять",
+      "Четырнадцать",
+      "Восемь"
     ],
-    "explanation": {
-      "ru": "Главных олимпийских богов было двенадцать: Зевс, Гера, Посейдон, Деметра, Афина, Аполлон, Артемида, Арес, Афродита, Гефест, Гермес и Гестия (позже заменённая Дионисом). Они жили на горе Олимп и правили миром после победы над титанами. Двенадцать богов представляли различные аспекты жизни и природы.",
-      "de": "Es gab zwölf Hauptgötter des Olymp: Zeus, Hera, Poseidon, Demeter, Athena, Apollon, Artemis, Ares, Aphrodite, Hephaistos, Hermes und Hestia (später durch Dionysos ersetzt). Sie lebten auf dem Berg Olymp und regierten die Welt nach dem Sieg über die Titanen. Die zwölf Götter repräsentierten verschiedene Aspekte des Lebens und der Natur."
-    },
+    "wrong_answers_de": [
+      "Zehn",
+      "Vierzehn",
+      "Acht"
+    ],
+    "explanation_ru": "Главных олимпийских богов было двенадцать: Зевс, Гера, Посейдон, Деметра, Афина, Аполлон, Артемида, Арес, Афродита, Гефест, Гермес и Гестия (позже заменённая Дионисом). Они жили на горе Олимп и правили миром после победы над титанами. Двенадцать богов представляли различные аспекты жизни и природы.",
+    "explanation_de": "Es gab zwölf Hauptgötter des Olymp: Zeus, Hera, Poseidon, Demeter, Athena, Apollon, Artemis, Ares, Aphrodite, Hephaistos, Hermes und Hestia (später durch Dionysos ersetzt). Sie lebten auf dem Berg Olymp und regierten die Welt nach dem Sieg über die Titanen. Die zwölf Götter repräsentierten verschiedene Aspekte des Lebens und der Natur.",
     "interesting_facts": [
       {
         "ru": "Список двенадцати олимпийцев мог варьироваться в разных источниках. Иногда Гестия уступала место Дионису, иногда включались другие боги. Двенадцать - это священное число в греческой мифологии, связанное с двенадцатью месяцами и двенадцатью знаками зодиака. Олимпийцы представляли порядок и гармонию.",
@@ -1834,28 +1600,22 @@
   },
   {
     "id": 340,
-    "question": "Кто был первым драматургом?",
+    "question_ru": "Кто был первым драматургом?",
     "question_de": "Wer war der erste Dramatiker?",
-    "answer": "Феспид",
-    "answer_de": "Thespis",
-    "wrong_answers": [
-      {
-        "ru": "Эсхил",
-        "de": "Aischylos"
-      },
-      {
-        "ru": "Софокл",
-        "de": "Sophokles"
-      },
-      {
-        "ru": "Еврипид",
-        "de": "Euripides"
-      }
+    "correct_answer_ru": "Феспид",
+    "correct_answer_de": "Thespis",
+    "wrong_answers_ru": [
+      "Эсхил",
+      "Софокл",
+      "Еврипид"
     ],
-    "explanation": {
-      "ru": "Феспид (VI век до н.э.) считается первым драматургом и создателем трагедии. Он ввёл первого актёра (протагониста), который вступал в диалог с хором. До Феспида были только хоровые представления. Феспид также использовал маски и костюмы. Его имя дало название профессии 'теспианский актёр'.",
-      "de": "Thespis (6. Jahrhundert v. Chr.) gilt als der erste Dramatiker und Schöpfer der Tragödie. Er führte den ersten Schauspieler (Protagonist) ein, der mit dem Chor in Dialog trat. Vor Thespis gab es nur Choraufführungen. Thespis verwendete auch Masken und Kostüme. Sein Name gab der Berufsbezeichnung 'thespianischer Schauspieler' ihren Namen."
-    },
+    "wrong_answers_de": [
+      "Aischylos",
+      "Sophokles",
+      "Euripides"
+    ],
+    "explanation_ru": "Феспид (VI век до н.э.) считается первым драматургом и создателем трагедии. Он ввёл первого актёра (протагониста), который вступал в диалог с хором. До Феспида были только хоровые представления. Феспид также использовал маски и костюмы. Его имя дало название профессии 'теспианский актёр'.",
+    "explanation_de": "Thespis (6. Jahrhundert v. Chr.) gilt als der erste Dramatiker und Schöpfer der Tragödie. Er führte den ersten Schauspieler (Protagonist) ein, der mit dem Chor in Dialog trat. Vor Thespis gab es nur Choraufführungen. Thespis verwendete auch Masken und Kostüme. Sein Name gab der Berufsbezeichnung 'thespianischer Schauspieler' ihren Namen.",
     "interesting_facts": [
       {
         "ru": "Феспид ввёл важное новшество - отделение актёра от хора. Это позволило создавать диалоги и развивать сюжет. Он также использовал повозку (театральную платформу) для передвижения, что дало начало термину 'театр' (от греческого 'теаомай' - смотреть). Феспид считается отцом драмы.",
@@ -1881,28 +1641,22 @@
   },
   {
     "id": 341,
-    "question": "Где жили олимпийские боги?",
+    "question_ru": "Где жили олимпийские боги?",
     "question_de": "Wo lebten die olympischen Götter?",
-    "answer": "На горе Олимп",
-    "answer_de": "Auf dem Berg Olymp",
-    "wrong_answers": [
-      {
-        "ru": "На горе Парнас",
-        "de": "Auf dem Berg Parnass"
-      },
-      {
-        "ru": "В подземном мире",
-        "de": "In der Unterwelt"
-      },
-      {
-        "ru": "На небе",
-        "de": "Im Himmel"
-      }
+    "correct_answer_ru": "На горе Олимп",
+    "correct_answer_de": "Auf dem Berg Olymp",
+    "wrong_answers_ru": [
+      "На горе Парнас",
+      "В подземном мире",
+      "На небе"
     ],
-    "explanation": {
-      "ru": "Олимпийские боги жили на горе Олимп - самой высокой горе Греции (2917 метров). Олимп считался священной горой и местом, где боги проводили свои советы и пиры. Гора была покрыта облаками, скрывавшими божественные чертоги от смертных. Олимп стал символом божественного мира.",
-      "de": "Die olympischen Götter lebten auf dem Berg Olymp - dem höchsten Berg Griechenlands (2917 Meter). Der Olymp galt als heiliger Berg und Ort, wo die Götter ihre Räte und Feste abhielten. Der Berg war von Wolken bedeckt, die die göttlichen Hallen vor Sterblichen verbargen. Der Olymp wurde zum Symbol der göttlichen Welt."
-    },
+    "wrong_answers_de": [
+      "Auf dem Berg Parnass",
+      "In der Unterwelt",
+      "Im Himmel"
+    ],
+    "explanation_ru": "Олимпийские боги жили на горе Олимп - самой высокой горе Греции (2917 метров). Олимп считался священной горой и местом, где боги проводили свои советы и пиры. Гора была покрыта облаками, скрывавшими божественные чертоги от смертных. Олимп стал символом божественного мира.",
+    "explanation_de": "Die olympischen Götter lebten auf dem Berg Olymp - dem höchsten Berg Griechenlands (2917 Meter). Der Olymp galt als heiliger Berg und Ort, wo die Götter ihre Räte und Feste abhielten. Der Berg war von Wolken bedeckt, die die göttlichen Hallen vor Sterblichen verbargen. Der Olymp wurde zum Symbol der göttlichen Welt.",
     "interesting_facts": [
       {
         "ru": "Олимп находится на границе Фессалии и Македонии и имеет несколько вершин. Самая высокая - Митикас (2917 м). Гора покрыта лесами и часто скрыта облаками. В древности считалось, что на вершине Олимпа находятся дворцы богов, построенные Гефестом. Олимп был недоступен для смертных.",
@@ -1928,28 +1682,22 @@
   },
   {
     "id": 342,
-    "question": "Сколько актёров в греческой трагедии?",
+    "question_ru": "Сколько актёров в греческой трагедии?",
     "question_de": "Wie viele Schauspieler gibt es in einer griechischen Tragödie?",
-    "answer": "Три актёра",
-    "answer_de": "Drei Schauspieler",
-    "wrong_answers": [
-      {
-        "ru": "Два актёра",
-        "de": "Zwei Schauspieler"
-      },
-      {
-        "ru": "Четыре актёра",
-        "de": "Vier Schauspieler"
-      },
-      {
-        "ru": "Пять актёров",
-        "de": "Fünf Schauspieler"
-      }
+    "correct_answer_ru": "Три актёра",
+    "correct_answer_de": "Drei Schauspieler",
+    "wrong_answers_ru": [
+      "Два актёра",
+      "Четыре актёра",
+      "Пять актёров"
     ],
-    "explanation": {
-      "ru": "В классической греческой трагедии было три актёра (протагонист, девтерагонист и тритагонист), которые играли все роли, меняя маски. Это правило было установлено в V веке до н.э. и строго соблюдалось. Три актёра могли изображать множество персонажей благодаря маскам и костюмам. Хор дополнял действие.",
-      "de": "In der klassischen griechischen Tragödie gab es drei Schauspieler (Protagonist, Deuteragonist und Tritagonist), die alle Rollen spielten, indem sie Masken wechselten. Diese Regel wurde im 5. Jahrhundert v. Chr. etabliert und strikt befolgt. Die drei Schauspieler konnten viele Charaktere durch Masken und Kostüme darstellen. Der Chor ergänzte die Handlung."
-    },
+    "wrong_answers_de": [
+      "Zwei Schauspieler",
+      "Vier Schauspieler",
+      "Fünf Schauspieler"
+    ],
+    "explanation_ru": "В классической греческой трагедии было три актёра (протагонист, девтерагонист и тритагонист), которые играли все роли, меняя маски. Это правило было установлено в V веке до н.э. и строго соблюдалось. Три актёра могли изображать множество персонажей благодаря маскам и костюмам. Хор дополнял действие.",
+    "explanation_de": "In der klassischen griechischen Tragödie gab es drei Schauspieler (Protagonist, Deuteragonist und Tritagonist), die alle Rollen spielten, indem sie Masken wechselten. Diese Regel wurde im 5. Jahrhundert v. Chr. etabliert und strikt befolgt. Die drei Schauspieler konnten viele Charaktere durch Masken und Kostüme darstellen. Der Chor ergänzte die Handlung.",
     "interesting_facts": [
       {
         "ru": "Ограничение тремя актёрами было введено Софоклом, который добавил третьего актёра к двум, использовавшимся ранее. Это позволило создавать более сложные диалоги и сцены. Три актёра могли играть множество ролей, меняя маски и костюмы между сценами. Это требовало мастерства и памяти.",
@@ -1975,28 +1723,22 @@
   },
   {
     "id": 343,
-    "question": "Какая гора была самой высокой в Греции?",
+    "question_ru": "Какая гора была самой высокой в Греции?",
     "question_de": "Welcher Berg war der höchste in Griechenland?",
-    "answer": "Олимп",
-    "answer_de": "Olymp",
-    "wrong_answers": [
-      {
-        "ru": "Парнас",
-        "de": "Parnass"
-      },
-      {
-        "ru": "Пелион",
-        "de": "Pelion"
-      },
-      {
-        "ru": "Ида",
-        "de": "Ida"
-      }
+    "correct_answer_ru": "Олимп",
+    "correct_answer_de": "Olymp",
+    "wrong_answers_ru": [
+      "Парнас",
+      "Пелион",
+      "Ида"
     ],
-    "explanation": {
-      "ru": "Гора Олимп (2917 метров) - самая высокая гора Греции. Она находится на границе Фессалии и Македонии и имеет несколько вершин. Олимп была священной горой, где жили олимпийские боги. Гора покрыта лесами и часто скрыта облаками, что создавало мистическую атмосферу.",
-      "de": "Der Berg Olymp (2917 Meter) ist der höchste Berg Griechenlands. Er liegt an der Grenze zwischen Thessalien und Makedonien und hat mehrere Gipfel. Der Olymp war ein heiliger Berg, wo die olympischen Götter lebten. Der Berg ist von Wäldern bedeckt und oft von Wolken verhüllt, was eine mystische Atmosphäre schuf."
-    },
+    "wrong_answers_de": [
+      "Parnass",
+      "Pelion",
+      "Ida"
+    ],
+    "explanation_ru": "Гора Олимп (2917 метров) - самая высокая гора Греции. Она находится на границе Фессалии и Македонии и имеет несколько вершин. Олимп была священной горой, где жили олимпийские боги. Гора покрыта лесами и часто скрыта облаками, что создавало мистическую атмосферу.",
+    "explanation_de": "Der Berg Olymp (2917 Meter) ist der höchste Berg Griechenlands. Er liegt an der Grenze zwischen Thessalien und Makedonien und hat mehrere Gipfel. Der Olymp war ein heiliger Berg, wo die olympischen Götter lebten. Der Berg ist von Wäldern bedeckt und oft von Wolken verhüllt, was eine mystische Atmosphäre schuf.",
     "interesting_facts": [
       {
         "ru": "Олимп имеет три основные вершины: Митикас (2917 м), Скольо (2912 м) и Стефани (2905 м). Гора является национальным парком и объектом Всемирного наследия ЮНЕСКО. Олимп богат флорой и фауной, включая редкие виды растений и животных. Первое восхождение на вершину было совершено в 1913 году.",
@@ -2022,28 +1764,22 @@
   },
   {
     "id": 344,
-    "question": "Кто написал 'Антигону'?",
+    "question_ru": "Кто написал 'Антигону'?",
     "question_de": "Wer schrieb 'Antigone'?",
-    "answer": "Софокл",
-    "answer_de": "Sophokles",
-    "wrong_answers": [
-      {
-        "ru": "Эсхил",
-        "de": "Aischylos"
-      },
-      {
-        "ru": "Еврипид",
-        "de": "Euripides"
-      },
-      {
-        "ru": "Аристофан",
-        "de": "Aristophanes"
-      }
+    "correct_answer_ru": "Софокл",
+    "correct_answer_de": "Sophokles",
+    "wrong_answers_ru": [
+      "Эсхил",
+      "Еврипид",
+      "Аристофан"
     ],
-    "explanation": {
-      "ru": "'Антигона' - трагедия Софокла, написанная около 441 года до н.э. Это часть фиванского цикла, рассказывающая о дочери Эдипа Антигоне, которая нарушает приказ царя Креонта и хоронит своего брата Полиника. Пьеса исследует конфликт между законом государства и моральным долгом.",
-      "de": "'Antigone' ist eine Tragödie von Sophokles, geschrieben um 441 v. Chr. Es ist Teil des thebanischen Zyklus und erzählt von Antigone, der Tochter des Ödipus, die den Befehl des Königs Kreon verletzt und ihren Bruder Polyneikes begräbt. Das Stück erforscht den Konflikt zwischen dem Gesetz des Staates und der moralischen Pflicht."
-    },
+    "wrong_answers_de": [
+      "Aischylos",
+      "Euripides",
+      "Aristophanes"
+    ],
+    "explanation_ru": "'Антигона' - трагедия Софокла, написанная около 441 года до н.э. Это часть фиванского цикла, рассказывающая о дочери Эдипа Антигоне, которая нарушает приказ царя Креонта и хоронит своего брата Полиника. Пьеса исследует конфликт между законом государства и моральным долгом.",
+    "explanation_de": "'Antigone' ist eine Tragödie von Sophokles, geschrieben um 441 v. Chr. Es ist Teil des thebanischen Zyklus und erzählt von Antigone, der Tochter des Ödipus, die den Befehl des Königs Kreon verletzt und ihren Bruder Polyneikes begräbt. Das Stück erforscht den Konflikt zwischen dem Gesetz des Staates und der moralischen Pflicht.",
     "interesting_facts": [
       {
         "ru": "'Антигона' считается одной из величайших трагедий античности. Пьеса исследует темы долга, справедливости и конфликта между личной совестью и государственным законом. Антигона становится символом сопротивления тирании и защиты моральных принципов. Пьеса актуальна и сегодня.",
@@ -2069,28 +1805,22 @@
   },
   {
     "id": 345,
-    "question": "Кто была женой Зевса?",
+    "question_ru": "Кто была женой Зевса?",
     "question_de": "Wer war die Frau des Zeus?",
-    "answer": "Гера",
-    "answer_de": "Hera",
-    "wrong_answers": [
-      {
-        "ru": "Афродита",
-        "de": "Aphrodite"
-      },
-      {
-        "ru": "Афина",
-        "de": "Athena"
-      },
-      {
-        "ru": "Деметра",
-        "de": "Demeter"
-      }
+    "correct_answer_ru": "Гера",
+    "correct_answer_de": "Hera",
+    "wrong_answers_ru": [
+      "Афродита",
+      "Афина",
+      "Деметра"
     ],
-    "explanation": {
-      "ru": "Гера была женой Зевса и царицей олимпийских богов. Она была сестрой Зевса, дочерью Кроноса и Реи. Гера покровительствовала браку, семье и рождению детей. Она была известна своей ревностью к многочисленным любовницам Зевса и часто мстила им. Гера изображалась как величественная и гордая богиня.",
-      "de": "Hera war die Frau des Zeus und Königin der olympischen Götter. Sie war die Schwester des Zeus, Tochter des Kronos und der Rhea. Hera war Schutzpatronin der Ehe, Familie und Geburt von Kindern. Sie war bekannt für ihre Eifersucht auf Zeus' zahlreiche Geliebte und rächte sich oft an ihnen. Hera wurde als majestätische und stolze Göttin dargestellt."
-    },
+    "wrong_answers_de": [
+      "Aphrodite",
+      "Athena",
+      "Demeter"
+    ],
+    "explanation_ru": "Гера была женой Зевса и царицей олимпийских богов. Она была сестрой Зевса, дочерью Кроноса и Реи. Гера покровительствовала браку, семье и рождению детей. Она была известна своей ревностью к многочисленным любовницам Зевса и часто мстила им. Гера изображалась как величественная и гордая богиня.",
+    "explanation_de": "Hera war die Frau des Zeus und Königin der olympischen Götter. Sie war die Schwester des Zeus, Tochter des Kronos und der Rhea. Hera war Schutzpatronin der Ehe, Familie und Geburt von Kindern. Sie war bekannt für ihre Eifersucht auf Zeus' zahlreiche Geliebte und rächte sich oft an ihnen. Hera wurde als majestätische und stolze Göttin dargestellt.",
     "interesting_facts": [
       {
         "ru": "Гера была одной из трёх сестёр Зевса, которых он освободил из чрева Кроноса. Она стала женой Зевса после долгого ухаживания. Гера родила Зевсу детей: Ареса (бога войны), Гебу (богиню юности) и Илифию (богиню родов). Гера была покровительницей брака и защищала замужних женщин.",
@@ -2116,28 +1846,22 @@
   },
   {
     "id": 346,
-    "question": "Кто написал 'Медею'?",
+    "question_ru": "Кто написал 'Медею'?",
     "question_de": "Wer schrieb 'Medea'?",
-    "answer": "Еврипид",
-    "answer_de": "Euripides",
-    "wrong_answers": [
-      {
-        "ru": "Софокл",
-        "de": "Sophokles"
-      },
-      {
-        "ru": "Эсхил",
-        "de": "Aischylos"
-      },
-      {
-        "ru": "Аристофан",
-        "de": "Aristophanes"
-      }
+    "correct_answer_ru": "Еврипид",
+    "correct_answer_de": "Euripides",
+    "wrong_answers_ru": [
+      "Софокл",
+      "Эсхил",
+      "Аристофан"
     ],
-    "explanation": {
-      "ru": "'Медея' - трагедия Еврипида, написанная в 431 году до н.э. Пьеса рассказывает о колхидской царевне Медее, которая мстит своему мужу Ясону за предательство, убивая их детей. Это одна из самых шокирующих трагедий античности, исследующая темы ревности, мести и материнской любви.",
-      "de": "'Medea' ist eine Tragödie von Euripides, geschrieben 431 v. Chr. Das Stück erzählt von Medea, der kolchischen Prinzessin, die sich an ihrem Ehemann Jason für Verrat rächt, indem sie ihre Kinder tötet. Es ist eine der schockierendsten Tragödien der Antike, die Themen wie Eifersucht, Rache und mütterliche Liebe erforscht."
-    },
+    "wrong_answers_de": [
+      "Sophokles",
+      "Aischylos",
+      "Aristophanes"
+    ],
+    "explanation_ru": "'Медея' - трагедия Еврипида, написанная в 431 году до н.э. Пьеса рассказывает о колхидской царевне Медее, которая мстит своему мужу Ясону за предательство, убивая их детей. Это одна из самых шокирующих трагедий античности, исследующая темы ревности, мести и материнской любви.",
+    "explanation_de": "'Medea' ist eine Tragödie von Euripides, geschrieben 431 v. Chr. Das Stück erzählt von Medea, der kolchischen Prinzessin, die sich an ihrem Ehemann Jason für Verrat rächt, indem sie ihre Kinder tötet. Es ist eine der schockierendsten Tragödien der Antike, die Themen wie Eifersucht, Rache und mütterliche Liebe erforscht.",
     "interesting_facts": [
       {
         "ru": "'Медея' была написана Еврипидом в зрелом возрасте и считается одной из его величайших трагедий. Пьеса исследует психологию персонажей и их внутренние конфликты. Медея - сложный персонаж, одновременно жертва и преступница. Пьеса вызвала споры в древности из-за своего сюжета.",
@@ -2163,28 +1887,22 @@
   },
   {
     "id": 347,
-    "question": "Кто был братом Зевса?",
+    "question_ru": "Кто был братом Зевса?",
     "question_de": "Wer war der Bruder des Zeus?",
-    "answer": "Посейдон и Аид",
-    "answer_de": "Poseidon und Hades",
-    "wrong_answers": [
-      {
-        "ru": "Аполлон и Арес",
-        "de": "Apollon und Ares"
-      },
-      {
-        "ru": "Гермес и Гефест",
-        "de": "Hermes und Hephaistos"
-      },
-      {
-        "ru": "Дионис и Пан",
-        "de": "Dionysos und Pan"
-      }
+    "correct_answer_ru": "Посейдон и Аид",
+    "correct_answer_de": "Poseidon und Hades",
+    "wrong_answers_ru": [
+      "Аполлон и Арес",
+      "Гермес и Гефест",
+      "Дионис и Пан"
     ],
-    "explanation": {
-      "ru": "Зевс имел двух братьев: Посейдона (бога морей) и Аида (бога подземного мира). Они были сыновьями Кроноса и Реи, как и Зевс. После победы над титанами три брата разделили мир: Зевс получил небо, Посейдон - море, а Аид - подземный мир. Земля была общей для всех трёх.",
-      "de": "Zeus hatte zwei Brüder: Poseidon (Gott der Meere) und Hades (Gott der Unterwelt). Sie waren Söhne des Kronos und der Rhea, wie Zeus. Nach dem Sieg über die Titanen teilten die drei Brüder die Welt auf: Zeus erhielt den Himmel, Poseidon das Meer und Hades die Unterwelt. Die Erde war gemeinsam für alle drei."
-    },
+    "wrong_answers_de": [
+      "Apollon und Ares",
+      "Hermes und Hephaistos",
+      "Dionysos und Pan"
+    ],
+    "explanation_ru": "Зевс имел двух братьев: Посейдона (бога морей) и Аида (бога подземного мира). Они были сыновьями Кроноса и Реи, как и Зевс. После победы над титанами три брата разделили мир: Зевс получил небо, Посейдон - море, а Аид - подземный мир. Земля была общей для всех трёх.",
+    "explanation_de": "Zeus hatte zwei Brüder: Poseidon (Gott der Meere) und Hades (Gott der Unterwelt). Sie waren Söhne des Kronos und der Rhea, wie Zeus. Nach dem Sieg über die Titanen teilten die drei Brüder die Welt auf: Zeus erhielt den Himmel, Poseidon das Meer und Hades die Unterwelt. Die Erde war gemeinsam für alle drei.",
     "interesting_facts": [
       {
         "ru": "Посейдон был богом морей, землетрясений и лошадей. Он изображался с трезубцем, которым мог вызывать штормы и землетрясения. Посейдон был одним из самых могущественных богов и часто конфликтовал с Зевсом. Он был покровителем мореплавателей и рыбаков.",
@@ -2210,28 +1928,22 @@
   },
   {
     "id": 348,
-    "question": "Кто написал 'Орестею'?",
+    "question_ru": "Кто написал 'Орестею'?",
     "question_de": "Wer schrieb 'Orestie'?",
-    "answer": "Эсхил",
-    "answer_de": "Aischylos",
-    "wrong_answers": [
-      {
-        "ru": "Софокл",
-        "de": "Sophokles"
-      },
-      {
-        "ru": "Еврипид",
-        "de": "Euripides"
-      },
-      {
-        "ru": "Гомер",
-        "de": "Homer"
-      }
+    "correct_answer_ru": "Эсхил",
+    "correct_answer_de": "Aischylos",
+    "wrong_answers_ru": [
+      "Софокл",
+      "Еврипид",
+      "Гомер"
     ],
-    "explanation": {
-      "ru": "'Орестея' - трилогия Эсхила, написанная в 458 году до н.э. Она состоит из трёх трагедий: 'Агамемнон', 'Хоэфоры' и 'Эвмениды'. Трилогия рассказывает о мести Ореста за убийство отца Агамемнона и исследует темы справедливости, мести и перехода от кровной мести к суду. Это единственная сохранившаяся трилогия античности.",
-      "de": "'Orestie' ist eine Trilogie von Aischylos, geschrieben 458 v. Chr. Sie besteht aus drei Tragödien: 'Agamemnon', 'Choephoren' und 'Eumeniden'. Die Trilogie erzählt von Orests Rache für die Ermordung seines Vaters Agamemnon und erforscht Themen wie Gerechtigkeit, Rache und Übergang von Blutrache zu Gericht. Es ist die einzige erhaltene Trilogie der Antike."
-    },
+    "wrong_answers_de": [
+      "Sophokles",
+      "Euripides",
+      "Homer"
+    ],
+    "explanation_ru": "'Орестея' - трилогия Эсхила, написанная в 458 году до н.э. Она состоит из трёх трагедий: 'Агамемнон', 'Хоэфоры' и 'Эвмениды'. Трилогия рассказывает о мести Ореста за убийство отца Агамемнона и исследует темы справедливости, мести и перехода от кровной мести к суду. Это единственная сохранившаяся трилогия античности.",
+    "explanation_de": "'Orestie' ist eine Trilogie von Aischylos, geschrieben 458 v. Chr. Sie besteht aus drei Tragödien: 'Agamemnon', 'Choephoren' und 'Eumeniden'. Die Trilogie erzählt von Orests Rache für die Ermordung seines Vaters Agamemnon und erforscht Themen wie Gerechtigkeit, Rache und Übergang von Blutrache zu Gericht. Es ist die einzige erhaltene Trilogie der Antike.",
     "interesting_facts": [
       {
         "ru": "'Орестея' считается величайшим произведением Эсхила и одной из самых важных трилогий в истории театра. Она исследует эволюцию правосудия от личной мести к общественному суду. Трилогия заканчивается установлением суда присяжных в Афинах, что отражает развитие демократии.",
@@ -2257,28 +1969,22 @@
   },
   {
     "id": 349,
-    "question": "Кто была сестрой Зевса?",
+    "question_ru": "Кто была сестрой Зевса?",
     "question_de": "Wer war die Schwester des Zeus?",
-    "answer": "Гера, Деметра, Гестия",
-    "answer_de": "Hera, Demeter, Hestia",
-    "wrong_answers": [
-      {
-        "ru": "Афина и Артемида",
-        "de": "Athena und Artemis"
-      },
-      {
-        "ru": "Афродита и Персефона",
-        "de": "Aphrodite und Persephone"
-      },
-      {
-        "ru": "Только Гера",
-        "de": "Nur Hera"
-      }
+    "correct_answer_ru": "Гера, Деметра, Гестия",
+    "correct_answer_de": "Hera, Demeter, Hestia",
+    "wrong_answers_ru": [
+      "Афина и Артемида",
+      "Афродита и Персефона",
+      "Только Гера"
     ],
-    "explanation": {
-      "ru": "Зевс имел трёх сестёр: Геру (богиню брака), Деметру (богиню земледелия) и Гестию (богиню домашнего очага). Они были дочерьми Кроноса и Реи, как и Зевс. Все четверо были освобождены Зевсом из чрева Кроноса. Гера стала женой Зевса, а Деметра и Гестия остались незамужними богинями.",
-      "de": "Zeus hatte drei Schwestern: Hera (Göttin der Ehe), Demeter (Göttin der Landwirtschaft) und Hestia (Göttin des Herdfeuers). Sie waren Töchter des Kronos und der Rhea, wie Zeus. Alle vier wurden von Zeus aus dem Bauch des Kronos befreit. Hera wurde die Frau des Zeus, während Demeter und Hestia unverheiratete Göttinnen blieben."
-    },
+    "wrong_answers_de": [
+      "Athena und Artemis",
+      "Aphrodite und Persephone",
+      "Nur Hera"
+    ],
+    "explanation_ru": "Зевс имел трёх сестёр: Геру (богиню брака), Деметру (богиню земледелия) и Гестию (богиню домашнего очага). Они были дочерьми Кроноса и Реи, как и Зевс. Все четверо были освобождены Зевсом из чрева Кроноса. Гера стала женой Зевса, а Деметра и Гестия остались незамужними богинями.",
+    "explanation_de": "Zeus hatte drei Schwestern: Hera (Göttin der Ehe), Demeter (Göttin der Landwirtschaft) und Hestia (Göttin des Herdfeuers). Sie waren Töchter des Kronos und der Rhea, wie Zeus. Alle vier wurden von Zeus aus dem Bauch des Kronos befreit. Hera wurde die Frau des Zeus, während Demeter und Hestia unverheiratete Göttinnen blieben.",
     "interesting_facts": [
       {
         "ru": "Гера была старшей сестрой и стала женой Зевса, царицей богов. Деметра была богиней земледелия и плодородия, матерью Персефоны. Гестия была богиней домашнего очага и семьи, самой мирной из богинь. Все три сестры были важными олимпийскими богинями.",
@@ -2304,28 +2010,22 @@
   },
   {
     "id": 350,
-    "question": "Сколько трагедий написал Эсхил?",
+    "question_ru": "Сколько трагедий написал Эсхил?",
     "question_de": "Wie viele Tragödien schrieb Aischylos?",
-    "answer": "Около 90",
-    "answer_de": "Etwa 90",
-    "wrong_answers": [
-      {
-        "ru": "Около 50",
-        "de": "Etwa 50"
-      },
-      {
-        "ru": "Около 120",
-        "de": "Etwa 120"
-      },
-      {
-        "ru": "Около 70",
-        "de": "Etwa 70"
-      }
+    "correct_answer_ru": "Около 90",
+    "correct_answer_de": "Etwa 90",
+    "wrong_answers_ru": [
+      "Около 50",
+      "Около 120",
+      "Около 70"
     ],
-    "explanation": {
-      "ru": "Эсхил написал около 90 трагедий, но до наших дней сохранились только 7: 'Персы', 'Семеро против Фив', 'Просительницы', 'Прометей прикованный' и трилогия 'Орестея'. Эсхил был плодовитым драматургом и выиграл 13 раз на Великих Дионисиях. Его произведения заложили основы греческой трагедии.",
-      "de": "Aischylos schrieb etwa 90 Tragödien, aber nur 7 sind bis heute erhalten: 'Die Perser', 'Sieben gegen Theben', 'Die Schutzflehenden', 'Der gefesselte Prometheus' und die Trilogie 'Orestie'. Aischylos war ein produktiver Dramatiker und gewann 13 Mal bei den Großen Dionysien. Seine Werke legten die Grundlagen der griechischen Tragödie."
-    },
+    "wrong_answers_de": [
+      "Etwa 50",
+      "Etwa 120",
+      "Etwa 70"
+    ],
+    "explanation_ru": "Эсхил написал около 90 трагедий, но до наших дней сохранились только 7: 'Персы', 'Семеро против Фив', 'Просительницы', 'Прометей прикованный' и трилогия 'Орестея'. Эсхил был плодовитым драматургом и выиграл 13 раз на Великих Дионисиях. Его произведения заложили основы греческой трагедии.",
+    "explanation_de": "Aischylos schrieb etwa 90 Tragödien, aber nur 7 sind bis heute erhalten: 'Die Perser', 'Sieben gegen Theben', 'Die Schutzflehenden', 'Der gefesselte Prometheus' und die Trilogie 'Orestie'. Aischylos war ein produktiver Dramatiker und gewann 13 Mal bei den Großen Dionysien. Seine Werke legten die Grundlagen der griechischen Tragödie.",
     "interesting_facts": [
       {
         "ru": "Эсхил был первым из трёх великих трагиков (наряду с Софоклом и Еврипидом). Он ввёл второго актёра в трагедию, что позволило создавать диалоги. Эсхил также развил использование хора и создал масштабные постановки. Его произведения были известны своей торжественностью и величием.",
@@ -2350,4 +2050,3 @@
     ]
   }
 ]
-

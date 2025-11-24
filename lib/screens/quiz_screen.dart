@@ -196,7 +196,7 @@ class _QuizScreenState extends State<QuizScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Quiz'),
+        title: const Text('Geschichtsquiz'),
         actions: [
           IconButton(
             icon: const Icon(Icons.translate),
@@ -217,19 +217,20 @@ class _QuizScreenState extends State<QuizScreen> {
             children: [
               Text(
                 question,
-                style: const TextStyle(
-                  fontSize: 24,
+                style: TextStyle(
+                  fontSize: _isTranslated ? 12 : 24,
                   fontWeight: FontWeight.bold,
+                  color: _isTranslated ? Colors.grey.shade600 : null,
+                  fontStyle: _isTranslated ? FontStyle.italic : null,
                 ),
               ),
               if (_isTranslated) ...[
                 const SizedBox(height: 8),
                 Text(
                   currentQuestion.question,
-                  style: TextStyle(
-                    fontSize: 12,
-                    color: Colors.grey.shade600,
-                    fontStyle: FontStyle.italic,
+                  style: const TextStyle(
+                    fontSize: 24,
+                    fontWeight: FontWeight.bold,
                   ),
                 ),
               ],
@@ -252,37 +253,82 @@ class _QuizScreenState extends State<QuizScreen> {
                           width: 2,
                         ),
                       ),
-                      child: Column(
+                      child: Row(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text(
-                            options[index],
-                            style: TextStyle(
-                              fontSize: 22,
+                          // Буква (A, B, C, D)
+                          Container(
+                            width: 32,
+                            height: 32,
+                            margin: const EdgeInsets.only(right: 12),
+                            decoration: BoxDecoration(
                               color: _hasAnswered && 
                                      (index == currentQuestion.correctAnswerIndex ||
                                       index == _selectedAnswerIndex)
-                                  ? Colors.white
-                                  : Colors.blue,
-                              fontWeight: FontWeight.bold,
-                            ),
-                            softWrap: true,
-                          ),
-                          if (_isTranslated) ...[
-                            const SizedBox(height: 4),
-                            Text(
-                              currentQuestion.options[index],
-                              style: TextStyle(
-                                fontSize: 12,
+                                  ? Colors.white.withOpacity(0.3)
+                                  : Colors.blue.withOpacity(0.1),
+                              borderRadius: BorderRadius.circular(8),
+                              border: Border.all(
                                 color: _hasAnswered && 
                                        (index == currentQuestion.correctAnswerIndex ||
                                         index == _selectedAnswerIndex)
-                                    ? Colors.white70
-                                    : Colors.grey.shade600,
-                                fontStyle: FontStyle.italic,
+                                    ? Colors.white
+                                    : Colors.blue,
+                                width: 2,
                               ),
                             ),
-                          ],
+                            child: Center(
+                              child: Text(
+                                String.fromCharCode(65 + index), // A, B, C, D
+                                style: TextStyle(
+                                  fontSize: 18,
+                                  fontWeight: FontWeight.bold,
+                                  color: _hasAnswered && 
+                                         (index == currentQuestion.correctAnswerIndex ||
+                                          index == _selectedAnswerIndex)
+                                      ? Colors.white
+                                      : Colors.blue,
+                                ),
+                              ),
+                            ),
+                          ),
+                          // Текст ответа
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  options[index],
+                                  style: TextStyle(
+                                    fontSize: _isTranslated ? 12 : 22,
+                                    color: _hasAnswered && 
+                                           (index == currentQuestion.correctAnswerIndex ||
+                                            index == _selectedAnswerIndex)
+                                        ? Colors.white
+                                        : Colors.blue,
+                                    fontWeight: FontWeight.bold,
+                                    fontStyle: _isTranslated ? FontStyle.italic : null,
+                                  ),
+                                  softWrap: true,
+                                ),
+                                if (_isTranslated) ...[
+                                  const SizedBox(height: 4),
+                                  Text(
+                                    currentQuestion.options[index],
+                                    style: TextStyle(
+                                      fontSize: 22,
+                                      color: _hasAnswered && 
+                                             (index == currentQuestion.correctAnswerIndex ||
+                                              index == _selectedAnswerIndex)
+                                          ? Colors.white
+                                          : Colors.blue,
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                ],
+                              ],
+                            ),
+                          ),
                         ],
                       ),
                     ),

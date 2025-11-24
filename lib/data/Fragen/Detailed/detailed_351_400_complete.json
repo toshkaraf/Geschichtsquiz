@@ -1,28 +1,22 @@
 [
   {
     "id": 351,
-    "question": "Кто были дети Зевса?",
+    "question_ru": "Кто были дети Зевса?",
     "question_de": "Wer waren die Kinder des Zeus?",
-    "answer": "Афина, Аполлон, Артемида, Гермес и др.",
-    "answer_de": "Athena, Apollon, Artemis, Hermes und andere",
-    "wrong_answers": [
-      {
-        "ru": "Только Афина и Аполлон",
-        "de": "Nur Athena und Apollon"
-      },
-      {
-        "ru": "Только боги-олимпийцы",
-        "de": "Nur olympische Götter"
-      },
-      {
-        "ru": "Только герои",
-        "de": "Nur Helden"
-      }
+    "correct_answer_ru": "Афина, Аполлон, Артемида, Гермес и др.",
+    "correct_answer_de": "Athena, Apollon, Artemis, Hermes und andere",
+    "wrong_answers_ru": [
+      "Только Афина и Аполлон",
+      "Только боги-олимпийцы",
+      "Только герои"
     ],
-    "explanation": {
-      "ru": "Зевс имел множество детей от разных богинь и смертных женщин. Среди его божественных детей были Афина (от Метиды), Аполлон и Артемида (от Лето), Гермес (от Майи), Дионис (от Семелы), Арес и Геба (от Геры). Также у Зевса было много героев-детей, включая Геракла, Персея и других. Зевс был известен своими многочисленными любовными связями.",
-      "de": "Zeus hatte viele Kinder von verschiedenen Göttinnen und sterblichen Frauen. Unter seinen göttlichen Kindern waren Athena (von Metis), Apollon und Artemis (von Leto), Hermes (von Maia), Dionysos (von Semele), Ares und Hebe (von Hera). Zeus hatte auch viele Heldenkinder, einschließlich Herakles, Perseus und andere. Zeus war für seine zahlreichen Liebesaffären bekannt."
-    },
+    "wrong_answers_de": [
+      "Nur Athena und Apollon",
+      "Nur olympische Götter",
+      "Nur Helden"
+    ],
+    "explanation_ru": "Зевс имел множество детей от разных богинь и смертных женщин. Среди его божественных детей были Афина (от Метиды), Аполлон и Артемида (от Лето), Гермес (от Майи), Дионис (от Семелы), Арес и Геба (от Геры). Также у Зевса было много героев-детей, включая Геракла, Персея и других. Зевс был известен своими многочисленными любовными связями.",
+    "explanation_de": "Zeus hatte viele Kinder von verschiedenen Göttinnen und sterblichen Frauen. Unter seinen göttlichen Kindern waren Athena (von Metis), Apollon und Artemis (von Leto), Hermes (von Maia), Dionysos (von Semele), Ares und Hebe (von Hera). Zeus hatte auch viele Heldenkinder, einschließlich Herakles, Perseus und andere. Zeus war für seine zahlreichen Liebesaffären bekannt.",
     "interesting_facts": [
       {
         "ru": "Афина родилась из головы Зевса после того, как он проглотил её мать Метиду. Это сделало Афину единственным ребёнком Зевса, рождённым без матери. Афина стала любимой дочерью Зевса и богиней мудрости и войны. Она была одной из самых почитаемых богинь в Греции.",
@@ -48,28 +42,22 @@
   },
   {
     "id": 352,
-    "question": "Сколько трагедий Эсхила сохранилось?",
+    "question_ru": "Сколько трагедий Эсхила сохранилось?",
     "question_de": "Wie viele Tragödien von Aischylos sind erhalten?",
-    "answer": "Семь",
-    "answer_de": "Sieben",
-    "wrong_answers": [
-      {
-        "ru": "Пять",
-        "de": "Fünf"
-      },
-      {
-        "ru": "Десять",
-        "de": "Zehn"
-      },
-      {
-        "ru": "Двенадцать",
-        "de": "Zwölf"
-      }
+    "correct_answer_ru": "Семь",
+    "correct_answer_de": "Sieben",
+    "wrong_answers_ru": [
+      "Пять",
+      "Десять",
+      "Двенадцать"
     ],
-    "explanation": {
-      "ru": "Из примерно 90 трагедий, написанных Эсхилом, до наших дней сохранились только семь: 'Персы', 'Семеро против Фив', 'Просительницы', 'Прометей прикованный' и трилогия 'Орестея' (состоящая из 'Агамемнона', 'Хоэфор' и 'Эвменид'). Остальные произведения были утеряны в течение веков. Сохранённые трагедии считаются шедеврами античной драматургии.",
-      "de": "Von etwa 90 Tragödien, die Aischylos schrieb, sind nur sieben bis heute erhalten: 'Die Perser', 'Sieben gegen Theben', 'Die Schutzflehenden', 'Der gefesselte Prometheus' und die Trilogie 'Orestie' (bestehend aus 'Agamemnon', 'Choephoren' und 'Eumeniden'). Die anderen Werke gingen im Laufe der Jahrhunderte verloren. Die erhaltenen Tragödien gelten als Meisterwerke der antiken Dramatik."
-    },
+    "wrong_answers_de": [
+      "Fünf",
+      "Zehn",
+      "Zwölf"
+    ],
+    "explanation_ru": "Из примерно 90 трагедий, написанных Эсхилом, до наших дней сохранились только семь: 'Персы', 'Семеро против Фив', 'Просительницы', 'Прометей прикованный' и трилогия 'Орестея' (состоящая из 'Агамемнона', 'Хоэфор' и 'Эвменид'). Остальные произведения были утеряны в течение веков. Сохранённые трагедии считаются шедеврами античной драматургии.",
+    "explanation_de": "Von etwa 90 Tragödien, die Aischylos schrieb, sind nur sieben bis heute erhalten: 'Die Perser', 'Sieben gegen Theben', 'Die Schutzflehenden', 'Der gefesselte Prometheus' und die Trilogie 'Orestie' (bestehend aus 'Agamemnon', 'Choephoren' und 'Eumeniden'). Die anderen Werke gingen im Laufe der Jahrhunderte verloren. Die erhaltenen Tragödien gelten als Meisterwerke der antiken Dramatik.",
     "interesting_facts": [
       {
         "ru": "Сохранение только семи трагедий из 90 показывает, как много античной литературы было утеряно. Большинство произведений Эсхила известны только по названиям или фрагментам. Трилогия 'Орестея' - единственная полностью сохранившаяся трилогия античности, что делает её особенно ценной для изучения древнегреческого театра.",
@@ -95,28 +83,22 @@
   },
   {
     "id": 353,
-    "question": "Из чьей головы родилась Афина?",
+    "question_ru": "Из чьей головы родилась Афина?",
     "question_de": "Aus wessen Kopf wurde Athena geboren?",
-    "answer": "Из головы Зевса",
-    "answer_de": "Aus dem Kopf des Zeus",
-    "wrong_answers": [
-      {
-        "ru": "Из головы Геры",
-        "de": "Aus dem Kopf der Hera"
-      },
-      {
-        "ru": "Из головы Посейдона",
-        "de": "Aus dem Kopf des Poseidon"
-      },
-      {
-        "ru": "Из головы Гефеста",
-        "de": "Aus dem Kopf des Hephaistos"
-      }
+    "correct_answer_ru": "Из головы Зевса",
+    "correct_answer_de": "Aus dem Kopf des Zeus",
+    "wrong_answers_ru": [
+      "Из головы Геры",
+      "Из головы Посейдона",
+      "Из головы Гефеста"
     ],
-    "explanation": {
-      "ru": "Афина родилась из головы Зевса после того, как он проглотил её мать Метиду (богиню мудрости). Зевс сделал это, потому что получил пророчество, что сын Метиды свергнет его. Гефест расколол голову Зевса топором, и оттуда вышла взрослая Афина в полном вооружении. Это сделало Афину единственным ребёнком Зевса, рождённым без матери.",
-      "de": "Athena wurde aus dem Kopf des Zeus geboren, nachdem er ihre Mutter Metis (Göttin der Weisheit) verschluckt hatte. Zeus tat dies, weil er eine Prophezeiung erhalten hatte, dass der Sohn der Metis ihn stürzen würde. Hephaistos spaltete den Kopf des Zeus mit einer Axt, und von dort kam die erwachsene Athena in voller Rüstung heraus. Dies machte Athena zum einzigen Kind des Zeus, das ohne Mutter geboren wurde."
-    },
+    "wrong_answers_de": [
+      "Aus dem Kopf der Hera",
+      "Aus dem Kopf des Poseidon",
+      "Aus dem Kopf des Hephaistos"
+    ],
+    "explanation_ru": "Афина родилась из головы Зевса после того, как он проглотил её мать Метиду (богиню мудрости). Зевс сделал это, потому что получил пророчество, что сын Метиды свергнет его. Гефест расколол голову Зевса топором, и оттуда вышла взрослая Афина в полном вооружении. Это сделало Афину единственным ребёнком Зевса, рождённым без матери.",
+    "explanation_de": "Athena wurde aus dem Kopf des Zeus geboren, nachdem er ihre Mutter Metis (Göttin der Weisheit) verschluckt hatte. Zeus tat dies, weil er eine Prophezeiung erhalten hatte, dass der Sohn der Metis ihn stürzen würde. Hephaistos spaltete den Kopf des Zeus mit einer Axt, und von dort kam die erwachsene Athena in voller Rüstung heraus. Dies machte Athena zum einzigen Kind des Zeus, das ohne Mutter geboren wurde.",
     "interesting_facts": [
       {
         "ru": "Рождение Афины из головы Зевса символизирует её связь с мудростью и разумом. Она появилась на свет уже взрослой и вооружённой, что подчёркивает её готовность к битве и мудрость. Афина стала покровительницей Афин и одной из самых почитаемых богинь в Греции.",
@@ -142,28 +124,22 @@
   },
   {
     "id": 354,
-    "question": "Сколько трагедий написал Софокл?",
+    "question_ru": "Сколько трагедий написал Софокл?",
     "question_de": "Wie viele Tragödien schrieb Sophokles?",
-    "answer": "Около 123",
-    "answer_de": "Etwa 123",
-    "wrong_answers": [
-      {
-        "ru": "Около 90",
-        "de": "Etwa 90"
-      },
-      {
-        "ru": "Около 150",
-        "de": "Etwa 150"
-      },
-      {
-        "ru": "Около 70",
-        "de": "Etwa 70"
-      }
+    "correct_answer_ru": "Около 123",
+    "correct_answer_de": "Etwa 123",
+    "wrong_answers_ru": [
+      "Около 90",
+      "Около 150",
+      "Около 70"
     ],
-    "explanation": {
-      "ru": "Софокл написал около 123 трагедий в течение своей долгой жизни (496-406 до н.э.). Он был очень плодовитым драматургом и выиграл 24 раза на Великих Дионисиях, больше, чем любой другой драматург. Однако до наших дней сохранились только 7 трагедий: 'Аякс', 'Антигона', 'Царь Эдип', 'Электра', 'Трахинянки', 'Филоктет' и 'Эдип в Колоне'.",
-      "de": "Sophokles schrieb etwa 123 Tragödien während seines langen Lebens (496-406 v. Chr.). Er war ein sehr produktiver Dramatiker und gewann 24 Mal bei den Großen Dionysien, mehr als jeder andere Dramatiker. Allerdings sind nur 7 Tragödien bis heute erhalten: 'Aias', 'Antigone', 'König Ödipus', 'Elektra', 'Trachinierinnen', 'Philoktet' und 'Ödipus auf Kolonos'."
-    },
+    "wrong_answers_de": [
+      "Etwa 90",
+      "Etwa 150",
+      "Etwa 70"
+    ],
+    "explanation_ru": "Софокл написал около 123 трагедий в течение своей долгой жизни (496-406 до н.э.). Он был очень плодовитым драматургом и выиграл 24 раза на Великих Дионисиях, больше, чем любой другой драматург. Однако до наших дней сохранились только 7 трагедий: 'Аякс', 'Антигона', 'Царь Эдип', 'Электра', 'Трахинянки', 'Филоктет' и 'Эдип в Колоне'.",
+    "explanation_de": "Sophokles schrieb etwa 123 Tragödien während seines langen Lebens (496-406 v. Chr.). Er war ein sehr produktiver Dramatiker und gewann 24 Mal bei den Großen Dionysien, mehr als jeder andere Dramatiker. Allerdings sind nur 7 Tragödien bis heute erhalten: 'Aias', 'Antigone', 'König Ödipus', 'Elektra', 'Trachinierinnen', 'Philoktet' und 'Ödipus auf Kolonos'.",
     "interesting_facts": [
       {
         "ru": "Софокл жил очень долго - 90 лет, что было необычно для того времени. Он продолжал писать до самой смерти и выиграл свой последний конкурс в возрасте 87 лет. Софокл был не только драматургом, но и политиком, военачальником и жрецом. Его долгая жизнь позволила ему создать огромное количество произведений.",
@@ -189,28 +165,22 @@
   },
   {
     "id": 355,
-    "question": "Кто были родителями Аполлона?",
+    "question_ru": "Кто были родителями Аполлона?",
     "question_de": "Wer waren die Eltern des Apollon?",
-    "answer": "Зевс и Лето",
-    "answer_de": "Zeus und Leto",
-    "wrong_answers": [
-      {
-        "ru": "Зевс и Гера",
-        "de": "Zeus und Hera"
-      },
-      {
-        "ru": "Посейдон и Амфитрита",
-        "de": "Poseidon und Amphitrite"
-      },
-      {
-        "ru": "Гелиос и Селена",
-        "de": "Helios und Selene"
-      }
+    "correct_answer_ru": "Зевс и Лето",
+    "correct_answer_de": "Zeus und Leto",
+    "wrong_answers_ru": [
+      "Зевс и Гера",
+      "Посейдон и Амфитрита",
+      "Гелиос и Селена"
     ],
-    "explanation": {
-      "ru": "Аполлон был сыном Зевса и титаниды Лето (дочери титанов Коя и Фебы). Лето была преследуема Герой из-за ревности, и ей было трудно найти место для родов. Наконец, она родила Аполлона и его сестру-близнеца Артемиду на острове Делос. Аполлон стал одним из самых важных олимпийских богов.",
-      "de": "Apollon war der Sohn des Zeus und der Titanin Leto (Tochter der Titanen Koios und Phoibe). Leto wurde von Hera aus Eifersucht verfolgt, und es war schwierig für sie, einen Ort für die Geburt zu finden. Schließlich gebar sie Apollon und seine Zwillingsschwester Artemis auf der Insel Delos. Apollon wurde einer der wichtigsten olympischen Götter."
-    },
+    "wrong_answers_de": [
+      "Zeus und Hera",
+      "Poseidon und Amphitrite",
+      "Helios und Selene"
+    ],
+    "explanation_ru": "Аполлон был сыном Зевса и титаниды Лето (дочери титанов Коя и Фебы). Лето была преследуема Герой из-за ревности, и ей было трудно найти место для родов. Наконец, она родила Аполлона и его сестру-близнеца Артемиду на острове Делос. Аполлон стал одним из самых важных олимпийских богов.",
+    "explanation_de": "Apollon war der Sohn des Zeus und der Titanin Leto (Tochter der Titanen Koios und Phoibe). Leto wurde von Hera aus Eifersucht verfolgt, und es war schwierig für sie, einen Ort für die Geburt zu finden. Schließlich gebar sie Apollon und seine Zwillingsschwester Artemis auf der Insel Delos. Apollon wurde einer der wichtigsten olympischen Götter.",
     "interesting_facts": [
       {
         "ru": "Лето была вынуждена скитаться по Греции, ища место для родов, так как Гера запретила всем землям принимать её. Только плавучий остров Делос согласился принять Лето, и в благодарность он стал постоянным островом. Делос стал священным местом и центром культа Аполлона.",
@@ -236,28 +206,22 @@
   },
   {
     "id": 356,
-    "question": "Сколько трагедий Софокла сохранилось?",
+    "question_ru": "Сколько трагедий Софокла сохранилось?",
     "question_de": "Wie viele Tragödien von Sophokles sind erhalten?",
-    "answer": "Семь",
-    "answer_de": "Sieben",
-    "wrong_answers": [
-      {
-        "ru": "Пять",
-        "de": "Fünf"
-      },
-      {
-        "ru": "Десять",
-        "de": "Zehn"
-      },
-      {
-        "ru": "Двенадцать",
-        "de": "Zwölf"
-      }
+    "correct_answer_ru": "Семь",
+    "correct_answer_de": "Sieben",
+    "wrong_answers_ru": [
+      "Пять",
+      "Десять",
+      "Двенадцать"
     ],
-    "explanation": {
-      "ru": "Из примерно 123 трагедий, написанных Софоклом, до наших дней сохранились только семь: 'Аякс', 'Антигона', 'Царь Эдип', 'Электра', 'Трахинянки', 'Филоктет' и 'Эдип в Колоне'. Остальные произведения были утеряны в течение веков. Сохранённые трагедии считаются величайшими произведениями античной драматургии и изучаются до сих пор.",
-      "de": "Von etwa 123 Tragödien, die Sophokles schrieb, sind nur sieben bis heute erhalten: 'Aias', 'Antigone', 'König Ödipus', 'Elektra', 'Trachinierinnen', 'Philoktet' und 'Ödipus auf Kolonos'. Die anderen Werke gingen im Laufe der Jahrhunderte verloren. Die erhaltenen Tragödien gelten als die größten Werke der antiken Dramatik und werden bis heute studiert."
-    },
+    "wrong_answers_de": [
+      "Fünf",
+      "Zehn",
+      "Zwölf"
+    ],
+    "explanation_ru": "Из примерно 123 трагедий, написанных Софоклом, до наших дней сохранились только семь: 'Аякс', 'Антигона', 'Царь Эдип', 'Электра', 'Трахинянки', 'Филоктет' и 'Эдип в Колоне'. Остальные произведения были утеряны в течение веков. Сохранённые трагедии считаются величайшими произведениями античной драматургии и изучаются до сих пор.",
+    "explanation_de": "Von etwa 123 Tragödien, die Sophokles schrieb, sind nur sieben bis heute erhalten: 'Aias', 'Antigone', 'König Ödipus', 'Elektra', 'Trachinierinnen', 'Philoktet' und 'Ödipus auf Kolonos'. Die anderen Werke gingen im Laufe der Jahrhunderte verloren. Die erhaltenen Tragödien gelten als die größten Werke der antiken Dramatik und werden bis heute studiert.",
     "interesting_facts": [
       {
         "ru": "Семь сохранившихся трагедий Софокла были выбраны для изучения в византийский период. Они считались лучшими образцами его творчества и использовались в образовании. Без этого выбора мы могли бы потерять ещё больше произведений. Эти трагедии показывают мастерство Софокла в создании характеров и исследовании человеческой природы.",
@@ -283,28 +247,22 @@
   },
   {
     "id": 357,
-    "question": "Кто была сестра-близнец Аполлона?",
+    "question_ru": "Кто была сестра-близнец Аполлона?",
     "question_de": "Wer war die Zwillingsschwester des Apollon?",
-    "answer": "Артемида",
-    "answer_de": "Artemis",
-    "wrong_answers": [
-      {
-        "ru": "Афина",
-        "de": "Athena"
-      },
-      {
-        "ru": "Афродита",
-        "de": "Aphrodite"
-      },
-      {
-        "ru": "Персефона",
-        "de": "Persephone"
-      }
+    "correct_answer_ru": "Артемида",
+    "correct_answer_de": "Artemis",
+    "wrong_answers_ru": [
+      "Афина",
+      "Афродита",
+      "Персефона"
     ],
-    "explanation": {
-      "ru": "Артемида была сестрой-близнецом Аполлона, дочерью Зевса и Лето. Она родилась первой на острове Делос и помогла матери при рождении Аполлона. Артемида стала богиней охоты, дикой природы, луны и деторождения. Она была вечной девой и покровительницей молодых девушек.",
-      "de": "Artemis war die Zwillingsschwester des Apollon, Tochter des Zeus und der Leto. Sie wurde zuerst auf der Insel Delos geboren und half der Mutter bei der Geburt des Apollon. Artemis wurde zur Göttin der Jagd, Wildnis, des Mondes und der Geburt. Sie war eine ewige Jungfrau und Schutzpatronin junger Mädchen."
-    },
+    "wrong_answers_de": [
+      "Athena",
+      "Aphrodite",
+      "Persephone"
+    ],
+    "explanation_ru": "Артемида была сестрой-близнецом Аполлона, дочерью Зевса и Лето. Она родилась первой на острове Делос и помогла матери при рождении Аполлона. Артемида стала богиней охоты, дикой природы, луны и деторождения. Она была вечной девой и покровительницей молодых девушек.",
+    "explanation_de": "Artemis war die Zwillingsschwester des Apollon, Tochter des Zeus und der Leto. Sie wurde zuerst auf der Insel Delos geboren und half der Mutter bei der Geburt des Apollon. Artemis wurde zur Göttin der Jagd, Wildnis, des Mondes und der Geburt. Sie war eine ewige Jungfrau und Schutzpatronin junger Mädchen.",
     "interesting_facts": [
       {
         "ru": "Артемида и Аполлон были очень близки и часто работали вместе. Артемида родилась первой и сразу стала взрослой, чтобы помочь матери при рождении брата. Она была искусным лучником, как и Аполлон, и они вместе защищали свою мать от врагов. Артемида стала покровительницей женщин, а Аполлон - мужчин.",
@@ -330,28 +288,22 @@
   },
   {
     "id": 358,
-    "question": "Сколько трагедий написал Еврипид?",
+    "question_ru": "Сколько трагедий написал Еврипид?",
     "question_de": "Wie viele Tragödien schrieb Euripides?",
-    "answer": "Около 92",
-    "answer_de": "Etwa 92",
-    "wrong_answers": [
-      {
-        "ru": "Около 70",
-        "de": "Etwa 70"
-      },
-      {
-        "ru": "Около 120",
-        "de": "Etwa 120"
-      },
-      {
-        "ru": "Около 50",
-        "de": "Etwa 50"
-      }
+    "correct_answer_ru": "Около 92",
+    "correct_answer_de": "Etwa 92",
+    "wrong_answers_ru": [
+      "Около 70",
+      "Около 120",
+      "Около 50"
     ],
-    "explanation": {
-      "ru": "Еврипид написал около 92 трагедий в течение своей жизни (около 480-406 до н.э.). Он был третьим из трёх великих трагиков, наряду с Эсхилом и Софоклом. Однако Еврипид выиграл только 4 раза на Великих Дионисиях, что было меньше, чем у его современников. Его произведения были более новаторскими и критическими, что не всегда нравилось судьям.",
-      "de": "Euripides schrieb etwa 92 Tragödien während seines Lebens (ca. 480-406 v. Chr.). Er war der dritte der drei großen Tragödiendichter, zusammen mit Aischylos und Sophokles. Euripides gewann jedoch nur 4 Mal bei den Großen Dionysien, was weniger war als bei seinen Zeitgenossen. Seine Werke waren innovativer und kritischer, was den Richtern nicht immer gefiel."
-    },
+    "wrong_answers_de": [
+      "Etwa 70",
+      "Etwa 120",
+      "Etwa 50"
+    ],
+    "explanation_ru": "Еврипид написал около 92 трагедий в течение своей жизни (около 480-406 до н.э.). Он был третьим из трёх великих трагиков, наряду с Эсхилом и Софоклом. Однако Еврипид выиграл только 4 раза на Великих Дионисиях, что было меньше, чем у его современников. Его произведения были более новаторскими и критическими, что не всегда нравилось судьям.",
+    "explanation_de": "Euripides schrieb etwa 92 Tragödien während seines Lebens (ca. 480-406 v. Chr.). Er war der dritte der drei großen Tragödiendichter, zusammen mit Aischylos und Sophokles. Euripides gewann jedoch nur 4 Mal bei den Großen Dionysien, was weniger war als bei seinen Zeitgenossen. Seine Werke waren innovativer und kritischer, was den Richtern nicht immer gefiel.",
     "interesting_facts": [
       {
         "ru": "Еврипид был известен своими новаторскими подходами к трагедии. Он изображал богов более критически и фокусировался на психологии персонажей. Его произведения часто вызывали споры и не всегда нравились публике. Однако после смерти Еврипид стал самым популярным драматургом античности.",
@@ -377,28 +329,22 @@
   },
   {
     "id": 359,
-    "question": "Какой атрибут был у Посейдона?",
+    "question_ru": "Какой атрибут был у Посейдона?",
     "question_de": "Welches Attribut hatte Poseidon?",
-    "answer": "Трезубец",
-    "answer_de": "Dreizack",
-    "wrong_answers": [
-      {
-        "ru": "Молния",
-        "de": "Blitz"
-      },
-      {
-        "ru": "Меч",
-        "de": "Schwert"
-      },
-      {
-        "ru": "Лук",
-        "de": "Bogen"
-      }
+    "correct_answer_ru": "Трезубец",
+    "correct_answer_de": "Dreizack",
+    "wrong_answers_ru": [
+      "Молния",
+      "Меч",
+      "Лук"
     ],
-    "explanation": {
-      "ru": "Трезубец был главным атрибутом Посейдона, бога морей. Он использовал трезубец для управления морями, вызывания штормов и землетрясений. Трезубец был символом его власти над водной стихией. Посейдон изображался с трезубцем в руке, часто в сопровождении морских существ.",
-      "de": "Der Dreizack war das Hauptattribut des Poseidon, des Gottes der Meere. Er verwendete den Dreizack, um die Meere zu kontrollieren, Stürme und Erdbeben zu verursachen. Der Dreizack war ein Symbol seiner Macht über das Wasserelement. Poseidon wurde mit einem Dreizack in der Hand dargestellt, oft begleitet von Meereskreaturen."
-    },
+    "wrong_answers_de": [
+      "Blitz",
+      "Schwert",
+      "Bogen"
+    ],
+    "explanation_ru": "Трезубец был главным атрибутом Посейдона, бога морей. Он использовал трезубец для управления морями, вызывания штормов и землетрясений. Трезубец был символом его власти над водной стихией. Посейдон изображался с трезубцем в руке, часто в сопровождении морских существ.",
+    "explanation_de": "Der Dreizack war das Hauptattribut des Poseidon, des Gottes der Meere. Er verwendete den Dreizack, um die Meere zu kontrollieren, Stürme und Erdbeben zu verursachen. Der Dreizack war ein Symbol seiner Macht über das Wasserelement. Poseidon wurde mit einem Dreizack in der Hand dargestellt, oft begleitet von Meereskreaturen.",
     "interesting_facts": [
       {
         "ru": "Трезубец Посейдона был создан циклопами во время титаномахии. Он был могущественным оружием, способным вызывать землетрясения и штормы. Посейдон использовал трезубец для создания источников пресной воды, ударяя им по земле. Трезубец стал символом морской власти и силы.",
@@ -424,28 +370,22 @@
   },
   {
     "id": 360,
-    "question": "Сколько трагедий Еврипида сохранилось?",
+    "question_ru": "Сколько трагедий Еврипида сохранилось?",
     "question_de": "Wie viele Tragödien von Euripides sind erhalten?",
-    "answer": "Восемнадцать",
-    "answer_de": "Achtzehn",
-    "wrong_answers": [
-      {
-        "ru": "Семь",
-        "de": "Sieben"
-      },
-      {
-        "ru": "Десять",
-        "de": "Zehn"
-      },
-      {
-        "ru": "Двадцать пять",
-        "de": "Fünfundzwanzig"
-      }
+    "correct_answer_ru": "Восемнадцать",
+    "correct_answer_de": "Achtzehn",
+    "wrong_answers_ru": [
+      "Семь",
+      "Десять",
+      "Двадцать пять"
     ],
-    "explanation": {
-      "ru": "Из примерно 92 трагедий, написанных Еврипидом, до наших дней сохранились 18 (или 19, если считать 'Реса'). Это больше, чем у Эсхила (7) и Софокла (7). Сохранённые трагедии включают 'Медею', 'Ипполита', 'Алкестиду', 'Гераклидов', 'Андромаху', 'Гекубу', 'Троянок', 'Электру', 'Ифигению в Тавриде', 'Ион', 'Елену', 'Финикиянок', 'Ореста', 'Вакханок' и другие.",
-      "de": "Von etwa 92 Tragödien, die Euripides schrieb, sind 18 (oder 19, wenn man 'Rhesos' zählt) bis heute erhalten. Das ist mehr als bei Aischylos (7) und Sophokles (7). Die erhaltenen Tragödien umfassen 'Medea', 'Hippolytos', 'Alkestis', 'Herakliden', 'Andromache', 'Hekabe', 'Troerinnen', 'Elektra', 'Iphigenie bei den Taurern', 'Ion', 'Helena', 'Phönizierinnen', 'Orestes', 'Bakchen' und andere."
-    },
+    "wrong_answers_de": [
+      "Sieben",
+      "Zehn",
+      "Fünfundzwanzig"
+    ],
+    "explanation_ru": "Из примерно 92 трагедий, написанных Еврипидом, до наших дней сохранились 18 (или 19, если считать 'Реса'). Это больше, чем у Эсхила (7) и Софокла (7). Сохранённые трагедии включают 'Медею', 'Ипполита', 'Алкестиду', 'Гераклидов', 'Андромаху', 'Гекубу', 'Троянок', 'Электру', 'Ифигению в Тавриде', 'Ион', 'Елену', 'Финикиянок', 'Ореста', 'Вакханок' и другие.",
+    "explanation_de": "Von etwa 92 Tragödien, die Euripides schrieb, sind 18 (oder 19, wenn man 'Rhesos' zählt) bis heute erhalten. Das ist mehr als bei Aischylos (7) und Sophokles (7). Die erhaltenen Tragödien umfassen 'Medea', 'Hippolytos', 'Alkestis', 'Herakliden', 'Andromache', 'Hekabe', 'Troerinnen', 'Elektra', 'Iphigenie bei den Taurern', 'Ion', 'Helena', 'Phönizierinnen', 'Orestes', 'Bakchen' und andere.",
     "interesting_facts": [
       {
         "ru": "Большее количество сохранившихся трагедий Еврипида объясняется его популярностью в более поздние периоды, особенно в эллинистическую и римскую эпохи. Его произведения считались более актуальными и интересными для образованных читателей. Еврипид стал самым читаемым драматургом античности после своей смерти.",
@@ -471,28 +411,22 @@
   },
   {
     "id": 361,
-    "question": "Какой атрибут был у Зевса?",
+    "question_ru": "Какой атрибут был у Зевса?",
     "question_de": "Welches Attribut hatte Zeus?",
-    "answer": "Молния",
-    "answer_de": "Blitz",
-    "wrong_answers": [
-      {
-        "ru": "Трезубец",
-        "de": "Dreizack"
-      },
-      {
-        "ru": "Меч",
-        "de": "Schwert"
-      },
-      {
-        "ru": "Копьё",
-        "de": "Speer"
-      }
+    "correct_answer_ru": "Молния",
+    "correct_answer_de": "Blitz",
+    "wrong_answers_ru": [
+      "Трезубец",
+      "Меч",
+      "Копьё"
     ],
-    "explanation": {
-      "ru": "Молния была главным атрибутом и оружием Зевса, верховного бога. Молнии были созданы циклопами во время титаномахии и стали символом власти Зевса. Он использовал молнии для наказания непокорных и защиты справедливости. Молния символизировала его абсолютную власть над небом и землёй.",
-      "de": "Der Blitz war das Hauptattribut und die Waffe des Zeus, des obersten Gottes. Die Blitze wurden von den Zyklopen während der Titanomachie geschaffen und wurden zum Symbol der Macht des Zeus. Er verwendete Blitze, um Ungehorsame zu bestrafen und Gerechtigkeit zu schützen. Der Blitz symbolisierte seine absolute Macht über Himmel und Erde."
-    },
+    "wrong_answers_de": [
+      "Dreizack",
+      "Schwert",
+      "Speer"
+    ],
+    "explanation_ru": "Молния была главным атрибутом и оружием Зевса, верховного бога. Молнии были созданы циклопами во время титаномахии и стали символом власти Зевса. Он использовал молнии для наказания непокорных и защиты справедливости. Молния символизировала его абсолютную власть над небом и землёй.",
+    "explanation_de": "Der Blitz war das Hauptattribut und die Waffe des Zeus, des obersten Gottes. Die Blitze wurden von den Zyklopen während der Titanomachie geschaffen und wurden zum Symbol der Macht des Zeus. Er verwendete Blitze, um Ungehorsame zu bestrafen und Gerechtigkeit zu schützen. Der Blitz symbolisierte seine absolute Macht über Himmel und Erde.",
     "interesting_facts": [
       {
         "ru": "Молнии Зевса были созданы циклопами, которые выковали их в кузнице Гефеста. Зевс хранил запас молний и мог метать их с огромной силой. Молния была самым могущественным оружием в мифологии и могла уничтожить даже титанов. Зевс использовал молнии для поддержания порядка во вселенной.",
@@ -518,28 +452,22 @@
   },
   {
     "id": 362,
-    "question": "Кто написал 'Облака'?",
+    "question_ru": "Кто написал 'Облака'?",
     "question_de": "Wer schrieb 'Die Wolken'?",
-    "answer": "Аристофан",
-    "answer_de": "Aristophanes",
-    "wrong_answers": [
-      {
-        "ru": "Эсхил",
-        "de": "Aischylos"
-      },
-      {
-        "ru": "Софокл",
-        "de": "Sophokles"
-      },
-      {
-        "ru": "Еврипид",
-        "de": "Euripides"
-      }
+    "correct_answer_ru": "Аристофан",
+    "correct_answer_de": "Aristophanes",
+    "wrong_answers_ru": [
+      "Эсхил",
+      "Софокл",
+      "Еврипид"
     ],
-    "explanation": {
-      "ru": "'Облака' - комедия Аристофана, написанная в 423 году до н.э. Пьеса сатирически изображает Сократа и софистов, высмеивая их философию и методы обучения. Главный герой Стрепсиад пытается научиться у Сократа, как избежать долгов, но в итоге всё теряет. Пьеса была переписана автором, но не сохранилась в окончательной версии.",
-      "de": "'Die Wolken' ist eine Komödie von Aristophanes, geschrieben 423 v. Chr. Das Stück stellt Sokrates und die Sophisten satirisch dar und verspottet ihre Philosophie und Lehrmethoden. Der Hauptcharakter Strepsiades versucht, von Sokrates zu lernen, wie man Schulden vermeidet, verliert aber am Ende alles. Das Stück wurde vom Autor umgeschrieben, aber die endgültige Version ist nicht erhalten."
-    },
+    "wrong_answers_de": [
+      "Aischylos",
+      "Sophokles",
+      "Euripides"
+    ],
+    "explanation_ru": "'Облака' - комедия Аристофана, написанная в 423 году до н.э. Пьеса сатирически изображает Сократа и софистов, высмеивая их философию и методы обучения. Главный герой Стрепсиад пытается научиться у Сократа, как избежать долгов, но в итоге всё теряет. Пьеса была переписана автором, но не сохранилась в окончательной версии.",
+    "explanation_de": "'Die Wolken' ist eine Komödie von Aristophanes, geschrieben 423 v. Chr. Das Stück stellt Sokrates und die Sophisten satirisch dar und verspottet ihre Philosophie und Lehrmethoden. Der Hauptcharakter Strepsiades versucht, von Sokrates zu lernen, wie man Schulden vermeidet, verliert aber am Ende alles. Das Stück wurde vom Autor umgeschrieben, aber die endgültige Version ist nicht erhalten.",
     "interesting_facts": [
       {
         "ru": "'Облака' были неудачей для Аристофана - они заняли третье место на конкурсе. Аристофан переписал пьесу, но окончательная версия не сохранилась. Пьеса сатирически изображает Сократа, хотя реальный Сократ был совсем другим. Аристофан использовал Сократа как символ софистов, которых он критиковал.",
@@ -565,28 +493,22 @@
   },
   {
     "id": 363,
-    "question": "Какой атрибут был у Гермеса?",
+    "question_ru": "Какой атрибут был у Гермеса?",
     "question_de": "Welches Attribut hatte Hermes?",
-    "answer": "Крылатые сандалии и кадуцей",
-    "answer_de": "Geflügelte Sandalen und Kerykeion",
-    "wrong_answers": [
-      {
-        "ru": "Только крылатые сандалии",
-        "de": "Nur geflügelte Sandalen"
-      },
-      {
-        "ru": "Только кадуцей",
-        "de": "Nur Kerykeion"
-      },
-      {
-        "ru": "Лук и стрелы",
-        "de": "Bogen und Pfeile"
-      }
+    "correct_answer_ru": "Крылатые сандалии и кадуцей",
+    "correct_answer_de": "Geflügelte Sandalen und Kerykeion",
+    "wrong_answers_ru": [
+      "Только крылатые сандалии",
+      "Только кадуцей",
+      "Лук и стрелы"
     ],
-    "explanation": {
-      "ru": "Гермес имел два главных атрибута: крылатые сандалии (таларии) и кадуцей (жезл с двумя змеями). Крылатые сандалии позволяли ему быстро передвигаться и летать. Кадуцей был символом его роли как вестника богов и покровителя торговли. Эти атрибуты делали Гермеса узнаваемым среди богов.",
-      "de": "Hermes hatte zwei Hauptattribute: geflügelte Sandalen (Talaroi) und Kerykeion (Stab mit zwei Schlangen). Die geflügelten Sandalen ermöglichten es ihm, sich schnell zu bewegen und zu fliegen. Das Kerykeion war ein Symbol seiner Rolle als Götterbote und Schutzpatron des Handels. Diese Attribute machten Hermes unter den Göttern erkennbar."
-    },
+    "wrong_answers_de": [
+      "Nur geflügelte Sandalen",
+      "Nur Kerykeion",
+      "Bogen und Pfeile"
+    ],
+    "explanation_ru": "Гермес имел два главных атрибута: крылатые сандалии (таларии) и кадуцей (жезл с двумя змеями). Крылатые сандалии позволяли ему быстро передвигаться и летать. Кадуцей был символом его роли как вестника богов и покровителя торговли. Эти атрибуты делали Гермеса узнаваемым среди богов.",
+    "explanation_de": "Hermes hatte zwei Hauptattribute: geflügelte Sandalen (Talaroi) und Kerykeion (Stab mit zwei Schlangen). Die geflügelten Sandalen ermöglichten es ihm, sich schnell zu bewegen und zu fliegen. Das Kerykeion war ein Symbol seiner Rolle als Götterbote und Schutzpatron des Handels. Diese Attribute machten Hermes unter den Göttern erkennbar.",
     "interesting_facts": [
       {
         "ru": "Крылатые сандалии Гермеса были созданы Гефестом и позволяли ему перемещаться с невероятной скоростью. Гермес использовал их для выполнения поручений Зевса и доставки сообщений между богами и людьми. Сандалии стали символом скорости и мобильности. Они помогали Гермесу быть вездесущим вестником.",
@@ -612,28 +534,22 @@
   },
   {
     "id": 364,
-    "question": "Кто написал 'Лягушек'?",
+    "question_ru": "Кто написал 'Лягушек'?",
     "question_de": "Wer schrieb 'Die Frösche'?",
-    "answer": "Аристофан",
-    "answer_de": "Aristophanes",
-    "wrong_answers": [
-      {
-        "ru": "Эсхил",
-        "de": "Aischylos"
-      },
-      {
-        "ru": "Софокл",
-        "de": "Sophokles"
-      },
-      {
-        "ru": "Еврипид",
-        "de": "Euripides"
-      }
+    "correct_answer_ru": "Аристофан",
+    "correct_answer_de": "Aristophanes",
+    "wrong_answers_ru": [
+      "Эсхил",
+      "Софокл",
+      "Еврипид"
     ],
-    "explanation": {
-      "ru": "'Лягушки' - комедия Аристофана, написанная в 405 году до н.э. Пьеса рассказывает о путешествии Диониса в подземный мир, чтобы вернуть Еврипида. В подземном мире происходит соревнование между Эсхилом и Еврипидом за трон лучшего трагика. Пьеса выиграла первый приз на Великих Дионисиях и считается одной из лучших комедий Аристофана.",
-      "de": "'Die Frösche' ist eine Komödie von Aristophanes, geschrieben 405 v. Chr. Das Stück erzählt von der Reise des Dionysos in die Unterwelt, um Euripides zurückzubringen. In der Unterwelt findet ein Wettbewerb zwischen Aischylos und Euripides um den Thron des besten Tragödiendichters statt. Das Stück gewann den ersten Preis bei den Großen Dionysien und gilt als eine der besten Komödien von Aristophanes."
-    },
+    "wrong_answers_de": [
+      "Aischylos",
+      "Sophokles",
+      "Euripides"
+    ],
+    "explanation_ru": "'Лягушки' - комедия Аристофана, написанная в 405 году до н.э. Пьеса рассказывает о путешествии Диониса в подземный мир, чтобы вернуть Еврипида. В подземном мире происходит соревнование между Эсхилом и Еврипидом за трон лучшего трагика. Пьеса выиграла первый приз на Великих Дионисиях и считается одной из лучших комедий Аристофана.",
+    "explanation_de": "'Die Frösche' ist eine Komödie von Aristophanes, geschrieben 405 v. Chr. Das Stück erzählt von der Reise des Dionysos in die Unterwelt, um Euripides zurückzubringen. In der Unterwelt findet ein Wettbewerb zwischen Aischylos und Euripides um den Thron des besten Tragödiendichters statt. Das Stück gewann den ersten Preis bei den Großen Dionysien und gilt als eine der besten Komödien von Aristophanes.",
     "interesting_facts": [
       {
         "ru": "'Лягушки' получили своё название от хора лягушек, которые встречают Диониса на пути в подземный мир. Хор лягушек поёт 'Брекекекекс, коакс, коакс', что стало одним из самых известных моментов пьесы. Пьеса сочетает комедию с серьёзной критикой современной драматургии.",
@@ -659,28 +575,22 @@
   },
   {
     "id": 365,
-    "question": "Какой атрибут был у Артемиды?",
+    "question_ru": "Какой атрибут был у Артемиды?",
     "question_de": "Welches Attribut hatte Artemis?",
-    "answer": "Лук и стрелы",
-    "answer_de": "Bogen und Pfeile",
-    "wrong_answers": [
-      {
-        "ru": "Копьё",
-        "de": "Speer"
-      },
-      {
-        "ru": "Меч",
-        "de": "Schwert"
-      },
-      {
-        "ru": "Трезубец",
-        "de": "Dreizack"
-      }
+    "correct_answer_ru": "Лук и стрелы",
+    "correct_answer_de": "Bogen und Pfeile",
+    "wrong_answers_ru": [
+      "Копьё",
+      "Меч",
+      "Трезубец"
     ],
-    "explanation": {
-      "ru": "Лук и стрелы были главными атрибутами Артемиды, богини охоты. Она получила их от циклопов сразу после рождения и стала искусным лучником. Артемида использовала лук и стрелы для охоты и защиты. Она изображалась с луком в руке, часто в сопровождении нимф и диких животных.",
-      "de": "Bogen und Pfeile waren die Hauptattribute der Artemis, Göttin der Jagd. Sie erhielt sie von den Zyklopen direkt nach der Geburt und wurde eine geschickte Bogenschützin. Artemis verwendete Bogen und Pfeile für die Jagd und zum Schutz. Sie wurde mit einem Bogen in der Hand dargestellt, oft begleitet von Nymphen und wilden Tieren."
-    },
+    "wrong_answers_de": [
+      "Speer",
+      "Schwert",
+      "Dreizack"
+    ],
+    "explanation_ru": "Лук и стрелы были главными атрибутами Артемиды, богини охоты. Она получила их от циклопов сразу после рождения и стала искусным лучником. Артемида использовала лук и стрелы для охоты и защиты. Она изображалась с луком в руке, часто в сопровождении нимф и диких животных.",
+    "explanation_de": "Bogen und Pfeile waren die Hauptattribute der Artemis, Göttin der Jagd. Sie erhielt sie von den Zyklopen direkt nach der Geburt und wurde eine geschickte Bogenschützin. Artemis verwendete Bogen und Pfeile für die Jagd und zum Schutz. Sie wurde mit einem Bogen in der Hand dargestellt, oft begleitet von Nymphen und wilden Tieren.",
     "interesting_facts": [
       {
         "ru": "Артемида получила лук и стрелы от циклопов сразу после рождения и сразу же стала взрослой, чтобы помочь матери при рождении брата Аполлона. Она была искусным лучником и могла поражать цель на большом расстоянии. Лук и стрелы стали символом её независимости и силы.",
@@ -706,28 +616,22 @@
   },
   {
     "id": 366,
-    "question": "Сколько комедий Аристофана сохранилось?",
+    "question_ru": "Сколько комедий Аристофана сохранилось?",
     "question_de": "Wie viele Komödien von Aristophanes sind erhalten?",
-    "answer": "Одиннадцать",
-    "answer_de": "Elf",
-    "wrong_answers": [
-      {
-        "ru": "Семь",
-        "de": "Sieben"
-      },
-      {
-        "ru": "Пятнадцать",
-        "de": "Fünfzehn"
-      },
-      {
-        "ru": "Двадцать",
-        "de": "Zwanzig"
-      }
+    "correct_answer_ru": "Одиннадцать",
+    "correct_answer_de": "Elf",
+    "wrong_answers_ru": [
+      "Семь",
+      "Пятнадцать",
+      "Двадцать"
     ],
-    "explanation": {
-      "ru": "Из примерно 40 комедий, написанных Аристофаном, до наших дней сохранились 11: 'Ахарняне', 'Всадники', 'Облака', 'Осы', 'Мир', 'Птицы', 'Лисистрата', 'Женщины на празднике Фесмофорий', 'Лягушки', 'Женщины в народном собрании' и 'Плутос'. Остальные произведения были утеряны. Аристофан был самым известным комедиографом античности.",
-      "de": "Von etwa 40 Komödien, die Aristophanes schrieb, sind 11 bis heute erhalten: 'Die Acharner', 'Die Ritter', 'Die Wolken', 'Die Wespen', 'Der Frieden', 'Die Vögel', 'Lysistrata', 'Die Thesmophoriazusen', 'Die Frösche', 'Die Ekklesiazusen' und 'Der Reichtum'. Die anderen Werke gingen verloren. Aristophanes war der bekannteste Komödiendichter der Antike."
-    },
+    "wrong_answers_de": [
+      "Sieben",
+      "Fünfzehn",
+      "Zwanzig"
+    ],
+    "explanation_ru": "Из примерно 40 комедий, написанных Аристофаном, до наших дней сохранились 11: 'Ахарняне', 'Всадники', 'Облака', 'Осы', 'Мир', 'Птицы', 'Лисистрата', 'Женщины на празднике Фесмофорий', 'Лягушки', 'Женщины в народном собрании' и 'Плутос'. Остальные произведения были утеряны. Аристофан был самым известным комедиографом античности.",
+    "explanation_de": "Von etwa 40 Komödien, die Aristophanes schrieb, sind 11 bis heute erhalten: 'Die Acharner', 'Die Ritter', 'Die Wolken', 'Die Wespen', 'Der Frieden', 'Die Vögel', 'Lysistrata', 'Die Thesmophoriazusen', 'Die Frösche', 'Die Ekklesiazusen' und 'Der Reichtum'. Die anderen Werke gingen verloren. Aristophanes war der bekannteste Komödiendichter der Antike.",
     "interesting_facts": [
       {
         "ru": "Аристофан был самым известным представителем древнеаттической комедии. Его произведения были сатирическими и политическими, критиковали современное общество и политиков. Сохранённые комедии показывают разнообразие его творчества - от политической сатиры до фантастических сюжетов. Аристофан был мастером слова и юмора.",
@@ -753,28 +657,22 @@
   },
   {
     "id": 367,
-    "question": "Какой атрибут был у Афродиты?",
+    "question_ru": "Какой атрибут был у Афродиты?",
     "question_de": "Welches Attribut hatte Aphrodite?",
-    "answer": "Зеркало и голубь",
-    "answer_de": "Spiegel und Taube",
-    "wrong_answers": [
-      {
-        "ru": "Только зеркало",
-        "de": "Nur Spiegel"
-      },
-      {
-        "ru": "Только голубь",
-        "de": "Nur Taube"
-      },
-      {
-        "ru": "Лук и стрелы",
-        "de": "Bogen und Pfeile"
-      }
+    "correct_answer_ru": "Зеркало и голубь",
+    "correct_answer_de": "Spiegel und Taube",
+    "wrong_answers_ru": [
+      "Только зеркало",
+      "Только голубь",
+      "Лук и стрелы"
     ],
-    "explanation": {
-      "ru": "Афродита, богиня любви и красоты, имела несколько атрибутов: зеркало (символ красоты и тщеславия) и голубя (священное животное, символ любви и мира). Она также ассоциировалась с розой, миртом и яблоком. Афродита изображалась как прекрасная женщина, часто в сопровождении голубей и других символов любви.",
-      "de": "Aphrodite, die Göttin der Liebe und Schönheit, hatte mehrere Attribute: Spiegel (Symbol der Schönheit und Eitelkeit) und Taube (heiliges Tier, Symbol der Liebe und des Friedens). Sie wurde auch mit Rose, Myrte und Apfel assoziiert. Aphrodite wurde als schöne Frau dargestellt, oft begleitet von Tauben und anderen Symbolen der Liebe."
-    },
+    "wrong_answers_de": [
+      "Nur Spiegel",
+      "Nur Taube",
+      "Bogen und Pfeile"
+    ],
+    "explanation_ru": "Афродита, богиня любви и красоты, имела несколько атрибутов: зеркало (символ красоты и тщеславия) и голубя (священное животное, символ любви и мира). Она также ассоциировалась с розой, миртом и яблоком. Афродита изображалась как прекрасная женщина, часто в сопровождении голубей и других символов любви.",
+    "explanation_de": "Aphrodite, die Göttin der Liebe und Schönheit, hatte mehrere Attribute: Spiegel (Symbol der Schönheit und Eitelkeit) und Taube (heiliges Tier, Symbol der Liebe und des Friedens). Sie wurde auch mit Rose, Myrte und Apfel assoziiert. Aphrodite wurde als schöne Frau dargestellt, oft begleitet von Tauben und anderen Symbolen der Liebe.",
     "interesting_facts": [
       {
         "ru": "Зеркало Афродиты символизировало красоту, тщеславие и самосозерцание. Афродита часто изображалась с зеркалом, любуясь своей красотой. Зеркало также символизировало её власть над любовью и желанием. Афродита использовала свою красоту как оружие.",
@@ -800,28 +698,22 @@
   },
   {
     "id": 368,
-    "question": "Что такое сатировская драма?",
+    "question_ru": "Что такое сатировская драма?",
     "question_de": "Was ist ein Satyrspiel?",
-    "answer": "Комическая пьеса с сатирами",
-    "answer_de": "Komisches Stück mit Satyrn",
-    "wrong_answers": [
-      {
-        "ru": "Трагическая пьеса",
-        "de": "Tragisches Stück"
-      },
-      {
-        "ru": "Музыкальная пьеса",
-        "de": "Musikalisches Stück"
-      },
-      {
-        "ru": "Религиозная пьеса",
-        "de": "Religiöses Stück"
-      }
+    "correct_answer_ru": "Комическая пьеса с сатирами",
+    "correct_answer_de": "Komisches Stück mit Satyrn",
+    "wrong_answers_ru": [
+      "Трагическая пьеса",
+      "Музыкальная пьеса",
+      "Религиозная пьеса"
     ],
-    "explanation": {
-      "ru": "Сатировская драма (сатировская пьеса) - это комический жанр древнегреческого театра, который ставился после трёх трагедий. В сатировской драме хор состоял из сатиров - мифологических существ с козлиными ногами и рогами. Пьесы были комическими, но использовали мифологические сюжеты. Сатировская драма служила разрядкой после серьёзных трагедий.",
-      "de": "Das Satyrspiel ist ein komisches Genre des antiken griechischen Theaters, das nach drei Tragödien aufgeführt wurde. Im Satyrspiel bestand der Chor aus Satyrn - mythologischen Wesen mit Ziegenbeinen und Hörnern. Die Stücke waren komisch, verwendeten aber mythologische Handlungen. Das Satyrspiel diente als Entspannung nach ernsten Tragödien."
-    },
+    "wrong_answers_de": [
+      "Tragisches Stück",
+      "Musikalisches Stück",
+      "Religiöses Stück"
+    ],
+    "explanation_ru": "Сатировская драма (сатировская пьеса) - это комический жанр древнегреческого театра, который ставился после трёх трагедий. В сатировской драме хор состоял из сатиров - мифологических существ с козлиными ногами и рогами. Пьесы были комическими, но использовали мифологические сюжеты. Сатировская драма служила разрядкой после серьёзных трагедий.",
+    "explanation_de": "Das Satyrspiel ist ein komisches Genre des antiken griechischen Theaters, das nach drei Tragödien aufgeführt wurde. Im Satyrspiel bestand der Chor aus Satyrn - mythologischen Wesen mit Ziegenbeinen und Hörnern. Die Stücke waren komisch, verwendeten aber mythologische Handlungen. Das Satyrspiel diente als Entspannung nach ernsten Tragödien.",
     "interesting_facts": [
       {
         "ru": "Сатировская драма была обязательной частью тетралогии (четырёх пьес) на Великих Дионисиях. Драматург представлял три трагедии и одну сатировскую драму. Сатиры были комическими персонажами, которые высмеивали серьёзные мифологические сюжеты. Это создавало контраст с трагедиями и развлекало публику.",
@@ -847,28 +739,22 @@
   },
   {
     "id": 369,
-    "question": "Какой атрибут был у Ареса?",
+    "question_ru": "Какой атрибут был у Ареса?",
     "question_de": "Welches Attribut hatte Ares?",
-    "answer": "Меч и щит",
-    "answer_de": "Schwert und Schild",
-    "wrong_answers": [
-      {
-        "ru": "Только меч",
-        "de": "Nur Schwert"
-      },
-      {
-        "ru": "Копьё",
-        "de": "Speer"
-      },
-      {
-        "ru": "Лук",
-        "de": "Bogen"
-      }
+    "correct_answer_ru": "Меч и щит",
+    "correct_answer_de": "Schwert und Schild",
+    "wrong_answers_ru": [
+      "Только меч",
+      "Копьё",
+      "Лук"
     ],
-    "explanation": {
-      "ru": "Арес, бог войны, изображался с мечом и щитом - символами воинской доблести и защиты. Он был олицетворением жестокости и насилия войны, в отличие от Афины, которая представляла стратегию и справедливую войну. Арес был одним из наименее почитаемых олимпийских богов из-за своего жестокого характера.",
-      "de": "Ares, der Gott des Krieges, wurde mit Schwert und Schild dargestellt - Symbolen militärischer Tapferkeit und Verteidigung. Er war die Verkörperung der Grausamkeit und Gewalt des Krieges, im Gegensatz zu Athena, die Strategie und gerechten Krieg repräsentierte. Ares war einer der am wenigsten verehrten olympischen Götter wegen seines grausamen Charakters."
-    },
+    "wrong_answers_de": [
+      "Nur Schwert",
+      "Speer",
+      "Bogen"
+    ],
+    "explanation_ru": "Арес, бог войны, изображался с мечом и щитом - символами воинской доблести и защиты. Он был олицетворением жестокости и насилия войны, в отличие от Афины, которая представляла стратегию и справедливую войну. Арес был одним из наименее почитаемых олимпийских богов из-за своего жестокого характера.",
+    "explanation_de": "Ares, der Gott des Krieges, wurde mit Schwert und Schild dargestellt - Symbolen militärischer Tapferkeit und Verteidigung. Er war die Verkörperung der Grausamkeit und Gewalt des Krieges, im Gegensatz zu Athena, die Strategie und gerechten Krieg repräsentierte. Ares war einer der am wenigsten verehrten olympischen Götter wegen seines grausamen Charakters.",
     "interesting_facts": [
       {
         "ru": "Арес был сыном Зевса и Геры, но был наименее любимым из олимпийских богов. Он олицетворял жестокость и хаос войны, в отличие от Афины, которая представляла стратегию и справедливость. Арес часто терпел поражения и был объектом насмешек других богов. Его меч и щит символизировали его роль как бога войны.",
@@ -894,28 +780,22 @@
   },
   {
     "id": 370,
-    "question": "Когда возникла греческая комедия?",
+    "question_ru": "Когда возникла греческая комедия?",
     "question_de": "Wann entstand die griechische Komödie?",
-    "answer": "В 6 веке до н.э.",
-    "answer_de": "Im 6. Jahrhundert v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "В 5 веке до н.э.",
-        "de": "Im 5. Jahrhundert v. Chr."
-      },
-      {
-        "ru": "В 7 веке до н.э.",
-        "de": "Im 7. Jahrhundert v. Chr."
-      },
-      {
-        "ru": "В 4 веке до н.э.",
-        "de": "Im 4. Jahrhundert v. Chr."
-      }
+    "correct_answer_ru": "В 6 веке до н.э.",
+    "correct_answer_de": "Im 6. Jahrhundert v. Chr.",
+    "wrong_answers_ru": [
+      "В 5 веке до н.э.",
+      "В 7 веке до н.э.",
+      "В 4 веке до н.э."
     ],
-    "explanation": {
-      "ru": "Греческая комедия возникла в VI веке до н.э., примерно в то же время, что и трагедия. Она развилась из хоровых песен и танцев во время дионисийских праздников. Первые комедии были простыми и импровизированными, но постепенно развились в сложные драматические произведения. Комедия стала официальной частью театральных фестивалей в V веке до н.э.",
-      "de": "Die griechische Komödie entstand im 6. Jahrhundert v. Chr., etwa zur gleichen Zeit wie die Tragödie. Sie entwickelte sich aus Chorgesängen und Tänzen während der dionysischen Feste. Die ersten Komödien waren einfach und improvisiert, entwickelten sich aber allmählich zu komplexen dramatischen Werken. Die Komödie wurde im 5. Jahrhundert v. Chr. ein offizieller Teil der Theaterfestivals."
-    },
+    "wrong_answers_de": [
+      "Im 5. Jahrhundert v. Chr.",
+      "Im 7. Jahrhundert v. Chr.",
+      "Im 4. Jahrhundert v. Chr."
+    ],
+    "explanation_ru": "Греческая комедия возникла в VI веке до н.э., примерно в то же время, что и трагедия. Она развилась из хоровых песен и танцев во время дионисийских праздников. Первые комедии были простыми и импровизированными, но постепенно развились в сложные драматические произведения. Комедия стала официальной частью театральных фестивалей в V веке до н.э.",
+    "explanation_de": "Die griechische Komödie entstand im 6. Jahrhundert v. Chr., etwa zur gleichen Zeit wie die Tragödie. Sie entwickelte sich aus Chorgesängen und Tänzen während der dionysischen Feste. Die ersten Komödien waren einfach und improvisiert, entwickelten sich aber allmählich zu komplexen dramatischen Werken. Die Komödie wurde im 5. Jahrhundert v. Chr. ein offizieller Teil der Theaterfestivals.",
     "interesting_facts": [
       {
         "ru": "Комедия возникла из сельских праздников и фаллических песен, которые исполнялись во время дионисийских празднеств. Первые комедии были импровизированными и включали много юмора и сатиры. Комедия развивалась параллельно с трагедией, но имела свои особенности - больше юмора, сатиры и критики общества.",
@@ -941,28 +821,22 @@
   },
   {
     "id": 371,
-    "question": "Когда возникла греческая трагедия?",
+    "question_ru": "Когда возникла греческая трагедия?",
     "question_de": "Wann entstand die griechische Tragödie?",
-    "answer": "В 6 веке до н.э.",
-    "answer_de": "Im 6. Jahrhundert v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "В 5 веке до н.э.",
-        "de": "Im 5. Jahrhundert v. Chr."
-      },
-      {
-        "ru": "В 7 веке до н.э.",
-        "de": "Im 7. Jahrhundert v. Chr."
-      },
-      {
-        "ru": "В 4 веке до н.э.",
-        "de": "Im 4. Jahrhundert v. Chr."
-      }
+    "correct_answer_ru": "В 6 веке до н.э.",
+    "correct_answer_de": "Im 6. Jahrhundert v. Chr.",
+    "wrong_answers_ru": [
+      "В 5 веке до н.э.",
+      "В 7 веке до н.э.",
+      "В 4 веке до н.э."
     ],
-    "explanation": {
-      "ru": "Греческая трагедия возникла в VI веке до н.э., развившись из хоровых песен и танцев во время дионисийских праздников. Первым драматургом считается Феспид, который ввёл первого актёра в 534 году до н.э. Трагедия постепенно развилась из простых хоровых представлений в сложные драматические произведения с диалогами и действием.",
-      "de": "Die griechische Tragödie entstand im 6. Jahrhundert v. Chr., entwickelte sich aus Chorgesängen und Tänzen während der dionysischen Feste. Der erste Dramatiker gilt als Thespis, der 534 v. Chr. den ersten Schauspieler einführte. Die Tragödie entwickelte sich allmählich von einfachen Choraufführungen zu komplexen dramatischen Werken mit Dialogen und Handlung."
-    },
+    "wrong_answers_de": [
+      "Im 5. Jahrhundert v. Chr.",
+      "Im 7. Jahrhundert v. Chr.",
+      "Im 4. Jahrhundert v. Chr."
+    ],
+    "explanation_ru": "Греческая трагедия возникла в VI веке до н.э., развившись из хоровых песен и танцев во время дионисийских праздников. Первым драматургом считается Феспид, который ввёл первого актёра в 534 году до н.э. Трагедия постепенно развилась из простых хоровых представлений в сложные драматические произведения с диалогами и действием.",
+    "explanation_de": "Die griechische Tragödie entstand im 6. Jahrhundert v. Chr., entwickelte sich aus Chorgesängen und Tänzen während der dionysischen Feste. Der erste Dramatiker gilt als Thespis, der 534 v. Chr. den ersten Schauspieler einführte. Die Tragödie entwickelte sich allmählich von einfachen Choraufführungen zu komplexen dramatischen Werken mit Dialogen und Handlung.",
     "interesting_facts": [
       {
         "ru": "Трагедия возникла из дифирамбов - хоровых песен в честь Диониса. Феспид отделил актёра от хора, что позволило создавать диалоги и развивать сюжет. Трагедия стала официальной частью Великих Дионисий в Афинах. Это было важное культурное и религиозное событие.",
@@ -988,28 +862,22 @@
   },
   {
     "id": 372,
-    "question": "Что означает слово 'трагедия'?",
+    "question_ru": "Что означает слово 'трагедия'?",
     "question_de": "Was bedeutet das Wort 'Tragödie'?",
-    "answer": "Песнь козлов",
-    "answer_de": "Gesang der Ziegen",
-    "wrong_answers": [
-      {
-        "ru": "Песнь богов",
-        "de": "Gesang der Götter"
-      },
-      {
-        "ru": "Песнь героев",
-        "de": "Gesang der Helden"
-      },
-      {
-        "ru": "Песнь хора",
-        "de": "Gesang des Chors"
-      }
+    "correct_answer_ru": "Песнь козлов",
+    "correct_answer_de": "Gesang der Ziegen",
+    "wrong_answers_ru": [
+      "Песнь богов",
+      "Песнь героев",
+      "Песнь хора"
     ],
-    "explanation": {
-      "ru": "Слово 'трагедия' происходит от греческого 'трагос' (козёл) и 'оде' (песнь), что означает 'песнь козлов'. Это название связано с происхождением трагедии от дифирамбов - хоровых песен в честь Диониса, которые исполнялись хором, одетым в козлиные шкуры. Козёл был священным животным Диониса.",
-      "de": "Das Wort 'Tragödie' stammt vom griechischen 'tragos' (Ziege) und 'ode' (Gesang), was 'Gesang der Ziegen' bedeutet. Dieser Name ist mit dem Ursprung der Tragödie von Dithyramben verbunden - Chorgesängen zu Ehren des Dionysos, die von einem Chor aufgeführt wurden, der in Ziegenfelle gekleidet war. Die Ziege war ein heiliges Tier des Dionysos."
-    },
+    "wrong_answers_de": [
+      "Gesang der Götter",
+      "Gesang der Helden",
+      "Gesang des Chors"
+    ],
+    "explanation_ru": "Слово 'трагедия' происходит от греческого 'трагос' (козёл) и 'оде' (песнь), что означает 'песнь козлов'. Это название связано с происхождением трагедии от дифирамбов - хоровых песен в честь Диониса, которые исполнялись хором, одетым в козлиные шкуры. Козёл был священным животным Диониса.",
+    "explanation_de": "Das Wort 'Tragödie' stammt vom griechischen 'tragos' (Ziege) und 'ode' (Gesang), was 'Gesang der Ziegen' bedeutet. Dieser Name ist mit dem Ursprung der Tragödie von Dithyramben verbunden - Chorgesängen zu Ehren des Dionysos, die von einem Chor aufgeführt wurden, der in Ziegenfelle gekleidet war. Die Ziege war ein heiliges Tier des Dionysos.",
     "interesting_facts": [
       {
         "ru": "Происхождение названия 'трагедия' связано с ранними дионисийскими обрядами, где хор был одет в козлиные шкуры и изображал сатиров - спутников Диониса. Козёл был жертвенным животным на праздниках Диониса. Название отражает религиозное происхождение трагедии.",
@@ -1035,28 +903,22 @@
   },
   {
     "id": 373,
-    "question": "Кто был покровителем театра?",
+    "question_ru": "Кто был покровителем театра?",
     "question_de": "Wer war der Schutzpatron des Theaters?",
-    "answer": "Дионис",
-    "answer_de": "Dionysos",
-    "wrong_answers": [
-      {
-        "ru": "Аполлон",
-        "de": "Apollon"
-      },
-      {
-        "ru": "Афина",
-        "de": "Athena"
-      },
-      {
-        "ru": "Гермес",
-        "de": "Hermes"
-      }
+    "correct_answer_ru": "Дионис",
+    "correct_answer_de": "Dionysos",
+    "wrong_answers_ru": [
+      "Аполлон",
+      "Афина",
+      "Гермес"
     ],
-    "explanation": {
-      "ru": "Дионис, бог вина, веселья и экстаза, был покровителем театра в Древней Греции. Театр возник из дионисийских праздников, где исполнялись хоровые песни и танцы. Великие Дионисии в Афинах были главным театральным фестивалем, где соревновались драматурги. Театр был неотъемлемой частью культа Диониса.",
-      "de": "Dionysos, der Gott des Weins, der Fröhlichkeit und der Ekstase, war der Schutzpatron des Theaters im antiken Griechenland. Das Theater entstand aus dionysischen Festen, bei denen Chorgesänge und Tänze aufgeführt wurden. Die Großen Dionysien in Athen waren das wichtigste Theaterfestival, bei dem Dramatiker konkurrierten. Das Theater war ein integraler Bestandteil des Dionysos-Kults."
-    },
+    "wrong_answers_de": [
+      "Apollon",
+      "Athena",
+      "Hermes"
+    ],
+    "explanation_ru": "Дионис, бог вина, веселья и экстаза, был покровителем театра в Древней Греции. Театр возник из дионисийских праздников, где исполнялись хоровые песни и танцы. Великие Дионисии в Афинах были главным театральным фестивалем, где соревновались драматурги. Театр был неотъемлемой частью культа Диониса.",
+    "explanation_de": "Dionysos, der Gott des Weins, der Fröhlichkeit und der Ekstase, war der Schutzpatron des Theaters im antiken Griechenland. Das Theater entstand aus dionysischen Festen, bei denen Chorgesänge und Tänze aufgeführt wurden. Die Großen Dionysien in Athen waren das wichtigste Theaterfestival, bei dem Dramatiker konkurrierten. Das Theater war ein integraler Bestandteil des Dionysos-Kults.",
     "interesting_facts": [
       {
         "ru": "Дионис был богом трансформации и освобождения, что делало его идеальным покровителем театра. Театр позволял людям перевоплощаться и исследовать различные роли. Дионисийские праздники включали театральные представления как часть религиозных обрядов. Театр был способом общения с божественным.",
@@ -1082,28 +944,22 @@
   },
   {
     "id": 374,
-    "question": "Какой город был центром театра?",
+    "question_ru": "Какой город был центром театра?",
     "question_de": "Welche Stadt war das Zentrum des Theaters?",
-    "answer": "Афины",
-    "answer_de": "Athen",
-    "wrong_answers": [
-      {
-        "ru": "Спарта",
-        "de": "Sparta"
-      },
-      {
-        "ru": "Коринф",
-        "de": "Korinth"
-      },
-      {
-        "ru": "Фивы",
-        "de": "Theben"
-      }
+    "correct_answer_ru": "Афины",
+    "correct_answer_de": "Athen",
+    "wrong_answers_ru": [
+      "Спарта",
+      "Коринф",
+      "Фивы"
     ],
-    "explanation": {
-      "ru": "Афины были центром театрального искусства в Древней Греции. Великие Дионисии в Афинах были главным театральным фестивалем, где соревновались лучшие драматурги. Театр Диониса в Афинах был одним из самых больших и важных театров античности. Афины дали миру трёх великих трагиков: Эсхила, Софокла и Еврипида.",
-      "de": "Athen war das Zentrum der Theaterkunst im antiken Griechenland. Die Großen Dionysien in Athen waren das wichtigste Theaterfestival, bei dem die besten Dramatiker konkurrierten. Das Theater des Dionysos in Athen war eines der größten und wichtigsten Theater der Antike. Athen gab der Welt drei große Tragödiendichter: Aischylos, Sophokles und Euripides."
-    },
+    "wrong_answers_de": [
+      "Sparta",
+      "Korinth",
+      "Theben"
+    ],
+    "explanation_ru": "Афины были центром театрального искусства в Древней Греции. Великие Дионисии в Афинах были главным театральным фестивалем, где соревновались лучшие драматурги. Театр Диониса в Афинах был одним из самых больших и важных театров античности. Афины дали миру трёх великих трагиков: Эсхила, Софокла и Еврипида.",
+    "explanation_de": "Athen war das Zentrum der Theaterkunst im antiken Griechenland. Die Großen Dionysien in Athen waren das wichtigste Theaterfestival, bei dem die besten Dramatiker konkurrierten. Das Theater des Dionysos in Athen war eines der größten und wichtigsten Theater der Antike. Athen gab der Welt drei große Tragödiendichter: Aischylos, Sophokles und Euripides.",
     "interesting_facts": [
       {
         "ru": "Афины стали центром театра благодаря своей демократии и культурной жизни. Театр был важной частью афинской демократии и образования. Представления были бесплатными для граждан, что делало театр доступным для всех. Афины привлекали лучших драматургов и актёров со всей Греции.",
@@ -1129,28 +985,22 @@
   },
   {
     "id": 375,
-    "question": "Что такое катарсис?",
+    "question_ru": "Что такое катарсис?",
     "question_de": "Was ist Katharsis?",
-    "answer": "Очищение через сопереживание",
-    "answer_de": "Reinigung durch Mitleid",
-    "wrong_answers": [
-      {
-        "ru": "Наслаждение от трагедии",
-        "de": "Genuss an der Tragödie"
-      },
-      {
-        "ru": "Страх перед трагедией",
-        "de": "Angst vor der Tragödie"
-      },
-      {
-        "ru": "Понимание трагедии",
-        "de": "Verständnis der Tragödie"
-      }
+    "correct_answer_ru": "Очищение через сопереживание",
+    "correct_answer_de": "Reinigung durch Mitleid",
+    "wrong_answers_ru": [
+      "Наслаждение от трагедии",
+      "Страх перед трагедией",
+      "Понимание трагедии"
     ],
-    "explanation": {
-      "ru": "Катарсис - это понятие, введённое Аристотелем в его 'Поэтике', означающее очищение души через сопереживание трагическим событиям. Зрители трагедии испытывают страх и сострадание, что приводит к эмоциональному очищению и освобождению. Катарсис был одной из главных целей трагедии и объяснял её терапевтический эффект.",
-      "de": "Katharsis ist ein Konzept, das von Aristoteles in seiner 'Poetik' eingeführt wurde und die Reinigung der Seele durch Mitleid mit tragischen Ereignissen bedeutet. Zuschauer der Tragödie erleben Furcht und Mitleid, was zu emotionaler Reinigung und Befreiung führt. Katharsis war eines der Hauptziele der Tragödie und erklärte ihre therapeutische Wirkung."
-    },
+    "wrong_answers_de": [
+      "Genuss an der Tragödie",
+      "Angst vor der Tragödie",
+      "Verständnis der Tragödie"
+    ],
+    "explanation_ru": "Катарсис - это понятие, введённое Аристотелем в его 'Поэтике', означающее очищение души через сопереживание трагическим событиям. Зрители трагедии испытывают страх и сострадание, что приводит к эмоциональному очищению и освобождению. Катарсис был одной из главных целей трагедии и объяснял её терапевтический эффект.",
+    "explanation_de": "Katharsis ist ein Konzept, das von Aristoteles in seiner 'Poetik' eingeführt wurde und die Reinigung der Seele durch Mitleid mit tragischen Ereignissen bedeutet. Zuschauer der Tragödie erleben Furcht und Mitleid, was zu emotionaler Reinigung und Befreiung führt. Katharsis war eines der Hauptziele der Tragödie und erklärte ihre therapeutische Wirkung.",
     "interesting_facts": [
       {
         "ru": "Катарсис был важной частью теории трагедии Аристотеля. Он считал, что трагедия должна вызывать страх и сострадание, что приводит к очищению этих эмоций. Катарсис был терапевтическим эффектом трагедии, помогая зрителям справляться с собственными эмоциями. Это объясняло, почему люди наслаждаются трагедиями.",
@@ -1176,28 +1026,22 @@
   },
   {
     "id": 376,
-    "question": "Кто ввёл понятие катарсиса?",
+    "question_ru": "Кто ввёл понятие катарсиса?",
     "question_de": "Wer führte das Konzept der Katharsis ein?",
-    "answer": "Аристотель",
-    "answer_de": "Aristoteles",
-    "wrong_answers": [
-      {
-        "ru": "Платон",
-        "de": "Platon"
-      },
-      {
-        "ru": "Сократ",
-        "de": "Sokrates"
-      },
-      {
-        "ru": "Эсхил",
-        "de": "Aischylos"
-      }
+    "correct_answer_ru": "Аристотель",
+    "correct_answer_de": "Aristoteles",
+    "wrong_answers_ru": [
+      "Платон",
+      "Сократ",
+      "Эсхил"
     ],
-    "explanation": {
-      "ru": "Аристотель ввёл понятие катарсиса в своей 'Поэтике' - трактате о драматургии и литературе. Он описал катарсис как очищение души через сопереживание трагическим событиям. Аристотель считал катарсис главной целью трагедии и объяснял её терапевтический эффект. 'Поэтика' стала основой теории драматургии.",
-      "de": "Aristoteles führte das Konzept der Katharsis in seiner 'Poetik' ein - einem Traktat über Dramatik und Literatur. Er beschrieb Katharsis als Reinigung der Seele durch Mitleid mit tragischen Ereignissen. Aristoteles betrachtete Katharsis als Hauptziel der Tragödie und erklärte ihre therapeutische Wirkung. Die 'Poetik' wurde zur Grundlage der Dramaturgietheorie."
-    },
+    "wrong_answers_de": [
+      "Platon",
+      "Sokrates",
+      "Aischylos"
+    ],
+    "explanation_ru": "Аристотель ввёл понятие катарсиса в своей 'Поэтике' - трактате о драматургии и литературе. Он описал катарсис как очищение души через сопереживание трагическим событиям. Аристотель считал катарсис главной целью трагедии и объяснял её терапевтический эффект. 'Поэтика' стала основой теории драматургии.",
+    "explanation_de": "Aristoteles führte das Konzept der Katharsis in seiner 'Poetik' ein - einem Traktat über Dramatik und Literatur. Er beschrieb Katharsis als Reinigung der Seele durch Mitleid mit tragischen Ereignissen. Aristoteles betrachtete Katharsis als Hauptziel der Tragödie und erklärte ihre therapeutische Wirkung. Die 'Poetik' wurde zur Grundlage der Dramaturgietheorie.",
     "interesting_facts": [
       {
         "ru": "Аристотель был учеником Платона, но его взгляды на искусство отличались от взглядов учителя. Платон критиковал искусство, считая его подражанием подражанию. Аристотель же видел в искусстве способ познания и очищения. Его 'Поэтика' стала одним из самых влиятельных произведений в истории эстетики.",
@@ -1223,28 +1067,22 @@
   },
   {
     "id": 377,
-    "question": "Как называлась главная площадь Афин?",
+    "question_ru": "Как называлась главная площадь Афин?",
     "question_de": "Wie hieß der Hauptplatz Athens?",
-    "answer": "Агора",
-    "answer_de": "Agora",
-    "wrong_answers": [
-      {
-        "ru": "Форум",
-        "de": "Forum"
-      },
-      {
-        "ru": "Акрополь",
-        "de": "Akropolis"
-      },
-      {
-        "ru": "Пникс",
-        "de": "Pnyx"
-      }
+    "correct_answer_ru": "Агора",
+    "correct_answer_de": "Agora",
+    "wrong_answers_ru": [
+      "Форум",
+      "Акрополь",
+      "Пникс"
     ],
-    "explanation": {
-      "ru": "Агора была главной площадью Афин и центром общественной жизни. На агоре проводились собрания, торговля, судебные заседания и религиозные обряды. Агора была окружена важными зданиями: храмами, портиками, административными зданиями. Это было сердце афинской демократии и гражданской жизни.",
-      "de": "Die Agora war der Hauptplatz Athens und das Zentrum des öffentlichen Lebens. Auf der Agora fanden Versammlungen, Handel, Gerichtsverhandlungen und religiöse Rituale statt. Die Agora war von wichtigen Gebäuden umgeben: Tempeln, Portiken, Verwaltungsgebäuden. Es war das Herz der athenischen Demokratie und des bürgerlichen Lebens."
-    },
+    "wrong_answers_de": [
+      "Forum",
+      "Akropolis",
+      "Pnyx"
+    ],
+    "explanation_ru": "Агора была главной площадью Афин и центром общественной жизни. На агоре проводились собрания, торговля, судебные заседания и религиозные обряды. Агора была окружена важными зданиями: храмами, портиками, административными зданиями. Это было сердце афинской демократии и гражданской жизни.",
+    "explanation_de": "Die Agora war der Hauptplatz Athens und das Zentrum des öffentlichen Lebens. Auf der Agora fanden Versammlungen, Handel, Gerichtsverhandlungen und religiöse Rituale statt. Die Agora war von wichtigen Gebäuden umgeben: Tempeln, Portiken, Verwaltungsgebäuden. Es war das Herz der athenischen Demokratie und des bürgerlichen Lebens.",
     "interesting_facts": [
       {
         "ru": "Агора была не только торговой площадью, но и центром политической, культурной и религиозной жизни. Здесь собирались граждане для обсуждения важных вопросов. На агоре находились важные здания: храм Гефеста, стоя Зевса, булевтерий (совет) и другие. Агора была символом афинской демократии.",
@@ -1270,28 +1108,22 @@
   },
   {
     "id": 378,
-    "question": "Что строили на агоре?",
+    "question_ru": "Что строили на агоре?",
     "question_de": "Was wurde auf der Agora gebaut?",
-    "answer": "Храмы, портики, административные здания",
-    "answer_de": "Tempel, Portiken, Verwaltungsgebäude",
-    "wrong_answers": [
-      {
-        "ru": "Только храмы",
-        "de": "Nur Tempel"
-      },
-      {
-        "ru": "Только жилые дома",
-        "de": "Nur Wohnhäuser"
-      },
-      {
-        "ru": "Только рынки",
-        "de": "Nur Märkte"
-      }
+    "correct_answer_ru": "Храмы, портики, административные здания",
+    "correct_answer_de": "Tempel, Portiken, Verwaltungsgebäude",
+    "wrong_answers_ru": [
+      "Только храмы",
+      "Только жилые дома",
+      "Только рынки"
     ],
-    "explanation": {
-      "ru": "На агоре строили различные общественные здания: храмы для поклонения богам, портики (стои) для торговли и встреч, административные здания для управления городом, суды для правосудия и другие общественные сооружения. Агора была центром жизни города, где пересекались религиозная, политическая, экономическая и социальная деятельность.",
-      "de": "Auf der Agora wurden verschiedene öffentliche Gebäude errichtet: Tempel für die Verehrung der Götter, Portiken (Stoen) für Handel und Treffen, Verwaltungsgebäude für die Stadtverwaltung, Gerichte für die Justiz und andere öffentliche Gebäude. Die Agora war das Zentrum des Stadtlebens, wo religiöse, politische, wirtschaftliche und soziale Aktivitäten zusammentrafen."
-    },
+    "wrong_answers_de": [
+      "Nur Tempel",
+      "Nur Wohnhäuser",
+      "Nur Märkte"
+    ],
+    "explanation_ru": "На агоре строили различные общественные здания: храмы для поклонения богам, портики (стои) для торговли и встреч, административные здания для управления городом, суды для правосудия и другие общественные сооружения. Агора была центром жизни города, где пересекались религиозная, политическая, экономическая и социальная деятельность.",
+    "explanation_de": "Auf der Agora wurden verschiedene öffentliche Gebäude errichtet: Tempel für die Verehrung der Götter, Portiken (Stoen) für Handel und Treffen, Verwaltungsgebäude für die Stadtverwaltung, Gerichte für die Justiz und andere öffentliche Gebäude. Die Agora war das Zentrum des Stadtlebens, wo religiöse, politische, wirtschaftliche und soziale Aktivitäten zusammentrafen.",
     "interesting_facts": [
       {
         "ru": "На афинской агоре находились важные здания: храм Гефеста (лучше всего сохранившийся храм в Греции), стоя Аттала (восстановленная в XX веке и используемая как музей), булевтерий (совет) и другие. Агора была местом, где Сократ вёл философские беседы и где проходили важные политические события.",
@@ -1317,28 +1149,22 @@
   },
   {
     "id": 379,
-    "question": "Как называлась афинская тюрьма?",
+    "question_ru": "Как называлась афинская тюрьма?",
     "question_de": "Wie hieß das athenische Gefängnis?",
-    "answer": "Десмотерий",
-    "answer_de": "Desmoterion",
-    "wrong_answers": [
-      {
-        "ru": "Карцер",
-        "de": "Karzer"
-      },
-      {
-        "ru": "Тюрьма",
-        "de": "Gefängnis"
-      },
-      {
-        "ru": "Темница",
-        "de": "Kerker"
-      }
+    "correct_answer_ru": "Десмотерий",
+    "correct_answer_de": "Desmoterion",
+    "wrong_answers_ru": [
+      "Карцер",
+      "Тюрьма",
+      "Темница"
     ],
-    "explanation": {
-      "ru": "Десмотерий (от греческого 'десмо' - связать) была афинской тюрьмой, где содержались заключённые перед судом или казнью. Она находилась недалеко от агоры и была местом, где Сократ провёл последние дни перед смертью. Десмотерий была частью афинской системы правосудия.",
-      "de": "Das Desmoterion (vom griechischen 'desmo' - binden) war das athenische Gefängnis, wo Gefangene vor Gericht oder Hinrichtung inhaftiert wurden. Es befand sich in der Nähe der Agora und war der Ort, wo Sokrates seine letzten Tage vor dem Tod verbrachte. Das Desmoterion war Teil des athenischen Justizsystems."
-    },
+    "wrong_answers_de": [
+      "Karzer",
+      "Gefängnis",
+      "Kerker"
+    ],
+    "explanation_ru": "Десмотерий (от греческого 'десмо' - связать) была афинской тюрьмой, где содержались заключённые перед судом или казнью. Она находилась недалеко от агоры и была местом, где Сократ провёл последние дни перед смертью. Десмотерий была частью афинской системы правосудия.",
+    "explanation_de": "Das Desmoterion (vom griechischen 'desmo' - binden) war das athenische Gefängnis, wo Gefangene vor Gericht oder Hinrichtung inhaftiert wurden. Es befand sich in der Nähe der Agora und war der Ort, wo Sokrates seine letzten Tage vor dem Tod verbrachte. Das Desmoterion war Teil des athenischen Justizsystems.",
     "interesting_facts": [
       {
         "ru": "Десмотерий была известна тем, что там содержался Сократ перед казнью в 399 году до н.э. Он был осуждён за 'развращение молодёжи' и 'неверие в богов'. Сократ провёл в тюрьме 30 дней, ожидая казни, и отказался от предложения бежать.",
@@ -1364,28 +1190,22 @@
   },
   {
     "id": 380,
-    "question": "Где хранилась казна Делосского союза?",
+    "question_ru": "Где хранилась казна Делосского союза?",
     "question_de": "Wo wurde die Kasse des Delischen Bundes aufbewahrt?",
-    "answer": "Сначала на Делосе, потом в Афинах",
-    "answer_de": "Zuerst auf Delos, dann in Athen",
-    "wrong_answers": [
-      {
-        "ru": "Только на Делосе",
-        "de": "Nur auf Delos"
-      },
-      {
-        "ru": "Только в Афинах",
-        "de": "Nur in Athen"
-      },
-      {
-        "ru": "В Спарте",
-        "de": "In Sparta"
-      }
+    "correct_answer_ru": "Сначала на Делосе, потом в Афинах",
+    "correct_answer_de": "Zuerst auf Delos, dann in Athen",
+    "wrong_answers_ru": [
+      "Только на Делосе",
+      "Только в Афинах",
+      "В Спарте"
     ],
-    "explanation": {
-      "ru": "Казна Делосского союза первоначально хранилась на острове Делос, священном острове Аполлона, где был основан союз в 478 году до н.э. Однако в 454 году до н.э. Перикл перенёс казну в Афины, что символизировало превращение союза в Афинскую империю. Это было одним из признаков того, что Афины стали доминировать в союзе.",
-      "de": "Die Kasse des Delischen Bundes wurde ursprünglich auf der Insel Delos, der heiligen Insel des Apollon, aufbewahrt, wo der Bund 478 v. Chr. gegründet wurde. Im Jahr 454 v. Chr. verlegte Perikles jedoch die Kasse nach Athen, was die Umwandlung des Bundes in das Athenische Reich symbolisierte. Dies war eines der Anzeichen dafür, dass Athen im Bund zu dominieren begann."
-    },
+    "wrong_answers_de": [
+      "Nur auf Delos",
+      "Nur in Athen",
+      "In Sparta"
+    ],
+    "explanation_ru": "Казна Делосского союза первоначально хранилась на острове Делос, священном острове Аполлона, где был основан союз в 478 году до н.э. Однако в 454 году до н.э. Перикл перенёс казну в Афины, что символизировало превращение союза в Афинскую империю. Это было одним из признаков того, что Афины стали доминировать в союзе.",
+    "explanation_de": "Die Kasse des Delischen Bundes wurde ursprünglich auf der Insel Delos, der heiligen Insel des Apollon, aufbewahrt, wo der Bund 478 v. Chr. gegründet wurde. Im Jahr 454 v. Chr. verlegte Perikles jedoch die Kasse nach Athen, was die Umwandlung des Bundes in das Athenische Reich symbolisierte. Dies war eines der Anzeichen dafür, dass Athen im Bund zu dominieren begann.",
     "interesting_facts": [
       {
         "ru": "Перенос казны в Афины показал, что союз из равноправного объединения превратился в инструмент афинской гегемонии. Афины использовали средства союза для собственных нужд, включая строительство Парфенона и других памятников. Это вызвало недовольство среди союзников.",
@@ -1411,28 +1231,22 @@
   },
   {
     "id": 381,
-    "question": "Что такое Делосский союз?",
+    "question_ru": "Что такое Делосский союз?",
     "question_de": "Was war der Delische Bund?",
-    "answer": "Афинский морской союз",
-    "answer_de": "Athenischer Seebund",
-    "wrong_answers": [
-      {
-        "ru": "Спартанский союз",
-        "de": "Spartanischer Bund"
-      },
-      {
-        "ru": "Коринфский союз",
-        "de": "Korinthischer Bund"
-      },
-      {
-        "ru": "Беотийский союз",
-        "de": "Boiotischer Bund"
-      }
+    "correct_answer_ru": "Афинский морской союз",
+    "correct_answer_de": "Athenischer Seebund",
+    "wrong_answers_ru": [
+      "Спартанский союз",
+      "Коринфский союз",
+      "Беотийский союз"
     ],
-    "explanation": {
-      "ru": "Делосский союз (также называемый Афинским морским союзом) был союзом греческих полисов, созданным в 478 году до н.э. для защиты от персидской угрозы. Союз был основан на острове Делос, отсюда и название. Изначально это было равноправное объединение, но со временем Афины стали доминировать, превратив союз в свою империю.",
-      "de": "Der Delische Bund (auch Athenischer Seebund genannt) war ein Bund griechischer Poleis, der 478 v. Chr. zum Schutz vor der persischen Bedrohung gegründet wurde. Der Bund wurde auf der Insel Delos gegründet, daher der Name. Ursprünglich war es ein gleichberechtigter Bund, aber mit der Zeit begann Athen zu dominieren und verwandelte den Bund in sein Reich."
-    },
+    "wrong_answers_de": [
+      "Spartanischer Bund",
+      "Korinthischer Bund",
+      "Boiotischer Bund"
+    ],
+    "explanation_ru": "Делосский союз (также называемый Афинским морским союзом) был союзом греческих полисов, созданным в 478 году до н.э. для защиты от персидской угрозы. Союз был основан на острове Делос, отсюда и название. Изначально это было равноправное объединение, но со временем Афины стали доминировать, превратив союз в свою империю.",
+    "explanation_de": "Der Delische Bund (auch Athenischer Seebund genannt) war ein Bund griechischer Poleis, der 478 v. Chr. zum Schutz vor der persischen Bedrohung gegründet wurde. Der Bund wurde auf der Insel Delos gegründet, daher der Name. Ursprünglich war es ein gleichberechtigter Bund, aber mit der Zeit begann Athen zu dominieren und verwandelte den Bund in sein Reich.",
     "interesting_facts": [
       {
         "ru": "Делосский союз был создан после греко-персидских войн для защиты от возможного нового персидского вторжения. Члены союза обязались предоставлять корабли или деньги для общего флота. Союз включал около 150-200 полисов и стал основой афинской морской мощи.",
@@ -1458,28 +1272,22 @@
   },
   {
     "id": 382,
-    "question": "Когда был создан Делосский союз?",
+    "question_ru": "Когда был создан Делосский союз?",
     "question_de": "Wann wurde der Delische Bund gegründet?",
-    "answer": "478 год до н.э.",
-    "answer_de": "478 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "480 год до н.э.",
-        "de": "480 v. Chr."
-      },
-      {
-        "ru": "490 год до н.э.",
-        "de": "490 v. Chr."
-      },
-      {
-        "ru": "450 год до н.э.",
-        "de": "450 v. Chr."
-      }
+    "correct_answer_ru": "478 год до н.э.",
+    "correct_answer_de": "478 v. Chr.",
+    "wrong_answers_ru": [
+      "480 год до н.э.",
+      "490 год до н.э.",
+      "450 год до н.э."
     ],
-    "explanation": {
-      "ru": "Делосский союз был создан в 478 году до н.э., сразу после окончания греко-персидских войн. Союз был основан на острове Делос, священном острове Аполлона, где хранилась общая казна. Создание союза было попыткой греческих полисов объединиться для защиты от возможного нового персидского вторжения.",
-      "de": "Der Delische Bund wurde 478 v. Chr. gegründet, unmittelbar nach dem Ende der griechisch-persischen Kriege. Der Bund wurde auf der Insel Delos, der heiligen Insel des Apollon, gegründet, wo die gemeinsame Kasse aufbewahrt wurde. Die Gründung des Bundes war ein Versuch griechischer Poleis, sich zum Schutz vor einer möglichen neuen persischen Invasion zu vereinen."
-    },
+    "wrong_answers_de": [
+      "480 v. Chr.",
+      "490 v. Chr.",
+      "450 v. Chr."
+    ],
+    "explanation_ru": "Делосский союз был создан в 478 году до н.э., сразу после окончания греко-персидских войн. Союз был основан на острове Делос, священном острове Аполлона, где хранилась общая казна. Создание союза было попыткой греческих полисов объединиться для защиты от возможного нового персидского вторжения.",
+    "explanation_de": "Der Delische Bund wurde 478 v. Chr. gegründet, unmittelbar nach dem Ende der griechisch-persischen Kriege. Der Bund wurde auf der Insel Delos, der heiligen Insel des Apollon, gegründet, wo die gemeinsame Kasse aufbewahrt wurde. Die Gründung des Bundes war ein Versuch griechischer Poleis, sich zum Schutz vor einer möglichen neuen persischen Invasion zu vereinen.",
     "interesting_facts": [
       {
         "ru": "478 год до н.э. был выбран для создания союза, потому что это было время, когда греки победили персов, но опасались нового нападения. Союз был создан под руководством Афин, которые имели самый сильный флот. Делос был выбран как нейтральное место, связанное с Аполлоном.",
@@ -1505,28 +1313,22 @@
   },
   {
     "id": 383,
-    "question": "Сколько полисов входило в союз?",
+    "question_ru": "Сколько полисов входило в союз?",
     "question_de": "Wie viele Poleis gehörten dem Bund an?",
-    "answer": "Около 150-200",
-    "answer_de": "Etwa 150-200",
-    "wrong_answers": [
-      {
-        "ru": "Около 50-100",
-        "de": "Etwa 50-100"
-      },
-      {
-        "ru": "Около 300-400",
-        "de": "Etwa 300-400"
-      },
-      {
-        "ru": "Около 25-50",
-        "de": "Etwa 25-50"
-      }
+    "correct_answer_ru": "Около 150-200",
+    "correct_answer_de": "Etwa 150-200",
+    "wrong_answers_ru": [
+      "Около 50-100",
+      "Около 300-400",
+      "Около 25-50"
     ],
-    "explanation": {
-      "ru": "В Делосский союз входило около 150-200 греческих полисов из различных регионов: островов Эгейского моря, побережья Малой Азии, северной Греции и других. Каждый полис вносил ежегодный взнос в общую казну либо деньгами, либо кораблями. Размер взноса зависел от размера и богатства полиса.",
-      "de": "Dem Delischen Bund gehörten etwa 150-200 griechische Poleis aus verschiedenen Regionen an: Inseln der Ägäis, Küste Kleinasiens, Nordgriechenland und andere. Jede Polis zahlte jährlich einen Beitrag in die gemeinsame Kasse, entweder in Geld oder in Schiffen. Die Höhe des Beitrags hing von der Größe und dem Reichtum der Polis ab."
-    },
+    "wrong_answers_de": [
+      "Etwa 50-100",
+      "Etwa 300-400",
+      "Etwa 25-50"
+    ],
+    "explanation_ru": "В Делосский союз входило около 150-200 греческих полисов из различных регионов: островов Эгейского моря, побережья Малой Азии, северной Греции и других. Каждый полис вносил ежегодный взнос в общую казну либо деньгами, либо кораблями. Размер взноса зависел от размера и богатства полиса.",
+    "explanation_de": "Dem Delischen Bund gehörten etwa 150-200 griechische Poleis aus verschiedenen Regionen an: Inseln der Ägäis, Küste Kleinasiens, Nordgriechenland und andere. Jede Polis zahlte jährlich einen Beitrag in die gemeinsame Kasse, entweder in Geld oder in Schiffen. Die Höhe des Beitrags hing von der Größe und dem Reichtum der Polis ab.",
     "interesting_facts": [
       {
         "ru": "Количество членов союза менялось со временем - некоторые полисы присоединялись, другие пытались выйти. Афины строго контролировали членство и наказывали тех, кто пытался покинуть союз. Самые крупные члены включали Хиос, Лесбос, Самос и другие острова.",
@@ -1552,28 +1354,22 @@
   },
   {
     "id": 384,
-    "question": "Кто возглавлял Делосский союз?",
+    "question_ru": "Кто возглавлял Делосский союз?",
     "question_de": "Wer führte den Delischen Bund an?",
-    "answer": "Афины",
-    "answer_de": "Athen",
-    "wrong_answers": [
-      {
-        "ru": "Спарта",
-        "de": "Sparta"
-      },
-      {
-        "ru": "Коринф",
-        "de": "Korinth"
-      },
-      {
-        "ru": "Делос",
-        "de": "Delos"
-      }
+    "correct_answer_ru": "Афины",
+    "correct_answer_de": "Athen",
+    "wrong_answers_ru": [
+      "Спарта",
+      "Коринф",
+      "Делос"
     ],
-    "explanation": {
-      "ru": "Афины возглавляли Делосский союз с момента его создания в 478 году до н.э. Афины имели самый сильный флот среди греческих полисов и взяли на себя роль лидера в защите от персов. Со временем Афины стали доминировать в союзе, превратив его в инструмент своей гегемонии.",
-      "de": "Athen führte den Delischen Bund von seiner Gründung 478 v. Chr. an. Athen hatte die stärkste Flotte unter den griechischen Poleis und übernahm die Rolle des Führers im Schutz vor den Persern. Mit der Zeit begann Athen, im Bund zu dominieren und verwandelte ihn in ein Instrument seiner Hegemonie."
-    },
+    "wrong_answers_de": [
+      "Sparta",
+      "Korinth",
+      "Delos"
+    ],
+    "explanation_ru": "Афины возглавляли Делосский союз с момента его создания в 478 году до н.э. Афины имели самый сильный флот среди греческих полисов и взяли на себя роль лидера в защите от персов. Со временем Афины стали доминировать в союзе, превратив его в инструмент своей гегемонии.",
+    "explanation_de": "Athen führte den Delischen Bund von seiner Gründung 478 v. Chr. an. Athen hatte die stärkste Flotte unter den griechischen Poleis und übernahm die Rolle des Führers im Schutz vor den Persern. Mit der Zeit begann Athen, im Bund zu dominieren und verwandelte ihn in ein Instrument seiner Hegemonie.",
     "interesting_facts": [
       {
         "ru": "Афины стали лидером союза благодаря своему флоту, который был самым мощным в Греции после греко-персидских войн. Афины также имели демократический строй, который привлекал многие полисы. Под руководством Перикла Афины использовали союз для укрепления своей власти.",
@@ -1599,28 +1395,22 @@
   },
   {
     "id": 385,
-    "question": "Что такое Пелопоннесский союз?",
+    "question_ru": "Что такое Пелопоннесский союз?",
     "question_de": "Was war der Peloponnesische Bund?",
-    "answer": "Спартанский сухопутный союз",
-    "answer_de": "Spartanischer Landbund",
-    "wrong_answers": [
-      {
-        "ru": "Афинский союз",
-        "de": "Athenischer Bund"
-      },
-      {
-        "ru": "Коринфский союз",
-        "de": "Korinthischer Bund"
-      },
-      {
-        "ru": "Беотийский союз",
-        "de": "Boiotischer Bund"
-      }
+    "correct_answer_ru": "Спартанский сухопутный союз",
+    "correct_answer_de": "Spartanischer Landbund",
+    "wrong_answers_ru": [
+      "Афинский союз",
+      "Коринфский союз",
+      "Беотийский союз"
     ],
-    "explanation": {
-      "ru": "Пелопоннесский союз был союзом греческих полисов под руководством Спарты, созданным в VI веке до н.э. Союз объединял полисы Пелопоннеса и был основан на сухопутной силе, в отличие от морского Делосского союза. Союз был более консервативным и менее централизованным, чем афинский союз.",
-      "de": "Der Peloponnesische Bund war ein Bund griechischer Poleis unter der Führung Spartas, der im 6. Jahrhundert v. Chr. gegründet wurde. Der Bund vereinte die Poleis des Peloponnes und basierte auf Landmacht, im Gegensatz zum Seebund des Delischen Bundes. Der Bund war konservativer und weniger zentralisiert als der athenische Bund."
-    },
+    "wrong_answers_de": [
+      "Athenischer Bund",
+      "Korinthischer Bund",
+      "Boiotischer Bund"
+    ],
+    "explanation_ru": "Пелопоннесский союз был союзом греческих полисов под руководством Спарты, созданным в VI веке до н.э. Союз объединял полисы Пелопоннеса и был основан на сухопутной силе, в отличие от морского Делосского союза. Союз был более консервативным и менее централизованным, чем афинский союз.",
+    "explanation_de": "Der Peloponnesische Bund war ein Bund griechischer Poleis unter der Führung Spartas, der im 6. Jahrhundert v. Chr. gegründet wurde. Der Bund vereinte die Poleis des Peloponnes und basierte auf Landmacht, im Gegensatz zum Seebund des Delischen Bundes. Der Bund war konservativer und weniger zentralisiert als der athenische Bund.",
     "interesting_facts": [
       {
         "ru": "Пелопоннесский союз был создан в VI веке до н.э. и включал такие полисы, как Коринф, Мегара, Сикион и другие. Союз был основан на военной силе Спарты и её репутации непобедимой армии. Члены союза обязались предоставлять войска для общих военных действий.",
@@ -1646,28 +1436,22 @@
   },
   {
     "id": 386,
-    "question": "Кто возглавлял Пелопоннесский союз?",
+    "question_ru": "Кто возглавлял Пелопоннесский союз?",
     "question_de": "Wer führte den Peloponnesischen Bund an?",
-    "answer": "Спарта",
-    "answer_de": "Sparta",
-    "wrong_answers": [
-      {
-        "ru": "Афины",
-        "de": "Athen"
-      },
-      {
-        "ru": "Коринф",
-        "de": "Korinth"
-      },
-      {
-        "ru": "Фивы",
-        "de": "Theben"
-      }
+    "correct_answer_ru": "Спарта",
+    "correct_answer_de": "Sparta",
+    "wrong_answers_ru": [
+      "Афины",
+      "Коринф",
+      "Фивы"
     ],
-    "explanation": {
-      "ru": "Спарта возглавляла Пелопоннесский союз с момента его создания в VI веке до н.э. Спарта имела самую сильную сухопутную армию в Греции и взяла на себя роль лидера в защите интересов пелопоннесских полисов. Спарта была военным лидером союза и принимала решения о военных действиях.",
-      "de": "Sparta führte den Peloponnesischen Bund von seiner Gründung im 6. Jahrhundert v. Chr. an. Sparta hatte die stärkste Landarmee in Griechenland und übernahm die Rolle des Führers im Schutz der Interessen der peloponnesischen Poleis. Sparta war der militärische Führer des Bundes und traf Entscheidungen über Militäroperationen."
-    },
+    "wrong_answers_de": [
+      "Athen",
+      "Korinth",
+      "Theben"
+    ],
+    "explanation_ru": "Спарта возглавляла Пелопоннесский союз с момента его создания в VI веке до н.э. Спарта имела самую сильную сухопутную армию в Греции и взяла на себя роль лидера в защите интересов пелопоннесских полисов. Спарта была военным лидером союза и принимала решения о военных действиях.",
+    "explanation_de": "Sparta führte den Peloponnesischen Bund von seiner Gründung im 6. Jahrhundert v. Chr. an. Sparta hatte die stärkste Landarmee in Griechenland und übernahm die Rolle des Führers im Schutz der Interessen der peloponnesischen Poleis. Sparta war der militärische Führer des Bundes und traf Entscheidungen über Militäroperationen.",
     "interesting_facts": [
       {
         "ru": "Спарта стала лидером союза благодаря своей непобедимой армии и репутации военной мощи. Спартанские гоплиты были самыми дисциплинированными и опытными воинами в Греции. Союзники доверяли Спарте защиту своих интересов и следовали её военному руководству.",
@@ -1693,28 +1477,22 @@
   },
   {
     "id": 387,
-    "question": "Как долго длилась Пелопоннесская война?",
+    "question_ru": "Как долго длилась Пелопоннесская война?",
     "question_de": "Wie lange dauerte der Peloponnesische Krieg?",
-    "answer": "27 лет",
-    "answer_de": "27 Jahre",
-    "wrong_answers": [
-      {
-        "ru": "20 лет",
-        "de": "20 Jahre"
-      },
-      {
-        "ru": "30 лет",
-        "de": "30 Jahre"
-      },
-      {
-        "ru": "15 лет",
-        "de": "15 Jahre"
-      }
+    "correct_answer_ru": "27 лет",
+    "correct_answer_de": "27 Jahre",
+    "wrong_answers_ru": [
+      "20 лет",
+      "30 лет",
+      "15 лет"
     ],
-    "explanation": {
-      "ru": "Пелопоннесская война длилась 27 лет (431-404 до н.э.) и была одним из самых длительных и разрушительных конфликтов в древнегреческой истории. Война делилась на несколько фаз: Архидамова война (431-421), Никиев мир и сицилийская экспедиция (415-413), и Декелейская война (413-404). Война закончилась полной победой Спарты.",
-      "de": "Der Peloponnesische Krieg dauerte 27 Jahre (431-404 v. Chr.) und war einer der längsten und zerstörerischsten Konflikte in der antiken griechischen Geschichte. Der Krieg wurde in mehrere Phasen unterteilt: Archidamischer Krieg (431-421), Nikiasfrieden und sizilianische Expedition (415-413) und Dekeleischer Krieg (413-404). Der Krieg endete mit einem vollständigen Sieg Spartas."
-    },
+    "wrong_answers_de": [
+      "20 Jahre",
+      "30 Jahre",
+      "15 Jahre"
+    ],
+    "explanation_ru": "Пелопоннесская война длилась 27 лет (431-404 до н.э.) и была одним из самых длительных и разрушительных конфликтов в древнегреческой истории. Война делилась на несколько фаз: Архидамова война (431-421), Никиев мир и сицилийская экспедиция (415-413), и Декелейская война (413-404). Война закончилась полной победой Спарты.",
+    "explanation_de": "Der Peloponnesische Krieg dauerte 27 Jahre (431-404 v. Chr.) und war einer der längsten und zerstörerischsten Konflikte in der antiken griechischen Geschichte. Der Krieg wurde in mehrere Phasen unterteilt: Archidamischer Krieg (431-421), Nikiasfrieden und sizilianische Expedition (415-413) und Dekeleischer Krieg (413-404). Der Krieg endete mit einem vollständigen Sieg Spartas.",
     "interesting_facts": [
       {
         "ru": "Пелопоннесская война была записана Фукидидом, который сам участвовал в войне как афинский полководец. Его 'История Пелопоннесской войны' стала классикой военной литературы и первым научным историческим трудом. Фукидид стремился к объективности и точности в описании событий.",
@@ -1740,28 +1518,22 @@
   },
   {
     "id": 388,
-    "question": "Кто победил в Пелопоннесской войне?",
+    "question_ru": "Кто победил в Пелопоннесской войне?",
     "question_de": "Wer gewann den Peloponnesischen Krieg?",
-    "answer": "Спарта",
-    "answer_de": "Sparta",
-    "wrong_answers": [
-      {
-        "ru": "Афины",
-        "de": "Athen"
-      },
-      {
-        "ru": "Никто, был мир",
-        "de": "Niemand, es gab Frieden"
-      },
-      {
-        "ru": "Персия",
-        "de": "Persien"
-      }
+    "correct_answer_ru": "Спарта",
+    "correct_answer_de": "Sparta",
+    "wrong_answers_ru": [
+      "Афины",
+      "Никто, был мир",
+      "Персия"
     ],
-    "explanation": {
-      "ru": "Спарта победила в Пелопоннесской войне в 404 году до н.э. после 27 лет конфликта. Афины были вынуждены сдаться после блокады и потери флота. Спарта навязала Афинам суровые условия мира: срыть укрепления (длинные стены), распустить флот, вступить в союз со Спартой и принять олигархическое правительство.",
-      "de": "Sparta gewann den Peloponnesischen Krieg 404 v. Chr. nach 27 Jahren Konflikt. Athen wurde gezwungen, nach einer Blockade und dem Verlust der Flotte zu kapitulieren. Sparta diktierte Athen harte Friedensbedingungen: die Befestigungen (Lange Mauern) niederzureißen, die Flotte aufzulösen, ein Bündnis mit Sparta einzugehen und eine oligarchische Regierung zu akzeptieren."
-    },
+    "wrong_answers_de": [
+      "Athen",
+      "Niemand, es gab Frieden",
+      "Persien"
+    ],
+    "explanation_ru": "Спарта победила в Пелопоннесской войне в 404 году до н.э. после 27 лет конфликта. Афины были вынуждены сдаться после блокады и потери флота. Спарта навязала Афинам суровые условия мира: срыть укрепления (длинные стены), распустить флот, вступить в союз со Спартой и принять олигархическое правительство.",
+    "explanation_de": "Sparta gewann den Peloponnesischen Krieg 404 v. Chr. nach 27 Jahren Konflikt. Athen wurde gezwungen, nach einer Blockade und dem Verlust der Flotte zu kapitulieren. Sparta diktierte Athen harte Friedensbedingungen: die Befestigungen (Lange Mauern) niederzureißen, die Flotte aufzulösen, ein Bündnis mit Sparta einzugehen und eine oligarchische Regierung zu akzeptieren.",
     "interesting_facts": [
       {
         "ru": "Победа Спарты была достигнута благодаря помощи Персии, которая финансировала спартанский флот. Персия хотела ослабить Грецию и поддержала Спарту в обмен на контроль над греческими городами в Малой Азии. Это показало, как внешние силы могут влиять на греческие конфликты.",
@@ -1787,28 +1559,22 @@
   },
   {
     "id": 389,
-    "question": "Какая чума поразила Афины?",
+    "question_ru": "Какая чума поразила Афины?",
     "question_de": "Welche Pest suchte Athen heim?",
-    "answer": "Афинская чума",
-    "answer_de": "Athenische Pest",
-    "wrong_answers": [
-      {
-        "ru": "Чума Юстиниана",
-        "de": "Justinianische Pest"
-      },
-      {
-        "ru": "Чёрная смерть",
-        "de": "Schwarzer Tod"
-      },
-      {
-        "ru": "Тиф",
-        "de": "Typhus"
-      }
+    "correct_answer_ru": "Афинская чума",
+    "correct_answer_de": "Athenische Pest",
+    "wrong_answers_ru": [
+      "Чума Юстиниана",
+      "Чёрная смерть",
+      "Тиф"
     ],
-    "explanation": {
-      "ru": "Афинская чума (430-426 до н.э.) была эпидемией, которая поразила Афины во время Пелопоннесской войны. Чума унесла жизни около трети населения города, включая Перикла. Эпидемия была описана Фукидидом, который сам переболел чумой. Точная природа болезни неизвестна, но возможно это была тиф, оспа или другая инфекция.",
-      "de": "Die Athenische Pest (430-426 v. Chr.) war eine Epidemie, die Athen während des Peloponnesischen Krieges heimsuchte. Die Pest tötete etwa ein Drittel der Bevölkerung der Stadt, einschließlich Perikles. Die Epidemie wurde von Thukydides beschrieben, der selbst an der Pest erkrankte. Die genaue Natur der Krankheit ist unbekannt, aber möglicherweise war es Typhus, Pocken oder eine andere Infektion."
-    },
+    "wrong_answers_de": [
+      "Justinianische Pest",
+      "Schwarzer Tod",
+      "Typhus"
+    ],
+    "explanation_ru": "Афинская чума (430-426 до н.э.) была эпидемией, которая поразила Афины во время Пелопоннесской войны. Чума унесла жизни около трети населения города, включая Перикла. Эпидемия была описана Фукидидом, который сам переболел чумой. Точная природа болезни неизвестна, но возможно это была тиф, оспа или другая инфекция.",
+    "explanation_de": "Die Athenische Pest (430-426 v. Chr.) war eine Epidemie, die Athen während des Peloponnesischen Krieges heimsuchte. Die Pest tötete etwa ein Drittel der Bevölkerung der Stadt, einschließlich Perikles. Die Epidemie wurde von Thukydides beschrieben, der selbst an der Pest erkrankte. Die genaue Natur der Krankheit ist unbekannt, aber möglicherweise war es Typhus, Pocken oder eine andere Infektion.",
     "interesting_facts": [
       {
         "ru": "Афинская чума разразилась в 430 году до н.э., когда спартанцы осадили Афины. Перенаселённость города из-за беженцев из сельской местности способствовала распространению болезни. Чума вернулась в 427-426 годах до н.э. и снова в 423 году до н.э., убивая тысячи людей.",
@@ -1834,28 +1600,22 @@
   },
   {
     "id": 390,
-    "question": "Кто умер от афинской чумы?",
+    "question_ru": "Кто умер от афинской чумы?",
     "question_de": "Wer starb an der Athenischen Pest?",
-    "answer": "Перикл",
-    "answer_de": "Perikles",
-    "wrong_answers": [
-      {
-        "ru": "Сократ",
-        "de": "Sokrates"
-      },
-      {
-        "ru": "Фукидид",
-        "de": "Thukydides"
-      },
-      {
-        "ru": "Алкивиад",
-        "de": "Alkibiades"
-      }
+    "correct_answer_ru": "Перикл",
+    "correct_answer_de": "Perikles",
+    "wrong_answers_ru": [
+      "Сократ",
+      "Фукидид",
+      "Алкивиад"
     ],
-    "explanation": {
-      "ru": "Перикл умер от афинской чумы в 429 году до н.э., через год после начала эпидемии. Его смерть была огромной потерей для Афин, так как он был величайшим лидером и архитектором афинского могущества. Перикл был стратегом Афин на протяжении 30 лет и создал 'золотой век' Афин.",
-      "de": "Perikles starb 429 v. Chr. an der Athenischen Pest, ein Jahr nach dem Ausbruch der Epidemie. Sein Tod war ein enormer Verlust für Athen, da er der größte Führer und Architekt der athenischen Macht war. Perikles war 30 Jahre lang Strategos von Athen und schuf das 'Goldene Zeitalter' Athens."
-    },
+    "wrong_answers_de": [
+      "Sokrates",
+      "Thukydides",
+      "Alkibiades"
+    ],
+    "explanation_ru": "Перикл умер от афинской чумы в 429 году до н.э., через год после начала эпидемии. Его смерть была огромной потерей для Афин, так как он был величайшим лидером и архитектором афинского могущества. Перикл был стратегом Афин на протяжении 30 лет и создал 'золотой век' Афин.",
+    "explanation_de": "Perikles starb 429 v. Chr. an der Athenischen Pest, ein Jahr nach dem Ausbruch der Epidemie. Sein Tod war ein enormer Verlust für Athen, da er der größte Führer und Architekt der athenischen Macht war. Perikles war 30 Jahre lang Strategos von Athen und schuf das 'Goldene Zeitalter' Athens.",
     "interesting_facts": [
       {
         "ru": "Смерть Перикла была трагической для Афин, так как он был их величайшим лидером. Перикл создал афинскую империю, построил Парфенон и другие великие памятники, и руководил Афинами в период их расцвета. Его смерть оставила вакуум лидерства, который не смогли заполнить последующие стратеги.",
@@ -1881,28 +1641,22 @@
   },
   {
     "id": 391,
-    "question": "Сколько лет правил Перикл?",
+    "question_ru": "Сколько лет правил Перикл?",
     "question_de": "Wie viele Jahre regierte Perikles?",
-    "answer": "Около 30 лет",
-    "answer_de": "Etwa 30 Jahre",
-    "wrong_answers": [
-      {
-        "ru": "Около 20 лет",
-        "de": "Etwa 20 Jahre"
-      },
-      {
-        "ru": "Около 40 лет",
-        "de": "Etwa 40 Jahre"
-      },
-      {
-        "ru": "Около 15 лет",
-        "de": "Etwa 15 Jahre"
-      }
+    "correct_answer_ru": "Около 30 лет",
+    "correct_answer_de": "Etwa 30 Jahre",
+    "wrong_answers_ru": [
+      "Около 20 лет",
+      "Около 40 лет",
+      "Около 15 лет"
     ],
-    "explanation": {
-      "ru": "Перикл правил Афинами около 30 лет (461-429 до н.э.), будучи избранным стратегом почти каждый год. Он был доминирующей фигурой в афинской политике и создал период, известный как 'золотой век Афин'. За это время Афины достигли пика своего могущества, культуры и влияния.",
-      "de": "Perikles regierte Athen etwa 30 Jahre (461-429 v. Chr.) und wurde fast jedes Jahr zum Strategen gewählt. Er war die dominante Figur in der athenischen Politik und schuf eine Periode, die als 'Goldenes Zeitalter Athens' bekannt ist. Während dieser Zeit erreichte Athen den Höhepunkt seiner Macht, Kultur und seines Einflusses."
-    },
+    "wrong_answers_de": [
+      "Etwa 20 Jahre",
+      "Etwa 40 Jahre",
+      "Etwa 15 Jahre"
+    ],
+    "explanation_ru": "Перикл правил Афинами около 30 лет (461-429 до н.э.), будучи избранным стратегом почти каждый год. Он был доминирующей фигурой в афинской политике и создал период, известный как 'золотой век Афин'. За это время Афины достигли пика своего могущества, культуры и влияния.",
+    "explanation_de": "Perikles regierte Athen etwa 30 Jahre (461-429 v. Chr.) und wurde fast jedes Jahr zum Strategen gewählt. Er war die dominante Figur in der athenischen Politik und schuf eine Periode, die als 'Goldenes Zeitalter Athens' bekannt ist. Während dieser Zeit erreichte Athen den Höhepunkt seiner Macht, Kultur und seines Einflusses.",
     "interesting_facts": [
       {
         "ru": "Перикл был избран стратегом 15 раз подряд, что показывает его популярность и влияние. Он использовал своё красноречие и политические навыки для поддержания власти. Перикл был мастером демократии и умел убеждать народное собрание в правильности своих решений.",
@@ -1928,28 +1682,22 @@
   },
   {
     "id": 392,
-    "question": "Как называлась эпоха Перикла?",
+    "question_ru": "Как называлась эпоха Перикла?",
     "question_de": "Wie hieß die Ära des Perikles?",
-    "answer": "Золотой век Афин",
-    "answer_de": "Goldenes Zeitalter Athens",
-    "wrong_answers": [
-      {
-        "ru": "Серебряный век",
-        "de": "Silbernes Zeitalter"
-      },
-      {
-        "ru": "Бронзовый век",
-        "de": "Bronzezeit"
-      },
-      {
-        "ru": "Железный век",
-        "de": "Eisenzeit"
-      }
+    "correct_answer_ru": "Золотой век Афин",
+    "correct_answer_de": "Goldenes Zeitalter Athens",
+    "wrong_answers_ru": [
+      "Серебряный век",
+      "Бронзовый век",
+      "Железный век"
     ],
-    "explanation": {
-      "ru": "Эпоха Перикла (461-429 до н.э.) называется 'золотым веком Афин' из-за невероятного расцвета культуры, искусства, философии и политики. В этот период были построены Парфенон и другие великие памятники, жили и творили великие драматурги, философы и художники. Афины стали величайшим культурным и образовательным центром древнего мира.",
-      "de": "Die Ära des Perikles (461-429 v. Chr.) wird 'Goldenes Zeitalter Athens' genannt wegen der unglaublichen Blüte von Kultur, Kunst, Philosophie und Politik. In dieser Periode wurden der Parthenon und andere große Denkmäler erbaut, große Dramatiker, Philosophen und Künstler lebten und schufen. Athen wurde zum größten kulturellen und bildenden Zentrum der antiken Welt."
-    },
+    "wrong_answers_de": [
+      "Silbernes Zeitalter",
+      "Bronzezeit",
+      "Eisenzeit"
+    ],
+    "explanation_ru": "Эпоха Перикла (461-429 до н.э.) называется 'золотым веком Афин' из-за невероятного расцвета культуры, искусства, философии и политики. В этот период были построены Парфенон и другие великие памятники, жили и творили великие драматурги, философы и художники. Афины стали величайшим культурным и образовательным центром древнего мира.",
+    "explanation_de": "Die Ära des Perikles (461-429 v. Chr.) wird 'Goldenes Zeitalter Athens' genannt wegen der unglaublichen Blüte von Kultur, Kunst, Philosophie und Politik. In dieser Periode wurden der Parthenon und andere große Denkmäler erbaut, große Dramatiker, Philosophen und Künstler lebten und schufen. Athen wurde zum größten kulturellen und bildenden Zentrum der antiken Welt.",
     "interesting_facts": [
       {
         "ru": "Золотой век Афин был временем невероятных достижений во всех сферах. Были созданы величайшие произведения искусства и архитектуры, включая Парфенон, работы Фидия, трагедии Эсхила, Софокла и Еврипида. Философия достигла новых высот с Сократом и его учениками. Это был уникальный период в истории человечества.",
@@ -1975,28 +1723,22 @@
   },
   {
     "id": 393,
-    "question": "Кто был главным стратегом Афин?",
+    "question_ru": "Кто был главным стратегом Афин?",
     "question_de": "Wer war der Hauptstrategos von Athen?",
-    "answer": "Перикл",
-    "answer_de": "Perikles",
-    "wrong_answers": [
-      {
-        "ru": "Алкивиад",
-        "de": "Alkibiades"
-      },
-      {
-        "ru": "Фемистокл",
-        "de": "Themistokles"
-      },
-      {
-        "ru": "Кимон",
-        "de": "Kimón"
-      }
+    "correct_answer_ru": "Перикл",
+    "correct_answer_de": "Perikles",
+    "wrong_answers_ru": [
+      "Алкивиад",
+      "Фемистокл",
+      "Кимон"
     ],
-    "explanation": {
-      "ru": "Перикл был главным стратегом Афин в течение 30 лет (461-429 до н.э.), будучи избранным стратегом почти каждый год. Он был доминирующей фигурой в афинской политике и фактическим лидером города, хотя формально стратеги были избираемы коллегиально. Перикл использовал своё красноречие и влияние для направления политики Афин.",
-      "de": "Perikles war der Hauptstrategos von Athen für 30 Jahre (461-429 v. Chr.) und wurde fast jedes Jahr zum Strategen gewählt. Er war die dominante Figur in der athenischen Politik und de facto Führer der Stadt, obwohl Strategen formell kollegial gewählt wurden. Perikles nutzte seine Beredsamkeit und seinen Einfluss, um die Politik Athens zu lenken."
-    },
+    "wrong_answers_de": [
+      "Alkibiades",
+      "Themistokles",
+      "Kimón"
+    ],
+    "explanation_ru": "Перикл был главным стратегом Афин в течение 30 лет (461-429 до н.э.), будучи избранным стратегом почти каждый год. Он был доминирующей фигурой в афинской политике и фактическим лидером города, хотя формально стратеги были избираемы коллегиально. Перикл использовал своё красноречие и влияние для направления политики Афин.",
+    "explanation_de": "Perikles war der Hauptstrategos von Athen für 30 Jahre (461-429 v. Chr.) und wurde fast jedes Jahr zum Strategen gewählt. Er war die dominante Figur in der athenischen Politik und de facto Führer der Stadt, obwohl Strategen formell kollegial gewählt wurden. Perikles nutzte seine Beredsamkeit und seinen Einfluss, um die Politik Athens zu lenken.",
     "interesting_facts": [
       {
         "ru": "Перикл был мастером демократии и умел убеждать народное собрание в правильности своих решений. Он использовал своё красноречие для достижения политических целей. Перикл был избран стратегом 15 раз подряд, что показывает его популярность и эффективность как лидера.",
@@ -2022,28 +1764,22 @@
   },
   {
     "id": 394,
-    "question": "Что означает слово 'стратег'?",
+    "question_ru": "Что означает слово 'стратег'?",
     "question_de": "Was bedeutet das Wort 'Strategos'?",
-    "answer": "Военачальник",
-    "answer_de": "Heerführer",
-    "wrong_answers": [
-      {
-        "ru": "Политик",
-        "de": "Politiker"
-      },
-      {
-        "ru": "Судья",
-        "de": "Richter"
-      },
-      {
-        "ru": "Жрец",
-        "de": "Priester"
-      }
+    "correct_answer_ru": "Военачальник",
+    "correct_answer_de": "Heerführer",
+    "wrong_answers_ru": [
+      "Политик",
+      "Судья",
+      "Жрец"
     ],
-    "explanation": {
-      "ru": "Слово 'стратег' происходит от греческого 'стратос' (армия) и 'агейн' (вести), что означает 'военачальник' или 'командующий армией'. В Афинах стратеги были избираемыми военными и политическими лидерами, которые командовали войсками и участвовали в управлении государством. Стратеги были одними из самых важных должностных лиц в афинской демократии.",
-      "de": "Das Wort 'Strategos' stammt vom griechischen 'stratos' (Armee) und 'agein' (führen), was 'Heerführer' oder 'Armeekommandant' bedeutet. In Athen waren Strategen gewählte militärische und politische Führer, die Truppen kommandierten und an der Regierung des Staates teilnahmen. Strategen waren eines der wichtigsten Amtspersonen in der athenischen Demokratie."
-    },
+    "wrong_answers_de": [
+      "Politiker",
+      "Richter",
+      "Priester"
+    ],
+    "explanation_ru": "Слово 'стратег' происходит от греческого 'стратос' (армия) и 'агейн' (вести), что означает 'военачальник' или 'командующий армией'. В Афинах стратеги были избираемыми военными и политическими лидерами, которые командовали войсками и участвовали в управлении государством. Стратеги были одними из самых важных должностных лиц в афинской демократии.",
+    "explanation_de": "Das Wort 'Strategos' stammt vom griechischen 'stratos' (Armee) und 'agein' (führen), was 'Heerführer' oder 'Armeekommandant' bedeutet. In Athen waren Strategen gewählte militärische und politische Führer, die Truppen kommandierten und an der Regierung des Staates teilnahmen. Strategen waren eines der wichtigsten Amtspersonen in der athenischen Demokratie.",
     "interesting_facts": [
       {
         "ru": "В Афинах было десять стратегов, избираемых ежегодно народным собранием. Стратеги командовали войсками, принимали военные решения и участвовали в политике. Перикл был главным стратегом, доминируя над остальными благодаря своему влиянию и красноречию.",
@@ -2069,28 +1805,22 @@
   },
   {
     "id": 395,
-    "question": "Сколько стратегов было в Афинах?",
+    "question_ru": "Сколько стратегов было в Афинах?",
     "question_de": "Wie viele Strategen gab es in Athen?",
-    "answer": "Десять",
-    "answer_de": "Zehn",
-    "wrong_answers": [
-      {
-        "ru": "Пять",
-        "de": "Fünf"
-      },
-      {
-        "ru": "Пятнадцать",
-        "de": "Fünfzehn"
-      },
-      {
-        "ru": "Двадцать",
-        "de": "Zwanzig"
-      }
+    "correct_answer_ru": "Десять",
+    "correct_answer_de": "Zehn",
+    "wrong_answers_ru": [
+      "Пять",
+      "Пятнадцать",
+      "Двадцать"
     ],
-    "explanation": {
-      "ru": "В Афинах было десять стратегов, избираемых ежегодно народным собранием. Стратеги выбирались по одному от каждой филы (племени), что обеспечивало представительство всех регионов Аттики. Стратеги командовали войсками, принимали военные решения и участвовали в управлении государством.",
-      "de": "In Athen gab es zehn Strategen, die jährlich von der Volksversammlung gewählt wurden. Strategen wurden je einer aus jeder Phyle (Stamm) gewählt, was die Vertretung aller Regionen Attikas sicherte. Strategen kommandierten Truppen, trafen militärische Entscheidungen und nahmen an der Regierung des Staates teil."
-    },
+    "wrong_answers_de": [
+      "Fünf",
+      "Fünfzehn",
+      "Zwanzig"
+    ],
+    "explanation_ru": "В Афинах было десять стратегов, избираемых ежегодно народным собранием. Стратеги выбирались по одному от каждой филы (племени), что обеспечивало представительство всех регионов Аттики. Стратеги командовали войсками, принимали военные решения и участвовали в управлении государством.",
+    "explanation_de": "In Athen gab es zehn Strategen, die jährlich von der Volksversammlung gewählt wurden. Strategen wurden je einer aus jeder Phyle (Stamm) gewählt, was die Vertretung aller Regionen Attikas sicherte. Strategen kommandierten Truppen, trafen militärische Entscheidungen und nahmen an der Regierung des Staates teil.",
     "interesting_facts": [
       {
         "ru": "Десять стратегов представляли десять фил Аттики, на которые была разделена афинская территория после реформ Клисфена. Это обеспечивало справедливое представительство всех регионов в военном руководстве. Стратеги работали коллегиально, но один из них мог доминировать, как Перикл.",
@@ -2116,28 +1846,22 @@
   },
   {
     "id": 396,
-    "question": "На какой срок избирали стратегов?",
+    "question_ru": "На какой срок избирали стратегов?",
     "question_de": "Für welche Amtszeit wurden die Strategen gewählt?",
-    "answer": "На один год",
-    "answer_de": "Für ein Jahr",
-    "wrong_answers": [
-      {
-        "ru": "На два года",
-        "de": "Für zwei Jahre"
-      },
-      {
-        "ru": "На четыре года",
-        "de": "Für vier Jahre"
-      },
-      {
-        "ru": "На шесть месяцев",
-        "de": "Für sechs Monate"
-      }
+    "correct_answer_ru": "На один год",
+    "correct_answer_de": "Für ein Jahr",
+    "wrong_answers_ru": [
+      "На два года",
+      "На четыре года",
+      "На шесть месяцев"
     ],
-    "explanation": {
-      "ru": "Стратеги в Афинах избирались на один год народным собранием. Выборы проводились ежегодно, и стратеги могли быть переизбраны неограниченное количество раз. Это позволяло опытным лидерам оставаться у власти долгое время, как Перикл, который был стратегом 15 раз подряд.",
-      "de": "Strategen in Athen wurden für ein Jahr von der Volksversammlung gewählt. Wahlen fanden jährlich statt, und Strategen konnten unbegrenzt oft wiedergewählt werden. Dies ermöglichte es erfahrenen Führern, lange Zeit an der Macht zu bleiben, wie Perikles, der 15 Mal hintereinander Strategos war."
-    },
+    "wrong_answers_de": [
+      "Für zwei Jahre",
+      "Für vier Jahre",
+      "Für sechs Monate"
+    ],
+    "explanation_ru": "Стратеги в Афинах избирались на один год народным собранием. Выборы проводились ежегодно, и стратеги могли быть переизбраны неограниченное количество раз. Это позволяло опытным лидерам оставаться у власти долгое время, как Перикл, который был стратегом 15 раз подряд.",
+    "explanation_de": "Strategen in Athen wurden für ein Jahr von der Volksversammlung gewählt. Wahlen fanden jährlich statt, und Strategen konnten unbegrenzt oft wiedergewählt werden. Dies ermöglichte es erfahrenen Führern, lange Zeit an der Macht zu bleiben, wie Perikles, der 15 Mal hintereinander Strategos war.",
     "interesting_facts": [
       {
         "ru": "Годовой срок выборов стратегов обеспечивал регулярную подотчётность перед народом. Стратеги могли быть переизбраны, если они были успешными и популярными. Это создавало баланс между стабильностью и подотчётностью. Перикл использовал эту систему для поддержания своей власти.",
@@ -2163,28 +1887,22 @@
   },
   {
     "id": 397,
-    "question": "Что такое остракизм?",
+    "question_ru": "Что такое остракизм?",
     "question_de": "Was ist Ostrakismos?",
-    "answer": "Изгнание из города голосованием",
-    "answer_de": "Verbannung aus der Stadt durch Abstimmung",
-    "wrong_answers": [
-      {
-        "ru": "Смертная казнь",
-        "de": "Todesstrafe"
-      },
-      {
-        "ru": "Тюремное заключение",
-        "de": "Gefängnisstrafe"
-      },
-      {
-        "ru": "Штраф",
-        "de": "Geldstrafe"
-      }
+    "correct_answer_ru": "Изгнание из города голосованием",
+    "correct_answer_de": "Verbannung aus der Stadt durch Abstimmung",
+    "wrong_answers_ru": [
+      "Смертная казнь",
+      "Тюремное заключение",
+      "Штраф"
     ],
-    "explanation": {
-      "ru": "Остракизм был процедурой изгнания из Афин на 10 лет, проводившейся голосованием черепками (остраконами). Если достаточное количество граждан голосовало за изгнание, человек должен был покинуть город на 10 лет, но сохранял своё имущество и гражданство. Остракизм был инструментом защиты демократии от тирании.",
-      "de": "Ostrakismos war ein Verfahren zur Verbannung aus Athen für 10 Jahre, das durch Abstimmung mit Scherben (Ostraka) durchgeführt wurde. Wenn eine ausreichende Anzahl von Bürgern für die Verbannung stimmte, musste die Person die Stadt für 10 Jahre verlassen, behielt aber ihr Eigentum und ihre Staatsbürgerschaft. Ostrakismos war ein Instrument zum Schutz der Demokratie vor Tyrannei."
-    },
+    "wrong_answers_de": [
+      "Todesstrafe",
+      "Gefängnisstrafe",
+      "Geldstrafe"
+    ],
+    "explanation_ru": "Остракизм был процедурой изгнания из Афин на 10 лет, проводившейся голосованием черепками (остраконами). Если достаточное количество граждан голосовало за изгнание, человек должен был покинуть город на 10 лет, но сохранял своё имущество и гражданство. Остракизм был инструментом защиты демократии от тирании.",
+    "explanation_de": "Ostrakismos war ein Verfahren zur Verbannung aus Athen für 10 Jahre, das durch Abstimmung mit Scherben (Ostraka) durchgeführt wurde. Wenn eine ausreichende Anzahl von Bürgern für die Verbannung stimmte, musste die Person die Stadt für 10 Jahre verlassen, behielt aber ihr Eigentum und ihre Staatsbürgerschaft. Ostrakismos war ein Instrument zum Schutz der Demokratie vor Tyrannei.",
     "interesting_facts": [
       {
         "ru": "Остракизм был введён Клисфеном в 508 году до н.э. как защита от тирании. Процедура проводилась ежегодно, если народное собрание решало её провести. Граждане писали имя человека, которого хотели изгнать, на черепке. Если набиралось минимум 6000 голосов против одного человека, он изгонялся.",
@@ -2210,28 +1928,22 @@
   },
   {
     "id": 398,
-    "question": "На сколько лет изгоняли остракизмом?",
+    "question_ru": "На сколько лет изгоняли остракизмом?",
     "question_de": "Für wie viele Jahre wurde man durch Ostrakismos verbannt?",
-    "answer": "На 10 лет",
-    "answer_de": "Für 10 Jahre",
-    "wrong_answers": [
-      {
-        "ru": "На 5 лет",
-        "de": "Für 5 Jahre"
-      },
-      {
-        "ru": "На 20 лет",
-        "de": "Für 20 Jahre"
-      },
-      {
-        "ru": "Навсегда",
-        "de": "Für immer"
-      }
+    "correct_answer_ru": "На 10 лет",
+    "correct_answer_de": "Für 10 Jahre",
+    "wrong_answers_ru": [
+      "На 5 лет",
+      "На 20 лет",
+      "Навсегда"
     ],
-    "explanation": {
-      "ru": "Остракизм изгонял человека из Афин на 10 лет. Это был достаточно длительный срок, чтобы удалить потенциальную угрозу демократии, но не навсегда, что позволяло человеку вернуться после истечения срока. Изгнанный сохранял своё имущество и гражданство, но должен был покинуть Аттику на 10 лет.",
-      "de": "Ostrakismos verbannte eine Person für 10 Jahre aus Athen. Es war eine ausreichend lange Zeit, um eine potenzielle Bedrohung der Demokratie zu entfernen, aber nicht für immer, was es der Person ermöglichte, nach Ablauf der Frist zurückzukehren. Der Verbannte behielt sein Eigentum und seine Staatsbürgerschaft, musste aber Attika für 10 Jahre verlassen."
-    },
+    "wrong_answers_de": [
+      "Für 5 Jahre",
+      "Für 20 Jahre",
+      "Für immer"
+    ],
+    "explanation_ru": "Остракизм изгонял человека из Афин на 10 лет. Это был достаточно длительный срок, чтобы удалить потенциальную угрозу демократии, но не навсегда, что позволяло человеку вернуться после истечения срока. Изгнанный сохранял своё имущество и гражданство, но должен был покинуть Аттику на 10 лет.",
+    "explanation_de": "Ostrakismos verbannte eine Person für 10 Jahre aus Athen. Es war eine ausreichend lange Zeit, um eine potenzielle Bedrohung der Demokratie zu entfernen, aber nicht für immer, was es der Person ermöglichte, nach Ablauf der Frist zurückzukehren. Der Verbannte behielt sein Eigentum und seine Staatsbürgerschaft, musste aber Attika für 10 Jahre verlassen.",
     "interesting_facts": [
       {
         "ru": "10-летний срок был выбран как баланс между эффективностью защиты демократии и справедливостью. Это было достаточно долго, чтобы удалить угрозу, но не настолько, чтобы быть несправедливым. Изгнанный мог вернуться после истечения срока и продолжить свою политическую деятельность.",
@@ -2257,28 +1969,22 @@
   },
   {
     "id": 399,
-    "question": "Чем голосовали при остракизме?",
+    "question_ru": "Чем голосовали при остракизме?",
     "question_de": "Womit wurde beim Ostrakismos abgestimmt?",
-    "answer": "Черепками (остраконами)",
-    "answer_de": "Scherben (Ostraka)",
-    "wrong_answers": [
-      {
-        "ru": "Камешками",
-        "de": "Steinchen"
-      },
-      {
-        "ru": "Бумагой",
-        "de": "Papier"
-      },
-      {
-        "ru": "Глиняными табличками",
-        "de": "Tontafeln"
-      }
+    "correct_answer_ru": "Черепками (остраконами)",
+    "correct_answer_de": "Scherben (Ostraka)",
+    "wrong_answers_ru": [
+      "Камешками",
+      "Бумагой",
+      "Глиняными табличками"
     ],
-    "explanation": {
-      "ru": "При остракизме голосовали черепками (остраконами) - глиняными черепками от разбитых сосудов. Граждане писали на черепке имя человека, которого хотели изгнать. Если набиралось минимум 6000 голосов против одного человека, он изгонялся на 10 лет. От слова 'остракон' (черепок) произошло название процедуры 'остракизм'.",
-      "de": "Beim Ostrakismos wurde mit Scherben (Ostraka) abgestimmt - Tonscherben von zerbrochenen Gefäßen. Bürger schrieben auf eine Scherbe den Namen der Person, die sie verbannen wollten. Wenn mindestens 6000 Stimmen gegen eine Person zusammenkamen, wurde sie für 10 Jahre verbannt. Vom Wort 'Ostrakon' (Scherbe) stammt der Name des Verfahrens 'Ostrakismos'."
-    },
+    "wrong_answers_de": [
+      "Steinchen",
+      "Papier",
+      "Tontafeln"
+    ],
+    "explanation_ru": "При остракизме голосовали черепками (остраконами) - глиняными черепками от разбитых сосудов. Граждане писали на черепке имя человека, которого хотели изгнать. Если набиралось минимум 6000 голосов против одного человека, он изгонялся на 10 лет. От слова 'остракон' (черепок) произошло название процедуры 'остракизм'.",
+    "explanation_de": "Beim Ostrakismos wurde mit Scherben (Ostraka) abgestimmt - Tonscherben von zerbrochenen Gefäßen. Bürger schrieben auf eine Scherbe den Namen der Person, die sie verbannen wollten. Wenn mindestens 6000 Stimmen gegen eine Person zusammenkamen, wurde sie für 10 Jahre verbannt. Vom Wort 'Ostrakon' (Scherbe) stammt der Name des Verfahrens 'Ostrakismos'.",
     "interesting_facts": [
       {
         "ru": "Черепки были дешёвым и доступным материалом для голосования. Граждане использовали черепки от разбитых керамических сосудов, которые были повсюду. Это делало процедуру доступной для всех граждан, независимо от их богатства. Черепки были идеальным материалом для демократического голосования.",
@@ -2304,28 +2010,22 @@
   },
   {
     "id": 400,
-    "question": "Кто ввёл остракизм в Афинах?",
+    "question_ru": "Кто ввёл остракизм в Афинах?",
     "question_de": "Wer führte den Ostrakismos in Athen ein?",
-    "answer": "Клисфен",
-    "answer_de": "Kleisthenes",
-    "wrong_answers": [
-      {
-        "ru": "Перикл",
-        "de": "Perikles"
-      },
-      {
-        "ru": "Солон",
-        "de": "Solon"
-      },
-      {
-        "ru": "Драконт",
-        "de": "Drakon"
-      }
+    "correct_answer_ru": "Клисфен",
+    "correct_answer_de": "Kleisthenes",
+    "wrong_answers_ru": [
+      "Перикл",
+      "Солон",
+      "Драконт"
     ],
-    "explanation": {
-      "ru": "Остракизм был введён Клисфеном в 508 году до н.э. как часть его демократических реформ. Клисфен был афинским реформатором, который создал основы афинской демократии после свержения тирании. Остракизм был инструментом защиты демократии от потенциальных тиранов и частью системы сдержек и противовесов.",
-      "de": "Ostrakismos wurde von Kleisthenes 508 v. Chr. als Teil seiner demokratischen Reformen eingeführt. Kleisthenes war ein athenischer Reformer, der die Grundlagen der athenischen Demokratie nach dem Sturz der Tyrannei schuf. Ostrakismos war ein Instrument zum Schutz der Demokratie vor potenziellen Tyrannen und Teil eines Systems der Gewaltenteilung."
-    },
+    "wrong_answers_de": [
+      "Perikles",
+      "Solon",
+      "Drakon"
+    ],
+    "explanation_ru": "Остракизм был введён Клисфеном в 508 году до н.э. как часть его демократических реформ. Клисфен был афинским реформатором, который создал основы афинской демократии после свержения тирании. Остракизм был инструментом защиты демократии от потенциальных тиранов и частью системы сдержек и противовесов.",
+    "explanation_de": "Ostrakismos wurde von Kleisthenes 508 v. Chr. als Teil seiner demokratischen Reformen eingeführt. Kleisthenes war ein athenischer Reformer, der die Grundlagen der athenischen Demokratie nach dem Sturz der Tyrannei schuf. Ostrakismos war ein Instrument zum Schutz der Demokratie vor potenziellen Tyrannen und Teil eines Systems der Gewaltenteilung.",
     "interesting_facts": [
       {
         "ru": "Клисфен был одним из величайших реформаторов Афин, создавшим основы демократии. Он разделил Аттику на десять фил (племён), создал совет 500 и ввёл остракизм. Реформы Клисфена превратили Афины в демократическое государство и заложили основы для будущего расцвета.",
@@ -2350,8 +2050,3 @@
     ]
   }
 ]
-
-
-
-
-

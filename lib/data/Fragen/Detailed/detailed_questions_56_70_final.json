@@ -3,10 +3,18 @@
     "id": 56,
     "question_ru": "Какой город был столицей Нового царства Египта?",
     "question_de": "Welche Stadt war die Hauptstadt des Neuen Reiches von Ägypten?",
-    "answer_ru": "Фивы",
-    "answer_de": "Theben",
-    "wrong_answers_ru": ["Мемфис", "Александрия", "Гелиополь"],
-    "wrong_answers_de": ["Memphis", "Alexandria", "Heliopolis"],
+    "correct_answer_ru": "Фивы",
+    "correct_answer_de": "Theben",
+    "wrong_answers_ru": [
+      "Мемфис",
+      "Александрия",
+      "Гелиополь"
+    ],
+    "wrong_answers_de": [
+      "Memphis",
+      "Alexandria",
+      "Heliopolis"
+    ],
     "explanation_ru": "Фивы (современный Луксор) были столицей Египта в период Нового царства (1550-1077 гг. до н.э.). На восточном берегу Нила находились храмовые комплексы Карнака и Луксора, на западном - Долина Царей и Долина Цариц. Жречество Амона в Фивах обладало огромной властью.",
     "explanation_de": "Theben (das moderne Luxor) war die Hauptstadt Ägyptens während des Neuen Reiches (1550-1077 v. Chr.). Am Ostufer des Nils befanden sich die Tempelanlagen von Karnak und Luxor, am Westufer das Tal der Könige und das Tal der Königinnen. Die Priesterschaft des Amun in Theben besaß enorme Macht.",
     "interesting_facts": [
@@ -27,16 +35,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "1550-1077 BCE",
-    "tags": ["география", "столицы", "Новое царство"]
+    "tags": [
+      "география",
+      "столицы",
+      "Новое царство"
+    ]
   },
   {
     "id": 57,
     "question_ru": "Кто был богом мудрости в Древнем Египте?",
     "question_de": "Wer war der Gott der Weisheit im alten Ägypten?",
-    "answer_ru": "Тот",
-    "answer_de": "Thoth",
-    "wrong_answers_ru": ["Птах", "Ра", "Осирис"],
-    "wrong_answers_de": ["Ptah", "Ra", "Osiris"],
+    "correct_answer_ru": "Тот",
+    "correct_answer_de": "Thoth",
+    "wrong_answers_ru": [
+      "Птах",
+      "Ра",
+      "Осирис"
+    ],
+    "wrong_answers_de": [
+      "Ptah",
+      "Ra",
+      "Osiris"
+    ],
     "explanation_ru": "Тот был богом мудрости, письменности и магии. Египтяне верили, что он изобрёл иероглифы. Его изображали с головой ибиса или павиана. Тот записывал результаты взвешивания сердца на суде Осириса.",
     "explanation_de": "Thoth war der Gott der Weisheit, der Schrift und der Magie. Die Ägypter glaubten, dass er die Hieroglyphen erfand. Er wurde mit dem Kopf eines Ibis oder Pavians dargestellt. Thoth zeichnete die Ergebnisse der Herzwägung im Gericht des Osiris auf.",
     "interesting_facts": [
@@ -57,16 +77,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "боги", "мудрость"]
+    "tags": [
+      "религия",
+      "боги",
+      "мудрость"
+    ]
   },
   {
     "id": 58,
     "question_ru": "Как называлась египетская богиня неба?",
     "question_de": "Wie hieß die ägyptische Göttin des Himmels?",
-    "answer_ru": "Нут",
-    "answer_de": "Nut",
-    "wrong_answers_ru": ["Исида", "Хатхор", "Маат"],
-    "wrong_answers_de": ["Isis", "Hathor", "Maat"],
+    "correct_answer_ru": "Нут",
+    "correct_answer_de": "Nut",
+    "wrong_answers_ru": [
+      "Исида",
+      "Хатхор",
+      "Маат"
+    ],
+    "wrong_answers_de": [
+      "Isis",
+      "Hathor",
+      "Maat"
+    ],
     "explanation_ru": "Нут была богиней неба. Её изображали в виде женщины, изогнутой над землёй, усыпанной звёздами. Она была женой Геба (бога земли) и матерью Осириса, Исиды, Сета и Нефтиды.",
     "explanation_de": "Nut war die Göttin des Himmels. Sie wurde als Frau dargestellt, die über der Erde gewölbt und mit Sternen bedeckt war. Sie war die Ehefrau von Geb (dem Gott der Erde) und Mutter von Osiris, Isis, Seth und Nephthys.",
     "interesting_facts": [
@@ -87,16 +119,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "богини", "небо"]
+    "tags": [
+      "религия",
+      "богини",
+      "небо"
+    ]
   },
   {
     "id": 59,
     "question_ru": "Кто был египетским богом земли?",
     "question_de": "Wer war der ägyptische Gott der Erde?",
-    "answer_ru": "Геб",
-    "answer_de": "Geb",
-    "wrong_answers_ru": ["Атум", "Хнум", "Птах"],
-    "wrong_answers_de": ["Atum", "Chnum", "Ptah"],
+    "correct_answer_ru": "Геб",
+    "correct_answer_de": "Geb",
+    "wrong_answers_ru": [
+      "Атум",
+      "Хнум",
+      "Птах"
+    ],
+    "wrong_answers_de": [
+      "Atum",
+      "Chnum",
+      "Ptah"
+    ],
     "explanation_ru": "Геб был богом земли и мужем Нут (богини неба). Его изображали лежащим под изогнутым телом Нут. Египтяне верили, что землетрясения происходят от его смеха.",
     "explanation_de": "Geb war der Gott der Erde und Ehemann von Nut (der Göttin des Himmels). Er wurde liegend unter dem gewölbten Körper von Nut dargestellt. Die Ägypter glaubten, dass Erdbeben von seinem Lachen herrührten.",
     "interesting_facts": [
@@ -117,16 +161,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "боги", "земля"]
+    "tags": [
+      "религия",
+      "боги",
+      "земля"
+    ]
   },
   {
     "id": 60,
     "question_ru": "Какой фараон был мужем царицы Нефертити?",
     "question_de": "Welcher Pharao war der Ehemann der Königin Nefertiti?",
-    "answer_ru": "Эхнатон",
-    "answer_de": "Echnaton",
-    "wrong_answers_ru": ["Тутанхамон", "Рамсес II", "Тутмос III"],
-    "wrong_answers_de": ["Tutanchamun", "Ramses II", "Thutmosis III"],
+    "correct_answer_ru": "Эхнатон",
+    "correct_answer_de": "Echnaton",
+    "wrong_answers_ru": [
+      "Тутанхамон",
+      "Рамсес II",
+      "Тутмос III"
+    ],
+    "wrong_answers_de": [
+      "Tutanchamun",
+      "Ramses II",
+      "Thutmosis III"
+    ],
     "explanation_ru": "Эхнатон (правил 1353-1336 гг. до н.э.) был мужем Нефертити. Он провёл религиозную революцию, заменив традиционных богов культом Атона. Нефертити играла беспрецедентную роль, изображаясь на равных с фараоном.",
     "explanation_de": "Echnaton (regierte 1353-1336 v. Chr.) war der Ehemann von Nefertiti. Er führte eine religiöse Revolution durch und ersetzte die traditionellen Götter durch den Kult des Aton. Nefertiti spielte eine beispiellose Rolle und wurde gleichberechtigt mit dem Pharao dargestellt.",
     "interesting_facts": [
@@ -147,16 +203,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "1353-1336 BCE",
-    "tags": ["фараоны", "царицы", "религия"]
+    "tags": [
+      "фараоны",
+      "царицы",
+      "религия"
+    ]
   },
   {
     "id": 61,
     "question_ru": "Как называлась столица фараона Эхнатона?",
     "question_de": "Wie hieß die Hauptstadt des Pharaos Echnaton?",
-    "answer_ru": "Ахетатон",
-    "answer_de": "Achetaton",
-    "wrong_answers_ru": ["Фивы", "Мемфис", "Пер-Рамсес"],
-    "wrong_answers_de": ["Theben", "Memphis", "Per-Ramses"],
+    "correct_answer_ru": "Ахетатон",
+    "correct_answer_de": "Achetaton",
+    "wrong_answers_ru": [
+      "Фивы",
+      "Мемфис",
+      "Пер-Рамсес"
+    ],
+    "wrong_answers_de": [
+      "Theben",
+      "Memphis",
+      "Per-Ramses"
+    ],
     "explanation_ru": "Ахетатон ('Горизонт Атона'), современная Амарна, был построен Эхнатоном около 1346 г. до н.э. для поклонения Атону. После смерти Эхнатона город был покинут, что помогло его сохранности.",
     "explanation_de": "Achetaton ('Horizont des Aton'), das moderne Amarna, wurde von Echnaton um 1346 v. Chr. für die Verehrung Atons erbaut. Nach Echnatons Tod wurde die Stadt verlassen, was zu ihrer Erhaltung beitrug.",
     "interesting_facts": [
@@ -177,16 +245,28 @@
     "category": "Древний Египет",
     "type": "geography",
     "period": "1346 BCE",
-    "tags": ["география", "столицы", "Эхнатон"]
+    "tags": [
+      "география",
+      "столицы",
+      "Эхнатон"
+    ]
   },
   {
     "id": 62,
     "question_ru": "Кто был отцом фараона Тутанхамона?",
     "question_de": "Wer war der Vater des Pharaos Tutanchamun?",
-    "answer_ru": "Эхнатон",
-    "answer_de": "Echnaton",
-    "wrong_answers_ru": ["Аменхотеп III", "Эйе", "Хоремхеб"],
-    "wrong_answers_de": ["Amenophis III", "Eje", "Haremhab"],
+    "correct_answer_ru": "Эхнатон",
+    "correct_answer_de": "Echnaton",
+    "wrong_answers_ru": [
+      "Аменхотеп III",
+      "Эйе",
+      "Хоремхеб"
+    ],
+    "wrong_answers_de": [
+      "Amenophis III",
+      "Eje",
+      "Haremhab"
+    ],
     "explanation_ru": "ДНК-анализ 2010 года подтвердил, что Эхнатон был отцом Тутанхамона. Тутанхамон родился как Тутанхатон, но после смерти отца отказался от его реформ и сменил имя на Тутанхамон.",
     "explanation_de": "DNA-Analysen von 2010 bestätigten, dass Echnaton der Vater von Tutanchamun war. Tutanchamun wurde als Tutanchaton geboren, gab aber nach dem Tod seines Vaters dessen Reformen auf und änderte seinen Namen in Tutanchamun.",
     "interesting_facts": [
@@ -207,16 +287,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "1341-1323 BCE",
-    "tags": ["фараоны", "семья", "генеалогия"]
+    "tags": [
+      "фараоны",
+      "семья",
+      "генеалогия"
+    ]
   },
   {
     "id": 63,
     "question_ru": "В каком году была открыта гробница Тутанхамона?",
     "question_de": "In welchem Jahr wurde das Grab von Tutanchamun entdeckt?",
-    "answer_ru": "1922 год",
-    "answer_de": "1922",
-    "wrong_answers_ru": ["1912 год", "1932 год", "1901 год"],
-    "wrong_answers_de": ["1912", "1932", "1901"],
+    "correct_answer_ru": "1922 год",
+    "correct_answer_de": "1922",
+    "wrong_answers_ru": [
+      "1912 год",
+      "1932 год",
+      "1901 год"
+    ],
+    "wrong_answers_de": [
+      "1912",
+      "1932",
+      "1901"
+    ],
     "explanation_ru": "4 ноября 1922 года Говард Картер открыл гробницу. На вопрос 'Вы что-нибудь видите?' он ответил: 'Да, чудесные вещи!' Гробница содержала более 5000 предметов, включая золотую маску.",
     "explanation_de": "Am 4. November 1922 öffnete Howard Carter das Grab. Auf die Frage 'Können Sie etwas sehen?' antwortete er: 'Ja, wunderbare Dinge!' Das Grab enthielt über 5000 Gegenstände, einschließlich der goldenen Maske.",
     "interesting_facts": [
@@ -237,16 +329,28 @@
     "category": "Древний Египет",
     "type": "date",
     "period": "1922",
-    "tags": ["археология", "открытия", "даты"]
+    "tags": [
+      "археология",
+      "открытия",
+      "даты"
+    ]
   },
   {
     "id": 64,
     "question_ru": "Кто открыл гробницу Тутанхамона?",
     "question_de": "Wer entdeckte das Grab von Tutanchamun?",
-    "answer_ru": "Говард Картер",
-    "answer_de": "Howard Carter",
-    "wrong_answers_ru": ["Огюст Мариетт", "Флиндерс Питри", "Джованни Бельцони"],
-    "wrong_answers_de": ["Auguste Mariette", "Flinders Petrie", "Giovanni Belzoni"],
+    "correct_answer_ru": "Говард Картер",
+    "correct_answer_de": "Howard Carter",
+    "wrong_answers_ru": [
+      "Огюст Мариетт",
+      "Флиндерс Питри",
+      "Джованни Бельцони"
+    ],
+    "wrong_answers_de": [
+      "Auguste Mariette",
+      "Flinders Petrie",
+      "Giovanni Belzoni"
+    ],
     "explanation_ru": "Говард Картер (1874-1939) был британским археологом-самоучкой. Он работал на лорда Карнарвона с 1907 года. К 1922 году финансирование почти закончилось, но Картер убедил дать ещё один сезон.",
     "explanation_de": "Howard Carter (1874-1939) war ein britischer autodidaktischer Archäologe. Er arbeitete ab 1907 für Lord Carnarvon. Bis 1922 war die Finanzierung fast erschöpft, aber Carter überzeugte ihn, noch eine Saison zu geben.",
     "interesting_facts": [
@@ -267,16 +371,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "1922",
-    "tags": ["археология", "учёные", "открытия"]
+    "tags": [
+      "археология",
+      "учёные",
+      "открытия"
+    ]
   },
   {
     "id": 65,
     "question_ru": "Какой фараон построил храмовый комплекс Абу-Симбел?",
     "question_de": "Welcher Pharao baute den Tempelkomplex Abu Simbel?",
-    "answer_ru": "Рамсес II",
-    "answer_de": "Ramses II",
-    "wrong_answers_ru": ["Сети I", "Тутмос III", "Хатшепсут"],
-    "wrong_answers_de": ["Sethos I", "Thutmosis III", "Hatschepsut"],
+    "correct_answer_ru": "Рамсес II",
+    "correct_answer_de": "Ramses II",
+    "wrong_answers_ru": [
+      "Сети I",
+      "Тутмос III",
+      "Хатшепсут"
+    ],
+    "wrong_answers_de": [
+      "Sethos I",
+      "Thutmosis III",
+      "Hatschepsut"
+    ],
     "explanation_ru": "Абу-Симбел - два скальных храма, построенных Рамсесом II в XIII веке до н.э. Большой храм украшают четыре статуи Рамсеса высотой 20 метров. Дважды в год солнце освещает статуи богов внутри храма.",
     "explanation_de": "Abu Simbel sind zwei Felsentempel, die von Ramses II im 13. Jahrhundert v. Chr. erbaut wurden. Der Große Tempel ist mit vier Statuen von Ramses mit einer Höhe von 20 Metern geschmückt. Zweimal im Jahr beleuchtet die Sonne die Götterstatuen im Tempel.",
     "interesting_facts": [
@@ -297,16 +413,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "1264 BCE",
-    "tags": ["архитектура", "храмы", "фараоны"]
+    "tags": [
+      "архитектура",
+      "храмы",
+      "фараоны"
+    ]
   },
   {
     "id": 66,
     "question_ru": "Как звали главную супругу фараона Рамсеса II?",
     "question_de": "Wie hieß die Hauptgemahlin des Pharaos Ramses II?",
-    "answer_ru": "Нефертари",
-    "answer_de": "Nefertari",
-    "wrong_answers_ru": ["Нефертити", "Клеопатра", "Хатшепсут"],
-    "wrong_answers_de": ["Nefertiti", "Kleopatra", "Hatschepsut"],
+    "correct_answer_ru": "Нефертари",
+    "correct_answer_de": "Nefertari",
+    "wrong_answers_ru": [
+      "Нефертити",
+      "Клеопатра",
+      "Хатшепсут"
+    ],
+    "wrong_answers_de": [
+      "Nefertiti",
+      "Kleopatra",
+      "Hatschepsut"
+    ],
     "explanation_ru": "Нефертари была первой и любимой женой Рамсеса II. Её имя означает 'Прекраснейшая'. Рамсес построил для неё Малый храм в Абу-Симбеле. Её гробница в Долине Цариц - одна из красивейших в Египте.",
     "explanation_de": "Nefertari war die erste und geliebte Frau Ramses' II. Ihr Name bedeutet 'Die Schönste'. Ramses baute für sie den Kleinen Tempel in Abu Simbel. Ihr Grab im Tal der Königinnen ist eines der schönsten in Ägypten.",
     "interesting_facts": [
@@ -327,16 +455,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "1279-1255 BCE",
-    "tags": ["царицы", "династия", "семья"]
+    "tags": [
+      "царицы",
+      "династия",
+      "семья"
+    ]
   },
   {
     "id": 67,
     "question_ru": "Сколько лет правил фараон Рамсес II?",
     "question_de": "Wie viele Jahre regierte Pharao Ramses II?",
-    "answer_ru": "66 лет",
-    "answer_de": "66 Jahre",
-    "wrong_answers_ru": ["45 лет", "52 года", "80 лет"],
-    "wrong_answers_de": ["45 Jahre", "52 Jahre", "80 Jahre"],
+    "correct_answer_ru": "66 лет",
+    "correct_answer_de": "66 Jahre",
+    "wrong_answers_ru": [
+      "45 лет",
+      "52 года",
+      "80 лет"
+    ],
+    "wrong_answers_de": [
+      "45 Jahre",
+      "52 Jahre",
+      "80 Jahre"
+    ],
     "explanation_ru": "Рамсес II правил с 1279 по 1213 г. до н.э. - 66 лет. Он взошёл на трон в 25 лет и умер в 90 лет. За время правления он построил больше монументов, чем любой другой фараон, и имел более 100 детей.",
     "explanation_de": "Ramses II regierte von 1279 bis 1213 v. Chr. - 66 Jahre. Er bestieg den Thron mit 25 Jahren und starb mit 90 Jahren. Während seiner Herrschaft baute er mehr Monumente als jeder andere Pharao und hatte über 100 Kinder.",
     "interesting_facts": [
@@ -357,16 +497,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "1279-1213 BCE",
-    "tags": ["фараоны", "хронология", "правление"]
+    "tags": [
+      "фараоны",
+      "хронология",
+      "правление"
+    ]
   },
   {
     "id": 68,
     "question_ru": "Какой египетский бог взвешивал сердца умерших на суде Осириса?",
     "question_de": "Welcher ägyptische Gott wog die Herzen der Verstorbenen im Gericht des Osiris?",
-    "answer_ru": "Анубис",
-    "answer_de": "Anubis",
-    "wrong_answers_ru": ["Тот", "Маат", "Гор"],
-    "wrong_answers_de": ["Thoth", "Maat", "Horus"],
+    "correct_answer_ru": "Анубис",
+    "correct_answer_de": "Anubis",
+    "wrong_answers_ru": [
+      "Тот",
+      "Маат",
+      "Гор"
+    ],
+    "wrong_answers_de": [
+      "Thoth",
+      "Maat",
+      "Horus"
+    ],
     "explanation_ru": "Анубис был богом мумификации с головой шакала. Он взвешивал сердце умершего против пера Маат. Если сердце было тяжелее, его пожирало чудовище Амемет. Анубис также руководил мумификацией.",
     "explanation_de": "Anubis war der Gott der Mumifizierung mit dem Kopf eines Schakals. Er wog das Herz des Verstorbenen gegen die Feder der Maat. Wenn das Herz schwerer war, wurde es vom Monster Ammit verschlungen. Anubis leitete auch die Mumifizierung.",
     "interesting_facts": [
@@ -387,16 +539,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "боги", "загробный мир"]
+    "tags": [
+      "религия",
+      "боги",
+      "загробный мир"
+    ]
   },
   {
     "id": 69,
     "question_ru": "Как называлось египетское загробное царство?",
     "question_de": "Wie hieß das ägyptische Totenreich?",
-    "answer_ru": "Дуат",
-    "answer_de": "Duat",
-    "wrong_answers_ru": ["Аменти", "Ахет", "Атон"],
-    "wrong_answers_de": ["Amenti", "Achet", "Aton"],
+    "correct_answer_ru": "Дуат",
+    "correct_answer_de": "Duat",
+    "wrong_answers_ru": [
+      "Аменти",
+      "Ахет",
+      "Атон"
+    ],
+    "wrong_answers_de": [
+      "Amenti",
+      "Achet",
+      "Aton"
+    ],
     "explanation_ru": "Дуат - египетский загробный мир, лабиринт тёмных проходов с опасностями. Душа должна была пройти через 12 врат. В конце путешествия происходил суд Осириса. При успехе душа попадала в Поля Иалу - египетский рай.",
     "explanation_de": "Duat war die ägyptische Unterwelt, ein Labyrinth dunkler Gänge voller Gefahren. Die Seele musste durch 12 Tore gehen. Am Ende der Reise fand das Gericht des Osiris statt. Bei Erfolg gelangte die Seele in die Gefilde von Iaru - das ägyptische Paradies.",
     "interesting_facts": [
@@ -417,16 +581,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "загробный мир", "мифология"]
+    "tags": [
+      "религия",
+      "загробный мир",
+      "мифология"
+    ]
   },
   {
     "id": 70,
     "question_ru": "Какое животное было священным для бога Тота?",
     "question_de": "Welches Tier war dem Gott Thoth heilig?",
-    "answer_ru": "Ибис и павиан",
-    "answer_de": "Ibis und Pavian",
-    "wrong_answers_ru": ["Кошка и шакал", "Сокол и кобра", "Крокодил и бегемот"],
-    "wrong_answers_de": ["Katze und Schakal", "Falke und Kobra", "Krokodil und Nilpferd"],
+    "correct_answer_ru": "Ибис и павиан",
+    "correct_answer_de": "Ibis und Pavian",
+    "wrong_answers_ru": [
+      "Кошка и шакал",
+      "Сокол и кобра",
+      "Крокодил и бегемот"
+    ],
+    "wrong_answers_de": [
+      "Katze und Schakal",
+      "Falke und Kobra",
+      "Krokodil und Nilpferd"
+    ],
     "explanation_ru": "Тота изображали с головой ибиса - птицы с длинным изогнутым клювом, или в виде павиана. Ибисы ассоциировались с мудростью, а павианы 'приветствовали' восход солнца характерными криками на рассвете.",
     "explanation_de": "Thoth wurde mit dem Kopf eines Ibis - ein Vogel mit langem, gebogenem Schnabel - oder als Pavian dargestellt. Ibisse wurden mit Weisheit assoziiert, und Paviane 'begrüßten' den Sonnenaufgang mit charakteristischen Rufen bei Tagesanbruch.",
     "interesting_facts": [
@@ -447,6 +623,10 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "животные", "символика"]
+    "tags": [
+      "религия",
+      "животные",
+      "символика"
+    ]
   }
 ]

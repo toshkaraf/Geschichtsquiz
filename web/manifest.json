@@ -1,6 +1,6 @@
 {
-    "name": "quiz",
-    "short_name": "quiz",
+    "name": "Geschichtsquiz",
+    "short_name": "Geschichtsquiz",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

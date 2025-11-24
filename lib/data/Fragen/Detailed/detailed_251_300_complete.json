@@ -1,28 +1,22 @@
 [
   {
     "id": 251,
-    "question": "Кто был богом сновидений?",
+    "question_ru": "Кто был богом сновидений?",
     "question_de": "Wer war der Gott der Träume?",
-    "answer": "Морфей",
-    "answer_de": "Morpheus",
-    "wrong_answers": [
-      {
-        "ru": "Гипнос",
-        "de": "Hypnos"
-      },
-      {
-        "ru": "Танатос",
-        "de": "Thanatos"
-      },
-      {
-        "ru": "Гермес",
-        "de": "Hermes"
-      }
+    "correct_answer_ru": "Морфей",
+    "correct_answer_de": "Morpheus",
+    "wrong_answers_ru": [
+      "Гипнос",
+      "Танатос",
+      "Гермес"
     ],
-    "explanation": {
-      "ru": "Морфей был богом сновидений в древнегреческой мифологии, сыном Гипноса, бога сна. Он мог принимать любую форму во сне и появляться людям в их сновидениях. Морфей изображался с маковыми цветами и рогом, из которого лились сны. Его имя стало символом сна и сновидений.",
-      "de": "Morpheus war der Gott der Träume in der antiken griechischen Mythologie, Sohn des Hypnos, des Gottes des Schlafes. Er konnte jede Form im Traum annehmen und Menschen in ihren Träumen erscheinen. Morpheus wurde mit Mohnblumen und einem Horn dargestellt, aus dem Träume flossen. Sein Name wurde zum Symbol für Schlaf und Träume."
-    },
+    "wrong_answers_de": [
+      "Hypnos",
+      "Thanatos",
+      "Hermes"
+    ],
+    "explanation_ru": "Морфей был богом сновидений в древнегреческой мифологии, сыном Гипноса, бога сна. Он мог принимать любую форму во сне и появляться людям в их сновидениях. Морфей изображался с маковыми цветами и рогом, из которого лились сны. Его имя стало символом сна и сновидений.",
+    "explanation_de": "Morpheus war der Gott der Träume in der antiken griechischen Mythologie, Sohn des Hypnos, des Gottes des Schlafes. Er konnte jede Form im Traum annehmen und Menschen in ihren Träumen erscheinen. Morpheus wurde mit Mohnblumen und einem Horn dargestellt, aus dem Träume flossen. Sein Name wurde zum Symbol für Schlaf und Träume.",
     "interesting_facts": [
       {
         "ru": "Морфей был одним из тысячи сыновей Гипноса, каждый из которых отвечал за определённый тип снов. Морфей специализировался на человеческих формах, в то время как его братья Фобетор и Фантас создавали образы животных и неодушевлённых предметов. Вместе они помогали людям видеть разные сны.",
@@ -48,28 +42,22 @@
   },
   {
     "id": 252,
-    "question": "В каком году произошла битва при Херонее?",
+    "question_ru": "В каком году произошла битва при Херонее?",
     "question_de": "In welchem Jahr fand die Schlacht bei Chaironeia statt?",
-    "answer": "338 год до н.э.",
-    "answer_de": "338 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "337 год до н.э.",
-        "de": "337 v. Chr."
-      },
-      {
-        "ru": "339 год до н.э.",
-        "de": "339 v. Chr."
-      },
-      {
-        "ru": "340 год до н.э.",
-        "de": "340 v. Chr."
-      }
+    "correct_answer_ru": "338 год до н.э.",
+    "correct_answer_de": "338 v. Chr.",
+    "wrong_answers_ru": [
+      "337 год до н.э.",
+      "339 год до н.э.",
+      "340 год до н.э."
     ],
-    "explanation": {
-      "ru": "Битва при Херонее произошла в 338 году до н.э. между македонской армией Филиппа II и объединёнными силами Афин и Фив. Филипп одержал решительную победу, установив македонскую гегемонию над Грецией. В битве участвовал 18-летний Александр, который возглавил атаку на Священный отряд фиванцев.",
-      "de": "Die Schlacht bei Chaironeia fand 338 v. Chr. zwischen der makedonischen Armee Philipps II. und den vereinten Kräften Athens und Thebens statt. Philipp errang einen entscheidenden Sieg und etablierte die makedonische Hegemonie über Griechenland. In der Schlacht nahm der 18-jährige Alexander teil, der den Angriff auf die Heilige Schar der Thebaner anführte."
-    },
+    "wrong_answers_de": [
+      "337 v. Chr.",
+      "339 v. Chr.",
+      "340 v. Chr."
+    ],
+    "explanation_ru": "Битва при Херонее произошла в 338 году до н.э. между македонской армией Филиппа II и объединёнными силами Афин и Фив. Филипп одержал решительную победу, установив македонскую гегемонию над Грецией. В битве участвовал 18-летний Александр, который возглавил атаку на Священный отряд фиванцев.",
+    "explanation_de": "Die Schlacht bei Chaironeia fand 338 v. Chr. zwischen der makedonischen Armee Philipps II. und den vereinten Kräften Athens und Thebens statt. Philipp errang einen entscheidenden Sieg und etablierte die makedonische Hegemonie über Griechenland. In der Schlacht nahm der 18-jährige Alexander teil, der den Angriff auf die Heilige Schar der Thebaner anführte.",
     "interesting_facts": [
       {
         "ru": "Священный отряд фиванцев, состоявший из 300 гомосексуальных пар, был полностью уничтожен в битве. Все воины погибли, не отступив ни на шаг, что стало символом мужества и преданности. Филипп, увидев их тела, заплакал и сказал: 'Погибнет тот, кто подумает, что эти люди сделали или потерпели что-либо постыдное'.",
@@ -95,28 +83,22 @@
   },
   {
     "id": 253,
-    "question": "Какой философ основал эпикуреизм?",
+    "question_ru": "Какой философ основал эпикуреизм?",
     "question_de": "Welcher Philosoph begründete den Epikureismus?",
-    "answer": "Эпикур",
-    "answer_de": "Epikur",
-    "wrong_answers": [
-      {
-        "ru": "Зенон",
-        "de": "Zenon"
-      },
-      {
-        "ru": "Платон",
-        "de": "Platon"
-      },
-      {
-        "ru": "Аристотель",
-        "de": "Aristoteles"
-      }
+    "correct_answer_ru": "Эпикур",
+    "correct_answer_de": "Epikur",
+    "wrong_answers_ru": [
+      "Зенон",
+      "Платон",
+      "Аристотель"
     ],
-    "explanation": {
-      "ru": "Эпикур (341-270 гг. до н.э.) основал эпикуреизм - философскую школу, проповедовавшую стремление к счастью через отсутствие страданий. Он учил, что высшее благо - это удовольствие, понимаемое как отсутствие боли и душевного беспокойства. Эпикур основал школу в Афинах, названную 'Сад', где жили его последователи.",
-      "de": "Epikur (341-270 v. Chr.) begründete den Epikureismus - eine philosophische Schule, die das Streben nach Glück durch die Abwesenheit von Leiden predigte. Er lehrte, dass das höchste Gut das Vergnügen ist, verstanden als Abwesenheit von Schmerz und seelischer Unruhe. Epikur gründete eine Schule in Athen namens 'Garten', wo seine Anhänger lebten."
-    },
+    "wrong_answers_de": [
+      "Zenon",
+      "Platon",
+      "Aristoteles"
+    ],
+    "explanation_ru": "Эпикур (341-270 гг. до н.э.) основал эпикуреизм - философскую школу, проповедовавшую стремление к счастью через отсутствие страданий. Он учил, что высшее благо - это удовольствие, понимаемое как отсутствие боли и душевного беспокойства. Эпикур основал школу в Афинах, названную 'Сад', где жили его последователи.",
+    "explanation_de": "Epikur (341-270 v. Chr.) begründete den Epikureismus - eine philosophische Schule, die das Streben nach Glück durch die Abwesenheit von Leiden predigte. Er lehrte, dass das höchste Gut das Vergnügen ist, verstanden als Abwesenheit von Schmerz und seelischer Unruhe. Epikur gründete eine Schule in Athen namens 'Garten', wo seine Anhänger lebten.",
     "interesting_facts": [
       {
         "ru": "Эпикур учил, что нужно избегать излишеств, так как они ведут к страданиям. Он проповедовал умеренность и простую жизнь, дружбу и философские размышления. Его часто неправильно понимают как проповедника разврата, но на самом деле он призывал к аскетическому образу жизни.",
@@ -142,28 +124,22 @@
   },
   {
     "id": 254,
-    "question": "Кто была богиня памяти?",
+    "question_ru": "Кто была богиня памяти?",
     "question_de": "Wer war die Göttin des Gedächtnisses?",
-    "answer": "Мнемозина",
-    "answer_de": "Mnemosyne",
-    "wrong_answers": [
-      {
-        "ru": "Клио",
-        "de": "Klio"
-      },
-      {
-        "ru": "Урания",
-        "de": "Urania"
-      },
-      {
-        "ru": "Талия",
-        "de": "Thalia"
-      }
+    "correct_answer_ru": "Мнемозина",
+    "correct_answer_de": "Mnemosyne",
+    "wrong_answers_ru": [
+      "Клио",
+      "Урания",
+      "Талия"
     ],
-    "explanation": {
-      "ru": "Мнемозина была богиней памяти в древнегреческой мифологии, титанидой, дочерью Урана и Геи. Она была матерью девяти муз, родив их от Зевса после девяти ночей любви. Мнемозина олицетворяла память как основу знания и искусства. Её имя означает 'память' и связано с мнемоникой - искусством запоминания.",
-      "de": "Mnemosyne war die Göttin des Gedächtnisses in der antiken griechischen Mythologie, eine Titanin, Tochter des Uranos und der Gaia. Sie war die Mutter der neun Musen, die sie von Zeus nach neun Nächten der Liebe gebar. Mnemosyne verkörperte das Gedächtnis als Grundlage von Wissen und Kunst. Ihr Name bedeutet 'Gedächtnis' und ist mit Mnemonik verbunden - der Kunst des Erinnerns."
-    },
+    "wrong_answers_de": [
+      "Klio",
+      "Urania",
+      "Thalia"
+    ],
+    "explanation_ru": "Мнемозина была богиней памяти в древнегреческой мифологии, титанидой, дочерью Урана и Геи. Она была матерью девяти муз, родив их от Зевса после девяти ночей любви. Мнемозина олицетворяла память как основу знания и искусства. Её имя означает 'память' и связано с мнемоникой - искусством запоминания.",
+    "explanation_de": "Mnemosyne war die Göttin des Gedächtnisses in der antiken griechischen Mythologie, eine Titanin, Tochter des Uranos und der Gaia. Sie war die Mutter der neun Musen, die sie von Zeus nach neun Nächten der Liebe gebar. Mnemosyne verkörperte das Gedächtnis als Grundlage von Wissen und Kunst. Ihr Name bedeutet 'Gedächtnis' und ist mit Mnemonik verbunden - der Kunst des Erinnerns.",
     "interesting_facts": [
       {
         "ru": "Мнемозина провела с Зевсом девять ночей подряд, и каждая ночь принесла одну из муз. Музы стали покровительницами различных искусств и наук: истории, трагедии, комедии, музыки, танца, астрономии и других. Без памяти, которую олицетворяла Мнемозина, не было бы искусства.",
@@ -189,28 +165,22 @@
   },
   {
     "id": 255,
-    "question": "Какой учёный измерил окружность Земли?",
+    "question_ru": "Какой учёный измерил окружность Земли?",
     "question_de": "Welcher Wissenschaftler maß den Umfang der Erde?",
-    "answer": "Эратосфен",
-    "answer_de": "Eratosthenes",
-    "wrong_answers": [
-      {
-        "ru": "Птолемей",
-        "de": "Ptolemaios"
-      },
-      {
-        "ru": "Аристарх",
-        "de": "Aristarch"
-      },
-      {
-        "ru": "Гиппарх",
-        "de": "Hipparchos"
-      }
+    "correct_answer_ru": "Эратосфен",
+    "correct_answer_de": "Eratosthenes",
+    "wrong_answers_ru": [
+      "Птолемей",
+      "Аристарх",
+      "Гиппарх"
     ],
-    "explanation": {
-      "ru": "Эратосфен (ок. 276-194 гг. до н.э.) измерил окружность Земли с удивительной точностью. Он заметил, что в день летнего солнцестояния в Сиене (Асуане) солнце светило прямо в колодец, а в Александрии отбрасывало тень. Измерив угол тени и расстояние между городами, он вычислил окружность Земли.",
-      "de": "Eratosthenes (ca. 276-194 v. Chr.) maß den Umfang der Erde mit erstaunlicher Genauigkeit. Er bemerkte, dass am Tag der Sommersonnenwende in Syene (Assuan) die Sonne direkt in einen Brunnen schien, während sie in Alexandria einen Schatten warf. Durch Messen des Schattenwinkels und der Entfernung zwischen den Städten berechnete er den Umfang der Erde."
-    },
+    "wrong_answers_de": [
+      "Ptolemaios",
+      "Aristarch",
+      "Hipparchos"
+    ],
+    "explanation_ru": "Эратосфен (ок. 276-194 гг. до н.э.) измерил окружность Земли с удивительной точностью. Он заметил, что в день летнего солнцестояния в Сиене (Асуане) солнце светило прямо в колодец, а в Александрии отбрасывало тень. Измерив угол тени и расстояние между городами, он вычислил окружность Земли.",
+    "explanation_de": "Eratosthenes (ca. 276-194 v. Chr.) maß den Umfang der Erde mit erstaunlicher Genauigkeit. Er bemerkte, dass am Tag der Sommersonnenwende in Syene (Assuan) die Sonne direkt in einen Brunnen schien, während sie in Alexandria einen Schatten warf. Durch Messen des Schattenwinkels und der Entfernung zwischen den Städten berechnete er den Umfang der Erde.",
     "interesting_facts": [
       {
         "ru": "Эратосфен вычислил окружность Земли примерно в 39 375 км, что очень близко к современному значению 40 075 км. Его ошибка составила менее 2%! Он использовал простые геометрические принципы и точные измерения расстояний. Это было одно из величайших достижений античной науки.",
@@ -236,28 +206,22 @@
   },
   {
     "id": 256,
-    "question": "Кто была богиня радуги?",
+    "question_ru": "Кто была богиня радуги?",
     "question_de": "Wer war die Göttin des Regenbogens?",
-    "answer": "Ирида",
-    "answer_de": "Iris",
-    "wrong_answers": [
-      {
-        "ru": "Гера",
-        "de": "Hera"
-      },
-      {
-        "ru": "Афродита",
-        "de": "Aphrodite"
-      },
-      {
-        "ru": "Артемида",
-        "de": "Artemis"
-      }
+    "correct_answer_ru": "Ирида",
+    "correct_answer_de": "Iris",
+    "wrong_answers_ru": [
+      "Гера",
+      "Афродита",
+      "Артемида"
     ],
-    "explanation": {
-      "ru": "Ирида была богиней радуги и вестницей богов в древнегреческой мифологии, дочерью Тавманта и Электры. Она изображалась крылатой женщиной, которая могла перемещаться по радуге между небом и землёй. Ирида служила посланницей богов, особенно Геры, и связывала богов с людьми.",
-      "de": "Iris war die Göttin des Regenbogens und Botin der Götter in der antiken griechischen Mythologie, Tochter des Thaumas und der Elektra. Sie wurde als geflügelte Frau dargestellt, die sich auf dem Regenbogen zwischen Himmel und Erde bewegen konnte. Iris diente als Botin der Götter, besonders der Hera, und verband Götter mit Menschen."
-    },
+    "wrong_answers_de": [
+      "Hera",
+      "Aphrodite",
+      "Artemis"
+    ],
+    "explanation_ru": "Ирида была богиней радуги и вестницей богов в древнегреческой мифологии, дочерью Тавманта и Электры. Она изображалась крылатой женщиной, которая могла перемещаться по радуге между небом и землёй. Ирида служила посланницей богов, особенно Геры, и связывала богов с людьми.",
+    "explanation_de": "Iris war die Göttin des Regenbogens und Botin der Götter in der antiken griechischen Mythologie, Tochter des Thaumas und der Elektra. Sie wurde als geflügelte Frau dargestellt, die sich auf dem Regenbogen zwischen Himmel und Erde bewegen konnte. Iris diente als Botin der Götter, besonders der Hera, und verband Götter mit Menschen.",
     "interesting_facts": [
       {
         "ru": "Ирида была сестрой гарпий и океанид, дочерью морских божеств. Она изображалась с золотыми крыльями и кувшином воды, которой она усыпляла тех, кто нарушал клятвы. Ирида могла принимать любую форму и была быстрее ветра в своих перемещениях.",
@@ -283,28 +247,22 @@
   },
   {
     "id": 257,
-    "question": "Какой астроном предложил гелиоцентризм?",
+    "question_ru": "Какой астроном предложил гелиоцентризм?",
     "question_de": "Welcher Astronom schlug das Heliozentrismus vor?",
-    "answer": "Аристарх Самосский",
-    "answer_de": "Aristarchos von Samos",
-    "wrong_answers": [
-      {
-        "ru": "Птолемей",
-        "de": "Ptolemaios"
-      },
-      {
-        "ru": "Гиппарх",
-        "de": "Hipparchos"
-      },
-      {
-        "ru": "Эратосфен",
-        "de": "Eratosthenes"
-      }
+    "correct_answer_ru": "Аристарх Самосский",
+    "correct_answer_de": "Aristarchos von Samos",
+    "wrong_answers_ru": [
+      "Птолемей",
+      "Гиппарх",
+      "Эратосфен"
     ],
-    "explanation": {
-      "ru": "Аристарх Самосский (ок. 310-230 гг. до н.э.) первым предложил гелиоцентрическую модель Вселенной, где Солнце находится в центре, а Земля вращается вокруг него. Его идеи опередили время на 1800 лет, но не были приняты современниками. Аристарх также пытался измерить расстояния до Солнца и Луны.",
-      "de": "Aristarchos von Samos (ca. 310-230 v. Chr.) schlug als erster das heliozentrische Modell des Universums vor, bei dem die Sonne im Zentrum steht und die Erde sich um sie dreht. Seine Ideen waren ihrer Zeit um 1800 Jahre voraus, wurden aber von Zeitgenossen nicht akzeptiert. Aristarchos versuchte auch, die Entfernungen zur Sonne und zum Mond zu messen."
-    },
+    "wrong_answers_de": [
+      "Ptolemaios",
+      "Hipparchos",
+      "Eratosthenes"
+    ],
+    "explanation_ru": "Аристарх Самосский (ок. 310-230 гг. до н.э.) первым предложил гелиоцентрическую модель Вселенной, где Солнце находится в центре, а Земля вращается вокруг него. Его идеи опередили время на 1800 лет, но не были приняты современниками. Аристарх также пытался измерить расстояния до Солнца и Луны.",
+    "explanation_de": "Aristarchos von Samos (ca. 310-230 v. Chr.) schlug als erster das heliozentrische Modell des Universums vor, bei dem die Sonne im Zentrum steht und die Erde sich um sie dreht. Seine Ideen waren ihrer Zeit um 1800 Jahre voraus, wurden aber von Zeitgenossen nicht akzeptiert. Aristarchos versuchte auch, die Entfernungen zur Sonne und zum Mond zu messen.",
     "interesting_facts": [
       {
         "ru": "Аристарх вычислил, что Солнце намного больше Земли (примерно в 19 раз, хотя правильное значение - в 109 раз). Он также определил, что Солнце дальше от Земли, чем Луна. Эти расчёты привели его к выводу, что логичнее, чтобы маленькая Земля вращалась вокруг большого Солнца.",
@@ -330,28 +288,22 @@
   },
   {
     "id": 258,
-    "question": "Кто была богиня ночи?",
+    "question_ru": "Кто была богиня ночи?",
     "question_de": "Wer war die Göttin der Nacht?",
-    "answer": "Никта",
-    "answer_de": "Nyx",
-    "wrong_answers": [
-      {
-        "ru": "Геката",
-        "de": "Hekate"
-      },
-      {
-        "ru": "Артемида",
-        "de": "Artemis"
-      },
-      {
-        "ru": "Селена",
-        "de": "Selene"
-      }
+    "correct_answer_ru": "Никта",
+    "correct_answer_de": "Nyx",
+    "wrong_answers_ru": [
+      "Геката",
+      "Артемида",
+      "Селена"
     ],
-    "explanation": {
-      "ru": "Никта была богиней ночи в древнегреческой мифологии, одной из первозданных богинь, родившейся из Хаоса. Она была матерью многих божеств, включая Гипноса (сна), Танатоса (смерти), Немезиды (мести) и других. Никта изображалась в тёмных одеждах, часто в колеснице, запряжённой чёрными лошадьми.",
-      "de": "Nyx war die Göttin der Nacht in der antiken griechischen Mythologie, eine der ursprünglichen Göttinnen, die aus dem Chaos geboren wurde. Sie war die Mutter vieler Gottheiten, einschließlich Hypnos (Schlaf), Thanatos (Tod), Nemesis (Rache) und anderer. Nyx wurde in dunklen Gewändern dargestellt, oft in einem Wagen, der von schwarzen Pferden gezogen wurde."
-    },
+    "wrong_answers_de": [
+      "Hekate",
+      "Artemis",
+      "Selene"
+    ],
+    "explanation_ru": "Никта была богиней ночи в древнегреческой мифологии, одной из первозданных богинь, родившейся из Хаоса. Она была матерью многих божеств, включая Гипноса (сна), Танатоса (смерти), Немезиды (мести) и других. Никта изображалась в тёмных одеждах, часто в колеснице, запряжённой чёрными лошадьми.",
+    "explanation_de": "Nyx war die Göttin der Nacht in der antiken griechischen Mythologie, eine der ursprünglichen Göttinnen, die aus dem Chaos geboren wurde. Sie war die Mutter vieler Gottheiten, einschließlich Hypnos (Schlaf), Thanatos (Tod), Nemesis (Rache) und anderer. Nyx wurde in dunklen Gewändern dargestellt, oft in einem Wagen, der von schwarzen Pferden gezogen wurde.",
     "interesting_facts": [
       {
         "ru": "Никта была настолько могущественной, что даже Зевс боялся её гнева. В 'Илиаде' Гомера Гера просит Гипноса усыпить Зевса, но тот отказывается, боясь гнева Никты. Когда Зевс всё же разгневался, Никта защитила сына, и Зевс отступил, не желая конфликта с ней.",
@@ -377,28 +329,22 @@
   },
   {
     "id": 259,
-    "question": "Какой философ учил в бочке?",
+    "question_ru": "Какой философ учил в бочке?",
     "question_de": "Welcher Philosoph lehrte in einem Fass?",
-    "answer": "Диоген",
-    "answer_de": "Diogenes",
-    "wrong_answers": [
-      {
-        "ru": "Сократ",
-        "de": "Sokrates"
-      },
-      {
-        "ru": "Антисфен",
-        "de": "Antisthenes"
-      },
-      {
-        "ru": "Кратет",
-        "de": "Krates"
-      }
+    "correct_answer_ru": "Диоген",
+    "correct_answer_de": "Diogenes",
+    "wrong_answers_ru": [
+      "Сократ",
+      "Антисфен",
+      "Кратет"
     ],
-    "explanation": {
-      "ru": "Диоген Синопский (ок. 412-323 гг. до н.э.) был философом-киником, который жил в бочке (пифосе) на афинской агоре. Он проповедовал аскетический образ жизни, свободу от общественных условностей и возврат к природе. Диоген стал символом кинической философии и независимости от материальных благ.",
-      "de": "Diogenes von Sinope (ca. 412-323 v. Chr.) war ein kynischer Philosoph, der in einem Fass (Pithos) auf der Athener Agora lebte. Er predigte einen asketischen Lebensstil, Freiheit von gesellschaftlichen Konventionen und Rückkehr zur Natur. Diogenes wurde zum Symbol der kynischen Philosophie und Unabhängigkeit von materiellem Wohlstand."
-    },
+    "wrong_answers_de": [
+      "Sokrates",
+      "Antisthenes",
+      "Krates"
+    ],
+    "explanation_ru": "Диоген Синопский (ок. 412-323 гг. до н.э.) был философом-киником, который жил в бочке (пифосе) на афинской агоре. Он проповедовал аскетический образ жизни, свободу от общественных условностей и возврат к природе. Диоген стал символом кинической философии и независимости от материальных благ.",
+    "explanation_de": "Diogenes von Sinope (ca. 412-323 v. Chr.) war ein kynischer Philosoph, der in einem Fass (Pithos) auf der Athener Agora lebte. Er predigte einen asketischen Lebensstil, Freiheit von gesellschaftlichen Konventionen und Rückkehr zur Natur. Diogenes wurde zum Symbol der kynischen Philosophie und Unabhängigkeit von materiellem Wohlstand.",
     "interesting_facts": [
       {
         "ru": "Диоген искал 'человека с фонарём' среди бела дня, демонстрируя, что настоящих людей мало. Когда Александр Македонский спросил, что он может для него сделать, Диоген ответил: 'Отойди, не заслоняй мне солнце'. Эта история показывает его независимость даже перед лицом власти.",
@@ -424,28 +370,22 @@
   },
   {
     "id": 260,
-    "question": "Кто был богом леса?",
+    "question_ru": "Кто был богом леса?",
     "question_de": "Wer war der Gott des Waldes?",
-    "answer": "Пан",
-    "answer_de": "Pan",
-    "wrong_answers": [
-      {
-        "ru": "Дионис",
-        "de": "Dionysos"
-      },
-      {
-        "ru": "Гермес",
-        "de": "Hermes"
-      },
-      {
-        "ru": "Аполлон",
-        "de": "Apollon"
-      }
+    "correct_answer_ru": "Пан",
+    "correct_answer_de": "Pan",
+    "wrong_answers_ru": [
+      "Дионис",
+      "Гермес",
+      "Аполлон"
     ],
-    "explanation": {
-      "ru": "Пан был богом лесов, пастбищ, стад и дикой природы в древнегреческой мифологии. Он изображался с козлиными ногами, рогами и бородой, играющим на свирели. Пан был сыном Гермеса и нимфы Дриопы. Он жил в Аркадии и был покровителем пастухов и охотников.",
-      "de": "Pan war der Gott der Wälder, Weiden, Herden und Wildnis in der antiken griechischen Mythologie. Er wurde mit Ziegenbeinen, Hörnern und Bart dargestellt, wie er auf der Flöte spielte. Pan war der Sohn des Hermes und der Nymphe Dryope. Er lebte in Arkadien und war der Schutzpatron der Hirten und Jäger."
-    },
+    "wrong_answers_de": [
+      "Dionysos",
+      "Hermes",
+      "Apollon"
+    ],
+    "explanation_ru": "Пан был богом лесов, пастбищ, стад и дикой природы в древнегреческой мифологии. Он изображался с козлиными ногами, рогами и бородой, играющим на свирели. Пан был сыном Гермеса и нимфы Дриопы. Он жил в Аркадии и был покровителем пастухов и охотников.",
+    "explanation_de": "Pan war der Gott der Wälder, Weiden, Herden und Wildnis in der antiken griechischen Mythologie. Er wurde mit Ziegenbeinen, Hörnern und Bart dargestellt, wie er auf der Flöte spielte. Pan war der Sohn des Hermes und der Nymphe Dryope. Er lebte in Arkadien und war der Schutzpatron der Hirten und Jäger.",
     "interesting_facts": [
       {
         "ru": "Пан был известен своей способностью вызывать внезапный, необъяснимый страх у людей и животных - отсюда слово 'паника'. Когда он играл на своей свирели, все вокруг впадали в состояние ужаса или экстаза. Его музыка могла как успокаивать, так и пугать.",
@@ -471,28 +411,22 @@
   },
   {
     "id": 261,
-    "question": "Какой драматург написал 'Лисистрату'?",
+    "question_ru": "Какой драматург написал 'Лисистрату'?",
     "question_de": "Welcher Dramatiker schrieb 'Lysistrata'?",
-    "answer": "Аристофан",
-    "answer_de": "Aristophanes",
-    "wrong_answers": [
-      {
-        "ru": "Софокл",
-        "de": "Sophokles"
-      },
-      {
-        "ru": "Еврипид",
-        "de": "Euripides"
-      },
-      {
-        "ru": "Эсхил",
-        "de": "Aischylos"
-      }
+    "correct_answer_ru": "Аристофан",
+    "correct_answer_de": "Aristophanes",
+    "wrong_answers_ru": [
+      "Софокл",
+      "Еврипид",
+      "Эсхил"
     ],
-    "explanation": {
-      "ru": "Аристофан (ок. 446-386 гг. до н.э.) написал комедию 'Лисистрата' в 411 году до н.э. Пьеса рассказывает о женщинах, которые отказываются от интимных отношений с мужьями, чтобы заставить их прекратить Пелопоннесскую войну. Это одна из самых известных антивоенных комедий в истории театра.",
-      "de": "Aristophanes (ca. 446-386 v. Chr.) schrieb die Komödie 'Lysistrata' im Jahr 411 v. Chr. Das Stück erzählt von Frauen, die sich weigern, intime Beziehungen mit ihren Ehemännern zu haben, um sie zu zwingen, den Peloponnesischen Krieg zu beenden. Es ist eine der bekanntesten antimilitaristischen Komödien in der Theatergeschichte."
-    },
+    "wrong_answers_de": [
+      "Sophokles",
+      "Euripides",
+      "Aischylos"
+    ],
+    "explanation_ru": "Аристофан (ок. 446-386 гг. до н.э.) написал комедию 'Лисистрата' в 411 году до н.э. Пьеса рассказывает о женщинах, которые отказываются от интимных отношений с мужьями, чтобы заставить их прекратить Пелопоннесскую войну. Это одна из самых известных антивоенных комедий в истории театра.",
+    "explanation_de": "Aristophanes (ca. 446-386 v. Chr.) schrieb die Komödie 'Lysistrata' im Jahr 411 v. Chr. Das Stück erzählt von Frauen, die sich weigern, intime Beziehungen mit ihren Ehemännern zu haben, um sie zu zwingen, den Peloponnesischen Krieg zu beenden. Es ist eine der bekanntesten antimilitaristischen Komödien in der Theatergeschichte.",
     "interesting_facts": [
       {
         "ru": "Аристофан написал около 40 комедий, но до нас дошло только 11. Его пьесы были сатирическими и критиковали политиков, философов и общественные проблемы. 'Лисистрата' была написана во время войны, когда Афины переживали кризис, и призывала к миру.",
@@ -518,28 +452,22 @@
   },
   {
     "id": 262,
-    "question": "Кто была богиня мщения?",
+    "question_ru": "Кто была богиня мщения?",
     "question_de": "Wer war die Göttin der Rache?",
-    "answer": "Немесида",
-    "answer_de": "Nemesis",
-    "wrong_answers": [
-      {
-        "ru": "Фемида",
-        "de": "Themis"
-      },
-      {
-        "ru": "Эрида",
-        "de": "Eris"
-      },
-      {
-        "ru": "Алекто",
-        "de": "Alekto"
-      }
+    "correct_answer_ru": "Немесида",
+    "correct_answer_de": "Nemesis",
+    "wrong_answers_ru": [
+      "Фемида",
+      "Эрида",
+      "Алекто"
     ],
-    "explanation": {
-      "ru": "Немесида была богиней мщения, возмездия и справедливого наказания в древнегреческой мифологии. Она наказывала тех, кто проявлял гордыню (гибрис) перед богами или получал незаслуженное счастье. Немесида изображалась с весами, мечом или плетью и символизировала божественное правосудие.",
-      "de": "Nemesis war die Göttin der Rache, Vergeltung und gerechten Bestrafung in der antiken griechischen Mythologie. Sie bestrafte diejenigen, die Stolz (Hybris) vor den Göttern zeigten oder unverdientes Glück erhielten. Nemesis wurde mit Waage, Schwert oder Peitsche dargestellt und symbolisierte göttliche Gerechtigkeit."
-    },
+    "wrong_answers_de": [
+      "Themis",
+      "Eris",
+      "Alekto"
+    ],
+    "explanation_ru": "Немесида была богиней мщения, возмездия и справедливого наказания в древнегреческой мифологии. Она наказывала тех, кто проявлял гордыню (гибрис) перед богами или получал незаслуженное счастье. Немесида изображалась с весами, мечом или плетью и символизировала божественное правосудие.",
+    "explanation_de": "Nemesis war die Göttin der Rache, Vergeltung und gerechten Bestrafung in der antiken griechischen Mythologie. Sie bestrafte diejenigen, die Stolz (Hybris) vor den Göttern zeigten oder unverdientes Glück erhielten. Nemesis wurde mit Waage, Schwert oder Peitsche dargestellt und symbolisierte göttliche Gerechtigkeit.",
     "interesting_facts": [
       {
         "ru": "Немесида была дочерью Никты (ночи) и олицетворяла неизбежное возмездие за неправильные поступки. Она следила за тем, чтобы никто не получал больше счастья, чем заслуживал. Её имя означает 'распределение' и связано с идеей справедливого воздаяния.",
@@ -565,28 +493,22 @@
   },
   {
     "id": 263,
-    "question": "Какой историк написал 'Пелопоннесскую войну'?",
+    "question_ru": "Какой историк написал 'Пелопоннесскую войну'?",
     "question_de": "Welcher Historiker schrieb den 'Peloponnesischen Krieg'?",
-    "answer": "Фукидид",
-    "answer_de": "Thukydides",
-    "wrong_answers": [
-      {
-        "ru": "Геродот",
-        "de": "Herodot"
-      },
-      {
-        "ru": "Ксенофонт",
-        "de": "Xenophon"
-      },
-      {
-        "ru": "Полибий",
-        "de": "Polybios"
-      }
+    "correct_answer_ru": "Фукидид",
+    "correct_answer_de": "Thukydides",
+    "wrong_answers_ru": [
+      "Геродот",
+      "Ксенофонт",
+      "Полибий"
     ],
-    "explanation": {
-      "ru": "Фукидид (ок. 460-400 гг. до н.э.) написал 'Историю Пелопоннесской войны' - одно из величайших исторических произведений античности. Он был участником войны и писал как очевидец событий. Фукидид стремился к объективности и точности, избегая мифов и легенд, в отличие от Геродота.",
-      "de": "Thukydides (ca. 460-400 v. Chr.) schrieb die 'Geschichte des Peloponnesischen Krieges' - eines der größten historischen Werke der Antike. Er war Teilnehmer des Krieges und schrieb als Augenzeuge der Ereignisse. Thukydides strebte nach Objektivität und Genauigkeit und vermied Mythen und Legenden, im Gegensatz zu Herodot."
-    },
+    "wrong_answers_de": [
+      "Herodot",
+      "Xenophon",
+      "Polybios"
+    ],
+    "explanation_ru": "Фукидид (ок. 460-400 гг. до н.э.) написал 'Историю Пелопоннесской войны' - одно из величайших исторических произведений античности. Он был участником войны и писал как очевидец событий. Фукидид стремился к объективности и точности, избегая мифов и легенд, в отличие от Геродота.",
+    "explanation_de": "Thukydides (ca. 460-400 v. Chr.) schrieb die 'Geschichte des Peloponnesischen Krieges' - eines der größten historischen Werke der Antike. Er war Teilnehmer des Krieges und schrieb als Augenzeuge der Ereignisse. Thukydides strebte nach Objektivität und Genauigkeit und vermied Mythen und Legenden, im Gegensatz zu Herodot.",
     "interesting_facts": [
       {
         "ru": "Фукидид был афинским стратегом, но был изгнан за неудачу в битве при Амфиполе в 424 году до н.э. Изгнание позволило ему путешествовать и собирать информацию с обеих сторон конфликта. Его работа осталась незавершённой - он умер до окончания войны.",
@@ -612,28 +534,22 @@
   },
   {
     "id": 264,
-    "question": "Кто был богом страха?",
+    "question_ru": "Кто был богом страха?",
     "question_de": "Wer war der Gott der Furcht?",
-    "answer": "Фобос",
-    "answer_de": "Phobos",
-    "wrong_answers": [
-      {
-        "ru": "Деймос",
-        "de": "Deimos"
-      },
-      {
-        "ru": "Арес",
-        "de": "Ares"
-      },
-      {
-        "ru": "Энио",
-        "de": "Enyo"
-      }
+    "correct_answer_ru": "Фобос",
+    "correct_answer_de": "Phobos",
+    "wrong_answers_ru": [
+      "Деймос",
+      "Арес",
+      "Энио"
     ],
-    "explanation": {
-      "ru": "Фобос был богом страха и паники в древнегреческой мифологии, сыном Ареса, бога войны, и Афродиты. Он сопровождал отца в битвах, вселяя ужас во врагов. Фобос изображался на щите Ареса вместе со своим братом Деймосом (ужасом). Его имя дало название фобии - патологическому страху.",
-      "de": "Phobos war der Gott der Furcht und Panik in der antiken griechischen Mythologie, Sohn des Ares, des Gottes des Krieges, und der Aphrodite. Er begleitete seinen Vater in Schlachten und verbreitete Schrecken unter den Feinden. Phobos wurde auf dem Schild des Ares zusammen mit seinem Bruder Deimos (Schrecken) dargestellt. Sein Name gab der Phobie ihren Namen - pathologische Angst."
-    },
+    "wrong_answers_de": [
+      "Deimos",
+      "Ares",
+      "Enyo"
+    ],
+    "explanation_ru": "Фобос был богом страха и паники в древнегреческой мифологии, сыном Ареса, бога войны, и Афродиты. Он сопровождал отца в битвах, вселяя ужас во врагов. Фобос изображался на щите Ареса вместе со своим братом Деймосом (ужасом). Его имя дало название фобии - патологическому страху.",
+    "explanation_de": "Phobos war der Gott der Furcht und Panik in der antiken griechischen Mythologie, Sohn des Ares, des Gottes des Krieges, und der Aphrodite. Er begleitete seinen Vater in Schlachten und verbreitete Schrecken unter den Feinden. Phobos wurde auf dem Schild des Ares zusammen mit seinem Bruder Deimos (Schrecken) dargestellt. Sein Name gab der Phobie ihren Namen - pathologische Angst.",
     "interesting_facts": [
       {
         "ru": "Фобос и Деймос были постоянными спутниками Ареса на поле боя. Они олицетворяли эмоциональные аспекты войны - страх и ужас, которые испытывали воины. В римской мифологии им соответствовали Метус (страх) и Паллор (бледность от ужаса).",
@@ -659,28 +575,22 @@
   },
   {
     "id": 265,
-    "question": "Какой философ утверждал 'всё течёт'?",
+    "question_ru": "Какой философ утверждал 'всё течёт'?",
     "question_de": "Welcher Philosoph behauptete 'alles fließt'?",
-    "answer": "Гераклит",
-    "answer_de": "Heraklit",
-    "wrong_answers": [
-      {
-        "ru": "Парменид",
-        "de": "Parmenides"
-      },
-      {
-        "ru": "Зенон",
-        "de": "Zenon"
-      },
-      {
-        "ru": "Анаксимандр",
-        "de": "Anaximander"
-      }
+    "correct_answer_ru": "Гераклит",
+    "correct_answer_de": "Heraklit",
+    "wrong_answers_ru": [
+      "Парменид",
+      "Зенон",
+      "Анаксимандр"
     ],
-    "explanation": {
-      "ru": "Гераклит Эфесский (ок. 535-475 гг. до н.э.) утверждал, что 'всё течёт' (πάντα ῥεῖ) и 'нельзя войти в одну и ту же реку дважды'. Он считал, что мир находится в постоянном изменении и движении. Гераклит также учил, что огонь - первоначало всего сущего, и что всё возникает из борьбы противоположностей.",
-      "de": "Heraklit von Ephesos (ca. 535-475 v. Chr.) behauptete, dass 'alles fließt' (πάντα ῥεῖ) und man 'nicht zweimal in denselben Fluss steigen kann'. Er glaubte, dass die Welt in ständiger Veränderung und Bewegung ist. Heraklit lehrte auch, dass Feuer der Urgrund aller Dinge ist und dass alles aus dem Kampf der Gegensätze entsteht."
-    },
+    "wrong_answers_de": [
+      "Parmenides",
+      "Zenon",
+      "Anaximander"
+    ],
+    "explanation_ru": "Гераклит Эфесский (ок. 535-475 гг. до н.э.) утверждал, что 'всё течёт' (πάντα ῥεῖ) и 'нельзя войти в одну и ту же реку дважды'. Он считал, что мир находится в постоянном изменении и движении. Гераклит также учил, что огонь - первоначало всего сущего, и что всё возникает из борьбы противоположностей.",
+    "explanation_de": "Heraklit von Ephesos (ca. 535-475 v. Chr.) behauptete, dass 'alles fließt' (πάντα ῥεῖ) und man 'nicht zweimal in denselben Fluss steigen kann'. Er glaubte, dass die Welt in ständiger Veränderung und Bewegung ist. Heraklit lehrte auch, dass Feuer der Urgrund aller Dinge ist und dass alles aus dem Kampf der Gegensätze entsteht.",
     "interesting_facts": [
       {
         "ru": "Гераклита называли 'Тёмным' из-за сложности и загадочности его высказываний. Он писал афоризмами и метафорами, что делало его учение трудным для понимания. Его знаменитое изречение 'всё течёт' стало символом постоянства изменений в мире.",
@@ -705,4 +615,3 @@
     ]
   }
 ]
-

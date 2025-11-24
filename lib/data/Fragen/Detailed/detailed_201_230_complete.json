@@ -1,28 +1,22 @@
 [
   {
     "id": 201,
-    "question": "Какой греческий философ был учителем Александра Македонского?",
+    "question_ru": "Какой греческий философ был учителем Александра Македонского?",
     "question_de": "Welcher griechische Philosoph war der Lehrer von Alexander dem Großen?",
-    "answer": "Аристотель",
-    "answer_de": "Aristoteles",
-    "wrong_answers": [
-      {
-        "ru": "Платон",
-        "de": "Platon"
-      },
-      {
-        "ru": "Сократ",
-        "de": "Sokrates"
-      },
-      {
-        "ru": "Диоген",
-        "de": "Diogenes"
-      }
+    "correct_answer_ru": "Аристотель",
+    "correct_answer_de": "Aristoteles",
+    "wrong_answers_ru": [
+      "Платон",
+      "Сократ",
+      "Диоген"
     ],
-    "explanation": {
-      "ru": "Аристотель (384-322 гг. до н.э.) был личным наставником юного Александра Македонского с 343 по 340 год до н.э., когда будущему завоевателю было от 13 до 16 лет. Филипп II, отец Александра, пригласил Аристотеля в Македонию специально для обучения своего сына и других молодых аристократов. Обучение проходило в уединённом месте - в Миезе, в тенистой роще храма нимф. Аристотель преподавал Александру философию, этику, политику, медицину, географию и литературу. Особое внимание уделялось изучению 'Илиады' Гомера - Александр всю жизнь носил с собой экземпляр, отредактированный Аристотелем, и спал с ним под подушкой вместе с кинжалом. Философ привил ученику любовь к науке и исследованиям - во время своих походов Александр отправлял Аристотелю образцы редких растений, животных и минералов из завоёванных земель. Однако со временем их отношения охладели. После казни племянника Аристотеля, Каллисфена, который был официальным историографом похода, но критиковал возвеличивание Александра, философ разочаровался в своём ученике. Аристотель считал, что Александр предал греческие ценности, приняв персидские обычаи и провозгласив себя богом. Тем не менее, влияние Аристотеля на формирование личности великого полководца было огромным.",
-      "de": "Aristoteles (384-322 v. Chr.) war der persönliche Lehrer des jungen Alexander des Großen von 343 bis 340 v. Chr., als der zukünftige Eroberer zwischen 13 und 16 Jahre alt war. Philipp II., Alexanders Vater, lud Aristoteles speziell nach Makedonien ein, um seinen Sohn und andere junge Aristokraten zu unterrichten. Der Unterricht fand an einem abgelegenen Ort statt - in Mieza, in einem schattigen Hain des Nymphentempels. Aristoteles lehrte Alexander Philosophie, Ethik, Politik, Medizin, Geographie und Literatur. Besondere Aufmerksamkeit wurde dem Studium von Homers 'Ilias' gewidmet - Alexander trug sein ganzes Leben lang ein von Aristoteles bearbeitetes Exemplar bei sich und schlief damit unter dem Kopfkissen zusammen mit einem Dolch. Der Philosoph vermittelte seinem Schüler die Liebe zur Wissenschaft und Forschung - während seiner Feldzüge schickte Alexander Aristoteles Proben seltener Pflanzen, Tiere und Mineralien aus den eroberten Ländern. Mit der Zeit kühlte sich ihre Beziehung jedoch ab. Nach der Hinrichtung von Aristoteles' Neffen Kallisthenes, der offizieller Historiograph des Feldzugs war, aber die Vergöttlichung Alexanders kritisierte, war der Philosoph von seinem Schüler enttäuscht. Aristoteles glaubte, dass Alexander griechische Werte verraten hatte, indem er persische Bräuche annahm und sich zum Gott erklärte. Dennoch war der Einfluss des Aristoteles auf die Persönlichkeitsbildung des großen Feldherrn enorm."
-    },
+    "wrong_answers_de": [
+      "Platon",
+      "Sokrates",
+      "Diogenes"
+    ],
+    "explanation_ru": "Аристотель (384-322 гг. до н.э.) был личным наставником юного Александра Македонского с 343 по 340 год до н.э., когда будущему завоевателю было от 13 до 16 лет. Филипп II, отец Александра, пригласил Аристотеля в Македонию специально для обучения своего сына и других молодых аристократов. Обучение проходило в уединённом месте - в Миезе, в тенистой роще храма нимф. Аристотель преподавал Александру философию, этику, политику, медицину, географию и литературу. Особое внимание уделялось изучению 'Илиады' Гомера - Александр всю жизнь носил с собой экземпляр, отредактированный Аристотелем, и спал с ним под подушкой вместе с кинжалом. Философ привил ученику любовь к науке и исследованиям - во время своих походов Александр отправлял Аристотелю образцы редких растений, животных и минералов из завоёванных земель. Однако со временем их отношения охладели. После казни племянника Аристотеля, Каллисфена, который был официальным историографом похода, но критиковал возвеличивание Александра, философ разочаровался в своём ученике. Аристотель считал, что Александр предал греческие ценности, приняв персидские обычаи и провозгласив себя богом. Тем не менее, влияние Аристотеля на формирование личности великого полководца было огромным.",
+    "explanation_de": "Aristoteles (384-322 v. Chr.) war der persönliche Lehrer des jungen Alexander des Großen von 343 bis 340 v. Chr., als der zukünftige Eroberer zwischen 13 und 16 Jahre alt war. Philipp II., Alexanders Vater, lud Aristoteles speziell nach Makedonien ein, um seinen Sohn und andere junge Aristokraten zu unterrichten. Der Unterricht fand an einem abgelegenen Ort statt - in Mieza, in einem schattigen Hain des Nymphentempels. Aristoteles lehrte Alexander Philosophie, Ethik, Politik, Medizin, Geographie und Literatur. Besondere Aufmerksamkeit wurde dem Studium von Homers 'Ilias' gewidmet - Alexander trug sein ganzes Leben lang ein von Aristoteles bearbeitetes Exemplar bei sich und schlief damit unter dem Kopfkissen zusammen mit einem Dolch. Der Philosoph vermittelte seinem Schüler die Liebe zur Wissenschaft und Forschung - während seiner Feldzüge schickte Alexander Aristoteles Proben seltener Pflanzen, Tiere und Mineralien aus den eroberten Ländern. Mit der Zeit kühlte sich ihre Beziehung jedoch ab. Nach der Hinrichtung von Aristoteles' Neffen Kallisthenes, der offizieller Historiograph des Feldzugs war, aber die Vergöttlichung Alexanders kritisierte, war der Philosoph von seinem Schüler enttäuscht. Aristoteles glaubte, dass Alexander griechische Werte verraten hatte, indem er persische Bräuche annahm und sich zum Gott erklärte. Dennoch war der Einfluss des Aristoteles auf die Persönlichkeitsbildung des großen Feldherrn enorm.",
     "interesting_facts": [
       {
         "ru": "Аристотель получал от Филиппа II огромное вознаграждение за обучение Александра. Филипп восстановил родной город философа Стагиру, который был разрушен самим же македонским царём в предыдущей войне, вернул в город изгнанных жителей и освободил их от налогов. По легенде, когда Аристотель прибыл в Македонию, Филипп сказал: 'Я благодарю богов не за то, что они дали мне сына, а за то, что он родился в твоё время, ибо я надеюсь, что воспитанный тобою, он станет достойным и меня, и того царства, которое ему предстоит наследовать'.",
@@ -50,28 +44,22 @@
   },
   {
     "id": 202,
-    "question": "Что означает термин 'полис'?",
+    "question_ru": "Что означает термин 'полис'?",
     "question_de": "Was bedeutet der Begriff 'Polis'?",
-    "answer": "Город-государство",
-    "answer_de": "Stadtstaat",
-    "wrong_answers": [
-      {
-        "ru": "Рыночная площадь",
-        "de": "Marktplatz"
-      },
-      {
-        "ru": "Храм",
-        "de": "Tempel"
-      },
-      {
-        "ru": "Военный лагерь",
-        "de": "Militärlager"
-      }
+    "correct_answer_ru": "Город-государство",
+    "correct_answer_de": "Stadtstaat",
+    "wrong_answers_ru": [
+      "Рыночная площадь",
+      "Храм",
+      "Военный лагерь"
     ],
-    "explanation": {
-      "ru": "Полис (πόλις) - это независимый город-государство Древней Греции, представлявший собой политическую, экономическую и культурную единицу. Типичный полис состоял из укреплённого города (астю) и окружающей его сельской территории (хоры). В центре города находился акрополь - укреплённый холм с храмами и общественными зданиями, а у его подножия располагалась агора - рыночная площадь и место народных собраний. Полисная система сформировалась в VIII-VII веках до н.э. после так называемых 'тёмных веков' и стала основой греческой цивилизации. Каждый полис был полностью независимым и имел свои законы, календарь, монеты и богов-покровителей. Граждане полиса (только свободные мужчины, родившиеся от граждан) обладали политическими правами и обязанностями, включая участие в народном собрании (экклесии) и военную службу. В Древней Греции существовало более 1500 полисов, из которых наиболее известны Афины, Спарта, Коринф, Фивы и Мегары. Размеры полисов сильно варьировались - от крошечных городков с несколькими сотнями граждан до Афин с населением около 300 000 человек (из которых только 40 000 были полноправными гражданами). Полисная система способствовала развитию различных форм правления - от демократии в Афинах до олигархии в Коринфе и военной аристократии в Спарте. Именно в рамках полисов были разработаны концепции гражданства, демократии и философии, оказавшие огромное влияние на западную цивилизацию.",
-      "de": "Polis (πόλις) ist ein unabhängiger Stadtstaat des antiken Griechenlands, der eine politische, wirtschaftliche und kulturelle Einheit darstellte. Eine typische Polis bestand aus einer befestigten Stadt (Asty) und dem sie umgebenden ländlichen Gebiet (Chora). Im Zentrum der Stadt befand sich die Akropolis - ein befestigter Hügel mit Tempeln und öffentlichen Gebäuden, und an ihrem Fuß lag die Agora - der Marktplatz und Ort der Volksversammlungen. Das Polis-System bildete sich im 8.-7. Jahrhundert v. Chr. nach den sogenannten 'dunklen Jahrhunderten' heraus und wurde zur Grundlage der griechischen Zivilisation. Jede Polis war völlig unabhängig und hatte ihre eigenen Gesetze, Kalender, Münzen und Schutzgötter. Die Bürger der Polis (nur freie Männer, die von Bürgern geboren wurden) besaßen politische Rechte und Pflichten, einschließlich der Teilnahme an der Volksversammlung (Ekklesia) und des Militärdienstes. Im antiken Griechenland gab es über 1500 Poleis, von denen Athen, Sparta, Korinth, Theben und Megara am bekanntesten sind. Die Größe der Poleis variierte stark - von winzigen Städten mit einigen hundert Bürgern bis zu Athen mit etwa 300.000 Einwohnern (von denen nur 40.000 vollwertige Bürger waren). Das Polis-System förderte die Entwicklung verschiedener Regierungsformen - von der Demokratie in Athen über die Oligarchie in Korinth bis zur militärischen Aristokratie in Sparta. Es war im Rahmen der Poleis, dass die Konzepte von Bürgerschaft, Demokratie und Philosophie entwickelt wurden, die einen enormen Einfluss auf die westliche Zivilisation hatten."
-    },
+    "wrong_answers_de": [
+      "Marktplatz",
+      "Tempel",
+      "Militärlager"
+    ],
+    "explanation_ru": "Полис (πόλις) - это независимый город-государство Древней Греции, представлявший собой политическую, экономическую и культурную единицу. Типичный полис состоял из укреплённого города (астю) и окружающей его сельской территории (хоры). В центре города находился акрополь - укреплённый холм с храмами и общественными зданиями, а у его подножия располагалась агора - рыночная площадь и место народных собраний. Полисная система сформировалась в VIII-VII веках до н.э. после так называемых 'тёмных веков' и стала основой греческой цивилизации. Каждый полис был полностью независимым и имел свои законы, календарь, монеты и богов-покровителей. Граждане полиса (только свободные мужчины, родившиеся от граждан) обладали политическими правами и обязанностями, включая участие в народном собрании (экклесии) и военную службу. В Древней Греции существовало более 1500 полисов, из которых наиболее известны Афины, Спарта, Коринф, Фивы и Мегары. Размеры полисов сильно варьировались - от крошечных городков с несколькими сотнями граждан до Афин с населением около 300 000 человек (из которых только 40 000 были полноправными гражданами). Полисная система способствовала развитию различных форм правления - от демократии в Афинах до олигархии в Коринфе и военной аристократии в Спарте. Именно в рамках полисов были разработаны концепции гражданства, демократии и философии, оказавшие огромное влияние на западную цивилизацию.",
+    "explanation_de": "Polis (πόλις) ist ein unabhängiger Stadtstaat des antiken Griechenlands, der eine politische, wirtschaftliche und kulturelle Einheit darstellte. Eine typische Polis bestand aus einer befestigten Stadt (Asty) und dem sie umgebenden ländlichen Gebiet (Chora). Im Zentrum der Stadt befand sich die Akropolis - ein befestigter Hügel mit Tempeln und öffentlichen Gebäuden, und an ihrem Fuß lag die Agora - der Marktplatz und Ort der Volksversammlungen. Das Polis-System bildete sich im 8.-7. Jahrhundert v. Chr. nach den sogenannten 'dunklen Jahrhunderten' heraus und wurde zur Grundlage der griechischen Zivilisation. Jede Polis war völlig unabhängig und hatte ihre eigenen Gesetze, Kalender, Münzen und Schutzgötter. Die Bürger der Polis (nur freie Männer, die von Bürgern geboren wurden) besaßen politische Rechte und Pflichten, einschließlich der Teilnahme an der Volksversammlung (Ekklesia) und des Militärdienstes. Im antiken Griechenland gab es über 1500 Poleis, von denen Athen, Sparta, Korinth, Theben und Megara am bekanntesten sind. Die Größe der Poleis variierte stark - von winzigen Städten mit einigen hundert Bürgern bis zu Athen mit etwa 300.000 Einwohnern (von denen nur 40.000 vollwertige Bürger waren). Das Polis-System förderte die Entwicklung verschiedener Regierungsformen - von der Demokratie in Athen über die Oligarchie in Korinth bis zur militärischen Aristokratie in Sparta. Es war im Rahmen der Poleis, dass die Konzepte von Bürgerschaft, Demokratie und Philosophie entwickelt wurden, die einen enormen Einfluss auf die westliche Zivilisation hatten.",
     "interesting_facts": [
       {
         "ru": "Слово 'политика' происходит от греческого 'полис'. Аристотель определял человека как 'политическое животное' (ζῷον πολιτικόν, zoon politikon), то есть существо, созданное для жизни в полисе. По мнению греков, только в полисе человек мог реализовать своё истинное предназначение и жить добродетельной жизнью. Жизнь вне полиса считалась либо божественной (для богов), либо животной (для варваров). Аристотель писал: 'Тот, кто не способен жить в обществе или не нуждается ни в чём, будучи самодостаточным, не является частью государства, но либо зверем, либо богом'.",
@@ -99,28 +87,22 @@
   },
   {
     "id": 203,
-    "question": "Кто написал 'Илиаду'?",
+    "question_ru": "Кто написал 'Илиаду'?",
     "question_de": "Wer schrieb die 'Ilias'?",
-    "answer": "Гомер",
-    "answer_de": "Homer",
-    "wrong_answers": [
-      {
-        "ru": "Гесиод",
-        "de": "Hesiod"
-      },
-      {
-        "ru": "Эсхил",
-        "de": "Aischylos"
-      },
-      {
-        "ru": "Софокл",
-        "de": "Sophokles"
-      }
+    "correct_answer_ru": "Гомер",
+    "correct_answer_de": "Homer",
+    "wrong_answers_ru": [
+      "Гесиод",
+      "Эсхил",
+      "Софокл"
     ],
-    "explanation": {
-      "ru": "Гомер - легендарный древнегреческий поэт, которому приписывается авторство двух величайших эпических поэм античности: 'Илиады' и 'Одиссеи'. 'Илиада' повествует о событиях последнего года Троянской войны (около 1200 г. до н.э.), фокусируясь на гневе Ахиллеса и его последствиях. Поэма состоит из 15693 строк гекзаметра, разделённых на 24 песни. О самом Гомере практически ничего достоверно неизвестно - даже его существование оспаривается некоторыми учёными ('гомеровский вопрос'). Древние источники сообщают, что он жил в VIII веке до н.э., был слепым и родился на одном из ионийских островов (Хиос, Смирна или Колофон). Семь городов спорили за честь быть его родиной. 'Илиада' первоначально передавалась устно рапсодами - профессиональными декламаторами, которые заучивали тысячи строк наизусть. Письменная фиксация текста произошла при афинском тиране Писистрате в VI веке до н.э. Поэмы Гомера стали основой греческого образования - каждый образованный грек знал их наизусть. Александр Македонский спал с экземпляром 'Илиады' под подушкой. Римляне считали себя потомками троянцев, бежавших после падения Трои, что описано в 'Энеиде' Вергилия. 'Илиада' оказала колоссальное влияние на мировую литературу и до сих пор считается одним из величайших произведений человечества.",
-      "de": "Homer ist ein legendärer altgriechischer Dichter, dem die Urheberschaft der beiden größten epischen Gedichte der Antike zugeschrieben wird: der 'Ilias' und der 'Odyssee'. Die 'Ilias' erzählt von den Ereignissen des letzten Jahres des Trojanischen Krieges (um 1200 v. Chr.) und konzentriert sich auf den Zorn des Achilles und seine Folgen. Das Gedicht besteht aus 15.693 Hexameterversen, die in 24 Gesänge unterteilt sind. Über Homer selbst ist fast nichts zuverlässig bekannt - sogar seine Existenz wird von einigen Gelehrten bestritten ('Homerische Frage'). Antike Quellen berichten, dass er im 8. Jahrhundert v. Chr. lebte, blind war und auf einer der ionischen Inseln (Chios, Smyrna oder Kolophon) geboren wurde. Sieben Städte stritten um die Ehre, seine Heimat zu sein. Die 'Ilias' wurde ursprünglich mündlich von Rhapsoden übertragen - professionellen Rezitatoren, die Tausende von Versen auswendig lernten. Die schriftliche Fixierung des Textes erfolgte unter dem athenischen Tyrannen Peisistratos im 6. Jahrhundert v. Chr. Homers Gedichte wurden zur Grundlage der griechischen Bildung - jeder gebildete Grieche kannte sie auswendig. Alexander der Große schlief mit einem Exemplar der 'Ilias' unter dem Kopfkissen. Die Römer betrachteten sich als Nachkommen der Trojaner, die nach dem Fall Trojas flohen, was in Vergils 'Aeneis' beschrieben wird. Die 'Ilias' hatte einen kolossalen Einfluss auf die Weltliteratur und gilt bis heute als eines der größten Werke der Menschheit."
-    },
+    "wrong_answers_de": [
+      "Hesiod",
+      "Aischylos",
+      "Sophokles"
+    ],
+    "explanation_ru": "Гомер - легендарный древнегреческий поэт, которому приписывается авторство двух величайших эпических поэм античности: 'Илиады' и 'Одиссеи'. 'Илиада' повествует о событиях последнего года Троянской войны (около 1200 г. до н.э.), фокусируясь на гневе Ахиллеса и его последствиях. Поэма состоит из 15693 строк гекзаметра, разделённых на 24 песни. О самом Гомере практически ничего достоверно неизвестно - даже его существование оспаривается некоторыми учёными ('гомеровский вопрос'). Древние источники сообщают, что он жил в VIII веке до н.э., был слепым и родился на одном из ионийских островов (Хиос, Смирна или Колофон). Семь городов спорили за честь быть его родиной. 'Илиада' первоначально передавалась устно рапсодами - профессиональными декламаторами, которые заучивали тысячи строк наизусть. Письменная фиксация текста произошла при афинском тиране Писистрате в VI веке до н.э. Поэмы Гомера стали основой греческого образования - каждый образованный грек знал их наизусть. Александр Македонский спал с экземпляром 'Илиады' под подушкой. Римляне считали себя потомками троянцев, бежавших после падения Трои, что описано в 'Энеиде' Вергилия. 'Илиада' оказала колоссальное влияние на мировую литературу и до сих пор считается одним из величайших произведений человечества.",
+    "explanation_de": "Homer ist ein legendärer altgriechischer Dichter, dem die Urheberschaft der beiden größten epischen Gedichte der Antike zugeschrieben wird: der 'Ilias' und der 'Odyssee'. Die 'Ilias' erzählt von den Ereignissen des letzten Jahres des Trojanischen Krieges (um 1200 v. Chr.) und konzentriert sich auf den Zorn des Achilles und seine Folgen. Das Gedicht besteht aus 15.693 Hexameterversen, die in 24 Gesänge unterteilt sind. Über Homer selbst ist fast nichts zuverlässig bekannt - sogar seine Existenz wird von einigen Gelehrten bestritten ('Homerische Frage'). Antike Quellen berichten, dass er im 8. Jahrhundert v. Chr. lebte, blind war und auf einer der ionischen Inseln (Chios, Smyrna oder Kolophon) geboren wurde. Sieben Städte stritten um die Ehre, seine Heimat zu sein. Die 'Ilias' wurde ursprünglich mündlich von Rhapsoden übertragen - professionellen Rezitatoren, die Tausende von Versen auswendig lernten. Die schriftliche Fixierung des Textes erfolgte unter dem athenischen Tyrannen Peisistratos im 6. Jahrhundert v. Chr. Homers Gedichte wurden zur Grundlage der griechischen Bildung - jeder gebildete Grieche kannte sie auswendig. Alexander der Große schlief mit einem Exemplar der 'Ilias' unter dem Kopfkissen. Die Römer betrachteten sich als Nachkommen der Trojaner, die nach dem Fall Trojas flohen, was in Vergils 'Aeneis' beschrieben wird. Die 'Ilias' hatte einen kolossalen Einfluss auf die Weltliteratur und gilt bis heute als eines der größten Werke der Menschheit.",
     "interesting_facts": [
       {
         "ru": "Археолог Генрих Шлиман, вдохновлённый 'Илиадой', которую читал с детства, посвятил свою жизнь поискам Трои. В 1870-х годах он раскопал холм Гиссарлык в Турции и обнаружил руины древнего города, который отождествил с гомеровской Троей. Он также нашёл клад золотых украшений, названный им 'Сокровищем Приама' (хотя позже выяснилось, что артефакты на тысячу лет старше времени Троянской войны). Раскопки Шлимана, хотя и варварские по современным стандартам (он буквально прорыл траншею через археологический памятник), доказали, что Троянская война могла иметь историческую основу. Современные археологи идентифицируют слой 'Троя VIIa' (около 1200 г. до н.э.) как город, разрушенный в результате войны или землетрясения.",
@@ -149,28 +131,22 @@
   },
   {
     "id": 204,
-    "question": "В каком году произошла битва при Марафоне?",
+    "question_ru": "В каком году произошла битва при Марафоне?",
     "question_de": "In welchem Jahr fand die Schlacht von Marathon statt?",
-    "answer": "490 год до н.э.",
-    "answer_de": "490 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "480 год до н.э.",
-        "de": "480 v. Chr."
-      },
-      {
-        "ru": "479 год до н.э.",
-        "de": "479 v. Chr."
-      },
-      {
-        "ru": "500 год до н.э.",
-        "de": "500 v. Chr."
-      }
+    "correct_answer_ru": "490 год до н.э.",
+    "correct_answer_de": "490 v. Chr.",
+    "wrong_answers_ru": [
+      "480 год до н.э.",
+      "479 год до н.э.",
+      "500 год до н.э."
     ],
-    "explanation": {
-      "ru": "Битва при Марафоне произошла в сентябре 490 года до н.э. и стала первым крупным сражением греко-персидских войн. Персидский царь Дарий I отправил карательную экспедицию против Афин за поддержку ионийского восстания. Персидский флот из 600 кораблей высадил около 25000 воинов на Марафонской равнине, в 42 км к северо-востоку от Афин. Афинский стратег Мильтиад убедил собрание выступить навстречу персам, не дожидаясь помощи Спарты (которая запаздывала из-за религиозного праздника). Афиняне выставили около 10000 гоплитов и 1000 платейцев. Мильтиад применил гениальную тактику: ослабил центр фаланги, усилив фланги. Персы прорвали центр, но были окружены с флангов и обращены в бегство. Греки потеряли около 192 человека, персы - по разным оценкам, от 6400 до 20000. После битвы афинский воин-гонец Фидиппид пробежал 42 км до Афин с вестью о победе, произнёс 'Радуйтесь, мы победили!' и упал замертво от изнеможения. Эта легенда (хотя исторически недостоверная) дала название марафонскому забегу на Олимпийских играх. Битва при Марафоне имела огромное психологическое значение - она доказала, что персов можно победить, и укрепила веру афинян в превосходство своей военной системы и демократического строя.",
-      "de": "Die Schlacht von Marathon fand im September 490 v. Chr. statt und war die erste große Schlacht der Perserkriege. Der persische König Dareios I. schickte eine Strafexpedition gegen Athen wegen der Unterstützung des ionischen Aufstands. Die persische Flotte mit 600 Schiffen landete etwa 25.000 Krieger auf der Ebene von Marathon, 42 km nordöstlich von Athen. Der athenische Stratege Miltiades überzeugte die Versammlung, den Persern entgegenzuziehen, ohne auf die Hilfe Spartas zu warten (die sich wegen eines religiösen Festes verspätete). Die Athener stellten etwa 10.000 Hopliten und 1.000 Platäer auf. Miltiades wandte eine geniale Taktik an: Er schwächte das Zentrum der Phalanx und verstärkte die Flanken. Die Perser durchbrachen das Zentrum, wurden aber von den Flanken umzingelt und in die Flucht geschlagen. Die Griechen verloren etwa 192 Menschen, die Perser nach verschiedenen Schätzungen zwischen 6.400 und 20.000. Nach der Schlacht lief der athenische Krieger-Bote Pheidippides 42 km nach Athen mit der Nachricht vom Sieg, rief 'Freut euch, wir haben gesiegt!' und fiel tot vor Erschöpfung um. Diese Legende (obwohl historisch unbelegt) gab dem Marathonlauf bei den Olympischen Spielen seinen Namen. Die Schlacht von Marathon hatte eine enorme psychologische Bedeutung - sie bewies, dass die Perser besiegt werden können, und stärkte den Glauben der Athener an die Überlegenheit ihres Militärsystems und ihrer demokratischen Ordnung."
-    },
+    "wrong_answers_de": [
+      "480 v. Chr.",
+      "479 v. Chr.",
+      "500 v. Chr."
+    ],
+    "explanation_ru": "Битва при Марафоне произошла в сентябре 490 года до н.э. и стала первым крупным сражением греко-персидских войн. Персидский царь Дарий I отправил карательную экспедицию против Афин за поддержку ионийского восстания. Персидский флот из 600 кораблей высадил около 25000 воинов на Марафонской равнине, в 42 км к северо-востоку от Афин. Афинский стратег Мильтиад убедил собрание выступить навстречу персам, не дожидаясь помощи Спарты (которая запаздывала из-за религиозного праздника). Афиняне выставили около 10000 гоплитов и 1000 платейцев. Мильтиад применил гениальную тактику: ослабил центр фаланги, усилив фланги. Персы прорвали центр, но были окружены с флангов и обращены в бегство. Греки потеряли около 192 человека, персы - по разным оценкам, от 6400 до 20000. После битвы афинский воин-гонец Фидиппид пробежал 42 км до Афин с вестью о победе, произнёс 'Радуйтесь, мы победили!' и упал замертво от изнеможения. Эта легенда (хотя исторически недостоверная) дала название марафонскому забегу на Олимпийских играх. Битва при Марафоне имела огромное психологическое значение - она доказала, что персов можно победить, и укрепила веру афинян в превосходство своей военной системы и демократического строя.",
+    "explanation_de": "Die Schlacht von Marathon fand im September 490 v. Chr. statt und war die erste große Schlacht der Perserkriege. Der persische König Dareios I. schickte eine Strafexpedition gegen Athen wegen der Unterstützung des ionischen Aufstands. Die persische Flotte mit 600 Schiffen landete etwa 25.000 Krieger auf der Ebene von Marathon, 42 km nordöstlich von Athen. Der athenische Stratege Miltiades überzeugte die Versammlung, den Persern entgegenzuziehen, ohne auf die Hilfe Spartas zu warten (die sich wegen eines religiösen Festes verspätete). Die Athener stellten etwa 10.000 Hopliten und 1.000 Platäer auf. Miltiades wandte eine geniale Taktik an: Er schwächte das Zentrum der Phalanx und verstärkte die Flanken. Die Perser durchbrachen das Zentrum, wurden aber von den Flanken umzingelt und in die Flucht geschlagen. Die Griechen verloren etwa 192 Menschen, die Perser nach verschiedenen Schätzungen zwischen 6.400 und 20.000. Nach der Schlacht lief der athenische Krieger-Bote Pheidippides 42 km nach Athen mit der Nachricht vom Sieg, rief 'Freut euch, wir haben gesiegt!' und fiel tot vor Erschöpfung um. Diese Legende (obwohl historisch unbelegt) gab dem Marathonlauf bei den Olympischen Spielen seinen Namen. Die Schlacht von Marathon hatte eine enorme psychologische Bedeutung - sie bewies, dass die Perser besiegt werden können, und stärkte den Glauben der Athener an die Überlegenheit ihres Militärsystems und ihrer demokratischen Ordnung.",
     "interesting_facts": [
       {
         "ru": "Перед битвой афиняне обратились за помощью к Спарте, отправив гонца Фидиппида. Он пробежал 246 км от Афин до Спарты за два дня - невероятное достижение. Спартанцы обещали помочь, но объяснили, что по религиозным законам не могут выступить до полнолуния. Когда они прибыли, битва уже закончилась. Спартанцы осмотрели поле боя и поздравили афинян с победой. Существует современный ультрамарафон 'Спартатлон' (246 км), воссоздающий легендарный бег Фидиппида. Интересно, что это был тот же человек, который якобы бежал с вестью о победе в Афины (хотя некоторые историки считают, что это были разные люди). В любом случае, бегуны-гонцы (гемеродромы) играли важную роль в древнегреческой коммуникации.",
@@ -198,28 +174,22 @@
   },
   {
     "id": 205,
-    "question": "Какой город-государство был известен военной культурой?",
+    "question_ru": "Какой город-государство был известен военной культурой?",
     "question_de": "Welcher Stadtstaat war für seine Militärkultur bekannt?",
-    "answer": "Спарта",
-    "answer_de": "Sparta",
-    "wrong_answers": [
-      {
-        "ru": "Афины",
-        "de": "Athen"
-      },
-      {
-        "ru": "Коринф",
-        "de": "Korinth"
-      },
-      {
-        "ru": "Фивы",
-        "de": "Theben"
-      }
+    "correct_answer_ru": "Спарта",
+    "correct_answer_de": "Sparta",
+    "wrong_answers_ru": [
+      "Афины",
+      "Коринф",
+      "Фивы"
     ],
-    "explanation": {
-      "ru": "Спарта (Λακεδαίμων, Лакедемон) была греческим полисом в области Лакония на Пелопоннесе, прославившимся своей уникальной военной культурой и социальной системой. Всё спартанское общество было организовано вокруг военной подготовки. Каждый спартанский мальчик с 7 лет проходил агогэ - жёсткую систему военного воспитания, живя в казармах, терпя голод, холод и физические испытания. В 20 лет юноша становился полноправным воином и мог жениться, но продолжал жить в казармах до 30 лет, ежедневно участвуя в совместных трапезах (сисситиях). Спартанцы-мужчины были профессиональными воинами, освобождёнными от всех других занятий. Сельскохозяйственный труд выполняли илоты - порабощённое местное население Мессении. Спартанская фаланга считалась непобедимой. В битве при Фермопилах (480 г. до н.э.) 300 спартанцев царя Леонида удерживали узкое ущелье против огромной персидской армии Ксеркса, погибнув до последнего человека. Спартанская дисциплина и военное мастерство вызывали восхищение и страх по всей Греции. Однако милитаризация имела и обратную сторону: Спарта не развивала искусство, философию, торговлю. Система агогэ была настолько суровой, что рождаемость падала. После поражения при Левктрах в 371 г. до н.э. Спарта начала приходить в упадок из-за нехватки полноправных граждан-воинов (спартиатов).",
-      "de": "Sparta (Λακεδαίμων, Lakedaimon) war eine griechische Polis in der Region Lakonien auf dem Peloponnes, berühmt für ihre einzigartige Militärkultur und ihr Gesellschaftssystem. Die gesamte spartanische Gesellschaft war um die militärische Ausbildung organisiert. Jeder spartanische Junge durchlief ab 7 Jahren die Agoge - ein hartes System der militärischen Erziehung, lebte in Kasernen, ertrug Hunger, Kälte und körperliche Prüfungen. Mit 20 Jahren wurde ein junger Mann ein vollwertiger Krieger und konnte heiraten, lebte aber bis 30 weiter in Kasernen und nahm täglich an gemeinsamen Mahlzeiten (Syssitien) teil. Spartanische Männer waren Berufssoldat en, befreit von allen anderen Beschäftigungen. Landwirtschaftliche Arbeit wurde von Heloten verrichtet - versklavter lokaler Bevölkerung aus Messenien. Die spartanische Phalanx galt als unbesiegbar. In der Schlacht bei den Thermopylen (480 v. Chr.) hielten 300 Spartaner unter König Leonidas einen engen Pass gegen die riesige persische Armee von Xerxes und fielen bis zum letzten Mann. Spartanische Disziplin und militärisches Können erregten Bewunderung und Furcht in ganz Griechenland. Die Militarisierung hatte jedoch auch eine Kehrseite: Sparta entwickelte weder Kunst, Philosophie noch Handel. Das Agoge-System war so hart, dass die Geburtenrate sank. Nach der Niederlage bei Leuktra 371 v. Chr. begann Sparta wegen des Mangels an vollwertigen Bürgern-Kriegern (Spartiaten) zu verfallen."
-    },
+    "wrong_answers_de": [
+      "Athen",
+      "Korinth",
+      "Theben"
+    ],
+    "explanation_ru": "Спарта (Λακεδαίμων, Лакедемон) была греческим полисом в области Лакония на Пелопоннесе, прославившимся своей уникальной военной культурой и социальной системой. Всё спартанское общество было организовано вокруг военной подготовки. Каждый спартанский мальчик с 7 лет проходил агогэ - жёсткую систему военного воспитания, живя в казармах, терпя голод, холод и физические испытания. В 20 лет юноша становился полноправным воином и мог жениться, но продолжал жить в казармах до 30 лет, ежедневно участвуя в совместных трапезах (сисситиях). Спартанцы-мужчины были профессиональными воинами, освобождёнными от всех других занятий. Сельскохозяйственный труд выполняли илоты - порабощённое местное население Мессении. Спартанская фаланга считалась непобедимой. В битве при Фермопилах (480 г. до н.э.) 300 спартанцев царя Леонида удерживали узкое ущелье против огромной персидской армии Ксеркса, погибнув до последнего человека. Спартанская дисциплина и военное мастерство вызывали восхищение и страх по всей Греции. Однако милитаризация имела и обратную сторону: Спарта не развивала искусство, философию, торговлю. Система агогэ была настолько суровой, что рождаемость падала. После поражения при Левктрах в 371 г. до н.э. Спарта начала приходить в упадок из-за нехватки полноправных граждан-воинов (спартиатов).",
+    "explanation_de": "Sparta (Λακεδαίμων, Lakedaimon) war eine griechische Polis in der Region Lakonien auf dem Peloponnes, berühmt für ihre einzigartige Militärkultur und ihr Gesellschaftssystem. Die gesamte spartanische Gesellschaft war um die militärische Ausbildung organisiert. Jeder spartanische Junge durchlief ab 7 Jahren die Agoge - ein hartes System der militärischen Erziehung, lebte in Kasernen, ertrug Hunger, Kälte und körperliche Prüfungen. Mit 20 Jahren wurde ein junger Mann ein vollwertiger Krieger und konnte heiraten, lebte aber bis 30 weiter in Kasernen und nahm täglich an gemeinsamen Mahlzeiten (Syssitien) teil. Spartanische Männer waren Berufssoldat en, befreit von allen anderen Beschäftigungen. Landwirtschaftliche Arbeit wurde von Heloten verrichtet - versklavter lokaler Bevölkerung aus Messenien. Die spartanische Phalanx galt als unbesiegbar. In der Schlacht bei den Thermopylen (480 v. Chr.) hielten 300 Spartaner unter König Leonidas einen engen Pass gegen die riesige persische Armee von Xerxes und fielen bis zum letzten Mann. Spartanische Disziplin und militärisches Können erregten Bewunderung und Furcht in ganz Griechenland. Die Militarisierung hatte jedoch auch eine Kehrseite: Sparta entwickelte weder Kunst, Philosophie noch Handel. Das Agoge-System war so hart, dass die Geburtenrate sank. Nach der Niederlage bei Leuktra 371 v. Chr. begann Sparta wegen des Mangels an vollwertigen Bürgern-Kriegern (Spartiaten) zu verfallen.",
     "interesting_facts": [
       {
         "ru": "Спартанские младенцы подвергались инспекции старейшинами. Слабых или больных детей сбрасывали со скалы Тайгет (хотя археологические находки не подтверждают массовых детоубийств). Спартанское воспитание было экстремально суровым: мальчиков заставляли ходить босиком круглый год, спать на жёстких тростниковых подстилках, давали минимум еды, чтобы они учились воровать (но жестоко наказывали, если ловили). Известна история о мальчике, который украл лисёнка, спрятал его под плащом, и когда зверёк прогрыз ему живот, ребёнок не издал ни звука, чтобы не выдать себя, и умер. Эта история (возможно, легендарная) иллюстрирует спартанский идеал стойкости.",
@@ -247,28 +217,22 @@
   },
   {
     "id": 206,
-    "question": "Как называлась система правления богатых граждан?",
+    "question_ru": "Как называлась система правления богатых граждан?",
     "question_de": "Wie hieß das Regierungssystem der reichen Bürger?",
-    "answer": "Олигархия",
-    "answer_de": "Oligarchie",
-    "wrong_answers": [
-      {
-        "ru": "Демократия",
-        "de": "Demokratie"
-      },
-      {
-        "ru": "Тирания",
-        "de": "Tyrannis"
-      },
-      {
-        "ru": "Монархия",
-        "de": "Monarchie"
-      }
+    "correct_answer_ru": "Олигархия",
+    "correct_answer_de": "Oligarchie",
+    "wrong_answers_ru": [
+      "Демократия",
+      "Тирания",
+      "Монархия"
     ],
-    "explanation": {
-      "ru": "Олигархия (ὀλιγαρχία, от ὀλίγοι 'немногие' и ἀρχή 'власть') - форма правления, при которой власть принадлежит небольшой группе богатых и знатных граждан. В Древней Греции олигархия была распространена во многих полисах, особенно в Коринфе, Мегарах и Спарте (хотя спартанская система была уникальной смесью). Олигархическое правление обычно основывалось на имущественном цензе - правом голоса и занятия должностей обладали только те граждане, чьё состояние превышало определённую сумму. Аристотель в 'Политике' различал олигархию (правление богатых в своих интересах) и аристократию (правление лучших в интересах всех). В олигархических полисах власть концентрировалась в руках узкого круга семейств, контролировавших землю, торговлю и военную силу. Народное собрание либо отсутствовало, либо имело ограниченные полномочия. Совет (буле) состоял исключительно из представителей правящей элиты. Олигархии часто возникали в результате переворотов, когда богатые граждане свергали тиранов или ограничивали демократию. В Афинах дважды устанавливалась олигархия 'Четырёхсот' (411 г. до н.э.) и 'Тридцати тиранов' (404-403 гг. до н.э.) после поражения в Пелопоннесской войне, но оба раза демократия была восстановлена. Олигархические режимы часто были нестабильны из-за внутренних конфликтов между богачами (стасис) и недовольства народа (демоса), лишённого прав.",
-      "de": "Oligarchie (ὀλιγαρχία, von ὀλίγοι 'wenige' und ἀρχή 'Macht') ist eine Regierungsform, bei der die Macht einer kleinen Gruppe reicher und vornehmer Bürger gehört. Im antiken Griechenland war die Oligarchie in vielen Poleis verbreitet, besonders in Korinth, Megara und Sparta (obwohl das spartanische System eine einzigartige Mischung war). Die oligarchische Herrschaft basierte normalerweise auf einem Vermögenszensus - nur Bürger, deren Vermögen eine bestimmte Summe überstieg, besaßen das Stimmrecht und konnten Ämter bekleiden. Aristoteles unterschied in der 'Politik' zwischen Oligarchie (Herrschaft der Reichen in ihrem eigenen Interesse) und Aristokratie (Herrschaft der Besten im Interesse aller). In oligarchischen Poleis konzentrierte sich die Macht in den Händen eines engen Kreises von Familien, die Land, Handel und militärische Macht kontrollierten. Die Volksversammlung war entweder nicht vorhanden oder hatte begrenzte Befugnisse. Der Rat (Bule) bestand ausschließlich aus Vertretern der herrschenden Elite. Oligarchien entstanden oft durch Staatsstreiche, wenn reiche Bürger Tyrannen stürzten oder die Demokratie einschränkten. In Athen wurde zweimal eine Oligarchie errichtet - die 'Vierhundert' (411 v. Chr.) und die 'Dreißig Tyrannen' (404-403 v. Chr.) nach der Niederlage im Peloponnesischen Krieg, aber beide Male wurde die Demokratie wiederhergestellt. Oligarchische Regime waren oft instabil wegen interner Konflikte zwischen den Reichen (Stasis) und der Unzufriedenheit des Volkes (Demos), das seiner Rechte beraubt war."
-    },
+    "wrong_answers_de": [
+      "Demokratie",
+      "Tyrannis",
+      "Monarchie"
+    ],
+    "explanation_ru": "Олигархия (ὀλιγαρχία, от ὀλίγοι 'немногие' и ἀρχή 'власть') - форма правления, при которой власть принадлежит небольшой группе богатых и знатных граждан. В Древней Греции олигархия была распространена во многих полисах, особенно в Коринфе, Мегарах и Спарте (хотя спартанская система была уникальной смесью). Олигархическое правление обычно основывалось на имущественном цензе - правом голоса и занятия должностей обладали только те граждане, чьё состояние превышало определённую сумму. Аристотель в 'Политике' различал олигархию (правление богатых в своих интересах) и аристократию (правление лучших в интересах всех). В олигархических полисах власть концентрировалась в руках узкого круга семейств, контролировавших землю, торговлю и военную силу. Народное собрание либо отсутствовало, либо имело ограниченные полномочия. Совет (буле) состоял исключительно из представителей правящей элиты. Олигархии часто возникали в результате переворотов, когда богатые граждане свергали тиранов или ограничивали демократию. В Афинах дважды устанавливалась олигархия 'Четырёхсот' (411 г. до н.э.) и 'Тридцати тиранов' (404-403 гг. до н.э.) после поражения в Пелопоннесской войне, но оба раза демократия была восстановлена. Олигархические режимы часто были нестабильны из-за внутренних конфликтов между богачами (стасис) и недовольства народа (демоса), лишённого прав.",
+    "explanation_de": "Oligarchie (ὀλιγαρχία, von ὀλίγοι 'wenige' und ἀρχή 'Macht') ist eine Regierungsform, bei der die Macht einer kleinen Gruppe reicher und vornehmer Bürger gehört. Im antiken Griechenland war die Oligarchie in vielen Poleis verbreitet, besonders in Korinth, Megara und Sparta (obwohl das spartanische System eine einzigartige Mischung war). Die oligarchische Herrschaft basierte normalerweise auf einem Vermögenszensus - nur Bürger, deren Vermögen eine bestimmte Summe überstieg, besaßen das Stimmrecht und konnten Ämter bekleiden. Aristoteles unterschied in der 'Politik' zwischen Oligarchie (Herrschaft der Reichen in ihrem eigenen Interesse) und Aristokratie (Herrschaft der Besten im Interesse aller). In oligarchischen Poleis konzentrierte sich die Macht in den Händen eines engen Kreises von Familien, die Land, Handel und militärische Macht kontrollierten. Die Volksversammlung war entweder nicht vorhanden oder hatte begrenzte Befugnisse. Der Rat (Bule) bestand ausschließlich aus Vertretern der herrschenden Elite. Oligarchien entstanden oft durch Staatsstreiche, wenn reiche Bürger Tyrannen stürzten oder die Demokratie einschränkten. In Athen wurde zweimal eine Oligarchie errichtet - die 'Vierhundert' (411 v. Chr.) und die 'Dreißig Tyrannen' (404-403 v. Chr.) nach der Niederlage im Peloponnesischen Krieg, aber beide Male wurde die Demokratie wiederhergestellt. Oligarchische Regime waren oft instabil wegen interner Konflikte zwischen den Reichen (Stasis) und der Unzufriedenheit des Volkes (Demos), das seiner Rechte beraubt war.",
     "interesting_facts": [
       {
         "ru": "В Коринфе олигархия клана Бакхиадов правила около 90 лет (747-657 гг. до н.э.). Этот род состоял примерно из 200 человек, которые практиковали эндогамию - браки только внутри клана. Они монополизировали все государственные должности, контролировали прибыльную торговлю и колонизацию. Ежегодно избирали одного притана (главу государства) из своего числа. Коринф процветал экономически, но социальное неравенство росло. Олигархия пала, когда Кипсел, член клана, изгнанный за женитьбу вне рода, организовал переворот и установил тиранию. Это типичный паттерн: олигархия → тирания → демократия.",
@@ -296,28 +260,22 @@
   },
   {
     "id": 207,
-    "question": "В каком городе находился Колосс?",
+    "question_ru": "В каком городе находился Колосс?",
     "question_de": "In welcher Stadt stand der Koloss?",
-    "answer": "Родос",
-    "answer_de": "Rhodos",
-    "wrong_answers": [
-      {
-        "ru": "Афины",
-        "de": "Athen"
-      },
-      {
-        "ru": "Александрия",
-        "de": "Alexandria"
-      },
-      {
-        "ru": "Эфес",
-        "de": "Ephesos"
-      }
+    "correct_answer_ru": "Родос",
+    "correct_answer_de": "Rhodos",
+    "wrong_answers_ru": [
+      "Афины",
+      "Александрия",
+      "Эфес"
     ],
-    "explanation": {
-      "ru": "Колосс Родосский (Κολοσσὸς τῆς Ρόδου) - гигантская статуя бога Гелиоса, покровителя острова Родос, одно из Семи чудес света Древнего мира. Статуя была воздвигнута в 280 году до н.э. после успешной обороны города от осады Деметрия Полиоркета в 305-304 гг. до н.э. Родосцы продали осадные орудия, брошенные Деметрием, и на вырученные деньги (300 талантов) наняли скульптора Хареса из Линда. Строительство длилось 12 лет. Статуя достигала 33 метров в высоту (как современное 10-этажное здание) и весила около 13 тонн. Она была изготовлена из бронзовых пластин, закреплённых на железном каркасе, укреплённом камнями внутри. Вопреки популярным изображениям, Колосс не стоял над входом в гавань (это технически невозможно), а располагался на берегу, вероятно, на холме у храма Гелиоса. Статуя простояла всего 56 лет: в 226 году до н.э. мощное землетрясение разрушило её. Она переломилась на уровне колен и рухнула. Дельфийский оракул посоветовал не восстанавливать статую, и родосцы послушались. Обломки Колосса лежали на земле ещё 900 лет, вызывая восхищение путешественников. Плиний Старший писал, что мало кто мог обхватить руками большой палец статуи. В 653 году н.э. арабы, захватившие Родос, продали обломки еврейскому купцу, который, согласно легенде, нагрузил ими 900 верблюдов.",
-      "de": "Der Koloss von Rhodos (Κολοσσὸς τῆς Ρόδου) war eine gigantische Statue des Gottes Helios, des Schutzpatrons der Insel Rhodos, eines der Sieben Weltwunder der Antike. Die Statue wurde 280 v. Chr. nach der erfolgreichen Verteidigung der Stadt gegen die Belagerung durch Demetrios Poliorketes 305-304 v. Chr. errichtet. Die Rhodier verkauften die Belagerungsmaschinen, die Demetrios zurückließ, und beauftragten mit dem Erlös (300 Talente) den Bildhauer Chares von Lindos. Der Bau dauerte 12 Jahre. Die Statue erreichte 33 Meter Höhe (wie ein modernes 10-stöckiges Gebäude) und wog etwa 13 Tonnen. Sie wurde aus Bronzeplatten gefertigt, die auf einem eisernen Gerüst befestigt waren, das innen mit Steinen verstärkt war. Entgegen populären Darstellungen stand der Koloss nicht über der Hafeneinfahrt (dies ist technisch unmöglich), sondern am Ufer, wahrscheinlich auf einem Hügel beim Helios-Tempel. Die Statue stand nur 56 Jahre: 226 v. Chr. zerstörte ein starkes Erdbeben sie. Sie brach auf Kniehöhe und stürzte ein. Das delphische Orakel riet, die Statue nicht wieder aufzubauen, und die Rhodier folgten dem Rat. Die Trümmer des Kolosses lagen 900 Jahre auf der Erde und erregten die Bewunderung von Reisenden. Plinius der Ältere schrieb, dass kaum jemand den Daumen der Statue mit den Armen umfassen konnte. Im Jahr 653 n. Chr. verkauften die Araber, die Rhodos erobert hatten, die Trümmer an einen jüdischen Kaufmann, der der Legende nach 900 Kamele damit belud."
-    },
+    "wrong_answers_de": [
+      "Athen",
+      "Alexandria",
+      "Ephesos"
+    ],
+    "explanation_ru": "Колосс Родосский (Κολοσσὸς τῆς Ρόδου) - гигантская статуя бога Гелиоса, покровителя острова Родос, одно из Семи чудес света Древнего мира. Статуя была воздвигнута в 280 году до н.э. после успешной обороны города от осады Деметрия Полиоркета в 305-304 гг. до н.э. Родосцы продали осадные орудия, брошенные Деметрием, и на вырученные деньги (300 талантов) наняли скульптора Хареса из Линда. Строительство длилось 12 лет. Статуя достигала 33 метров в высоту (как современное 10-этажное здание) и весила около 13 тонн. Она была изготовлена из бронзовых пластин, закреплённых на железном каркасе, укреплённом камнями внутри. Вопреки популярным изображениям, Колосс не стоял над входом в гавань (это технически невозможно), а располагался на берегу, вероятно, на холме у храма Гелиоса. Статуя простояла всего 56 лет: в 226 году до н.э. мощное землетрясение разрушило её. Она переломилась на уровне колен и рухнула. Дельфийский оракул посоветовал не восстанавливать статую, и родосцы послушались. Обломки Колосса лежали на земле ещё 900 лет, вызывая восхищение путешественников. Плиний Старший писал, что мало кто мог обхватить руками большой палец статуи. В 653 году н.э. арабы, захватившие Родос, продали обломки еврейскому купцу, который, согласно легенде, нагрузил ими 900 верблюдов.",
+    "explanation_de": "Der Koloss von Rhodos (Κολοσσὸς τῆς Ρόδου) war eine gigantische Statue des Gottes Helios, des Schutzpatrons der Insel Rhodos, eines der Sieben Weltwunder der Antike. Die Statue wurde 280 v. Chr. nach der erfolgreichen Verteidigung der Stadt gegen die Belagerung durch Demetrios Poliorketes 305-304 v. Chr. errichtet. Die Rhodier verkauften die Belagerungsmaschinen, die Demetrios zurückließ, und beauftragten mit dem Erlös (300 Talente) den Bildhauer Chares von Lindos. Der Bau dauerte 12 Jahre. Die Statue erreichte 33 Meter Höhe (wie ein modernes 10-stöckiges Gebäude) und wog etwa 13 Tonnen. Sie wurde aus Bronzeplatten gefertigt, die auf einem eisernen Gerüst befestigt waren, das innen mit Steinen verstärkt war. Entgegen populären Darstellungen stand der Koloss nicht über der Hafeneinfahrt (dies ist technisch unmöglich), sondern am Ufer, wahrscheinlich auf einem Hügel beim Helios-Tempel. Die Statue stand nur 56 Jahre: 226 v. Chr. zerstörte ein starkes Erdbeben sie. Sie brach auf Kniehöhe und stürzte ein. Das delphische Orakel riet, die Statue nicht wieder aufzubauen, und die Rhodier folgten dem Rat. Die Trümmer des Kolosses lagen 900 Jahre auf der Erde und erregten die Bewunderung von Reisenden. Plinius der Ältere schrieb, dass kaum jemand den Daumen der Statue mit den Armen umfassen konnte. Im Jahr 653 n. Chr. verkauften die Araber, die Rhodos erobert hatten, die Trümmer an einen jüdischen Kaufmann, der der Legende nach 900 Kamele damit belud.",
     "interesting_facts": [
       {
         "ru": "Осада Родоса Деметрием Полиоркетом ('Осаждающим города') была одной из самых масштабных в античности. Деметрий применил гигантскую осадную башню-гелеполу ('берущую города') высотой 40 метров, на девяти этажах которой размещались 200 воинов и осадные орудия. Башня была обшита железом для защиты от огня и могла катиться на восьми колёсах, приводимых в движение 3400 человек внутри. Родосцы героически оборонялись год, используя хитрости: они пробили городскую стену изнутри и затопили территорию перед ней, из-за чего гелепола застряла в грязи. После заключения мира Деметрий оставил осадную технику родосцам в знак уважения к их храбрости. Именно эти орудия были проданы, чтобы профинансировать строительство Колосса - таким образом, память о славной обороне была увековечена в статуе.",
@@ -345,28 +303,22 @@
   },
   {
     "id": 208,
-    "question": "Кто был богом виноделия?",
+    "question_ru": "Кто был богом виноделия?",
     "question_de": "Wer war der Gott des Weinbaus?",
-    "answer": "Дионис",
-    "answer_de": "Dionysos",
-    "wrong_answers": [
-      {
-        "ru": "Аполлон",
-        "de": "Apollon"
-      },
-      {
-        "ru": "Гермес",
-        "de": "Hermes"
-      },
-      {
-        "ru": "Гефест",
-        "de": "Hephaistos"
-      }
+    "correct_answer_ru": "Дионис",
+    "correct_answer_de": "Dionysos",
+    "wrong_answers_ru": [
+      "Аполлон",
+      "Гермес",
+      "Гефест"
     ],
-    "explanation": {
-      "ru": "Дионис (Διόνυσος, у римлян - Вакх или Бахус) был богом виноделия, виноградарства, плодородия, театра, религиозного экстаза и безумия. Он был сыном Зевса и смертной фиванской царевны Семелы. Согласно мифу, ревнивая Гера обманом заставила Семелу попросить Зевса явиться ей во всём божественном величии, что убило её молнией. Зевс спас недоношенного младенца, зашив его в своё бедро, где Дионис доносился до положенного срока - отсюда выражение 'родиться из бедра Зевса'. Дионис считался 'дважды рожденным' (διθύραμβος). Он путешествовал по Греции, Азии и даже Индии, обучая людей виноградарству и виноделию, сопровождаемый свитой менад (вакханок) - женщин в состоянии религиозного экстаза, и сатиров. Культ Диониса был необычайно популярен и демократичен - в нём участвовали все слои общества, включая женщин и рабов. Дионисийские мистерии включали ритуальное опьянение, танцы и достижение экстатического единения с богом. В Афинах в честь Диониса устраивались Великие Дионисии - театральный фестиваль, на котором ставились трагедии и комедии. Именно из дионисийских ритуалов родился греческий театр. Еврипид в трагедии 'Вакханки' описал разрушительную силу бога, когда фиванский царь Пентей, отвергнувший культ Диониса, был разорван на части собственной матерью в состоянии вакхического безумия.",
-      "de": "Dionysos (Διόνυσος, bei den Römern Bacchus) war der Gott des Weinbaus, der Weinherstellung, der Fruchtbarkeit, des Theaters, der religiösen Ekstase und des Wahnsinns. Er war der Sohn des Zeus und der sterblichen thebanischen Prinzessin Semele. Dem Mythos zufolge brachte die eifersüchtige Hera Semele durch List dazu, Zeus zu bitten, ihr in voller göttlicher Herrlichkeit zu erscheinen, was sie durch einen Blitz tötete. Zeus rettete das ungeborene Kind, indem er es in seinen Oberschenkel einnähte, wo Dionysos bis zur vollen Zeit heranreifte - daher der Ausdruck 'aus Zeus' Oberschenkel geboren'. Dionysos galt als 'zweimal geboren' (διθύραμβος). Er reiste durch Griechenland, Asien und sogar Indien, lehrte die Menschen den Weinbau und die Weinherstellung, begleitet von einem Gefolge aus Mänaden (Bacchantinnen) - Frauen in religiöser Ekstase - und Satyrn. Der Kult des Dionysos war außerordentlich populär und demokratisch - alle Gesellschaftsschichten nahmen daran teil, einschließlich Frauen und Sklaven. Dionysische Mysterien beinhalteten rituelle Trunkenheit, Tänze und das Erreichen ekstatischer Einheit mit dem Gott. In Athen wurden zu Ehren des Dionysos die Großen Dionysien gefeiert - ein Theaterfestival, auf dem Tragödien und Komödien aufgeführt wurden. Genau aus dionysischen Ritualen entstand das griechische Theater. Euripides beschrieb in der Tragödie 'Die Bakchen' die zerstörerische Kraft des Gottes, als der thebanische König Pentheus, der den Kult des Dionysos ablehnte, von seiner eigenen Mutter im Zustand bacchischen Wahnsinns zerrissen wurde."
-    },
+    "wrong_answers_de": [
+      "Apollon",
+      "Hermes",
+      "Hephaistos"
+    ],
+    "explanation_ru": "Дионис (Διόνυσος, у римлян - Вакх или Бахус) был богом виноделия, виноградарства, плодородия, театра, религиозного экстаза и безумия. Он был сыном Зевса и смертной фиванской царевны Семелы. Согласно мифу, ревнивая Гера обманом заставила Семелу попросить Зевса явиться ей во всём божественном величии, что убило её молнией. Зевс спас недоношенного младенца, зашив его в своё бедро, где Дионис доносился до положенного срока - отсюда выражение 'родиться из бедра Зевса'. Дионис считался 'дважды рожденным' (διθύραμβος). Он путешествовал по Греции, Азии и даже Индии, обучая людей виноградарству и виноделию, сопровождаемый свитой менад (вакханок) - женщин в состоянии религиозного экстаза, и сатиров. Культ Диониса был необычайно популярен и демократичен - в нём участвовали все слои общества, включая женщин и рабов. Дионисийские мистерии включали ритуальное опьянение, танцы и достижение экстатического единения с богом. В Афинах в честь Диониса устраивались Великие Дионисии - театральный фестиваль, на котором ставились трагедии и комедии. Именно из дионисийских ритуалов родился греческий театр. Еврипид в трагедии 'Вакханки' описал разрушительную силу бога, когда фиванский царь Пентей, отвергнувший культ Диониса, был разорван на части собственной матерью в состоянии вакхического безумия.",
+    "explanation_de": "Dionysos (Διόνυσος, bei den Römern Bacchus) war der Gott des Weinbaus, der Weinherstellung, der Fruchtbarkeit, des Theaters, der religiösen Ekstase und des Wahnsinns. Er war der Sohn des Zeus und der sterblichen thebanischen Prinzessin Semele. Dem Mythos zufolge brachte die eifersüchtige Hera Semele durch List dazu, Zeus zu bitten, ihr in voller göttlicher Herrlichkeit zu erscheinen, was sie durch einen Blitz tötete. Zeus rettete das ungeborene Kind, indem er es in seinen Oberschenkel einnähte, wo Dionysos bis zur vollen Zeit heranreifte - daher der Ausdruck 'aus Zeus' Oberschenkel geboren'. Dionysos galt als 'zweimal geboren' (διθύραμβος). Er reiste durch Griechenland, Asien und sogar Indien, lehrte die Menschen den Weinbau und die Weinherstellung, begleitet von einem Gefolge aus Mänaden (Bacchantinnen) - Frauen in religiöser Ekstase - und Satyrn. Der Kult des Dionysos war außerordentlich populär und demokratisch - alle Gesellschaftsschichten nahmen daran teil, einschließlich Frauen und Sklaven. Dionysische Mysterien beinhalteten rituelle Trunkenheit, Tänze und das Erreichen ekstatischer Einheit mit dem Gott. In Athen wurden zu Ehren des Dionysos die Großen Dionysien gefeiert - ein Theaterfestival, auf dem Tragödien und Komödien aufgeführt wurden. Genau aus dionysischen Ritualen entstand das griechische Theater. Euripides beschrieb in der Tragödie 'Die Bakchen' die zerstörerische Kraft des Gottes, als der thebanische König Pentheus, der den Kult des Dionysos ablehnte, von seiner eigenen Mutter im Zustand bacchischen Wahnsinns zerrissen wurde.",
     "interesting_facts": [
       {
         "ru": "Дионисийские мистерии были одним из древнейших религиозных культов Греции, возможно, имеющим корни во Фракии или Малой Азии. Участники (вакханты) на ночных празднествах в горах пили вино, исполняли экстатические танцы под звуки флейт и барабанов, входя в состояние 'божественного безумия' (μανία). В этом состоянии они считали себя одержимыми богом. Менады (безумные женщины) носили венки из плюща и виноградных листьев, шкуры оленей и пантер, размахивали тирсами - жезлами, обвитыми плющом с шишкой пинии наверху. Существовали легенды об омофагии - ритуальном поедании сырого мяса растерзанного животного (обычно козла или быка) как символическом причастии к богу. Платон и другие философы критиковали эти оргиастические ритуалы, но признавали их катарсический эффект - очищение через эмоциональный выплеск.",
@@ -395,28 +347,22 @@
   },
   {
     "id": 209,
-    "question": "Как назывался главный храм Афины в Афинах?",
+    "question_ru": "Как назывался главный храм Афины в Афинах?",
     "question_de": "Wie hieß der Haupttempel der Athene in Athen?",
-    "answer": "Парфенон",
-    "answer_de": "Parthenon",
-    "wrong_answers": [
-      {
-        "ru": "Эрехтейон",
-        "de": "Erechtheion"
-      },
-      {
-        "ru": "Гефестейон",
-        "de": "Hephaisteion"
-      },
-      {
-        "ru": "Храм Ники",
-        "de": "Nike-Tempel"
-      }
+    "correct_answer_ru": "Парфенон",
+    "correct_answer_de": "Parthenon",
+    "wrong_answers_ru": [
+      "Эрехтейон",
+      "Гефестейон",
+      "Храм Ники"
     ],
-    "explanation": {
-      "ru": "Парфенон (Παρθενών, от παρθένος 'дева') - главный храм древних Афин, посвящённый богине Афине Парфенос (Деве). Он был построен в 447-432 гг. до н.э. на Акрополе по инициативе Перикла, после того как персы разрушили предыдущие храмы в 480 году до н.э. Архитекторами были Иктин и Калликрат, руководил строительством скульптор Фидий. Парфенон является вершиной дорического ордера, хотя включает элементы ионического. Храм построен из пентелийского мрамора, который со временем приобрёл золотистый оттенок. Размеры: 69,5 × 30,9 метра, высота колонн 10,4 метра. Храм окружён колоннадой из 46 колонн. Внутри находилась 12-метровая хрисоэлефантинная (золото и слоновая кость) статуя Афины работы Фидия, стоимостью 40-50 талантов (больше тонны золота). Парфенон славился скульптурным декором: метопы изображали битвы богов с гигантами, лапифов с кентаврами, греков с амазонками и троянцами; фронтоны - рождение Афины и её спор с Посейдоном за Аттику; фриз длиной 160 метров - торжественную панафинейскую процессию с 378 фигурами. Парфенон включал оптические иллюзии для идеальной гармонии: колонны наклонены внутрь, стилобат выгнут вверх в центре, угловые колонны толще. Храм функционировал как сокровищница Делосского союза. В истории он был христианским храмом, мечетью, пороховым складом (взрыв 1687 г. сильно повредил здание). В 1801-1812 гг. лорд Элгин вывез половину скульптур в Британский музей, что до сих пор вызывает споры.",
-      "de": "Der Parthenon (Παρθενών, von παρθένος 'Jungfrau') ist der Haupttempel des antiken Athen, der der Göttin Athena Parthenos (Jungfrau) gewidmet ist. Er wurde 447-432 v. Chr. auf der Akropolis auf Initiative von Perikles erbaut, nachdem die Perser 480 v. Chr. die früheren Tempel zerstört hatten. Architekten waren Iktinos und Kallikrates, die Bauleitung hatte der Bildhauer Phidias. Der Parthenon ist der Höhepunkt der dorischen Ordnung, enthält aber auch ionische Elemente. Der Tempel ist aus pentelischem Marmor gebaut, der im Laufe der Zeit einen goldenen Farbton annahm. Maße: 69,5 × 30,9 Meter, Säulenhöhe 10,4 Meter. Der Tempel ist von einer Kolonnade aus 46 Säulen umgeben. Im Inneren stand eine 12 Meter hohe chryselephantine Statue (Gold und Elfenbein) der Athena von Phidias im Wert von 40-50 Talenten (über einer Tonne Gold). Der Parthenon war berühmt für seinen skulpturalen Schmuck: Metopen zeigten Kämpfe der Götter mit Giganten, Lapithen mit Kentauren, Griechen mit Amazonen und Trojanern; Giebel - Athenas Geburt und ihren Streit mit Poseidon um Attika; Fries 160 Meter lang - die feierliche Panathenäen-Prozession mit 378 Figuren. Der Parthenon enthielt optische Illusionen für perfekte Harmonie: Säulen sind nach innen geneigt, das Stylobat ist in der Mitte nach oben gewölbt, Ecksäulen sind dicker. Der Tempel fungierte als Schatzkammer des Delischen Bundes. In der Geschichte war er christliche Kirche, Moschee, Pulverlager (Explosion 1687 beschädigte das Gebäude stark). 1801-1812 brachte Lord Elgin die Hälfte der Skulpturen ins Britische Museum, was bis heute Kontroversen auslöst."
-    },
+    "wrong_answers_de": [
+      "Erechtheion",
+      "Hephaisteion",
+      "Nike-Tempel"
+    ],
+    "explanation_ru": "Парфенон (Παρθενών, от παρθένος 'дева') - главный храм древних Афин, посвящённый богине Афине Парфенос (Деве). Он был построен в 447-432 гг. до н.э. на Акрополе по инициативе Перикла, после того как персы разрушили предыдущие храмы в 480 году до н.э. Архитекторами были Иктин и Калликрат, руководил строительством скульптор Фидий. Парфенон является вершиной дорического ордера, хотя включает элементы ионического. Храм построен из пентелийского мрамора, который со временем приобрёл золотистый оттенок. Размеры: 69,5 × 30,9 метра, высота колонн 10,4 метра. Храм окружён колоннадой из 46 колонн. Внутри находилась 12-метровая хрисоэлефантинная (золото и слоновая кость) статуя Афины работы Фидия, стоимостью 40-50 талантов (больше тонны золота). Парфенон славился скульптурным декором: метопы изображали битвы богов с гигантами, лапифов с кентаврами, греков с амазонками и троянцами; фронтоны - рождение Афины и её спор с Посейдоном за Аттику; фриз длиной 160 метров - торжественную панафинейскую процессию с 378 фигурами. Парфенон включал оптические иллюзии для идеальной гармонии: колонны наклонены внутрь, стилобат выгнут вверх в центре, угловые колонны толще. Храм функционировал как сокровищница Делосского союза. В истории он был христианским храмом, мечетью, пороховым складом (взрыв 1687 г. сильно повредил здание). В 1801-1812 гг. лорд Элгин вывез половину скульптур в Британский музей, что до сих пор вызывает споры.",
+    "explanation_de": "Der Parthenon (Παρθενών, von παρθένος 'Jungfrau') ist der Haupttempel des antiken Athen, der der Göttin Athena Parthenos (Jungfrau) gewidmet ist. Er wurde 447-432 v. Chr. auf der Akropolis auf Initiative von Perikles erbaut, nachdem die Perser 480 v. Chr. die früheren Tempel zerstört hatten. Architekten waren Iktinos und Kallikrates, die Bauleitung hatte der Bildhauer Phidias. Der Parthenon ist der Höhepunkt der dorischen Ordnung, enthält aber auch ionische Elemente. Der Tempel ist aus pentelischem Marmor gebaut, der im Laufe der Zeit einen goldenen Farbton annahm. Maße: 69,5 × 30,9 Meter, Säulenhöhe 10,4 Meter. Der Tempel ist von einer Kolonnade aus 46 Säulen umgeben. Im Inneren stand eine 12 Meter hohe chryselephantine Statue (Gold und Elfenbein) der Athena von Phidias im Wert von 40-50 Talenten (über einer Tonne Gold). Der Parthenon war berühmt für seinen skulpturalen Schmuck: Metopen zeigten Kämpfe der Götter mit Giganten, Lapithen mit Kentauren, Griechen mit Amazonen und Trojanern; Giebel - Athenas Geburt und ihren Streit mit Poseidon um Attika; Fries 160 Meter lang - die feierliche Panathenäen-Prozession mit 378 Figuren. Der Parthenon enthielt optische Illusionen für perfekte Harmonie: Säulen sind nach innen geneigt, das Stylobat ist in der Mitte nach oben gewölbt, Ecksäulen sind dicker. Der Tempel fungierte als Schatzkammer des Delischen Bundes. In der Geschichte war er christliche Kirche, Moschee, Pulverlager (Explosion 1687 beschädigte das Gebäude stark). 1801-1812 brachte Lord Elgin die Hälfte der Skulpturen ins Britische Museum, was bis heute Kontroversen auslöst.",
     "interesting_facts": [
       {
         "ru": "Парфенон содержит множество 'курватур' - намеренных отклонений от прямых линий для оптической коррекции. Стилобат (основание) не горизонтален, а выгнут вверх на 6 см в центре - иначе он казался бы провисшим. Колонны не вертикальны, а наклонены внутрь на 7 см - если бы их продолжили вверх, они сошлись бы на высоте 2,4 км. Колонны не цилиндрические, а имеют энтазис - лёгкое утолщение на высоте примерно в треть, что делает их визуально более стройными. Угловые колонны на 4 см толще остальных и расположены ближе к соседним - они кажутся тоньше из-за яркого неба за ними. Все эти refinements требовали сложнейших расчётов - каждый блок мрамора был уникален. Архитекторы не оставили чертежей, работая по пропорциям и 'на глаз'. Эти техники позже были забыты и переоткрыты только в XIX веке археологами.",
@@ -445,28 +391,22 @@
   },
   {
     "id": 210,
-    "question": "Кто был отцом Александра Македонского?",
+    "question_ru": "Кто был отцом Александра Македонского?",
     "question_de": "Wer war der Vater von Alexander dem Großen?",
-    "answer": "Филипп II",
-    "answer_de": "Philipp II.",
-    "wrong_answers": [
-      {
-        "ru": "Филипп III",
-        "de": "Philipp III."
-      },
-      {
-        "ru": "Александр I",
-        "de": "Alexander I."
-      },
-      {
-        "ru": "Пердикка II",
-        "de": "Perdikkas II."
-      }
+    "correct_answer_ru": "Филипп II",
+    "correct_answer_de": "Philipp II.",
+    "wrong_answers_ru": [
+      "Филипп III",
+      "Александр I",
+      "Пердикка II"
     ],
-    "explanation": {
-      "ru": "Филипп II Македонский (382-336 гг. до н.э.) был царём Македонии с 359 года до н.э. и отцом Александра Великого. Он превратил отсталое горное царство в доминирующую силу Греции. Филипп провёл реформу армии, создав македонскую фалангу с длинными копьями-сариссами (5-6 метров) и организованную конницу гетайров ('товарищей'). Эта военная машина позволила ему подчинить большую часть Греции. В 338 году до н.э. в битве при Херонее Филипп разгромил объединённые силы Афин и Фив. 18-летний Александр командовал конницей и решил исход битвы, уничтожив 'Священный отряд' Фив. После победы Филипп создал Коринфский союз греческих полисов под своим руководством и был провозглашён гегемоном (вождём) похода против Персии. Но в 336 году до н.э., в разгар приготовлений к войне, Филипп был убит на свадьбе своей дочери телохранителем Павсанием. Мотивы убийства неясны - возможно, личная месть (Павсаний был изнасилован приближённым Филиппа), возможно, заговор македонской знати или даже персидских агентов. Некоторые древние источники намекают на причастность Олимпиады, матери Александра, опасавшейся за права сына после седьмого брака Филиппа с юной Клеопатрой. 20-летний Александр унаследовал трон и завершил дело отца, завоевав Персидскую империю.",
-      "de": "Philipp II. von Makedonien (382-336 v. Chr.) war von 359 v. Chr. König von Makedonien und Vater Alexanders des Großen. Er verwandelte ein rückständiges Bergkönigreich in die dominierende Macht Griechenlands. Philipp reformierte die Armee und schuf die makedonische Phalanx mit langen Speeren-Sarissen (5-6 Meter) und organisierte Kavallerie der Hetairoi ('Gefährten'). Diese Kriegsmaschine ermöglichte es ihm, den größten Teil Griechenlands zu unterwerfen. 338 v. Chr. besiegte Philipp in der Schlacht von Chaironeia die vereinten Streitkräfte Athens und Thebens. Der 18-jährige Alexander kommandierte die Kavallerie und entschied den Ausgang der Schlacht, indem er die 'Heilige Schar' von Theben vernichtete. Nach dem Sieg schuf Philipp den Korinthischen Bund griechischer Poleis unter seiner Führung und wurde zum Hegemon (Anführer) des Feldzugs gegen Persien proklamiert. Aber 336 v. Chr., mitten in den Vorbereitungen für den Krieg, wurde Philipp auf der Hochzeit seiner Tochter von seinem Leibwächter Pausanias ermordet. Die Motive für den Mord sind unklar - möglicherweise persönliche Rache (Pausanias wurde von einem Vertrauten Philipps vergewaltigt), möglicherweise eine Verschwörung des makedonischen Adels oder sogar persischer Agenten. Einige antike Quellen deuten auf die Beteiligung der Olympias, Alexanders Mutter, hin, die um die Rechte ihres Sohnes nach Philipps siebter Ehe mit der jungen Kleopatra fürchtete. Der 20-jährige Alexander erbte den Thron und vollendete das Werk seines Vaters, indem er das Persische Reich eroberte."
-    },
+    "wrong_answers_de": [
+      "Philipp III.",
+      "Alexander I.",
+      "Perdikkas II."
+    ],
+    "explanation_ru": "Филипп II Македонский (382-336 гг. до н.э.) был царём Македонии с 359 года до н.э. и отцом Александра Великого. Он превратил отсталое горное царство в доминирующую силу Греции. Филипп провёл реформу армии, создав македонскую фалангу с длинными копьями-сариссами (5-6 метров) и организованную конницу гетайров ('товарищей'). Эта военная машина позволила ему подчинить большую часть Греции. В 338 году до н.э. в битве при Херонее Филипп разгромил объединённые силы Афин и Фив. 18-летний Александр командовал конницей и решил исход битвы, уничтожив 'Священный отряд' Фив. После победы Филипп создал Коринфский союз греческих полисов под своим руководством и был провозглашён гегемоном (вождём) похода против Персии. Но в 336 году до н.э., в разгар приготовлений к войне, Филипп был убит на свадьбе своей дочери телохранителем Павсанием. Мотивы убийства неясны - возможно, личная месть (Павсаний был изнасилован приближённым Филиппа), возможно, заговор македонской знати или даже персидских агентов. Некоторые древние источники намекают на причастность Олимпиады, матери Александра, опасавшейся за права сына после седьмого брака Филиппа с юной Клеопатрой. 20-летний Александр унаследовал трон и завершил дело отца, завоевав Персидскую империю.",
+    "explanation_de": "Philipp II. von Makedonien (382-336 v. Chr.) war von 359 v. Chr. König von Makedonien und Vater Alexanders des Großen. Er verwandelte ein rückständiges Bergkönigreich in die dominierende Macht Griechenlands. Philipp reformierte die Armee und schuf die makedonische Phalanx mit langen Speeren-Sarissen (5-6 Meter) und organisierte Kavallerie der Hetairoi ('Gefährten'). Diese Kriegsmaschine ermöglichte es ihm, den größten Teil Griechenlands zu unterwerfen. 338 v. Chr. besiegte Philipp in der Schlacht von Chaironeia die vereinten Streitkräfte Athens und Thebens. Der 18-jährige Alexander kommandierte die Kavallerie und entschied den Ausgang der Schlacht, indem er die 'Heilige Schar' von Theben vernichtete. Nach dem Sieg schuf Philipp den Korinthischen Bund griechischer Poleis unter seiner Führung und wurde zum Hegemon (Anführer) des Feldzugs gegen Persien proklamiert. Aber 336 v. Chr., mitten in den Vorbereitungen für den Krieg, wurde Philipp auf der Hochzeit seiner Tochter von seinem Leibwächter Pausanias ermordet. Die Motive für den Mord sind unklar - möglicherweise persönliche Rache (Pausanias wurde von einem Vertrauten Philipps vergewaltigt), möglicherweise eine Verschwörung des makedonischen Adels oder sogar persischer Agenten. Einige antike Quellen deuten auf die Beteiligung der Olympias, Alexanders Mutter, hin, die um die Rechte ihres Sohnes nach Philipps siebter Ehe mit der jungen Kleopatra fürchtete. Der 20-jährige Alexander erbte den Thron und vollendete das Werk seines Vaters, indem er das Persische Reich eroberte.",
     "interesting_facts": [
       {
         "ru": "Филипп потерял правый глаз в 354 году до н.э. при осаде города Мефона, когда стрела пронзила его глазницу. Это не остановило его военную карьеру - он продолжал командовать армиями ещё 18 лет. Современные антропологи исследовали останки из гробницы в Вергине (древняя Эги, столица Македонии), которую многие считают гробницей Филиппа. Череп демонстрирует повреждение правой глазницы, соответствующее древним описаниям. Также обнаружены повреждения ноги - Филипп хромал после ранения копьём в бедро. У него было множество боевых шрамов: сломанная ключица, травмированная рука, множественные раны. Демосфен, афинский оратор и враг Филиппа, саркастически называл его 'одноглазым варваром'. Но именно этот 'варвар' объединил Грецию силой оружия там, где Афины и Спарта потерпели неудачу дипломатией.",
@@ -494,28 +434,22 @@
   },
   {
     "id": 211,
-    "question": "Какой философ основал Академию?",
+    "question_ru": "Какой философ основал Академию?",
     "question_de": "Welcher Philosoph gründete die Akademie?",
-    "answer": "Платон",
-    "answer_de": "Platon",
-    "wrong_answers": [
-      {
-        "ru": "Аристотель",
-        "de": "Aristoteles"
-      },
-      {
-        "ru": "Сократ",
-        "de": "Sokrates"
-      },
-      {
-        "ru": "Эпикур",
-        "de": "Epikur"
-      }
+    "correct_answer_ru": "Платон",
+    "correct_answer_de": "Platon",
+    "wrong_answers_ru": [
+      "Аристотель",
+      "Сократ",
+      "Эпикур"
     ],
-    "explanation": {
-      "ru": "Платон (Πλάτων, 428/427-348/347 гг. до н.э.) основал Академию около 387 года до н.э. в роще героя Академа близ Афин. Это была первая высшая школа в Европе, просуществовавшая 916 лет до закрытия императором Юстинианом в 529 году н.э. Платон создал Академию после возвращения из Сиракуз, где пытался воплотить свои идеи об идеальном государстве при дворе тирана Дионисия I (неудачно - его чуть не продали в рабство). В Академии изучались философия, математика, астрономия, естественные науки. Над входом висела надпись: 'Негеометр да не войдёт!' (Ἀγεωμέτρητος μηδεὶς εἰσίτω). Обучение было бесплатным, но требовало серьёзной подготовки. Платон читал лекции в саду, прогуливаясь с учениками (отсюда 'перипатетическая' школа). Главным методом была диалектика - философская беседа через вопросы и ответы. Академия была не просто школой, а философско-научным сообществом. Среди учеников был Аристотель (20 лет учился у Платона), Евдокс Книдский (математик и астроном), Спевсипп (племянник и преемник Платона). Академия пережила несколько периодов: Старая Академия (платонизм), Средняя и Новая Академии (скептицизм), Неоплатоническая Академия. Традиция Академии повлияла на создание средневековых университетов, а слово 'академия' стало синонимом высшего учебного заведения.",
-      "de": "Platon (Πλάτων, 428/427-348/347 v. Chr.) gründete die Akademie um 387 v. Chr. im Hain des Helden Akademos bei Athen. Dies war die erste Hochschule Europas, die 916 Jahre bis zu ihrer Schließung durch Kaiser Justinian 529 n. Chr. existierte. Platon gründete die Akademie nach seiner Rückkehr aus Syrakus, wo er versuchte, seine Ideen über den idealen Staat am Hof des Tyrannen Dionysios I. umzusetzen (erfolglos - er wäre fast in die Sklaverei verkauft worden). In der Akademie wurden Philosophie, Mathematik, Astronomie und Naturwissenschaften studiert. Über dem Eingang hing die Inschrift: 'Kein Nicht-Geometer trete ein!' (Ἀγεωμέτρητος μηδεὶς εἰσίτω). Der Unterricht war kostenlos, erforderte aber ernsthafte Vorbereitung. Platon hielt Vorlesungen im Garten und ging mit Schülern spazieren (daher 'peripatetische' Schule). Die Hauptmethode war die Dialektik - philosophische Gespräche durch Fragen und Antworten. Die Akademie war nicht nur eine Schule, sondern eine philosophisch-wissenschaftliche Gemeinschaft. Unter den Schülern war Aristoteles (studierte 20 Jahre bei Platon), Eudoxos von Knidos (Mathematiker und Astronom), Speusippos (Neffe und Nachfolger Platons). Die Akademie durchlief mehrere Perioden: Alte Akademie (Platonismus), Mittlere und Neue Akademie (Skeptizismus), Neuplatonische Akademie. Die Tradition der Akademie beeinflusste die Gründung mittelalterlicher Universitäten, und das Wort 'Akademie' wurde zum Synonym für Hochschulen."
-    },
+    "wrong_answers_de": [
+      "Aristoteles",
+      "Sokrates",
+      "Epikur"
+    ],
+    "explanation_ru": "Платон (Πλάτων, 428/427-348/347 гг. до н.э.) основал Академию около 387 года до н.э. в роще героя Академа близ Афин. Это была первая высшая школа в Европе, просуществовавшая 916 лет до закрытия императором Юстинианом в 529 году н.э. Платон создал Академию после возвращения из Сиракуз, где пытался воплотить свои идеи об идеальном государстве при дворе тирана Дионисия I (неудачно - его чуть не продали в рабство). В Академии изучались философия, математика, астрономия, естественные науки. Над входом висела надпись: 'Негеометр да не войдёт!' (Ἀγεωμέτρητος μηδεὶς εἰσίτω). Обучение было бесплатным, но требовало серьёзной подготовки. Платон читал лекции в саду, прогуливаясь с учениками (отсюда 'перипатетическая' школа). Главным методом была диалектика - философская беседа через вопросы и ответы. Академия была не просто школой, а философско-научным сообществом. Среди учеников был Аристотель (20 лет учился у Платона), Евдокс Книдский (математик и астроном), Спевсипп (племянник и преемник Платона). Академия пережила несколько периодов: Старая Академия (платонизм), Средняя и Новая Академии (скептицизм), Неоплатоническая Академия. Традиция Академии повлияла на создание средневековых университетов, а слово 'академия' стало синонимом высшего учебного заведения.",
+    "explanation_de": "Platon (Πλάτων, 428/427-348/347 v. Chr.) gründete die Akademie um 387 v. Chr. im Hain des Helden Akademos bei Athen. Dies war die erste Hochschule Europas, die 916 Jahre bis zu ihrer Schließung durch Kaiser Justinian 529 n. Chr. existierte. Platon gründete die Akademie nach seiner Rückkehr aus Syrakus, wo er versuchte, seine Ideen über den idealen Staat am Hof des Tyrannen Dionysios I. umzusetzen (erfolglos - er wäre fast in die Sklaverei verkauft worden). In der Akademie wurden Philosophie, Mathematik, Astronomie und Naturwissenschaften studiert. Über dem Eingang hing die Inschrift: 'Kein Nicht-Geometer trete ein!' (Ἀγεωμέτρητος μηδεὶς εἰσίτω). Der Unterricht war kostenlos, erforderte aber ernsthafte Vorbereitung. Platon hielt Vorlesungen im Garten und ging mit Schülern spazieren (daher 'peripatetische' Schule). Die Hauptmethode war die Dialektik - philosophische Gespräche durch Fragen und Antworten. Die Akademie war nicht nur eine Schule, sondern eine philosophisch-wissenschaftliche Gemeinschaft. Unter den Schülern war Aristoteles (studierte 20 Jahre bei Platon), Eudoxos von Knidos (Mathematiker und Astronom), Speusippos (Neffe und Nachfolger Platons). Die Akademie durchlief mehrere Perioden: Alte Akademie (Platonismus), Mittlere und Neue Akademie (Skeptizismus), Neuplatonische Akademie. Die Tradition der Akademie beeinflusste die Gründung mittelalterlicher Universitäten, und das Wort 'Akademie' wurde zum Synonym für Hochschulen.",
     "interesting_facts": [
       {
         "ru": "Платон не был его настоящим именем - его звали Аристокл. 'Платон' (Πλάτων от πλατύς 'широкий') было прозвищем, данным, по разным версиям, из-за широких плеч (он занимался борьбой и гимнастикой), широкого лба или широты его философских взглядов. В молодости Платон мечтал о политической карьере, писал трагедии и стихи. Но встреча с Сократом в 407 году до н.э. изменила его жизнь - он сжёг свои поэтические произведения и посвятил себя философии. После казни Сократа в 399 году до н.э. Платон покинул Афины из страха и разочарования в афинской демократии, путешествовал 12 лет по Италии, Сицилии, Египту, может быть, Кирене. Эти путешествия обогатили его философию влияниями пифагорейцев, орфиков, египетских жрецов.",
@@ -543,28 +477,22 @@
   },
   {
     "id": 212,
-    "question": "Кто был верховным богом?",
+    "question_ru": "Кто был верховным богом?",
     "question_de": "Wer war der oberste Gott?",
-    "answer": "Зевс",
-    "answer_de": "Zeus",
-    "wrong_answers": [
-      {
-        "ru": "Посейдон",
-        "de": "Poseidon"
-      },
-      {
-        "ru": "Аид",
-        "de": "Hades"
-      },
-      {
-        "ru": "Аполлон",
-        "de": "Apollon"
-      }
+    "correct_answer_ru": "Зевс",
+    "correct_answer_de": "Zeus",
+    "wrong_answers_ru": [
+      "Посейдон",
+      "Аид",
+      "Аполлон"
     ],
-    "explanation": {
-      "ru": "Зевс (Ζεύς, у римлян Юпитер) был верховным богом древнегреческого пантеона, царём богов и людей, богом неба, грома и молнии, правды и справедливости. Согласно мифам, Зевс был младшим сыном титанов Кроноса и Реи. Кронос, боясь пророчества, что будет свергнут собственным сыном, глотал своих детей при рождении. Рея спасла Зевса, подсунув Кроносу вместо младенца камень, завёрнутый в пелёнки. Зевса тайно вырастили на Крите нимфы и коза Амалфея. Возмужав, Зевс заставил Кроноса изрыгнуть проглоченных братьев и сестёр (Посейдона, Аида, Геру, Деметру, Гестию), после чего началась Титаномахия - десятилетняя война богов и титанов. Зевс победил с помощью циклопов (подаривших ему молнии) и гекатонхейров (сторуких великанов). Побеждённые титаны были низвергнуты в Тартар. Зевс, Посейдон и Аид бросили жребий и поделили мир: Зевсу досталось небо, Посейдону - море, Аиду - подземное царство мёртвых, земля осталась общей. Зевс правил с горы Олимп, окружённый двенадцатью олимпийскими богами. Его атрибуты: орёл, скипетр, молния, эгида (щит с головой горгоны). Зевс славился многочисленными любовными похождениями - он был отцом множества богов и героев от богинь, нимф и смертных женщин, часто принимая различные обличья для соблазнения.",
-      "de": "Zeus (Ζεύς, bei den Römern Jupiter) war der oberste Gott des altgriechischen Pantheons, König der Götter und Menschen, Gott des Himmels, des Donners und des Blitzes, der Wahrheit und Gerechtigkeit. Den Mythen zufolge war Zeus der jüngste Sohn der Titanen Kronos und Rhea. Kronos, der eine Prophezeiung fürchtete, dass er von seinem eigenen Sohn gestürzt würde, verschlang seine Kinder bei der Geburt. Rhea rettete Zeus, indem sie Kronos statt des Babys einen in Windeln gewickelten Stein unterschob. Zeus wurde heimlich auf Kreta von Nymphen und der Ziege Amaltheia aufgezogen. Als er erwachsen war, zwang Zeus Kronos, die verschlungenen Geschwister zu erbrechen (Poseidon, Hades, Hera, Demeter, Hestia), woraufhin die Titanomachie begann - ein zehnjähriger Krieg zwischen Göttern und Titanen. Zeus siegte mit Hilfe der Kyklopen (die ihm Blitze schenkten) und Hekatoncheiren (hundertarmigen Riesen). Die besiegten Titanen wurden in den Tartaros gestürzt. Zeus, Poseidon und Hades warfen Lose und teilten die Welt: Zeus erhielt den Himmel, Poseidon das Meer, Hades das unterirdische Reich der Toten, die Erde blieb gemeinsam. Zeus herrschte vom Berg Olymp, umgeben von zwölf olympischen Göttern. Seine Attribute: Adler, Zepter, Blitz, Aigis (Schild mit Gorgonenkopf). Zeus war berühmt für seine zahlreichen Liebesaffären - er war Vater vieler Götter und Helden von Göttinnen, Nymphen und sterblichen Frauen, oft in verschiedenen Gestalten zur Verführung."
-    },
+    "wrong_answers_de": [
+      "Poseidon",
+      "Hades",
+      "Apollon"
+    ],
+    "explanation_ru": "Зевс (Ζεύς, у римлян Юпитер) был верховным богом древнегреческого пантеона, царём богов и людей, богом неба, грома и молнии, правды и справедливости. Согласно мифам, Зевс был младшим сыном титанов Кроноса и Реи. Кронос, боясь пророчества, что будет свергнут собственным сыном, глотал своих детей при рождении. Рея спасла Зевса, подсунув Кроносу вместо младенца камень, завёрнутый в пелёнки. Зевса тайно вырастили на Крите нимфы и коза Амалфея. Возмужав, Зевс заставил Кроноса изрыгнуть проглоченных братьев и сестёр (Посейдона, Аида, Геру, Деметру, Гестию), после чего началась Титаномахия - десятилетняя война богов и титанов. Зевс победил с помощью циклопов (подаривших ему молнии) и гекатонхейров (сторуких великанов). Побеждённые титаны были низвергнуты в Тартар. Зевс, Посейдон и Аид бросили жребий и поделили мир: Зевсу досталось небо, Посейдону - море, Аиду - подземное царство мёртвых, земля осталась общей. Зевс правил с горы Олимп, окружённый двенадцатью олимпийскими богами. Его атрибуты: орёл, скипетр, молния, эгида (щит с головой горгоны). Зевс славился многочисленными любовными похождениями - он был отцом множества богов и героев от богинь, нимф и смертных женщин, часто принимая различные обличья для соблазнения.",
+    "explanation_de": "Zeus (Ζεύς, bei den Römern Jupiter) war der oberste Gott des altgriechischen Pantheons, König der Götter und Menschen, Gott des Himmels, des Donners und des Blitzes, der Wahrheit und Gerechtigkeit. Den Mythen zufolge war Zeus der jüngste Sohn der Titanen Kronos und Rhea. Kronos, der eine Prophezeiung fürchtete, dass er von seinem eigenen Sohn gestürzt würde, verschlang seine Kinder bei der Geburt. Rhea rettete Zeus, indem sie Kronos statt des Babys einen in Windeln gewickelten Stein unterschob. Zeus wurde heimlich auf Kreta von Nymphen und der Ziege Amaltheia aufgezogen. Als er erwachsen war, zwang Zeus Kronos, die verschlungenen Geschwister zu erbrechen (Poseidon, Hades, Hera, Demeter, Hestia), woraufhin die Titanomachie begann - ein zehnjähriger Krieg zwischen Göttern und Titanen. Zeus siegte mit Hilfe der Kyklopen (die ihm Blitze schenkten) und Hekatoncheiren (hundertarmigen Riesen). Die besiegten Titanen wurden in den Tartaros gestürzt. Zeus, Poseidon und Hades warfen Lose und teilten die Welt: Zeus erhielt den Himmel, Poseidon das Meer, Hades das unterirdische Reich der Toten, die Erde blieb gemeinsam. Zeus herrschte vom Berg Olymp, umgeben von zwölf olympischen Göttern. Seine Attribute: Adler, Zepter, Blitz, Aigis (Schild mit Gorgonenkopf). Zeus war berühmt für seine zahlreichen Liebesaffären - er war Vater vieler Götter und Helden von Göttinnen, Nymphen und sterblichen Frauen, oft in verschiedenen Gestalten zur Verführung.",
     "interesting_facts": [
       {
         "ru": "Зевс был невероятно плодовитым богом - древние источники насчитывают более 90 его любовных связей и более 70 детей. Он принимал различные обличья для соблазнения: золотого дождя (Даная, мать Персея), быка (Европа), лебедя (Леда, мать Елены Троянской и Диоскуров), орла (Ганимед), облака (Ио), мужа-смертного (Алкмена, мать Геракла). Такое поведение отражало патриархальные ценности древнегреческого общества и божественное право правителя. Жена Зевса Гера была богиней брака, но постоянно страдала от измен мужа. Она жестоко мстила любовницам и их детям: превратила Ио в корову, преследовала Геракла всю жизнь, попыталась убить новорождённого Диониса. Зевс не мог или не хотел контролировать Геру, что показывает, что даже царь богов не был всесильным.",
@@ -592,28 +520,22 @@
   },
   {
     "id": 213,
-    "question": "В каком году произошла битва при Фермопилах?",
+    "question_ru": "В каком году произошла битва при Фермопилах?",
     "question_de": "In welchem Jahr fand die Schlacht bei den Thermopylen statt?",
-    "answer": "480 год до н.э.",
-    "answer_de": "480 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "490 год до н.э.",
-        "de": "490 v. Chr."
-      },
-      {
-        "ru": "479 год до н.э.",
-        "de": "479 v. Chr."
-      },
-      {
-        "ru": "481 год до н.э.",
-        "de": "481 v. Chr."
-      }
+    "correct_answer_ru": "480 год до н.э.",
+    "correct_answer_de": "480 v. Chr.",
+    "wrong_answers_ru": [
+      "490 год до н.э.",
+      "479 год до н.э.",
+      "481 год до н.э."
     ],
-    "explanation": {
-      "ru": "Битва при Фермопилах произошла в августе 480 года до н.э. в узком горном проходе Фермопилы ('Горячие ворота') между Северной и Центральной Грецией. Персидский царь Ксеркс I вёл огромную армию (по Геродоту - 2,5 млн, по современным оценкам - 70-300 тысяч) для покорения Греции. Спартанский царь Леонид возглавил отряд из 300 спартиатов, 700 феспийцев, 400 фиванцев и других союзников (всего около 7000). Три дня греки героически сдерживали персов в узком проходе, где численное превосходство не работало. Персы несли огромные потери. На четвёртый день предатель Эфиальт показал персам горную тропу в обход. Леонид, узнав об этом, отпустил союзников, оставшись с 300 спартанцами, 700 феспийцами и 400 фиванцами. Они сражались до последнего. На месте гибели спартанцев установлен памятник с эпитафией Симонида: 'Путник, пойди возвести нашим гражданам в Лакедемоне, что, их заветы блюдя, здесь мы костьми полегли'. Битва стала символом героизма и самопожертвования.",
-      "de": "Die Schlacht bei den Thermopylen fand im August 480 v. Chr. in einem engen Bergpass Thermopylae ('Heiße Tore') zwischen Nord- und Mittelgriechenland statt. Der persische König Xerxes I. führte eine riesige Armee (nach Herodot 2,5 Millionen, nach modernen Schätzungen 70-300 Tausend) zur Eroberung Griechenlands. Der spartanische König Leonidas führte eine Truppe von 300 Spartiaten, 700 Thespiern, 400 Thebanern und anderen Verbündeten (insgesamt etwa 7000). Drei Tage lang hielten die Griechen die Perser heroisch im engen Pass auf, wo die zahlenmäßige Überlegenheit nicht funktionierte. Die Perser erlitten enorme Verluste. Am vierten Tag zeigte der Verräter Ephialtes den Persern einen Gebirgspfad zur Umgehung. Leonidas, der davon erfuhr, entließ die Verbündeten und blieb mit 300 Spartanern, 700 Thespiern und 400 Thebanern. Sie kämpften bis zum Letzten. Am Ort des Todes der Spartaner wurde ein Denkmal mit Simonides' Epitaph errichtet: 'Wanderer, geh und verkünde unseren Bürgern in Lakedaimon, dass wir hier gefallen sind, ihre Gebote hütend'. Die Schlacht wurde zum Symbol für Heldenmut und Selbstaufopferung."
-    },
+    "wrong_answers_de": [
+      "490 v. Chr.",
+      "479 v. Chr.",
+      "481 v. Chr."
+    ],
+    "explanation_ru": "Битва при Фермопилах произошла в августе 480 года до н.э. в узком горном проходе Фермопилы ('Горячие ворота') между Северной и Центральной Грецией. Персидский царь Ксеркс I вёл огромную армию (по Геродоту - 2,5 млн, по современным оценкам - 70-300 тысяч) для покорения Греции. Спартанский царь Леонид возглавил отряд из 300 спартиатов, 700 феспийцев, 400 фиванцев и других союзников (всего около 7000). Три дня греки героически сдерживали персов в узком проходе, где численное превосходство не работало. Персы несли огромные потери. На четвёртый день предатель Эфиальт показал персам горную тропу в обход. Леонид, узнав об этом, отпустил союзников, оставшись с 300 спартанцами, 700 феспийцами и 400 фиванцами. Они сражались до последнего. На месте гибели спартанцев установлен памятник с эпитафией Симонида: 'Путник, пойди возвести нашим гражданам в Лакедемоне, что, их заветы блюдя, здесь мы костьми полегли'. Битва стала символом героизма и самопожертвования.",
+    "explanation_de": "Die Schlacht bei den Thermopylen fand im August 480 v. Chr. in einem engen Bergpass Thermopylae ('Heiße Tore') zwischen Nord- und Mittelgriechenland statt. Der persische König Xerxes I. führte eine riesige Armee (nach Herodot 2,5 Millionen, nach modernen Schätzungen 70-300 Tausend) zur Eroberung Griechenlands. Der spartanische König Leonidas führte eine Truppe von 300 Spartiaten, 700 Thespiern, 400 Thebanern und anderen Verbündeten (insgesamt etwa 7000). Drei Tage lang hielten die Griechen die Perser heroisch im engen Pass auf, wo die zahlenmäßige Überlegenheit nicht funktionierte. Die Perser erlitten enorme Verluste. Am vierten Tag zeigte der Verräter Ephialtes den Persern einen Gebirgspfad zur Umgehung. Leonidas, der davon erfuhr, entließ die Verbündeten und blieb mit 300 Spartanern, 700 Thespiern und 400 Thebanern. Sie kämpften bis zum Letzten. Am Ort des Todes der Spartaner wurde ein Denkmal mit Simonides' Epitaph errichtet: 'Wanderer, geh und verkünde unseren Bürgern in Lakedaimon, dass wir hier gefallen sind, ihre Gebote hütend'. Die Schlacht wurde zum Symbol für Heldenmut und Selbstaufopferung.",
     "interesting_facts": [
       {
         "ru": "Спартанцы перед битвой расчёсывали длинные волосы - персидские разведчики доложили Ксерксу об этом странном поведении. Бывший спартанский царь Демарат, находившийся в изгнании при персидском дворе, объяснил: это спартанский обычай перед смертью - они готовятся умереть красиво.",
@@ -641,28 +563,22 @@
   },
   {
     "id": 214,
-    "question": "Как назывался древнегреческий военный строй?",
+    "question_ru": "Как назывался древнегреческий военный строй?",
     "question_de": "Wie hieß die altgriechische Militärformation?",
-    "answer": "Фаланга",
-    "answer_de": "Phalanx",
-    "wrong_answers": [
-      {
-        "ru": "Легион",
-        "de": "Legion"
-      },
-      {
-        "ru": "Когорта",
-        "de": "Kohorte"
-      },
-      {
-        "ru": "Терция",
-        "de": "Tercio"
-      }
+    "correct_answer_ru": "Фаланга",
+    "correct_answer_de": "Phalanx",
+    "wrong_answers_ru": [
+      "Легион",
+      "Когорта",
+      "Терция"
     ],
-    "explanation": {
-      "ru": "Фаланга (φάλαγξ) - плотный боевой строй тяжеловооружённой пехоты (гоплитов), основа греческой военной тактики с VII века до н.э. Воины стояли плечом к плечу в 8-16 рядов, каждый защищён большим круглым щитом (гоплоном) диаметром около метра, которым прикрывал себя и товарища слева. Вооружение: длинное копьё (дору, 2-3 метра), меч (ксифос) для ближнего боя, бронзовый шлем, кираса, поножи. Первые ряды выставляли копья вперёд, создавая стену из наконечников. Строй двигался как единое целое - 'движущаяся стена'. Сила фаланги - в сплочённости и дисциплине. Слабость - негибкость: фаланга эффективна только на ровной местности и при фронтальной атаке, уязвима с флангов и тыла, трудна для маневрирования. Битва двух фаланг (отисмос) представляла собой толкание щитом в щит, пока одна из сторон не дрогнет. Македонская фаланга Филиппа II и Александра использовала сариссы (5-6 метров), что делало её ещё мощнее, но менее маневренной. Римский легион позже победил фалангу благодаря большей гибкости.",
-      "de": "Die Phalanx (φάλαγξ) war eine dichte Kampfformation schwer bewaffneter Infanterie (Hopliten), Grundlage der griechischen Militärtaktik seit dem 7. Jahrhundert v. Chr. Krieger standen Schulter an Schulter in 8-16 Reihen, jeder geschützt durch einen großen runden Schild (Hoplon) mit etwa einem Meter Durchmesser, der ihn selbst und den Kameraden links bedeckte. Bewaffnung: langes Speer (Dory, 2-3 Meter), Schwert (Xiphos) für Nahkampf, Bronzehelm, Panzer, Beinschienen. Die ersten Reihen streckten Speere nach vorne und schufen eine Wand aus Spitzen. Die Formation bewegte sich als Ganzes - 'bewegende Wand'. Stärke der Phalanx - Zusammenhalt und Disziplin. Schwäche - Unflexibilität: Die Phalanx ist nur auf ebenem Gelände und bei Frontalangriff effektiv, verwundbar von Flanken und Rücken, schwer zu manövrieren. Der Kampf zweier Phalanxen (Othismos) war ein Schildstoßen gegen Schild, bis eine Seite nachgab. Die makedonische Phalanx von Philipp II. und Alexander verwendete Sarissen (5-6 Meter), was sie noch mächtiger, aber weniger manövrierfähig machte. Die römische Legion besiegte später die Phalanx durch größere Flexibilität."
-    },
+    "wrong_answers_de": [
+      "Legion",
+      "Kohorte",
+      "Tercio"
+    ],
+    "explanation_ru": "Фаланга (φάλαγξ) - плотный боевой строй тяжеловооружённой пехоты (гоплитов), основа греческой военной тактики с VII века до н.э. Воины стояли плечом к плечу в 8-16 рядов, каждый защищён большим круглым щитом (гоплоном) диаметром около метра, которым прикрывал себя и товарища слева. Вооружение: длинное копьё (дору, 2-3 метра), меч (ксифос) для ближнего боя, бронзовый шлем, кираса, поножи. Первые ряды выставляли копья вперёд, создавая стену из наконечников. Строй двигался как единое целое - 'движущаяся стена'. Сила фаланги - в сплочённости и дисциплине. Слабость - негибкость: фаланга эффективна только на ровной местности и при фронтальной атаке, уязвима с флангов и тыла, трудна для маневрирования. Битва двух фаланг (отисмос) представляла собой толкание щитом в щит, пока одна из сторон не дрогнет. Македонская фаланга Филиппа II и Александра использовала сариссы (5-6 метров), что делало её ещё мощнее, но менее маневренной. Римский легион позже победил фалангу благодаря большей гибкости.",
+    "explanation_de": "Die Phalanx (φάλαγξ) war eine dichte Kampfformation schwer bewaffneter Infanterie (Hopliten), Grundlage der griechischen Militärtaktik seit dem 7. Jahrhundert v. Chr. Krieger standen Schulter an Schulter in 8-16 Reihen, jeder geschützt durch einen großen runden Schild (Hoplon) mit etwa einem Meter Durchmesser, der ihn selbst und den Kameraden links bedeckte. Bewaffnung: langes Speer (Dory, 2-3 Meter), Schwert (Xiphos) für Nahkampf, Bronzehelm, Panzer, Beinschienen. Die ersten Reihen streckten Speere nach vorne und schufen eine Wand aus Spitzen. Die Formation bewegte sich als Ganzes - 'bewegende Wand'. Stärke der Phalanx - Zusammenhalt und Disziplin. Schwäche - Unflexibilität: Die Phalanx ist nur auf ebenem Gelände und bei Frontalangriff effektiv, verwundbar von Flanken und Rücken, schwer zu manövrieren. Der Kampf zweier Phalanxen (Othismos) war ein Schildstoßen gegen Schild, bis eine Seite nachgab. Die makedonische Phalanx von Philipp II. und Alexander verwendete Sarissen (5-6 Meter), was sie noch mächtiger, aber weniger manövrierfähig machte. Die römische Legion besiegte später die Phalanx durch größere Flexibilität.",
     "interesting_facts": [
       {
         "ru": "Термин 'фаланга' применялся и к пальцам - древние греки видели сходство между плотным строем воинов и костями пальцев. В медицине фалангами называются кости пальцев рук и ног.",
@@ -690,28 +606,22 @@
   },
   {
     "id": 215,
-    "question": "Кто была богиня любви и красоты?",
+    "question_ru": "Кто была богиня любви и красоты?",
     "question_de": "Wer war die Göttin der Liebe und Schönheit?",
-    "answer": "Афродита",
-    "answer_de": "Aphrodite",
-    "wrong_answers": [
-      {
-        "ru": "Артемида",
-        "de": "Artemis"
-      },
-      {
-        "ru": "Афина",
-        "de": "Athene"
-      },
-      {
-        "ru": "Гера",
-        "de": "Hera"
-      }
+    "correct_answer_ru": "Афродита",
+    "correct_answer_de": "Aphrodite",
+    "wrong_answers_ru": [
+      "Артемида",
+      "Афина",
+      "Гера"
     ],
-    "explanation": {
-      "ru": "Афродита (Ἀφροδίτη, у римлян Венера) была богиней любви, красоты, страсти, плодородия и чувственности. По одной версии мифа (у Гесиода), она родилась из морской пены, возникшей вокруг отрезанных гениталий Урана, брошенных в море Кроносом - отсюда её эпитет 'Афродита Урания' (Небесная) и этимология имени от ἀφρός 'пена'. По другой версии (у Гомера), она дочь Зевса и океаниды Дионы. Афродита вышла из моря у берегов Кипра (отсюда эпитет 'Киприда') или Киферы. Она была замужем за хромым кузнецом богов Гефестом, но имела множество любовников, включая Ареса (бога войны), Гермеса, Диониса и смертного пастуха Анхиза (родила Энея, легендарного предка римлян). Афродита владела волшебным поясом (кестос), делавшим её неотразимой. Её символы: голубь, лебедь, роза, мирт, яблоко, раковина. Культ Афродиты был необычайно популярен, особенно на Кипре, в Коринфе и Книде. В некоторых храмах практиковалась священная проституция (храмовые гетеры). Знаменитая статуя 'Афродита Книдская' Праксителя была первым полностью обнажённым женским изображением в греческой скульптуре.",
-      "de": "Aphrodite (Ἀφροδίτη, bei den Römern Venus) war die Göttin der Liebe, Schönheit, Leidenschaft, Fruchtbarkeit und Sinnlichkeit. Einer Version des Mythos zufolge (bei Hesiod) wurde sie aus Meeresschaum geboren, der um die abgeschnittenen Genitalien des Uranos entstand, die Kronos ins Meer warf - daher ihr Beiname 'Aphrodite Urania' (Himmlische) und die Etymologie des Namens von ἀφρός 'Schaum'. Nach einer anderen Version (bei Homer) ist sie die Tochter des Zeus und der Okeanide Dione. Aphrodite stieg aus dem Meer an den Küsten von Zypern (daher der Beiname 'Kypris') oder Kythera. Sie war mit dem lahmen Schmied der Götter Hephaistos verheiratet, hatte aber viele Liebhaber, darunter Ares (Kriegsgott), Hermes, Dionysos und den sterblichen Hirten Anchises (gebar Aeneas, den legendären Vorfahren der Römer). Aphrodite besaß einen Zaubergürtel (Kestos), der sie unwiderstehlich machte. Ihre Symbole: Taube, Schwan, Rose, Myrte, Apfel, Muschel. Der Kult der Aphrodite war außerordentlich populär, besonders auf Zypern, in Korinth und Knidos. In einigen Tempeln wurde heilige Prostitution praktiziert (Tempelheten). Die berühmte Statue 'Aphrodite von Knidos' von Praxiteles war die erste vollständig nackte weibliche Darstellung in der griechischen Skulptur."
-    },
+    "wrong_answers_de": [
+      "Artemis",
+      "Athene",
+      "Hera"
+    ],
+    "explanation_ru": "Афродита (Ἀφροδίτη, у римлян Венера) была богиней любви, красоты, страсти, плодородия и чувственности. По одной версии мифа (у Гесиода), она родилась из морской пены, возникшей вокруг отрезанных гениталий Урана, брошенных в море Кроносом - отсюда её эпитет 'Афродита Урания' (Небесная) и этимология имени от ἀφρός 'пена'. По другой версии (у Гомера), она дочь Зевса и океаниды Дионы. Афродита вышла из моря у берегов Кипра (отсюда эпитет 'Киприда') или Киферы. Она была замужем за хромым кузнецом богов Гефестом, но имела множество любовников, включая Ареса (бога войны), Гермеса, Диониса и смертного пастуха Анхиза (родила Энея, легендарного предка римлян). Афродита владела волшебным поясом (кестос), делавшим её неотразимой. Её символы: голубь, лебедь, роза, мирт, яблоко, раковина. Культ Афродиты был необычайно популярен, особенно на Кипре, в Коринфе и Книде. В некоторых храмах практиковалась священная проституция (храмовые гетеры). Знаменитая статуя 'Афродита Книдская' Праксителя была первым полностью обнажённым женским изображением в греческой скульптуре.",
+    "explanation_de": "Aphrodite (Ἀφροδίτη, bei den Römern Venus) war die Göttin der Liebe, Schönheit, Leidenschaft, Fruchtbarkeit und Sinnlichkeit. Einer Version des Mythos zufolge (bei Hesiod) wurde sie aus Meeresschaum geboren, der um die abgeschnittenen Genitalien des Uranos entstand, die Kronos ins Meer warf - daher ihr Beiname 'Aphrodite Urania' (Himmlische) und die Etymologie des Namens von ἀφρός 'Schaum'. Nach einer anderen Version (bei Homer) ist sie die Tochter des Zeus und der Okeanide Dione. Aphrodite stieg aus dem Meer an den Küsten von Zypern (daher der Beiname 'Kypris') oder Kythera. Sie war mit dem lahmen Schmied der Götter Hephaistos verheiratet, hatte aber viele Liebhaber, darunter Ares (Kriegsgott), Hermes, Dionysos und den sterblichen Hirten Anchises (gebar Aeneas, den legendären Vorfahren der Römer). Aphrodite besaß einen Zaubergürtel (Kestos), der sie unwiderstehlich machte. Ihre Symbole: Taube, Schwan, Rose, Myrte, Apfel, Muschel. Der Kult der Aphrodite war außerordentlich populär, besonders auf Zypern, in Korinth und Knidos. In einigen Tempeln wurde heilige Prostitution praktiziert (Tempelheten). Die berühmte Statue 'Aphrodite von Knidos' von Praxiteles war die erste vollständig nackte weibliche Darstellung in der griechischen Skulptur.",
     "interesting_facts": [
       {
         "ru": "Статуя 'Венера Милосская' (около 130-100 гг. до н.э.), найденная в 1820 году на острове Милос, стала символом женской красоты. Она хранится в Лувре. Руки статуи отсутствуют, что породило множество теорий об их положении. Некоторые считают, что она держала яблоко - приз 'Суда Париса'.",
@@ -739,28 +649,22 @@
   },
   {
     "id": 216,
-    "question": "В каком году Александр умер?",
+    "question_ru": "В каком году Александр умер?",
     "question_de": "In welchem Jahr starb Alexander?",
-    "answer": "323 год до н.э.",
-    "answer_de": "323 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "324 год до н.э.",
-        "de": "324 v. Chr."
-      },
-      {
-        "ru": "322 год до н.э.",
-        "de": "322 v. Chr."
-      },
-      {
-        "ru": "325 год до н.э.",
-        "de": "325 v. Chr."
-      }
+    "correct_answer_ru": "323 год до н.э.",
+    "correct_answer_de": "323 v. Chr.",
+    "wrong_answers_ru": [
+      "324 год до н.э.",
+      "322 год до н.э.",
+      "325 год до н.э."
     ],
-    "explanation": {
-      "ru": "Александр Великий умер 10 или 11 июня 323 года до н.э. в Вавилоне в возрасте 32 лет, на вершине своего могущества. Причина смерти остаётся загадкой. Древние источники описывают двухнедельную лихорадку после пира у его друга Медия. Симптомы включали высокую температуру, сильную боль в животе, прогрессирующий паралич. Современные медики предполагают различные диагнозы: малярия, брюшной тиф, панкреатит, отравление (возможно мышьяком), даже синдром Гийена-Барре. Согласно 'Дневникам царского двора', Александр потерял речь за день до смерти, но когда соратники проходили мимо, он узнавал каждого движением глаз. По легенде, на вопрос 'Кому оставляешь царство?' он прошептал 'Кратистос' (сильнейшему) или 'Кратерос' (имя полководца) - источники расходятся. Его тело поместили в золотой саркофаг, наполненный мёдом, и отправили в Александрию Египетскую, где Птолемей I перехватил процессию и похоронил Александра в своих владениях, легитимизируя власть. Могила была утеряна в древности. Смерть Александра породила хаос - диадохи (преемники) 40 лет воевали, разделив империю на эллинистические царства.",
-      "de": "Alexander der Große starb am 10. oder 11. Juni 323 v. Chr. in Babylon im Alter von 32 Jahren auf dem Höhepunkt seiner Macht. Die Todesursache bleibt ein Rätsel. Antike Quellen beschreiben ein zweiwöchiges Fieber nach einem Fest bei seinem Freund Medios. Symptome umfassten hohes Fieber, starke Bauchschmerzen, fortschreitende Lähmung. Moderne Mediziner vermuten verschiedene Diagnosen: Malaria, Typhus, Pankreatitis, Vergiftung (möglicherweise Arsen), sogar Guillain-Barré-Syndrom. Den 'Königlichen Tagebüchern' zufolge verlor Alexander einen Tag vor seinem Tod die Sprache, aber als Gefährten vorbeigingen, erkannte er jeden durch Augenbewegungen. Der Legende nach antwortete er auf die Frage 'Wem überlässt du das Königreich?' flüsternd 'Kratistos' (dem Stärksten) oder 'Krateros' (Name eines Generals) - die Quellen widersprechen sich. Sein Körper wurde in einem goldenen Sarkophag mit Honig gefüllt und nach Alexandria in Ägypten geschickt, wo Ptolemaios I. die Prozession abfing und Alexander in seinen Besitzungen begrub, um seine Macht zu legitimieren. Das Grab ging in der Antike verloren. Alexanders Tod führte zu Chaos - die Diadochen (Nachfolger) führten 40 Jahre Krieg und teilten das Reich in hellenistische Königreiche auf."
-    },
+    "wrong_answers_de": [
+      "324 v. Chr.",
+      "322 v. Chr.",
+      "325 v. Chr."
+    ],
+    "explanation_ru": "Александр Великий умер 10 или 11 июня 323 года до н.э. в Вавилоне в возрасте 32 лет, на вершине своего могущества. Причина смерти остаётся загадкой. Древние источники описывают двухнедельную лихорадку после пира у его друга Медия. Симптомы включали высокую температуру, сильную боль в животе, прогрессирующий паралич. Современные медики предполагают различные диагнозы: малярия, брюшной тиф, панкреатит, отравление (возможно мышьяком), даже синдром Гийена-Барре. Согласно 'Дневникам царского двора', Александр потерял речь за день до смерти, но когда соратники проходили мимо, он узнавал каждого движением глаз. По легенде, на вопрос 'Кому оставляешь царство?' он прошептал 'Кратистос' (сильнейшему) или 'Кратерос' (имя полководца) - источники расходятся. Его тело поместили в золотой саркофаг, наполненный мёдом, и отправили в Александрию Египетскую, где Птолемей I перехватил процессию и похоронил Александра в своих владениях, легитимизируя власть. Могила была утеряна в древности. Смерть Александра породила хаос - диадохи (преемники) 40 лет воевали, разделив империю на эллинистические царства.",
+    "explanation_de": "Alexander der Große starb am 10. oder 11. Juni 323 v. Chr. in Babylon im Alter von 32 Jahren auf dem Höhepunkt seiner Macht. Die Todesursache bleibt ein Rätsel. Antike Quellen beschreiben ein zweiwöchiges Fieber nach einem Fest bei seinem Freund Medios. Symptome umfassten hohes Fieber, starke Bauchschmerzen, fortschreitende Lähmung. Moderne Mediziner vermuten verschiedene Diagnosen: Malaria, Typhus, Pankreatitis, Vergiftung (möglicherweise Arsen), sogar Guillain-Barré-Syndrom. Den 'Königlichen Tagebüchern' zufolge verlor Alexander einen Tag vor seinem Tod die Sprache, aber als Gefährten vorbeigingen, erkannte er jeden durch Augenbewegungen. Der Legende nach antwortete er auf die Frage 'Wem überlässt du das Königreich?' flüsternd 'Kratistos' (dem Stärksten) oder 'Krateros' (Name eines Generals) - die Quellen widersprechen sich. Sein Körper wurde in einem goldenen Sarkophag mit Honig gefüllt und nach Alexandria in Ägypten geschickt, wo Ptolemaios I. die Prozession abfing und Alexander in seinen Besitzungen begrub, um seine Macht zu legitimieren. Das Grab ging in der Antike verloren. Alexanders Tod führte zu Chaos - die Diadochen (Nachfolger) führten 40 Jahre Krieg und teilten das Reich in hellenistische Königreiche auf.",
     "interesting_facts": [
       {
         "ru": "Существует теория отравления Александра. Некоторые историки обвиняют Антипатра (наместника Македонии), чьи сыновья Кассандр и Иолай присутствовали в Вавилоне. Мотив: Александр планировал сместить Антипатра. Яд мог быть доставлен в рогах дикого осла (единственном сосуде, способном хранить воду реки Стикс, смертельно ядовитую по легенде). Однако большинство современных учёных считают отравление маловероятным - симптомы не типичны для известных древних ядов.",
@@ -787,28 +691,22 @@
   },
   {
     "id": 217,
-    "question": "Как называлось народное собрание в Афинах?",
+    "question_ru": "Как называлось народное собрание в Афинах?",
     "question_de": "Wie hieß die Volksversammlung in Athen?",
-    "answer": "Экклесия",
-    "answer_de": "Ekklesia",
-    "wrong_answers": [
-      {
-        "ru": "Буле",
-        "de": "Bule"
-      },
-      {
-        "ru": "Ареопаг",
-        "de": "Areopag"
-      },
-      {
-        "ru": "Герусия",
-        "de": "Gerusia"
-      }
+    "correct_answer_ru": "Экклесия",
+    "correct_answer_de": "Ekklesia",
+    "wrong_answers_ru": [
+      "Буле",
+      "Ареопаг",
+      "Герусия"
     ],
-    "explanation": {
-      "ru": "Экклесия (ἐκκλησία, буквально 'призванные') была народным собранием в Афинах, высшим органом власти в афинской демократии. В экклесии могли участвовать все полноправные граждане-мужчины старше 20 лет (около 40-60 тысяч человек, хотя обычно собиралось 5-6 тысяч, минимальный кворум 6000 для важных решений). Женщины, метеки (иностранцы) и рабы не имели права голоса. Собрания проводились на холме Пникс (позже в театре Диониса) минимум 40 раз в год. Граждане голосовали поднятием рук (хейротония) по большинству вопросов или черепками (острака) при остракизме - изгнании опасных политиков на 10 лет. Экклесия принимала законы, объявляла войну и мир, избирала стратегов и других должностных лиц, контролировала финансы, судила государственных преступников. Любой гражданин мог выступить (исегория - равное право речи), но практически инициативы исходили от политических лидеров. Демагоги (буквально 'ведущие народ') вроде Перикла, Клеона или Демосфена влияли на решения ораторским мастерством. Критики демократии (Платон, Аристотель) считали экклесию непостоянной - толпа могла принять противоречивые решения под влиянием эмоций. Например, афиняне проголосовали казнить всех мужчин Митилены, взбунтовавшейся колонии, но на следующий день передумали и отправили вторую триеру отменить приказ (она прибыла вовремя).",
-      "de": "Die Ekklesia (ἐκκλησία, wörtlich 'die Berufenen') war die Volksversammlung in Athen, das höchste Machtorgan der athenischen Demokratie. An der Ekklesia konnten alle vollwertigen männlichen Bürger über 20 Jahre teilnehmen (etwa 40-60 Tausend Menschen, obwohl normalerweise 5-6 Tausend zusammenkamen, Mindestquorum 6000 für wichtige Entscheidungen). Frauen, Metöken (Ausländer) und Sklaven hatten kein Stimmrecht. Versammlungen fanden auf dem Pnyx-Hügel (später im Dionysos-Theater) mindestens 40 Mal im Jahr statt. Die Bürger stimmten durch Handerhebung (Cheirotonie) über die meisten Fragen oder durch Tonscherben (Ostraka) beim Ostrakismos - Verbannung gefährlicher Politiker für 10 Jahre. Die Ekklesia verabschiedete Gesetze, erklärte Krieg und Frieden, wählte Strategen und andere Beamte, kontrollierte Finanzen, richtete Staatsverbrecher. Jeder Bürger konnte sprechen (Isegoria - gleiches Rederecht), aber praktisch gingen Initiativen von politischen Führern aus. Demagogen (wörtlich 'Volksführer') wie Perikles, Kleon oder Demosthenes beeinflussten Entscheidungen durch Redekunst. Kritiker der Demokratie (Platon, Aristoteles) hielten die Ekklesia für unbeständig - die Menge konnte unter emotionalem Einfluss widersprüchliche Entscheidungen treffen. Zum Beispiel stimmten die Athener für die Hinrichtung aller Männer von Mytilene, einer rebellierenden Kolonie, änderten aber am nächsten Tag ihre Meinung und schickten eine zweite Triere, um den Befehl zu widerrufen (sie kam rechtzeitig an)."
-    },
+    "wrong_answers_de": [
+      "Bule",
+      "Areopag",
+      "Gerusia"
+    ],
+    "explanation_ru": "Экклесия (ἐκκλησία, буквально 'призванные') была народным собранием в Афинах, высшим органом власти в афинской демократии. В экклесии могли участвовать все полноправные граждане-мужчины старше 20 лет (около 40-60 тысяч человек, хотя обычно собиралось 5-6 тысяч, минимальный кворум 6000 для важных решений). Женщины, метеки (иностранцы) и рабы не имели права голоса. Собрания проводились на холме Пникс (позже в театре Диониса) минимум 40 раз в год. Граждане голосовали поднятием рук (хейротония) по большинству вопросов или черепками (острака) при остракизме - изгнании опасных политиков на 10 лет. Экклесия принимала законы, объявляла войну и мир, избирала стратегов и других должностных лиц, контролировала финансы, судила государственных преступников. Любой гражданин мог выступить (исегория - равное право речи), но практически инициативы исходили от политических лидеров. Демагоги (буквально 'ведущие народ') вроде Перикла, Клеона или Демосфена влияли на решения ораторским мастерством. Критики демократии (Платон, Аристотель) считали экклесию непостоянной - толпа могла принять противоречивые решения под влиянием эмоций. Например, афиняне проголосовали казнить всех мужчин Митилены, взбунтовавшейся колонии, но на следующий день передумали и отправили вторую триеру отменить приказ (она прибыла вовремя).",
+    "explanation_de": "Die Ekklesia (ἐκκλησία, wörtlich 'die Berufenen') war die Volksversammlung in Athen, das höchste Machtorgan der athenischen Demokratie. An der Ekklesia konnten alle vollwertigen männlichen Bürger über 20 Jahre teilnehmen (etwa 40-60 Tausend Menschen, obwohl normalerweise 5-6 Tausend zusammenkamen, Mindestquorum 6000 für wichtige Entscheidungen). Frauen, Metöken (Ausländer) und Sklaven hatten kein Stimmrecht. Versammlungen fanden auf dem Pnyx-Hügel (später im Dionysos-Theater) mindestens 40 Mal im Jahr statt. Die Bürger stimmten durch Handerhebung (Cheirotonie) über die meisten Fragen oder durch Tonscherben (Ostraka) beim Ostrakismos - Verbannung gefährlicher Politiker für 10 Jahre. Die Ekklesia verabschiedete Gesetze, erklärte Krieg und Frieden, wählte Strategen und andere Beamte, kontrollierte Finanzen, richtete Staatsverbrecher. Jeder Bürger konnte sprechen (Isegoria - gleiches Rederecht), aber praktisch gingen Initiativen von politischen Führern aus. Demagogen (wörtlich 'Volksführer') wie Perikles, Kleon oder Demosthenes beeinflussten Entscheidungen durch Redekunst. Kritiker der Demokratie (Platon, Aristoteles) hielten die Ekklesia für unbeständig - die Menge konnte unter emotionalem Einfluss widersprüchliche Entscheidungen treffen. Zum Beispiel stimmten die Athener für die Hinrichtung aller Männer von Mytilene, einer rebellierenden Kolonie, änderten aber am nächsten Tag ihre Meinung und schickten eine zweite Triere, um den Befehl zu widerrufen (sie kam rechtzeitig an).",
     "interesting_facts": [
       {
         "ru": "С VI века до н.э. афиняне получали плату за участие в экклесии - 3 обола в день (позже увеличено до 1 драхмы для обычных собраний, 1,5 драхмы для главных). Это позволяло бедным гражданам участвовать в политике, не теряя заработка. Оплата была введена Периклом и критиковалась как 'подкуп народа'. Аристофан высмеивал граждан, бегущих на собрание только ради денег. Но система работала - афинская демократия была самой инклюзивной в древнем мире.",
@@ -836,28 +734,22 @@
   },
   {
     "id": 218,
-    "question": "Кто был учителем Платона?",
+    "question_ru": "Кто был учителем Платона?",
     "question_de": "Wer war Platons Lehrer?",
-    "answer": "Сократ",
-    "answer_de": "Sokrates",
-    "wrong_answers": [
-      {
-        "ru": "Аристотель",
-        "de": "Aristoteles"
-      },
-      {
-        "ru": "Пифагор",
-        "de": "Pythagoras"
-      },
-      {
-        "ru": "Гераклит",
-        "de": "Heraklit"
-      }
+    "correct_answer_ru": "Сократ",
+    "correct_answer_de": "Sokrates",
+    "wrong_answers_ru": [
+      "Аристотель",
+      "Пифагор",
+      "Гераклит"
     ],
-    "explanation": {
-      "ru": "Сократ (Σωκράτης, 469-399 гг. до н.э.) был учителем Платона и одним из основателей западной философии, хотя сам ничего не писал. Всё, что мы знаем о нём, происходит из сочинений его учеников (Платон, Ксенофонт) и критиков (Аристофан). Сократ был афинским гражданином, сыном каменотёса и повитухи. В молодости участвовал в Пелопоннесской войне, проявил храбрость при Потидее и Делии. Но главным его занятием стала философия. Он ходил по агоре, беседуя с гражданами, задавая вопросы и демонстрируя, что они не знают того, что думают, что знают. Его метод - майевтика ('повивальное искусство') - через вопросы помогал собеседнику 'родить' истину. Сократ утверждал, что 'знаю, что ничего не знаю' и что 'неисследованная жизнь не стоит того, чтобы жить'. В 399 г. до н.э. Сократа обвинили в нечестии (непризнание богов полиса, введение новых богов) и развращении молодёжи. На суде он отказался просить о снисхождении, заявив, что заслуживает не наказания, а бесплатного питания в пританее (высшая честь). Приговорён к смерти. Отказался от побега, предложенного учениками, и выпил цикуту (яд), спокойно беседуя о бессмертии души. Его смерть описана Платоном в диалоге 'Федон' - одна из самых трогательных сцен мировой литературы.",
-      "de": "Sokrates (Σωκράτης, 469-399 v. Chr.) war Platons Lehrer und einer der Gründer der westlichen Philosophie, obwohl er selbst nichts schrieb. Alles, was wir über ihn wissen, stammt aus den Schriften seiner Schüler (Platon, Xenophon) und Kritiker (Aristophanes). Sokrates war athenischer Bürger, Sohn eines Steinmetzes und einer Hebamme. In seiner Jugend nahm er am Peloponnesischen Krieg teil und zeigte Mut bei Potidaia und Delion. Aber seine Hauptbeschäftigung wurde Philosophie. Er ging über die Agora und unterhielt sich mit Bürgern, stellte Fragen und demonstrierte, dass sie nicht wissen, was sie zu wissen glauben. Seine Methode - Mäeutik ('Hebammenkunst') - half dem Gesprächspartner durch Fragen, die Wahrheit zu 'gebären'. Sokrates behauptete, 'ich weiß, dass ich nichts weiß' und 'ein ungeprüftes Leben ist nicht lebenswert'. 399 v. Chr. wurde Sokrates der Gottlosigkeit (Nichtanerkennung der Götter der Polis, Einführung neuer Götter) und Verderbung der Jugend angeklagt. Vor Gericht weigerte er sich, um Gnade zu bitten, und erklärte, er verdiene keine Bestrafung, sondern kostenlose Verpflegung im Prytaneion (höchste Ehre). Zum Tode verurteilt. Er lehnte die von Schülern angebotene Flucht ab und trank Schierlingsbecher (Gift), während er ruhig über die Unsterblichkeit der Seele sprach. Sein Tod wird von Platon im Dialog 'Phaidon' beschrieben - eine der ergreifendsten Szenen der Weltliteratur."
-    },
+    "wrong_answers_de": [
+      "Aristoteles",
+      "Pythagoras",
+      "Heraklit"
+    ],
+    "explanation_ru": "Сократ (Σωκράτης, 469-399 гг. до н.э.) был учителем Платона и одним из основателей западной философии, хотя сам ничего не писал. Всё, что мы знаем о нём, происходит из сочинений его учеников (Платон, Ксенофонт) и критиков (Аристофан). Сократ был афинским гражданином, сыном каменотёса и повитухи. В молодости участвовал в Пелопоннесской войне, проявил храбрость при Потидее и Делии. Но главным его занятием стала философия. Он ходил по агоре, беседуя с гражданами, задавая вопросы и демонстрируя, что они не знают того, что думают, что знают. Его метод - майевтика ('повивальное искусство') - через вопросы помогал собеседнику 'родить' истину. Сократ утверждал, что 'знаю, что ничего не знаю' и что 'неисследованная жизнь не стоит того, чтобы жить'. В 399 г. до н.э. Сократа обвинили в нечестии (непризнание богов полиса, введение новых богов) и развращении молодёжи. На суде он отказался просить о снисхождении, заявив, что заслуживает не наказания, а бесплатного питания в пританее (высшая честь). Приговорён к смерти. Отказался от побега, предложенного учениками, и выпил цикуту (яд), спокойно беседуя о бессмертии души. Его смерть описана Платоном в диалоге 'Федон' - одна из самых трогательных сцен мировой литературы.",
+    "explanation_de": "Sokrates (Σωκράτης, 469-399 v. Chr.) war Platons Lehrer und einer der Gründer der westlichen Philosophie, obwohl er selbst nichts schrieb. Alles, was wir über ihn wissen, stammt aus den Schriften seiner Schüler (Platon, Xenophon) und Kritiker (Aristophanes). Sokrates war athenischer Bürger, Sohn eines Steinmetzes und einer Hebamme. In seiner Jugend nahm er am Peloponnesischen Krieg teil und zeigte Mut bei Potidaia und Delion. Aber seine Hauptbeschäftigung wurde Philosophie. Er ging über die Agora und unterhielt sich mit Bürgern, stellte Fragen und demonstrierte, dass sie nicht wissen, was sie zu wissen glauben. Seine Methode - Mäeutik ('Hebammenkunst') - half dem Gesprächspartner durch Fragen, die Wahrheit zu 'gebären'. Sokrates behauptete, 'ich weiß, dass ich nichts weiß' und 'ein ungeprüftes Leben ist nicht lebenswert'. 399 v. Chr. wurde Sokrates der Gottlosigkeit (Nichtanerkennung der Götter der Polis, Einführung neuer Götter) und Verderbung der Jugend angeklagt. Vor Gericht weigerte er sich, um Gnade zu bitten, und erklärte, er verdiene keine Bestrafung, sondern kostenlose Verpflegung im Prytaneion (höchste Ehre). Zum Tode verurteilt. Er lehnte die von Schülern angebotene Flucht ab und trank Schierlingsbecher (Gift), während er ruhig über die Unsterblichkeit der Seele sprach. Sein Tod wird von Platon im Dialog 'Phaidon' beschrieben - eine der ergreifendsten Szenen der Weltliteratur.",
     "interesting_facts": [
       {
         "ru": "Сократ имел демон (δαίμων) - внутренний голос, который предостерегал его от неправильных поступков, но никогда не говорил, что делать. Это не был бог или дух в обычном смысле, скорее интуиция или совесть. Обвинители использовали это как доказательство введения 'новых божеств'. Современные психологи предполагают, что это могло быть проявлением шизофрении или височной эпилепсии, но античные авторы воспринимали это как признак божественного избранничества.",
@@ -885,28 +777,22 @@
   },
   {
     "id": 219,
-    "question": "Как назывался древнегреческий праздник Диониса?",
+    "question_ru": "Как назывался древнегреческий праздник Диониса?",
     "question_de": "Wie hieß das altgriechische Fest des Dionysos?",
-    "answer": "Дионисии",
-    "answer_de": "Dionysien",
-    "wrong_answers": [
-      {
-        "ru": "Панафинеи",
-        "de": "Panathenäen"
-      },
-      {
-        "ru": "Элевсинии",
-        "de": "Eleusinien"
-      },
-      {
-        "ru": "Пифийские игры",
-        "de": "Pythische Spiele"
-      }
+    "correct_answer_ru": "Дионисии",
+    "correct_answer_de": "Dionysien",
+    "wrong_answers_ru": [
+      "Панафинеи",
+      "Элевсинии",
+      "Пифийские игры"
     ],
-    "explanation": {
-      "ru": "Дионисии были древнегреческими праздниками в честь бога Диониса, проводившимися в Афинах и других полисах. Существовало несколько типов: Малые (Сельские) Дионисии в декабре-январе в сельских демах Аттики с процессиями, жертвоприношениями, комическими представлениями и фаллическими песнями; Ленеи в январе-феврале - праздник нового вина с трагическими и комическими состязаниями; Антестерии в феврале-марте - трёхдневный весенний праздник цветов и нового вина, включавший состязания в питье, открытие бочек, поминовение мёртвых; Великие (Городские) Дионисии в конце марта - главный праздник, длившийся 5-6 дней. Великие Дионисии были крупнейшим театральным фестивалем античности. Программа включала: торжественную процессию с фаллосом (символ плодородия) и жертвоприношения; дифирамбические состязания (хоровые песни); трагические состязания - три трагика представляли по тетралогии (3 трагедии + 1 сатировская драма); комические состязания - пять комедий. Всё это происходило в театре Диониса на 17000 зрителей. Победители получали венки из плюща и денежные призы. Эсхил, Софокл, Еврипид, Аристофан - все великие драматурги соревновались на Дионисиях. Праздник символизировал цикл смерти и возрождения природы.",
-      "de": "Die Dionysien waren altgriechische Feste zu Ehren des Gottes Dionysos, die in Athen und anderen Poleis gefeiert wurden. Es gab mehrere Typen: Kleine (Ländliche) Dionysien im Dezember-Januar in ländlichen Demen Attikas mit Prozessionen, Opfern, komischen Aufführungen und phallischen Liedern; Lenaien im Januar-Februar - Fest des neuen Weins mit tragischen und komischen Wettbewerben; Anthesterien im Februar-März - dreitägiges Frühlingsfest der Blumen und des neuen Weins mit Trinkwettbewerben, Öffnung von Fässern, Totengedenken; Große (Städtische) Dionysien Ende März - Hauptfest, das 5-6 Tage dauerte. Die Großen Dionysien waren das größte Theaterfestival der Antike. Das Programm umfasste: feierliche Prozession mit Phallos (Symbol der Fruchtbarkeit) und Opfer; dithyrambische Wettbewerbe (Chorlieder); tragische Wettbewerbe - drei Tragiker präsentierten je eine Tetralogie (3 Tragödien + 1 Satyrspiel); komische Wettbewerbe - fünf Komödien. All dies geschah im Dionysos-Theater für 17.000 Zuschauer. Sieger erhielten Efeukränze und Geldpreise. Aischylos, Sophokles, Euripides, Aristophanes - alle großen Dramatiker traten bei den Dionysien an. Das Fest symbolisierte den Zyklus von Tod und Wiedergeburt der Natur."
-    },
+    "wrong_answers_de": [
+      "Panathenäen",
+      "Eleusinien",
+      "Pythische Spiele"
+    ],
+    "explanation_ru": "Дионисии были древнегреческими праздниками в честь бога Диониса, проводившимися в Афинах и других полисах. Существовало несколько типов: Малые (Сельские) Дионисии в декабре-январе в сельских демах Аттики с процессиями, жертвоприношениями, комическими представлениями и фаллическими песнями; Ленеи в январе-феврале - праздник нового вина с трагическими и комическими состязаниями; Антестерии в феврале-марте - трёхдневный весенний праздник цветов и нового вина, включавший состязания в питье, открытие бочек, поминовение мёртвых; Великие (Городские) Дионисии в конце марта - главный праздник, длившийся 5-6 дней. Великие Дионисии были крупнейшим театральным фестивалем античности. Программа включала: торжественную процессию с фаллосом (символ плодородия) и жертвоприношения; дифирамбические состязания (хоровые песни); трагические состязания - три трагика представляли по тетралогии (3 трагедии + 1 сатировская драма); комические состязания - пять комедий. Всё это происходило в театре Диониса на 17000 зрителей. Победители получали венки из плюща и денежные призы. Эсхил, Софокл, Еврипид, Аристофан - все великие драматурги соревновались на Дионисиях. Праздник символизировал цикл смерти и возрождения природы.",
+    "explanation_de": "Die Dionysien waren altgriechische Feste zu Ehren des Gottes Dionysos, die in Athen und anderen Poleis gefeiert wurden. Es gab mehrere Typen: Kleine (Ländliche) Dionysien im Dezember-Januar in ländlichen Demen Attikas mit Prozessionen, Opfern, komischen Aufführungen und phallischen Liedern; Lenaien im Januar-Februar - Fest des neuen Weins mit tragischen und komischen Wettbewerben; Anthesterien im Februar-März - dreitägiges Frühlingsfest der Blumen und des neuen Weins mit Trinkwettbewerben, Öffnung von Fässern, Totengedenken; Große (Städtische) Dionysien Ende März - Hauptfest, das 5-6 Tage dauerte. Die Großen Dionysien waren das größte Theaterfestival der Antike. Das Programm umfasste: feierliche Prozession mit Phallos (Symbol der Fruchtbarkeit) und Opfer; dithyrambische Wettbewerbe (Chorlieder); tragische Wettbewerbe - drei Tragiker präsentierten je eine Tetralogie (3 Tragödien + 1 Satyrspiel); komische Wettbewerbe - fünf Komödien. All dies geschah im Dionysos-Theater für 17.000 Zuschauer. Sieger erhielten Efeukränze und Geldpreise. Aischylos, Sophokles, Euripides, Aristophanes - alle großen Dramatiker traten bei den Dionysien an. Das Fest symbolisierte den Zyklus von Tod und Wiedergeburt der Natur.",
     "interesting_facts": [
       {
         "ru": "Во время Великих Дионисий объявлялся священный мир - заключённых освобождали из тюрем, чтобы они могли посетить театр. Даже рабы получали выходной. Город был полон гостей со всей Греции. Союзники приносили дань Афинам, которую выставляли в театре, демонстрируя могущество Афин. Сироты воинов, павших за полис, получавшие воспитание за счёт государства, по достижении 18 лет представлялись публике в полном вооружении - эмоциональный момент, напоминавший о жертвах войны и обязанностях гражданина.",
@@ -934,28 +820,22 @@
   },
   {
     "id": 220,
-    "question": "Какой город был центром культа Аполлона?",
+    "question_ru": "Какой город был центром культа Аполлона?",
     "question_de": "Welche Stadt war das Zentrum des Apollon-Kults?",
-    "answer": "Дельфы",
-    "answer_de": "Delphi",
-    "wrong_answers": [
-      {
-        "ru": "Афины",
-        "de": "Athen"
-      },
-      {
-        "ru": "Олимпия",
-        "de": "Olympia"
-      },
-      {
-        "ru": "Коринф",
-        "de": "Korinth"
-      }
+    "correct_answer_ru": "Дельфы",
+    "correct_answer_de": "Delphi",
+    "wrong_answers_ru": [
+      "Афины",
+      "Олимпия",
+      "Коринф"
     ],
-    "explanation": {
-      "ru": "Дельфы (Δελφοί) были главным религиозным центром Древней Греции, местом знаменитого оракула Аполлона. Святилище располагалось на склоне горы Парнас в Фокиде. Согласно мифу, Аполлон убил здесь змея Пифона, охранявшего святилище Геи (Земли), и основал своё прорицалище. Жрица-прорицательница Пифия (названная в честь змея) восседала на треножнике над расщелиной, из которой поднимались испарения (современные геологи нашли разломы, выделяющие этилен - газ, вызывающий галлюцинации). Жуя лавровые листья и вдыхая пары, Пифия входила в транс и произносила бессвязные слова, которые жрецы-пророки интерпретировали в гекзаметрах. Консультация стоила дорого - требовалось принести жертву (обычно козу), заплатить пелан (особый пирог). К оракулу обращались по важнейшим вопросам: войне и миру, основанию колоний, политическим реформам. Крёз, царь Лидии, спросил, стоит ли воевать с Персией; оракул ответил: 'Если ты пойдёшь войной, великое царство падёт'. Крёз проиграл - пало его собственное царство. Многие прорицания были двусмысленны, что защищало репутацию оракула. На воротах храма была надпись 'Познай себя' (γνῶθι σεαυτόν) - призыв к самопознанию и умеренности. Дельфы были объявлены нейтральной территорией, защищённой Дельфийской амфиктионией. Святилище процветало до IV века н.э., когда император Феодосий I закрыл языческие оракулы.",
-      "de": "Delphi (Δελφοί) war das wichtigste religiöse Zentrum des antiken Griechenlands, Ort des berühmten Apollon-Orakels. Das Heiligtum lag am Hang des Berges Parnass in Phokis. Dem Mythos zufolge tötete Apollon hier die Schlange Python, die Gaias (der Erde) Heiligtum bewachte, und gründete sein Orakel. Die Priesterin-Wahrsagerin Pythia (benannt nach der Schlange) saß auf einem Dreifuß über einer Spalte, aus der Dämpfe aufstiegen (moderne Geologen fanden Brüche, die Ethylen ausstoßen - ein Gas, das Halluzinationen verursacht). Lorbeerblätter kauend und Dämpfe einatmend, fiel Pythia in Trance und sprach zusammenhanglose Worte, die Priester-Propheten in Hexametern interpretierten. Die Konsultation war teuer - man musste ein Opfer bringen (normalerweise eine Ziege), Pelanos zahlen (spezieller Kuchen). Das Orakel wurde zu wichtigsten Fragen konsultiert: Krieg und Frieden, Koloniengründung, politischen Reformen. Krösus, König von Lydien, fragte, ob er mit Persien Krieg führen solle; das Orakel antwortete: 'Wenn du in den Krieg ziehst, wird ein großes Reich fallen'. Krösus verlor - sein eigenes Reich fiel. Viele Prophezeiungen waren zweideutig, was den Ruf des Orakels schützte. Am Tempeltor stand die Inschrift 'Erkenne dich selbst' (γνῶθι σεαυτόν) - Aufruf zu Selbsterkenntnis und Mäßigung. Delphi wurde als neutrales Gebiet erklärt, geschützt von der Delphischen Amphiktyonie. Das Heiligtum florierte bis zum 4. Jahrhundert n. Chr., als Kaiser Theodosius I. heidnische Orakel schloss."
-    },
+    "wrong_answers_de": [
+      "Athen",
+      "Olympia",
+      "Korinth"
+    ],
+    "explanation_ru": "Дельфы (Δελφοί) были главным религиозным центром Древней Греции, местом знаменитого оракула Аполлона. Святилище располагалось на склоне горы Парнас в Фокиде. Согласно мифу, Аполлон убил здесь змея Пифона, охранявшего святилище Геи (Земли), и основал своё прорицалище. Жрица-прорицательница Пифия (названная в честь змея) восседала на треножнике над расщелиной, из которой поднимались испарения (современные геологи нашли разломы, выделяющие этилен - газ, вызывающий галлюцинации). Жуя лавровые листья и вдыхая пары, Пифия входила в транс и произносила бессвязные слова, которые жрецы-пророки интерпретировали в гекзаметрах. Консультация стоила дорого - требовалось принести жертву (обычно козу), заплатить пелан (особый пирог). К оракулу обращались по важнейшим вопросам: войне и миру, основанию колоний, политическим реформам. Крёз, царь Лидии, спросил, стоит ли воевать с Персией; оракул ответил: 'Если ты пойдёшь войной, великое царство падёт'. Крёз проиграл - пало его собственное царство. Многие прорицания были двусмысленны, что защищало репутацию оракула. На воротах храма была надпись 'Познай себя' (γνῶθι σεαυτόν) - призыв к самопознанию и умеренности. Дельфы были объявлены нейтральной территорией, защищённой Дельфийской амфиктионией. Святилище процветало до IV века н.э., когда император Феодосий I закрыл языческие оракулы.",
+    "explanation_de": "Delphi (Δελφοί) war das wichtigste religiöse Zentrum des antiken Griechenlands, Ort des berühmten Apollon-Orakels. Das Heiligtum lag am Hang des Berges Parnass in Phokis. Dem Mythos zufolge tötete Apollon hier die Schlange Python, die Gaias (der Erde) Heiligtum bewachte, und gründete sein Orakel. Die Priesterin-Wahrsagerin Pythia (benannt nach der Schlange) saß auf einem Dreifuß über einer Spalte, aus der Dämpfe aufstiegen (moderne Geologen fanden Brüche, die Ethylen ausstoßen - ein Gas, das Halluzinationen verursacht). Lorbeerblätter kauend und Dämpfe einatmend, fiel Pythia in Trance und sprach zusammenhanglose Worte, die Priester-Propheten in Hexametern interpretierten. Die Konsultation war teuer - man musste ein Opfer bringen (normalerweise eine Ziege), Pelanos zahlen (spezieller Kuchen). Das Orakel wurde zu wichtigsten Fragen konsultiert: Krieg und Frieden, Koloniengründung, politischen Reformen. Krösus, König von Lydien, fragte, ob er mit Persien Krieg führen solle; das Orakel antwortete: 'Wenn du in den Krieg ziehst, wird ein großes Reich fallen'. Krösus verlor - sein eigenes Reich fiel. Viele Prophezeiungen waren zweideutig, was den Ruf des Orakels schützte. Am Tempeltor stand die Inschrift 'Erkenne dich selbst' (γνῶθι σεαυτόν) - Aufruf zu Selbsterkenntnis und Mäßigung. Delphi wurde als neutrales Gebiet erklärt, geschützt von der Delphischen Amphiktyonie. Das Heiligtum florierte bis zum 4. Jahrhundert n. Chr., als Kaiser Theodosius I. heidnische Orakel schloss.",
     "interesting_facts": [
       {
         "ru": "Омфал ('пуп') - конический камень в храме Аполлона - считался центром мира. Согласно мифу, Зевс выпустил двух орлов с противоположных концов земли, и они встретились в Дельфах. Омфал был покрыт шерстяной сеткой и ежедневно поливался маслом. Римский император Нерон в 66 г. н.э. увёз омфал в Рим как трофей, но позже вернул. Археологи нашли остатки омфала - он хранится в музее Дельф.",
@@ -983,28 +863,22 @@
   },
   {
     "id": 221,
-    "question": "Кто была богиня мудрости?",
+    "question_ru": "Кто была богиня мудрости?",
     "question_de": "Wer war die Göttin der Weisheit?",
-    "answer": "Афина",
-    "answer_de": "Athene",
-    "wrong_answers": [
-      {
-        "ru": "Гера",
-        "de": "Hera"
-      },
-      {
-        "ru": "Артемида",
-        "de": "Artemis"
-      },
-      {
-        "ru": "Деметра",
-        "de": "Demeter"
-      }
+    "correct_answer_ru": "Афина",
+    "correct_answer_de": "Athene",
+    "wrong_answers_ru": [
+      "Гера",
+      "Артемида",
+      "Деметра"
     ],
-    "explanation": {
-      "ru": "Афина (Ἀθηνᾶ, у римлян Минерва) была богиней мудрости, военной стратегии, ремёсел, справедливой войны и покровительницей Афин. Её рождение было необычным: по мифу, Зевс проглотил свою первую жену Метиду (олицетворение мудрости), беременную Афиной, опасаясь пророчества о сыне, который его свергнет. Позже Зевс страдал от невыносимой головной боли, и Гефест расколол ему череп топором - оттуда вышла взрослая Афина в полном вооружении с боевым кличем. Афина была девственной богиней (Парфенос), отвергавшей любовь. Её атрибуты: эгида (щит с головой горгоны Медузы), шлем, копьё, сова (символ мудрости), олива (её дар Афинам). Афина победила Посейдона в споре за покровительство Аттике: Посейдон ударил трезубцем и создал источник солёной воды, Афина подарила оливковое дерево - граждане выбрали её дар. Город назвали в её честь. Афина помогала героям: Персею в убийстве Медузы, Гераклу в подвигах, Одиссею в возвращении домой. Она покровительствовала ремёслам - ткачеству, гончарному делу, металлообработке. Арахна вызвала её на состязание в ткачестве и была превращена в паука за дерзость. Культ Афины был центральным в Афинах - Панафинеи, главный праздник, включал процессию с пеплосом (одеждой) для статуи богини.",
-      "de": "Athene (Ἀθηνᾶ, bei den Römern Minerva) war Göttin der Weisheit, Kriegsstrategie, Handwerke, gerechten Krieges und Schutzpatronin Athens. Ihre Geburt war ungewöhnlich: Dem Mythos nach verschlang Zeus seine erste Frau Metis (Verkörperung der Weisheit), schwanger mit Athene, aus Angst vor einer Prophezeiung über einen Sohn, der ihn stürzen würde. Später litt Zeus an unerträglichen Kopfschmerzen, und Hephaistos spaltete seinen Schädel mit einer Axt - daraus kam die erwachsene Athene in voller Rüstung mit Kriegsschrei. Athene war jungfräuliche Göttin (Parthenos), die Liebe ablehnte. Ihre Attribute: Aigis (Schild mit Gorgonen-Medusa-Kopf), Helm, Speer, Eule (Symbol der Weisheit), Olive (ihr Geschenk an Athen). Athene besiegte Poseidon im Streit um Schutzherrschaft über Attika: Poseidon schlug mit dem Dreizack und schuf eine Salzwasserquelle, Athene schenkte einen Olivenbaum - Bürger wählten ihr Geschenk. Die Stadt wurde nach ihr benannt. Athene half Helden: Perseus bei der Tötung der Medusa, Herakles bei Taten, Odysseus bei der Heimkehr. Sie schützte Handwerke - Weben, Töpfern, Metallverarbeitung. Arachne forderte sie zu einem Webwettbewerb heraus und wurde für ihre Kühnheit in eine Spinne verwandelt. Athenes Kult war zentral in Athen - Panathenäen, das Hauptfest, umfasste eine Prozession mit Peplos (Kleidung) für die Göttin-Statue."
-    },
+    "wrong_answers_de": [
+      "Hera",
+      "Artemis",
+      "Demeter"
+    ],
+    "explanation_ru": "Афина (Ἀθηνᾶ, у римлян Минерва) была богиней мудрости, военной стратегии, ремёсел, справедливой войны и покровительницей Афин. Её рождение было необычным: по мифу, Зевс проглотил свою первую жену Метиду (олицетворение мудрости), беременную Афиной, опасаясь пророчества о сыне, который его свергнет. Позже Зевс страдал от невыносимой головной боли, и Гефест расколол ему череп топором - оттуда вышла взрослая Афина в полном вооружении с боевым кличем. Афина была девственной богиней (Парфенос), отвергавшей любовь. Её атрибуты: эгида (щит с головой горгоны Медузы), шлем, копьё, сова (символ мудрости), олива (её дар Афинам). Афина победила Посейдона в споре за покровительство Аттике: Посейдон ударил трезубцем и создал источник солёной воды, Афина подарила оливковое дерево - граждане выбрали её дар. Город назвали в её честь. Афина помогала героям: Персею в убийстве Медузы, Гераклу в подвигах, Одиссею в возвращении домой. Она покровительствовала ремёслам - ткачеству, гончарному делу, металлообработке. Арахна вызвала её на состязание в ткачестве и была превращена в паука за дерзость. Культ Афины был центральным в Афинах - Панафинеи, главный праздник, включал процессию с пеплосом (одеждой) для статуи богини.",
+    "explanation_de": "Athene (Ἀθηνᾶ, bei den Römern Minerva) war Göttin der Weisheit, Kriegsstrategie, Handwerke, gerechten Krieges und Schutzpatronin Athens. Ihre Geburt war ungewöhnlich: Dem Mythos nach verschlang Zeus seine erste Frau Metis (Verkörperung der Weisheit), schwanger mit Athene, aus Angst vor einer Prophezeiung über einen Sohn, der ihn stürzen würde. Später litt Zeus an unerträglichen Kopfschmerzen, und Hephaistos spaltete seinen Schädel mit einer Axt - daraus kam die erwachsene Athene in voller Rüstung mit Kriegsschrei. Athene war jungfräuliche Göttin (Parthenos), die Liebe ablehnte. Ihre Attribute: Aigis (Schild mit Gorgonen-Medusa-Kopf), Helm, Speer, Eule (Symbol der Weisheit), Olive (ihr Geschenk an Athen). Athene besiegte Poseidon im Streit um Schutzherrschaft über Attika: Poseidon schlug mit dem Dreizack und schuf eine Salzwasserquelle, Athene schenkte einen Olivenbaum - Bürger wählten ihr Geschenk. Die Stadt wurde nach ihr benannt. Athene half Helden: Perseus bei der Tötung der Medusa, Herakles bei Taten, Odysseus bei der Heimkehr. Sie schützte Handwerke - Weben, Töpfern, Metallverarbeitung. Arachne forderte sie zu einem Webwettbewerb heraus und wurde für ihre Kühnheit in eine Spinne verwandelt. Athenes Kult war zentral in Athen - Panathenäen, das Hauptfest, umfasste eine Prozession mit Peplos (Kleidung) für die Göttin-Statue.",
     "interesting_facts": [
       {
         "ru": "Имя 'Афина' этимологически неясно и, возможно, до-греческого происхождения, связанного с минойской цивилизацией. Некоторые учёные связывают его с 'A-ta-na po-ti-ni-ja' ('Владычица Афин') из микенских табличек линейного письма Б (XV-XIII вв. до н.э.). Это предполагает, что культ Афины существовал ещё в бронзовом веке.",
@@ -1032,28 +906,22 @@
   },
   {
     "id": 222,
-    "question": "В каком году произошла битва при Саламине?",
+    "question_ru": "В каком году произошла битва при Саламине?",
     "question_de": "In welchem Jahr fand die Schlacht von Salamis statt?",
-    "answer": "480 год до н.э.",
-    "answer_de": "480 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "490 год до н.э.",
-        "de": "490 v. Chr."
-      },
-      {
-        "ru": "479 год до н.э.",
-        "de": "479 v. Chr."
-      },
-      {
-        "ru": "481 год до н.э.",
-        "de": "481 v. Chr."
-      }
+    "correct_answer_ru": "480 год до н.э.",
+    "correct_answer_de": "480 v. Chr.",
+    "wrong_answers_ru": [
+      "490 год до н.э.",
+      "479 год до н.э.",
+      "481 год до н.э."
     ],
-    "explanation": {
-      "ru": "Битва при Саламине произошла в сентябре 480 года до н.э. в проливе между островом Саламин и материковой Грецией. Это было крупнейшее морское сражение греко-персидских войн. После поражения при Фермопилах персы под командованием Ксеркса I захватили Афины. Греки эвакуировались на Саламин и Пелопоннес. Афинский стратег Фемистокл убедил союзников дать морской бой в узком проливе, где огромный персидский флот (по Геродоту 1207 триер, современные оценки 600-800) потеряет преимущество. Греческий флот насчитывал около 380 триер (200 афинских). Фемистокл хитростью заманил персов в ловушку, отправив лже-перебежчика с информацией, что греки собираются бежать ночью. Персы блокировали выходы из пролива, утомив гребцов ночным маневрированием. Утром греки атаковали. В узком пространстве большие персидские корабли мешали друг другу, греки таранили их бронзовыми носами триер. Ксеркс наблюдал с трона на горе. Персы потеряли около 200 кораблей, греки - 40. Битва переломила ход войны - Ксеркс отступил в Азию, оставив армию под командованием Мардония, которая была разгромлена при Платеях в 479 г. до н.э.",
-      "de": "Die Schlacht von Salamis fand im September 480 v. Chr. in der Meerenge zwischen der Insel Salamis und dem griechischen Festland statt. Dies war die größte Seeschlacht der Perserkriege. Nach der Niederlage bei den Thermopylen eroberten die Perser unter Xerxes I. Athen. Die Griechen evakuierten nach Salamis und auf den Peloponnes. Der athenische Stratege Themistokles überzeugte die Verbündeten, in der engen Meerenge eine Seeschlacht zu führen, wo die riesige persische Flotte (nach Herodot 1207 Trieren, moderne Schätzungen 600-800) ihren Vorteil verlieren würde. Die griechische Flotte zählte etwa 380 Trieren (200 athenische). Themistokles lockte die Perser durch List in eine Falle, indem er einen falschen Überläufer mit der Information schickte, dass die Griechen nachts fliehen würden. Die Perser blockierten die Ausgänge der Meerenge und ermüdeten Ruderer durch nächtliche Manöver. Am Morgen griffen die Griechen an. Im engen Raum behinderten sich große persische Schiffe gegenseitig, die Griechen rammten sie mit bronzenen Trieren-Schnäbeln. Xerxes beobachtete von einem Thron auf einem Berg. Die Perser verloren etwa 200 Schiffe, die Griechen 40. Die Schlacht wendete den Kriegsverlauf - Xerxes zog sich nach Asien zurück und ließ die Armee unter Mardonios' Kommando zurück, die 479 v. Chr. bei Plataia vernichtet wurde."
-    },
+    "wrong_answers_de": [
+      "490 v. Chr.",
+      "479 v. Chr.",
+      "481 v. Chr."
+    ],
+    "explanation_ru": "Битва при Саламине произошла в сентябре 480 года до н.э. в проливе между островом Саламин и материковой Грецией. Это было крупнейшее морское сражение греко-персидских войн. После поражения при Фермопилах персы под командованием Ксеркса I захватили Афины. Греки эвакуировались на Саламин и Пелопоннес. Афинский стратег Фемистокл убедил союзников дать морской бой в узком проливе, где огромный персидский флот (по Геродоту 1207 триер, современные оценки 600-800) потеряет преимущество. Греческий флот насчитывал около 380 триер (200 афинских). Фемистокл хитростью заманил персов в ловушку, отправив лже-перебежчика с информацией, что греки собираются бежать ночью. Персы блокировали выходы из пролива, утомив гребцов ночным маневрированием. Утром греки атаковали. В узком пространстве большие персидские корабли мешали друг другу, греки таранили их бронзовыми носами триер. Ксеркс наблюдал с трона на горе. Персы потеряли около 200 кораблей, греки - 40. Битва переломила ход войны - Ксеркс отступил в Азию, оставив армию под командованием Мардония, которая была разгромлена при Платеях в 479 г. до н.э.",
+    "explanation_de": "Die Schlacht von Salamis fand im September 480 v. Chr. in der Meerenge zwischen der Insel Salamis und dem griechischen Festland statt. Dies war die größte Seeschlacht der Perserkriege. Nach der Niederlage bei den Thermopylen eroberten die Perser unter Xerxes I. Athen. Die Griechen evakuierten nach Salamis und auf den Peloponnes. Der athenische Stratege Themistokles überzeugte die Verbündeten, in der engen Meerenge eine Seeschlacht zu führen, wo die riesige persische Flotte (nach Herodot 1207 Trieren, moderne Schätzungen 600-800) ihren Vorteil verlieren würde. Die griechische Flotte zählte etwa 380 Trieren (200 athenische). Themistokles lockte die Perser durch List in eine Falle, indem er einen falschen Überläufer mit der Information schickte, dass die Griechen nachts fliehen würden. Die Perser blockierten die Ausgänge der Meerenge und ermüdeten Ruderer durch nächtliche Manöver. Am Morgen griffen die Griechen an. Im engen Raum behinderten sich große persische Schiffe gegenseitig, die Griechen rammten sie mit bronzenen Trieren-Schnäbeln. Xerxes beobachtete von einem Thron auf einem Berg. Die Perser verloren etwa 200 Schiffe, die Griechen 40. Die Schlacht wendete den Kriegsverlauf - Xerxes zog sich nach Asien zurück und ließ die Armee unter Mardonios' Kommando zurück, die 479 v. Chr. bei Plataia vernichtet wurde.",
     "interesting_facts": [
       {
         "ru": "Фемистокл был архитектором победы, но его карьера закончилась трагически. После войны он стал слишком амбициозен, предложив укрепить Пирей и построить 200 триер. Спартанцы опасались афинского усиления, а в самих Афинах завидовали. В 471 г. до н.э. его изгнали остракизмом. Позже обвинили в государственной измене - связях с персами. Фемистокл бежал... в Персию к царю Артаксерксу I (сыну Ксеркса!). Персидский царь принял его, дал в управление несколько городов. Фемистокл умер в Магнесии, возможно, от яда, не желая выполнять приказ царя воевать против Греции. Ирония истории: спаситель Греции закончил на службе у персов.",
@@ -1081,28 +949,22 @@
   },
   {
     "id": 223,
-    "question": "Кто был богом моря?",
+    "question_ru": "Кто был богом моря?",
     "question_de": "Wer war der Gott des Meeres?",
-    "answer": "Посейдон",
-    "answer_de": "Poseidon",
-    "wrong_answers": [
-      {
-        "ru": "Зевс",
-        "de": "Zeus"
-      },
-      {
-        "ru": "Аид",
-        "de": "Hades"
-      },
-      {
-        "ru": "Аполлон",
-        "de": "Apollon"
-      }
+    "correct_answer_ru": "Посейдон",
+    "correct_answer_de": "Poseidon",
+    "wrong_answers_ru": [
+      "Зевс",
+      "Аид",
+      "Аполлон"
     ],
-    "explanation": {
-      "ru": "Посейдон (Ποσειδῶν, у римлян Нептун) был богом моря, землетрясений и лошадей, одним из трёх главных олимпийцев-братьев. После победы над титанами он получил море по жребию. Его атрибут - трезубец, которым он вызывал бури, создавал острова, разбивал скалы. Посейдон был вспыльчивым и мстительным - преследовал Одиссея за ослепление сына-циклопа Полифема. Он соперничал с Афиной за покровительство городам (Афины, Трезен) и проигрывал. Посейдон был отцом множества чудовищ: циклопа Полифема, великана Антея, коня Пегаса (от Медузы). Культ Посейдона был особенно силён в приморских полисах и на островах. Ему приносили в жертву лошадей, быков, топили их в море. Истмийские игры в Коринфе проводились в его честь. Моряки молились ему о безопасном плавании.",
-      "de": "Poseidon (Ποσειδῶν, bei den Römern Neptun) war der Gott des Meeres, der Erdbeben und der Pferde, einer der drei Haupt-Olympier-Brüder. Nach dem Sieg über die Titanen erhielt er das Meer durch Los. Sein Attribut ist der Dreizack, mit dem er Stürme hervorrief, Inseln schuf, Felsen zerschlug. Poseidon war jähzornig und rachsüchtig - verfolgte Odysseus für die Blendung seines Sohnes, des Zyklopen Polyphem. Er rivalisierte mit Athene um die Schutzherrschaft über Städte (Athen, Troizen) und verlor. Poseidon war Vater vieler Monster: Zyklop Polyphem, Riese Antaios, Pferd Pegasus (von Medusa). Poseidons Kult war besonders stark in Küstenpoleis und auf Inseln. Ihm wurden Pferde und Stiere geopfert, im Meer ertränkt. Isthmische Spiele in Korinth wurden zu seinen Ehren abgehalten. Seeleute beteten zu ihm für sichere Fahrt."
-    },
+    "wrong_answers_de": [
+      "Zeus",
+      "Hades",
+      "Apollon"
+    ],
+    "explanation_ru": "Посейдон (Ποσειδῶν, у римлян Нептун) был богом моря, землетрясений и лошадей, одним из трёх главных олимпийцев-братьев. После победы над титанами он получил море по жребию. Его атрибут - трезубец, которым он вызывал бури, создавал острова, разбивал скалы. Посейдон был вспыльчивым и мстительным - преследовал Одиссея за ослепление сына-циклопа Полифема. Он соперничал с Афиной за покровительство городам (Афины, Трезен) и проигрывал. Посейдон был отцом множества чудовищ: циклопа Полифема, великана Антея, коня Пегаса (от Медузы). Культ Посейдона был особенно силён в приморских полисах и на островах. Ему приносили в жертву лошадей, быков, топили их в море. Истмийские игры в Коринфе проводились в его честь. Моряки молились ему о безопасном плавании.",
+    "explanation_de": "Poseidon (Ποσειδῶν, bei den Römern Neptun) war der Gott des Meeres, der Erdbeben und der Pferde, einer der drei Haupt-Olympier-Brüder. Nach dem Sieg über die Titanen erhielt er das Meer durch Los. Sein Attribut ist der Dreizack, mit dem er Stürme hervorrief, Inseln schuf, Felsen zerschlug. Poseidon war jähzornig und rachsüchtig - verfolgte Odysseus für die Blendung seines Sohnes, des Zyklopen Polyphem. Er rivalisierte mit Athene um die Schutzherrschaft über Städte (Athen, Troizen) und verlor. Poseidon war Vater vieler Monster: Zyklop Polyphem, Riese Antaios, Pferd Pegasus (von Medusa). Poseidons Kult war besonders stark in Küstenpoleis und auf Inseln. Ihm wurden Pferde und Stiere geopfert, im Meer ertränkt. Isthmische Spiele in Korinth wurden zu seinen Ehren abgehalten. Seeleute beteten zu ihm für sichere Fahrt.",
     "interesting_facts": [
       {
         "ru": "Посейдон создал первую лошадь, ударив трезубцем о скалу в Фессалии. Греки называли его 'Посейдон Гиппиос' (конный). Лошади считались священными животными бога моря, что странно для современного восприятия. Это объясняется тем, что в архаический период Посейдон был божеством не только моря, но и пресных вод, источников, связанных с землёй.",
@@ -1130,28 +992,22 @@
   },
   {
     "id": 224,
-    "question": "Как назывался рыночный центр города?",
+    "question_ru": "Как назывался рыночный центр города?",
     "question_de": "Wie hieß das Marktzentrum der Stadt?",
-    "answer": "Агора",
-    "answer_de": "Agora",
-    "wrong_answers": [
-      {
-        "ru": "Акрополь",
-        "de": "Akropolis"
-      },
-      {
-        "ru": "Стоа",
-        "de": "Stoa"
-      },
-      {
-        "ru": "Пританей",
-        "de": "Prytaneion"
-      }
+    "correct_answer_ru": "Агора",
+    "correct_answer_de": "Agora",
+    "wrong_answers_ru": [
+      "Акрополь",
+      "Стоа",
+      "Пританей"
     ],
-    "explanation": {
-      "ru": "Агора (ἀγορά) была центральной площадью греческого полиса, служившей рынком, местом народных собраний, судов, философских бесед. Это было сердце общественной жизни. Агора окружалась стоями (крытыми колоннадами) с лавками, общественными зданиями: булевтерием (совет), пританеем (правительство), гелиеей (суд). Здесь торговали продуктами, ремесленными изделиями, рабами. Агора была местом политических дебатов - демагоги произносили речи, философы вели диспуты. Сократ проводил здесь дни, беседуя с гражданами. Афинская агора у подножия Акрополя сохранилась - там стоял храм Гефеста (один из лучше всего сохранившихся греческих храмов). На агоре устанавливали статуи героев, законы вырезали на каменных стелах. Метрономы (официальные меры) хранились на агоре для контроля торговли.",
-      "de": "Die Agora (ἀγορά) war der zentrale Platz der griechischen Polis und diente als Markt, Ort für Volksversammlungen, Gerichte, philosophische Gespräche. Dies war das Herz des öffentlichen Lebens. Die Agora war von Stoen (überdachten Kolonnaden) mit Läden und öffentlichen Gebäuden umgeben: Bouleuterion (Rat), Prytaneion (Regierung), Heliaia (Gericht). Hier wurden Lebensmittel, Handwerksprodukte, Sklaven gehandelt. Die Agora war Ort politischer Debatten - Demagogen hielten Reden, Philosophen führten Dispute. Sokrates verbrachte hier Tage im Gespräch mit Bürgern. Die athenische Agora am Fuße der Akropolis ist erhalten - dort stand der Hephaistos-Tempel (einer der am besten erhaltenen griechischen Tempel). Auf der Agora wurden Heldenstatuen aufgestellt, Gesetze in Steinstelen gemeißelt. Metronomoi (offizielle Maße) wurden auf der Agora zur Handelskontrolle aufbewahrt."
-    },
+    "wrong_answers_de": [
+      "Akropolis",
+      "Stoa",
+      "Prytaneion"
+    ],
+    "explanation_ru": "Агора (ἀγορά) была центральной площадью греческого полиса, служившей рынком, местом народных собраний, судов, философских бесед. Это было сердце общественной жизни. Агора окружалась стоями (крытыми колоннадами) с лавками, общественными зданиями: булевтерием (совет), пританеем (правительство), гелиеей (суд). Здесь торговали продуктами, ремесленными изделиями, рабами. Агора была местом политических дебатов - демагоги произносили речи, философы вели диспуты. Сократ проводил здесь дни, беседуя с гражданами. Афинская агора у подножия Акрополя сохранилась - там стоял храм Гефеста (один из лучше всего сохранившихся греческих храмов). На агоре устанавливали статуи героев, законы вырезали на каменных стелах. Метрономы (официальные меры) хранились на агоре для контроля торговли.",
+    "explanation_de": "Die Agora (ἀγορά) war der zentrale Platz der griechischen Polis und diente als Markt, Ort für Volksversammlungen, Gerichte, philosophische Gespräche. Dies war das Herz des öffentlichen Lebens. Die Agora war von Stoen (überdachten Kolonnaden) mit Läden und öffentlichen Gebäuden umgeben: Bouleuterion (Rat), Prytaneion (Regierung), Heliaia (Gericht). Hier wurden Lebensmittel, Handwerksprodukte, Sklaven gehandelt. Die Agora war Ort politischer Debatten - Demagogen hielten Reden, Philosophen führten Dispute. Sokrates verbrachte hier Tage im Gespräch mit Bürgern. Die athenische Agora am Fuße der Akropolis ist erhalten - dort stand der Hephaistos-Tempel (einer der am besten erhaltenen griechischen Tempel). Auf der Agora wurden Heldenstatuen aufgestellt, Gesetze in Steinstelen gemeißelt. Metronomoi (offizielle Maße) wurden auf der Agora zur Handelskontrolle aufbewahrt.",
     "interesting_facts": [
       {
         "ru": "Слово 'агорафобия' происходит от 'агора' - буквально 'страх площади', расширенный до страха открытых пространств и скоплений людей. В древности агора была полной противоположностью страху - центром социализации.",
@@ -1179,28 +1035,22 @@
   },
   {
     "id": 225,
-    "question": "Кто была богиня плодородия?",
+    "question_ru": "Кто была богиня плодородия?",
     "question_de": "Wer war die Göttin der Fruchtbarkeit?",
-    "answer": "Деметра",
-    "answer_de": "Demeter",
-    "wrong_answers": [
-      {
-        "ru": "Гера",
-        "de": "Hera"
-      },
-      {
-        "ru": "Афина",
-        "de": "Athene"
-      },
-      {
-        "ru": "Артемида",
-        "de": "Artemis"
-      }
+    "correct_answer_ru": "Деметра",
+    "correct_answer_de": "Demeter",
+    "wrong_answers_ru": [
+      "Гера",
+      "Афина",
+      "Артемида"
     ],
-    "explanation": {
-      "ru": "Деметра (Δημήτηρ, у римлян Церера) была богиней земледелия, плодородия, урожая, материнства. Её главный миф - о похищении дочери Персефоны Аидом. Деметра искала дочь по всей земле, и в горе заставила землю стать бесплодной - наступил первый голод. Зевс вмешался, приказав Аиду вернуть Персефону. Но Персефона съела гранатовые зёрна в подземном царстве, что обязало её треть года проводить с Аидом. Когда дочь в Аиде, Деметра скорбит - наступает зима. Возвращение Персефоны весной означает расцвет природы. Этот миф объяснял смену сезонов. Элевсинские мистерии - тайный культ Деметры и Персефоны в Элевсине близ Афин - были важнейшим религиозным обрядом Древней Греции, обещавшим посвящённым блаженство в загробной жизни. Детали ритуалов держались в строжайшей тайне веками.",
-      "de": "Demeter (Δημήτηρ, bei den Römern Ceres) war Göttin des Ackerbaus, der Fruchtbarkeit, Ernte, Mutterschaft. Ihr Hauptmythos - Entführung der Tochter Persephone durch Hades. Demeter suchte ihre Tochter über die ganze Erde, und in Trauer ließ sie die Erde unfruchtbar werden - die erste Hungersnot kam. Zeus griff ein und befahl Hades, Persephone zurückzugeben. Aber Persephone aß Granatapfelkerne im Unterreich, was sie verpflichtete, ein Drittel des Jahres bei Hades zu verbringen. Wenn die Tochter bei Hades ist, trauert Demeter - Winter kommt. Persephones Rückkehr im Frühling bedeutet Naturblüte. Dieser Mythos erklärte den Jahreszeitenwechsel. Eleusinische Mysterien - geheimer Kult der Demeter und Persephone in Eleusis bei Athen - waren der wichtigste religiöse Ritus des antiken Griechenlands und versprachen Eingeweihten Glückseligkeit im Jenseits. Details der Rituale wurden jahrhundertelang streng geheim gehalten."
-    },
+    "wrong_answers_de": [
+      "Hera",
+      "Athene",
+      "Artemis"
+    ],
+    "explanation_ru": "Деметра (Δημήτηρ, у римлян Церера) была богиней земледелия, плодородия, урожая, материнства. Её главный миф - о похищении дочери Персефоны Аидом. Деметра искала дочь по всей земле, и в горе заставила землю стать бесплодной - наступил первый голод. Зевс вмешался, приказав Аиду вернуть Персефону. Но Персефона съела гранатовые зёрна в подземном царстве, что обязало её треть года проводить с Аидом. Когда дочь в Аиде, Деметра скорбит - наступает зима. Возвращение Персефоны весной означает расцвет природы. Этот миф объяснял смену сезонов. Элевсинские мистерии - тайный культ Деметры и Персефоны в Элевсине близ Афин - были важнейшим религиозным обрядом Древней Греции, обещавшим посвящённым блаженство в загробной жизни. Детали ритуалов держались в строжайшей тайне веками.",
+    "explanation_de": "Demeter (Δημήτηρ, bei den Römern Ceres) war Göttin des Ackerbaus, der Fruchtbarkeit, Ernte, Mutterschaft. Ihr Hauptmythos - Entführung der Tochter Persephone durch Hades. Demeter suchte ihre Tochter über die ganze Erde, und in Trauer ließ sie die Erde unfruchtbar werden - die erste Hungersnot kam. Zeus griff ein und befahl Hades, Persephone zurückzugeben. Aber Persephone aß Granatapfelkerne im Unterreich, was sie verpflichtete, ein Drittel des Jahres bei Hades zu verbringen. Wenn die Tochter bei Hades ist, trauert Demeter - Winter kommt. Persephones Rückkehr im Frühling bedeutet Naturblüte. Dieser Mythos erklärte den Jahreszeitenwechsel. Eleusinische Mysterien - geheimer Kult der Demeter und Persephone in Eleusis bei Athen - waren der wichtigste religiöse Ritus des antiken Griechenlands und versprachen Eingeweihten Glückseligkeit im Jenseits. Details der Rituale wurden jahrhundertelang streng geheim gehalten.",
     "interesting_facts": [
       {
         "ru": "Элевсинские мистерии посвящались тысячи греков, включая императоров, философов (Платон, Цицерон). Разглашение тайн каралось смертью. Алкивиад был обвинён в пародировании мистерий - скандал разрушил его карьеру. До сих пор неясно, что именно происходило в телестерии (зале посвящения). Предполагают: показывали священные предметы, разыгрывали миф о Персефоне, давали кикеон (ритуальный напиток, возможно, с галлюциногенными свойствами). Мистерии закрыты в 392 г. н.э. императором Феодосием I. Тайна сохранена навсегда.",
@@ -1228,28 +1078,22 @@
   },
   {
     "id": 226,
-    "question": "Какой математик сформулировал теорему о треугольнике?",
+    "question_ru": "Какой математик сформулировал теорему о треугольнике?",
     "question_de": "Welcher Mathematiker formulierte das Dreiecktheorem?",
-    "answer": "Пифагор",
-    "answer_de": "Pythagoras",
-    "wrong_answers": [
-      {
-        "ru": "Евклид",
-        "de": "Euklid"
-      },
-      {
-        "ru": "Архимед",
-        "de": "Archimedes"
-      },
-      {
-        "ru": "Фалес",
-        "de": "Thales"
-      }
+    "correct_answer_ru": "Пифагор",
+    "correct_answer_de": "Pythagoras",
+    "wrong_answers_ru": [
+      "Евклид",
+      "Архимед",
+      "Фалес"
     ],
-    "explanation": {
-      "ru": "Пифагор Самосский (Πυθαγόρας, ок. 570-495 гг. до н.э.) - древнегреческий философ и математик, основатель пифагорейской школы. Теорема Пифагора гласит: в прямоугольном треугольнике квадрат гипотенузы равен сумме квадратов катетов (a²+b²=c²). Хотя эта зависимость была известна вавилонянам и египтянам, Пифагор или его ученики первыми дали строгое математическое доказательство. Пифагорейцы считали числа основой Вселенной. Они открыли иррациональные числа (√2), что вызвало кризис - легенда гласит, что Гиппас, разгласивший тайну несоизмеримости, был утоплен. Пифагор основал в Кротоне (Южная Италия) философско-религиозное братство с строгими правилами: вегетарианство, запрет на бобы, общность имущества, тайна учений. Пифагорейцы верили в переселение душ (метемпсихоз). Пифагору приписывали чудеса: он якобы мог быть в двух местах одновременно, понимал язык животных, помнил прошлые жизни. Он погиб во время антипифагорейского восстания, когда школу сожгли. Его учение повлияло на Платона и последующую философию.",
-      "de": "Pythagoras von Samos (Πυθαγόρας, ca. 570-495 v. Chr.) - altgriechischer Philosoph und Mathematiker, Gründer der pythagoreischen Schule. Der Satz des Pythagoras besagt: In einem rechtwinkligen Dreieck ist das Quadrat der Hypotenuse gleich der Summe der Quadrate der Katheten (a²+b²=c²). Obwohl diese Beziehung Babyloniern und Ägyptern bekannt war, gaben Pythagoras oder seine Schüler den ersten strengen mathematischen Beweis. Die Pythagoreer hielten Zahlen für die Grundlage des Universums. Sie entdeckten irrationale Zahlen (√2), was eine Krise verursachte - die Legende besagt, dass Hippasos, der das Geheimnis der Inkommensurabilität verriet, ertränkt wurde. Pythagoras gründete in Kroton (Süditalien) eine philosophisch-religiöse Bruderschaft mit strengen Regeln: Vegetarismus, Bohnenverbot, Gütergemeinschaft, Geheimlehren. Pythagoreer glaubten an Seelenwanderung (Metempsychose). Pythagoras wurden Wunder zugeschrieben: er konnte angeblich an zwei Orten gleichzeitig sein, Tiersprache verstehen, sich an frühere Leben erinnern. Er starb während eines antipythagoreischen Aufstands, als die Schule niedergebrannt wurde. Seine Lehre beeinflusste Platon und nachfolgende Philosophie."
-    },
+    "wrong_answers_de": [
+      "Euklid",
+      "Archimedes",
+      "Thales"
+    ],
+    "explanation_ru": "Пифагор Самосский (Πυθαγόρας, ок. 570-495 гг. до н.э.) - древнегреческий философ и математик, основатель пифагорейской школы. Теорема Пифагора гласит: в прямоугольном треугольнике квадрат гипотенузы равен сумме квадратов катетов (a²+b²=c²). Хотя эта зависимость была известна вавилонянам и египтянам, Пифагор или его ученики первыми дали строгое математическое доказательство. Пифагорейцы считали числа основой Вселенной. Они открыли иррациональные числа (√2), что вызвало кризис - легенда гласит, что Гиппас, разгласивший тайну несоизмеримости, был утоплен. Пифагор основал в Кротоне (Южная Италия) философско-религиозное братство с строгими правилами: вегетарианство, запрет на бобы, общность имущества, тайна учений. Пифагорейцы верили в переселение душ (метемпсихоз). Пифагору приписывали чудеса: он якобы мог быть в двух местах одновременно, понимал язык животных, помнил прошлые жизни. Он погиб во время антипифагорейского восстания, когда школу сожгли. Его учение повлияло на Платона и последующую философию.",
+    "explanation_de": "Pythagoras von Samos (Πυθαγόρας, ca. 570-495 v. Chr.) - altgriechischer Philosoph und Mathematiker, Gründer der pythagoreischen Schule. Der Satz des Pythagoras besagt: In einem rechtwinkligen Dreieck ist das Quadrat der Hypotenuse gleich der Summe der Quadrate der Katheten (a²+b²=c²). Obwohl diese Beziehung Babyloniern und Ägyptern bekannt war, gaben Pythagoras oder seine Schüler den ersten strengen mathematischen Beweis. Die Pythagoreer hielten Zahlen für die Grundlage des Universums. Sie entdeckten irrationale Zahlen (√2), was eine Krise verursachte - die Legende besagt, dass Hippasos, der das Geheimnis der Inkommensurabilität verriet, ertränkt wurde. Pythagoras gründete in Kroton (Süditalien) eine philosophisch-religiöse Bruderschaft mit strengen Regeln: Vegetarismus, Bohnenverbot, Gütergemeinschaft, Geheimlehren. Pythagoreer glaubten an Seelenwanderung (Metempsychose). Pythagoras wurden Wunder zugeschrieben: er konnte angeblich an zwei Orten gleichzeitig sein, Tiersprache verstehen, sich an frühere Leben erinnern. Er starb während eines antipythagoreischen Aufstands, als die Schule niedergebrannt wurde. Seine Lehre beeinflusste Platon und nachfolgende Philosophie.",
     "interesting_facts": [
       {
         "ru": "Запрет на бобы у пифагорейцев загадочен. Версии: бобы вызывают метеоризм (недостойный философа), похожи на человеческие эмбрионы или врата Аида, содержат души умерших. По легенде, Пифагор погиб, отказавшись бежать через бобовое поле во время преследования.",
@@ -1277,28 +1121,22 @@
   },
   {
     "id": 227,
-    "question": "Кто был богом подземного царства?",
+    "question_ru": "Кто был богом подземного царства?",
     "question_de": "Wer war der Gott der Unterwelt?",
-    "answer": "Аид",
-    "answer_de": "Hades",
-    "wrong_answers": [
-      {
-        "ru": "Зевс",
-        "de": "Zeus"
-      },
-      {
-        "ru": "Посейдон",
-        "de": "Poseidon"
-      },
-      {
-        "ru": "Арес",
-        "de": "Ares"
-      }
+    "correct_answer_ru": "Аид",
+    "correct_answer_de": "Hades",
+    "wrong_answers_ru": [
+      "Зевс",
+      "Посейдон",
+      "Арес"
     ],
-    "explanation": {
-      "ru": "Аид (ᾍδης, у римлян Плутон) был богом подземного царства мёртвых, братом Зевса и Посейдона. После победы над титанами получил подземное царство по жребию. Аид правил мёртвыми вместе с женой Персефоной. Он был мрачным, но справедливым богом, редко покидавшим своё царство. Его шлем-невидимка делал владельца невидимым. Аид не был злым - просто исполнял свою роль стража мёртвых. Живые боялись произносить его имя, используя эвфемизмы: Плутон ('богатый' - владелец подземных богатств). Культ Аида был редок - ему не строили храмов, жертвы приносили ночью.",
-      "de": "Hades (ᾍδης, bei den Römern Pluto) war Gott der Unterwelt der Toten, Bruder von Zeus und Poseidon. Nach Sieg über Titanen erhielt er Unterwelt durchs Los. Hades herrschte über Tote mit Frau Persephone. Er war düsterer, aber gerechter Gott, verließ selten sein Reich. Sein Helm der Unsichtbarkeit machte Träger unsichtbar. Hades war nicht böse - erfüllte nur seine Rolle als Wächter der Toten. Lebende fürchteten, seinen Namen auszusprechen, nutzten Euphemismen: Pluton ('reich' - Besitzer unterirdischer Reichtümer). Hades-Kult war selten - ihm wurden keine Tempel gebaut, Opfer nachts gebracht."
-    },
+    "wrong_answers_de": [
+      "Zeus",
+      "Poseidon",
+      "Ares"
+    ],
+    "explanation_ru": "Аид (ᾍδης, у римлян Плутон) был богом подземного царства мёртвых, братом Зевса и Посейдона. После победы над титанами получил подземное царство по жребию. Аид правил мёртвыми вместе с женой Персефоной. Он был мрачным, но справедливым богом, редко покидавшим своё царство. Его шлем-невидимка делал владельца невидимым. Аид не был злым - просто исполнял свою роль стража мёртвых. Живые боялись произносить его имя, используя эвфемизмы: Плутон ('богатый' - владелец подземных богатств). Культ Аида был редок - ему не строили храмов, жертвы приносили ночью.",
+    "explanation_de": "Hades (ᾍδης, bei den Römern Pluto) war Gott der Unterwelt der Toten, Bruder von Zeus und Poseidon. Nach Sieg über Titanen erhielt er Unterwelt durchs Los. Hades herrschte über Tote mit Frau Persephone. Er war düsterer, aber gerechter Gott, verließ selten sein Reich. Sein Helm der Unsichtbarkeit machte Träger unsichtbar. Hades war nicht böse - erfüllte nur seine Rolle als Wächter der Toten. Lebende fürchteten, seinen Namen auszusprechen, nutzten Euphemismen: Pluton ('reich' - Besitzer unterirdischer Reichtümer). Hades-Kult war selten - ihm wurden keine Tempel gebaut, Opfer nachts gebracht.",
     "interesting_facts": [
       {
         "ru": "Царство Аида имело реки: Стикс (ненависть), Ахерон (скорбь), Лета (забвение), Коцит (плач), Флегетон (огонь). Харон перевозил души через Стикс за обол (монету), которую клали в рот покойнику.",
@@ -1325,28 +1163,22 @@
   },
   {
     "id": 228,
-    "question": "В каком году началась Пелопоннесская война?",
+    "question_ru": "В каком году началась Пелопоннесская война?",
     "question_de": "In welchem Jahr begann der Peloponnesische Krieg?",
-    "answer": "431 год до н.э.",
-    "answer_de": "431 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "430 год до н.э.",
-        "de": "430 v. Chr."
-      },
-      {
-        "ru": "432 год до н.э.",
-        "de": "432 v. Chr."
-      },
-      {
-        "ru": "429 год до н.э.",
-        "de": "429 v. Chr."
-      }
+    "correct_answer_ru": "431 год до н.э.",
+    "correct_answer_de": "431 v. Chr.",
+    "wrong_answers_ru": [
+      "430 год до н.э.",
+      "432 год до н.э.",
+      "429 год до н.э."
     ],
-    "explanation": {
-      "ru": "Пелопоннесская война (431-404 гг. до н.э.) - конфликт между Афинским морским союзом и Пелопоннесским союзом во главе со Спартой. Причины: рост могущества Афин после греко-персидских войн, торговое соперничество, идеологический конфликт (демократия vs олигархия). Война длилась 27 лет с перерывом (Никиев мир 421-413). Фукидид, её историограф и участник, назвал её величайшей войной в истории греков. Война закончилась поражением Афин, осадой города, разрушением Длинных стен, роспуском Делосского союза. Спарта стала гегемоном Греции, но ненадолго. Война ослабила все полисы, что позволило Македонии при Филиппе II завоевать Грецию через 50 лет.",
-      "de": "Der Peloponnesische Krieg (431-404 v. Chr.) - Konflikt zwischen Attischem Seebund und Peloponnesischem Bund unter Spartas Führung. Ursachen: Athens Machtwachstum nach Perserkriegen, Handelsrivalität, ideologischer Konflikt (Demokratie vs Oligarchie). Krieg dauerte 27 Jahre mit Unterbrechung (Nikiasfrieden 421-413). Thukydides, sein Historiograph und Teilnehmer, nannte ihn größten Krieg in griechischer Geschichte. Krieg endete mit Athens Niederlage, Stadtbelagerung, Zerstörung Langer Mauern, Auflösung des Delischen Bundes. Sparta wurde Griechenlands Hegemon, aber nicht lange. Krieg schwächte alle Poleis, was Makedonien unter Philipp II. erlaubte, Griechenland 50 Jahre später zu erobern."
-    },
+    "wrong_answers_de": [
+      "430 v. Chr.",
+      "432 v. Chr.",
+      "429 v. Chr."
+    ],
+    "explanation_ru": "Пелопоннесская война (431-404 гг. до н.э.) - конфликт между Афинским морским союзом и Пелопоннесским союзом во главе со Спартой. Причины: рост могущества Афин после греко-персидских войн, торговое соперничество, идеологический конфликт (демократия vs олигархия). Война длилась 27 лет с перерывом (Никиев мир 421-413). Фукидид, её историограф и участник, назвал её величайшей войной в истории греков. Война закончилась поражением Афин, осадой города, разрушением Длинных стен, роспуском Делосского союза. Спарта стала гегемоном Греции, но ненадолго. Война ослабила все полисы, что позволило Македонии при Филиппе II завоевать Грецию через 50 лет.",
+    "explanation_de": "Der Peloponnesische Krieg (431-404 v. Chr.) - Konflikt zwischen Attischem Seebund und Peloponnesischem Bund unter Spartas Führung. Ursachen: Athens Machtwachstum nach Perserkriegen, Handelsrivalität, ideologischer Konflikt (Demokratie vs Oligarchie). Krieg dauerte 27 Jahre mit Unterbrechung (Nikiasfrieden 421-413). Thukydides, sein Historiograph und Teilnehmer, nannte ihn größten Krieg in griechischer Geschichte. Krieg endete mit Athens Niederlage, Stadtbelagerung, Zerstörung Langer Mauern, Auflösung des Delischen Bundes. Sparta wurde Griechenlands Hegemon, aber nicht lange. Krieg schwächte alle Poleis, was Makedonien unter Philipp II. erlaubte, Griechenland 50 Jahre später zu erobern.",
     "interesting_facts": [
       {
         "ru": "Фукидид создал научную историографию, отвергнув мифы. Он анализировал причины войны, описывал события год за годом, включал речи участников (реконструированные). Его труд 'История Пелопоннесской войны' - шедевр античной историографии, источник о классическом периоде.",
@@ -1373,28 +1205,22 @@
   },
   {
     "id": 229,
-    "question": "Кто написал 'Одиссею'?",
+    "question_ru": "Кто написал 'Одиссею'?",
     "question_de": "Wer schrieb die 'Odyssee'?",
-    "answer": "Гомер",
-    "answer_de": "Homer",
-    "wrong_answers": [
-      {
-        "ru": "Гесиод",
-        "de": "Hesiod"
-      },
-      {
-        "ru": "Вергилий",
-        "de": "Vergil"
-      },
-      {
-        "ru": "Овидий",
-        "de": "Ovid"
-      }
+    "correct_answer_ru": "Гомер",
+    "correct_answer_de": "Homer",
+    "wrong_answers_ru": [
+      "Гесиод",
+      "Вергилий",
+      "Овидий"
     ],
-    "explanation": {
-      "ru": "'Одиссея' - вторая великая эпическая поэма Гомера (после 'Илиады'), повествующая о десятилетнем возвращении Одиссея домой в Итаку после Троянской войны. Поэма в 24 книгах (12110 строк) описывает приключения: циклоп Полифем, Цирцея, сирены, Сцилла и Харибда, нимфа Калипсо, феаки. Параллельно показана верная жена Пенелопа, ткущая саван днём и распуская ночью, обманывая женихов. Сын Телемах ищет отца. Одиссей возвращается неузнанным, устраивает состязание лука, убивает женихов, воссоединяется с семьёй. 'Одиссея' более сказочна, чем 'Илиада', полна фольклорных мотивов. Она изображает хитрость (метис) как добродетель - Одиссей 'хитроумный' (πολύμητις). Поэма повлияла на всю мировую литературу - от Вергилия ('Энеида') до Джойса ('Улисс'). 'Одиссея' и 'Илиада' были основой греческого образования тысячелетия.",
-      "de": "Die 'Odyssee' ist Homers zweites großes Epos (nach der 'Ilias'), das die zehnjährige Heimkehr des Odysseus nach Ithaka nach dem Trojanischen Krieg erzählt. Das Gedicht in 24 Büchern (12.110 Verse) beschreibt Abenteuer: Zyklop Polyphem, Circe, Sirenen, Skylla und Charybdis, Nymphe Kalypso, Phäaken. Parallel wird treue Frau Penelope gezeigt, die tagsüber Leichentuch webt und nachts auftrennt, Freier täuschend. Sohn Telemachos sucht Vater. Odysseus kehrt unerkannt zurück, veranstaltet Bogenwettbewerb, tötet Freier, vereint sich mit Familie. 'Odyssee' ist märchenhafter als 'Ilias', voller folkloristischer Motive. Sie zeigt List (Metis) als Tugend - Odysseus ist 'listenreich' (πολύμητις). Gedicht beeinflusste Weltliteratur - von Vergil ('Aeneis') bis Joyce ('Ulysses'). 'Odyssee' und 'Ilias' waren Grundlage griechischer Bildung für Jahrtausende."
-    },
+    "wrong_answers_de": [
+      "Hesiod",
+      "Vergil",
+      "Ovid"
+    ],
+    "explanation_ru": "'Одиссея' - вторая великая эпическая поэма Гомера (после 'Илиады'), повествующая о десятилетнем возвращении Одиссея домой в Итаку после Троянской войны. Поэма в 24 книгах (12110 строк) описывает приключения: циклоп Полифем, Цирцея, сирены, Сцилла и Харибда, нимфа Калипсо, феаки. Параллельно показана верная жена Пенелопа, ткущая саван днём и распуская ночью, обманывая женихов. Сын Телемах ищет отца. Одиссей возвращается неузнанным, устраивает состязание лука, убивает женихов, воссоединяется с семьёй. 'Одиссея' более сказочна, чем 'Илиада', полна фольклорных мотивов. Она изображает хитрость (метис) как добродетель - Одиссей 'хитроумный' (πολύμητις). Поэма повлияла на всю мировую литературу - от Вергилия ('Энеида') до Джойса ('Улисс'). 'Одиссея' и 'Илиада' были основой греческого образования тысячелетия.",
+    "explanation_de": "Die 'Odyssee' ist Homers zweites großes Epos (nach der 'Ilias'), das die zehnjährige Heimkehr des Odysseus nach Ithaka nach dem Trojanischen Krieg erzählt. Das Gedicht in 24 Büchern (12.110 Verse) beschreibt Abenteuer: Zyklop Polyphem, Circe, Sirenen, Skylla und Charybdis, Nymphe Kalypso, Phäaken. Parallel wird treue Frau Penelope gezeigt, die tagsüber Leichentuch webt und nachts auftrennt, Freier täuschend. Sohn Telemachos sucht Vater. Odysseus kehrt unerkannt zurück, veranstaltet Bogenwettbewerb, tötet Freier, vereint sich mit Familie. 'Odyssee' ist märchenhafter als 'Ilias', voller folkloristischer Motive. Sie zeigt List (Metis) als Tugend - Odysseus ist 'listenreich' (πολύμητις). Gedicht beeinflusste Weltliteratur - von Vergil ('Aeneis') bis Joyce ('Ulysses'). 'Odyssee' und 'Ilias' waren Grundlage griechischer Bildung für Jahrtausende.",
     "interesting_facts": [
       {
         "ru": "Одиссей представляется циклопу 'Никто' (Οὖτις). Когда ослеплённый Полифем кричит, что 'Никто' его ранил, другие циклопы не помогают. Одиссей и спутники сбегают, спрятавшись под баранами.",
@@ -1422,28 +1248,22 @@
   },
   {
     "id": 230,
-    "question": "Как назывался древнегреческий воин-пехотинец?",
+    "question_ru": "Как назывался древнегреческий воин-пехотинец?",
     "question_de": "Wie hieß der altgriechische Infanteriekrieger?",
-    "answer": "Гоплит",
-    "answer_de": "Hoplit",
-    "wrong_answers": [
-      {
-        "ru": "Легионер",
-        "de": "Legionär"
-      },
-      {
-        "ru": "Пельтаст",
-        "de": "Peltast"
-      },
-      {
-        "ru": "Гетайр",
-        "de": "Hetairos"
-      }
+    "correct_answer_ru": "Гоплит",
+    "correct_answer_de": "Hoplit",
+    "wrong_answers_ru": [
+      "Легионер",
+      "Пельтаст",
+      "Гетайр"
     ],
-    "explanation": {
-      "ru": "Гоплит (ὁπλίτης от ὅπλον 'оружие') - тяжеловооружённый пехотинец греческих армий VII-IV вв. до н.э., основа греческой военной мощи. Вооружение весило 20-30 кг: большой круглый щит гоплон (диаметр ~1 м, вес 7-8 кг), длинное копьё дору (2-3 м), меч ксифос, бронзовый шлем (коринфский, халкидский), кираса (металлическая или льняная), поножи. Щит держали левой рукой, прикрывая себя и правый бок товарища слева - отсюда сплочённость фаланги. Гоплитом мог стать гражданин, способный купить вооружение - это связывало военную службу с имущественным цензом и гражданскими правами. Гоплиты были среднего класса - зажиточные крестьяне, торговцы, ремесленники. Они сами покупали оружие, тренировались в гимнасиях. Гоплитская фаланга доминировала в греческой войне до македонских реформ Филиппа II, создавшего сарисофоров с 5-6 метровыми копьями.",
-      "de": "Der Hoplit (ὁπλίτης von ὅπλον 'Waffe') war ein schwerbewaffneter Infanterist griechischer Armeen des 7.-4. Jh. v. Chr., Grundlage griechischer Militärmacht. Bewaffnung wog 20-30 kg: großer runder Schild Hoplon (Durchmesser ~1 m, Gewicht 7-8 kg), langes Speer Dory (2-3 m), Schwert Xiphos, Bronzehelm (korinthisch, chalkidisch), Panzer (Metall oder Leinen), Beinschienen. Schild wurde mit linker Hand gehalten und bedeckte sich selbst und rechte Seite des Kameraden links - daher Kohäsion der Phalanx. Hoplit konnte ein Bürger werden, der Bewaffnung kaufen konnte - dies verband Militärdienst mit Vermögenszensus und Bürgerrechten. Hopliten waren Mittelklasse - wohlhabende Bauern, Händler, Handwerker. Sie kauften selbst Waffen, trainierten in Gymnasien. Hopliten-Phalanx dominierte griechische Kriegsführung bis zu makedonischen Reformen Philipps II., der Sarissophoren mit 5-6 Meter langen Speeren schuf."
-    },
+    "wrong_answers_de": [
+      "Legionär",
+      "Peltast",
+      "Hetairos"
+    ],
+    "explanation_ru": "Гоплит (ὁπλίτης от ὅπλον 'оружие') - тяжеловооружённый пехотинец греческих армий VII-IV вв. до н.э., основа греческой военной мощи. Вооружение весило 20-30 кг: большой круглый щит гоплон (диаметр ~1 м, вес 7-8 кг), длинное копьё дору (2-3 м), меч ксифос, бронзовый шлем (коринфский, халкидский), кираса (металлическая или льняная), поножи. Щит держали левой рукой, прикрывая себя и правый бок товарища слева - отсюда сплочённость фаланги. Гоплитом мог стать гражданин, способный купить вооружение - это связывало военную службу с имущественным цензом и гражданскими правами. Гоплиты были среднего класса - зажиточные крестьяне, торговцы, ремесленники. Они сами покупали оружие, тренировались в гимнасиях. Гоплитская фаланга доминировала в греческой войне до македонских реформ Филиппа II, создавшего сарисофоров с 5-6 метровыми копьями.",
+    "explanation_de": "Der Hoplit (ὁπλίτης von ὅπλον 'Waffe') war ein schwerbewaffneter Infanterist griechischer Armeen des 7.-4. Jh. v. Chr., Grundlage griechischer Militärmacht. Bewaffnung wog 20-30 kg: großer runder Schild Hoplon (Durchmesser ~1 m, Gewicht 7-8 kg), langes Speer Dory (2-3 m), Schwert Xiphos, Bronzehelm (korinthisch, chalkidisch), Panzer (Metall oder Leinen), Beinschienen. Schild wurde mit linker Hand gehalten und bedeckte sich selbst und rechte Seite des Kameraden links - daher Kohäsion der Phalanx. Hoplit konnte ein Bürger werden, der Bewaffnung kaufen konnte - dies verband Militärdienst mit Vermögenszensus und Bürgerrechten. Hopliten waren Mittelklasse - wohlhabende Bauern, Händler, Handwerker. Sie kauften selbst Waffen, trainierten in Gymnasien. Hopliten-Phalanx dominierte griechische Kriegsführung bis zu makedonischen Reformen Philipps II., der Sarissophoren mit 5-6 Meter langen Speeren schuf.",
     "interesting_facts": [
       {
         "ru": "Имя на щите - гоплиты писали на внутренней стороне своё имя или отца. Бросить щит в бою (рипсаспис) было величайшим позором - трусость, предательство товарищей. Спартанская мать, провожая сына, говорила: 'С ним или на нём' (вернись победителем или мёртвым на щите).",

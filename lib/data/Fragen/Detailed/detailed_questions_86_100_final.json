@@ -3,10 +3,18 @@
     "id": 86,
     "question_ru": "Что символизировало перо Маат?",
     "question_de": "Was symbolisierte die Feder der Maat?",
-    "answer_ru": "Истину и справедливость",
-    "answer_de": "Wahrheit und Gerechtigkeit",
-    "wrong_answers_ru": ["Мудрость и знание", "Жизнь и смерть", "Силу и власть"],
-    "wrong_answers_de": ["Weisheit und Wissen", "Leben und Tod", "Macht und Herrschaft"],
+    "correct_answer_ru": "Истину и справедливость",
+    "correct_answer_de": "Wahrheit und Gerechtigkeit",
+    "wrong_answers_ru": [
+      "Мудрость и знание",
+      "Жизнь и смерть",
+      "Силу и власть"
+    ],
+    "wrong_answers_de": [
+      "Weisheit und Wissen",
+      "Leben und Tod",
+      "Macht und Herrschaft"
+    ],
     "explanation_ru": "Перо страуса на голове Маат было главным символом истины и справедливости в египетской культуре. Оно представляло идеальный баланс и порядок во вселенной. Именно это перо использовалось в загробном суде для взвешивания сердец умерших. Лёгкость пера символизировала чистоту и праведность.",
     "explanation_de": "Die Straußenfeder auf Maats Kopf war das Hauptsymbol für Wahrheit und Gerechtigkeit in der ägyptischen Kultur. Sie repräsentierte das ideale Gleichgewicht und die Ordnung im Universum. Genau diese Feder wurde im Jenseitsgericht zum Wiegen der Herzen der Verstorbenen verwendet. Die Leichtigkeit der Feder symbolisierte Reinheit und Rechtschaffenheit.",
     "interesting_facts": [
@@ -27,16 +35,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "символы", "философия"]
+    "tags": [
+      "религия",
+      "символы",
+      "философия"
+    ]
   },
   {
     "id": 87,
     "question_ru": "С чем сравнивали сердце на суде Осириса?",
     "question_de": "Womit wurde das Herz im Gericht des Osiris verglichen?",
-    "answer_ru": "С пером Маат",
-    "answer_de": "Mit der Feder der Maat",
-    "wrong_answers_ru": ["С золотым грузом", "С камнем истины", "С водой Нила"],
-    "wrong_answers_de": ["Mit goldenem Gewicht", "Mit dem Stein der Wahrheit", "Mit Nilwasser"],
+    "correct_answer_ru": "С пером Маат",
+    "correct_answer_de": "Mit der Feder der Maat",
+    "wrong_answers_ru": [
+      "С золотым грузом",
+      "С камнем истины",
+      "С водой Нила"
+    ],
+    "wrong_answers_de": [
+      "Mit goldenem Gewicht",
+      "Mit dem Stein der Wahrheit",
+      "Mit Nilwasser"
+    ],
     "explanation_ru": "На суде Осириса Анубис клал сердце умершего на одну чашу весов, а перо Маат - на другую. Если сердце было легче или равно перу, человек считался праведным и получал доступ в рай. Если сердце перевешивало, это означало, что оно отягощено грехами. В этом случае душу пожирало чудовище Амемет, и человек переставал существовать.",
     "explanation_de": "Im Gericht des Osiris legte Anubis das Herz des Verstorbenen auf eine Waagschale und die Feder der Maat auf die andere. Wenn das Herz leichter oder gleich schwer wie die Feder war, galt der Mensch als rechtschaffen und erhielt Zugang zum Paradies. Wenn das Herz überwog, bedeutete dies, dass es von Sünden beschwert war. In diesem Fall verschlang das Monster Ammit die Seele, und der Mensch hörte auf zu existieren.",
     "interesting_facts": [
@@ -57,16 +77,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "загробный мир", "суд"]
+    "tags": [
+      "религия",
+      "загробный мир",
+      "суд"
+    ]
   },
   {
     "id": 88,
     "question_ru": "Какое чудовище пожирало грешников в египетской мифологии?",
     "question_de": "Welches Monster verschlang Sünder in der ägyptischen Mythologie?",
-    "answer_ru": "Амат",
-    "answer_de": "Ammit",
-    "wrong_answers_ru": ["Апоп", "Сехмет", "Собек"],
-    "wrong_answers_de": ["Apophis", "Sachmet", "Sobek"],
+    "correct_answer_ru": "Амат",
+    "correct_answer_de": "Ammit",
+    "wrong_answers_ru": [
+      "Апоп",
+      "Сехмет",
+      "Собек"
+    ],
+    "wrong_answers_de": [
+      "Apophis",
+      "Sachmet",
+      "Sobek"
+    ],
     "explanation_ru": "Амат (также Амемет или Аммут) было демоническим существом, сочетавшим части трёх самых опасных животных Египта. У неё была голова крокодила, передняя часть тела льва и задняя часть гиппопотама. Она сидела рядом с весами правосудия на суде Осириса. Если сердце умершего оказывалось тяжелее пера Маат, Амат немедленно пожирала его, уничтожая душу навсегда.",
     "explanation_de": "Ammit (auch Amamet oder Ammut) war ein dämonisches Wesen, das Teile der drei gefährlichsten Tiere Ägyptens kombinierte. Sie hatte den Kopf eines Krokodils, den vorderen Körperteil eines Löwen und den hinteren Teil eines Nilpferds. Sie saß neben der Waage der Gerechtigkeit im Gericht des Osiris. Wenn das Herz des Verstorbenen schwerer als die Feder der Maat war, verschlang Ammit es sofort und vernichtete die Seele für immer.",
     "interesting_facts": [
@@ -87,16 +119,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "мифология", "чудовища"]
+    "tags": [
+      "религия",
+      "мифология",
+      "чудовища"
+    ]
   },
   {
     "id": 89,
     "question_ru": "Как называлась египетская ладья мёртвых?",
     "question_de": "Wie hieß das ägyptische Totenboot?",
-    "answer_ru": "Барка Ра",
-    "answer_de": "Barke des Ra",
-    "wrong_answers_ru": ["Ладья Осириса", "Корабль Анубиса", "Барка Хатхор"],
-    "wrong_answers_de": ["Barke des Osiris", "Schiff des Anubis", "Barke der Hathor"],
+    "correct_answer_ru": "Барка Ра",
+    "correct_answer_de": "Barke des Ra",
+    "wrong_answers_ru": [
+      "Ладья Осириса",
+      "Корабль Анубиса",
+      "Барка Хатхор"
+    ],
+    "wrong_answers_de": [
+      "Barke des Osiris",
+      "Schiff des Anubis",
+      "Barke der Hathor"
+    ],
     "explanation_ru": "Барка (или ладья) Ра была священным солнечным кораблём, на котором бог солнца путешествовал по небу днём и через подземный мир ночью. У неё было два названия: 'Манджет' для дневного плавания и 'Месектет' для ночного. Фараоны и знатные египтяне надеялись присоединиться к Ра на этой барке после смерти. Возле пирамид часто находят захороненные церемониальные лодки, символизирующие это путешествие.",
     "explanation_de": "Die Barke (oder das Boot) des Ra war das heilige Sonnenboot, auf dem der Sonnengott tagsüber über den Himmel und nachts durch die Unterwelt reiste. Sie hatte zwei Namen: 'Mandjet' für die Tagesfahrt und 'Mesektet' für die Nachtfahrt. Pharaonen und vornehme Ägypter hofften, Ra auf dieser Barke nach dem Tod zu begleiten. In der Nähe von Pyramiden werden oft vergrabene zeremonielle Boote gefunden, die diese Reise symbolisieren.",
     "interesting_facts": [
@@ -117,16 +161,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "символы", "корабли"]
+    "tags": [
+      "религия",
+      "символы",
+      "корабли"
+    ]
   },
   {
     "id": 90,
     "question_ru": "Какой бог перевозил умерших в загробный мир?",
     "question_de": "Welcher Gott brachte die Verstorbenen in die Unterwelt?",
-    "answer_ru": "Анубис",
-    "answer_de": "Anubis",
-    "wrong_answers_ru": ["Тот", "Осирис", "Гор"],
-    "wrong_answers_de": ["Thoth", "Osiris", "Horus"],
+    "correct_answer_ru": "Анубис",
+    "correct_answer_de": "Anubis",
+    "wrong_answers_ru": [
+      "Тот",
+      "Осирис",
+      "Гор"
+    ],
+    "wrong_answers_de": [
+      "Thoth",
+      "Osiris",
+      "Horus"
+    ],
     "explanation_ru": "Анубис был проводником душ умерших в загробный мир и защитником могил. Его основной функцией было сопровождение души через опасный путь в Дуат к Залу Двух Истин. Он также руководил процессом мумификации и взвешивал сердца на суде Осириса. Изображённый с головой шакала или чёрной собаки, Анубис был одним из древнейших и важнейших богов египетского пантеона.",
     "explanation_de": "Anubis war der Führer der Seelen der Verstorbenen in die Unterwelt und Beschützer der Gräber. Seine Hauptfunktion war es, die Seele auf dem gefährlichen Weg durch Duat zur Halle der Zwei Wahrheiten zu begleiten. Er leitete auch den Mumifizierungsprozess und wog die Herzen im Gericht des Osiris. Dargestellt mit dem Kopf eines Schakals oder schwarzen Hundes war Anubis einer der ältesten und wichtigsten Götter des ägyptischen Pantheons.",
     "interesting_facts": [
@@ -147,16 +203,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "боги", "загробный мир"]
+    "tags": [
+      "религия",
+      "боги",
+      "загробный мир"
+    ]
   },
   {
     "id": 91,
     "question_ru": "Как называлась египетская церемония 'открытия рта'?",
     "question_de": "Wie hieß die ägyptische Zeremonie der 'Mundöffnung'?",
-    "answer_ru": "Усеб-ра",
-    "answer_de": "Useb-ra",
-    "wrong_answers_ru": ["Хеб-сед", "Сема-тауи", "Пер-ем-хру"],
-    "wrong_answers_de": ["Heb-Sed", "Sema-taui", "Per-em-heru"],
+    "correct_answer_ru": "Усеб-ра",
+    "correct_answer_de": "Useb-ra",
+    "wrong_answers_ru": [
+      "Хеб-сед",
+      "Сема-тауи",
+      "Пер-ем-хру"
+    ],
+    "wrong_answers_de": [
+      "Heb-Sed",
+      "Sema-taui",
+      "Per-em-heru"
+    ],
     "explanation_ru": "Церемония 'открытия рта' (усеб-ра) была важнейшим погребальным ритуалом, совершаемым над мумией или статуей умершего. Жрец специальными инструментами символически открывал рот, глаза, уши и нос мумии. Это позволяло душе умершего есть, пить, дышать и говорить в загробной жизни. Без этого ритуала покойный не мог бы функционировать в Дуате.",
     "explanation_de": "Die Zeremonie der 'Mundöffnung' (Useb-ra) war das wichtigste Bestattungsritual, das an der Mumie oder Statue des Verstorbenen vollzogen wurde. Ein Priester öffnete mit speziellen Instrumenten symbolisch Mund, Augen, Ohren und Nase der Mumie. Dies ermöglichte der Seele des Verstorbenen, im Jenseits zu essen, zu trinken, zu atmen und zu sprechen. Ohne dieses Ritual hätte der Verstorbene in Duat nicht funktionieren können.",
     "interesting_facts": [
@@ -177,16 +245,28 @@
     "category": "Древний Египет",
     "type": "ritual",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["ритуалы", "похороны", "религия"]
+    "tags": [
+      "ритуалы",
+      "похороны",
+      "религия"
+    ]
   },
   {
     "id": 92,
     "question_ru": "Какие органы извлекали при мумификации?",
     "question_de": "Welche Organe wurden bei der Mumifizierung entfernt?",
-    "answer_ru": "Печень, лёгкие, желудок, кишечник",
-    "answer_de": "Leber, Lungen, Magen, Darm",
-    "wrong_answers_ru": ["Сердце, печень, мозг, почки", "Лёгкие, сердце, селезёнка, печень", "Желудок, почки, сердце, мозг"],
-    "wrong_answers_de": ["Herz, Leber, Gehirn, Nieren", "Lungen, Herz, Milz, Leber", "Magen, Nieren, Herz, Gehirn"],
+    "correct_answer_ru": "Печень, лёгкие, желудок, кишечник",
+    "correct_answer_de": "Leber, Lungen, Magen, Darm",
+    "wrong_answers_ru": [
+      "Сердце, печень, мозг, почки",
+      "Лёгкие, сердце, селезёнка, печень",
+      "Желудок, почки, сердце, мозг"
+    ],
+    "wrong_answers_de": [
+      "Herz, Leber, Gehirn, Nieren",
+      "Lungen, Herz, Milz, Leber",
+      "Magen, Nieren, Herz, Gehirn"
+    ],
     "explanation_ru": "При мумификации жрецы-бальзамировщики извлекали четыре основных внутренних органа: печень, лёгкие, желудок и кишечник. Эти органы подвергались быстрому разложению и могли испортить мумию. Их отдельно обрабатывали, высушивали натроном, заворачивали в льняную ткань и помещали в специальные канопы. Интересно, что мозг удаляли, но не сохраняли, а сердце оставляли в теле.",
     "explanation_de": "Bei der Mumifizierung entfernten Priester-Einbalsamierer vier Hauptorgane: Leber, Lungen, Magen und Darm. Diese Organe unterlagen schneller Zersetzung und konnten die Mumie verderben. Sie wurden separat behandelt, mit Natron getrocknet, in Leinentuch gewickelt und in spezielle Kanopen gelegt. Interessanterweise wurde das Gehirn entfernt, aber nicht aufbewahrt, während das Herz im Körper blieb.",
     "interesting_facts": [
@@ -207,16 +287,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["мумификация", "медицина", "ритуалы"]
+    "tags": [
+      "мумификация",
+      "медицина",
+      "ритуалы"
+    ]
   },
   {
     "id": 93,
     "question_ru": "Какой орган оставляли в теле при мумификации?",
     "question_de": "Welches Organ wurde bei der Mumifizierung im Körper gelassen?",
-    "answer_ru": "Сердце",
-    "answer_de": "Herz",
-    "wrong_answers_ru": ["Мозг", "Печень", "Почки"],
-    "wrong_answers_de": ["Gehirn", "Leber", "Nieren"],
+    "correct_answer_ru": "Сердце",
+    "correct_answer_de": "Herz",
+    "wrong_answers_ru": [
+      "Мозг",
+      "Печень",
+      "Почки"
+    ],
+    "wrong_answers_de": [
+      "Gehirn",
+      "Leber",
+      "Nieren"
+    ],
     "explanation_ru": "Сердце было единственным внутренним органом, который оставляли в теле при мумификации. Египтяне верили, что сердце - центр интеллекта, эмоций и памяти человека. Оно было необходимо для загробной жизни, так как именно его взвешивали на суде Осириса. Без сердца душа не могла предстать перед судом и обрести вечную жизнь.",
     "explanation_de": "Das Herz war das einzige innere Organ, das bei der Mumifizierung im Körper gelassen wurde. Die Ägypter glaubten, dass das Herz das Zentrum der Intelligenz, Emotionen und Erinnerungen eines Menschen war. Es war für das Jenseits notwendig, da genau es im Gericht des Osiris gewogen wurde. Ohne Herz konnte die Seele nicht vor Gericht erscheinen und ewiges Leben erlangen.",
     "interesting_facts": [
@@ -237,16 +329,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["мумификация", "органы", "религия"]
+    "tags": [
+      "мумификация",
+      "органы",
+      "религия"
+    ]
   },
   {
     "id": 94,
     "question_ru": "Как назывались сосуды для органов при мумификации?",
     "question_de": "Wie hießen die Gefäße für Organe bei der Mumifizierung?",
-    "answer_ru": "Канопы",
-    "answer_de": "Kanopen",
-    "wrong_answers_ru": ["Амфоры", "Саркофаги", "Ушебти"],
-    "wrong_answers_de": ["Amphoren", "Sarkophage", "Uschebti"],
+    "correct_answer_ru": "Канопы",
+    "correct_answer_de": "Kanopen",
+    "wrong_answers_ru": [
+      "Амфоры",
+      "Саркофаги",
+      "Ушебти"
+    ],
+    "wrong_answers_de": [
+      "Amphoren",
+      "Sarkophage",
+      "Uschebti"
+    ],
     "explanation_ru": "Канопы (или канопические сосуды) - специальные погребальные урны для хранения забальзамированных внутренних органов умершего. Каждый из четырёх сосудов имел крышку в форме головы одного из сыновей Гора и предназначался для определённого органа. Канопы изготавливались из камня, керамики или фаянса и помещались в гробницу рядом с саркофагом.",
     "explanation_de": "Kanopen (oder kanopische Gefäße) sind spezielle Begräbnisurnen zur Aufbewahrung der einbalsamierten inneren Organe des Verstorbenen. Jedes der vier Gefäße hatte einen Deckel in Form des Kopfes eines der Söhne des Horus und war für ein bestimmtes Organ bestimmt. Kanopen wurden aus Stein, Keramik oder Fayence hergestellt und neben dem Sarkophag im Grab platziert.",
     "interesting_facts": [
@@ -267,16 +371,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "2686 BCE - 30 BCE",
-    "tags": ["мумификация", "похороны", "артефакты"]
+    "tags": [
+      "мумификация",
+      "похороны",
+      "артефакты"
+    ]
   },
   {
     "id": 95,
     "question_ru": "Сколько канопов использовалось?",
     "question_de": "Wie viele Kanopen wurden verwendet?",
-    "answer_ru": "Четыре",
-    "answer_de": "Vier",
-    "wrong_answers_ru": ["Три", "Пять", "Шесть"],
-    "wrong_answers_de": ["Drei", "Fünf", "Sechs"],
+    "correct_answer_ru": "Четыре",
+    "correct_answer_de": "Vier",
+    "wrong_answers_ru": [
+      "Три",
+      "Пять",
+      "Шесть"
+    ],
+    "wrong_answers_de": [
+      "Drei",
+      "Fünf",
+      "Sechs"
+    ],
     "explanation_ru": "Всегда использовались четыре канопа - по одному для каждого извлечённого органа. Каждый сосуд находился под защитой одного из сыновей Гора и предназначался для конкретного органа: Имсети охранял печень, Хапи - лёгкие, Дуамутеф - желудок, Кебехсенуф - кишечник. Число четыре имело символическое значение, представляя четыре стороны света и полноту.",
     "explanation_de": "Es wurden immer vier Kanopen verwendet - eine für jedes entfernte Organ. Jedes Gefäß stand unter dem Schutz eines der Söhne des Horus und war für ein bestimmtes Organ bestimmt: Imset bewachte die Leber, Hapi die Lungen, Duamutef den Magen, Kebechsenuef den Darm. Die Zahl vier hatte symbolische Bedeutung und repräsentierte die vier Himmelsrichtungen und Vollständigkeit.",
     "interesting_facts": [
@@ -297,16 +413,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "2686 BCE - 30 BCE",
-    "tags": ["мумификация", "числа", "ритуалы"]
+    "tags": [
+      "мумификация",
+      "числа",
+      "ритуалы"
+    ]
   },
   {
     "id": 96,
     "question_ru": "Какие боги охраняли канопы?",
     "question_de": "Welche Götter bewachten die Kanopen?",
-    "answer_ru": "Сыновья Гора",
-    "answer_de": "Söhne des Horus",
-    "wrong_answers_ru": ["Дети Осириса", "Братья Анубиса", "Слуги Ра"],
-    "wrong_answers_de": ["Kinder des Osiris", "Brüder des Anubis", "Diener des Ra"],
+    "correct_answer_ru": "Сыновья Гора",
+    "correct_answer_de": "Söhne des Horus",
+    "wrong_answers_ru": [
+      "Дети Осириса",
+      "Братья Анубиса",
+      "Слуги Ра"
+    ],
+    "wrong_answers_de": [
+      "Kinder des Osiris",
+      "Brüder des Anubis",
+      "Diener des Ra"
+    ],
     "explanation_ru": "Четыре канопа охранялись четырьмя сыновьями Гора - Имсети, Хапи, Дуамутефом и Кебехсенуфом. Каждый из них был также связан с одной из богинь-защитниц: Имсети с Исидой, Хапи с Нефтидой, Дуамутеф с Нейт и Кебехсенуф с Селкет. Эти божества защищали органы от повреждения и зла в загробном мире.",
     "explanation_de": "Die vier Kanopen wurden von den vier Söhnen des Horus bewacht - Imset, Hapi, Duamutef und Kebechsenuef. Jeder von ihnen war auch mit einer der Schutzgöttinnen verbunden: Imset mit Isis, Hapi mit Nephthys, Duamutef mit Neith und Kebechsenuef mit Selket. Diese Gottheiten schützten die Organe vor Schäden und Bösem in der Unterwelt.",
     "interesting_facts": [
@@ -327,16 +455,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "2686 BCE - 30 BCE",
-    "tags": ["религия", "боги", "мумификация"]
+    "tags": [
+      "религия",
+      "боги",
+      "мумификация"
+    ]
   },
   {
     "id": 97,
     "question_ru": "Как звали старшего сына Гора?",
     "question_de": "Wie hieß der älteste Sohn des Horus?",
-    "answer_ru": "Имсети",
-    "answer_de": "Imset",
-    "wrong_answers_ru": ["Хапи", "Дуамутеф", "Кебехсенуф"],
-    "wrong_answers_de": ["Hapi", "Duamutef", "Kebechsenuef"],
+    "correct_answer_ru": "Имсети",
+    "correct_answer_de": "Imset",
+    "wrong_answers_ru": [
+      "Хапи",
+      "Дуамутеф",
+      "Кебехсенуф"
+    ],
+    "wrong_answers_de": [
+      "Hapi",
+      "Duamutef",
+      "Kebechsenuef"
+    ],
     "explanation_ru": "Имсети был старшим из четырёх сыновей Гора и единственным, кого изображали с человеческой головой на крышке канопа. Он охранял печень умершего и ассоциировался с южной стороной света. Его защитницей была богиня Исида, мать Гора. Имсети часто упоминается первым в списках сыновей Гора.",
     "explanation_de": "Imset war der älteste der vier Söhne des Horus und der einzige, der mit menschlichem Kopf auf dem Kanopendeckel dargestellt wurde. Er bewachte die Leber des Verstorbenen und wurde mit der südlichen Himmelsrichtung assoziiert. Seine Beschützerin war die Göttin Isis, die Mutter des Horus. Imset wird oft als erster in Listen der Söhne des Horus erwähnt.",
     "interesting_facts": [
@@ -357,16 +497,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "2686 BCE - 30 BCE",
-    "tags": ["религия", "боги", "мифология"]
+    "tags": [
+      "религия",
+      "боги",
+      "мифология"
+    ]
   },
   {
     "id": 98,
     "question_ru": "Какой сын Гора охранял печень?",
     "question_de": "Welcher Sohn des Horus bewachte die Leber?",
-    "answer_ru": "Имсети",
-    "answer_de": "Imset",
-    "wrong_answers_ru": ["Хапи", "Дуамутеф", "Кебехсенуф"],
-    "wrong_answers_de": ["Hapi", "Duamutef", "Kebechsenuef"],
+    "correct_answer_ru": "Имсети",
+    "correct_answer_de": "Imset",
+    "wrong_answers_ru": [
+      "Хапи",
+      "Дуамутеф",
+      "Кебехсенуф"
+    ],
+    "wrong_answers_de": [
+      "Hapi",
+      "Duamutef",
+      "Kebechsenuef"
+    ],
     "explanation_ru": "Имсети с человеческой головой отвечал за охрану печени в канопе. Печень считалась важным органом, связанным с жизненной силой и эмоциями. Канон с печенью помещали на южной стороне от саркофага, под защитой Исиды. Этот орган был необходим для воскрешения в загробной жизни.",
     "explanation_de": "Imset mit dem menschlichen Kopf war für die Bewachung der Leber in der Kanope verantwortlich. Die Leber galt als wichtiges Organ, verbunden mit Lebenskraft und Emotionen. Die Kanope mit der Leber wurde auf der Südseite des Sarkophags unter dem Schutz der Isis platziert. Dieses Organ war für die Wiederauferstehung im Jenseits notwendig.",
     "interesting_facts": [
@@ -387,16 +539,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "2686 BCE - 30 BCE",
-    "tags": ["религия", "мумификация", "органы"]
+    "tags": [
+      "религия",
+      "мумификация",
+      "органы"
+    ]
   },
   {
     "id": 99,
     "question_ru": "Как назывался город мёртвых в Египте?",
     "question_de": "Wie hieß die Totenstadt in Ägypten?",
-    "answer_ru": "Некрополь",
-    "answer_de": "Nekropole",
-    "wrong_answers_ru": ["Мемориал", "Кладбище", "Гробница"],
-    "wrong_answers_de": ["Memorial", "Friedhof", "Gruft"],
+    "correct_answer_ru": "Некрополь",
+    "correct_answer_de": "Nekropole",
+    "wrong_answers_ru": [
+      "Мемориал",
+      "Кладбище",
+      "Гробница"
+    ],
+    "wrong_answers_de": [
+      "Memorial",
+      "Friedhof",
+      "Gruft"
+    ],
     "explanation_ru": "Некрополь (от греческого 'город мёртвых') - обширная территория с гробницами, пирамидами и погребальными храмами. Главные некрополи Египта располагались на западном берегу Нила, так как запад ассоциировался с заходящим солнцем и царством мёртвых. Самые известные некрополи - Гиза, Саккара, Долина Царей возле Фив.",
     "explanation_de": "Nekropole (vom griechischen 'Totenstadt') ist ein ausgedehntes Gebiet mit Gräbern, Pyramiden und Totentempeln. Die Hauptnekropolen Ägyptens befanden sich am Westufer des Nils, da der Westen mit der untergehenden Sonne und dem Reich der Toten assoziiert wurde. Die bekanntesten Nekropolen sind Gizeh, Sakkara und das Tal der Könige bei Theben.",
     "interesting_facts": [
@@ -417,16 +581,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["география", "похороны", "архитектура"]
+    "tags": [
+      "география",
+      "похороны",
+      "архитектура"
+    ]
   },
   {
     "id": 100,
     "question_ru": "Где находится Долина Царей?",
     "question_de": "Wo befindet sich das Tal der Könige?",
-    "answer_ru": "Фивы (Луксор)",
-    "answer_de": "Theben (Luxor)",
-    "wrong_answers_ru": ["Каир", "Гиза", "Мемфис"],
-    "wrong_answers_de": ["Kairo", "Gizeh", "Memphis"],
+    "correct_answer_ru": "Фивы (Луксор)",
+    "correct_answer_de": "Theben (Luxor)",
+    "wrong_answers_ru": [
+      "Каир",
+      "Гиза",
+      "Мемфис"
+    ],
+    "wrong_answers_de": [
+      "Kairo",
+      "Gizeh",
+      "Memphis"
+    ],
     "explanation_ru": "Долина Царей расположена на западном берегу Нила напротив древних Фив (современный Луксор) в Верхнем Египте. Здесь находятся гробницы фараонов Нового царства (1550-1070 гг. до н.э.), включая Тутанхамона, Рамсеса II и Сети I. Всего открыто 63 гробницы, вырубленные в скальных утёсах долины.",
     "explanation_de": "Das Tal der Könige liegt am Westufer des Nils gegenüber dem antiken Theben (dem modernen Luxor) in Oberägypten. Hier befinden sich die Gräber der Pharaonen des Neuen Reiches (1550-1070 v. Chr.), darunter Tutanchamun, Ramses II und Sethos I. Insgesamt wurden 63 Gräber entdeckt, die in die Felsklippen des Tals gehauen wurden.",
     "interesting_facts": [
@@ -447,6 +623,10 @@
     "category": "Древний Египет",
     "type": "geography",
     "period": "1550-1070 BCE",
-    "tags": ["география", "гробницы", "археология"]
+    "tags": [
+      "география",
+      "гробницы",
+      "археология"
+    ]
   }
 ]

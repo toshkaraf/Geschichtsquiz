@@ -3,10 +3,18 @@
     "id": 71,
     "question_ru": "Как называлась египетская богиня войны?",
     "question_de": "Wie hieß die ägyptische Göttin des Krieges?",
-    "answer_ru": "Сехмет",
-    "answer_de": "Sachmet",
-    "wrong_answers_ru": ["Бастет", "Хатхор", "Нейт"],
-    "wrong_answers_de": ["Bastet", "Hathor", "Neith"],
+    "correct_answer_ru": "Сехмет",
+    "correct_answer_de": "Sachmet",
+    "wrong_answers_ru": [
+      "Бастет",
+      "Хатхор",
+      "Нейт"
+    ],
+    "wrong_answers_de": [
+      "Bastet",
+      "Hathor",
+      "Neith"
+    ],
     "explanation_ru": "Сехмет была богиней войны и исцеления. Её имя означает 'Могучая'. Она изображалась как женщина с головой львицы. Египтяне верили, что её дыхание создаёт пустыню.",
     "explanation_de": "Sachmet war die Göttin des Krieges und der Heilung. Ihr Name bedeutet 'Die Mächtige'. Sie wurde als Frau mit Löwenkopf dargestellt. Die Ägypter glaubten, dass ihr Atem die Wüste erschuf.",
     "interesting_facts": [
@@ -27,16 +35,28 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "богини", "война"]
+    "tags": [
+      "религия",
+      "богини",
+      "война"
+    ]
   },
   {
     "id": 72,
     "question_ru": "Какой царь объединил Верхний и Нижний Египет?",
     "question_de": "Welcher König vereinigte Ober- und Unterägypten?",
-    "answer_ru": "Нармер",
-    "answer_de": "Narmer",
-    "wrong_answers_ru": ["Скорпион", "Хор-Аха", "Джер"],
-    "wrong_answers_de": ["Skorpion", "Hor-Aha", "Djer"],
+    "correct_answer_ru": "Нармер",
+    "correct_answer_de": "Narmer",
+    "wrong_answers_ru": [
+      "Скорпион",
+      "Хор-Аха",
+      "Джер"
+    ],
+    "wrong_answers_de": [
+      "Skorpion",
+      "Hor-Aha",
+      "Djer"
+    ],
     "explanation_ru": "Нармер объединил Египет около 3100 года до н.э. Он основал Первую династию. Столицей стал Мемфис на границе регионов. Это началo династического периода.",
     "explanation_de": "Narmer vereinigte Ägypten um 3100 v. Chr. Er begründete die Erste Dynastie. Die Hauptstadt wurde Memphis an der Grenze der Regionen. Dies markierte den Beginn der dynastischen Periode.",
     "interesting_facts": [
@@ -57,16 +77,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "3100 BCE",
-    "tags": ["фараоны", "объединение", "история"]
+    "tags": [
+      "фараоны",
+      "объединение",
+      "история"
+    ]
   },
   {
     "id": 73,
     "question_ru": "Как называлась палетка Нармера?",
     "question_de": "Wie hieß die Palette des Narmer?",
-    "answer_ru": "Косметическая палетка",
-    "answer_de": "Kosmetikpalette",
-    "wrong_answers_ru": ["Боевая палетка", "Ритуальная палетка", "Церемониальная палетка"],
-    "wrong_answers_de": ["Kampfpalette", "Ritualpalette", "Zeremonialpalette"],
+    "correct_answer_ru": "Косметическая палетка",
+    "correct_answer_de": "Kosmetikpalette",
+    "wrong_answers_ru": [
+      "Боевая палетка",
+      "Ритуальная палетка",
+      "Церемониальная палетка"
+    ],
+    "wrong_answers_de": [
+      "Kampfpalette",
+      "Ritualpalette",
+      "Zeremonialpalette"
+    ],
     "explanation_ru": "Палетка Нармера - каменная косметическая палетка высотой 64 см. Она слишком велика для практического использования. Изображает объединение Египта. Это важнейший артефакт раннего периода.",
     "explanation_de": "Die Narmer-Palette ist eine steinerne Kosmetikpalette mit 64 cm Höhe. Sie ist zu groß für praktischen Gebrauch. Sie zeigt die Vereinigung Ägyptens. Dies ist ein wichtigstes Artefakt der Frühzeit.",
     "interesting_facts": [
@@ -87,16 +119,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "3100 BCE",
-    "tags": ["артефакты", "искусство", "история"]
+    "tags": [
+      "артефакты",
+      "искусство",
+      "история"
+    ]
   },
   {
     "id": 74,
     "question_ru": "Какой фараон построил Ступенчатую пирамиду?",
     "question_de": "Welcher Pharao baute die Stufenpyramide?",
-    "answer_ru": "Джосер",
-    "answer_de": "Djoser",
-    "wrong_answers_ru": ["Снофру", "Хеопс", "Хефрен"],
-    "wrong_answers_de": ["Snofru", "Cheops", "Chephren"],
+    "correct_answer_ru": "Джосер",
+    "correct_answer_de": "Djoser",
+    "wrong_answers_ru": [
+      "Снофру",
+      "Хеопс",
+      "Хефрен"
+    ],
+    "wrong_answers_de": [
+      "Snofru",
+      "Cheops",
+      "Chephren"
+    ],
     "explanation_ru": "Джосер правил около 2670-2650 гг. до н.э. Он построил первое каменное монументальное здание. Это была революция в архитектуре. Пирамида стала прототипом всех последующих.",
     "explanation_de": "Djoser regierte etwa 2670-2650 v. Chr. Er baute das erste steinerne monumentale Gebäude. Dies war eine Revolution in der Architektur. Die Pyramide wurde zum Prototyp aller nachfolgenden.",
     "interesting_facts": [
@@ -117,16 +161,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "2670 BCE",
-    "tags": ["фараоны", "пирамиды", "архитектура"]
+    "tags": [
+      "фараоны",
+      "пирамиды",
+      "архитектура"
+    ]
   },
   {
     "id": 75,
     "question_ru": "Кто был архитектором пирамиды Джосера?",
     "question_de": "Wer war der Architekt der Pyramide des Djoser?",
-    "answer_ru": "Имхотеп",
-    "answer_de": "Imhotep",
-    "wrong_answers_ru": ["Хемиун", "Сенмут", "Инени"],
-    "wrong_answers_de": ["Hemiunu", "Senmut", "Ineni"],
+    "correct_answer_ru": "Имхотеп",
+    "correct_answer_de": "Imhotep",
+    "wrong_answers_ru": [
+      "Хемиун",
+      "Сенмут",
+      "Инени"
+    ],
+    "wrong_answers_de": [
+      "Hemiunu",
+      "Senmut",
+      "Ineni"
+    ],
     "explanation_ru": "Имхотеп был визирем и архитектором Джосера. Он первый известный архитектор в истории. Спроектировал первое каменное здание. Позже был обожествлён как бог медицины.",
     "explanation_de": "Imhotep war Wesir und Architekt des Djoser. Er ist der erste bekannte Architekt der Geschichte. Er entwarf das erste steinerne Gebäude. Später wurde er als Gott der Medizin vergöttlicht.",
     "interesting_facts": [
@@ -147,16 +203,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "2650 BCE",
-    "tags": ["архитекторы", "учёные", "история"]
+    "tags": [
+      "архитекторы",
+      "учёные",
+      "история"
+    ]
   },
   {
     "id": 76,
     "question_ru": "Где находится Ступенчатая пирамида?",
     "question_de": "Wo befindet sich die Stufenpyramide?",
-    "answer_ru": "Саккара",
-    "answer_de": "Sakkara",
-    "wrong_answers_ru": ["Гиза", "Дахшур", "Мейдум"],
-    "wrong_answers_de": ["Gizeh", "Dahschur", "Meidum"],
+    "correct_answer_ru": "Саккара",
+    "correct_answer_de": "Sakkara",
+    "wrong_answers_ru": [
+      "Гиза",
+      "Дахшур",
+      "Мейдум"
+    ],
+    "wrong_answers_de": [
+      "Gizeh",
+      "Dahschur",
+      "Meidum"
+    ],
     "explanation_ru": "Саккара - некрополь в 30 км от Каира. Был кладбищем Мемфиса 3000 лет. Содержит древнейшую каменную пирамиду. Здесь 16 царских пирамид.",
     "explanation_de": "Sakkara ist eine Nekropole 30 km von Kairo. Es war 3000 Jahre Friedhof von Memphis. Enthält die älteste Steinpyramide. Hier gibt es 16 königliche Pyramiden.",
     "interesting_facts": [
@@ -177,16 +245,28 @@
     "category": "Древний Египет",
     "type": "geography",
     "period": "2670 BCE - 30 BCE",
-    "tags": ["география", "некрополи", "археология"]
+    "tags": [
+      "география",
+      "некрополи",
+      "археология"
+    ]
   },
   {
     "id": 77,
     "question_ru": "Сколько ступеней в пирамиде Джосера?",
     "question_de": "Wie viele Stufen hat die Pyramide des Djoser?",
-    "answer_ru": "Шесть",
-    "answer_de": "Sechs",
-    "wrong_answers_ru": ["Четыре", "Семь", "Восемь"],
-    "wrong_answers_de": ["Vier", "Sieben", "Acht"],
+    "correct_answer_ru": "Шесть",
+    "correct_answer_de": "Sechs",
+    "wrong_answers_ru": [
+      "Четыре",
+      "Семь",
+      "Восемь"
+    ],
+    "wrong_answers_de": [
+      "Vier",
+      "Sieben",
+      "Acht"
+    ],
     "explanation_ru": "Пирамида состоит из шести мастаб. Каждый уровень меньше предыдущего. Высота 62 метра, основание 109 на 125 метров. Форма символизирует лестницу в небо.",
     "explanation_de": "Die Pyramide besteht aus sechs Mastabas. Jede Ebene ist kleiner als die vorherige. Höhe 62 Meter, Basis 109 mal 125 Meter. Die Form symbolisiert eine Treppe zum Himmel.",
     "interesting_facts": [
@@ -207,16 +287,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "2670 BCE",
-    "tags": ["архитектура", "пирамиды", "числа"]
+    "tags": [
+      "архитектура",
+      "пирамиды",
+      "числа"
+    ]
   },
   {
     "id": 78,
     "question_ru": "Как называлась египетская письменность на папирусе?",
     "question_de": "Wie hieß die ägyptische Schrift auf Papyrus?",
-    "answer_ru": "Иератическая",
-    "answer_de": "Hieratisch",
-    "wrong_answers_ru": ["Иероглифическая", "Демотическая", "Коптская"],
-    "wrong_answers_de": ["Hieroglyphisch", "Demotisch", "Koptisch"],
+    "correct_answer_ru": "Иератическая",
+    "correct_answer_de": "Hieratisch",
+    "wrong_answers_ru": [
+      "Иероглифическая",
+      "Демотическая",
+      "Коптская"
+    ],
+    "wrong_answers_de": [
+      "Hieroglyphisch",
+      "Demotisch",
+      "Koptisch"
+    ],
     "explanation_ru": "Иератика - курсивная форма иероглифов. Использовалась с 2700 г. до н.э. Название означает 'жреческая'. Писалась тростниковым пером справа налево.",
     "explanation_de": "Hieratisch war eine kursive Form der Hieroglyphen. Verwendet seit 2700 v. Chr. Der Name bedeutet 'priesterlich'. Geschrieben mit Schilfrohr von rechts nach links.",
     "interesting_facts": [
@@ -237,16 +329,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "2700 BCE - 300 BCE",
-    "tags": ["письменность", "язык", "культура"]
+    "tags": [
+      "письменность",
+      "язык",
+      "культура"
+    ]
   },
   {
     "id": 79,
     "question_ru": "Как называлась упрощённая египетская письменность?",
     "question_de": "Wie hieß die vereinfachte ägyptische Schrift?",
-    "answer_ru": "Демотическая",
-    "answer_de": "Demotisch",
-    "wrong_answers_ru": ["Иератическая", "Иероглифическая", "Коптская"],
-    "wrong_answers_de": ["Hieratisch", "Hieroglyphisch", "Koptisch"],
+    "correct_answer_ru": "Демотическая",
+    "correct_answer_de": "Demotisch",
+    "wrong_answers_ru": [
+      "Иератическая",
+      "Иероглифическая",
+      "Коптская"
+    ],
+    "wrong_answers_de": [
+      "Hieratisch",
+      "Hieroglyphisch",
+      "Koptisch"
+    ],
     "explanation_ru": "Демотика развилась из иератики около 650 г. до н.э. Название означает 'народная'. Была ещё более курсивной. Использовалась до V века н.э.",
     "explanation_de": "Demotisch entwickelte sich aus Hieratisch um 650 v. Chr. Der Name bedeutet 'volkstümlich'. War noch kursiver. Wurde bis zum 5. Jh. n. Chr. verwendet.",
     "interesting_facts": [
@@ -267,16 +371,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "650 BCE - 450 CE",
-    "tags": ["письменность", "язык", "культура"]
+    "tags": [
+      "письменность",
+      "язык",
+      "культура"
+    ]
   },
   {
     "id": 80,
     "question_ru": "Кто расшифровал египетские иероглифы?",
     "question_de": "Wer entschlüsselte die ägyptischen Hieroglyphen?",
-    "answer_ru": "Жан-Франсуа Шампольон",
-    "answer_de": "Jean-François Champollion",
-    "wrong_answers_ru": ["Томас Юнг", "Карл Лепсиус", "Огюст Мариетт"],
-    "wrong_answers_de": ["Thomas Young", "Karl Lepsius", "Auguste Mariette"],
+    "correct_answer_ru": "Жан-Франсуа Шампольон",
+    "correct_answer_de": "Jean-François Champollion",
+    "wrong_answers_ru": [
+      "Томас Юнг",
+      "Карл Лепсиус",
+      "Огюст Мариетт"
+    ],
+    "wrong_answers_de": [
+      "Thomas Young",
+      "Karl Lepsius",
+      "Auguste Mariette"
+    ],
     "explanation_ru": "Шампольон расшифровал иероглифы в 1822 году. Использовал Розеттский камень. Понял, что знаки обозначают идеи и звуки. Открыл доступ к египетской истории.",
     "explanation_de": "Champollion entschlüsselte Hieroglyphen 1822. Verwendete den Stein von Rosetta. Erkannte, dass Zeichen Ideen und Laute darstellten. Öffnete Zugang zur ägyptischen Geschichte.",
     "interesting_facts": [
@@ -297,16 +413,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "1822",
-    "tags": ["учёные", "расшифровка", "история"]
+    "tags": [
+      "учёные",
+      "расшифровка",
+      "история"
+    ]
   },
   {
     "id": 81,
     "question_ru": "Как называется камень, помогший расшифровать иероглифы?",
     "question_de": "Wie heißt der Stein, der bei der Entschlüsselung der Hieroglyphen half?",
-    "answer_ru": "Розеттский камень",
-    "answer_de": "Stein von Rosetta",
-    "wrong_answers_ru": ["Палермский камень", "Мемфисский камень", "Карнакский камень"],
-    "wrong_answers_de": ["Stein von Palermo", "Stein von Memphis", "Stein von Karnak"],
+    "correct_answer_ru": "Розеттский камень",
+    "correct_answer_de": "Stein von Rosetta",
+    "wrong_answers_ru": [
+      "Палермский камень",
+      "Мемфисский камень",
+      "Карнакский камень"
+    ],
+    "wrong_answers_de": [
+      "Stein von Palermo",
+      "Stein von Memphis",
+      "Stein von Karnak"
+    ],
     "explanation_ru": "Розеттский камень - гранитная стела весом 760 кг. Найден в 1799 году у города Розетта. Содержит один текст на трёх языках. Стал ключом к расшифровке иероглифов.",
     "explanation_de": "Der Stein von Rosetta ist eine Granitplatte von 760 kg. 1799 bei der Stadt Rosetta gefunden. Enthält einen Text in drei Sprachen. Wurde zum Schlüssel der Hieroglyphen-Entschlüsselung.",
     "interesting_facts": [
@@ -327,16 +455,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "196 BCE",
-    "tags": ["артефакты", "расшифровка", "археология"]
+    "tags": [
+      "артефакты",
+      "расшифровка",
+      "археология"
+    ]
   },
   {
     "id": 82,
     "question_ru": "В каком году был найден Розеттский камень?",
     "question_de": "In welchem Jahr wurde der Stein von Rosetta gefunden?",
-    "answer_ru": "1799 год",
-    "answer_de": "1799",
-    "wrong_answers_ru": ["1789 год", "1809 год", "1822 год"],
-    "wrong_answers_de": ["1789", "1809", "1822"],
+    "correct_answer_ru": "1799 год",
+    "correct_answer_de": "1799",
+    "wrong_answers_ru": [
+      "1789 год",
+      "1809 год",
+      "1822 год"
+    ],
+    "wrong_answers_de": [
+      "1789",
+      "1809",
+      "1822"
+    ],
     "explanation_ru": "Камень найден 15 июля 1799 года. Нашёл офицер Пьер-Франсуа Бушар. Это было у города Розетта в Египте. Солдаты укрепляли форт Сен-Жюльен.",
     "explanation_de": "Der Stein wurde am 15. Juli 1799 gefunden. Entdeckt von Offizier Pierre-François Bouchard. Dies war bei der Stadt Rosetta in Ägypten. Soldaten befestigten Fort St. Julien.",
     "interesting_facts": [
@@ -357,16 +497,28 @@
     "category": "Древний Египет",
     "type": "date",
     "period": "1799",
-    "tags": ["археология", "открытия", "даты"]
+    "tags": [
+      "археология",
+      "открытия",
+      "даты"
+    ]
   },
   {
     "id": 83,
     "question_ru": "Сколько языков на Розеттском камне?",
     "question_de": "Wie viele Sprachen sind auf dem Stein von Rosetta?",
-    "answer_ru": "Три",
-    "answer_de": "Drei",
-    "wrong_answers_ru": ["Два", "Четыре", "Пять"],
-    "wrong_answers_de": ["Zwei", "Vier", "Fünf"],
+    "correct_answer_ru": "Три",
+    "correct_answer_de": "Drei",
+    "wrong_answers_ru": [
+      "Два",
+      "Четыре",
+      "Пять"
+    ],
+    "wrong_answers_de": [
+      "Zwei",
+      "Vier",
+      "Fünf"
+    ],
     "explanation_ru": "На камне три версии одного текста. Верхняя часть - древнеегипетские иероглифы. Средняя - демотическое письмо. Нижняя - древнегреческий язык.",
     "explanation_de": "Der Stein hat drei Versionen eines Textes. Oberer Teil - altägyptische Hieroglyphen. Mittlerer Teil - demotische Schrift. Unterer Teil - Altgriechisch.",
     "interesting_facts": [
@@ -387,16 +539,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "196 BCE",
-    "tags": ["языки", "письменность", "артефакты"]
+    "tags": [
+      "языки",
+      "письменность",
+      "артефакты"
+    ]
   },
   {
     "id": 84,
     "question_ru": "Какие языки на Розеттском камне?",
     "question_de": "Welche Sprachen sind auf dem Stein von Rosetta?",
-    "answer_ru": "Древнегреческий, демотический, иероглифы",
-    "answer_de": "Altgriechisch, Demotisch, Hieroglyphen",
-    "wrong_answers_ru": ["Латынь, коптский, иероглифы", "Арамейский, греческий, иератика", "Греческий, латынь, демотика"],
-    "wrong_answers_de": ["Latein, Koptisch, Hieroglyphen", "Aramäisch, Griechisch, Hieratisch", "Griechisch, Latein, Demotisch"],
+    "correct_answer_ru": "Древнегреческий, демотический, иероглифы",
+    "correct_answer_de": "Altgriechisch, Demotisch, Hieroglyphen",
+    "wrong_answers_ru": [
+      "Латынь, коптский, иероглифы",
+      "Арамейский, греческий, иератика",
+      "Греческий, латынь, демотика"
+    ],
+    "wrong_answers_de": [
+      "Latein, Koptisch, Hieroglyphen",
+      "Aramäisch, Griechisch, Hieratisch",
+      "Griechisch, Latein, Demotisch"
+    ],
     "explanation_ru": "Три письменности представляют египетское общество. Иероглифы для храмов и памятников. Демотика для повседневной жизни. Греческий для администрации Птолемеев.",
     "explanation_de": "Drei Schriften repräsentieren die ägyptische Gesellschaft. Hieroglyphen für Tempel und Monumente. Demotisch für das tägliche Leben. Griechisch für die ptolemäische Verwaltung.",
     "interesting_facts": [
@@ -417,16 +581,28 @@
     "category": "Древний Египет",
     "type": "factual",
     "period": "196 BCE",
-    "tags": ["языки", "письменность", "история"]
+    "tags": [
+      "языки",
+      "письменность",
+      "история"
+    ]
   },
   {
     "id": 85,
     "question_ru": "Как называлась египетская богиня истины?",
     "question_de": "Wie hieß die ägyptische Göttin der Wahrheit?",
-    "answer_ru": "Маат",
-    "answer_de": "Maat",
-    "wrong_answers_ru": ["Исида", "Нут", "Хатхор"],
-    "wrong_answers_de": ["Isis", "Nut", "Hathor"],
+    "correct_answer_ru": "Маат",
+    "correct_answer_de": "Maat",
+    "wrong_answers_ru": [
+      "Исида",
+      "Нут",
+      "Хатхор"
+    ],
+    "wrong_answers_de": [
+      "Isis",
+      "Nut",
+      "Hathor"
+    ],
     "explanation_ru": "Маат была богиней истины, справедливости и космического порядка. Изображалась с пером страуса на голове. Это перо использовалось при взвешивании сердец. Маат олицетворяла баланс вселенной.",
     "explanation_de": "Maat war die Göttin der Wahrheit, Gerechtigkeit und kosmischen Ordnung. Wurde mit einer Straußenfeder auf dem Kopf dargestellt. Diese Feder wurde beim Herzwiegen verwendet. Maat verkörperte das Gleichgewicht des Universums.",
     "interesting_facts": [
@@ -447,6 +623,10 @@
     "category": "Древний Египет",
     "type": "mythology",
     "period": "3100 BCE - 30 BCE",
-    "tags": ["религия", "богини", "философия"]
+    "tags": [
+      "религия",
+      "богини",
+      "философия"
+    ]
   }
 ]

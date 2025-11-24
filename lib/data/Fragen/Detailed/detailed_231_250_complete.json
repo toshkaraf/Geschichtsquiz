@@ -1,28 +1,22 @@
 [
   {
     "id": 231,
-    "question": "Кто был богом-вестником?",
+    "question_ru": "Кто был богом-вестником?",
     "question_de": "Wer war der Götterbote?",
-    "answer": "Гермес",
-    "answer_de": "Hermes",
-    "wrong_answers": [
-      {
-        "ru": "Аполлон",
-        "de": "Apollon"
-      },
-      {
-        "ru": "Арес",
-        "de": "Ares"
-      },
-      {
-        "ru": "Дионис",
-        "de": "Dionysos"
-      }
+    "correct_answer_ru": "Гермес",
+    "correct_answer_de": "Hermes",
+    "wrong_answers_ru": [
+      "Аполлон",
+      "Арес",
+      "Дионис"
     ],
-    "explanation": {
-      "ru": "Гермес был богом-вестником, покровителем торговли, путешественников и воров в древнегреческой мифологии. Он изображался с крылатыми сандалиями и кадуцеем - жезлом с двумя змеями. Гермес считался посредником между богами и людьми, проводником душ в подземный мир.",
-      "de": "Hermes war der Götterbote, Schutzpatron des Handels, der Reisenden und der Diebe in der antiken griechischen Mythologie. Er wurde mit geflügelten Sandalen und einem Kerykeion - einem Stab mit zwei Schlangen - dargestellt. Hermes galt als Vermittler zwischen Göttern und Menschen, als Führer der Seelen in die Unterwelt."
-    },
+    "wrong_answers_de": [
+      "Apollon",
+      "Ares",
+      "Dionysos"
+    ],
+    "explanation_ru": "Гермес был богом-вестником, покровителем торговли, путешественников и воров в древнегреческой мифологии. Он изображался с крылатыми сандалиями и кадуцеем - жезлом с двумя змеями. Гермес считался посредником между богами и людьми, проводником душ в подземный мир.",
+    "explanation_de": "Hermes war der Götterbote, Schutzpatron des Handels, der Reisenden und der Diebe in der antiken griechischen Mythologie. Er wurde mit geflügelten Sandalen und einem Kerykeion - einem Stab mit zwei Schlangen - dargestellt. Hermes galt als Vermittler zwischen Göttern und Menschen, als Führer der Seelen in die Unterwelt.",
     "interesting_facts": [
       {
         "ru": "Гермес родился в пещере на горе Киллена в Аркадии. В первый же день жизни он украл стадо коров у своего брата Аполлона, изобрел лиру и обменял её на прощение. Эта история показывает его хитрость и изобретательность.",
@@ -48,28 +42,22 @@
   },
   {
     "id": 232,
-    "question": "В каком году закончилась Пелопоннесская война?",
+    "question_ru": "В каком году закончилась Пелопоннесская война?",
     "question_de": "In welchem Jahr endete der Peloponnesische Krieg?",
-    "answer": "404 год до н.э.",
-    "answer_de": "404 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "431 год до н.э.",
-        "de": "431 v. Chr."
-      },
-      {
-        "ru": "421 год до н.э.",
-        "de": "421 v. Chr."
-      },
-      {
-        "ru": "415 год до н.э.",
-        "de": "415 v. Chr."
-      }
+    "correct_answer_ru": "404 год до н.э.",
+    "correct_answer_de": "404 v. Chr.",
+    "wrong_answers_ru": [
+      "431 год до н.э.",
+      "421 год до н.э.",
+      "415 год до н.э."
     ],
-    "explanation": {
-      "ru": "Пелопоннесская война между Афинами и Спартой закончилась в 404 году до н.э. полной победой Спарты. Война длилась 27 лет (431-404 гг. до н.э.) и привела к разрушению Афинской империи. Афины были вынуждены срыть свои укрепления, распустить флот и вступить в союз со Спартой.",
-      "de": "Der Peloponnesische Krieg zwischen Athen und Sparta endete 404 v. Chr. mit einem vollständigen Sieg Spartas. Der Krieg dauerte 27 Jahre (431-404 v. Chr.) und führte zur Zerstörung des athenischen Reiches. Athen wurde gezwungen, seine Befestigungen niederzureißen, die Flotte aufzulösen und ein Bündnis mit Sparta einzugehen."
-    },
+    "wrong_answers_de": [
+      "431 v. Chr.",
+      "421 v. Chr.",
+      "415 v. Chr."
+    ],
+    "explanation_ru": "Пелопоннесская война между Афинами и Спартой закончилась в 404 году до н.э. полной победой Спарты. Война длилась 27 лет (431-404 гг. до н.э.) и привела к разрушению Афинской империи. Афины были вынуждены срыть свои укрепления, распустить флот и вступить в союз со Спартой.",
+    "explanation_de": "Der Peloponnesische Krieg zwischen Athen und Sparta endete 404 v. Chr. mit einem vollständigen Sieg Spartas. Der Krieg dauerte 27 Jahre (431-404 v. Chr.) und führte zur Zerstörung des athenischen Reiches. Athen wurde gezwungen, seine Befestigungen niederzureißen, die Flotte aufzulösen und ein Bündnis mit Sparta einzugehen.",
     "interesting_facts": [
       {
         "ru": "Война началась из-за конфликта между Коринфом и Керкирой, но настоящей причиной было соперничество Афин и Спарты за гегемонию в Греции. Фукидид, участник войны, написал её историю, ставшую классикой военной литературы.",
@@ -95,28 +83,22 @@
   },
   {
     "id": 233,
-    "question": "Какой драматург написал 'Царя Эдипа'?",
+    "question_ru": "Какой драматург написал 'Царя Эдипа'?",
     "question_de": "Welcher Dramatiker schrieb 'König Ödipus'?",
-    "answer": "Софокл",
-    "answer_de": "Sophokles",
-    "wrong_answers": [
-      {
-        "ru": "Эсхил",
-        "de": "Aischylos"
-      },
-      {
-        "ru": "Еврипид",
-        "de": "Euripides"
-      },
-      {
-        "ru": "Аристофан",
-        "de": "Aristophanes"
-      }
+    "correct_answer_ru": "Софокл",
+    "correct_answer_de": "Sophokles",
+    "wrong_answers_ru": [
+      "Эсхил",
+      "Еврипид",
+      "Аристофан"
     ],
-    "explanation": {
-      "ru": "Софокл (ок. 496-406 гг. до н.э.) написал трагедию 'Царь Эдип' (Эдип-тиран), которая считается одним из величайших произведений античной драматургии. Пьеса рассказывает о царе Эдипе, который невольно убил отца и женился на матери. Софокл написал более 120 пьес, но до нас дошло только 7.",
-      "de": "Sophokles (ca. 496-406 v. Chr.) schrieb die Tragödie 'König Ödipus' (Ödipus Tyrann), die als eines der größten Werke der antiken Dramatik gilt. Das Stück erzählt von König Ödipus, der unwissentlich seinen Vater tötete und seine Mutter heiratete. Sophokles schrieb über 120 Stücke, aber nur 7 sind erhalten geblieben."
-    },
+    "wrong_answers_de": [
+      "Aischylos",
+      "Euripides",
+      "Aristophanes"
+    ],
+    "explanation_ru": "Софокл (ок. 496-406 гг. до н.э.) написал трагедию 'Царь Эдип' (Эдип-тиран), которая считается одним из величайших произведений античной драматургии. Пьеса рассказывает о царе Эдипе, который невольно убил отца и женился на матери. Софокл написал более 120 пьес, но до нас дошло только 7.",
+    "explanation_de": "Sophokles (ca. 496-406 v. Chr.) schrieb die Tragödie 'König Ödipus' (Ödipus Tyrann), die als eines der größten Werke der antiken Dramatik gilt. Das Stück erzählt von König Ödipus, der unwissentlich seinen Vater tötete und seine Mutter heiratete. Sophokles schrieb über 120 Stücke, aber nur 7 sind erhalten geblieben.",
     "interesting_facts": [
       {
         "ru": "Софокл ввёл третьего актёра в театральные постановки, что позволило создавать более сложные диалоги и сюжеты. До него использовались только два актёра и хор. Он также увеличил состав хора с 12 до 15 человек.",
@@ -142,28 +124,22 @@
   },
   {
     "id": 234,
-    "question": "Кто был богом-кузнецом?",
+    "question_ru": "Кто был богом-кузнецом?",
     "question_de": "Wer war der Gott der Schmiede?",
-    "answer": "Гефест",
-    "answer_de": "Hephaistos",
-    "wrong_answers": [
-      {
-        "ru": "Арес",
-        "de": "Ares"
-      },
-      {
-        "ru": "Гермес",
-        "de": "Hermes"
-      },
-      {
-        "ru": "Посейдон",
-        "de": "Poseidon"
-      }
+    "correct_answer_ru": "Гефест",
+    "correct_answer_de": "Hephaistos",
+    "wrong_answers_ru": [
+      "Арес",
+      "Гермес",
+      "Посейдон"
     ],
-    "explanation": {
-      "ru": "Гефест был богом огня, кузнечного дела и ремёсел в древнегреческой мифологии. Он изображался хромым, так как был сброшен с Олимпа своей матерью Герой за уродство. Гефест создавал оружие и доспехи для богов, включая щит Ахилла и скипетр Зевса.",
-      "de": "Hephaistos war der Gott des Feuers, der Schmiedekunst und des Handwerks in der antiken griechischen Mythologie. Er wurde als lahm dargestellt, da er von seiner Mutter Hera vom Olymp geworfen wurde, weil er hässlich war. Hephaistos schuf Waffen und Rüstungen für die Götter, einschließlich des Schildes des Achilles und des Zepters des Zeus."
-    },
+    "wrong_answers_de": [
+      "Ares",
+      "Hermes",
+      "Poseidon"
+    ],
+    "explanation_ru": "Гефест был богом огня, кузнечного дела и ремёсел в древнегреческой мифологии. Он изображался хромым, так как был сброшен с Олимпа своей матерью Герой за уродство. Гефест создавал оружие и доспехи для богов, включая щит Ахилла и скипетр Зевса.",
+    "explanation_de": "Hephaistos war der Gott des Feuers, der Schmiedekunst und des Handwerks in der antiken griechischen Mythologie. Er wurde als lahm dargestellt, da er von seiner Mutter Hera vom Olymp geworfen wurde, weil er hässlich war. Hephaistos schuf Waffen und Rüstungen für die Götter, einschließlich des Schildes des Achilles und des Zepters des Zeus.",
     "interesting_facts": [
       {
         "ru": "Гефест был единственным богом, который занимался физическим трудом. Его кузница находилась под вулканами, поэтому древние греки считали извержения вулканов работой Гефеста. На острове Лемнос находился главный центр его культа.",
@@ -189,28 +165,22 @@
   },
   {
     "id": 235,
-    "question": "В каком году произошла битва при Платеях?",
+    "question_ru": "В каком году произошла битва при Платеях?",
     "question_de": "In welchem Jahr fand die Schlacht bei Platää statt?",
-    "answer": "479 год до н.э.",
-    "answer_de": "479 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "480 год до н.э.",
-        "de": "480 v. Chr."
-      },
-      {
-        "ru": "478 год до н.э.",
-        "de": "478 v. Chr."
-      },
-      {
-        "ru": "490 год до н.э.",
-        "de": "490 v. Chr."
-      }
+    "correct_answer_ru": "479 год до н.э.",
+    "correct_answer_de": "479 v. Chr.",
+    "wrong_answers_ru": [
+      "480 год до н.э.",
+      "478 год до н.э.",
+      "490 год до н.э."
     ],
-    "explanation": {
-      "ru": "Битва при Платеях произошла в 479 году до н.э. и стала решающим сражением греко-персидских войн. Объединённая греческая армия под командованием спартанца Павсания разгромила персидские войска Мардония. Эта победа окончательно изгнала персов из материковой Греции.",
-      "de": "Die Schlacht bei Platää fand 479 v. Chr. statt und war die entscheidende Schlacht der griechisch-persischen Kriege. Die vereinte griechische Armee unter dem Kommando des Spartaners Pausanias besiegte die persischen Truppen des Mardonios. Dieser Sieg vertrieb die Perser endgültig vom griechischen Festland."
-    },
+    "wrong_answers_de": [
+      "480 v. Chr.",
+      "478 v. Chr.",
+      "490 v. Chr."
+    ],
+    "explanation_ru": "Битва при Платеях произошла в 479 году до н.э. и стала решающим сражением греко-персидских войн. Объединённая греческая армия под командованием спартанца Павсания разгромила персидские войска Мардония. Эта победа окончательно изгнала персов из материковой Греции.",
+    "explanation_de": "Die Schlacht bei Platää fand 479 v. Chr. statt und war die entscheidende Schlacht der griechisch-persischen Kriege. Die vereinte griechische Armee unter dem Kommando des Spartaners Pausanias besiegte die persischen Truppen des Mardonios. Dieser Sieg vertrieb die Perser endgültig vom griechischen Festland.",
     "interesting_facts": [
       {
         "ru": "Битва произошла через год после битвы при Фермопилах и одновременно с морской битвой при Микале. Греки использовали тактику, противоположную персидской: они держали строй и не поддавались на провокации. Спартанцы составляли основу правого фланга, афиняне - левого.",
@@ -236,28 +206,22 @@
   },
   {
     "id": 236,
-    "question": "Какой историк написал 'Историю'?",
+    "question_ru": "Какой историк написал 'Историю'?",
     "question_de": "Welcher Historiker schrieb die 'Geschichte'?",
-    "answer": "Геродот",
-    "answer_de": "Herodot",
-    "wrong_answers": [
-      {
-        "ru": "Фукидид",
-        "de": "Thukydides"
-      },
-      {
-        "ru": "Ксенофонт",
-        "de": "Xenophon"
-      },
-      {
-        "ru": "Полибий",
-        "de": "Polybios"
-      }
+    "correct_answer_ru": "Геродот",
+    "correct_answer_de": "Herodot",
+    "wrong_answers_ru": [
+      "Фукидид",
+      "Ксенофонт",
+      "Полибий"
     ],
-    "explanation": {
-      "ru": "Геродот (ок. 484-425 гг. до н.э.) написал 'Историю' (Иστορίαι) - первое крупное историческое произведение в западной литературе. Книга описывает греко-персидские войны и содержит множество сведений о странах и народах древнего мира. Цицерон назвал Геродота 'отцом истории'.",
-      "de": "Herodot (ca. 484-425 v. Chr.) schrieb die 'Geschichte' (Ιστορίαι) - das erste große historische Werk in der westlichen Literatur. Das Buch beschreibt die griechisch-persischen Kriege und enthält viele Informationen über Länder und Völker der antiken Welt. Cicero nannte Herodot den 'Vater der Geschichte'."
-    },
+    "wrong_answers_de": [
+      "Thukydides",
+      "Xenophon",
+      "Polybios"
+    ],
+    "explanation_ru": "Геродот (ок. 484-425 гг. до н.э.) написал 'Историю' (Иστορίαι) - первое крупное историческое произведение в западной литературе. Книга описывает греко-персидские войны и содержит множество сведений о странах и народах древнего мира. Цицерон назвал Геродота 'отцом истории'.",
+    "explanation_de": "Herodot (ca. 484-425 v. Chr.) schrieb die 'Geschichte' (Ιστορίαι) - das erste große historische Werk in der westlichen Literatur. Das Buch beschreibt die griechisch-persischen Kriege und enthält viele Informationen über Länder und Völker der antiken Welt. Cicero nannte Herodot den 'Vater der Geschichte'.",
     "interesting_facts": [
       {
         "ru": "Геродот много путешествовал по известному тогда миру: посетил Египет, Вавилон, Скифию, Италию и другие регионы. Он записывал не только исторические события, но и обычаи, легенды и географические описания. Его работа сочетает историю, этнографию и географию.",
@@ -283,28 +247,22 @@
   },
   {
     "id": 237,
-    "question": "Кто была богиня охоты?",
+    "question_ru": "Кто была богиня охоты?",
     "question_de": "Wer war die Göttin der Jagd?",
-    "answer": "Артемида",
-    "answer_de": "Artemis",
-    "wrong_answers": [
-      {
-        "ru": "Афина",
-        "de": "Athena"
-      },
-      {
-        "ru": "Гера",
-        "de": "Hera"
-      },
-      {
-        "ru": "Деметра",
-        "de": "Demeter"
-      }
+    "correct_answer_ru": "Артемида",
+    "correct_answer_de": "Artemis",
+    "wrong_answers_ru": [
+      "Афина",
+      "Гера",
+      "Деметра"
     ],
-    "explanation": {
-      "ru": "Артемида была богиней охоты, дикой природы и луны в древнегреческой мифологии. Она была дочерью Зевса и Лето, сестрой-близнецом Аполлона. Артемида изображалась с луком и стрелами, в сопровождении нимф и диких животных. Она была покровительницей девушек и защитницей дикой природы.",
-      "de": "Artemis war die Göttin der Jagd, der Wildnis und des Mondes in der antiken griechischen Mythologie. Sie war die Tochter des Zeus und der Leto, die Zwillingsschwester des Apollon. Artemis wurde mit Bogen und Pfeilen dargestellt, begleitet von Nymphen und wilden Tieren. Sie war die Schutzpatronin der Mädchen und Beschützerin der Wildnis."
-    },
+    "wrong_answers_de": [
+      "Athena",
+      "Hera",
+      "Demeter"
+    ],
+    "explanation_ru": "Артемида была богиней охоты, дикой природы и луны в древнегреческой мифологии. Она была дочерью Зевса и Лето, сестрой-близнецом Аполлона. Артемида изображалась с луком и стрелами, в сопровождении нимф и диких животных. Она была покровительницей девушек и защитницей дикой природы.",
+    "explanation_de": "Artemis war die Göttin der Jagd, der Wildnis und des Mondes in der antiken griechischen Mythologie. Sie war die Tochter des Zeus und der Leto, die Zwillingsschwester des Apollon. Artemis wurde mit Bogen und Pfeilen dargestellt, begleitet von Nymphen und wilden Tieren. Sie war die Schutzpatronin der Mädchen und Beschützerin der Wildnis.",
     "interesting_facts": [
       {
         "ru": "Артемида родилась на острове Делос раньше своего брата Аполлона и помогла матери родить его. Она была одной из трёх богинь-девственниц (наряду с Афиной и Гестией), давших обет безбрачия. За нарушение этого обета она жестоко наказывала.",
@@ -330,28 +288,22 @@
   },
   {
     "id": 238,
-    "question": "Какой учёный создал закон рычага?",
+    "question_ru": "Какой учёный создал закон рычага?",
     "question_de": "Welcher Wissenschaftler schuf das Hebelgesetz?",
-    "answer": "Архимед",
-    "answer_de": "Archimedes",
-    "wrong_answers": [
-      {
-        "ru": "Евклид",
-        "de": "Euklid"
-      },
-      {
-        "ru": "Пифагор",
-        "de": "Pythagoras"
-      },
-      {
-        "ru": "Аристотель",
-        "de": "Aristoteles"
-      }
+    "correct_answer_ru": "Архимед",
+    "correct_answer_de": "Archimedes",
+    "wrong_answers_ru": [
+      "Евклид",
+      "Пифагор",
+      "Аристотель"
     ],
-    "explanation": {
-      "ru": "Архимед (ок. 287-212 гг. до н.э.) сформулировал закон рычага, который гласит, что два груза находятся в равновесии, когда их веса обратно пропорциональны расстояниям от точки опоры. Он также открыл принцип плавучести, известный как закон Архимеда. Архимед был математиком, физиком и инженером из Сиракуз.",
-      "de": "Archimedes (ca. 287-212 v. Chr.) formulierte das Hebelgesetz, das besagt, dass zwei Gewichte im Gleichgewicht sind, wenn ihre Gewichte umgekehrt proportional zu den Abständen vom Drehpunkt sind. Er entdeckte auch das Prinzip des Auftriebs, bekannt als Archimedisches Prinzip. Archimedes war Mathematiker, Physiker und Ingenieur aus Syrakus."
-    },
+    "wrong_answers_de": [
+      "Euklid",
+      "Pythagoras",
+      "Aristoteles"
+    ],
+    "explanation_ru": "Архимед (ок. 287-212 гг. до н.э.) сформулировал закон рычага, который гласит, что два груза находятся в равновесии, когда их веса обратно пропорциональны расстояниям от точки опоры. Он также открыл принцип плавучести, известный как закон Архимеда. Архимед был математиком, физиком и инженером из Сиракуз.",
+    "explanation_de": "Archimedes (ca. 287-212 v. Chr.) formulierte das Hebelgesetz, das besagt, dass zwei Gewichte im Gleichgewicht sind, wenn ihre Gewichte umgekehrt proportional zu den Abständen vom Drehpunkt sind. Er entdeckte auch das Prinzip des Auftriebs, bekannt als Archimedisches Prinzip. Archimedes war Mathematiker, Physiker und Ingenieur aus Syrakus.",
     "interesting_facts": [
       {
         "ru": "Архимед сказал знаменитую фразу: 'Дайте мне точку опоры, и я переверну Землю', демонстрируя понимание принципа рычага. Он создал множество изобретений: винт для подъёма воды, катапульты и 'когти', которые поднимали вражеские корабли из воды.",
@@ -377,28 +329,22 @@
   },
   {
     "id": 239,
-    "question": "Кто была богиня правосудия?",
+    "question_ru": "Кто была богиня правосудия?",
     "question_de": "Wer war die Göttin der Gerechtigkeit?",
-    "answer": "Фемида",
-    "answer_de": "Themis",
-    "wrong_answers": [
-      {
-        "ru": "Немезида",
-        "de": "Nemesis"
-      },
-      {
-        "ru": "Дике",
-        "de": "Dike"
-      },
-      {
-        "ru": "Афина",
-        "de": "Athena"
-      }
+    "correct_answer_ru": "Фемида",
+    "correct_answer_de": "Themis",
+    "wrong_answers_ru": [
+      "Немезида",
+      "Дике",
+      "Афина"
     ],
-    "explanation": {
-      "ru": "Фемида была богиней правосудия, закона и порядка в древнегреческой мифологии. Она была титанидой, дочерью Урана и Геи, и второй женой Зевса. Фемида изображалась с весами в одной руке и мечом в другой, с завязанными глазами, символизирующими беспристрастность. Она предсказывала будущее и устанавливала законы.",
-      "de": "Themis war die Göttin der Gerechtigkeit, des Gesetzes und der Ordnung in der antiken griechischen Mythologie. Sie war eine Titanin, Tochter des Uranos und der Gaia, und die zweite Frau des Zeus. Themis wurde mit einer Waage in einer Hand und einem Schwert in der anderen dargestellt, mit verbundenen Augen, die Unparteilichkeit symbolisieren. Sie prophezeite die Zukunft und etablierte Gesetze."
-    },
+    "wrong_answers_de": [
+      "Nemesis",
+      "Dike",
+      "Athena"
+    ],
+    "explanation_ru": "Фемида была богиней правосудия, закона и порядка в древнегреческой мифологии. Она была титанидой, дочерью Урана и Геи, и второй женой Зевса. Фемида изображалась с весами в одной руке и мечом в другой, с завязанными глазами, символизирующими беспристрастность. Она предсказывала будущее и устанавливала законы.",
+    "explanation_de": "Themis war die Göttin der Gerechtigkeit, des Gesetzes und der Ordnung in der antiken griechischen Mythologie. Sie war eine Titanin, Tochter des Uranos und der Gaia, und die zweite Frau des Zeus. Themis wurde mit einer Waage in einer Hand und einem Schwert in der anderen dargestellt, mit verbundenen Augen, die Unparteilichkeit symbolisieren. Sie prophezeite die Zukunft und etablierte Gesetze.",
     "interesting_facts": [
       {
         "ru": "Фемида была матерью мойр (богинь судьбы) и гор (богинь времён года и порядка). Она председательствовала на собраниях богов и людей, устанавливая справедливость. Её имя означает 'установленный закон' или 'обычай', что подчёркивает её роль в поддержании порядка.",
@@ -424,28 +370,22 @@
   },
   {
     "id": 240,
-    "question": "В каком году Александр вторгся в Индию?",
+    "question_ru": "В каком году Александр вторгся в Индию?",
     "question_de": "In welchem Jahr fiel Alexander in Indien ein?",
-    "answer": "326 год до н.э.",
-    "answer_de": "326 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "327 год до н.э.",
-        "de": "327 v. Chr."
-      },
-      {
-        "ru": "325 год до н.э.",
-        "de": "325 v. Chr."
-      },
-      {
-        "ru": "331 год до н.э.",
-        "de": "331 v. Chr."
-      }
+    "correct_answer_ru": "326 год до н.э.",
+    "correct_answer_de": "326 v. Chr.",
+    "wrong_answers_ru": [
+      "327 год до н.э.",
+      "325 год до н.э.",
+      "331 год до н.э."
     ],
-    "explanation": {
-      "ru": "Александр Македонский вторгся в Индию в 326 году до н.э., перейдя реку Инд. Это был последний этап его завоевательных походов на восток. В Индии он столкнулся с армией царя Пора в битве при Гидаспе, которую выиграл, но затем его войска отказались идти дальше и потребовали возвращения домой.",
-      "de": "Alexander der Große fiel 326 v. Chr. in Indien ein, indem er den Fluss Indus überquerte. Dies war die letzte Phase seiner Eroberungszüge nach Osten. In Indien traf er auf die Armee von König Poros in der Schlacht am Hydaspes, die er gewann, aber dann weigerten sich seine Truppen weiterzugehen und forderten die Rückkehr nach Hause."
-    },
+    "wrong_answers_de": [
+      "327 v. Chr.",
+      "325 v. Chr.",
+      "331 v. Chr."
+    ],
+    "explanation_ru": "Александр Македонский вторгся в Индию в 326 году до н.э., перейдя реку Инд. Это был последний этап его завоевательных походов на восток. В Индии он столкнулся с армией царя Пора в битве при Гидаспе, которую выиграл, но затем его войска отказались идти дальше и потребовали возвращения домой.",
+    "explanation_de": "Alexander der Große fiel 326 v. Chr. in Indien ein, indem er den Fluss Indus überquerte. Dies war die letzte Phase seiner Eroberungszüge nach Osten. In Indien traf er auf die Armee von König Poros in der Schlacht am Hydaspes, die er gewann, aber dann weigerten sich seine Truppen weiterzugehen und forderten die Rückkehr nach Hause.",
     "interesting_facts": [
       {
         "ru": "Битва при Гидаспе стала одной из самых сложных для Александра из-за слонов в армии Пора. Македоняне впервые столкнулись с боевыми слонами, но сумели их обратить против индийцев. Александр был впечатлён мужеством Пора и оставил его правителем своих земель.",
@@ -471,28 +411,22 @@
   },
   {
     "id": 241,
-    "question": "Какой врач считается отцом медицины?",
+    "question_ru": "Какой врач считается отцом медицины?",
     "question_de": "Welcher Arzt gilt als Vater der Medizin?",
-    "answer": "Гиппократ",
-    "answer_de": "Hippokrates",
-    "wrong_answers": [
-      {
-        "ru": "Гален",
-        "de": "Galenos"
-      },
-      {
-        "ru": "Асклепий",
-        "de": "Asklepios"
-      },
-      {
-        "ru": "Аристотель",
-        "de": "Aristoteles"
-      }
+    "correct_answer_ru": "Гиппократ",
+    "correct_answer_de": "Hippokrates",
+    "wrong_answers_ru": [
+      "Гален",
+      "Асклепий",
+      "Аристотель"
     ],
-    "explanation": {
-      "ru": "Гиппократ (ок. 460-370 гг. до н.э.) считается отцом медицины за то, что отделил её от религии и философии. Он основал научный подход к лечению, основанный на наблюдении и опыте. Гиппократ создал клятву врача, которую до сих пор дают медики во всём мире.",
-      "de": "Hippokrates (ca. 460-370 v. Chr.) gilt als Vater der Medizin, weil er sie von Religion und Philosophie trennte. Er begründete einen wissenschaftlichen Ansatz zur Behandlung, der auf Beobachtung und Erfahrung basiert. Hippokrates schuf den Ärzteeid, den Mediziner bis heute auf der ganzen Welt ablegen."
-    },
+    "wrong_answers_de": [
+      "Galenos",
+      "Asklepios",
+      "Aristoteles"
+    ],
+    "explanation_ru": "Гиппократ (ок. 460-370 гг. до н.э.) считается отцом медицины за то, что отделил её от религии и философии. Он основал научный подход к лечению, основанный на наблюдении и опыте. Гиппократ создал клятву врача, которую до сих пор дают медики во всём мире.",
+    "explanation_de": "Hippokrates (ca. 460-370 v. Chr.) gilt als Vater der Medizin, weil er sie von Religion und Philosophie trennte. Er begründete einen wissenschaftlichen Ansatz zur Behandlung, der auf Beobachtung und Erfahrung basiert. Hippokrates schuf den Ärzteeid, den Mediziner bis heute auf der ganzen Welt ablegen.",
     "interesting_facts": [
       {
         "ru": "Гиппократ считал, что болезни имеют естественные причины, а не являются наказанием богов. Он разработал теорию четырёх жидкостей (кровь, флегма, жёлтая и чёрная желчь), которая доминировала в медицине до XIX века. Баланс этих жидкостей определял здоровье человека.",
@@ -518,28 +452,22 @@
   },
   {
     "id": 242,
-    "question": "Кто была богиня победы?",
+    "question_ru": "Кто была богиня победы?",
     "question_de": "Wer war die Göttin des Sieges?",
-    "answer": "Ника",
-    "answer_de": "Nike",
-    "wrong_answers": [
-      {
-        "ru": "Афина",
-        "de": "Athena"
-      },
-      {
-        "ru": "Артемида",
-        "de": "Artemis"
-      },
-      {
-        "ru": "Гера",
-        "de": "Hera"
-      }
+    "correct_answer_ru": "Ника",
+    "correct_answer_de": "Nike",
+    "wrong_answers_ru": [
+      "Афина",
+      "Артемида",
+      "Гера"
     ],
-    "explanation": {
-      "ru": "Ника была богиней победы в древнегреческой мифологии, дочерью титана Палланта и Стикс. Она изображалась крылатой женщиной с венком или пальмовой ветвью. Ника сопровождала Зевса в битвах и награждала победителей. Её имя стало символом успеха и триумфа.",
-      "de": "Nike war die Göttin des Sieges in der antiken griechischen Mythologie, Tochter des Titanen Pallas und der Styx. Sie wurde als geflügelte Frau mit einem Kranz oder einem Palmzweig dargestellt. Nike begleitete Zeus in Schlachten und belohnte die Sieger. Ihr Name wurde zum Symbol für Erfolg und Triumph."
-    },
+    "wrong_answers_de": [
+      "Athena",
+      "Artemis",
+      "Hera"
+    ],
+    "explanation_ru": "Ника была богиней победы в древнегреческой мифологии, дочерью титана Палланта и Стикс. Она изображалась крылатой женщиной с венком или пальмовой ветвью. Ника сопровождала Зевса в битвах и награждала победителей. Её имя стало символом успеха и триумфа.",
+    "explanation_de": "Nike war die Göttin des Sieges in der antiken griechischen Mythologie, Tochter des Titanen Pallas und der Styx. Sie wurde als geflügelte Frau mit einem Kranz oder einem Palmzweig dargestellt. Nike begleitete Zeus in Schlachten und belohnte die Sieger. Ihr Name wurde zum Symbol für Erfolg und Triumph.",
     "interesting_facts": [
       {
         "ru": "Ника была одной из спутниц Зевса и всегда находилась рядом с ним. Она изображалась на монетах и памятниках, посвящённых военным победам. Самая известная статуя Ники - Ника Самофракийская, найденная на острове Самофракия и хранящаяся в Лувре.",
@@ -565,28 +493,22 @@
   },
   {
     "id": 243,
-    "question": "В каком году произошла битва при Гавгамелах?",
+    "question_ru": "В каком году произошла битва при Гавгамелах?",
     "question_de": "In welchem Jahr fand die Schlacht bei Gaugamela statt?",
-    "answer": "331 год до н.э.",
-    "answer_de": "331 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "333 год до н.э.",
-        "de": "333 v. Chr."
-      },
-      {
-        "ru": "330 год до н.э.",
-        "de": "330 v. Chr."
-      },
-      {
-        "ru": "332 год до н.э.",
-        "de": "332 v. Chr."
-      }
+    "correct_answer_ru": "331 год до н.э.",
+    "correct_answer_de": "331 v. Chr.",
+    "wrong_answers_ru": [
+      "333 год до н.э.",
+      "330 год до н.э.",
+      "332 год до н.э."
     ],
-    "explanation": {
-      "ru": "Битва при Гавгамелах произошла в 331 году до н.э. и стала решающим сражением между Александром Македонским и персидским царём Дарием III. Несмотря на численное превосходство персов, Александр одержал полную победу благодаря тактическому мастерству. После битвы Дарий бежал, а его империя фактически перестала существовать.",
-      "de": "Die Schlacht bei Gaugamela fand 331 v. Chr. statt und war die entscheidende Schlacht zwischen Alexander dem Großen und dem persischen König Dareios III. Trotz der zahlenmäßigen Überlegenheit der Perser errang Alexander einen vollständigen Sieg dank taktischer Meisterschaft. Nach der Schlacht floh Dareios, und sein Reich hörte praktisch auf zu existieren."
-    },
+    "wrong_answers_de": [
+      "333 v. Chr.",
+      "330 v. Chr.",
+      "332 v. Chr."
+    ],
+    "explanation_ru": "Битва при Гавгамелах произошла в 331 году до н.э. и стала решающим сражением между Александром Македонским и персидским царём Дарием III. Несмотря на численное превосходство персов, Александр одержал полную победу благодаря тактическому мастерству. После битвы Дарий бежал, а его империя фактически перестала существовать.",
+    "explanation_de": "Die Schlacht bei Gaugamela fand 331 v. Chr. statt und war die entscheidende Schlacht zwischen Alexander dem Großen und dem persischen König Dareios III. Trotz der zahlenmäßigen Überlegenheit der Perser errang Alexander einen vollständigen Sieg dank taktischer Meisterschaft. Nach der Schlacht floh Dareios, und sein Reich hörte praktisch auf zu existieren.",
     "interesting_facts": [
       {
         "ru": "Александр имел около 47 000 солдат против 100 000-200 000 персов, но использовал тактику 'косого строя' - ослабил один фланг и усилил другой. Когда персы атаковали слабый фланг, Александр прорвался в центр и атаковал Дария, заставив его бежать.",
@@ -612,28 +534,22 @@
   },
   {
     "id": 244,
-    "question": "Какой философ основал стоицизм?",
+    "question_ru": "Какой философ основал стоицизм?",
     "question_de": "Welcher Philosoph begründete den Stoizismus?",
-    "answer": "Зенон Китийский",
-    "answer_de": "Zenon von Kition",
-    "wrong_answers": [
-      {
-        "ru": "Эпикур",
-        "de": "Epikur"
-      },
-      {
-        "ru": "Платон",
-        "de": "Platon"
-      },
-      {
-        "ru": "Сенека",
-        "de": "Seneca"
-      }
+    "correct_answer_ru": "Зенон Китийский",
+    "correct_answer_de": "Zenon von Kition",
+    "wrong_answers_ru": [
+      "Эпикур",
+      "Платон",
+      "Сенека"
     ],
-    "explanation": {
-      "ru": "Зенон Китийский (ок. 334-262 гг. до н.э.) основал стоицизм в Афинах около 300 года до н.э. Он учил в расписной стои (портике), откуда и произошло название школы. Стоицизм проповедовал добродетель как единственное благо, спокойствие перед лицом невзгод и жизнь в согласии с природой и разумом.",
-      "de": "Zenon von Kition (ca. 334-262 v. Chr.) begründete den Stoizismus in Athen um 300 v. Chr. Er lehrte in der bemalten Stoa (Säulenhalle), woher der Name der Schule stammt. Der Stoizismus predigte Tugend als einziges Gut, Gelassenheit angesichts von Widrigkeiten und Leben im Einklang mit Natur und Vernunft."
-    },
+    "wrong_answers_de": [
+      "Epikur",
+      "Platon",
+      "Seneca"
+    ],
+    "explanation_ru": "Зенон Китийский (ок. 334-262 гг. до н.э.) основал стоицизм в Афинах около 300 года до н.э. Он учил в расписной стои (портике), откуда и произошло название школы. Стоицизм проповедовал добродетель как единственное благо, спокойствие перед лицом невзгод и жизнь в согласии с природой и разумом.",
+    "explanation_de": "Zenon von Kition (ca. 334-262 v. Chr.) begründete den Stoizismus in Athen um 300 v. Chr. Er lehrte in der bemalten Stoa (Säulenhalle), woher der Name der Schule stammt. Der Stoizismus predigte Tugend als einziges Gut, Gelassenheit angesichts von Widrigkeiten und Leben im Einklang mit Natur und Vernunft.",
     "interesting_facts": [
       {
         "ru": "Зенон был финикийским купцом, который потерпел кораблекрушение у берегов Греции. Потеряв всё имущество, он остался в Афинах и начал изучать философию. Он учился у киника Кратета, мегарца Стильпона и платоника Ксенократа, объединив их идеи в свою систему.",
@@ -659,28 +575,22 @@
   },
   {
     "id": 245,
-    "question": "Кто был богом врачевания?",
+    "question_ru": "Кто был богом врачевания?",
     "question_de": "Wer war der Gott der Heilkunst?",
-    "answer": "Асклепий",
-    "answer_de": "Asklepios",
-    "wrong_answers": [
-      {
-        "ru": "Гиппократ",
-        "de": "Hippokrates"
-      },
-      {
-        "ru": "Аполлон",
-        "de": "Apollon"
-      },
-      {
-        "ru": "Гермес",
-        "de": "Hermes"
-      }
+    "correct_answer_ru": "Асклепий",
+    "correct_answer_de": "Asklepios",
+    "wrong_answers_ru": [
+      "Гиппократ",
+      "Аполлон",
+      "Гермес"
     ],
-    "explanation": {
-      "ru": "Асклепий был богом врачевания и медицины в древнегреческой мифологии, сыном Аполлона и смертной женщины Корониды. Он изображался с посохом, обвитым змеёй - символом, который стал эмблемой медицины. Асклепий научился врачеванию у кентавра Хирона и стал настолько искусным, что мог воскрешать мёртвых.",
-      "de": "Asklepios war der Gott der Heilkunst und Medizin in der antiken griechischen Mythologie, Sohn des Apollon und der sterblichen Frau Koronis. Er wurde mit einem Stab dargestellt, um den sich eine Schlange windet - ein Symbol, das zum Emblem der Medizin wurde. Asklepios lernte die Heilkunst vom Zentauren Chiron und wurde so geschickt, dass er die Toten auferwecken konnte."
-    },
+    "wrong_answers_de": [
+      "Hippokrates",
+      "Apollon",
+      "Hermes"
+    ],
+    "explanation_ru": "Асклепий был богом врачевания и медицины в древнегреческой мифологии, сыном Аполлона и смертной женщины Корониды. Он изображался с посохом, обвитым змеёй - символом, который стал эмблемой медицины. Асклепий научился врачеванию у кентавра Хирона и стал настолько искусным, что мог воскрешать мёртвых.",
+    "explanation_de": "Asklepios war der Gott der Heilkunst und Medizin in der antiken griechischen Mythologie, Sohn des Apollon und der sterblichen Frau Koronis. Er wurde mit einem Stab dargestellt, um den sich eine Schlange windet - ein Symbol, das zum Emblem der Medizin wurde. Asklepios lernte die Heilkunst vom Zentauren Chiron und wurde so geschickt, dass er die Toten auferwecken konnte.",
     "interesting_facts": [
       {
         "ru": "Зевс убил Асклепия молнией за то, что тот воскрешал мёртвых, нарушая естественный порядок. Однако затем Зевс превратил его в созвездие Змееносца. Аполлон в гневе убил циклопов, которые выковали молнию для Зевса, за что был наказан службой у смертного.",
@@ -706,28 +616,22 @@
   },
   {
     "id": 246,
-    "question": "В каком году произошла битва при Иссе?",
+    "question_ru": "В каком году произошла битва при Иссе?",
     "question_de": "In welchem Jahr fand die Schlacht bei Issos statt?",
-    "answer": "333 год до н.э.",
-    "answer_de": "333 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "334 год до н.э.",
-        "de": "334 v. Chr."
-      },
-      {
-        "ru": "332 год до н.э.",
-        "de": "332 v. Chr."
-      },
-      {
-        "ru": "331 год до н.э.",
-        "de": "331 v. Chr."
-      }
+    "correct_answer_ru": "333 год до н.э.",
+    "correct_answer_de": "333 v. Chr.",
+    "wrong_answers_ru": [
+      "334 год до н.э.",
+      "332 год до н.э.",
+      "331 год до н.э."
     ],
-    "explanation": {
-      "ru": "Битва при Иссе произошла в 333 году до н.э. между армией Александра Македонского и персидским царём Дарием III. Александр одержал победу, несмотря на то, что персы имели численное превосходство. Дарий бежал с поля боя, оставив свою семью, которую Александр взял в плен и обращал с почтением.",
-      "de": "Die Schlacht bei Issos fand 333 v. Chr. zwischen der Armee Alexanders des Großen und dem persischen König Dareios III. statt. Alexander errang den Sieg, obwohl die Perser zahlenmäßig überlegen waren. Dareios floh vom Schlachtfeld und ließ seine Familie zurück, die Alexander gefangen nahm und mit Respekt behandelte."
-    },
+    "wrong_answers_de": [
+      "334 v. Chr.",
+      "332 v. Chr.",
+      "331 v. Chr."
+    ],
+    "explanation_ru": "Битва при Иссе произошла в 333 году до н.э. между армией Александра Македонского и персидским царём Дарием III. Александр одержал победу, несмотря на то, что персы имели численное превосходство. Дарий бежал с поля боя, оставив свою семью, которую Александр взял в плен и обращал с почтением.",
+    "explanation_de": "Die Schlacht bei Issos fand 333 v. Chr. zwischen der Armee Alexanders des Großen und dem persischen König Dareios III. statt. Alexander errang den Sieg, obwohl die Perser zahlenmäßig überlegen waren. Dareios floh vom Schlachtfeld und ließ seine Familie zurück, die Alexander gefangen nahm und mit Respekt behandelte.",
     "interesting_facts": [
       {
         "ru": "Битва произошла в узком проходе между горами и морем, что не позволило персам использовать своё численное преимущество. Александр лично возглавил атаку на левом фланге и прорвался к Дарию. Персидский царь испугался и бежал, что деморализовало его армию.",
@@ -753,28 +657,22 @@
   },
   {
     "id": 247,
-    "question": "Какой скульптор создал статую Зевса?",
+    "question_ru": "Какой скульптор создал статую Зевса?",
     "question_de": "Welcher Bildhauer schuf die Statue des Zeus?",
-    "answer": "Фидий",
-    "answer_de": "Phidias",
-    "wrong_answers": [
-      {
-        "ru": "Пракситель",
-        "de": "Praxiteles"
-      },
-      {
-        "ru": "Мирон",
-        "de": "Myron"
-      },
-      {
-        "ru": "Поликлет",
-        "de": "Polyklet"
-      }
+    "correct_answer_ru": "Фидий",
+    "correct_answer_de": "Phidias",
+    "wrong_answers_ru": [
+      "Пракситель",
+      "Мирон",
+      "Поликлет"
     ],
-    "explanation": {
-      "ru": "Фидий (ок. 480-430 гг. до н.э.) создал статую Зевса в Олимпии, которая считалась одним из семи чудес света. Статуя была высотой около 12 метров и изображала Зевса сидящим на троне из золота, слоновой кости и драгоценных камней. Фидий также руководил созданием скульптур Парфенона в Афинах.",
-      "de": "Phidias (ca. 480-430 v. Chr.) schuf die Statue des Zeus in Olympia, die als eines der sieben Weltwunder galt. Die Statue war etwa 12 Meter hoch und zeigte Zeus sitzend auf einem Thron aus Gold, Elfenbein und Edelsteinen. Phidias leitete auch die Schaffung der Skulpturen des Parthenon in Athen."
-    },
+    "wrong_answers_de": [
+      "Praxiteles",
+      "Myron",
+      "Polyklet"
+    ],
+    "explanation_ru": "Фидий (ок. 480-430 гг. до н.э.) создал статую Зевса в Олимпии, которая считалась одним из семи чудес света. Статуя была высотой около 12 метров и изображала Зевса сидящим на троне из золота, слоновой кости и драгоценных камней. Фидий также руководил созданием скульптур Парфенона в Афинах.",
+    "explanation_de": "Phidias (ca. 480-430 v. Chr.) schuf die Statue des Zeus in Olympia, die als eines der sieben Weltwunder galt. Die Statue war etwa 12 Meter hoch und zeigte Zeus sitzend auf einem Thron aus Gold, Elfenbein und Edelsteinen. Phidias leitete auch die Schaffung der Skulpturen des Parthenon in Athen.",
     "interesting_facts": [
       {
         "ru": "Статуя Зевса была настолько величественной, что, по словам древних авторов, если бы Зевс встал, он пробил бы крышу храма. Она была сделана из золота и слоновой кости (хрисоэлефантинная техника). Трон был украшен изображениями богов и мифологических сцен.",
@@ -800,28 +698,22 @@
   },
   {
     "id": 248,
-    "question": "Кто был богом сна?",
+    "question_ru": "Кто был богом сна?",
     "question_de": "Wer war der Gott des Schlafes?",
-    "answer": "Гипнос",
-    "answer_de": "Hypnos",
-    "wrong_answers": [
-      {
-        "ru": "Танатос",
-        "de": "Thanatos"
-      },
-      {
-        "ru": "Морфей",
-        "de": "Morpheus"
-      },
-      {
-        "ru": "Гермес",
-        "de": "Hermes"
-      }
+    "correct_answer_ru": "Гипнос",
+    "correct_answer_de": "Hypnos",
+    "wrong_answers_ru": [
+      "Танатос",
+      "Морфей",
+      "Гермес"
     ],
-    "explanation": {
-      "ru": "Гипнос был богом сна в древнегреческой мифологии, сыном Никты (ночи) и Эреба (тьмы), братом Танатоса (смерти). Он жил в подземном мире в тёмной пещере, где текли воды забвения. Гипнос изображался крылатым юношей с маковыми цветами, которые вызывали сон.",
-      "de": "Hypnos war der Gott des Schlafes in der antiken griechischen Mythologie, Sohn der Nyx (Nacht) und des Erebos (Dunkelheit), Bruder des Thanatos (Tod). Er lebte in der Unterwelt in einer dunklen Höhle, wo die Wasser des Vergessens flossen. Hypnos wurde als geflügelter Jüngling mit Mohnblumen dargestellt, die Schlaf verursachten."
-    },
+    "wrong_answers_de": [
+      "Thanatos",
+      "Morpheus",
+      "Hermes"
+    ],
+    "explanation_ru": "Гипнос был богом сна в древнегреческой мифологии, сыном Никты (ночи) и Эреба (тьмы), братом Танатоса (смерти). Он жил в подземном мире в тёмной пещере, где текли воды забвения. Гипнос изображался крылатым юношей с маковыми цветами, которые вызывали сон.",
+    "explanation_de": "Hypnos war der Gott des Schlafes in der antiken griechischen Mythologie, Sohn der Nyx (Nacht) und des Erebos (Dunkelheit), Bruder des Thanatos (Tod). Er lebte in der Unterwelt in einer dunklen Höhle, wo die Wasser des Vergessens flossen. Hypnos wurde als geflügelter Jüngling mit Mohnblumen dargestellt, die Schlaf verursachten.",
     "interesting_facts": [
       {
         "ru": "Гипнос помог Гере усыпить Зевса, чтобы она могла помочь ахейцам в Троянской войне. За это Зевс хотел наказать Гипноса, но богиня ночи Никта защитила сына. Даже Зевс боялся гнева Никты, поэтому простил Гипноса.",
@@ -847,28 +739,22 @@
   },
   {
     "id": 249,
-    "question": "В каком году произошла битва при Левктрах?",
+    "question_ru": "В каком году произошла битва при Левктрах?",
     "question_de": "In welchem Jahr fand die Schlacht bei Leuktra statt?",
-    "answer": "371 год до н.э.",
-    "answer_de": "371 v. Chr.",
-    "wrong_answers": [
-      {
-        "ru": "370 год до н.э.",
-        "de": "370 v. Chr."
-      },
-      {
-        "ru": "372 год до н.э.",
-        "de": "372 v. Chr."
-      },
-      {
-        "ru": "375 год до н.э.",
-        "de": "375 v. Chr."
-      }
+    "correct_answer_ru": "371 год до н.э.",
+    "correct_answer_de": "371 v. Chr.",
+    "wrong_answers_ru": [
+      "370 год до н.э.",
+      "372 год до н.э.",
+      "375 год до н.э."
     ],
-    "explanation": {
-      "ru": "Битва при Левктрах произошла в 371 году до н.э. между Спартой и Фивами. Фиванцы под командованием Эпаминонда одержали победу над спартанцами, которые считались непобедимыми. Эта битва положила конец спартанской гегемонии в Греции и установила кратковременное господство Фив.",
-      "de": "Die Schlacht bei Leuktra fand 371 v. Chr. zwischen Sparta und Theben statt. Die Thebaner unter dem Kommando von Epaminondas besiegten die Spartaner, die als unbesiegbar galten. Diese Schlacht beendete die spartanische Hegemonie in Griechenland und etablierte eine kurzfristige Vorherrschaft Thebens."
-    },
+    "wrong_answers_de": [
+      "370 v. Chr.",
+      "372 v. Chr.",
+      "375 v. Chr."
+    ],
+    "explanation_ru": "Битва при Левктрах произошла в 371 году до н.э. между Спартой и Фивами. Фиванцы под командованием Эпаминонда одержали победу над спартанцами, которые считались непобедимыми. Эта битва положила конец спартанской гегемонии в Греции и установила кратковременное господство Фив.",
+    "explanation_de": "Die Schlacht bei Leuktra fand 371 v. Chr. zwischen Sparta und Theben statt. Die Thebaner unter dem Kommando von Epaminondas besiegten die Spartaner, die als unbesiegbar galten. Diese Schlacht beendete die spartanische Hegemonie in Griechenland und etablierte eine kurzfristige Vorherrschaft Thebens.",
     "interesting_facts": [
       {
         "ru": "Эпаминонд использовал новую тактику 'косого клина' - усилил левый фланг до 50 рядов глубиной и ослабил правый. Когда спартанцы атаковали, усиленный фланг прорвал их строй. Эта тактика стала образцом для будущих полководцев, включая Александра Македонского.",
@@ -894,28 +780,22 @@
   },
   {
     "id": 250,
-    "question": "Какой математик основал геометрию?",
+    "question_ru": "Какой математик основал геометрию?",
     "question_de": "Welcher Mathematiker begründete die Geometrie?",
-    "answer": "Евклид",
-    "answer_de": "Euklid",
-    "wrong_answers": [
-      {
-        "ru": "Пифагор",
-        "de": "Pythagoras"
-      },
-      {
-        "ru": "Архимед",
-        "de": "Archimedes"
-      },
-      {
-        "ru": "Фалес",
-        "de": "Thales"
-      }
+    "correct_answer_ru": "Евклид",
+    "correct_answer_de": "Euklid",
+    "wrong_answers_ru": [
+      "Пифагор",
+      "Архимед",
+      "Фалес"
     ],
-    "explanation": {
-      "ru": "Евклид (ок. 330-275 гг. до н.э.) систематизировал геометрию в своём труде 'Начала' (Элементы), который стал основным учебником математики на 2000 лет. Он собрал и упорядочил все известные геометрические знания, создав аксиоматическую систему. 'Начала' состоят из 13 книг и содержат 465 теорем.",
-      "de": "Euklid (ca. 330-275 v. Chr.) systematisierte die Geometrie in seinem Werk 'Elemente', das für 2000 Jahre das Hauptlehrbuch der Mathematik wurde. Er sammelte und ordnete alle bekannten geometrischen Kenntnisse und schuf ein axiomatisches System. Die 'Elemente' bestehen aus 13 Büchern und enthalten 465 Theoreme."
-    },
+    "wrong_answers_de": [
+      "Pythagoras",
+      "Archimedes",
+      "Thales"
+    ],
+    "explanation_ru": "Евклид (ок. 330-275 гг. до н.э.) систематизировал геометрию в своём труде 'Начала' (Элементы), который стал основным учебником математики на 2000 лет. Он собрал и упорядочил все известные геометрические знания, создав аксиоматическую систему. 'Начала' состоят из 13 книг и содержат 465 теорем.",
+    "explanation_de": "Euklid (ca. 330-275 v. Chr.) systematisierte die Geometrie in seinem Werk 'Elemente', das für 2000 Jahre das Hauptlehrbuch der Mathematik wurde. Er sammelte und ordnete alle bekannten geometrischen Kenntnisse und schuf ein axiomatisches System. Die 'Elemente' bestehen aus 13 Büchern und enthalten 465 Theoreme.",
     "interesting_facts": [
       {
         "ru": "Евклид работал в Александрии при Птолемее I. По легенде, царь спросил, нет ли более короткого пути изучения геометрии, на что Евклид ответил: 'В геометрии нет царской дороги'. Эта фраза стала поговоркой о том, что для овладения наукой нужен труд.",
@@ -940,4 +820,3 @@
     ]
   }
 ]
-
