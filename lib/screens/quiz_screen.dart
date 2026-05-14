@@ -3,7 +3,8 @@ import 'dart:math';
 import '../models/quiz_question.dart';
 import '../services/sound_service.dart';
 import '../services/question_history_service.dart';
-import 'result_screen.dart';
+import 'quiz_round_summary_screen.dart';
+import '../widgets/facts_dialog.dart';
 
 class QuizScreen extends StatefulWidget {
   final List<QuizQuestion> availableQuestions;
@@ -20,8 +21,13 @@ class QuizScreen extends StatefulWidget {
 }
 
 class _QuizScreenState extends State<QuizScreen> {
+  static const int _questionsPerRound = 10;
+
+  List<QuizQuestion> _roundQueue = [];
+  int _questionIndexInRound = 0;
+  int _correctInRound = 0;
+
   QuizQuestion? _currentQuestion;
-  bool _isTranslated = false;
   bool _hasAnswered = false;
   int? _selectedAnswerIndex;
   List<String> _shuffledOptionsDe = [];
@@ -31,55 +37,60 @@ class _QuizScreenState extends State<QuizScreen> {
   @override
   void initState() {
     super.initState();
-    // Откладываем загрузку вопроса до завершения первой сборки
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      _loadRandomQuestion();
+      _startRound();
     });
   }
 
-  Future<void> _loadRandomQuestion() async {
-    // Filtere verfügbare Fragen basierend auf Historie
+  Future<void> _startRound() async {
     final questionIds = widget.availableQuestions.map((q) => q.id).toList();
-    final availableIds = await QuestionHistoryService.filterAvailableQuestions(questionIds);
-    final availableQuestions = widget.availableQuestions.where((q) => availableIds.contains(q.id)).toList();
+    final availableIds = await QuestionHistoryService.filterAvailableQuestions(
+      questionIds,
+    );
+    final pool =
+        widget.availableQuestions
+            .where((q) => availableIds.contains(q.id))
+            .toList();
 
-    if (availableQuestions.isEmpty) {
-      // Alle Fragen wurden heute beantwortet oder sind nicht verfügbar
+    if (pool.isEmpty) {
       _showEndDialog();
       return;
     }
 
+    pool.shuffle(Random());
+    final n = min(_questionsPerRound, pool.length);
+    setState(() {
+      _roundQueue = pool.take(n).toList();
+      _questionIndexInRound = 0;
+      _correctInRound = 0;
+    });
+
+    _applyQuestionPayload(_roundQueue.first);
+  }
+
+  void _applyQuestionPayload(QuizQuestion question) {
     final random = Random();
-    final index = random.nextInt(availableQuestions.length);
-    final question = availableQuestions[index];
-    
-    // Antworten mischen
     final optionsDe = List<String>.from(question.optionsDe);
     final optionsRu = List<String>.from(question.optionsRu);
-    
-    // Paare von DE und RU Antworten zusammenhalten
+
     final List<MapEntry<String, String>> answerPairs = [];
     for (int i = 0; i < optionsDe.length; i++) {
       answerPairs.add(MapEntry(optionsDe[i], optionsRu[i]));
     }
-    
-    // Mischen - jedes Mal zufällig sortieren mit Fisher-Yates Algorithmus
+
     for (int i = answerPairs.length - 1; i > 0; i--) {
       final j = random.nextInt(i + 1);
       final temp = answerPairs[i];
       answerPairs[i] = answerPairs[j];
       answerPairs[j] = temp;
     }
-    
-    // Neue Listen erstellen und korrekten Index finden
+
     _shuffledOptionsDe = answerPairs.map((e) => e.key).toList();
     _shuffledOptionsRu = answerPairs.map((e) => e.value).toList();
-    
-    // Korrekten Index finden
+
     final correctAnswerDe = question.optionsDe[question.correctAnswerIndex];
     _correctAnswerIndex = _shuffledOptionsDe.indexOf(correctAnswerDe);
-    
-    // Neue Frage mit gemischten Antworten erstellen
+
     _currentQuestion = QuizQuestion(
       id: question.id,
       questionDe: question.questionDe,
@@ -97,14 +108,12 @@ class _QuizScreenState extends State<QuizScreen> {
       type: question.type,
       tags: question.tags,
     );
-    
+
     setState(() {
-      _isTranslated = false;
       _hasAnswered = false;
       _selectedAnswerIndex = null;
     });
-    
-    // Sound für neue Frage abspielen
+
     SoundService.playNewQuestionSound();
   }
 
@@ -113,25 +122,47 @@ class _QuizScreenState extends State<QuizScreen> {
     showDialog(
       context: context,
       barrierDismissible: false,
-      builder: (context) => AlertDialog(
-        title: const Text('Quiz beendet'),
-        content: const Text('Alle Fragen wurden beantwortet!'),
-        actions: [
-          TextButton(
-            onPressed: () {
-              Navigator.of(context).pop(); // Закрыть диалог
-              if (mounted) {
-                Navigator.of(context).pop(); // Вернуться на стартовый экран
-              }
-            },
-            child: const Text('OK'),
+      builder:
+          (context) => AlertDialog(
+            title: const Text('Quiz beendet'),
+            content: const Text(
+              'Für diese Auswahl gibt es keine freien Fragen mehr: nach richtiger Antwort mindestens einen Monat Sperre, nach falscher eine Woche.',
+            ),
+            actions: [
+              TextButton(
+                onPressed: () {
+                  Navigator.of(context).pop();
+                  if (mounted) {
+                    Navigator.of(context).pop();
+                  }
+                },
+                child: const Text('OK'),
+              ),
+            ],
           ),
-        ],
-      ),
     );
   }
 
-  void _selectAnswer(int index) {
+  void _goToNextAfterResult() {
+    if (!mounted) return;
+    _questionIndexInRound++;
+    if (_questionIndexInRound >= _roundQueue.length) {
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute<void>(
+          builder:
+              (context) => QuizRoundSummaryScreen(
+                correctAnswers: _correctInRound,
+                totalQuestions: _roundQueue.length,
+              ),
+        ),
+      );
+      return;
+    }
+    _applyQuestionPayload(_roundQueue[_questionIndexInRound]);
+  }
+
+  Future<void> _selectAnswer(int index) async {
     if (_hasAnswered || _currentQuestion == null) return;
 
     setState(() {
@@ -141,48 +172,66 @@ class _QuizScreenState extends State<QuizScreen> {
 
     final isCorrect = index == _currentQuestion!.correctAnswerIndex;
 
-    // Speichere die Antwort in der Historie
-    QuestionHistoryService.markQuestionAnswered(_currentQuestion!.id, isCorrect);
+    // Warten, bis die Sperre in SharedPreferences steht — sonst kann die nächste Runde die Frage noch ziehen.
+    await QuestionHistoryService.markQuestionAnswered(
+      _currentQuestion!.id,
+      isCorrect,
+    );
 
-    // Воспроизводим звук
     if (isCorrect) {
+      _correctInRound++;
       SoundService.playCorrectSound();
     } else {
       SoundService.playIncorrectSound();
     }
 
-    // Показываем экран результата через задержку в 1 секунду
-    Future.delayed(const Duration(milliseconds: 1000), () {
-      if (!mounted) return;
-      Navigator.push(
-        context,
-        MaterialPageRoute(
-          builder: (context) => ResultScreen(
-            question: _currentQuestion!,
-            isCorrect: isCorrect,
-            onContinue: () {
-              Navigator.pop(context);
-              _loadRandomQuestion();
-            },
-          ),
-        ),
-      );
-    });
+    await Future<void>.delayed(const Duration(milliseconds: 1000));
+    if (!mounted) return;
+    await _showFactsAndContinue(_currentQuestion!);
+  }
+
+  Future<void> _showFactsAndContinue(QuizQuestion question) async {
+    final facts =
+        question.facts
+            .map((s) => s.trim())
+            .where((s) => s.isNotEmpty)
+            .toList();
+
+    if (!mounted) return;
+    if (facts.isEmpty) {
+      _goToNextAfterResult();
+      return;
+    }
+
+    final idx = await QuestionHistoryService.takeNextFactDisplayIndex(
+      question.id,
+      facts.length,
+    );
+
+    if (!mounted) return;
+    await showDialog<void>(
+      context: context,
+      barrierDismissible: false,
+      builder: (context) => FactsDialog(fact: facts[idx]),
+    );
+
+    if (mounted) {
+      _goToNextAfterResult();
+    }
   }
 
   Color _getAnswerColor(int index) {
     if (!_hasAnswered || _currentQuestion == null) return Colors.grey.shade200;
-    
-    // Richtige Antwort immer grün leuchten lassen
+
     if (index == _currentQuestion!.correctAnswerIndex) {
       return Colors.green;
     }
-    
-    // Falsche ausgewählte Antwort rot leuchten lassen
-    if (index == _selectedAnswerIndex && index != _currentQuestion!.correctAnswerIndex) {
+
+    if (index == _selectedAnswerIndex &&
+        index != _currentQuestion!.correctAnswerIndex) {
       return Colors.red;
     }
-    
+
     return Colors.grey.shade200;
   }
 
@@ -190,35 +239,18 @@ class _QuizScreenState extends State<QuizScreen> {
   Widget build(BuildContext context) {
     final currentQuestion = _currentQuestion;
     if (currentQuestion == null) {
-      return const Scaffold(
-        body: Center(
-          child: CircularProgressIndicator(),
-        ),
-      );
+      return const Scaffold(body: Center(child: CircularProgressIndicator()));
     }
-    
-    final question = _isTranslated
-        ? currentQuestion.questionTranslated
-        : currentQuestion.question;
-    final options = _isTranslated
-        ? currentQuestion.optionsTranslated
-        : currentQuestion.options;
+
+    final question = currentQuestion.question;
+    final options = currentQuestion.options;
+    final progressTitle =
+        _roundQueue.isEmpty
+            ? 'Geschichtsquiz'
+            : 'Frage ${_questionIndexInRound + 1} von ${_roundQueue.length}';
 
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Geschichtsquiz'),
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.translate),
-            onPressed: () {
-              setState(() {
-                _isTranslated = !_isTranslated;
-              });
-            },
-            tooltip: 'Übersetzen',
-          ),
-        ],
-      ),
+      appBar: AppBar(title: Text(progressTitle)),
       body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.all(24),
@@ -226,24 +258,21 @@ class _QuizScreenState extends State<QuizScreen> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                question,
+                'Richtig beantwortete Fragen bleiben mindestens einen Kalendermonat aus dem Fragenpool; nach einer falschen Antwort 7 Tage.',
                 style: TextStyle(
-                  fontSize: _isTranslated ? 12 : 24,
-                  fontWeight: FontWeight.bold,
-                  color: _isTranslated ? Colors.grey.shade600 : null,
-                  fontStyle: _isTranslated ? FontStyle.italic : null,
+                  fontSize: 14,
+                  height: 1.35,
+                  color: Colors.grey.shade800,
                 ),
               ),
-              if (_isTranslated) ...[
-                const SizedBox(height: 8),
-                Text(
-                  currentQuestion.question,
-                  style: const TextStyle(
-                    fontSize: 24,
-                    fontWeight: FontWeight.bold,
-                  ),
+              const SizedBox(height: 16),
+              Text(
+                question,
+                style: const TextStyle(
+                  fontSize: 24,
+                  fontWeight: FontWeight.bold,
                 ),
-              ],
+              ),
               const SizedBox(height: 32),
               ...List.generate(options.length, (index) {
                 return Padding(
@@ -257,52 +286,67 @@ class _QuizScreenState extends State<QuizScreen> {
                         color: _getAnswerColor(index),
                         borderRadius: BorderRadius.circular(12),
                         border: Border.all(
-                          color: _selectedAnswerIndex == index
-                              ? Colors.blue
-                              : Colors.grey.shade300,
+                          color:
+                              _selectedAnswerIndex == index
+                                  ? Colors.blue
+                                  : Colors.grey.shade300,
                           width: 2,
                         ),
                       ),
                       child: Row(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          // Буква (A, B, C, D)
                           Container(
-                            width: 32,
-                            height: 32,
-                            margin: const EdgeInsets.only(right: 12),
+                            width: 44,
+                            height: 44,
+                            margin: const EdgeInsets.only(right: 12, top: 2),
+                            alignment: Alignment.center,
                             decoration: BoxDecoration(
-                              color: _hasAnswered && 
-                                     (index == currentQuestion.correctAnswerIndex ||
-                                      index == _selectedAnswerIndex)
-                                  ? Colors.white.withOpacity(0.3)
-                                  : Colors.blue.withOpacity(0.1),
-                              borderRadius: BorderRadius.circular(8),
+                              shape: BoxShape.circle,
+                              color:
+                                  _hasAnswered &&
+                                          (index ==
+                                                  currentQuestion
+                                                      .correctAnswerIndex ||
+                                              index == _selectedAnswerIndex)
+                                      ? Colors.white.withValues(alpha: 0.3)
+                                      : Colors.blue.withValues(alpha: 0.12),
                               border: Border.all(
-                                color: _hasAnswered && 
-                                       (index == currentQuestion.correctAnswerIndex ||
-                                        index == _selectedAnswerIndex)
-                                    ? Colors.white
-                                    : Colors.blue,
+                                color:
+                                    _hasAnswered &&
+                                            (index ==
+                                                    currentQuestion
+                                                        .correctAnswerIndex ||
+                                                index == _selectedAnswerIndex)
+                                        ? Colors.white
+                                        : Colors.blue,
                                 width: 2,
                               ),
                             ),
-                            child: Center(
-                              child: Text(
-                                String.fromCharCode(65 + index), // A, B, C, D
-                                style: TextStyle(
-                                  fontSize: 18,
-                                  fontWeight: FontWeight.bold,
-                                  color: _hasAnswered && 
-                                         (index == currentQuestion.correctAnswerIndex ||
-                                          index == _selectedAnswerIndex)
-                                      ? Colors.white
-                                      : Colors.blue,
+                            child: FittedBox(
+                              fit: BoxFit.scaleDown,
+                              child: Padding(
+                                padding: const EdgeInsets.all(4),
+                                child: Text(
+                                  String.fromCharCode(65 + index),
+                                  maxLines: 1,
+                                  style: TextStyle(
+                                    fontSize: 20,
+                                    fontWeight: FontWeight.bold,
+                                    height: 1,
+                                    color:
+                                        _hasAnswered &&
+                                                (index ==
+                                                        currentQuestion
+                                                            .correctAnswerIndex ||
+                                                    index == _selectedAnswerIndex)
+                                            ? Colors.white
+                                            : Colors.blue,
+                                  ),
                                 ),
                               ),
                             ),
                           ),
-                          // Текст ответа
                           Expanded(
                             child: Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
@@ -310,32 +354,20 @@ class _QuizScreenState extends State<QuizScreen> {
                                 Text(
                                   options[index],
                                   style: TextStyle(
-                                    fontSize: _isTranslated ? 12 : 22,
-                                    color: _hasAnswered && 
-                                           (index == currentQuestion.correctAnswerIndex ||
-                                            index == _selectedAnswerIndex)
-                                        ? Colors.white
-                                        : Colors.blue,
+                                    fontSize: 22,
+                                    color:
+                                        _hasAnswered &&
+                                                (index ==
+                                                        currentQuestion
+                                                            .correctAnswerIndex ||
+                                                    index ==
+                                                        _selectedAnswerIndex)
+                                            ? Colors.white
+                                            : Colors.blue,
                                     fontWeight: FontWeight.bold,
-                                    fontStyle: _isTranslated ? FontStyle.italic : null,
                                   ),
                                   softWrap: true,
                                 ),
-                                if (_isTranslated) ...[
-                                  const SizedBox(height: 4),
-                                  Text(
-                                    currentQuestion.options[index],
-                                    style: TextStyle(
-                                      fontSize: 22,
-                                      color: _hasAnswered && 
-                                             (index == currentQuestion.correctAnswerIndex ||
-                                              index == _selectedAnswerIndex)
-                                          ? Colors.white
-                                          : Colors.blue,
-                                      fontWeight: FontWeight.bold,
-                                    ),
-                                  ),
-                                ],
                               ],
                             ),
                           ),
@@ -352,4 +384,3 @@ class _QuizScreenState extends State<QuizScreen> {
     );
   }
 }
-

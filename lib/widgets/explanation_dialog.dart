@@ -1,3 +1,5 @@
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 
@@ -16,7 +18,6 @@ class ExplanationDialog extends StatefulWidget {
 }
 
 class _ExplanationDialogState extends State<ExplanationDialog> {
-  bool _isRussian = false;
   final FlutterTts _flutterTts = FlutterTts();
   bool _isPlaying = false;
   bool _isPaused = false;
@@ -28,7 +29,7 @@ class _ExplanationDialogState extends State<ExplanationDialog> {
   }
 
   Future<void> _initTts() async {
-    await _flutterTts.setLanguage(_isRussian ? 'ru-RU' : 'de-DE');
+    await _flutterTts.setLanguage('de-DE');
     _flutterTts.setCompletionHandler(() {
       if (mounted) {
         setState(() {
@@ -39,26 +40,21 @@ class _ExplanationDialogState extends State<ExplanationDialog> {
     });
   }
 
-  String get currentExplanation {
-    return _isRussian ? widget.explanationTranslated : widget.explanation;
-  }
+  String get currentExplanation => widget.explanation;
 
   Future<void> _togglePlayPause() async {
     if (_isPlaying && !_isPaused) {
-      // Pause
       await _flutterTts.pause();
       setState(() {
         _isPaused = true;
       });
     } else if (_isPlaying && _isPaused) {
-      // Resume
       await _flutterTts.speak(currentExplanation);
       setState(() {
         _isPaused = false;
       });
     } else {
-      // Start
-      await _flutterTts.setLanguage(_isRussian ? 'ru-RU' : 'de-DE');
+      await _flutterTts.setLanguage('de-DE');
       await _flutterTts.speak(currentExplanation);
       setState(() {
         _isPlaying = true;
@@ -75,91 +71,90 @@ class _ExplanationDialogState extends State<ExplanationDialog> {
 
   @override
   Widget build(BuildContext context) {
+    final size = MediaQuery.sizeOf(context);
+    final pad = MediaQuery.paddingOf(context);
+    final maxW = math.min(500.0, size.width - 24);
+    final maxH = math.min(560.0, size.height * 0.78);
+
     return Dialog(
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(16),
-      ),
-      child: Container(
-        padding: const EdgeInsets.all(24),
-        constraints: const BoxConstraints(maxWidth: 500, maxHeight: 600),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Row(
+      insetPadding: EdgeInsets.fromLTRB(12, 16, 12, math.max(16, pad.bottom + 8)),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      clipBehavior: Clip.antiAlias,
+      child: ConstrainedBox(
+        constraints: BoxConstraints(maxWidth: maxW, maxHeight: maxH),
+        child: SafeArea(
+          minimum: const EdgeInsets.all(4),
+          child: Padding(
+            padding: const EdgeInsets.fromLTRB(18, 14, 18, 10),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                Expanded(
-                  child: Text(
-                    _isRussian ? 'Объяснение' : 'Erklärung',
-                    style: const TextStyle(
-                      fontSize: 24,
-                      fontWeight: FontWeight.bold,
+                Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Expanded(
+                      child: Text(
+                        'Erklärung',
+                        style: TextStyle(
+                          fontSize: 22,
+                          fontWeight: FontWeight.bold,
+                        ),
+                        overflow: TextOverflow.ellipsis,
+                      ),
                     ),
-                    overflow: TextOverflow.ellipsis,
+                    IconButton(
+                      constraints: const BoxConstraints(minWidth: 44, minHeight: 44),
+                      padding: EdgeInsets.zero,
+                      icon: Icon(
+                        _isPlaying && !_isPaused
+                            ? Icons.pause_circle_filled
+                            : Icons.volume_up,
+                        size: 30,
+                        color: Colors.blue,
+                      ),
+                      onPressed: _togglePlayPause,
+                      tooltip:
+                          _isPlaying && !_isPaused ? 'Pause' : 'Vorlesen',
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 8),
+                Expanded(
+                  child: Scrollbar(
+                    thumbVisibility: true,
+                    child: SingleChildScrollView(
+                      physics: const BouncingScrollPhysics(),
+                      padding: const EdgeInsets.only(right: 6, bottom: 4),
+                      child: Text(
+                        currentExplanation,
+                        style: const TextStyle(
+                          fontSize: 16,
+                          height: 1.5,
+                        ),
+                      ),
+                    ),
                   ),
                 ),
-                const SizedBox(width: 8),
-                IconButton(
-                  icon: const Icon(Icons.translate),
-                  color: Colors.blue,
-                  padding: EdgeInsets.zero,
-                  constraints: const BoxConstraints(),
-                  onPressed: () async {
-                    if (_isPlaying) {
-                      await _flutterTts.stop();
-                    }
-                    setState(() {
-                      _isRussian = !_isRussian;
-                      _isPlaying = false;
-                      _isPaused = false;
-                    });
-                    await _initTts();
-                  },
-                  tooltip: _isRussian ? 'На немецкий' : 'На русский',
+                const SizedBox(height: 12),
+                FilledButton(
+                  onPressed: () => Navigator.of(context).pop(),
+                  style: FilledButton.styleFrom(
+                    minimumSize: const Size.fromHeight(52),
+                    textStyle: const TextStyle(
+                      fontSize: 17,
+                      fontWeight: FontWeight.w600,
+                    ),
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                  ),
+                  child: const Text('Schließen'),
                 ),
               ],
             ),
-            const SizedBox(height: 16),
-            Expanded(
-              child: SingleChildScrollView(
-                child: Text(
-                  currentExplanation,
-                  style: const TextStyle(
-                    fontSize: 16,
-                    height: 1.5,
-                  ),
-                ),
-              ),
-            ),
-            const SizedBox(height: 16),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                IconButton(
-                  icon: Icon(
-                    _isPlaying && !_isPaused
-                        ? Icons.pause
-                        : Icons.volume_up,
-                    size: 32,
-                    color: Colors.blue,
-                  ),
-                  onPressed: _togglePlayPause,
-                  tooltip: _isPlaying && !_isPaused
-                      ? 'Pause'
-                      : 'Vorlesen',
-                ),
-                TextButton(
-                  onPressed: () {
-                    Navigator.of(context).pop();
-                  },
-                  child: Text(_isRussian ? 'Закрыть' : 'Schließen'),
-                ),
-              ],
-            ),
-          ],
+          ),
         ),
       ),
     );
   }
 }
-
