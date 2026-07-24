@@ -111,3 +111,6 @@ dart tools/convert_questions_format.dart lib/data/Fragen/Detailed/detailed_quest
 2. Удалите резервные копии (`.backup`), если всё работает корректно
 3. Упрощённый парсер в `question_service.dart` теперь работает только со стандартным форматом
 
+
+
+
