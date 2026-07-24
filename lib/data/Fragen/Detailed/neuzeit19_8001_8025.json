@@ -1,0 +1,752 @@
+[
+  {
+    "id": 8001,
+    "question_de": "Was war der Wiener Kongress (1814/15) und welches Ziel hatte er?",
+    "question_ru": "Что такое Венский конгресс (1814/15) и какова была его цель?",
+    "correct_answer_de": "Eine Konferenz europäischer Fürsten nach Napoleons Niederlage – Ziel: Wiederherstellung der alten Ordnung in Europa",
+    "correct_answer_ru": "Конференция европейских монархов после поражения Наполеона — цель: восстановление старого порядка в Европе",
+    "wrong_answers_de": ["Ein Friedensvertrag zur Beendigung des Dreißigjährigen Krieges", "Eine Revolutionsversammlung der liberalen Kräfte Europas", "Ein Handelsabkommen zwischen Österreich und Preußen"],
+    "wrong_answers_ru": ["Мирный договор для завершения Тридцатилетней войны", "Революционное собрание либеральных сил Европы", "Торговое соглашение между Австрией и Пруссией"],
+    "explanation_de": "Nach Napoleons Niederlage trafen sich 1814/15 die Großmächte in Wien. Österreichs Außenminister Metternich dominierte den Kongress. Die alten Dynastien wurden wiedereingesetzt, Grenzen neu gezogen – Europa bis 1848 relativ stabil.",
+    "explanation_ru": "После поражения Наполеона в 1814/15 году великие державы собрались в Вене. Австрийский министр иностранных дел Меттерних доминировал на конгрессе. Были восстановлены старые династии, перекроены границы — Европа оставалась относительно стабильной до 1848 года.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1815 CE",
+    "tags": ["Politik", "Europa", "Napoleon"],
+    "interesting_facts": [
+      {
+        "de": "Der Kongress tanzte – ein bekanntes Bonmot: Es wurden so viele Feste gefeiert, dass man kaum arbeitete.",
+        "ru": "«Конгресс танцует» — известный афоризм: праздников было так много, что работали почти не работая."
+      },
+      {
+        "de": "Das 'Konzert der Mächte' (England, Österreich, Preußen, Russland, Frankreich) hielt Europa 40 Jahre lang ohne Großkrieg.",
+        "ru": "«Концерт держав» (Англия, Австрия, Пруссия, Россия, Франция) удерживал Европу без большой войны 40 лет."
+      },
+      {
+        "de": "Deutschland blieb ein loser Staatenbund (Deutscher Bund) mit 39 Mitgliedsstaaten.",
+        "ru": "Германия осталась рыхлым союзом государств (Германский союз) с 39 государствами-членами."
+      }
+    ]
+  },
+  {
+    "id": 8002,
+    "question_de": "Was war die Industrielle Revolution und wo begann sie?",
+    "question_ru": "Что такое Промышленная революция и где она началась?",
+    "correct_answer_de": "Der Übergang von Handarbeit zu Maschinenproduktion – begann Ende 18. Jh. in England",
+    "correct_answer_ru": "Переход от ручного труда к машинному производству — начался в конце XVIII века в Англии",
+    "wrong_answers_de": ["Der Übergang von Landwirtschaft zu Handwerk im Mittelalter", "Die Erfindung des Buchdrucks in Deutschland im 15. Jahrhundert", "Die Mechanisierung der Landwirtschaft durch Dampfpflüge in Frankreich"],
+    "wrong_answers_ru": ["Переход от сельского хозяйства к ремеслу в Средние века", "Изобретение книгопечатания в Германии в XV веке", "Механизация сельского хозяйства с помощью паровых плугов во Франции"],
+    "explanation_de": "Die Dampfmaschine (James Watt, 1769) ermöglichte Fabriken. England hatte Kohle, Eisen, Häfen und Kapital. Ab 1800 breitete sich die Industrialisierung auf Europa und Amerika aus – und veränderte Arbeit, Gesellschaft und Städte radikal.",
+    "explanation_ru": "Паровая машина (Джеймс Уатт, 1769) сделала возможными фабрики. Англия располагала углём, железом, портами и капиталом. После 1800 года индустриализация распространилась на Европу и Америку — коренным образом изменив труд, общество и города.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1820 CE",
+    "tags": ["Wirtschaft", "England", "Erfindungen"],
+    "interesting_facts": [
+      {
+        "de": "Kinder arbeiteten in frühen Fabriken 12–16 Stunden täglich unter gefährlichen Bedingungen.",
+        "ru": "Дети работали на ранних фабриках по 12–16 часов в день в опасных условиях."
+      },
+      {
+        "de": "Die erste Eisenbahn für Personen fuhr 1825 in England zwischen Stockton und Darlington.",
+        "ru": "Первая пассажирская железная дорога прошла в 1825 году в Англии между Стоктоном и Дарлингтоном."
+      },
+      {
+        "de": "Manchester wuchs durch die Industrialisierung von 25.000 (1772) auf 300.000 Einwohner (1850).",
+        "ru": "Манчестер в результате индустриализации вырос с 25 000 (1772) до 300 000 жителей (1850)."
+      }
+    ]
+  },
+  {
+    "id": 8003,
+    "question_de": "Was war das Kommunistische Manifest (1848) und wer verfasste es?",
+    "question_ru": "Что такое «Коммунистический манифест» (1848) и кто его написал?",
+    "correct_answer_de": "Ein politisches Pamphlet von Karl Marx und Friedrich Engels – mit dem Aufruf zur Arbeiterrevolution",
+    "correct_answer_ru": "Политический памфлет Карла Маркса и Фридриха Энгельса — с призывом к рабочей революции",
+    "wrong_answers_de": ["Eine Verfassung der Frankfurter Nationalversammlung", "Ein philosophisches Werk Hegels über den Weltgeist", "Ein Regierungsprogramm des preußischen Königs Friedrich Wilhelm IV."],
+    "wrong_answers_ru": ["Конституция Франкфуртского национального собрания", "Философский труд Гегеля о мировом духе", "Правительственная программа прусского короля Фридриха Вильгельма IV"],
+    "explanation_de": "Marx und Engels analysierten den Kapitalismus als System der Ausbeutung. Ihre berühmteste Schlusszeile: 'Proletarier aller Länder, vereinigt euch!' Das Manifest erschien kurz vor den Revolutionen von 1848.",
+    "explanation_ru": "Маркс и Энгельс анализировали капитализм как систему эксплуатации. Их знаменитейшая заключительная строка: «Пролетарии всех стран, соединяйтесь!» Манифест вышел незадолго до революций 1848 года.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1848 CE",
+    "tags": ["Politik", "Deutschland", "Wirtschaft"],
+    "interesting_facts": [
+      {
+        "de": "Das Manifest war zunächst kaum bekannt – es wurde erst nach den Pariser Ereignissen der Commune 1871 berühmt.",
+        "ru": "Манифест поначалу почти не был известен — он прославился лишь после парижских событий Коммуны 1871 года."
+      },
+      {
+        "de": "Marx verbrachte den größten Teil seines Lebens im Londoner Exil – er starb 1883 verarmt.",
+        "ru": "Маркс провёл большую часть жизни в лондонском изгнании — и умер в 1883 году в бедности."
+      },
+      {
+        "de": "Das Kommunistische Manifest ist das meistgedruckte politische Dokument der Geschichte nach der Bibel.",
+        "ru": "«Коммунистический манифест» — самый тиражируемый политический документ в истории после Библии."
+      }
+    ]
+  },
+  {
+    "id": 8004,
+    "question_de": "Was waren die Revolutionen von 1848 und warum scheiterten sie?",
+    "question_ru": "Что такое революции 1848 года и почему они потерпели поражение?",
+    "correct_answer_de": "Liberale und nationale Aufstände in ganz Europa – scheiterten, weil Militär und Adel die Macht behielten",
+    "correct_answer_ru": "Либеральные и национальные восстания по всей Европе — потерпели поражение, так как армия и знать удержали власть",
+    "wrong_answers_de": ["Sozialistische Revolutionen, die erfolgreich Republiken errichteten", "Religiöse Aufstände gegen die Säkularisierung Europas", "Nationalistische Kriege zwischen Deutschland und Frankreich"],
+    "wrong_answers_ru": ["Социалистические революции, успешно учредившие республики", "Религиозные восстания против секуляризации Европы", "Националистические войны между Германией и Франции"],
+    "explanation_de": "In Frankreich, Deutschland, Österreich, Italien und anderen Ländern erhoben sich Bürger und Arbeiter für Freiheiten und nationale Einheit. Zunächst erfolgreich, wurden die Revolutionen bis 1849 von Militär und konservativen Kräften niedergeschlagen.",
+    "explanation_ru": "Во Франции, Германии, Австрии, Италии и других странах горожане и рабочие поднялись за свободы и национальное единство. Поначалу успешные, революции к 1849 году были подавлены армией и консервативными силами.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1848 CE",
+    "tags": ["Politik", "Europa", "Revolution"],
+    "interesting_facts": [
+      {
+        "de": "In Deutschland tagte 1848 die Frankfurter Nationalversammlung – das erste frei gewählte gesamtdeutsche Parlament.",
+        "ru": "В 1848 году в Германии заседало Франкфуртское национальное собрание — первый свободно избранный общегерманский парламент."
+      },
+      {
+        "de": "Der preußische König Friedrich Wilhelm IV. lehnte die ihm angebotene Kaiserkrone ab – er wollte sie nicht 'aus der Gosse' nehmen.",
+        "ru": "Прусский король Фридрих Вильгельм IV отверг предложенную ему корону — он не хотел принять её «из сточной канавы»."
+      },
+      {
+        "de": "1848 wird 'das Völkerfrühling' genannt – ein Frühling, dem kein Sommer folgte.",
+        "ru": "1848 год называют «весной народов» — весной, за которой не последовало лета."
+      }
+    ]
+  },
+  {
+    "id": 8005,
+    "question_de": "Wann und wie wurde Deutschland als Nation gegründet?",
+    "question_ru": "Когда и как Германия была основана как нация?",
+    "correct_answer_de": "1871 im Spiegelsaal von Versailles – Bismarck vereinigte die deutschen Staaten nach dem Sieg über Frankreich",
+    "correct_answer_ru": "В 1871 году в Зеркальном зале Версаля — Бисмарк объединил германские государства после победы над Францией",
+    "wrong_answers_de": ["1848 durch die Frankfurter Nationalversammlung – demokratisch gewählt", "1815 durch den Wiener Kongress – als Entscheidung der Großmächte", "1866 nach dem Sieg Preußens über Österreich – als Norddeutscher Bund"],
+    "wrong_answers_ru": ["В 1848 году Франкфуртским национальным собранием — избранным демократически", "В 1815 году Венским конгрессом — по решению великих держав", "В 1866 году после победы Пруссии над Австрией — как Северогерманский союз"],
+    "explanation_de": "Otto von Bismarck, preußischer Ministerpräsident, führte drei Kriege (gegen Dänemark 1864, Österreich 1866, Frankreich 1870/71). Nach dem Sieg wurde das Deutsche Kaiserreich am 18. Januar 1871 in Versailles proklamiert.",
+    "explanation_ru": "Отто фон Бисмарк, прусский министр-президент, провёл три войны (против Дании в 1864-м, Австрии в 1866-м, Франции в 1870/71-м). После победы Германская империя была провозглашена 18 января 1871 года в Версале.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1871 CE",
+    "tags": ["Deutschland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Die Proklamation im Spiegelsaal von Versailles war eine bewusste Demütigung Frankreichs.",
+        "ru": "Провозглашение в Зеркальном зале Версаля было намеренным унижением Франции."
+      },
+      {
+        "de": "Bismarck nannte seine Politik 'Realpolitik' – Macht ohne Rücksicht auf Idealismus.",
+        "ru": "Бисмарк называл свою политику «реальной политикой» — власть без оглядки на идеализм."
+      },
+      {
+        "de": "Kaiser Wilhelm I. wollte zunächst keinen Kaisertitel – Bismarck musste ihn überreden.",
+        "ru": "Кайзер Вильгельм I поначалу не хотел императорского титула — Бисмарк вынужден был его уговаривать."
+      }
+    ]
+  },
+  {
+    "id": 8006,
+    "question_de": "Wer war Charles Darwin und was ist seine bekannteste Theorie?",
+    "question_ru": "Кто такой Чарльз Дарвин и какова его самая известная теория?",
+    "correct_answer_de": "Englischer Naturforscher (1809–1882) – Evolutionstheorie: Arten entwickeln sich durch natürliche Auslese",
+    "correct_answer_ru": "Английский естествоиспытатель (1809–1882) — теория эволюции: виды развиваются путём естественного отбора",
+    "wrong_answers_de": ["Französischer Chemiker – er entdeckte die Impfung gegen Pocken", "Österreichischer Arzt – er begründete die Psychoanalyse", "Englischer Physiker – er formulierte die Schwerkraft"],
+    "wrong_answers_ru": ["Французский химик — открыл прививку от оспы", "Австрийский врач — основал психоанализ", "Английский физик — сформулировал закон тяготения"],
+    "explanation_de": "Darwin reiste 1831–1836 auf der HMS Beagle um die Welt. Auf den Galápagos-Inseln beobachtete er, wie sich Finken angepasst hatten. 1859 veröffentlichte er 'On the Origin of Species' – die Evolutionstheorie.",
+    "explanation_ru": "Дарвин путешествовал в 1831–1836 годах на корабле HMS Beagle вокруг света. На Галапагосских островах он наблюдал, как адаптировались вьюрки. В 1859 году он опубликовал «О происхождении видов» — теорию эволюции.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1859 CE",
+    "tags": ["Wissenschaft", "England"],
+    "interesting_facts": [
+      {
+        "de": "Darwin wartete 20 Jahre mit der Veröffentlichung – aus Angst vor der religiösen Reaktion.",
+        "ru": "Дарвин выжидал 20 лет с публикацией — из страха перед религиозной реакцией."
+      },
+      {
+        "de": "Alfred Russel Wallace entwickelte gleichzeitig dieselbe Theorie – Darwins Brief zwang ihn zur schnellen Veröffentlichung.",
+        "ru": "Альфред Уоллес разработал одновременно ту же теорию — письмо Дарвина вынудило его быстро публиковаться."
+      },
+      {
+        "de": "Darwin ist im Westminster Abbey begraben – neben Isaac Newton.",
+        "ru": "Дарвин похоронен в Вестминстерском аббатстве — рядом с Исааком Ньютоном."
+      }
+    ]
+  },
+  {
+    "id": 8007,
+    "question_de": "Was war der Amerikanische Bürgerkrieg (1861–1865) und worum ging es dabei?",
+    "question_ru": "Что такое Гражданская война в Америке (1861–1865) и о чём она была?",
+    "correct_answer_de": "Krieg zwischen Nord- und Südstaaten der USA – hauptsächlich um die Abschaffung der Sklaverei",
+    "correct_answer_ru": "Война между северными и южными штатами США — главным образом об отмене рабства",
+    "wrong_answers_de": ["Krieg der USA gegen England um die Unabhängigkeit", "Krieg zwischen den USA und Mexiko um Texas", "Bürgerkrieg zwischen Republikanern und Demokraten um die Hauptstadt"],
+    "wrong_answers_ru": ["Война США против Англии за независимость", "Война между США и Мексикой за Техас", "Гражданская война между республиканцами и демократами за столицу"],
+    "explanation_de": "Die Südstaaten wollten die Sklaverei erhalten und traten aus der Union aus (Konföderation). Präsident Lincoln führte den Norden zum Sieg. 1865 wurde Sklaverei mit dem 13. Zusatz zur Verfassung abgeschafft.",
+    "explanation_ru": "Южные штаты хотели сохранить рабство и вышли из союза (Конфедерация). Президент Линкольн привёл Север к победе. В 1865 году рабство было отменено 13-й поправкой к Конституции.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1863 CE",
+    "tags": ["Amerika", "Krieg"],
+    "interesting_facts": [
+      {
+        "de": "Der Krieg forderte über 620.000 Menschenleben – mehr als alle anderen amerikanischen Kriege zusammen.",
+        "ru": "Война унесла более 620 000 жизней — больше, чем все остальные американские войны вместе взятые."
+      },
+      {
+        "de": "Lincoln wurde 1865, kurz nach dem Ende des Krieges, ermordet – im Ford's Theatre in Washington.",
+        "ru": "Линкольн был убит в 1865 году, вскоре после окончания войны, — в театре Форда в Вашингтоне."
+      },
+      {
+        "de": "Die Emanzipationsproklamation von 1863 erklärte die Sklaven in den Südstaaten für frei – als Kriegsmittel.",
+        "ru": "Прокламация об освобождении 1863 года объявила рабов в южных штатах свободными — как военную меру."
+      }
+    ]
+  },
+  {
+    "id": 8008,
+    "question_de": "Was war die Pariser Commune von 1871 und warum ist sie historisch bedeutsam?",
+    "question_ru": "Что такое Парижская коммуна 1871 года и почему она исторически значима?",
+    "correct_answer_de": "Eine kurzlebige revolutionäre Stadtregierung in Paris – erste Erfahrung einer Arbeiterregierung in der Geschichte",
+    "correct_answer_ru": "Кратковременное революционное городское правительство в Париже — первый опыт рабочего правительства в истории",
+    "wrong_answers_de": ["Die Gründung der dritten Französischen Republik nach Napoleon III.", "Ein Aufstand der Pariser Aristokratie gegen die Republik", "Das erste demokratisch gewählte Stadtparlament Frankreichs 1870"],
+    "wrong_answers_ru": ["Основание Третьей Французской республики после Наполеона III", "Восстание парижской аристократии против республики", "Первый демократически избранный городской парламент Франции в 1870 году"],
+    "explanation_de": "Nach dem deutsch-französischen Krieg übernahmen Pariser Arbeiter und Radikale kurz die Macht (März–Mai 1871). Die Regierung ließ die Commune gewaltsam niederschlagen – etwa 10.000 Kommunarden wurden getötet.",
+    "explanation_ru": "После франко-прусской войны парижские рабочие и радикалы ненадолго захватили власть (март — май 1871 года). Правительство жестоко подавило Коммуну — около 10 000 коммунаров было убито.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1871 CE",
+    "tags": ["Frankreich", "Politik", "Revolution"],
+    "interesting_facts": [
+      {
+        "de": "Die Kommunarden brannten das Rathaus und die Tuilerien ab – bevor die Truppen einmarschierten.",
+        "ru": "Коммунары сожгли ратушу и дворец Тюильри — прежде чем вошли войска."
+      },
+      {
+        "de": "Marx feierte die Commune als 'Diktatur des Proletariats' – obwohl sie nur 72 Tage dauerte.",
+        "ru": "Маркс приветствовал Коммуну как «диктатуру пролетариата» — хотя она длилась всего 72 дня."
+      },
+      {
+        "de": "Die Vendôme-Säule (Napoleon-Denkmal) wurde von der Commune gestürzt und später wieder aufgebaut.",
+        "ru": "Вандомская колонна (памятник Наполеону) была снесена Коммуной и позже восстановлена."
+      }
+    ]
+  },
+  {
+    "id": 8009,
+    "question_de": "Wer war Otto von Bismarck und welche Rolle spielte er im 19. Jahrhundert?",
+    "question_ru": "Кто такой Отто фон Бисмарк и какую роль он играл в XIX веке?",
+    "correct_answer_de": "Preußisch-deutscher Staatsmann (1815–1898) – er einte Deutschland und dominierte die europäische Politik",
+    "correct_answer_ru": "Прусско-германский государственный деятель (1815–1898) — объединил Германию и доминировал в европейской политике",
+    "wrong_answers_de": ["Österreichischer Feldmarschall, der Napoleons Niederlage herbeiführte", "Revolutionärer Volksführer, der 1848 die deutsche Republik ausrief", "Preußischer König, der Deutschland per Volksabstimmung einte"],
+    "wrong_answers_ru": ["Австрийский фельдмаршал, добившийся поражения Наполеона", "Революционный народный вождь, провозгласивший германскую республику в 1848 году", "Прусский король, объединивший Германию через народное голосование"],
+    "explanation_de": "Bismarck war von 1862 bis 1890 Ministerpräsident Preußens und Reichskanzler. Er führte drei Kriege zur Einigung Deutschlands und sicherte Frieden durch ein komplexes Bündnissystem.",
+    "explanation_ru": "Бисмарк с 1862 по 1890 год был министром-президентом Пруссии и рейхсканцлером. Он провёл три войны ради объединения Германии и обеспечивал мир сложной системой союзов.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1870 CE",
+    "tags": ["Deutschland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Bismarck führte 1883 die staatliche Krankenversicherung ein – um die Sozialisten zu beschwichtigen.",
+        "ru": "Бисмарк в 1883 году ввёл государственное медицинское страхование — чтобы умиротворить социалистов."
+      },
+      {
+        "de": "Kaiser Wilhelm II. entließ Bismarck 1890 – er wollte selbst regieren. Deutschland verlor damit sein stabilisierendes Genie.",
+        "ru": "Кайзер Вильгельм II уволил Бисмарка в 1890 году — он хотел управлять сам. Германия потеряла своего стабилизирующего гения."
+      },
+      {
+        "de": "Bismarck wurde 'Eiserner Kanzler' genannt – wegen seines harten politischen Stils.",
+        "ru": "Бисмарка называли «Железным канцлером» — за его жёсткий политический стиль."
+      }
+    ]
+  },
+  {
+    "id": 8010,
+    "question_de": "Was war die Abschaffung der Sklaverei in den USA und wann fand sie statt?",
+    "question_ru": "Что такое отмена рабства в США и когда она произошла?",
+    "correct_answer_de": "1865 durch den 13. Zusatzartikel zur US-Verfassung – nach dem Ende des Bürgerkriegs",
+    "correct_answer_ru": "В 1865 году посредством 13-й поправки к Конституции США — после окончания Гражданской войны",
+    "wrong_answers_de": ["1808 durch ein Gesetz des Kongresses – nach Englands Vorbild", "1776 mit der Unabhängigkeitserklärung – alle Menschen wurden für gleich erklärt", "1820 durch den Missouri-Kompromiss – Sklaverei wurde auf den Süden beschränkt"],
+    "wrong_answers_ru": ["В 1808 году законом Конгресса — по примеру Англии", "В 1776 году с Декларацией независимости — все люди были объявлены равными", "В 1820 году Миссурийским компромиссом — рабство было ограничено югом"],
+    "explanation_de": "Präsident Lincoln erließ 1863 die Emanzipationsproklamation (Kriegsmittel). Die vollständige Abschaffung erfolgte 1865 durch den 13. Zusatzartikel. Doch die Gleichberechtigung der Schwarzen ließ noch ein Jahrhundert auf sich warten.",
+    "explanation_ru": "Президент Линкольн в 1863 году издал Прокламацию об освобождении (как военную меру). Полная отмена произошла в 1865 году через 13-ю поправку. Однако равноправие чернокожих наступило ещё через столетие.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1865 CE",
+    "tags": ["Amerika", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Nach dem Bürgerkrieg wurden ehemalige Sklaven kurzfristig Kongressabgeordnete und Bürgermeister – bevor Jim-Crow-Gesetze sie wieder unterdrückten.",
+        "ru": "После Гражданской войны бывшие рабы ненадолго стали конгрессменами и мэрами — до того как законы Джима Кроу снова их подавили."
+      },
+      {
+        "de": "Der Begriff 'Underground Railroad' bezeichnete ein Netzwerk von Helfern, das Sklaven vor 1865 in den Norden flüchtete.",
+        "ru": "Понятие «Подземная железная дорога» обозначало сеть помощников, переправлявших рабов на север до 1865 года."
+      },
+      {
+        "de": "Harriet Tubman befreite als ehemalige Sklavin fast 300 Menschen auf der Underground Railroad.",
+        "ru": "Гарриет Табман, бывшая рабыня, освободила почти 300 человек через «Подземную железную дорогу»."
+      }
+    ]
+  },
+  {
+    "id": 8011,
+    "question_de": "Was war der Krimkrieg (1853–1856) und welche Mächte waren beteiligt?",
+    "question_ru": "Что такое Крымская война (1853–1856) и какие державы участвовали?",
+    "correct_answer_de": "Krieg auf der Krim – Osmanisches Reich, England, Frankreich gegen Russland",
+    "correct_answer_ru": "Война в Крыму — Османская империя, Англия, Франция против России",
+    "wrong_answers_de": ["Krieg zwischen Russland und Japan um Gebiete in Ostasien", "Krieg zwischen Österreich und Preußen um die Vorherrschaft in Deutschland", "Krieg zwischen England und Russland in Indien um den 'Great Game'"],
+    "wrong_answers_ru": ["Война между Россией и Японией за территории в Восточной Азии", "Война между Австрией и Пруссией за господство в Германии", "Война между Англией и Россией в Индии за «Большую игру»"],
+    "explanation_de": "Russland wollte die Kontrolle über osmanische Territorien ausweiten. England und Frankreich griffen ein, um russische Macht zu begrenzen. Der Krieg wurde bekannt durch Florence Nightingales Krankenpflege und verheerende Logistikprobleme.",
+    "explanation_ru": "Россия хотела расширить контроль над османскими территориями. Англия и Франция вмешались, чтобы ограничить российскую мощь. Война прославилась сестринским уходом Флоренс Найтингейл и катастрофическими логистическими проблемами.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1854 CE",
+    "tags": ["Krieg", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Florence Nightingale revolutionierte die Krankenpflege auf dem Kriegsschauplatz und senkte die Sterblichkeit dramatisch.",
+        "ru": "Флоренс Найтингейл революционизировала сестринский уход на театре военных действий и резко снизила смертность."
+      },
+      {
+        "de": "Die berühmte 'Charge of the Light Brigade' (Angriff der leichten Brigade) war ein militärisches Desaster durch falsche Befehle.",
+        "ru": "Знаменитая «Атака лёгкой бригады» стала военной катастрофой из-за ошибочного приказа."
+      },
+      {
+        "de": "Russland verlor und musste Modernisierungsreformen einleiten – was zur Abschaffung der Leibeigenschaft 1861 führte.",
+        "ru": "Россия проиграла и была вынуждена проводить реформы модернизации — что привело к отмене крепостного права в 1861 году."
+      }
+    ]
+  },
+  {
+    "id": 8012,
+    "question_de": "Was war die Einigung Italiens (Risorgimento) und wann fand sie statt?",
+    "question_ru": "Что такое объединение Италии (Рисорджименто) и когда оно произошло?",
+    "correct_answer_de": "Die Vereinigung der italienischen Staaten 1861 – angeführt von Garibaldi, Cavour und Viktor Emanuel II.",
+    "correct_answer_ru": "Объединение итальянских государств в 1861 году — под руководством Гарибальди, Кавура и Виктора Эммануила II",
+    "wrong_answers_de": ["Die Rückeroberung Roms von den Osmanen 1870 durch Papst Pius IX.", "Die demokratische Vereinigung durch Volksabstimmungen 1848 nach den Revolutionen", "Die napoleonische Eingliederung Italiens ins Französische Kaiserreich 1810"],
+    "wrong_answers_ru": ["Отвоевание Рима у османов в 1870 году папой Пием IX", "Демократическое объединение через народные референдумы в 1848 году после революций", "Наполеоновское включение Италии во Французскую империю в 1810 году"],
+    "explanation_de": "Giuseppe Garibaldi führte mit seinen 'Tausend Rotjacken' (Risorgimento) Süditalien. Cavour diplomasierte Piemont-Sardinien zur Führungsmacht. 1861 wurde das Königreich Italien ausgerufen, 1870 kam Rom hinzu.",
+    "explanation_ru": "Джузеппе Гарибальди с тысячей «краснорубашечников» завоевал Южную Италию. Кавур дипломатически сделал Пьемонт-Сардинию ведущей державой. В 1861 году было провозглашено Итальянское королевство, в 1870-м к нему присоединился Рим.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1861 CE",
+    "tags": ["Italien", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Garibaldi war so beliebt, dass ihm Queen Victoria anbot, englischer Oberbefehlshaber zu werden – er lehnte ab.",
+        "ru": "Гарибальди был столь популярен, что королева Виктория предложила ему стать английским главнокомандующим — он отказался."
+      },
+      {
+        "de": "Der Papst verlor mit Roms Einverleibung 1870 den Kirchenstaat – er blieb bis 1929 'Gefangener im Vatikan'.",
+        "ru": "С включением Рима в 1870 году папа утратил Папскую область — он оставался «пленником Ватикана» до 1929 года."
+      },
+      {
+        "de": "Das Wort 'Risorgimento' bedeutet auf Italienisch 'Wiedergeburt' – ähnlich wie Renaissance.",
+        "ru": "Слово «рисорджименто» по-итальянски означает «возрождение» — как и «ренессанс»."
+      }
+    ]
+  },
+  {
+    "id": 8013,
+    "question_de": "Was erfand Thomas Edison und welchen Einfluss hatte er?",
+    "question_ru": "Что изобрёл Томас Эдисон и какое влияние он оказал?",
+    "correct_answer_de": "Amerikanischer Erfinder (1847–1931) – Glühbirne (1879), Phonograph, Filmkamera; über 1.000 Patente",
+    "correct_answer_ru": "Американский изобретатель (1847–1931) — лампа накаливания (1879), фонограф, кинокамера; более 1000 патентов",
+    "wrong_answers_de": ["Englischer Physiker – er entdeckte die elektromagnetische Induktion", "Deutsches Genie – er erfand das Radio und den Dieselmotor", "Amerikanischer Chemiker – er synthetisierte Kunststoffe und Nylon"],
+    "wrong_answers_ru": ["Английский физик — открыл электромагнитную индукцию", "Немецкий гений — изобрёл радио и дизельный двигатель", "Американский химик — синтезировал пластмассы и нейлон"],
+    "explanation_de": "Edisons Menlo-Park-Labor war das erste industrielle Forschungslabor. Er erfand nicht nur die Glühbirne, sondern auch das elektrische Energienetz. Sein 'Stromkrieg' mit Tesla/Westinghouse (AC vs. DC) verlor er.",
+    "explanation_ru": "Лаборатория Эдисона в Менло-Парке была первой промышленной исследовательской лабораторией. Он изобрёл не только лампу накаливания, но и электрическую энергосистему. «Войну токов» с Теслой/Вестингаузом (переменный против постоянного) он проиграл.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1879 CE",
+    "tags": ["Erfindungen", "Amerika", "Wissenschaft"],
+    "interesting_facts": [
+      {
+        "de": "Edison schlief angeblich nur 4 Stunden pro Nacht – Nickerchen im Labor einberechnet.",
+        "ru": "Эдисон якобы спал всего 4 часа в сутки — с учётом дремоты в лаборатории."
+      },
+      {
+        "de": "Als Schüler wurde Edison entlassen – der Lehrer hielt ihn für zu schwer von Begriff.",
+        "ru": "Из школы Эдисона выгнали — учитель счёл его слишком тугодумным."
+      },
+      {
+        "de": "Edison sagte: 'Genie ist 1 % Inspiration und 99 % Transpiration.'",
+        "ru": "Эдисон говорил: «Гений — это 1% вдохновения и 99% пота»."
+      }
+    ]
+  },
+  {
+    "id": 8014,
+    "question_de": "Was war die 'Scramble for Africa' (Wettlauf um Afrika) im späten 19. Jahrhundert?",
+    "question_ru": "Что такое «схватка за Африку» в конце XIX века?",
+    "correct_answer_de": "Die rasche Aufteilung Afrikas unter europäische Kolonialmächte zwischen 1880 und 1914",
+    "correct_answer_ru": "Стремительный раздел Африки между европейскими колониальными державами с 1880 по 1914 год",
+    "wrong_answers_de": ["Ein Handelswettbewerb zwischen europäischen Kaufleuten in Nordafrika", "Der Kampf afrikanischer Stämme untereinander um fruchtbares Land", "Die Missionierungsbewegung christlicher Kirchen in Subsahara-Afrika"],
+    "wrong_answers_ru": ["Торговое соревнование европейских купцов в Северной Африке", "Борьба африканских племён между собой за плodородные земли", "Миссионерское движение христианских церквей в Африке к югу от Сахары"],
+    "explanation_de": "Auf der Berliner Konferenz 1884/85 teilten europäische Mächte Afrika auf – ohne Afrikaner zu befragen. Bis 1914 kontrollierten sie 90 % Afrikas. Nur Äthiopien und Liberia blieben unabhängig.",
+    "explanation_ru": "На Берлинской конференции 1884/85 годов европейские державы поделили Африку — не спрашивая африканцев. К 1914 году они контролировали 90% Африки. Независимыми остались лишь Эфиопия и Либерия.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1884 CE",
+    "tags": ["Afrika", "Europa", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Die Berliner Konferenz wurde von Bismarck geleitet – kein einziger Afrikaner war anwesend.",
+        "ru": "Берлинская конференция проводилась под руководством Бисмарка — ни одного африканца на ней не было."
+      },
+      {
+        "de": "Äthiopien besiegte 1896 die Italiener in der Schlacht von Adua – und blieb unabhängig.",
+        "ru": "Эфиопия в 1896 году победила итальянцев в битве при Адуа — и сохранила независимость."
+      },
+      {
+        "de": "Die willkürlichen Kolonialgrenzen ignorierten ethnische und kulturelle Zusammenhänge – viele heutige Konflikte haben hier ihre Wurzeln.",
+        "ru": "Произвольные колониальные границы игнорировали этнические и культурные связи — корни многих нынешних конфликтов здесь."
+      }
+    ]
+  },
+  {
+    "id": 8015,
+    "question_de": "Was war die Meiji-Restauration in Japan (1868) und was bewirkte sie?",
+    "question_ru": "Что такое реставрация Мэйдзи в Японии (1868) и что она изменила?",
+    "correct_answer_de": "Japans rasche Modernisierung nach westlichem Vorbild – aus einem Feudalstaat wurde eine Industriemacht",
+    "correct_answer_ru": "Стремительная модернизация Японии по западному образцу — из феодального государства возникла промышленная держава",
+    "wrong_answers_de": ["Die Öffnung Japans für westlichen Handel durch Admiral Perry 1853", "Die japanische Restauration der buddhistischen Kaiserherrschaft im 14. Jahrhundert", "Die gewaltsame Verwestlichung durch amerikanische Besatzung 1868"],
+    "wrong_answers_ru": ["Открытие Японии для западной торговли адмиралом Перри в 1853 году", "Японская реставрация буддийской императорской власти в XIV веке", "Принудительная вестернизация в результате американской оккупации в 1868 году"],
+    "explanation_de": "Kaiser Meiji modernisierte Japan nach westlichem Vorbild: Eisenbahnen, westliche Uniformen und Verfassung, industrielle Rüstung. In 30 Jahren wurde Japan zur Großmacht – und besiegte 1905 Russland.",
+    "explanation_ru": "Император Мэйдзи модернизировал Японию по западному образцу: железные дороги, западные мундиры и конституция, промышленное вооружение. За 30 лет Япония стала великой державой — и в 1905 году победила Россию.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1868 CE",
+    "tags": ["Wirtschaft", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Japan schickte Gelehrte (Iwakura-Mission) nach Europa und Amerika, um Institutionen zu studieren.",
+        "ru": "Япония направила учёных (миссия Ивакура) в Европу и Америку для изучения государственных институтов."
+      },
+      {
+        "de": "Der Samurai-Stand wurde abgeschafft – was zu Aufständen führte, die brutal niedergeschlagen wurden.",
+        "ru": "Сословие самураев было упразднено — что привело к восстаниям, жестоко подавленным."
+      },
+      {
+        "de": "Japans Sieg über China 1895 und Russland 1905 zeigte der Welt, dass eine asiatische Macht eine europäische besiegen konnte.",
+        "ru": "Победа Японии над Китаем в 1895 году и Россией в 1905-м показала миру, что азиатская держава может победить европейскую."
+      }
+    ]
+  },
+  {
+    "id": 8016,
+    "question_de": "Was war der Suezkanal und warum war er strategisch so wichtig?",
+    "question_ru": "Что такое Суэцкий канал и почему он был столь стратегически важен?",
+    "correct_answer_de": "Ein 1869 eröffneter Kanal in Ägypten, der das Mittelmeer mit dem Roten Meer verbindet – kürzerer Weg nach Asien",
+    "correct_answer_ru": "Открытый в 1869 году канал в Египте, соединяющий Средиземное море с Красным — более короткий путь в Азию",
+    "wrong_answers_de": ["Ein Kanal in Panama, der den Atlantik mit dem Pazifik verbindet (1914)", "Ein Kanal am Nil, der das Nildelta mit dem Landesinneren verbindet", "Ein Tunnel unter dem Ärmelkanal zwischen England und Frankreich"],
+    "wrong_answers_ru": ["Канал в Панаме, соединяющий Атлантику с Тихим океаном (1914)", "Канал на Ниле, соединяющий дельту Нила с внутренними районами страны", "Тоннель под Ла-Маншем между Англией и Францией"],
+    "explanation_de": "Der Suezkanal (erbaut von Ferdinand de Lesseps) verkürzte den Seeweg von England nach Indien um 7.000 km. England kaufte 1875 die Mehrheitsanteile – Ägypten wurde praktisch britisches Protektorat.",
+    "explanation_ru": "Суэцкий канал (построенный Фердинандом де Лессепсом) сократил морской путь из Англии в Индию на 7 000 км. В 1875 году Англия купила контрольный пакет акций — Египет фактически стал британским протекторатом.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1869 CE",
+    "tags": ["Wirtschaft", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "120.000 Ägypter arbeiteten am Kanalbau – viele starben an Cholera und Erschöpfung.",
+        "ru": "120 000 египтян работали на строительстве канала — многие умерли от холеры и истощения."
+      },
+      {
+        "de": "1956 verstaatlichte Nassers Ägypten den Kanal – was die Suez-Krise und britisch-französisch-israelische Invasion auslöste.",
+        "ru": "В 1956 году Египет Насера национализировал канал — что спровоцировало Суэцкий кризис и англо-франко-израильское вторжение."
+      },
+      {
+        "de": "Der Suezkanal ist noch heute einer der meistbefahrenen Schifffahrtswege der Welt.",
+        "ru": "Суэцкий канал и сегодня является одним из самых оживлённых судоходных путей мира."
+      }
+    ]
+  },
+  {
+    "id": 8017,
+    "question_de": "Was war die Russische Leibeigenschaft und wann wurde sie abgeschafft?",
+    "question_ru": "Что такое крепостное право в России и когда оно было отменено?",
+    "correct_answer_de": "Ein System halbsklavenhafter Abhängigkeit der Bauern – abgeschafft 1861 durch Zar Alexander II.",
+    "correct_answer_ru": "Система полурабской зависимости крестьян — отменена в 1861 году царём Александром II",
+    "wrong_answers_de": ["Ein Feudalsystem, das in Russland bereits 1789 nach der Französischen Revolution abgeschafft wurde", "Eine Art Schuldknechtschaft, die 1825 nach dem Dekabristenaufstand endete", "Ein religiöses Kastensystem, das durch die orthodoxe Kirche 1900 aufgehoben wurde"],
+    "wrong_answers_ru": ["Феодальная система, отменённая в России ещё в 1789 году после Французской революции", "Вид долговой кабалы, прекратившейся в 1825 году после восстания декабристов", "Религиозная кастовая система, упразднённая православной церковью в 1900 году"],
+    "explanation_de": "Die russischen Leibeigenen waren an das Land gebunden und gehörten faktisch dem Adel. Zar Alexander II. schaffte die Leibeigenschaft nach der Niederlage im Krimkrieg ab – aber die Bauern mussten ihr Land teuer 'freikaufen'.",
+    "explanation_ru": "Русские крепостные были прикреплены к земле и фактически принадлежали дворянству. Царь Александр II отменил крепостное право после поражения в Крымской войне — но крестьяне должны были дорого «выкупать» свою землю.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1861 CE",
+    "tags": ["Gesellschaft", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Russland hatte bis 1861 mehr Leibeigene als Amerika Sklaven hatte – bis zu 23 Millionen.",
+        "ru": "До 1861 года в России было больше крепостных, чем рабов в Америке, — до 23 миллионов."
+      },
+      {
+        "de": "Die Freilassung ohne wirtschaftliche Freiheit führte zur Armut der Bauern und nährte die Revolution.",
+        "ru": "Освобождение без экономической свободы привело к нищете крестьян и питало революцию."
+      },
+      {
+        "de": "Alexander II. wurde 1881 von Revolutionären mit einer Bombe getötet – trotz seiner Reformen.",
+        "ru": "Александр II был убит революционерами бомбой в 1881 году — несмотря на свои реформы."
+      }
+    ]
+  },
+  {
+    "id": 8018,
+    "question_de": "Was war das Telefon und wer erfand es?",
+    "question_ru": "Что такое телефон и кто его изобрёл?",
+    "correct_answer_de": "Alexander Graham Bell meldete 1876 das Patent für das Telefon an",
+    "correct_answer_ru": "Александр Грэм Белл в 1876 году запатентовал телефон",
+    "wrong_answers_de": ["Thomas Edison erfand das Telefon 1879 zusammen mit der Glühbirne", "Nikola Tesla entwickelte das Telefon als Nebenprojekt der Radiowellen", "Samuel Morse erfand das Telefon als Weiterentwicklung des Telegraphen"],
+    "wrong_answers_ru": ["Томас Эдисон изобрёл телефон в 1879 году вместе с лампой накаливания", "Никола Тесла разработал телефон как побочный проект радиоволн", "Сэмюэл Морзе изобрёл телефон как развитие телеграфа"],
+    "explanation_de": "Bell meldete sein Patent am 14. Februar 1876 an – nur zwei Stunden vor seinem Konkurrenten Elisha Gray. Das erste Wort per Telefon: 'Mr. Watson – come here – I want to see you.' Das Telefon veränderte die Kommunikation grundlegend.",
+    "explanation_ru": "Белл подал заявку на патент 14 февраля 1876 года — всего на два часа раньше конкурента Элиши Грея. Первые слова по телефону: «Мистер Уотсон — подойдите сюда — я хочу вас видеть». Телефон коренным образом изменил коммуникацию.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1876 CE",
+    "tags": ["Erfindungen", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Bell selbst benutzte das Telefon nie in seinem Büro – er fand es störend.",
+        "ru": "Сам Белл никогда не пользовался телефоном в своём кабинете — он находил его отвлекающим."
+      },
+      {
+        "de": "Elisha Gray und Antonio Meucci stritten jahrelang um den Ruhm der Erfindung – Meucci hatte es früher entwickelt, konnte aber keine Patentgebühr zahlen.",
+        "ru": "Элиша Грей и Антонио Меуччи годами спорили о первенстве — Меуччи разработал его раньше, но не мог заплатить патентную пошлину."
+      },
+      {
+        "de": "25 Jahre nach der Erfindung gab es bereits 10 Millionen Telefone weltweit.",
+        "ru": "Через 25 лет после изобретения в мире уже было 10 миллионов телефонов."
+      }
+    ]
+  },
+  {
+    "id": 8019,
+    "question_de": "Wer war Louis Pasteur und welchen Beitrag leistete er zur Medizin?",
+    "question_ru": "Кто такой Луи Пастер и какой вклад он внёс в медицину?",
+    "correct_answer_de": "Französischer Chemiker und Mikrobiologe (1822–1895) – begründete die Keimtheorie der Krankheiten und entwickelte Impfungen",
+    "correct_answer_ru": "Французский химик и микробиолог (1822–1895) — обосновал микробную теорию болезней и разработал вакцины",
+    "wrong_answers_de": ["Englischer Arzt, der 1847 das Antiseptikum Jod in Krankenhäusern einführte", "Deutsches Genie, das die Röntgenstrahlen entdeckte und Tuberkulose heilte", "Österreichischer Wissenschaftler, der Blutgruppen entdeckte"],
+    "wrong_answers_ru": ["Английский врач, внедривший в 1847 году антисептик йод в больницах", "Немецкий гений, открывший рентгеновские лучи и вылечивший туберкулёз", "Австрийский учёный, открывший группы крови"],
+    "explanation_de": "Pasteur bewies, dass Mikroorganismen Krankheiten verursachen (Keimtheorie). Er entwickelte die Pasteurisierung und Impfungen gegen Hühnercholera, Milzbrand und Tollwut. Seine Arbeit rettete Millionen Leben.",
+    "explanation_ru": "Пастер доказал, что микроорганизмы вызывают болезни (микробная теория). Он разработал пастеризацию и вакцины против куриной холеры, сибирской язвы и бешенства. Его работа спасла миллионы жизней.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1865 CE",
+    "tags": ["Wissenschaft", "Frankreich", "Medizin"],
+    "interesting_facts": [
+      {
+        "de": "Pasteur rettete die französische Weinwirtschaft, indem er nachwies, dass Gärung durch Hefe entsteht – nicht spontan.",
+        "ru": "Пастер спас французское виноделие, доказав, что брожение вызывается дрожжами, а не происходит самопроизвольно."
+      },
+      {
+        "de": "Er behandelte 1885 erfolgreich einen von einem tollwütigen Hund gebissenen Jungen – sein erster menschlicher Patient.",
+        "ru": "В 1885 году он успешно вылечил мальчика, укушенного бешеной собакой, — своего первого человеческого пациента."
+      },
+      {
+        "de": "Das Pasteur-Institut in Paris ist heute noch eines der führenden Forschungszentren der Welt.",
+        "ru": "Институт Пастера в Париже и сегодня остаётся одним из ведущих исследовательских центров мира."
+      }
+    ]
+  },
+  {
+    "id": 8020,
+    "question_de": "Was war der Impressionismus in der Kunst des 19. Jahrhunderts?",
+    "question_ru": "Что такое импрессионизм в искусстве XIX века?",
+    "correct_answer_de": "Ein französischer Malstil – Farbe und Licht statt exakter Details, oft im Freien gemalt",
+    "correct_answer_ru": "Французский стиль живописи — цвет и свет вместо точных деталей, часто написанный на пленэре",
+    "wrong_answers_de": ["Ein realistischer Kunststil, der industrielle Szenen detailgenau darstellt", "Ein expressiver Kunststil aus Deutschland mit starken Emotionen und verzerrten Formen", "Ein romantischer Kunststil, der idealisierte Natur und Heldenmythen darstellt"],
+    "wrong_answers_ru": ["Реалистический художественный стиль, детально изображающий промышленные сцены", "Экспрессивный художественный стиль из Германии с сильными эмоциями и искажёнными формами", "Романтический художественный стиль, изображающий идеализированную природу и героические мифы"],
+    "explanation_de": "Monet, Renoir, Degas, Pissarro – die Impressionisten malten schnelle Eindrücke statt perfekter Realität. Ihr Name kam von Monets Bild 'Impression, soleil levant'. Die Académie lehnte sie zunächst ab – sie wurden revolutionär.",
+    "explanation_ru": "Моне, Ренуар, Дега, Писсарро — импрессионисты писали мгновенные впечатления вместо совершенной реальности. Название они получили от картины Моне «Впечатление. Восходящее солнце». Академия поначалу отвергала их — они стали революционерами.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1875 CE",
+    "tags": ["Kunst", "Frankreich"],
+    "interesting_facts": [
+      {
+        "de": "Kritiker spotteten über Monets 'Impression' – der Begriff 'Impressionismus' war ursprünglich abwertend.",
+        "ru": "Критики издевались над «Впечатлением» Моне — термин «импрессионизм» изначально был пренебрежительным."
+      },
+      {
+        "de": "Die Impressionisten nutzten erstmals Tubenfarben – so konnten sie im Freien malen.",
+        "ru": "Импрессионисты впервые использовали тюбики с красками — это позволяло им писать на пленэре."
+      },
+      {
+        "de": "Monets Seerosen-Serie (Nymphéas) umfasst 250 Gemälde – ein lebenslanges Projekt.",
+        "ru": "Серия «Кувшинки» (Nymphéas) Моне включает 250 картин — дело всей жизни."
+      }
+    ]
+  },
+  {
+    "id": 8021,
+    "question_de": "Was war die Dreyfus-Affäre (1894–1906) in Frankreich?",
+    "question_ru": "Что такое дело Дрейфуса (1894–1906) во Франции?",
+    "correct_answer_de": "Ein Justizskandal: Der jüdische Hauptmann Dreyfus wurde fälschlich des Verrats beschuldigt – Antisemitismus in Frankreich aufgedeckt",
+    "correct_answer_ru": "Судебный скандал: еврейский капитан Дрейфус был ложно обвинён в шпионаже — обнажившийся антисемитизм во Франции",
+    "wrong_answers_de": ["Der Mord an einem französischen General durch deutsche Spione 1894", "Ein Militärputsch republikanischer Offiziere gegen Kaiser Napoleon III.", "Ein Streik der Pariser Arbeiter, der von Militär unter General Dreyfus niedergeschlagen wurde"],
+    "wrong_answers_ru": ["Убийство французского генерала немецкими шпионами в 1894 году", "Военный переворот республиканских офицеров против императора Наполеона III", "Забастовка парижских рабочих, подавленная армией под командованием генерала Дрейфуса"],
+    "explanation_de": "Alfred Dreyfus wurde 1894 wegen Hochverrats verurteilt – auf Grundlage gefälschter Beweise. Émile Zola schrieb den offenen Brief 'J'accuse!' (Ich klage an!). Dreyfus wurde 1906 rehabilitiert. Die Affäre spaltete Frankreich.",
+    "explanation_ru": "Альфред Дрейфус был осуждён в 1894 году за государственную измену — на основе сфабрикованных доказательств. Эмиль Золя написал открытое письмо «Я обвиняю!». Дрейфус был реабилитирован в 1906 году. Дело расколо Францию.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1894 CE",
+    "tags": ["Frankreich", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Theodor Herzl berichtete als Journalist über den Dreyfus-Prozess und gründete danach den Zionismus.",
+        "ru": "Теодор Герцль освещал процесс Дрейфуса как журналист — и после этого основал сионизм."
+      },
+      {
+        "de": "Zolas Brief 'J'accuse!' erschien am 13. Januar 1898 auf der Titelseite der Zeitung L'Aurore.",
+        "ru": "Письмо Золя «Я обвиняю!» появилось 13 января 1898 года на первой полосе газеты L'Aurore."
+      },
+      {
+        "de": "Die Affäre führte zur Trennung von Kirche und Staat in Frankreich (1905).",
+        "ru": "Дело привело к отделению церкви от государства во Франции (1905)."
+      }
+    ]
+  },
+  {
+    "id": 8022,
+    "question_de": "Was war die Frauenbewegung (Suffragetten) im späten 19. und frühen 20. Jahrhundert?",
+    "question_ru": "Что такое женское движение (суфражистки) в конце XIX — начале XX века?",
+    "correct_answer_de": "Eine Bewegung für das Frauenwahlrecht – besonders aktiv in England und den USA",
+    "correct_answer_ru": "Движение за избирательное право женщин — особенно активное в Англии и США",
+    "wrong_answers_de": ["Eine religiöse Bewegung für mehr Klöster und Frauenorden", "Ein Gewerkschaftskampf für gleichen Lohn in Industriebetrieben", "Eine Bildungsbewegung für staatliche Mädchenschulen"],
+    "wrong_answers_ru": ["Религиозное движение за большее количество монастырей и женских орденов", "Профсоюзная борьба за равную оплату труда на промышленных предприятиях", "Образовательное движение за государственные школы для девочек"],
+    "explanation_de": "Emmeline Pankhurst gründete 1903 in England die WSPU. Suffragetten demonstrierten, hungerten in Gefängnissen, ketteten sich an. England gab Frauen 1918 (über 30) das Wahlrecht, die USA 1920 (19. Zusatzartikel).",
+    "explanation_ru": "Эммелин Панкхёрст основала в 1903 году в Англии WSPU. Суфражистки демонстрировали, голодали в тюрьмах, приковывали себя цепями. Англия дала женщинам право голоса в 1918 году (старше 30), США — в 1920-м (19-я поправка).",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1890 CE",
+    "tags": ["Gesellschaft", "England", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Emily Wilding Davison starb 1913, als sie beim Epsom-Derby auf die Rennbahn lief und vom Pferd des Königs getroffen wurde.",
+        "ru": "Эмили Уайлдинг Дэвисон погибла в 1913 году, выбежав на дорожку на Эпсомском дерби, где её сбила лошадь короля."
+      },
+      {
+        "de": "Neuseeland war 1893 das erste Land, das Frauen das Wahlrecht gab.",
+        "ru": "Новая Зеландия в 1893 году стала первой страной, предоставившей женщинам право голоса."
+      },
+      {
+        "de": "In Frankreich durften Frauen erst 1944 wählen – trotz der Erklärung der Menschenrechte von 1789.",
+        "ru": "Во Франции женщины получили право голоса лишь в 1944 году — несмотря на Декларацию прав человека 1789 года."
+      }
+    ]
+  },
+  {
+    "id": 8023,
+    "question_de": "Was war die 'Pax Britannica' im 19. Jahrhundert?",
+    "question_ru": "Что такое «Пакс Британника» в XIX веке?",
+    "correct_answer_de": "Eine relative Friedensperiode unter britischer Seemachtdominanz (ca. 1815–1914)",
+    "correct_answer_ru": "Период относительного мира под доминированием британской морской мощи (прибл. 1815–1914)",
+    "wrong_answers_de": ["Ein Friedensvertrag Großbritanniens mit dem Osmanischen Reich 1856", "Die britische Innenpolitik des Freihandels ab 1846", "Ein diplomatisches Abkommen zwischen England und Frankreich zur Aufteilung der Kolonien"],
+    "wrong_answers_ru": ["Мирный договор Великобритании с Османской империей в 1856 году", "Британская внутренняя политика свободной торговли с 1846 года", "Дипломатическое соглашение между Англией и Францией о разделе колоний"],
+    "explanation_de": "Das Britische Empire war nach dem Wiener Kongress die führende Weltmacht. Die Royal Navy dominierte die Meere. Zwischen 1815 und 1914 gab es keinen großen europäischen Krieg – daher 'Pax Britannica' (Britischer Friede).",
+    "explanation_ru": "После Венского конгресса Британская империя была ведущей мировой державой. Королевский флот господствовал на морях. Между 1815 и 1914 годами не было крупных европейских войн — отсюда «Пакс Британника».",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1850 CE",
+    "tags": ["England", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Auf dem Höhepunkt des British Empire lebten etwa 400 Millionen Menschen unter britischer Herrschaft – 23 % der Weltbevölkerung.",
+        "ru": "На пике Британской империи около 400 миллионов человек жили под британским управлением — 23% населения мира."
+      },
+      {
+        "de": "Die Royal Navy setzte nach 1807 aktiv die Abschaffung des Sklavenhandels durch – und patrouillierte die afrikanische Küste.",
+        "ru": "Королевский флот после 1807 года активно применял запрет работорговли — и патрулировал африканское побережье."
+      },
+      {
+        "de": "England führte nach 1846 Freihandel ein (Corn Laws) – was seine Industrie zur Weltfabrik machte.",
+        "ru": "Англия после 1846 года ввела свободную торговлю (хлебные законы) — что превратило её промышленность в мировую фабрику."
+      }
+    ]
+  },
+  {
+    "id": 8024,
+    "question_de": "Was war Sigmund Freuds wichtigster Beitrag zur Wissenschaft?",
+    "question_ru": "Каков важнейший вклад Зигмунда Фрейда в науку?",
+    "correct_answer_de": "Begründer der Psychoanalyse – das Unbewusste, Verdrängung, Traumdeutung als Methode der Psychotherapie",
+    "correct_answer_ru": "Основатель психоанализа — бессознательное, вытеснение, толкование сновидений как метод психотерапии",
+    "wrong_answers_de": ["Erfinder der Verhaltenstherapie durch Konditionierung (Pawlow)", "Begründer der Entwicklungspsychologie bei Kindern (Piaget)", "Entdecker der Neuronen und ihrer Funktion im Gehirn (Cajal)"],
+    "wrong_answers_ru": ["Изобретатель поведенческой терапии через обусловливание (Павлов)", "Основатель психологии развития у детей (Пиаже)", "Открыватель нейронов и их функции в мозге (Кахаль)"],
+    "explanation_de": "Freud entwickelte in Wien die Psychoanalyse: Das Unbewusste steuert unser Verhalten. Methoden: freie Assoziation und Traumdeutung. Obwohl viele Theorien heute umstritten sind, revolutionierte er das Verständnis der menschlichen Psyche.",
+    "explanation_ru": "Фрейд разработал в Вене психоанализ: бессознательное управляет нашим поведением. Методы: свободные ассоциации и толкование сновидений. Хотя многие теории сегодня спорны, он революционизировал понимание человеческой психики.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1900 CE",
+    "tags": ["Wissenschaft", "Österreich"],
+    "interesting_facts": [
+      {
+        "de": "Freuds Buch 'Die Traumdeutung' (1899) verkaufte sich im ersten Jahr nur 351 Mal.",
+        "ru": "Книга Фрейда «Толкование сновидений» (1899) в первый год продалась в количестве всего 351 экземпляра."
+      },
+      {
+        "de": "Freud rauchte täglich bis zu 20 Zigarren und entwickelte Mundhöhlenkrebs – operierte aber weiter.",
+        "ru": "Фрейд ежедневно выкуривал до 20 сигар и заболел раком полости рта — но продолжал работать."
+      },
+      {
+        "de": "1938 floh Freud vor den Nazis nach London – er starb dort 1939.",
+        "ru": "В 1938 году Фрейд бежал от нацистов в Лондон — и умер там в 1939 году."
+      }
+    ]
+  },
+  {
+    "id": 8025,
+    "question_de": "Was waren die Opiumkriege (1839–1842 und 1856–1860) und welche Folgen hatten sie für China?",
+    "question_ru": "Что такое Опиумные войны (1839–1842 и 1856–1860) и каковы были их последствия для Китая?",
+    "correct_answer_de": "Kriege Englands (und Frankreichs) gegen China, um Opiumhandel durchzusetzen – China verlor Territorien und Souveränität",
+    "correct_answer_ru": "Войны Англии (и Франции) против Китая ради навязывания торговли опиумом — Китай потерял территории и суверенитет",
+    "wrong_answers_de": ["Chinesische Kriege gegen den osmanischen Opiumhandel in Zentralasien", "Bürgerkriege in China zwischen Opiumhändlern und kaiserlichen Truppen", "Kriege zwischen Japan und China um die Kontrolle über den Opiumhandel"],
+    "wrong_answers_ru": ["Китайские войны против османской торговли опиумом в Центральной Азии", "Гражданские войны в Китае между торговцами опиумом и императорскими войсками", "Войны между Японией и Китаем за контроль над торговлей опиумом"],
+    "explanation_de": "England importierte illegal Opium aus Indien nach China. Als China es verbot, erklärte England Krieg. China musste Hongkong abtreten und ungleiche Verträge akzeptieren. Bis 1910 waren in China 10–20 Millionen Opiumsüchtige.",
+    "explanation_ru": "Англия нелегально ввозила опиум из Индии в Китай. Когда Китай запретил это, Англия объявила войну. Китай был вынужден уступить Гонконг и принять неравноправные договоры. К 1910 году в Китае было 10–20 миллионов наркозависимых.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1842 CE",
+    "tags": ["Krieg", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "England verteidigte den Opiumhandel mit 'Freihandel'-Argumenten – einer der zynischsten Fälle der Geschichte.",
+        "ru": "Англия защищала торговлю опиумом аргументами «свободной торговли» — один из самых циничных случаев в истории."
+      },
+      {
+        "de": "Hongkong blieb britische Kolonie bis 1997 – als Ergebnis des ersten Opiumkrieges.",
+        "ru": "Гонконг оставался британской колонией до 1997 года — как результат первой Опиумной войны."
+      },
+      {
+        "de": "Die Opiumkriege gelten in China bis heute als 'Jahrhundert der Demütigungen'.",
+        "ru": "Опиумные войны по сей день считаются в Китае частью «века унижений»."
+      }
+    ]
+  }
+]

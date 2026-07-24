@@ -1,0 +1,1796 @@
+[
+  {
+    "id": 401,
+    "question_ru": "В каком году была основана Римская республика?",
+    "question_de": "In welchem Jahr wurde die Römische Republik gegründet?",
+    "correct_answer_ru": "509 год до н.э.",
+    "correct_answer_de": "509 v. Chr.",
+    "wrong_answers_ru": [
+      "753 год до н.э.",
+      "27 год до н.э.",
+      "44 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "753 v. Chr.",
+      "27 v. Chr.",
+      "44 v. Chr."
+    ],
+    "explanation_ru": "Римская республика была основана в 509 году до н.э. после изгнания последнего римского царя Тарквиния Гордого. Это событие положило начало республиканской форме правления, которая просуществовала почти 500 лет. Республика характеризовалась разделением власти между консулами, сенатом и народными собраниями.",
+    "explanation_de": "Die Römische Republik wurde 509 v. Chr. nach der Vertreibung des letzten römischen Königs Tarquinius Superbus gegründet. Dieses Ereignis markierte den Beginn der republikanischen Regierungsform, die fast 500 Jahre bestand. Die Republik war durch die Gewaltenteilung zwischen Konsuln, Senat und Volksversammlungen gekennzeichnet.",
+    "interesting_facts": [
+      {
+        "ru": "Легенда гласит, что последний царь Тарквиний был изгнан после того, как его сын изнасиловал Лукрецию, жену знатного римлянина. Это событие вызвало восстание, которое привело к установлению республики. История Лукреции стала символом добродетели и чести в римской культуре.",
+        "de": "Der Legende nach wurde der letzte König Tarquinius vertrieben, nachdem sein Sohn Lucretia, die Frau eines edlen Römers, vergewaltigt hatte. Dieses Ereignis löste einen Aufstand aus, der zur Gründung der Republik führte. Die Geschichte der Lucretia wurde zu einem Symbol der Tugend und Ehre in der römischen Kultur."
+      },
+      {
+        "ru": "Республиканский период Рима считается золотым веком римской политической системы. В это время были созданы многие институты, которые повлияли на развитие западной демократии. Римская республика стала образцом для многих последующих государственных образований.",
+        "de": "Die republikanische Periode Roms gilt als goldenes Zeitalter des römischen politischen Systems. In dieser Zeit wurden viele Institutionen geschaffen, die die Entwicklung der westlichen Demokratie beeinflussten. Die Römische Republik wurde zum Vorbild für viele nachfolgende Staatsgebilde."
+      },
+      {
+        "ru": "Переход от монархии к республике был не мгновенным, а постепенным процессом. Первые годы республики были отмечены борьбой между патрициями и плебеями за политические права. Эта борьба привела к созданию более справедливой политической системы.",
+        "de": "Der Übergang von der Monarchie zur Republik war kein sofortiger, sondern ein allmählicher Prozess. Die ersten Jahre der Republik waren von Kämpfen zwischen Patriziern und Plebejern um politische Rechte geprägt. Dieser Kampf führte zur Schaffung eines gerechteren politischen Systems."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "509 BCE",
+    "tags": [
+      "республика",
+      "основание"
+    ]
+  },
+  {
+    "id": 402,
+    "question_ru": "Кто был легендарным основателем Рима?",
+    "question_de": "Wer war der legendäre Gründer Roms?",
+    "correct_answer_ru": "Ромул",
+    "correct_answer_de": "Romulus",
+    "wrong_answers_ru": [
+      "Рем",
+      "Эней",
+      "Нума Помпилий"
+    ],
+    "wrong_answers_de": [
+      "Remus",
+      "Äneas",
+      "Numa Pompilius"
+    ],
+    "explanation_ru": "Согласно римской легенде, Ромул был основателем Рима и его первым царём. Он и его брат-близнец Рем были сыновьями бога Марса и весталки Реи Сильвии. После спора о том, где основать город, Ромул убил Рема и основал Рим на Палатинском холме. Город был назван в его честь.",
+    "explanation_de": "Der römischen Legende zufolge war Romulus der Gründer Roms und sein erster König. Er und sein Zwillingsbruder Remus waren die Söhne des Gottes Mars und der Vestalin Rhea Silvia. Nach einem Streit darüber, wo die Stadt gegründet werden sollte, tötete Romulus Remus und gründete Rom auf dem Palatinhügel. Die Stadt wurde nach ihm benannt.",
+    "interesting_facts": [
+      {
+        "ru": "Легенда о Ромуле и Реме, вскормленных волчицей, является одним из самых известных мифов Древнего Рима. Эта история символизировала дикость и силу римского народа. Волчица стала символом Рима и изображалась на многих монетах и памятниках.",
+        "de": "Die Legende von Romulus und Remus, die von einer Wölfin gesäugt wurden, ist einer der bekanntesten Mythen des antiken Roms. Diese Geschichte symbolisierte die Wildheit und Stärke des römischen Volkes. Die Wölfin wurde zum Symbol Roms und wurde auf vielen Münzen und Denkmälern dargestellt."
+      },
+      {
+        "ru": "Ромул правил Римом 37 лет и создал многие римские институты, включая сенат и армию. После смерти он был обожествлён и стал богом Квирином. Римляне верили, что Ромул продолжает защищать свой город даже после смерти.",
+        "de": "Romulus regierte Rom 37 Jahre lang und schuf viele römische Institutionen, einschließlich des Senats und der Armee. Nach seinem Tod wurde er vergöttlicht und wurde zum Gott Quirinus. Die Römer glaubten, dass Romulus seine Stadt auch nach dem Tod weiterhin beschützte."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "753 BCE",
+    "tags": [
+      "легенды",
+      "основатели"
+    ]
+  },
+  {
+    "id": 403,
+    "question_ru": "В каком году был основан Рим?",
+    "question_de": "In welchem Jahr wurde Rom gegründet?",
+    "correct_answer_ru": "753 год до н.э.",
+    "correct_answer_de": "753 v. Chr.",
+    "wrong_answers_ru": [
+      "509 год до н.э.",
+      "27 год до н.э.",
+      "1000 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "509 v. Chr.",
+      "27 v. Chr.",
+      "1000 v. Chr."
+    ],
+    "explanation_ru": "Согласно римской традиции, Рим был основан 21 апреля 753 года до н.э. Ромулом. Эта дата была рассчитана римским историком Марком Теренцием Варроном в I веке до н.э. Римляне использовали эту дату как точку отсчёта для своей системы летоисчисления, называя годы \"от основания города\" (ab urbe condita).",
+    "explanation_de": "Der römischen Tradition zufolge wurde Rom am 21. April 753 v. Chr. von Romulus gegründet. Dieses Datum wurde vom römischen Historiker Marcus Terentius Varro im 1. Jahrhundert v. Chr. berechnet. Die Römer verwendeten dieses Datum als Ausgangspunkt für ihr Zeitsystem und nannten die Jahre \"ab urbe condita\" (seit der Gründung der Stadt).",
+    "interesting_facts": [
+      {
+        "ru": "Дата основания Рима была настолько важна для римлян, что они отмечали её ежегодно праздником Палилии. Этот праздник включал жертвоприношения и игры. Римляне гордились древностью своего города и считали его вечным.",
+        "de": "Das Gründungsdatum Roms war für die Römer so wichtig, dass sie es jährlich mit dem Fest der Parilien feierten. Dieses Fest umfasste Opfergaben und Spiele. Die Römer waren stolz auf das Alter ihrer Stadt und hielten sie für ewig."
+      },
+      {
+        "ru": "Современные археологические исследования показывают, что первые поселения на месте Рима появились ещё в X веке до н.э. Однако традиционная дата 753 года до н.э. остаётся важной частью римской исторической традиции. Эта дата символизирует начало римской цивилизации.",
+        "de": "Moderne archäologische Forschungen zeigen, dass die ersten Siedlungen an der Stelle Roms bereits im 10. Jahrhundert v. Chr. entstanden. Die traditionelle Datierung von 753 v. Chr. bleibt jedoch ein wichtiger Teil der römischen historischen Tradition. Dieses Datum symbolisiert den Beginn der römischen Zivilisation."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "753 BCE",
+    "tags": [
+      "основание",
+      "даты"
+    ]
+  },
+  {
+    "id": 404,
+    "question_ru": "Кто был первым императором?",
+    "question_de": "Wer war der erste Kaiser?",
+    "correct_answer_ru": "Октавиан Август",
+    "correct_answer_de": "Octavian Augustus",
+    "wrong_answers_ru": [
+      "Юлий Цезарь",
+      "Нерон",
+      "Траян"
+    ],
+    "wrong_answers_de": [
+      "Julius Cäsar",
+      "Nero",
+      "Trajan"
+    ],
+    "explanation_ru": "Октавиан Август был первым римским императором, правившим с 27 года до н.э. до 14 года н.э. Он был приёмным сыном Юлия Цезаря и победил Марка Антония в гражданской войне. Октавиан получил титул \"Август\" от сената, что означало \"возвеличенный\" или \"священный\". Его правление положило начало принципату - новой форме правления, которая сохраняла видимость республики.",
+    "explanation_de": "Octavian Augustus war der erste römische Kaiser, der von 27 v. Chr. bis 14 n. Chr. regierte. Er war der Adoptivsohn von Julius Cäsar und besiegte Marcus Antonius im Bürgerkrieg. Octavian erhielt den Titel \"Augustus\" vom Senat, was \"erhaben\" oder \"heilig\" bedeutete. Seine Herrschaft markierte den Beginn des Prinzipats - einer neuen Regierungsform, die den Anschein der Republik bewahrte.",
+    "interesting_facts": [
+      {
+        "ru": "Октавиан был очень осторожным правителем и избегал титула \"царь\" или \"диктатор\", предпочитая называть себя \"первым гражданином\". Он восстановил многие республиканские институты, но фактически сосредоточил всю власть в своих руках. Его правление стало периодом мира и процветания, известным как \"Pax Romana\".",
+        "de": "Octavian war ein sehr vorsichtiger Herrscher und vermied die Titel \"König\" oder \"Diktator\", bevorzugte es, sich als \"erster Bürger\" zu bezeichnen. Er stellte viele republikanische Institutionen wieder her, konzentrierte aber tatsächlich die gesamte Macht in seinen Händen. Seine Herrschaft wurde zu einer Zeit des Friedens und Wohlstands, bekannt als \"Pax Romana\"."
+      },
+      {
+        "ru": "Август провёл множество реформ, которые укрепили Римскую империю. Он реорганизовал армию, улучшил административную систему и способствовал развитию искусства и литературы. Его эпоха считается золотым веком римской культуры, когда творили такие писатели, как Вергилий, Гораций и Овидий.",
+        "de": "Augustus führte viele Reformen durch, die das Römische Reich stärkten. Er reorganisierte die Armee, verbesserte das Verwaltungssystem und förderte die Entwicklung von Kunst und Literatur. Seine Ära gilt als goldenes Zeitalter der römischen Kultur, in der Schriftsteller wie Vergil, Horaz und Ovid wirkten."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "27 BCE",
+    "tags": [
+      "императоры",
+      "правители"
+    ]
+  },
+  {
+    "id": 405,
+    "question_ru": "В каком году Юлий Цезарь был убит?",
+    "question_de": "In welchem Jahr wurde Julius Cäsar ermordet?",
+    "correct_answer_ru": "44 год до н.э.",
+    "correct_answer_de": "44 v. Chr.",
+    "wrong_answers_ru": [
+      "49 год до н.э.",
+      "27 год до н.э.",
+      "31 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "49 v. Chr.",
+      "27 v. Chr.",
+      "31 v. Chr."
+    ],
+    "explanation_ru": "Юлий Цезарь был убит 15 марта 44 года до н.э. группой сенаторов во главе с Марком Юнием Брутом и Гаем Кассием Лонгином. Заговорщики напали на Цезаря в театре Помпея во время заседания сената. Убийство Цезаря привело к новой гражданской войне и окончательному падению Римской республики.",
+    "explanation_de": "Julius Cäsar wurde am 15. März 44 v. Chr. von einer Gruppe von Senatoren unter der Führung von Marcus Junius Brutus und Gaius Cassius Longinus ermordet. Die Verschwörer griffen Cäsar im Theater des Pompeius während einer Senatssitzung an. Die Ermordung Cäsars führte zu einem neuen Bürgerkrieg und dem endgültigen Fall der Römischen Republik.",
+    "interesting_facts": [
+      {
+        "ru": "Убийство Цезаря произошло в день, известный как \"иды марта\". Цезарь был предупреждён о заговоре, но проигнорировал предупреждения. Согласно легенде, он даже отклонил записку с предупреждением, которую ему передали по дороге в сенат. Его последние слова, как говорят, были: \"И ты, Брут?\"",
+        "de": "Die Ermordung Cäsars ereignete sich an einem Tag, der als \"Iden des März\" bekannt ist. Cäsar wurde vor der Verschwörung gewarnt, ignorierte aber die Warnungen. Der Legende nach lehnte er sogar eine Warnnotiz ab, die ihm auf dem Weg zum Senat übergeben wurde. Seine letzten Worte sollen gewesen sein: \"Auch du, Brutus?\""
+      },
+      {
+        "ru": "После убийства Цезаря заговорщики считали, что они спасли республику, но на самом деле их действия привели к ещё большей нестабильности. Октавиан, приёмный сын Цезаря, использовал смерть отца как предлог для захвата власти. В результате республика окончательно пала, и была установлена империя.",
+        "de": "Nach der Ermordung Cäsars glaubten die Verschwörer, die Republik gerettet zu haben, aber tatsächlich führten ihre Handlungen zu noch größerer Instabilität. Octavian, der Adoptivsohn Cäsars, nutzte den Tod seines Vaters als Vorwand, um die Macht zu ergreifen. Infolgedessen fiel die Republik endgültig und das Kaiserreich wurde errichtet."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "44 BCE",
+    "tags": [
+      "убийства",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 406,
+    "question_ru": "Какой город был разрушен извержением Везувия?",
+    "question_de": "Welche Stadt wurde durch den Ausbruch des Vesuvs zerstört?",
+    "correct_answer_ru": "Помпеи",
+    "correct_answer_de": "Pompeji",
+    "wrong_answers_ru": [
+      "Геркуланум",
+      "Рим",
+      "Неаполь"
+    ],
+    "wrong_answers_de": [
+      "Herculaneum",
+      "Rom",
+      "Neapel"
+    ],
+    "explanation_ru": "Помпеи были древнеримским городом, который был полностью разрушен извержением вулкана Везувий в 79 году н.э. Город был погребён под слоем пепла и пемзы, что сохранило его в удивительно хорошем состоянии. Раскопки Помпей дали уникальную возможность изучить повседневную жизнь древних римлян.",
+    "explanation_de": "Pompeji war eine antike römische Stadt, die 79 n. Chr. vollständig durch den Ausbruch des Vulkans Vesuv zerstört wurde. Die Stadt wurde unter einer Schicht aus Asche und Bimsstein begraben, was sie in erstaunlich gutem Zustand erhalten hat. Die Ausgrabungen von Pompeji boten eine einzigartige Gelegenheit, das tägliche Leben der alten Römer zu studieren.",
+    "interesting_facts": [
+      {
+        "ru": "Помпеи были обнаружены случайно в 1748 году во время строительных работ. С тех пор раскопки продолжаются до наших дней. Город сохранил множество фресок, мозаик и даже отпечатки тел жителей, застигнутых извержением.",
+        "de": "Pompeji wurde 1748 zufällig bei Bauarbeiten entdeckt. Seitdem dauern die Ausgrabungen bis heute an. Die Stadt hat viele Fresken, Mosaike und sogar Abdrücke der Körper der Bewohner bewahrt, die vom Ausbruch überrascht wurden."
+      },
+      {
+        "ru": "Извержение Везувия было настолько сильным, что облако пепла достигло высоты 33 километров. Плиний Младший, который был свидетелем катастрофы, описал её в письмах, которые стали важным историческим источником. Его дядя, Плиний Старший, погиб во время извержения, пытаясь спасти людей.",
+        "de": "Der Ausbruch des Vesuvs war so stark, dass die Aschewolke eine Höhe von 33 Kilometern erreichte. Plinius der Jüngere, der Zeuge der Katastrophe war, beschrieb sie in Briefen, die zu einer wichtigen historischen Quelle wurden. Sein Onkel, Plinius der Ältere, starb während des Ausbruchs beim Versuch, Menschen zu retten."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "79 CE",
+    "tags": [
+      "катастрофы",
+      "города"
+    ]
+  },
+  {
+    "id": 407,
+    "question_ru": "В каком году извергся Везувий?",
+    "question_de": "In welchem Jahr brach der Vesuv aus?",
+    "correct_answer_ru": "79 год н.э.",
+    "correct_answer_de": "79 n. Chr.",
+    "wrong_answers_ru": [
+      "64 год н.э.",
+      "100 год н.э.",
+      "50 год н.э."
+    ],
+    "wrong_answers_de": [
+      "64 n. Chr.",
+      "100 n. Chr.",
+      "50 n. Chr."
+    ],
+    "explanation_ru": "Везувий извергся 24 августа 79 года н.э., уничтожив города Помпеи, Геркуланум и Стабии. Извержение длилось около 24 часов и было одним из самых разрушительных в истории. Вулкан выбрасывал огромное количество пепла, пемзы и горячих газов, которые убили тысячи людей.",
+    "explanation_de": "Der Vesuv brach am 24. August 79 n. Chr. aus und zerstörte die Städte Pompeji, Herculaneum und Stabiä. Der Ausbruch dauerte etwa 24 Stunden und war einer der verheerendsten in der Geschichte. Der Vulkan schleuderte enorme Mengen an Asche, Bimsstein und heißen Gasen aus, die Tausende von Menschen töteten.",
+    "interesting_facts": [
+      {
+        "ru": "Везувий остаётся активным вулканом и по сей день. Последнее крупное извержение произошло в 1944 году. Вулкан находится всего в 9 километрах от Неаполя, одного из крупнейших городов Италии, что делает его одним из самых опасных вулканов в мире.",
+        "de": "Der Vesuv ist bis heute ein aktiver Vulkan. Der letzte große Ausbruch ereignete sich 1944. Der Vulkan liegt nur 9 Kilometer von Neapel entfernt, einer der größten Städte Italiens, was ihn zu einem der gefährlichsten Vulkane der Welt macht."
+      },
+      {
+        "ru": "После извержения 79 года Везувий извергался ещё много раз, но ни одно извержение не было столь разрушительным. Римляне считали, что извержение было наказанием богов за грехи жителей. Современные учёные объясняют катастрофу геологическими процессами.",
+        "de": "Nach dem Ausbruch von 79 brach der Vesuv noch viele Male aus, aber kein Ausbruch war so verheerend. Die Römer glaubten, dass der Ausbruch eine Strafe der Götter für die Sünden der Bewohner war. Moderne Wissenschaftler erklären die Katastrophe durch geologische Prozesse."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "79 CE",
+    "tags": [
+      "катастрофы",
+      "вулканы"
+    ]
+  },
+  {
+    "id": 408,
+    "question_ru": "Кто был богом войны?",
+    "question_de": "Wer war der Gott des Krieges?",
+    "correct_answer_ru": "Марс",
+    "correct_answer_de": "Mars",
+    "wrong_answers_ru": [
+      "Юпитер",
+      "Нептун",
+      "Меркурий"
+    ],
+    "wrong_answers_de": [
+      "Jupiter",
+      "Neptun",
+      "Merkur"
+    ],
+    "explanation_ru": "Марс был римским богом войны и одним из самых почитаемых богов в римском пантеоне. Он считался отцом Ромула и Рема, основателей Рима. Марс был также богом земледелия и защитником римского народа. Его месяц, март, был первым месяцем римского календаря.",
+    "explanation_de": "Mars war der römische Gott des Krieges und einer der am meisten verehrten Götter im römischen Pantheon. Er galt als Vater von Romulus und Remus, den Gründern Roms. Mars war auch der Gott der Landwirtschaft und der Beschützer des römischen Volkes. Sein Monat, der März, war der erste Monat des römischen Kalenders.",
+    "interesting_facts": [
+      {
+        "ru": "Марс был особенно важен для римлян, так как они считали себя народом воинов. Храм Марса на Марсовом поле был одним из самых важных святилищ в Риме. Римские полководцы часто обращались к Марсу перед битвами, прося его помощи и защиты.",
+        "de": "Mars war besonders wichtig für die Römer, da sie sich als Kriegervolk betrachteten. Der Tempel des Mars auf dem Marsfeld war eines der wichtigsten Heiligtümer in Rom. Römische Feldherren wandten sich oft an Mars vor Schlachten und baten um seine Hilfe und seinen Schutz."
+      },
+      {
+        "ru": "В отличие от греческого Ареса, который был непопулярен, Марс пользовался большим уважением у римлян. Он ассоциировался не только с войной, но и с миром и порядком. Марс считался защитником римского государства и его граждан.",
+        "de": "Im Gegensatz zum griechischen Ares, der unbeliebt war, genoss Mars bei den Römern großes Ansehen. Er wurde nicht nur mit dem Krieg, sondern auch mit Frieden und Ordnung assoziiert. Mars galt als Beschützer des römischen Staates und seiner Bürger."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "война"
+    ]
+  },
+  {
+    "id": 409,
+    "question_ru": "Какой автор написал 'Энеиду'?",
+    "question_de": "Welcher Autor schrieb die 'Äneis'?",
+    "correct_answer_ru": "Вергилий",
+    "correct_answer_de": "Vergil",
+    "wrong_answers_ru": [
+      "Гомер",
+      "Овидий",
+      "Гораций"
+    ],
+    "wrong_answers_de": [
+      "Homer",
+      "Ovid",
+      "Horaz"
+    ],
+    "explanation_ru": "Вергилий (70-19 до н.э.) был одним из величайших римских поэтов. Его эпическая поэма 'Энеида' рассказывает о троянском герое Энее, который после падения Трои отправился в Италию и стал предком римлян. Поэма была написана по заказу императора Августа и стала национальным эпосом Рима.",
+    "explanation_de": "Vergil (70-19 v. Chr.) war einer der größten römischen Dichter. Sein episches Gedicht 'Äneis' erzählt von dem trojanischen Helden Äneas, der nach dem Fall Trojas nach Italien reiste und zum Vorfahren der Römer wurde. Das Gedicht wurde im Auftrag von Kaiser Augustus geschrieben und wurde zum Nationalepos Roms.",
+    "interesting_facts": [
+      {
+        "ru": "Вергилий работал над 'Энеидой' более 10 лет и не успел завершить её перед смертью. Он даже хотел уничтожить рукопись, но Август приказал сохранить её. Поэма оказала огромное влияние на западную литературу и стала образцом для многих последующих произведений.",
+        "de": "Vergil arbeitete über 10 Jahre an der 'Äneis' und konnte sie vor seinem Tod nicht vollenden. Er wollte das Manuskript sogar vernichten, aber Augustus befahl, es zu bewahren. Das Gedicht hatte einen enormen Einfluss auf die westliche Literatur und wurde zum Vorbild für viele nachfolgende Werke."
+      },
+      {
+        "ru": "'Энеида' состоит из 12 книг и написана гекзаметром, как и 'Илиада' и 'Одиссея' Гомера. Вергилий сознательно подражал Гомеру, но создал произведение, которое отражало римские ценности и идеалы. Поэма прославляет римскую историю и предсказывает величие империи.",
+        "de": "Die 'Äneis' besteht aus 12 Büchern und ist in Hexametern geschrieben, wie Homers 'Ilias' und 'Odyssee'. Vergil imitierte bewusst Homer, schuf aber ein Werk, das römische Werte und Ideale widerspiegelte. Das Gedicht verherrlicht die römische Geschichte und prophezeit die Größe des Reiches."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "литература",
+      "эпос"
+    ]
+  },
+  {
+    "id": 410,
+    "question_ru": "Как называлась древнеримская дорога в Италии?",
+    "question_de": "Wie hieß die antike römische Straße in Italien?",
+    "correct_answer_ru": "Аппиева дорога",
+    "correct_answer_de": "Via Appia",
+    "wrong_answers_ru": [
+      "Фламиниева дорога",
+      "Эгнатиева дорога",
+      "Аврелиева дорога"
+    ],
+    "wrong_answers_de": [
+      "Via Flaminia",
+      "Via Egnatia",
+      "Via Aurelia"
+    ],
+    "explanation_ru": "Аппиева дорога (Via Appia) была одной из самых важных и знаменитых римских дорог. Она была построена в 312 году до н.э. цензором Аппием Клавдием Цеком и соединяла Рим с Капуей, а позже была продлена до Брундизия. Дорога была построена из больших каменных плит и имела ширину около 4 метров.",
+    "explanation_de": "Die Via Appia war eine der wichtigsten und berühmtesten römischen Straßen. Sie wurde 312 v. Chr. vom Zensor Appius Claudius Cäcus gebaut und verband Rom mit Capua, später wurde sie bis nach Brundisium verlängert. Die Straße wurde aus großen Steinplatten gebaut und hatte eine Breite von etwa 4 Metern.",
+    "interesting_facts": [
+      {
+        "ru": "Аппиева дорога была известна как 'царица дорог' и стала символом римской инженерной мощи. Вдоль дороги были построены гробницы знатных римлян, так как римский закон запрещал хоронить мёртвых внутри города. Многие из этих гробниц сохранились до наших дней.",
+        "de": "Die Via Appia war als 'Königin der Straßen' bekannt und wurde zum Symbol der römischen Ingenieurskunst. Entlang der Straße wurden Gräber edler Römer errichtet, da das römische Gesetz verbot, Tote innerhalb der Stadt zu begraben. Viele dieser Gräber sind bis heute erhalten."
+      },
+      {
+        "ru": "Аппиева дорога сыграла важную роль в истории Рима. По ней проходили римские легионы во время войн, и она способствовала быстрому перемещению войск и товаров. Дорога также использовалась для казней - именно здесь был распят Спартак и его последователи после восстания рабов.",
+        "de": "Die Via Appia spielte eine wichtige Rolle in der Geschichte Roms. Auf ihr marschierten römische Legionen während der Kriege, und sie ermöglichte die schnelle Bewegung von Truppen und Gütern. Die Straße wurde auch für Hinrichtungen verwendet - hier wurde Spartacus und seine Anhänger nach dem Sklavenaufstand gekreuzigt."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "312 BCE",
+    "tags": [
+      "дороги",
+      "инфраструктура"
+    ]
+  },
+  {
+    "id": 411,
+    "question_ru": "Как называлось народное собрание?",
+    "question_de": "Wie hieß die Volksversammlung?",
+    "correct_answer_ru": "Комиции",
+    "correct_answer_de": "Comitia",
+    "wrong_answers_ru": [
+      "Сенат",
+      "Форум",
+      "Курия"
+    ],
+    "wrong_answers_de": [
+      "Senat",
+      "Forum",
+      "Curia"
+    ],
+    "explanation_ru": "Комиции были народными собраниями в Древнем Риме, где граждане принимали законы и избирали должностных лиц. Существовало несколько видов комиций: центуриатные, трибутные и куриатные. Каждый вид имел свои функции и правила голосования. Комиции играли важную роль в республиканской системе правления.",
+    "explanation_de": "Die Comitia waren Volksversammlungen im antiken Rom, in denen die Bürger Gesetze verabschiedeten und Amtsträger wählten. Es gab mehrere Arten von Comitia: Zenturiat-, Tribut- und Kuriatcomitia. Jede Art hatte ihre eigenen Funktionen und Abstimmungsregeln. Die Comitia spielten eine wichtige Rolle im republikanischen Regierungssystem.",
+    "interesting_facts": [
+      {
+        "ru": "Центуриатные комиции были наиболее важными и делили граждан на центурии по имущественному принципу. Богатые граждане имели больше голосов, чем бедные. Это обеспечивало доминирование аристократии в политической жизни Рима.",
+        "de": "Die Zenturiatcomitia waren die wichtigsten und teilten die Bürger nach Vermögen in Zenturien ein. Reiche Bürger hatten mehr Stimmen als arme. Dies sicherte die Dominanz der Aristokratie im politischen Leben Roms."
+      },
+      {
+        "ru": "Трибутные комиции делили граждан по территориальным трибам и были более демократичными. Они принимали законы и избирали некоторых должностных лиц. Плебеи использовали трибутные комиции для борьбы за свои права.",
+        "de": "Die Tributcomitia teilten die Bürger nach territorialen Tribus ein und waren demokratischer. Sie verabschiedeten Gesetze und wählten einige Amtsträger. Die Plebejer nutzten die Tributcomitia, um für ihre Rechte zu kämpfen."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "509 BCE",
+    "tags": [
+      "политика",
+      "институты"
+    ]
+  },
+  {
+    "id": 412,
+    "question_ru": "Кто был богом моря?",
+    "question_de": "Wer war der Gott des Meeres?",
+    "correct_answer_ru": "Нептун",
+    "correct_answer_de": "Neptun",
+    "wrong_answers_ru": [
+      "Посейдон",
+      "Океан",
+      "Тритон"
+    ],
+    "wrong_answers_de": [
+      "Poseidon",
+      "Okeanos",
+      "Triton"
+    ],
+    "explanation_ru": "Нептун был римским богом моря, водных источников и землетрясений. Он был отождествлён с греческим Посейдоном и стал одним из главных богов римского пантеона. Нептун изображался с трезубцем и часто в сопровождении дельфинов и морских коньков. Его праздник, Нептуналии, отмечался 23 июля.",
+    "explanation_de": "Neptun war der römische Gott des Meeres, der Wasserquellen und der Erdbeben. Er wurde mit dem griechischen Poseidon identifiziert und wurde zu einem der Hauptgötter des römischen Pantheons. Neptun wurde mit einem Dreizack dargestellt und oft in Begleitung von Delfinen und Seepferdchen. Sein Fest, die Neptunalia, wurde am 23. Juli gefeiert.",
+    "interesting_facts": [
+      {
+        "ru": "Нептун был особенно почитаем моряками и рыбаками, которые молились ему о безопасном плавании. Храм Нептуна в Риме был одним из старейших храмов города. Римляне верили, что Нептун может вызывать штормы и успокаивать море.",
+        "de": "Neptun wurde besonders von Seeleuten und Fischern verehrt, die ihn um sicheres Segeln baten. Der Tempel des Neptun in Rom war einer der ältesten Tempel der Stadt. Die Römer glaubten, dass Neptun Stürme verursachen und das Meer beruhigen konnte."
+      },
+      {
+        "ru": "В отличие от Посейдона, который был более грозным богом, Нептун в римской мифологии был более мирным божеством. Он ассоциировался не только с морем, но и с пресной водой и источниками. Нептун считался защитником водных ресурсов.",
+        "de": "Im Gegensatz zu Poseidon, der ein furchterregenderer Gott war, war Neptun in der römischen Mythologie eine friedlichere Gottheit. Er wurde nicht nur mit dem Meer, sondern auch mit Süßwasser und Quellen assoziiert. Neptun galt als Beschützer der Wasserressourcen."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "море"
+    ]
+  },
+  {
+    "id": 413,
+    "question_ru": "В каком году пала Западная Римская империя?",
+    "question_de": "In welchem Jahr fiel das Weströmische Reich?",
+    "correct_answer_ru": "476 год н.э.",
+    "correct_answer_de": "476 n. Chr.",
+    "wrong_answers_ru": [
+      "410 год н.э.",
+      "455 год н.э.",
+      "500 год н.э."
+    ],
+    "wrong_answers_de": [
+      "410 n. Chr.",
+      "455 n. Chr.",
+      "500 n. Chr."
+    ],
+    "explanation_ru": "Западная Римская империя пала в 476 году н.э., когда германский военачальник Одоакр сверг последнего императора Ромула Августула. Это событие традиционно считается концом античности и началом Средневековья. Восточная Римская империя (Византия) продолжала существовать ещё почти тысячу лет.",
+    "explanation_de": "Das Weströmische Reich fiel 476 n. Chr., als der germanische Heerführer Odoaker den letzten Kaiser Romulus Augustulus stürzte. Dieses Ereignis gilt traditionell als Ende der Antike und Beginn des Mittelalters. Das Oströmische Reich (Byzanz) bestand noch fast tausend Jahre weiter.",
+    "interesting_facts": [
+      {
+        "ru": "Падение Западной Римской империи было результатом длительного процесса упадка, а не единичного события. Империя страдала от экономических проблем, внутренних конфликтов и нашествий варваров. Многие историки считают, что империя фактически распалась задолго до 476 года.",
+        "de": "Der Fall des Weströmischen Reiches war das Ergebnis eines langen Niedergangsprozesses, nicht eines einzelnen Ereignisses. Das Reich litt unter wirtschaftlichen Problemen, inneren Konflikten und Barbareneinfällen. Viele Historiker glauben, dass das Reich tatsächlich lange vor 476 zerfallen war."
+      },
+      {
+        "ru": "Ромул Августул был мальчиком-императором, который правил всего около года. Его имя было ироничным совпадением: он был назван в честь Ромула, основателя Рима, и Августа, первого императора. Одоакр не убил его, а отправил в изгнание.",
+        "de": "Romulus Augustulus war ein jugendlicher Kaiser, der nur etwa ein Jahr regierte. Sein Name war eine ironische Koinzidenz: Er wurde nach Romulus, dem Gründer Roms, und Augustus, dem ersten Kaiser, benannt. Odoaker tötete ihn nicht, sondern schickte ihn ins Exil."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "476 CE",
+    "tags": [
+      "падение",
+      "конец"
+    ]
+  },
+  {
+    "id": 414,
+    "question_ru": "Кто был богом торговли?",
+    "question_de": "Wer war der Gott des Handels?",
+    "correct_answer_ru": "Меркурий",
+    "correct_answer_de": "Merkur",
+    "wrong_answers_ru": [
+      "Марс",
+      "Юпитер",
+      "Сатурн"
+    ],
+    "wrong_answers_de": [
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "explanation_ru": "Меркурий был римским богом торговли, прибыли, путешествий и красноречия. Он был отождествлён с греческим Гермесом и стал покровителем купцов и путешественников. Меркурий изображался с крылатыми сандалиями, шлемом и кадуцеем - жезлом с двумя змеями. Он был посланником богов и проводником душ в загробный мир.",
+    "explanation_de": "Merkur war der römische Gott des Handels, des Gewinns, der Reisen und der Beredsamkeit. Er wurde mit dem griechischen Hermes identifiziert und wurde zum Schutzpatron der Händler und Reisenden. Merkur wurde mit Flügelsandalen, Helm und Caduceus - einem Stab mit zwei Schlangen - dargestellt. Er war der Bote der Götter und der Führer der Seelen in die Unterwelt.",
+    "interesting_facts": [
+      {
+        "ru": "Меркурий был одним из самых популярных богов в Римской империи, особенно среди торговцев. Его храмы часто строились на рынках и в торговых районах. Меркурий также считался богом воров и обмана, что отражало двойственную природу торговли.",
+        "de": "Merkur war einer der beliebtesten Götter im Römischen Reich, besonders bei Händlern. Seine Tempel wurden oft auf Märkten und in Handelsvierteln errichtet. Merkur galt auch als Gott der Diebe und des Betrugs, was die zwiespältige Natur des Handels widerspiegelte."
+      },
+      {
+        "ru": "Планета Меркурий была названа в честь этого бога из-за её быстрого движения по небу. Меркурий был также покровителем путешественников и считался защитником на дорогах. Римляне часто обращались к нему перед началом путешествия или торговой сделки.",
+        "de": "Der Planet Merkur wurde nach diesem Gott benannt, weil er sich schnell am Himmel bewegt. Merkur war auch der Schutzpatron der Reisenden und galt als Beschützer auf den Straßen. Die Römer wandten sich oft an ihn vor Beginn einer Reise oder eines Handelsgeschäfts."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "торговля"
+    ]
+  },
+  {
+    "id": 415,
+    "question_ru": "Какой император разделил империю?",
+    "question_de": "Welcher Kaiser teilte das Reich?",
+    "correct_answer_ru": "Диоклетиан",
+    "correct_answer_de": "Diokletian",
+    "wrong_answers_ru": [
+      "Константин",
+      "Феодосий",
+      "Валентиниан"
+    ],
+    "wrong_answers_de": [
+      "Konstantin",
+      "Theodosius",
+      "Valentinian"
+    ],
+    "explanation_ru": "Диоклетиан (правил 284-305 н.э.) разделил Римскую империю на Восточную и Западную части для более эффективного управления. Он также ввёл систему тетрархии, при которой империей правили четыре императора - два августа и два цезаря. Это разделение стало постоянным и привело к образованию двух отдельных империй.",
+    "explanation_de": "Diokletian (regierte 284-305 n. Chr.) teilte das Römische Reich in einen östlichen und einen westlichen Teil für eine effizientere Verwaltung. Er führte auch das System der Tetrarchie ein, bei dem das Reich von vier Kaisern regiert wurde - zwei Augusti und zwei Cäsares. Diese Teilung wurde dauerhaft und führte zur Bildung zweier separater Reiche.",
+    "interesting_facts": [
+      {
+        "ru": "Диоклетиан был одним из самых успешных императоров поздней Римской империи. Он провёл множество реформ, включая реорганизацию армии, налоговой системы и администрации. Диоклетиан также известен своими гонениями на христиан, которые были самыми жестокими в истории империи.",
+        "de": "Diokletian war einer der erfolgreichsten Kaiser des späten Römischen Reiches. Er führte viele Reformen durch, einschließlich der Reorganisation der Armee, des Steuersystems und der Verwaltung. Diokletian ist auch für seine Christenverfolgungen bekannt, die die grausamsten in der Geschichte des Reiches waren."
+      },
+      {
+        "ru": "После 20 лет правления Диоклетиан добровольно отрёкся от престола и удалился в свой дворец в Сплите. Он стал первым римским императором, который добровольно отказался от власти. Диоклетиан провёл остаток жизни, выращивая капусту в своём саду.",
+        "de": "Nach 20 Jahren Herrschaft dankte Diokletian freiwillig ab und zog sich in seinen Palast in Split zurück. Er wurde der erste römische Kaiser, der freiwillig auf die Macht verzichtete. Diokletian verbrachte den Rest seines Lebens mit dem Anbau von Kohl in seinem Garten."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "285 CE",
+    "tags": [
+      "императоры",
+      "реформы"
+    ]
+  },
+  {
+    "id": 416,
+    "question_ru": "Как называлась римская баня?",
+    "question_de": "Wie hieß das römische Bad?",
+    "correct_answer_ru": "Термы",
+    "correct_answer_de": "Thermen",
+    "wrong_answers_ru": [
+      "Акведук",
+      "Форум",
+      "Базилика"
+    ],
+    "wrong_answers_de": [
+      "Aquädukt",
+      "Forum",
+      "Basilika"
+    ],
+    "explanation_ru": "Термы были общественными банями в Древнем Риме, которые служили не только для гигиены, но и для отдыха и общения. Они включали горячие, тёплые и холодные бассейны, а также парильни, массажные кабинеты и библиотеки. Термы были важным центром общественной жизни римлян.",
+    "explanation_de": "Die Thermen waren öffentliche Bäder im antiken Rom, die nicht nur der Hygiene, sondern auch der Erholung und Geselligkeit dienten. Sie umfassten heiße, warme und kalte Becken sowie Dampfbäder, Massageräume und Bibliotheken. Die Thermen waren ein wichtiges Zentrum des gesellschaftlichen Lebens der Römer.",
+    "interesting_facts": [
+      {
+        "ru": "Термы были доступны всем римским гражданам, включая бедняков. Вход был бесплатным или очень дешёвым. Самые большие термы могли вмещать тысячи посетителей одновременно. Термы Каракаллы и Диоклетиана были одними из самых роскошных.",
+        "de": "Die Thermen waren für alle römischen Bürger zugänglich, einschließlich der Armen. Der Eintritt war kostenlos oder sehr billig. Die größten Thermen konnten Tausende von Besuchern gleichzeitig aufnehmen. Die Thermen des Caracalla und des Diokletian waren einige der luxuriösesten."
+      },
+      {
+        "ru": "Римляне посещали термы ежедневно, и это было важной частью их культуры. Термы были местом, где люди общались, занимались спортом, читали и вели деловые переговоры. Многие термы были украшены мозаиками, фресками и скульптурами.",
+        "de": "Die Römer besuchten die Thermen täglich, und dies war ein wichtiger Teil ihrer Kultur. Die Thermen waren ein Ort, an dem Menschen sich trafen, Sport trieben, lasen und Geschäfte führten. Viele Thermen waren mit Mosaiken, Fresken und Skulpturen geschmückt."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "быт",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 417,
+    "question_ru": "Кто был богом огня?",
+    "question_de": "Wer war der Gott des Feuers?",
+    "correct_answer_ru": "Вулкан",
+    "correct_answer_de": "Vulcanus",
+    "wrong_answers_ru": [
+      "Марс",
+      "Юпитер",
+      "Сатурн"
+    ],
+    "wrong_answers_de": [
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "explanation_ru": "Вулкан был римским богом огня, кузнечного дела и вулканов. Он был отождествлён с греческим Гефестом и считался покровителем кузнецов и ремесленников. Вулкан изображался с молотом и наковальней и был известен своей работой в кузнице богов. Его имя дало название вулканам.",
+    "explanation_de": "Vulcanus war der römische Gott des Feuers, der Schmiedekunst und der Vulkane. Er wurde mit dem griechischen Hephaistos identifiziert und galt als Schutzpatron der Schmiede und Handwerker. Vulcanus wurde mit Hammer und Amboss dargestellt und war für seine Arbeit in der Schmiede der Götter bekannt. Sein Name gab den Vulkanen ihren Namen.",
+    "interesting_facts": [
+      {
+        "ru": "Вулкан был мужем Венеры, богини любви, хотя их брак был не очень счастливым. Он был известен тем, что создавал оружие и доспехи для богов и героев. Храм Вулкана в Риме находился на Марсовом поле и был одним из старейших храмов города.",
+        "de": "Vulcanus war der Ehemann der Venus, der Göttin der Liebe, obwohl ihre Ehe nicht sehr glücklich war. Er war dafür bekannt, Waffen und Rüstungen für Götter und Helden zu schmieden. Der Tempel des Vulcanus in Rom befand sich auf dem Marsfeld und war einer der ältesten Tempel der Stadt."
+      },
+      {
+        "ru": "Праздник Вулканалии отмечался 23 августа и включал жертвоприношения животных в огонь. Римляне верили, что Вулкан может защитить их от пожаров и вулканических извержений. Его кузница, согласно мифам, находилась под вулканом Этна на Сицилии.",
+        "de": "Das Fest der Vulcanalia wurde am 23. August gefeiert und umfasste Tieropfer im Feuer. Die Römer glaubten, dass Vulcanus sie vor Bränden und Vulkanausbrüchen schützen konnte. Seine Schmiede befand sich laut Mythen unter dem Vulkan Ätna auf Sizilien."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "ремёсла"
+    ]
+  },
+  {
+    "id": 418,
+    "question_ru": "В каком году Константинополь стал столицей?",
+    "question_de": "In welchem Jahr wurde Konstantinopel zur Hauptstadt?",
+    "correct_answer_ru": "330 год н.э.",
+    "correct_answer_de": "330 n. Chr.",
+    "wrong_answers_ru": [
+      "324 год н.э.",
+      "337 год н.э.",
+      "395 год н.э."
+    ],
+    "wrong_answers_de": [
+      "324 n. Chr.",
+      "337 n. Chr.",
+      "395 n. Chr."
+    ],
+    "explanation_ru": "Константинополь стал столицей Римской империи в 330 году н.э. по приказу императора Константина I. Город был основан на месте древнего Византия и переименован в честь императора. Константинополь стал новой столицей вместо Рима и оставался ею до падения Византийской империи в 1453 году.",
+    "explanation_de": "Konstantinopel wurde 330 n. Chr. auf Befehl von Kaiser Konstantin I. zur Hauptstadt des Römischen Reiches. Die Stadt wurde auf dem Gelände des antiken Byzanz gegründet und nach dem Kaiser umbenannt. Konstantinopel wurde die neue Hauptstadt anstelle Roms und blieb es bis zum Fall des Byzantinischen Reiches 1453.",
+    "interesting_facts": [
+      {
+        "ru": "Константин выбрал Константинополь из-за его стратегического положения между Европой и Азией. Город был защищён с трёх сторон водой и имел отличную гавань. Константинополь стал одним из крупнейших и богатейших городов мира.",
+        "de": "Konstantin wählte Konstantinopel wegen seiner strategischen Lage zwischen Europa und Asien. Die Stadt war von drei Seiten vom Wasser geschützt und hatte einen ausgezeichneten Hafen. Konstantinopel wurde eine der größten und reichsten Städte der Welt."
+      },
+      {
+        "ru": "Перенос столицы в Константинополь знаменовал начало новой эпохи в истории Римской империи. Город стал центром восточной части империи и сохранил римские традиции на протяжении тысячелетия. Константинополь также стал важным центром христианства.",
+        "de": "Die Verlegung der Hauptstadt nach Konstantinopel markierte den Beginn einer neuen Ära in der Geschichte des Römischen Reiches. Die Stadt wurde zum Zentrum des östlichen Teils des Reiches und bewahrte römische Traditionen über ein Jahrtausend. Konstantinopel wurde auch ein wichtiges Zentrum des Christentums."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "330 CE",
+    "tags": [
+      "столицы",
+      "города"
+    ]
+  },
+  {
+    "id": 419,
+    "question_ru": "Какой император построил колонну?",
+    "question_de": "Welcher Kaiser baute die Säule?",
+    "correct_answer_ru": "Траян",
+    "correct_answer_de": "Trajan",
+    "wrong_answers_ru": [
+      "Марк Аврелий",
+      "Адриан",
+      "Антонин Пий"
+    ],
+    "wrong_answers_de": [
+      "Mark Aurel",
+      "Hadrian",
+      "Antoninus Pius"
+    ],
+    "explanation_ru": "Император Траян построил колонну Траяна в 113 году н.э. в честь своих побед в Дакийских войнах. Колонна высотой 38 метров покрыта спиральным рельефом, который изображает военные кампании Траяна. Колонна стоит на форуме Траяна в Риме и является одним из самых известных памятников античности.",
+    "explanation_de": "Kaiser Trajan baute die Trajanssäule 113 n. Chr. zu Ehren seiner Siege in den Dakerkriegen. Die 38 Meter hohe Säule ist mit einem spiralförmigen Relief bedeckt, das Trajans Militärkampagnen darstellt. Die Säule steht auf dem Trajansforum in Rom und ist eines der berühmtesten Denkmäler der Antike.",
+    "interesting_facts": [
+      {
+        "ru": "Колонна Траяна содержит более 2500 фигур и рассказывает историю войн в 155 сценах. Рельефы показывают не только военные действия, но и быт римской армии. Колонна была также гробницей Траяна - его прах хранился в основании.",
+        "de": "Die Trajanssäule enthält über 2500 Figuren und erzählt die Geschichte der Kriege in 155 Szenen. Die Reliefs zeigen nicht nur militärische Aktionen, sondern auch das Alltagsleben der römischen Armee. Die Säule war auch das Grabmal Trajans - seine Asche wurde im Sockel aufbewahrt."
+      },
+      {
+        "ru": "Траян считается одним из лучших римских императоров. Он расширил границы империи до максимального размера и провёл множество строительных проектов. Сенат провозгласил его \"лучшим принцепсом\", и последующие императоры молились, чтобы они были \"счастливее Августа и лучше Траяна\".",
+        "de": "Trajan gilt als einer der besten römischen Kaiser. Er erweiterte die Grenzen des Reiches auf die maximale Größe und führte viele Bauprojekte durch. Der Senat erklärte ihn zum \"besten Prinzip\" und spätere Kaiser beteten, dass sie \"glücklicher als Augustus und besser als Trajan\" sein mögen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "113 CE",
+    "tags": [
+      "памятники",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 420,
+    "question_ru": "Как называлась римская одежда?",
+    "question_de": "Wie hieß die römische Kleidung?",
+    "correct_answer_ru": "Тога",
+    "correct_answer_de": "Toga",
+    "wrong_answers_ru": [
+      "Туника",
+      "Палла",
+      "Стола"
+    ],
+    "wrong_answers_de": [
+      "Tunika",
+      "Palla",
+      "Stola"
+    ],
+    "explanation_ru": "Тога была главной одеждой римских граждан-мужчин. Это было большое шерстяное полотно овальной формы, которое оборачивалось вокруг тела особым образом. Тога была символом римского гражданства и была обязательной для публичных мероприятий. Только римские граждане имели право носить тогу.",
+    "explanation_de": "Die Toga war die Hauptkleidung römischer Bürger. Es war ein großes ovales Wolltuch, das auf besondere Weise um den Körper gewickelt wurde. Die Toga war ein Symbol der römischen Bürgerschaft und war bei öffentlichen Veranstaltungen obligatorisch. Nur römische Bürger hatten das Recht, eine Toga zu tragen.",
+    "interesting_facts": [
+      {
+        "ru": "Тога была очень неудобной одеждой и требовала помощи для надевания. Разные виды тог имели разное значение: белая тога для взрослых граждан, тога с пурпурной каймой для магистратов. Тога постепенно вышла из моды в поздней империи.",
+        "de": "Die Toga war sehr unbequeme Kleidung und erforderte Hilfe beim Anziehen. Verschiedene Arten von Togen hatten unterschiedliche Bedeutungen: weiße Toga für erwachsene Bürger, Toga mit purpurnem Rand für Magistraten. Die Toga geriet im späten Reich allmählich aus der Mode."
+      },
+      {
+        "ru": "Женщины не носили тогу, а использовали столу или паллу. Тога была исключительно мужской одеждой и ассоциировалась с римской маскулинностью. Иностранцы и рабы не имели права носить тогу, что подчёркивало её статус как символа гражданства.",
+        "de": "Frauen trugen keine Toga, sondern verwendeten Stola oder Palla. Die Toga war ausschließlich männliche Kleidung und wurde mit römischer Männlichkeit assoziiert. Ausländer und Sklaven hatten kein Recht, eine Toga zu tragen, was ihren Status als Symbol der Bürgerschaft unterstrich."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "8th century BCE",
+    "tags": [
+      "одежда",
+      "традиции"
+    ]
+  },
+  {
+    "id": 421,
+    "question_ru": "Кто был богиной любви?",
+    "question_de": "Wer war die Göttin der Liebe?",
+    "correct_answer_ru": "Венера",
+    "correct_answer_de": "Venus",
+    "wrong_answers_ru": [
+      "Юнона",
+      "Минерва",
+      "Диана"
+    ],
+    "wrong_answers_de": [
+      "Juno",
+      "Minerva",
+      "Diana"
+    ],
+    "explanation_ru": "Венера была римской богиней любви, красоты, плодородия и процветания. Она была отождествлена с греческой Афродитой и стала одной из самых почитаемых богинь в Риме. Венера считалась матерью римского народа через своего сына Энея, который был предком основателей Рима.",
+    "explanation_de": "Venus war die römische Göttin der Liebe, Schönheit, Fruchtbarkeit und des Wohlstands. Sie wurde mit der griechischen Aphrodite identifiziert und wurde eine der am meisten verehrten Göttinnen in Rom. Venus galt als Mutter des römischen Volkes durch ihren Sohn Äneas, der der Vorfahr der Gründer Roms war.",
+    "interesting_facts": [
+      {
+        "ru": "Венера была особенно важна для римлян, так как они считали себя потомками троянцев через Энея. Храм Венеры Генетрикс на форуме Цезаря был одним из самых важных святилищ. Юлий Цезарь считал Венеру своей божественной прародительницей.",
+        "de": "Venus war besonders wichtig für die Römer, da sie sich als Nachkommen der Trojaner durch Äneas betrachteten. Der Tempel der Venus Genetrix auf dem Forum des Cäsar war eines der wichtigsten Heiligtümer. Julius Cäsar betrachtete Venus als seine göttliche Urahnin."
+      },
+      {
+        "ru": "Планета Венера была названа в честь богини из-за её яркости и красоты. Венера также ассоциировалась с садами и весной. Её праздник, Венералии, отмечался 1 апреля и включал обряды для обеспечения плодородия и любви.",
+        "de": "Der Planet Venus wurde nach der Göttin benannt wegen ihrer Helligkeit und Schönheit. Venus wurde auch mit Gärten und Frühling assoziiert. Ihr Fest, die Veneralia, wurde am 1. April gefeiert und umfasste Riten zur Sicherung von Fruchtbarkeit und Liebe."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "любовь"
+    ]
+  },
+  {
+    "id": 422,
+    "question_ru": "В каком году произошла битва при Каннах?",
+    "question_de": "In welchem Jahr fand die Schlacht von Cannä statt?",
+    "correct_answer_ru": "216 год до н.э.",
+    "correct_answer_de": "216 v. Chr.",
+    "wrong_answers_ru": [
+      "218 год до н.э.",
+      "202 год до н.э.",
+      "207 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "218 v. Chr.",
+      "202 v. Chr.",
+      "207 v. Chr."
+    ],
+    "explanation_ru": "Битва при Каннах произошла 2 августа 216 года до н.э. во время Второй Пунической войны. Карфагенская армия под командованием Ганнибала окружила и уничтожила превосходящую по численности римскую армию. Это была одна из самых сокрушительных поражений в римской истории, в которой погибло около 50 000 римских солдат.",
+    "explanation_de": "Die Schlacht von Cannä fand am 2. August 216 v. Chr. während des Zweiten Punischen Krieges statt. Die karthagische Armee unter Hannibals Kommando umzingelte und vernichtete die zahlenmäßig überlegene römische Armee. Es war eine der verheerendsten Niederlagen in der römischen Geschichte, bei der etwa 50.000 römische Soldaten starben.",
+    "interesting_facts": [
+      {
+        "ru": "Битва при Каннах стала образцом тактического совершенства и изучается до сих пор в военных академиях. Ганнибал использовал тактику двойного охвата, окружив римскую армию с флангов. Несмотря на победу, Ганнибал не смог захватить Рим, что в конечном итоге привело к его поражению.",
+        "de": "Die Schlacht von Cannä wurde zum Vorbild taktischer Perfektion und wird bis heute an Militärakademien studiert. Hannibal verwendete die Taktik der doppelten Umfassung und umzingelte die römische Armee von den Flanken. Trotz des Sieges konnte Hannibal Rom nicht erobern, was letztendlich zu seiner Niederlage führte."
+      },
+      {
+        "ru": "После битвы при Каннах многие союзники Рима перешли на сторону Ганнибала. Однако римляне отказались сдаваться и продолжали борьбу. Римская стратегия избегания крупных сражений и изматывания противника в конечном итоге привела к победе.",
+        "de": "Nach der Schlacht von Cannä wechselten viele Verbündete Roms zu Hannibal. Die Römer weigerten sich jedoch, aufzugeben und setzten den Kampf fort. Die römische Strategie, große Schlachten zu vermeiden und den Feind zu erschöpfen, führte letztendlich zum Sieg."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "216 BCE",
+    "tags": [
+      "битвы",
+      "Ганнибал"
+    ]
+  },
+  {
+    "id": 423,
+    "question_ru": "Кто был карфагенским полководцем?",
+    "question_de": "Wer war der karthagische Feldherr?",
+    "correct_answer_ru": "Ганнибал",
+    "correct_answer_de": "Hannibal",
+    "wrong_answers_ru": [
+      "Гамилькар",
+      "Гасдрубал",
+      "Магон"
+    ],
+    "wrong_answers_de": [
+      "Hamilkar",
+      "Hasdrubal",
+      "Mago"
+    ],
+    "explanation_ru": "Ганнибал Барка был карфагенским полководцем, который возглавил вторжение в Италию во время Второй Пунической войны. Он знаменит переходом через Альпы со слонами и серией побед над римлянами, включая битву при Каннах. Ганнибал считается одним из величайших военных стратегов в истории.",
+    "explanation_de": "Hannibal Barkas war ein karthagischer Feldherr, der die Invasion Italiens während des Zweiten Punischen Krieges anführte. Er ist berühmt für die Überquerung der Alpen mit Elefanten und eine Reihe von Siegen über die Römer, einschließlich der Schlacht von Cannä. Hannibal gilt als einer der größten Militärstrategen der Geschichte.",
+    "interesting_facts": [
+      {
+        "ru": "Ганнибал поклялся своему отцу Гамилькару в вечной вражде к Риму. Он начал войну в возрасте 26 лет и провёл 15 лет в Италии, не проиграв ни одной крупной битвы. Однако его неспособность захватить Рим и отсутствие поддержки из Карфагена привели к его поражению.",
+        "de": "Hannibal schwor seinem Vater Hamilkar ewige Feindschaft zu Rom. Er begann den Krieg im Alter von 26 Jahren und verbrachte 15 Jahre in Italien, ohne eine große Schlacht zu verlieren. Seine Unfähigkeit, Rom zu erobern, und das Fehlen von Unterstützung aus Karthago führten jedoch zu seiner Niederlage."
+      },
+      {
+        "ru": "После поражения Ганнибал бежал из Карфагена и служил различным правителям, продолжая бороться против Рима. В конце концов он покончил с собой, чтобы не попасть в руки римлян. Его имя стало синонимом военного гения и непоколебимой решимости.",
+        "de": "Nach der Niederlage floh Hannibal aus Karthago und diente verschiedenen Herrschern, während er weiterhin gegen Rom kämpfte. Schließlich beging er Selbstmord, um nicht in die Hände der Römer zu fallen. Sein Name wurde zum Synonym für militärisches Genie und unerschütterliche Entschlossenheit."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "218 BCE",
+    "tags": [
+      "полководцы",
+      "враги"
+    ]
+  },
+  {
+    "id": 424,
+    "question_ru": "Как называлась римская система водоснабжения?",
+    "question_de": "Wie hieß das römische Wasserversorgungssystem?",
+    "correct_answer_ru": "Акведук",
+    "correct_answer_de": "Aquädukt",
+    "wrong_answers_ru": [
+      "Термы",
+      "Клоака",
+      "Цистерна"
+    ],
+    "wrong_answers_de": [
+      "Thermen",
+      "Kloake",
+      "Zisterne"
+    ],
+    "explanation_ru": "Акведук был системой каналов и мостов, которая доставляла воду из источников в города. Римляне построили множество акведуков по всей империи, которые обеспечивали чистой водой города, термы, фонтаны и общественные здания. Акведуки были одним из величайших инженерных достижений римлян.",
+    "explanation_de": "Ein Aquädukt war ein System aus Kanälen und Brücken, das Wasser aus Quellen in die Städte leitete. Die Römer bauten viele Aquädukte im gesamten Reich, die Städte, Thermen, Brunnen und öffentliche Gebäude mit sauberem Wasser versorgten. Aquädukte waren eine der größten Ingenieursleistungen der Römer.",
+    "interesting_facts": [
+      {
+        "ru": "Рим получал воду из 11 акведуков, которые доставляли более миллиона кубометров воды в день. Акведуки строились с небольшим уклоном, чтобы вода текла самотеком. Многие акведуки сохранились до наших дней и продолжают поражать своей инженерной точностью.",
+        "de": "Rom erhielt Wasser aus 11 Aquädukten, die über eine Million Kubikmeter Wasser pro Tag lieferten. Aquädukte wurden mit einem leichten Gefälle gebaut, damit das Wasser durch Schwerkraft floss. Viele Aquädukte sind bis heute erhalten und beeindrucken weiterhin durch ihre ingenieurtechnische Präzision."
+      },
+      {
+        "ru": "Акведуки были не только функциональными, но и архитектурно красивыми. Они часто пересекали долины на высоких арках, создавая впечатляющие сооружения. Римляне использовали бетон и камень для строительства, что обеспечивало долговечность конструкций.",
+        "de": "Aquädukte waren nicht nur funktional, sondern auch architektonisch schön. Sie überquerten oft Täler auf hohen Bögen und schufen beeindruckende Bauwerke. Die Römer verwendeten Beton und Stein für den Bau, was die Langlebigkeit der Konstruktionen gewährleistete."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "312 BCE",
+    "tags": [
+      "инженерия",
+      "вода"
+    ]
+  },
+  {
+    "id": 425,
+    "question_ru": "Кто был богиней домашнего очага?",
+    "question_de": "Wer war die Göttin des häuslichen Herdes?",
+    "correct_answer_ru": "Веста",
+    "correct_answer_de": "Vesta",
+    "wrong_answers_ru": [
+      "Юнона",
+      "Церера",
+      "Минерва"
+    ],
+    "wrong_answers_de": [
+      "Juno",
+      "Ceres",
+      "Minerva"
+    ],
+    "explanation_ru": "Веста была римской богиней домашнего очага, семьи и священного огня. Она была одной из самых почитаемых богинь в Риме. Весталки, жрицы Весты, поддерживали вечный огонь в храме богини. Этот огонь считался символом безопасности и благополучия римского государства.",
+    "explanation_de": "Vesta war die römische Göttin des häuslichen Herdes, der Familie und des heiligen Feuers. Sie war eine der am meisten verehrten Göttinnen in Rom. Die Vestalinnen, Priesterinnen der Vesta, hielten das ewige Feuer im Tempel der Göttin aufrecht. Dieses Feuer galt als Symbol der Sicherheit und des Wohlstands des römischen Staates.",
+    "interesting_facts": [
+      {
+        "ru": "Весталки были выбраны в возрасте 6-10 лет и служили 30 лет, соблюдая обет безбрачия. Если весталка нарушала обет, её закапывали заживо. Храм Весты был круглым и находился на римском форуме. Огонь в храме горел непрерывно более тысячи лет.",
+        "de": "Vestalinnen wurden im Alter von 6-10 Jahren ausgewählt und dienten 30 Jahre lang unter Einhaltung des Keuschheitsgelübdes. Wenn eine Vestalin das Gelübde brach, wurde sie lebendig begraben. Der Tempel der Vesta war rund und befand sich auf dem römischen Forum. Das Feuer im Tempel brannte über tausend Jahre lang ununterbrochen."
+      },
+      {
+        "ru": "Культ Весты был одним из старейших в Риме и восходил к самым ранним временам. Веста ассоциировалась с чистотой и порядком. Её праздник, Весталии, отмечался в июне и включал обряды очищения. Веста была покровительницей всех римских семей.",
+        "de": "Der Kult der Vesta war einer der ältesten in Rom und reichte bis in die frühesten Zeiten zurück. Vesta wurde mit Reinheit und Ordnung assoziiert. Ihr Fest, die Vestalia, wurde im Juni gefeiert und umfasste Reinigungsriten. Vesta war die Schutzpatronin aller römischen Familien."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "дом"
+    ]
+  },
+  {
+    "id": 426,
+    "question_ru": "В каком году был построен Колизей?",
+    "question_de": "In welchem Jahr wurde das Kolosseum gebaut?",
+    "correct_answer_ru": "80 год н.э.",
+    "correct_answer_de": "80 n. Chr.",
+    "wrong_answers_ru": [
+      "70 год н.э.",
+      "90 год н.э.",
+      "100 год н.э."
+    ],
+    "wrong_answers_de": [
+      "70 n. Chr.",
+      "90 n. Chr.",
+      "100 n. Chr."
+    ],
+    "explanation_ru": "Колизей был построен в 80 году н.э. императором Титом, сыном Веспасиана, который начал строительство. Амфитеатр был открыт грандиозными играми, которые длились 100 дней. Колизей мог вмещать до 50 000 зрителей и был самым большим амфитеатром в Римской империи.",
+    "explanation_de": "Das Kolosseum wurde 80 n. Chr. von Kaiser Titus, dem Sohn von Vespasian, der den Bau begonnen hatte, errichtet. Das Amphitheater wurde mit grandiosen Spielen eröffnet, die 100 Tage dauerten. Das Kolosseum konnte bis zu 50.000 Zuschauer aufnehmen und war das größte Amphitheater im Römischen Reich.",
+    "interesting_facts": [
+      {
+        "ru": "Колизей был построен на месте искусственного озера, которое находилось в Золотом доме Нерона. Строительство заняло всего 8 лет, что было невероятно быстро для такого масштабного проекта. Колизей использовался для гладиаторских боёв, охоты на животных и публичных казней.",
+        "de": "Das Kolosseum wurde auf dem Gelände eines künstlichen Sees errichtet, der sich im Goldenen Haus Neros befand. Der Bau dauerte nur 8 Jahre, was für ein so großes Projekt unglaublich schnell war. Das Kolosseum wurde für Gladiatorenkämpfe, Tierjagden und öffentliche Hinrichtungen genutzt."
+      },
+      {
+        "ru": "Колизей является одним из самых известных памятников античности и символом Рима. Несмотря на землетрясения и разграбления, большая часть структуры сохранилась. Сегодня Колизей является одной из самых популярных туристических достопримечательностей в мире.",
+        "de": "Das Kolosseum ist eines der berühmtesten Denkmäler der Antike und ein Symbol Roms. Trotz Erdbeben und Plünderungen ist ein Großteil der Struktur erhalten geblieben. Heute ist das Kolosseum eine der beliebtesten Touristenattraktionen der Welt."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "80 CE",
+    "tags": [
+      "архитектура",
+      "амфитеатры"
+    ]
+  },
+  {
+    "id": 427,
+    "question_ru": "Какой император построил стену в Британии?",
+    "question_de": "Welcher Kaiser baute die Mauer in Britannien?",
+    "correct_answer_ru": "Адриан",
+    "correct_answer_de": "Hadrian",
+    "wrong_answers_ru": [
+      "Траян",
+      "Антонин Пий",
+      "Марк Аврелий"
+    ],
+    "wrong_answers_de": [
+      "Trajan",
+      "Antoninus Pius",
+      "Mark Aurel"
+    ],
+    "explanation_ru": "Император Адриан построил Адрианов вал в 122-128 годах н.э. для защиты римской провинции Британия от набегов пиктов и других племён с севера. Стена протяжённостью 117 километров проходила через всю Британию от побережья до побережья. Она была укреплена фортами и башнями.",
+    "explanation_de": "Kaiser Hadrian baute den Hadrianswall 122-128 n. Chr., um die römische Provinz Britannien vor Überfällen der Pikten und anderer Stämme aus dem Norden zu schützen. Die 117 Kilometer lange Mauer verlief quer durch Britannien von Küste zu Küste. Sie war mit Forts und Türmen befestigt.",
+    "interesting_facts": [
+      {
+        "ru": "Адрианов вал был одним из самых впечатляющих оборонительных сооружений Римской империи. Он символизировал переход римской политики от экспансии к обороне. Стена была построена из камня и земли и имела высоту до 6 метров.",
+        "de": "Der Hadrianswall war eines der beeindruckendsten Verteidigungsbauwerke des Römischen Reiches. Er symbolisierte den Übergang der römischen Politik von Expansion zu Verteidigung. Die Mauer wurde aus Stein und Erde gebaut und hatte eine Höhe von bis zu 6 Metern."
+      },
+      {
+        "ru": "Адрианов вал оставался границей Римской империи в Британии почти 300 лет. Он был заброшен в начале V века, когда римляне покинули Британию. Сегодня вал является объектом Всемирного наследия ЮНЕСКО и популярным туристическим маршрутом.",
+        "de": "Der Hadrianswall blieb fast 300 Jahre lang die Grenze des Römischen Reiches in Britannien. Er wurde zu Beginn des 5. Jahrhunderts aufgegeben, als die Römer Britannien verließen. Heute ist der Wall ein UNESCO-Weltkulturerbe und eine beliebte Touristenroute."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "122 CE",
+    "tags": [
+      "укрепления",
+      "Британия"
+    ]
+  },
+  {
+    "id": 428,
+    "question_ru": "Как назывался римский короткий меч?",
+    "question_de": "Wie hieß das römische Kurzschwert?",
+    "correct_answer_ru": "Гладиус",
+    "correct_answer_de": "Gladius",
+    "wrong_answers_ru": [
+      "Спата",
+      "Пилум",
+      "Скутум"
+    ],
+    "wrong_answers_de": [
+      "Spatha",
+      "Pilum",
+      "Scutum"
+    ],
+    "explanation_ru": "Гладиус был стандартным коротким мечом римских легионеров. Он имел длину около 60-85 сантиметров и был предназначен для колющих ударов в ближнем бою. Гладиус был очень эффективным оружием в сочетании с большим щитом скутумом. Римляне переняли гладиус у испанских племён.",
+    "explanation_de": "Der Gladius war das Standard-Kurzschwert römischer Legionäre. Er hatte eine Länge von etwa 60-85 Zentimetern und war für Stichangriffe im Nahkampf bestimmt. Der Gladius war eine sehr effektive Waffe in Kombination mit dem großen Schild Scutum. Die Römer übernahmen den Gladius von spanischen Stämmen.",
+    "interesting_facts": [
+      {
+        "ru": "Гладиус был идеальным оружием для римской тактики боя в плотном строю. Легионеры использовали его для колющих ударов между щитами противника. Гладиус был настолько эффективен, что стал символом римской военной мощи. От его названия происходит слово 'гладиатор'.",
+        "de": "Der Gladius war die ideale Waffe für die römische Taktik des Kampfes in dichten Formationen. Die Legionäre verwendeten ihn für Stichangriffe zwischen den Schilden des Feindes. Der Gladius war so effektiv, dass er zum Symbol der römischen Militärmacht wurde. Sein Name ist der Ursprung des Wortes 'Gladiator'."
+      },
+      {
+        "ru": "Римляне производили гладиусы в больших количествах и стандартизировали их производство. Мечи изготавливались из высококачественной стали и имели острое лезвие и прочный наконечник. Гладиус оставался основным оружием римской пехоты на протяжении веков.",
+        "de": "Die Römer produzierten Gladii in großen Mengen und standardisierten ihre Herstellung. Die Schwerter wurden aus hochwertigem Stahl hergestellt und hatten eine scharfe Klinge und eine robuste Spitze. Der Gladius blieb jahrhundertelang die Hauptwaffe der römischen Infanterie."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "оружие",
+      "армия"
+    ]
+  },
+  {
+    "id": 429,
+    "question_ru": "Кто был богом виноделия?",
+    "question_de": "Wer war der Gott des Weinbaus?",
+    "correct_answer_ru": "Бахус",
+    "correct_answer_de": "Bacchus",
+    "wrong_answers_ru": [
+      "Либер",
+      "Сатурн",
+      "Фавн"
+    ],
+    "wrong_answers_de": [
+      "Liber",
+      "Saturn",
+      "Faunus"
+    ],
+    "explanation_ru": "Бахус был римским богом виноделия, вина, веселья и экстаза. Он был отождествлён с греческим Дионисом и стал покровителем виноделов и празднеств. Бахус изображался с виноградной лозой, чашей вина и часто в сопровождении сатиров и менад. Его культ включал оргиастические обряды.",
+    "explanation_de": "Bacchus war der römische Gott des Weinbaus, des Weins, der Fröhlichkeit und der Ekstase. Er wurde mit dem griechischen Dionysos identifiziert und wurde zum Schutzpatron der Winzer und Feste. Bacchus wurde mit Weinrebe, Weinkelch und oft in Begleitung von Satyrn und Mänaden dargestellt. Sein Kult umfasste orgiastische Riten.",
+    "interesting_facts": [
+      {
+        "ru": "Культ Бахуса был очень популярен в Риме, особенно среди женщин и низших классов. Римский сенат пытался ограничить его распространение из-за его экстатического характера. Праздники в честь Бахуса, вакханалии, часто перерастали в неконтролируемые оргии.",
+        "de": "Der Kult des Bacchus war in Rom sehr beliebt, besonders bei Frauen und den unteren Klassen. Der römische Senat versuchte, seine Verbreitung aufgrund seines ekstatischen Charakters einzuschränken. Die Feste zu Ehren des Bacchus, die Bacchanalien, arteten oft in unkontrollierte Orgien aus."
+      },
+      {
+        "ru": "Бахус был также богом театра и искусства. Римские драматурги часто обращались к нему в своих произведениях. Виноделие было важной частью римской экономики и культуры. Бахус считался освободителем от забот и источником радости.",
+        "de": "Bacchus war auch der Gott des Theaters und der Kunst. Römische Dramatiker wandten sich oft an ihn in ihren Werken. Der Weinbau war ein wichtiger Teil der römischen Wirtschaft und Kultur. Bacchus galt als Befreier von Sorgen und Quelle der Freude."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "вино"
+    ]
+  },
+  {
+    "id": 430,
+    "question_ru": "В каком году произошла битва при Заме?",
+    "question_de": "In welchem Jahr fand die Schlacht von Zama statt?",
+    "correct_answer_ru": "202 год до н.э.",
+    "correct_answer_de": "202 v. Chr.",
+    "wrong_answers_ru": [
+      "216 год до н.э.",
+      "207 год до н.э.",
+      "200 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "216 v. Chr.",
+      "207 v. Chr.",
+      "200 v. Chr."
+    ],
+    "explanation_ru": "Битва при Заме произошла в 202 году до н.э. и стала решающим сражением Второй Пунической войны. Римская армия под командованием Сципиона Африканского разгромила карфагенскую армию Ганнибала. Эта победа положила конец войне и установила римское господство в Западном Средиземноморье.",
+    "explanation_de": "Die Schlacht von Zama fand 202 v. Chr. statt und war die entscheidende Schlacht des Zweiten Punischen Krieges. Die römische Armee unter Scipio Africanus besiegte die karthagische Armee Hannibals. Dieser Sieg beendete den Krieg und etablierte die römische Vorherrschaft im westlichen Mittelmeer.",
+    "interesting_facts": [
+      {
+        "ru": "Битва при Заме была единственным крупным поражением Ганнибала в его военной карьере. Сципион использовал тактику, которую он изучил у Ганнибала, включая использование слонов. Победа при Заме принесла Сципиону прозвище 'Африканский' и сделала его героем Рима.",
+        "de": "Die Schlacht von Zama war die einzige große Niederlage Hannibals in seiner militärischen Laufbahn. Scipio verwendete Taktiken, die er von Hannibal gelernt hatte, einschließlich des Einsatzes von Elefanten. Der Sieg bei Zama brachte Scipio den Beinamen 'Africanus' ein und machte ihn zum Helden Roms."
+      },
+      {
+        "ru": "После битвы при Заме Карфаген был вынужден принять унизительные условия мира. Город потерял все свои заморские владения и должен был выплатить огромную контрибуцию. Эта победа сделала Рим доминирующей силой в Средиземноморье.",
+        "de": "Nach der Schlacht von Zama war Karthago gezwungen, demütigende Friedensbedingungen zu akzeptieren. Die Stadt verlor alle ihre überseeischen Besitzungen und musste eine enorme Entschädigung zahlen. Dieser Sieg machte Rom zur dominierenden Macht im Mittelmeer."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "202 BCE",
+    "tags": [
+      "битвы",
+      "победы"
+    ]
+  },
+  {
+    "id": 431,
+    "question_ru": "Кто победил Ганнибала?",
+    "question_de": "Wer besiegte Hannibal?",
+    "correct_answer_ru": "Сципион Африканский",
+    "correct_answer_de": "Scipio Africanus",
+    "wrong_answers_ru": [
+      "Фабий Максим",
+      "Марцелл",
+      "Клавдий Нерон"
+    ],
+    "wrong_answers_de": [
+      "Fabius Maximus",
+      "Marcellus",
+      "Claudius Nero"
+    ],
+    "explanation_ru": "Публий Корнелий Сципион Африканский победил Ганнибала в битве при Заме в 202 году до н.э. Сципион был молодым талантливым полководцем, который изучил тактику Ганнибала и использовал её против него. После победы он получил прозвище 'Африканский' и стал одним из величайших героев Рима.",
+    "explanation_de": "Publius Cornelius Scipio Africanus besiegte Hannibal in der Schlacht von Zama 202 v. Chr. Scipio war ein junger, talentierter Feldherr, der Hannibals Taktik studierte und sie gegen ihn einsetzte. Nach dem Sieg erhielt er den Beinamen 'Africanus' und wurde einer der größten Helden Roms.",
+    "interesting_facts": [
+      {
+        "ru": "Сципион был одним из немногих римских полководцев, которые смогли победить Ганнибала в открытом бою. Он перенёс войну в Африку, заставив Ганнибала покинуть Италию. Сципион также был известен своей великодушностью к побеждённым врагам.",
+        "de": "Scipio war einer der wenigen römischen Feldherren, die Hannibal in einer offenen Schlacht besiegen konnten. Er verlegte den Krieg nach Afrika und zwang Hannibal, Italien zu verlassen. Scipio war auch für seine Großzügigkeit gegenüber besiegten Feinden bekannt."
+      },
+      {
+        "ru": "После победы над Ганнибалом Сципион стал самым влиятельным человеком в Риме. Однако его политические противники обвинили его в коррупции, и он удалился в изгнание. Сципион умер в изгнании, но его военная слава осталась бессмертной.",
+        "de": "Nach dem Sieg über Hannibal wurde Scipio der einflussreichste Mann in Rom. Seine politischen Gegner beschuldigten ihn jedoch der Korruption, und er zog sich ins Exil zurück. Scipio starb im Exil, aber sein militärischer Ruhm blieb unsterblich."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "202 BCE",
+    "tags": [
+      "полководцы",
+      "победители"
+    ]
+  },
+  {
+    "id": 432,
+    "question_ru": "Как называлось римское копьё?",
+    "question_de": "Wie hieß der römische Speer?",
+    "correct_answer_ru": "Пилум",
+    "correct_answer_de": "Pilum",
+    "wrong_answers_ru": [
+      "Гаста",
+      "Ланцея",
+      "Веритум"
+    ],
+    "wrong_answers_de": [
+      "Hasta",
+      "Lancea",
+      "Verutum"
+    ],
+    "explanation_ru": "Пилум было метательным копьём римских легионеров длиной около 2 метров. Оно имело длинный железный наконечник и деревянное древко. Пилум был предназначен для метания перед рукопашным боем и мог пробивать щиты и доспехи противника. После попадания наконечник гнулся, делая щит бесполезным.",
+    "explanation_de": "Das Pilum war ein Wurfspeer römischer Legionäre mit einer Länge von etwa 2 Metern. Es hatte eine lange Eisenspitze und einen Holzschaft. Das Pilum war für das Werfen vor dem Nahkampf bestimmt und konnte Schilde und Rüstungen des Feindes durchdringen. Nach dem Treffer bog sich die Spitze und machte den Schild unbrauchbar.",
+    "interesting_facts": [
+      {
+        "ru": "Пилум было очень эффективным оружием, которое использовалось для дезорганизации вражеских рядов перед атакой. Легионеры обычно несли два пилума - одно тяжёлое и одно лёгкое. Пилум мог пролететь до 30 метров и нанести серьёзные повреждения.",
+        "de": "Das Pilum war eine sehr effektive Waffe, die verwendet wurde, um feindliche Reihen vor dem Angriff zu desorganisieren. Legionäre trugen normalerweise zwei Pila - ein schweres und ein leichtes. Das Pilum konnte bis zu 30 Meter fliegen und ernsthafte Schäden verursachen."
+      },
+      {
+        "ru": "Конструкция пилума была специально разработана так, чтобы наконечник гнулся при попадании. Это предотвращало использование пилума противником и делало щиты бесполезными. Пилум оставался стандартным оружием римской пехоты на протяжении веков.",
+        "de": "Die Konstruktion des Pilums war speziell so entwickelt, dass sich die Spitze beim Treffer bog. Dies verhinderte die Verwendung des Pilums durch den Feind und machte Schilde unbrauchbar. Das Pilum blieb jahrhundertelang die Standardwaffe der römischen Infanterie."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "4th century BCE",
+    "tags": [
+      "оружие",
+      "армия"
+    ]
+  },
+  {
+    "id": 433,
+    "question_ru": "Кто был богиней мудрости?",
+    "question_de": "Wer war die Göttin der Weisheit?",
+    "correct_answer_ru": "Минерва",
+    "correct_answer_de": "Minerva",
+    "wrong_answers_ru": [
+      "Юнона",
+      "Веста",
+      "Церера"
+    ],
+    "wrong_answers_de": [
+      "Juno",
+      "Vesta",
+      "Ceres"
+    ],
+    "explanation_ru": "Минерва была римской богиней мудрости, ремёсел, искусства и войны. Она была отождествлена с греческой Афиной и стала одной из главных богинь римского пантеона. Минерва была покровительницей ремесленников, художников, учителей и студентов. Она также ассоциировалась с стратегической войной, в отличие от Марса, бога кровавой битвы.",
+    "explanation_de": "Minerva war die römische Göttin der Weisheit, des Handwerks, der Kunst und des Krieges. Sie wurde mit der griechischen Athena identifiziert und wurde zu einer der Hauptgöttinnen des römischen Pantheons. Minerva war die Schutzpatronin der Handwerker, Künstler, Lehrer und Studenten. Sie wurde auch mit strategischem Krieg assoziiert, im Gegensatz zu Mars, dem Gott des blutigen Kampfes.",
+    "interesting_facts": [
+      {
+        "ru": "Минерва была особенно почитаема в Риме, и её храм на Капитолийском холме был одним из самых важных. Она была частью капитолийской триады вместе с Юпитером и Юноной. Минерва также была покровительницей медицины и врачевания.",
+        "de": "Minerva wurde in Rom besonders verehrt, und ihr Tempel auf dem Kapitolhügel war einer der wichtigsten. Sie war Teil der kapitolinischen Triade zusammen mit Jupiter und Juno. Minerva war auch die Schutzpatronin der Medizin und des Heilens."
+      },
+      {
+        "ru": "Праздник Минервы, Квинкватрии, отмечался в марте и был особенно важен для ремесленников и студентов. Минерва изображалась с совой, символом мудрости, и в шлеме. Она считалась защитницей Рима и его граждан.",
+        "de": "Das Fest der Minerva, die Quinquatria, wurde im März gefeiert und war besonders wichtig für Handwerker und Studenten. Minerva wurde mit einer Eule, dem Symbol der Weisheit, und einem Helm dargestellt. Sie galt als Beschützerin Roms und seiner Bürger."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "мудрость"
+    ]
+  },
+  {
+    "id": 434,
+    "question_ru": "В каком году Юлий Цезарь пересёк Рубикон?",
+    "question_de": "In welchem Jahr überquerte Julius Cäsar den Rubicon?",
+    "correct_answer_ru": "49 год до н.э.",
+    "correct_answer_de": "49 v. Chr.",
+    "wrong_answers_ru": [
+      "50 год до н.э.",
+      "48 год до н.э.",
+      "44 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "50 v. Chr.",
+      "48 v. Chr.",
+      "44 v. Chr."
+    ],
+    "explanation_ru": "Юлий Цезарь пересёк реку Рубикон 10 января 49 года до н.э., начав гражданскую войну против сената и Помпея. Переход через Рубикон был актом неповиновения, так как генералам было запрещено вводить войска в Италию. Цезарь произнёс знаменитую фразу 'Жребий брошен' (Alea iacta est).",
+    "explanation_de": "Julius Cäsar überquerte den Fluss Rubicon am 10. Januar 49 v. Chr. und begann damit den Bürgerkrieg gegen den Senat und Pompeius. Die Überquerung des Rubicon war ein Akt des Ungehorsams, da Generälen verboten war, Truppen nach Italien zu führen. Cäsar sprach den berühmten Satz 'Der Würfel ist gefallen' (Alea iacta est).",
+    "interesting_facts": [
+      {
+        "ru": "Переход через Рубикон стал точкой невозврата для Цезаря. Он понимал, что этот шаг приведёт к гражданской войне, но не мог позволить сенату лишить его власти. Фраза 'перейти Рубикон' стала идиомой, означающей принятие необратимого решения.",
+        "de": "Die Überquerung des Rubicon wurde zum Punkt ohne Wiederkehr für Cäsar. Er verstand, dass dieser Schritt zum Bürgerkrieg führen würde, konnte aber nicht zulassen, dass der Senat ihn seiner Macht beraubte. Die Phrase 'den Rubicon überschreiten' wurde zu einer Redewendung, die eine irreversible Entscheidung bedeutet."
+      },
+      {
+        "ru": "После перехода через Рубикон Цезарь быстро захватил Италию и вынудил Помпея бежать в Грецию. Гражданская война длилась несколько лет и закончилась победой Цезаря. Однако эта победа привела к установлению диктатуры и в конечном итоге к убийству Цезаря.",
+        "de": "Nach der Überquerung des Rubicon eroberte Cäsar schnell Italien und zwang Pompeius, nach Griechenland zu fliehen. Der Bürgerkrieg dauerte mehrere Jahre und endete mit Cäsars Sieg. Dieser Sieg führte jedoch zur Errichtung einer Diktatur und letztendlich zur Ermordung Cäsars."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "49 BCE",
+    "tags": [
+      "гражданская война",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 435,
+    "question_ru": "Как назывался римский щит?",
+    "question_de": "Wie hieß der römische Schild?",
+    "correct_answer_ru": "Скутум",
+    "correct_answer_de": "Scutum",
+    "wrong_answers_ru": [
+      "Парма",
+      "Клипеус",
+      "Пельта"
+    ],
+    "wrong_answers_de": [
+      "Parma",
+      "Clipeus",
+      "Pelta"
+    ],
+    "explanation_ru": "Скутум был большим прямоугольным щитом римских легионеров. Он был сделан из дерева, обтянутого кожей и усиленного металлическими полосами. Скутум имел изогнутую форму, которая защищала тело воина со всех сторон. Он был очень эффективен в ближнем бою и позволял легионерам формировать защитную стену.",
+    "explanation_de": "Das Scutum war der große rechteckige Schild römischer Legionäre. Es wurde aus Holz hergestellt, mit Leder überzogen und mit Metallstreifen verstärkt. Das Scutum hatte eine gebogene Form, die den Körper des Kriegers von allen Seiten schützte. Es war sehr effektiv im Nahkampf und ermöglichte es den Legionären, eine Schutzmauer zu bilden.",
+    "interesting_facts": [
+      {
+        "ru": "Скутум был одним из самых эффективных щитов в древности. Его конструкция позволяла легионерам формировать знаменитую 'черепаху' (тестудо), когда они поднимали щиты над головой. Скутум также использовался для нанесения ударов противнику.",
+        "de": "Das Scutum war einer der effektivsten Schilde der Antike. Seine Konstruktion ermöglichte es den Legionären, die berühmte 'Schildkröte' (Testudo) zu bilden, wenn sie die Schilde über den Kopf hoben. Das Scutum wurde auch verwendet, um den Feind zu schlagen."
+      },
+      {
+        "ru": "Скутум был украшен эмблемами легиона и часто имел яркие цвета. Он весил около 10 килограммов и требовал большой силы для использования. Скутум оставался стандартным щитом римской пехоты на протяжении всей истории империи.",
+        "de": "Das Scutum war mit Emblemen der Legion verziert und hatte oft helle Farben. Es wog etwa 10 Kilogramm und erforderte große Kraft zur Verwendung. Das Scutum blieb der Standard-Schild der römischen Infanterie während der gesamten Geschichte des Reiches."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "оружие",
+      "защита"
+    ]
+  },
+  {
+    "id": 436,
+    "question_ru": "Кто была матерью Ромула?",
+    "question_de": "Wer war die Mutter von Romulus?",
+    "correct_answer_ru": "Рея Сильвия",
+    "correct_answer_de": "Rhea Silvia",
+    "wrong_answers_ru": [
+      "Лукреция",
+      "Венера",
+      "Юнона"
+    ],
+    "wrong_answers_de": [
+      "Lucretia",
+      "Venus",
+      "Juno"
+    ],
+    "explanation_ru": "Рея Сильвия была матерью Ромула и Рема, основателей Рима. Она была весталкой, жрицей богини Весты, и дочерью Нумитора, царя Альба-Лонги. Согласно легенде, бог Марс соблазнил её, и она родила близнецов. За нарушение обета безбрачия её закопали заживо.",
+    "explanation_de": "Rhea Silvia war die Mutter von Romulus und Remus, den Gründern Roms. Sie war eine Vestalin, Priesterin der Göttin Vesta, und die Tochter von Numitor, dem König von Alba Longa. Der Legende nach verführte der Gott Mars sie, und sie gebar Zwillinge. Wegen des Bruchs des Keuschheitsgelübdes wurde sie lebendig begraben.",
+    "interesting_facts": [
+      {
+        "ru": "История Реи Сильвии показывает суровость римских законов для весталок. Нарушение обета безбрачия каралось смертью. Однако её сыновья стали основателями Рима, что сделало её важной фигурой в римской мифологии. Рея Сильвия символизировала связь между божественным и человеческим.",
+        "de": "Die Geschichte der Rhea Silvia zeigt die Härte der römischen Gesetze für Vestalinnen. Der Bruch des Keuschheitsgelübdes wurde mit dem Tod bestraft. Ihre Söhne wurden jedoch zu den Gründern Roms, was sie zu einer wichtigen Figur in der römischen Mythologie machte. Rhea Silvia symbolisierte die Verbindung zwischen dem Göttlichen und dem Menschlichen."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "753 BCE",
+    "tags": [
+      "легенды",
+      "семья"
+    ]
+  },
+  {
+    "id": 437,
+    "question_ru": "В каком году произошла битва при Акциуме?",
+    "question_de": "In welchem Jahr fand die Schlacht von Actium statt?",
+    "correct_answer_ru": "31 год до н.э.",
+    "correct_answer_de": "31 v. Chr.",
+    "wrong_answers_ru": [
+      "32 год до н.э.",
+      "30 год до н.э.",
+      "27 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "32 v. Chr.",
+      "30 v. Chr.",
+      "27 v. Chr."
+    ],
+    "explanation_ru": "Битва при Акциуме произошла 2 сентября 31 года до н.э. между флотами Октавиана и Марка Антония с Клеопатрой. Октавиан одержал решительную победу, что положило конец гражданской войне и сделало его единоличным правителем Рима. Эта битва знаменовала конец Римской республики и начало империи.",
+    "explanation_de": "Die Schlacht von Actium fand am 2. September 31 v. Chr. zwischen den Flotten von Octavian und Marcus Antonius mit Kleopatra statt. Octavian errang einen entscheidenden Sieg, der den Bürgerkrieg beendete und ihn zum alleinigen Herrscher Roms machte. Diese Schlacht markierte das Ende der Römischen Republik und den Beginn des Kaiserreiches.",
+    "interesting_facts": [
+      {
+        "ru": "Битва при Акциуме была морским сражением, в котором флот Октавиана под командованием Агриппы разгромил объединённый флот Антония и Клеопатры. Клеопатра и Антоний бежали с поля боя, что привело к их гибели. Победа при Акциуме сделала Октавиана императором Августом.",
+        "de": "Die Schlacht von Actium war eine Seeschlacht, in der Octavians Flotte unter Agrippa die vereinte Flotte von Antonius und Kleopatra besiegte. Kleopatra und Antonius flohen vom Schlachtfeld, was zu ihrem Tod führte. Der Sieg bei Actium machte Octavian zum Kaiser Augustus."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "31 BCE",
+    "tags": [
+      "битвы",
+      "Октавиан"
+    ]
+  },
+  {
+    "id": 438,
+    "question_ru": "Какой оратор был казнён Марком Антонием?",
+    "question_de": "Welcher Redner wurde von Marcus Antonius hingerichtet?",
+    "correct_answer_ru": "Цицерон",
+    "correct_answer_de": "Cicero",
+    "wrong_answers_ru": [
+      "Катон",
+      "Брут",
+      "Кассий"
+    ],
+    "wrong_answers_de": [
+      "Cato",
+      "Brutus",
+      "Cassius"
+    ],
+    "explanation_ru": "Марк Туллий Цицерон был казнён по приказу Марка Антония в 43 году до н.э. Цицерон был знаменитым оратором, философом и политиком, который выступал против Антония в своих 'Филиппиках'. Антоний приказал отрубить ему голову и руки, которые были выставлены на форуме как предупреждение.",
+    "explanation_de": "Marcus Tullius Cicero wurde 43 v. Chr. auf Befehl von Marcus Antonius hingerichtet. Cicero war ein berühmter Redner, Philosoph und Politiker, der sich in seinen 'Philippiken' gegen Antonius aussprach. Antonius befahl, ihm den Kopf und die Hände abzuschneiden, die auf dem Forum als Warnung ausgestellt wurden.",
+    "interesting_facts": [
+      {
+        "ru": "Цицерон был одним из величайших ораторов и писателей Древнего Рима. Его речи и философские труды оказали огромное влияние на западную культуру. Убийство Цицерона стало символом конца республиканских свобод и начала имперской тирании.",
+        "de": "Cicero war einer der größten Redner und Schriftsteller des antiken Roms. Seine Reden und philosophischen Werke hatten einen enormen Einfluss auf die westliche Kultur. Die Ermordung Ciceros wurde zum Symbol für das Ende der republikanischen Freiheiten und den Beginn der kaiserlichen Tyrannei."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "43 BCE",
+    "tags": [
+      "ораторы",
+      "смерть"
+    ]
+  },
+  {
+    "id": 439,
+    "question_ru": "Как называлась римская осадная машина?",
+    "question_de": "Wie hieß die römische Belagerungsmaschine?",
+    "correct_answer_ru": "Баллиста",
+    "correct_answer_de": "Ballista",
+    "wrong_answers_ru": [
+      "Катапульта",
+      "Онагр",
+      "Скорпион"
+    ],
+    "wrong_answers_de": [
+      "Katapult",
+      "Onager",
+      "Skorpion"
+    ],
+    "explanation_ru": "Баллиста была римской осадной машиной, которая метала большие стрелы или камни на большие расстояния. Она использовала скрученные верёвки для создания силы и была очень точной. Баллиста использовалась для разрушения укреплений и уничтожения защитников стен. Она была одним из самых эффективных осадных орудий римлян.",
+    "explanation_de": "Die Ballista war eine römische Belagerungsmaschine, die große Pfeile oder Steine über große Entfernungen schleuderte. Sie verwendete verdrehte Seile, um Kraft zu erzeugen, und war sehr präzise. Die Ballista wurde verwendet, um Befestigungen zu zerstören und Verteidiger der Mauern zu töten. Sie war eine der effektivsten Belagerungswaffen der Römer.",
+    "interesting_facts": [
+      {
+        "ru": "Баллиста могла метать снаряды весом до 27 килограммов на расстояние до 400 метров. Она была настолько точной, что могла поражать отдельных воинов. Римляне использовали баллисты не только при осадах, но и в полевых сражениях.",
+        "de": "Die Ballista konnte Geschosse mit einem Gewicht von bis zu 27 Kilogramm über eine Entfernung von bis zu 400 Metern schleudern. Sie war so präzise, dass sie einzelne Krieger treffen konnte. Die Römer verwendeten Ballisten nicht nur bei Belagerungen, sondern auch in Feldschlachten."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "оружие",
+      "осады"
+    ]
+  },
+  {
+    "id": 440,
+    "question_ru": "Кто был богом дверей?",
+    "question_de": "Wer war der Gott der Türen?",
+    "correct_answer_ru": "Янус",
+    "correct_answer_de": "Janus",
+    "wrong_answers_ru": [
+      "Термин",
+      "Веста",
+      "Лары"
+    ],
+    "wrong_answers_de": [
+      "Terminus",
+      "Vesta",
+      "Laren"
+    ],
+    "explanation_ru": "Янус был римским богом дверей, ворот, переходов и начала. Он изображался с двумя лицами, смотрящими в противоположные стороны, что символизировало его способность видеть прошлое и будущее. Янус был одним из старейших римских богов и ассоциировался с началом всех дел.",
+    "explanation_de": "Janus war der römische Gott der Türen, Tore, Übergänge und des Anfangs. Er wurde mit zwei Gesichtern dargestellt, die in entgegengesetzte Richtungen blickten, was seine Fähigkeit symbolisierte, Vergangenheit und Zukunft zu sehen. Janus war einer der ältesten römischen Götter und wurde mit dem Beginn aller Dinge assoziiert.",
+    "interesting_facts": [
+      {
+        "ru": "Янус дал название месяцу январю (Januarius), который был первым месяцем римского календаря. Храм Януса на форуме имел двери, которые открывались во время войны и закрывались во время мира. Ворота храма редко были закрыты, так как Рим почти постоянно вёл войны.",
+        "de": "Janus gab dem Monat Januar (Januarius) seinen Namen, der der erste Monat des römischen Kalenders war. Der Tempel des Janus auf dem Forum hatte Türen, die während des Krieges geöffnet und während des Friedens geschlossen wurden. Die Tore des Tempels waren selten geschlossen, da Rom fast ständig Kriege führte."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "переходы"
+    ]
+  },
+  {
+    "id": 441,
+    "question_ru": "В каком году началось восстание Спартака?",
+    "question_de": "In welchem Jahr begann der Aufstand des Spartacus?",
+    "correct_answer_ru": "73 год до н.э.",
+    "correct_answer_de": "73 v. Chr.",
+    "wrong_answers_ru": [
+      "71 год до н.э.",
+      "75 год до н.э.",
+      "70 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "71 v. Chr.",
+      "75 v. Chr.",
+      "70 v. Chr."
+    ],
+    "explanation_ru": "Восстание Спартака началось в 73 году до н.э., когда группа гладиаторов сбежала из школы в Капуе. Спартак, фракиец по происхождению, стал лидером восстания. Восстание быстро распространилось по Италии, и армия рабов достигла численности в десятки тысяч человек. Восстание было подавлено в 71 году до н.э.",
+    "explanation_de": "Der Aufstand des Spartacus begann 73 v. Chr., als eine Gruppe von Gladiatoren aus der Schule in Capua floh. Spartacus, ein Thraker von Geburt, wurde zum Anführer des Aufstands. Der Aufstand breitete sich schnell in Italien aus, und die Armee der Sklaven erreichte eine Stärke von Zehntausenden. Der Aufstand wurde 71 v. Chr. niedergeschlagen.",
+    "interesting_facts": [
+      {
+        "ru": "Восстание Спартака было самым крупным восстанием рабов в римской истории. Оно потрясло римское общество и заставило сенат мобилизовать огромные силы для его подавления. Спартак стал символом борьбы за свободу и вдохновил многие последующие движения.",
+        "de": "Der Aufstand des Spartacus war der größte Sklavenaufstand in der römischen Geschichte. Er erschütterte die römische Gesellschaft und zwang den Senat, enorme Kräfte zu mobilisieren, um ihn niederzuschlagen. Spartacus wurde zum Symbol des Kampfes für die Freiheit und inspirierte viele nachfolgende Bewegungen."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "73 BCE",
+    "tags": [
+      "восстания",
+      "рабы"
+    ]
+  },
+  {
+    "id": 442,
+    "question_ru": "Кто был последним царём Рима?",
+    "question_de": "Wer war der letzte König Roms?",
+    "correct_answer_ru": "Тарквиний Гордый",
+    "correct_answer_de": "Tarquinius Superbus",
+    "wrong_answers_ru": [
+      "Тарквиний Древний",
+      "Сервий Туллий",
+      "Нума Помпилий"
+    ],
+    "wrong_answers_de": [
+      "Tarquinius Priscus",
+      "Servius Tullius",
+      "Numa Pompilius"
+    ],
+    "explanation_ru": "Тарквиний Гордый (Тарквиний Суперб) был последним царём Рима, правившим с 535 по 509 год до н.э. Он был тираном, который пришёл к власти, убив своего тестя Сервия Туллия. Его правление было отмечено жестокостью и деспотизмом. Он был изгнан из Рима в 509 году до н.э., что положило начало республике.",
+    "explanation_de": "Tarquinius Superbus war der letzte König Roms und regierte von 535 bis 509 v. Chr. Er war ein Tyrann, der an die Macht kam, indem er seinen Schwiegervater Servius Tullius tötete. Seine Herrschaft war von Grausamkeit und Despotismus geprägt. Er wurde 509 v. Chr. aus Rom vertrieben, was den Beginn der Republik markierte.",
+    "interesting_facts": [
+      {
+        "ru": "Изгнание Тарквиния Гордого стало поворотным моментом в римской истории. Легенда гласит, что его сын изнасиловал Лукрецию, что вызвало восстание. После изгнания римляне поклялись никогда больше не допускать царей. Это привело к созданию республиканской системы правления.",
+        "de": "Die Vertreibung von Tarquinius Superbus wurde zu einem Wendepunkt in der römischen Geschichte. Der Legende nach vergewaltigte sein Sohn Lucretia, was einen Aufstand auslöste. Nach der Vertreibung schworen die Römer, nie wieder Könige zuzulassen. Dies führte zur Schaffung des republikanischen Regierungssystems."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "509 BCE",
+    "tags": [
+      "цари",
+      "республика"
+    ]
+  },
+  {
+    "id": 443,
+    "question_ru": "Как называлась римская военная черепаха?",
+    "question_de": "Wie hieß die römische Militärschildkröte?",
+    "correct_answer_ru": "Тестудо",
+    "correct_answer_de": "Testudo",
+    "wrong_answers_ru": [
+      "Фаланга",
+      "Клин",
+      "Квадрат"
+    ],
+    "wrong_answers_de": [
+      "Phalanx",
+      "Keil",
+      "Quadrat"
+    ],
+    "explanation_ru": "Тестудо (черепаха) была римской военной формацией, в которой легионеры образовывали защитную стену из щитов. Солдаты в первых рядах держали щиты перед собой, а солдаты сзади поднимали щиты над головой, создавая защитный панцирь. Эта формация защищала от стрел и камней во время осад.",
+    "explanation_de": "Die Testudo (Schildkröte) war eine römische Militärformation, bei der Legionäre eine Schutzmauer aus Schilden bildeten. Soldaten in den vorderen Reihen hielten Schilde vor sich, während Soldaten hinten Schilde über den Kopf hoben und einen Schutzpanzer bildeten. Diese Formation schützte vor Pfeilen und Steinen während Belagerungen.",
+    "interesting_facts": [
+      {
+        "ru": "Тестудо была одной из самых эффективных оборонительных формаций в древности. Она позволяла римлянам приближаться к стенам осаждённых городов с минимальными потерями. Тестудо также использовалась в полевых сражениях для защиты от метательных снарядов.",
+        "de": "Die Testudo war eine der effektivsten Verteidigungsformationen der Antike. Sie ermöglichte es den Römern, sich mit minimalen Verlusten den Mauern belagerter Städte zu nähern. Die Testudo wurde auch in Feldschlachten verwendet, um vor Wurfsgeschossen zu schützen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "тактика",
+      "армия"
+    ]
+  },
+  {
+    "id": 444,
+    "question_ru": "Кто был богом солнца?",
+    "question_de": "Wer war der Gott der Sonne?",
+    "correct_answer_ru": "Соль",
+    "correct_answer_de": "Sol",
+    "wrong_answers_ru": [
+      "Аполлон",
+      "Феб",
+      "Гелиос"
+    ],
+    "wrong_answers_de": [
+      "Apollon",
+      "Phöbus",
+      "Helios"
+    ],
+    "explanation_ru": "Соль (Sol) был римским богом солнца, отождествлённым с греческим Гелиосом. Он был богом света, тепла и жизни. Соль изображался с солнечным диском и часто в колеснице, запряжённой лошадьми. Его культ стал особенно популярен в поздней Римской империи, когда он был объединён с восточным богом солнца Митрой.",
+    "explanation_de": "Sol war der römische Gott der Sonne, identifiziert mit dem griechischen Helios. Er war der Gott des Lichts, der Wärme und des Lebens. Sol wurde mit einer Sonnenscheibe dargestellt und oft in einem von Pferden gezogenen Wagen. Sein Kult wurde besonders in der späten Römischen Kaiserzeit populär, als er mit dem östlichen Sonnengott Mithras vereint wurde.",
+    "interesting_facts": [
+      {
+        "ru": "Соль был особенно почитаем императорами поздней империи, которые ассоциировали себя с солнцем. Император Аврелиан построил храм Соля Непобедимого в Риме. Культ солнца стал важной частью римской религии и оказал влияние на развитие христианства.",
+        "de": "Sol wurde besonders von den Kaisern des späten Reiches verehrt, die sich mit der Sonne assoziierten. Kaiser Aurelian baute einen Tempel für Sol Invictus in Rom. Der Sonnenkult wurde ein wichtiger Teil der römischen Religion und beeinflusste die Entwicklung des Christentums."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "солнце"
+    ]
+  },
+  {
+    "id": 445,
+    "question_ru": "В каком году был издан эдикт о веротерпимости?",
+    "question_de": "In welchem Jahr wurde das Edikt der Toleranz erlassen?",
+    "correct_answer_ru": "313 год н.э.",
+    "correct_answer_de": "313 n. Chr.",
+    "wrong_answers_ru": [
+      "312 год н.э.",
+      "314 год н.э.",
+      "325 год н.э."
+    ],
+    "wrong_answers_de": [
+      "312 n. Chr.",
+      "314 n. Chr.",
+      "325 n. Chr."
+    ],
+    "explanation_ru": "Миланский эдикт о веротерпимости был издан в 313 году н.э. императорами Константином I и Лицинием. Эдикт провозгласил религиозную терпимость в Римской империи и положил конец гонениям на христиан. Это был поворотный момент в истории христианства, который привёл к его легализации и последующему принятию как государственной религии.",
+    "explanation_de": "Das Mailänder Edikt der Toleranz wurde 313 n. Chr. von den Kaisern Konstantin I. und Licinius erlassen. Das Edikt proklamierte religiöse Toleranz im Römischen Reich und beendete die Christenverfolgungen. Es war ein Wendepunkt in der Geschichte des Christentums, der zu seiner Legalisierung und späteren Annahme als Staatsreligion führte.",
+    "interesting_facts": [
+      {
+        "ru": "Миланский эдикт не только легализовал христианство, но и вернул христианам конфискованное имущество. Константин стал первым императором, который открыто поддерживал христианство. Эдикт стал основой для последующего превращения Римской империи в христианское государство.",
+        "de": "Das Mailänder Edikt legalisierte nicht nur das Christentum, sondern gab den Christen auch ihr beschlagnahmtes Eigentum zurück. Konstantin wurde der erste Kaiser, der das Christentum offen unterstützte. Das Edikt wurde zur Grundlage für die spätere Umwandlung des Römischen Reiches in einen christlichen Staat."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "313 CE",
+    "tags": [
+      "христианство",
+      "религия"
+    ]
+  },
+  {
+    "id": 446,
+    "question_ru": "Какой император издал эдикт о христианах?",
+    "question_de": "Welcher Kaiser erließ das Edikt über die Christen?",
+    "correct_answer_ru": "Константин I",
+    "correct_answer_de": "Konstantin I.",
+    "wrong_answers_ru": [
+      "Диоклетиан",
+      "Галерий",
+      "Максенций"
+    ],
+    "wrong_answers_de": [
+      "Diokletian",
+      "Galerius",
+      "Maxentius"
+    ],
+    "explanation_ru": "Константин I Великий издал Миланский эдикт в 313 году н.э. вместе с Лицинием. Константин стал первым римским императором, который принял христианство и сделал его легальной религией. Он также перенёс столицу империи в Константинополь и провёл множество реформ, которые укрепили империю.",
+    "explanation_de": "Konstantin I. der Große erließ das Mailänder Edikt 313 n. Chr. zusammen mit Licinius. Konstantin wurde der erste römische Kaiser, der das Christentum annahm und es zu einer legalen Religion machte. Er verlegte auch die Hauptstadt des Reiches nach Konstantinopel und führte viele Reformen durch, die das Reich stärkten.",
+    "interesting_facts": [
+      {
+        "ru": "Константин считается одним из самых влиятельных императоров в истории. Его обращение в христианство изменило ход мировой истории. Он созвал Первый Никейский собор в 325 году, который установил основные догматы христианства. Константин был канонизирован как святой в восточной церкви.",
+        "de": "Konstantin gilt als einer der einflussreichsten Kaiser der Geschichte. Seine Bekehrung zum Christentum veränderte den Lauf der Weltgeschichte. Er berief 325 das Erste Konzil von Nicäa ein, das die grundlegenden Dogmen des Christentums festlegte. Konstantin wurde in der östlichen Kirche als Heiliger kanonisiert."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "313 CE",
+    "tags": [
+      "императоры",
+      "религия"
+    ]
+  },
+  {
+    "id": 447,
+    "question_ru": "Как называлась римская монета из золота?",
+    "question_de": "Wie hieß die römische Goldmünze?",
+    "correct_answer_ru": "Ауреус",
+    "correct_answer_de": "Aureus",
+    "wrong_answers_ru": [
+      "Денарий",
+      "Сестерций",
+      "Асс"
+    ],
+    "wrong_answers_de": [
+      "Denar",
+      "Sesterz",
+      "As"
+    ],
+    "explanation_ru": "Ауреус была золотой монетой Римской империи, введённой во времена республики и ставшей стандартной золотой монетой при императорах. Она весила около 8 граммов и имела высокую стоимость. Ауреус использовался для крупных платежей и накопления богатства. Один ауреус равнялся 25 денариям.",
+    "explanation_de": "Der Aureus war eine Goldmünze des Römischen Reiches, die in republikanischer Zeit eingeführt wurde und zur Standard-Goldmünze unter den Kaisern wurde. Sie wog etwa 8 Gramm und hatte einen hohen Wert. Der Aureus wurde für große Zahlungen und zur Anhäufung von Reichtum verwendet. Ein Aureus entsprach 25 Denaren.",
+    "interesting_facts": [
+      {
+        "ru": "Ауреус был символом богатства и власти в Римской империи. На монетах часто изображались портреты императоров и важные события. Ауреус использовался для выплаты жалованья солдатам и подарков. В поздней империи ауреус был заменён солидом.",
+        "de": "Der Aureus war ein Symbol des Reichtums und der Macht im Römischen Reich. Die Münzen zeigten oft Porträts der Kaiser und wichtige Ereignisse. Der Aureus wurde für die Zahlung von Soldatengehältern und Geschenken verwendet. Im späten Reich wurde der Aureus durch den Solidus ersetzt."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "деньги",
+      "монеты"
+    ]
+  },
+  {
+    "id": 448,
+    "question_ru": "Кто была богиней охоты?",
+    "question_de": "Wer war die Göttin der Jagd?",
+    "correct_answer_ru": "Диана",
+    "correct_answer_de": "Diana",
+    "wrong_answers_ru": [
+      "Минерва",
+      "Венера",
+      "Юнона"
+    ],
+    "wrong_answers_de": [
+      "Minerva",
+      "Venus",
+      "Juno"
+    ],
+    "explanation_ru": "Диана была римской богиней охоты, луны, природы и диких животных. Она была отождествлена с греческой Артемидой и стала покровительницей охотников и защитницей дикой природы. Диана изображалась с луком и стрелами, часто в сопровождении оленей или собак. Она была также богиней-девственницей.",
+    "explanation_de": "Diana war die römische Göttin der Jagd, des Mondes, der Natur und der wilden Tiere. Sie wurde mit der griechischen Artemis identifiziert und wurde zur Schutzpatronin der Jäger und Beschützerin der Wildnis. Diana wurde mit Bogen und Pfeilen dargestellt, oft in Begleitung von Hirschen oder Hunden. Sie war auch eine jungfräuliche Göttin.",
+    "interesting_facts": [
+      {
+        "ru": "Диана была особенно почитаема в сельской местности и среди охотников. Её храм в Ариции был одним из самых важных святилищ. Диана также ассоциировалась с женственностью и защитой женщин. Её праздник отмечался 13 августа.",
+        "de": "Diana wurde besonders in ländlichen Gebieten und unter Jägern verehrt. Ihr Tempel in Aricia war eines der wichtigsten Heiligtümer. Diana wurde auch mit Weiblichkeit und dem Schutz von Frauen assoziiert. Ihr Fest wurde am 13. August gefeiert."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 449,
+    "question_ru": "В каком году был разрушен Карфаген?",
+    "question_de": "In welchem Jahr wurde Karthago zerstört?",
+    "correct_answer_ru": "146 год до н.э.",
+    "correct_answer_de": "146 v. Chr.",
+    "wrong_answers_ru": [
+      "149 год до н.э.",
+      "202 год до н.э.",
+      "150 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "149 v. Chr.",
+      "202 v. Chr.",
+      "150 v. Chr."
+    ],
+    "explanation_ru": "Карфаген был полностью разрушен римлянами в 146 году до н.э. после Третьей Пунической войны. Римская армия под командованием Сципиона Эмилиана осадила город в течение трёх лет и в конечном итоге захватила его. Город был сожжён, его жители проданы в рабство, а земля проклята и засыпана солью.",
+    "explanation_de": "Karthago wurde 146 v. Chr. von den Römern nach dem Dritten Punischen Krieg vollständig zerstört. Die römische Armee unter Scipio Ämilianus belagerte die Stadt drei Jahre lang und eroberte sie schließlich. Die Stadt wurde niedergebrannt, ihre Bewohner in die Sklaverei verkauft und das Land verflucht und mit Salz bestreut.",
+    "interesting_facts": [
+      {
+        "ru": "Разрушение Карфагена положило конец вековому соперничеству между Римом и Карфагеном. Катон Старший заканчивал каждую свою речь в сенате словами 'Карфаген должен быть разрушен'. Римляне полностью уничтожили город, чтобы он никогда больше не мог угрожать Риму.",
+        "de": "Die Zerstörung Karthagos beendete die jahrhundertelange Rivalität zwischen Rom und Karthago. Cato der Ältere beendete jede seiner Reden im Senat mit den Worten 'Karthago muss zerstört werden'. Die Römer zerstörten die Stadt vollständig, damit sie Rom nie wieder bedrohen konnte."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "146 BCE",
+    "tags": [
+      "войны",
+      "разрушения"
+    ]
+  },
+  {
+    "id": 450,
+    "question_ru": "Как называлась римская монета из серебра?",
+    "question_de": "Wie hieß die römische Silbermünze?",
+    "correct_answer_ru": "Денарий",
+    "correct_answer_de": "Denar",
+    "wrong_answers_ru": [
+      "Ауреус",
+      "Сестерций",
+      "Асс"
+    ],
+    "wrong_answers_de": [
+      "Aureus",
+      "Sesterz",
+      "As"
+    ],
+    "explanation_ru": "Денарий была основной серебряной монетой Римской республики и империи. Она была введена в 211 году до н.э. и оставалась стандартной монетой на протяжении веков. Денарий весил около 4 граммов и был самой распространённой монетой для повседневных платежей. Один денарий равнялся 4 сестерциям.",
+    "explanation_de": "Der Denar war die Hauptsilbermünze der Römischen Republik und des Reiches. Er wurde 211 v. Chr. eingeführt und blieb jahrhundertelang die Standardmünze. Der Denar wog etwa 4 Gramm und war die am weitesten verbreitete Münze für tägliche Zahlungen. Ein Denar entsprach 4 Sesterzen.",
+    "interesting_facts": [
+      {
+        "ru": "Денарий был символом римской экономической мощи и использовался по всей империи. На монетах изображались портреты императоров, боги и важные события. Денарий оставался основной монетой до III века н.э., когда инфляция привела к его обесцениванию.",
+        "de": "Der Denar war ein Symbol der römischen Wirtschaftsmacht und wurde im gesamten Reich verwendet. Die Münzen zeigten Porträts der Kaiser, Götter und wichtige Ereignisse. Der Denar blieb die Hauptmünze bis zum 3. Jahrhundert n. Chr., als die Inflation zu seiner Entwertung führte."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "211 BCE",
+    "tags": [
+      "деньги",
+      "монеты"
+    ]
+  }
+]

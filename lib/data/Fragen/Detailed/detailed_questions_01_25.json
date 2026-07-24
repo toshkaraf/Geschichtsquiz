@@ -431,7 +431,7 @@
       "Nefertari"
     ],
     "explanation_ru": "Клеопатра VII (69-30 до н.э.) - последняя царица Египта из династии Птолемеев. Известна своими романтическими отношениями с Юлием Цезарем и Марком Антонием. После поражения при Акциуме (31 г. до н.э.) и смерти Антония, покончила с собой, не желая стать пленницей Октавиана. С её смертью Египет стал римской провинцией.",
-    "explanation_de": "Kleopatra VII. (69-30 v. Chr.) war die letzte Königin Ägyptens aus der Ptolemäer-Dynastie. Bekannt für ihre romantischen Beziehungen zu Julius Caesar und Marcus Antonius. Nach der Niederlage bei Actium (31 v. Chr.) und Antonius' Tod beging sie Selbstmord, da sie nicht Octavians Gefangene werden wollte. Mit ihrem Tod wurde Ägypten zur römischen Provinz.",
+    "explanation_de": "Kleopatra VII. (69-30 v. Chr.) war die letzte Königin Ägyptens aus der Ptolemäer-Dynastie. Bekannt für ihre romantischen Beziehungen zu Julius Cäsar und Marcus Antonius. Nach der Niederlage bei Actium (31 v. Chr.) und Antonius' Tod beging sie Selbstmord, da sie nicht Octavians Gefangene werden wollte. Mit ihrem Tod wurde Ägypten zur römischen Provinz.",
     "difficulty": "easy",
     "category": "Древний Египет",
     "type": "factual",
@@ -501,7 +501,7 @@
   {
     "id": 13,
     "question_ru": "В каком году Юлий Цезарь был убит?",
-    "question_de": "In welchem Jahr wurde Julius Caesar ermordet?",
+    "question_de": "In welchem Jahr wurde Julius Cäsar ermordet?",
     "correct_answer_ru": "44 год до н.э.",
     "correct_answer_de": "44 v. Chr.",
     "wrong_answers_ru": [
@@ -515,7 +515,7 @@
       "46 v. Chr."
     ],
     "explanation_ru": "Юлий Цезарь был убит 15 марта (в иды марта) 44 года до н.э. группой сенаторов-заговорщиков во главе с Брутом и Кассием. Заговорщики боялись, что Цезарь хочет стать царём и уничтожить республику. Убийство произошло в театре Помпея во время заседания Сената. Цезарь получил 23 ножевых ранения.",
-    "explanation_de": "Julius Caesar wurde am 15. März (an den Iden des März) 44 v. Chr. von einer Gruppe verschwörerischer Senatoren unter Führung von Brutus und Cassius ermordet. Die Verschwörer fürchteten, dass Caesar König werden und die Republik zerstören wollte. Der Mord geschah im Pompejus-Theater während einer Senatssitzung. Caesar erlitt 23 Messerstiche.",
+    "explanation_de": "Julius Cäsar wurde am 15. März (an den Iden des März) 44 v. Chr. von einer Gruppe verschwörerischer Senatoren unter Führung von Brutus und Cassius ermordet. Die Verschwörer fürchteten, dass Cäsar König werden und die Republik zerstören wollte. Der Mord geschah im Pompejus-Theater während einer Senatssitzung. Cäsar erlitt 23 Messerstiche.",
     "difficulty": "medium",
     "category": "Древний Рим",
     "type": "date",
@@ -528,15 +528,15 @@
     "interesting_facts": [
       {
         "ru": "Юлий Цезарь был похищен пиратами в 75 году до н.э. Когда они потребовали выкуп в 20 талантов, Цезарь возмутился и сказал, что стоит минимум 50 талантов. После освобождения он собрал флот, вернулся, захватил пиратов и распял их всех, как и обещал во время пленения.",
-        "de": "Julius Caesar wurde 75 v. Chr. von Piraten entführt. Als sie ein Lösegeld von 20 Talenten forderten, war Caesar empört und sagte, er sei mindestens 50 Talente wert. Nach seiner Freilassung stellte er eine Flotte zusammen, kehrte zurück, nahm die Piraten gefangen und ließ sie alle kreuzigen, wie er während seiner Gefangenschaft versprochen hatte."
+        "de": "Julius Cäsar wurde 75 v. Chr. von Piraten entführt. Als sie ein Lösegeld von 20 Talenten forderten, war Cäsar empört und sagte, er sei mindestens 50 Talente wert. Nach seiner Freilassung stellte er eine Flotte zusammen, kehrte zurück, nahm die Piraten gefangen und ließ sie alle kreuzigen, wie er während seiner Gefangenschaft versprochen hatte."
       },
       {
         "ru": "Знаменитая фраза 'Et tu, Brute?' ('И ты, Брут?'), которую Цезарь якобы произнёс при убийстве, скорее всего, выдумана Шекспиром. Античные источники сообщают, что Цезарь не произнёс ни слова или сказал по-гречески: 'Καὶ σύ, τέκνον?' ('И ты, дитя?'), обращаясь к Бруту, которого некоторые считали его незаконным сыном.",
-        "de": "Der berühmte Satz 'Et tu, Brute?' ('Auch du, Brutus?'), den Caesar angeblich bei seiner Ermordung aussprach, wurde höchstwahrscheinlich von Shakespeare erfunden. Antike Quellen berichten, dass Caesar kein Wort sagte oder auf Griechisch sprach: 'Καὶ σύ, τέκνον?' ('Auch du, mein Kind?'), und sich an Brutus wandte, den einige für seinen unehelichen Sohn hielten."
+        "de": "Der berühmte Satz 'Et tu, Brute?' ('Auch du, Brutus?'), den Cäsar angeblich bei seiner Ermordung aussprach, wurde höchstwahrscheinlich von Shakespeare erfunden. Antike Quellen berichten, dass Cäsar kein Wort sagte oder auf Griechisch sprach: 'Καὶ σύ, τέκνον?' ('Auch du, mein Kind?'), und sich an Brutus wandte, den einige für seinen unehelichen Sohn hielten."
       },
       {
         "ru": "Юлий Цезарь страдал от эпилепсии, что подтверждают древние источники, описывающие его припадки. Некоторые историки полагают, что это могло быть результатом серии небольших инсультов. Несмотря на болезнь, он совершил выдающиеся военные походы и завоевал Галлию, значительно расширив территорию Рима.",
-        "de": "Julius Caesar litt an Epilepsie, was antike Quellen bestätigen, die seine Anfälle beschreiben. Einige Historiker glauben, dass dies das Ergebnis einer Reihe kleiner Schlaganfälle gewesen sein könnte. Trotz seiner Krankheit führte er herausragende Militärkampagnen durch und eroberte Gallien, wodurch er Roms Territorium erheblich erweiterte."
+        "de": "Julius Cäsar litt an Epilepsie, was antike Quellen bestätigen, die seine Anfälle beschreiben. Einige Historiker glauben, dass dies das Ergebnis einer Reihe kleiner Schlaganfälle gewesen sein könnte. Trotz seiner Krankheit führte er herausragende Militärkampagnen durch und eroberte Gallien, wodurch er Roms Territorium erheblich erweiterte."
       }
     ]
   },
@@ -788,7 +788,7 @@
       },
       {
         "ru": "Римский бетон (opus caementicium), использованный в акведуках, был настолько прочным, что многие сооружения стоят до сих пор. Секрет его прочности — вулканический пепел (пуццолан) из окрестностей Неаполя, который вступал в химическую реакцию с морской водой, создавая кристаллы, укрепляющие бетон. Некоторые римские бетонные конструкции прочнее современных — они крепнут со временем, а не разрушаются.",
-        "de": "Römischer Beton (opus caementicium), der in Aquädukten verwendet wurde, war so haltbar, dass viele Bauten bis heute stehen. Das Geheimnis seiner Festigkeit ist vulkanische Asche (Puzzolan) aus der Gegend um Neapel, die mit Meerwasser eine chemische Reaktion einging und Kristalle bildete, die den Beton verstärkten. Einige römische Betonkonstruktionen sind stärker als moderne - sie werden mit der Zeit stärker, anstatt zu zerfallen."
+        "de": "Römischer Beton (opus cämenticium), der in Aquädukten verwendet wurde, war so haltbar, dass viele Bauten bis heute stehen. Das Geheimnis seiner Festigkeit ist vulkanische Asche (Puzzolan) aus der Gegend um Neapel, die mit Meerwasser eine chemische Reaktion einging und Kristalle bildete, die den Beton verstärkten. Einige römische Betonkonstruktionen sind stärker als moderne - sie werden mit der Zeit stärker, anstatt zu zerfallen."
       }
     ]
   },
@@ -931,7 +931,7 @@
     ],
     "wrong_answers_de": [
       "Herculaneum",
-      "Stabiae",
+      "Stabiä",
       "Oplontis"
     ],
     "explanation_ru": "Помпеи - древнеримский город у подножия вулкана Везувий, который был погребён под слоем вулканического пепла во время извержения 24 августа 79 года н.э. Город был забыт на 1500 лет и случайно обнаружен в 1599 году при строительстве канала. Систематические раскопки начались в 1748 году. Помпеи дают уникальное представление о повседневной жизни древних римлян.",
@@ -990,11 +990,11 @@
     "interesting_facts": [
       {
         "ru": "Всего произошло три Пунических войны (264-146 гг. до н.э.). Первая война (264-241) велась за Сицилию и закончилась победой Рима. Вторая (218-201) была самой драматичной: Ганнибал перешёл Альпы со слонами и разбил римлян в нескольких битвах, включая Канны (216 г. до н.э.) — одно из величайших поражений Рима (70 000 убитых за день). Третья война (149-146) завершилась полным уничтожением Карфагена.",
-        "de": "Es gab insgesamt drei Punische Kriege (264-146 v. Chr.). Der erste Krieg (264-241) wurde um Sizilien geführt und endete mit Roms Sieg. Der zweite (218-201) war der dramatischste: Hannibal überquerte die Alpen mit Elefanten und besiegte die Römer in mehreren Schlachten, darunter Cannae (216 v. Chr.) - eine der größten Niederlagen Roms (70.000 Tote an einem Tag). Der dritte Krieg (149-146) endete mit der völligen Zerstörung Karthagos."
+        "de": "Es gab insgesamt drei Punische Kriege (264-146 v. Chr.). Der erste Krieg (264-241) wurde um Sizilien geführt und endete mit Roms Sieg. Der zweite (218-201) war der dramatischste: Hannibal überquerte die Alpen mit Elefanten und besiegte die Römer in mehreren Schlachten, darunter Cannä (216 v. Chr.) - eine der größten Niederlagen Roms (70.000 Tote an einem Tag). Der dritte Krieg (149-146) endete mit der völligen Zerstörung Karthagos."
       },
       {
         "ru": "После победы в Третьей Пунической войне римляне буквально стёрли Карфаген с лица земли. Город горел 17 дней. Римский полководец Сципион Эмилиан приказал сравнять руины с землёй и, по легенде, засеять землю солью, чтобы ничто не росло. Около 50 000 выживших были проданы в рабство. Территория стала римской провинцией Африка. Место было проклято, и лишь спустя столетие Юлий Цезарь основал там колонию.",
-        "de": "Nach dem Sieg im Dritten Punischen Krieg löschten die Römer Karthago buchstäblich vom Erdboden. Die Stadt brannte 17 Tage. Der römische Feldherr Scipio Aemilianus befahl, die Ruinen dem Erdboden gleichzumachen und der Legende nach das Land mit Salz zu besäen, damit nichts wachsen konnte. Etwa 50.000 Überlebende wurden in die Sklaverei verkauft. Das Gebiet wurde zur römischen Provinz Africa. Der Ort war verflucht, und erst ein Jahrhundert später gründete Julius Caesar dort eine Kolonie."
+        "de": "Nach dem Sieg im Dritten Punischen Krieg löschten die Römer Karthago buchstäblich vom Erdboden. Die Stadt brannte 17 Tage. Der römische Feldherr Scipio Ämilianus befahl, die Ruinen dem Erdboden gleichzumachen und der Legende nach das Land mit Salz zu besäen, damit nichts wachsen konnte. Etwa 50.000 Überlebende wurden in die Sklaverei verkauft. Das Gebiet wurde zur römischen Provinz Africa. Der Ort war verflucht, und erst ein Jahrhundert später gründete Julius Cäsar dort eine Kolonie."
       },
       {
         "ru": "Катон Старший, римский сенатор, был так одержим уничтожением Карфагена, что заканчивал каждую свою речь в Сенате фразой 'Ceterum censeo Carthaginem esse delendam' ('Кроме того, я полагаю, что Карфаген должен быть разрушен'), независимо от темы выступления. Его паранойя была отчасти оправдана — Карфаген быстро восстанавливался экономически, и Катон видел в этом угрозу Риму.",
@@ -1014,12 +1014,12 @@
       "Нерон"
     ],
     "wrong_answers_de": [
-      "Julius Caesar",
+      "Julius Cäsar",
       "Tiberius",
       "Nero"
     ],
     "explanation_ru": "Октавиан Август (63 до н.э. - 14 н.э.) - первый римский император, правивший с 27 года до н.э. Приёмный сын и наследник Юлия Цезаря. После победы в гражданских войнах формально восстановил республику, но фактически установил единоличную власть. Его правление началось Pax Romana - 200 лет относительного мира и процветания. Месяц август назван в его честь.",
-    "explanation_de": "Octavian Augustus (63 v. Chr. - 14 n. Chr.) war der erste römische Kaiser, der ab 27 v. Chr. regierte. Adoptivohn und Erbe von Julius Caesar. Nach dem Sieg in den Bürgerkriegen stellte er formal die Republik wieder her, etablierte aber faktisch die Alleinherrschaft. Seine Herrschaft begann die Pax Romana - 200 Jahre relativen Friedens und Wohlstands. Der Monat August ist nach ihm benannt.",
+    "explanation_de": "Octavian Augustus (63 v. Chr. - 14 n. Chr.) war der erste römische Kaiser, der ab 27 v. Chr. regierte. Adoptivohn und Erbe von Julius Cäsar. Nach dem Sieg in den Bürgerkriegen stellte er formal die Republik wieder her, etablierte aber faktisch die Alleinherrschaft. Seine Herrschaft begann die Pax Romana - 200 Jahre relativen Friedens und Wohlstands. Der Monat August ist nach ihm benannt.",
     "difficulty": "easy",
     "category": "Древний Рим",
     "type": "factual",
@@ -1036,7 +1036,7 @@
       },
       {
         "ru": "Ростра — ораторская трибуна на Форуме — была украшена носами (rostra) захваченных вражеских кораблей после победы над Антием в 338 г. до н.э. С этой трибуны произносились важнейшие речи. После убийства Цезаря Марк Антоний произнёс с Ростры знаменитую речь 'Друзья, римляне, соотечественники!' (в шекспировской версии), которая спровоцировала восстание против убийц.",
-        "de": "Die Rostra - die Rednertribüne auf dem Forum - war mit den Bugspitzen (rostra) erbeuteter feindlicher Schiffe nach dem Sieg über Antium 338 v. Chr. geschmückt. Von dieser Tribüne wurden die wichtigsten Reden gehalten. Nach Caesars Ermordung hielt Marcus Antonius von den Rostra die berühmte Rede 'Freunde, Römer, Landsleute!' (in Shakespeares Version), die einen Aufstand gegen die Mörder provozierte."
+        "de": "Die Rostra - die Rednertribüne auf dem Forum - war mit den Bugspitzen (rostra) erbeuteter feindlicher Schiffe nach dem Sieg über Antium 338 v. Chr. geschmückt. Von dieser Tribüne wurden die wichtigsten Reden gehalten. Nach Cäsars Ermordung hielt Marcus Antonius von den Rostra die berühmte Rede 'Freunde, Römer, Landsleute!' (in Shakespeares Version), die einen Aufstand gegen die Mörder provozierte."
       },
       {
         "ru": "В Средние века Форум назывался 'Campo Vaccino' ('Коровье поле'), потому что использовался как пастбище для скота. Величественные руины были погребены под 8-10 метрами земли и мусора. Мраморные колонны и статуи грабили для строительства церквей и дворцов. Систематические раскопки начались только в XIX веке. Сегодня уровень древнего Форума находится значительно ниже современного уровня города.",

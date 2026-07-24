@@ -1,0 +1,727 @@
+[
+  {
+    "id": 9176,
+    "question_de": "Was war die historische Bedeutung des Spanischen Bürgerkrieges (1936–39) für Europa?",
+    "question_ru": "Каково было историческое значение Гражданской войны в Испании (1936–39) для Европы?",
+    "correct_answer_de": "Der Krieg war ein Probelauf für den Zweiten Weltkrieg – Nazi-Deutschland und die Sowjetunion testeten Waffen und Taktiken auf spanischem Boden",
+    "correct_answer_ru": "Война стала репетицией Второй мировой — нацистская Германия и СССР испытывали оружие и тактику на испанской земле",
+    "wrong_answers_de": [
+      "Der Krieg war ein rein innenpolitischer Konflikt ohne Beteiligung ausländischer Mächte",
+      "Großbritannien und Frankreich intervenierten militärisch zugunsten der Republik",
+      "Der Krieg endete mit einem Kompromiss, der Spanien als Demokratie bewahrte"
+    ],
+    "wrong_answers_ru": [
+      "Война была сугубо внутренним конфликтом без участия иностранных держав",
+      "Великобритания и Франция военным путём вмешались на стороне республики",
+      "Война завершилась компромиссом, сохранившим Испанию как демократию"
+    ],
+    "explanation_de": "Francos Nationalisten wurden von Hitler und Mussolini unterstützt; die Republik von der Sowjetunion und Internationalen Brigaden. Guernica (1937) wurde von der deutschen Legion Condor bombardiert – Picasso verewigt es.",
+    "explanation_ru": "Националистов Франко поддерживали Гитлер и Муссолини; республику — СССР и интербригады. Герника (1937) была разбомблена немецким легионом «Кондор» — Пикассо увековечил это событие.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1936 CE",
+    "tags": ["Spanischer Bürgerkrieg", "Franco", "Hitler", "Sowjetunion", "Guernica"],
+    "interesting_facts": [
+      {"de": "George Orwell kämpfte auf republikanischer Seite und schrieb 'Mein Katalonien' darüber.", "ru": "Джордж Оруэлл сражался на республиканской стороне и написал об этом «Памяти Каталонии»."},
+      {"de": "Über 500.000 Menschen starben, weitere 500.000 flohen ins Exil.", "ru": "Погибло более 500 000 человек, ещё 500 000 бежали в эмиграцию."},
+      {"de": "Francos Diktatur dauerte bis zu seinem Tod 1975 – Spanien trat erst danach der EU bei.", "ru": "Диктатура Франко продолжалась до его смерти в 1975 году — лишь после этого Испания вступила в ЕС."}
+    ]
+  },
+  {
+    "id": 9177,
+    "question_de": "Warum scheiterte der Völkerbund als Friedensinstrument nach dem Ersten Weltkrieg?",
+    "question_ru": "Почему Лига Наций потерпела неудачу как инструмент мира после Первой мировой войны?",
+    "correct_answer_de": "Fehlende US-Mitgliedschaft, keine eigenen Streitkräfte und Einstimmigkeitsprinzip machten ihn wirkungslos gegenüber aggressiven Staaten",
+    "correct_answer_ru": "Отсутствие членства США, отсутствие собственных вооружённых сил и принцип единогласия делали его бессильным перед агрессивными государствами",
+    "wrong_answers_de": [
+      "Der Völkerbund scheiterte, weil Deutschland ihn 1933 militärisch zerstörte",
+      "Die Sowjetunion übernahm den Völkerbund und verwandelte ihn in ein kommunistisches Gremium",
+      "Der Völkerbund war erfolgreich bis 1939 und wurde erst durch den Krieg aufgelöst"
+    ],
+    "wrong_answers_ru": [
+      "Лига Наций потерпела неудачу, потому что Германия уничтожила её военным путём в 1933 году",
+      "СССР захватил Лигу Наций и превратил её в коммунистический орган",
+      "Лига Наций была успешной до 1939 года и была распущена лишь войной"
+    ],
+    "explanation_de": "Der US-Senat ratifizierte den Versailler Vertrag nicht – USA blieb fern. Der Völkerbund konnte Japan (Mandschurei 1931), Italien (Äthiopien 1935) und Deutschland nicht stoppen.",
+    "explanation_ru": "Сенат США не ратифицировал Версальский договор — США остались в стороне. Лига Наций не смогла остановить Японию (Маньчжурия 1931), Италию (Эфиопия 1935) и Германию.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1920 CE",
+    "tags": ["Völkerbund", "USA", "Wilson", "Kollektive Sicherheit", "Versagen"],
+    "interesting_facts": [
+      {"de": "US-Präsident Wilson war der Hauptinitiator des Völkerbunds – sein eigenes Land trat ihm nie bei.", "ru": "Президент США Вильсон был главным инициатором Лиги Наций — его собственная страна так и не вступила в неё."},
+      {"de": "Der Völkerbund hatte einige Erfolge: Grenzstreitigkeiten in Skandinavien und Schutz von Minderheiten.", "ru": "Лига Наций имела ряд успехов: пограничные споры в Скандинавии и защита меньшинств."},
+      {"de": "Er wurde 1946 aufgelöst und durch die UNO ersetzt.", "ru": "Он был распущен в 1946 году и заменён ООН."}
+    ]
+  },
+  {
+    "id": 9178,
+    "question_de": "Was waren die Hauptgründe für den Aufstieg Adolf Hitlers und der NSDAP in der Weimarer Republik?",
+    "question_ru": "Каковы были главные причины подъёма Адольфа Гитлера и НСДАП в Веймарской республике?",
+    "correct_answer_de": "Wirtschaftskrise, Versailler Vertrag, politische Instabilität und Hitlers Propaganda boten einen fruchtbaren Boden für den Nationalsozialismus",
+    "correct_answer_ru": "Экономический кризис, Версальский договор, политическая нестабильность и пропаганда Гитлера создали благодатную почву для национал-социализма",
+    "wrong_answers_de": [
+      "Hitler kam durch einen Militärputsch an die Macht, der die demokratisch gewählte Regierung stürzte",
+      "Die NSDAP gewann stets die absolute Mehrheit bei freien Wahlen",
+      "Großbritannien und Frankreich unterstützten Hitlers Aufstieg, um die Sowjetunion einzudämmen"
+    ],
+    "wrong_answers_ru": [
+      "Гитлер пришёл к власти путём военного переворота, свергнувшего демократически избранное правительство",
+      "НСДАП всегда получала абсолютное большинство на свободных выборах",
+      "Великобритания и Франция поддерживали подъём Гитлера, чтобы сдержать СССР"
+    ],
+    "explanation_de": "Die Weltwirtschaftskrise (1929) ließ die NSDAP-Stimmen von 2,6% (1928) auf 37,4% (1932) steigen. Hindenburg ernannte Hitler zum Reichskanzler am 30. Januar 1933.",
+    "explanation_ru": "Мировой экономический кризис (1929) поднял голоса за НСДАП с 2,6% (1928) до 37,4% (1932). Гинденбург назначил Гитлера рейхсканцлером 30 января 1933 года.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1933 CE",
+    "tags": ["Hitler", "NSDAP", "Weimarer Republik", "Nationalsozialismus", "Wirtschaftskrise"],
+    "interesting_facts": [
+      {"de": "Hitler war kein gebürtiger Deutscher, sondern Österreicher – er erhielt erst 1932 die deutsche Staatsbürgerschaft.", "ru": "Гитлер был не природным немцем, а австрийцем — немецкое гражданство он получил лишь в 1932 году."},
+      {"de": "Der Reichstagsbrand (27. Februar 1933) lieferte den Vorwand für die Abschaffung der Bürgerrechte.", "ru": "Поджог Рейхстага (27 февраля 1933 года) дал предлог для отмены гражданских прав."},
+      {"de": "Das 'Ermächtigungsgesetz' (23. März 1933) gab Hitler diktatorische Vollmachten.", "ru": "«Закон о предоставлении чрезвычайных полномочий» (23 марта 1933 года) дал Гитлеру диктаторские полномочия."}
+    ]
+  },
+  {
+    "id": 9179,
+    "question_de": "Was war die historische Bedeutung des Münchener Abkommens von 1938?",
+    "question_ru": "Каково было историческое значение Мюнхенского соглашения 1938 года?",
+    "correct_answer_de": "Großbritannien und Frankreich ließen Hitler das Sudetenland annektieren, um Krieg zu vermeiden – eine gescheiterte Appeasement-Politik",
+    "correct_answer_ru": "Великобритания и Франция позволили Гитлеру аннексировать Судеты, чтобы избежать войны — провалившаяся политика умиротворения",
+    "wrong_answers_de": [
+      "Das Abkommen beendete Hitlers Expansion und sicherte den Frieden in Europa bis 1945",
+      "Die Tschechoslowakei war am Abkommen beteiligt und stimmte der Abtretung zu",
+      "Das Abkommen gab Deutschland die Kontrolle über ganz Polen"
+    ],
+    "wrong_answers_ru": [
+      "Соглашение положило конец экспансии Гитлера и обеспечило мир в Европе до 1945 года",
+      "Чехословакия участвовала в соглашении и согласилась на уступку",
+      "Соглашение передало Германии контроль над всей Польшей"
+    ],
+    "explanation_de": "Chamberlain kehrte mit dem Versprechen von 'Frieden für unsere Zeit' zurück. Ein Jahr später überfiel Deutschland Polen (1. September 1939). Das Abkommen gilt als Lehre gegen Appeasement.",
+    "explanation_ru": "Чемберлен вернулся с обещанием «мира в наше время». Год спустя Германия напала на Польшу (1 сентября 1939 года). Соглашение считается уроком против умиротворения.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1938 CE",
+    "tags": ["München", "Appeasement", "Sudetenland", "Chamberlain", "Hitler"],
+    "interesting_facts": [
+      {"de": "Die Tschechoslowakei wurde nicht eingeladen und musste die Entscheidung über ihr Territorium akzeptieren.", "ru": "Чехословакия не была приглашена и была вынуждена принять решение о своей территории."},
+      {"de": "Winston Churchill warnte eindringlich: 'You were given the choice between war and dishonour.'", "ru": "Уинстон Черчилль предупреждал: «Вам предложили выбор между войной и бесчестьем»."},
+      {"de": "Im März 1939 besetzte Hitler den Rest der Tschechoslowakei – ein klarer Bruch des Abkommens.", "ru": "В марте 1939 года Гитлер оккупировал остаток Чехословакии — явное нарушение соглашения."}
+    ]
+  },
+  {
+    "id": 9180,
+    "question_de": "Was war die strategische Bedeutung der Normandie-Invasion (D-Day, 6. Juni 1944)?",
+    "question_ru": "Каково было стратегическое значение Нормандской высадки (День Д, 6 июня 1944 года)?",
+    "correct_answer_de": "Die größte amphibische Invasion der Geschichte eröffnete die Westfront und zwang Deutschland, Truppen aus der Ostfront abzuziehen",
+    "correct_answer_ru": "Крупнейшая в истории десантная операция открыла западный фронт и вынудила Германию снять войска с восточного фронта",
+    "wrong_answers_de": [
+      "D-Day war eine britische Operation, an der die USA nicht beteiligt waren",
+      "Die Invasion scheiterte am ersten Tag und musste nach zwei Wochen abgebrochen werden",
+      "Die Normandie-Invasion war ein Täuschungsmanöver – der echte Angriff folgte in Nordafrika"
+    ],
+    "wrong_answers_ru": [
+      "День Д был британской операцией, в которой США не участвовали",
+      "Вторжение провалилось в первый день и было прекращено через две недели",
+      "Нормандская высадка была отвлекающим манёвром — настоящий удар последовал в Северной Африке"
+    ],
+    "explanation_de": "Operation Overlord: 156.000 alliierte Soldaten landeten an 5 Stränden. Eisenhower befahl; General Rommel verteidigte. Innerhalb eines Jahres war Deutschland besiegt.",
+    "explanation_ru": "Операция «Оверлорд»: 156 000 союзных солдат высадились на 5 пляжах. Командовал Эйзенхауэр; оборонял генерал Роммель. В течение года Германия была разгромлена.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1944 CE",
+    "tags": ["D-Day", "Normandie", "Zweiter Weltkrieg", "Overlord", "Eisenhower"],
+    "interesting_facts": [
+      {"de": "Operation Fortitude täuschte Deutschland über den Ort der Invasion – Inflatable-Panzer und falsche Funksprüche.", "ru": "Операция «Фортитьюд» обманула Германию насчёт места высадки — надувные танки и поддельные радиосообщения."},
+      {"de": "Über 10.000 alliierte Soldaten starben am D-Day; am Omaha Beach waren die Verluste am höchsten.", "ru": "В День Д погибло более 10 000 союзных солдат; наибольшие потери были на пляже Омаха."},
+      {"de": "Steven Spielbergs 'Saving Private Ryan' (1998) gilt als realistischste Filmdarstellung des D-Days.", "ru": "«Спасти рядового Райана» Стивена Спилберга (1998) считается наиболее реалистичным кинематографическим изображением Дня Д."}
+    ]
+  },
+  {
+    "id": 9181,
+    "question_de": "Was war die Bedeutung der Schlacht von Stalingrad (1942–43) für den Zweiten Weltkrieg?",
+    "question_ru": "Каково было значение Сталинградской битвы (1942–43) для Второй мировой войны?",
+    "correct_answer_de": "Stalingrad war der Wendepunkt an der Ostfront: Deutschland verlor die strategische Initiative und begann seinen Rückzug",
+    "correct_answer_ru": "Сталинград стал переломным моментом на Восточном фронте: Германия утратила стратегическую инициативу и начала отступление",
+    "wrong_answers_de": [
+      "Deutschland gewann die Schlacht und kontrollierte danach ganz Südrussland",
+      "Stalingrad war eine kleinere Randschlacht ohne strategische Bedeutung",
+      "Die Niederlage bei Stalingrad führte sofort zur deutschen Kapitulation"
+    ],
+    "wrong_answers_ru": [
+      "Германия выиграла сражение и затем контролировала всю Южную Россию",
+      "Сталинград был небольшим периферийным сражением без стратегического значения",
+      "Поражение под Сталинградом немедленно привело к капитуляции Германии"
+    ],
+    "explanation_de": "Operation Uranus (November 1942) kesselte die 6. Armee ein. Paulus kapitulierte im Februar 1943 mit 90.000 Überlebenden. Über 1 Million Tote auf beiden Seiten.",
+    "explanation_ru": "Операция «Уран» (ноябрь 1942) окружила 6-ю армию. Паулюс капитулировал в феврале 1943 года с 90 000 выживших. Более 1 миллиона погибших с обеих сторон.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1943 CE",
+    "tags": ["Stalingrad", "Ostfront", "Wehrmacht", "Sowjetunion", "Wendepunkt"],
+    "interesting_facts": [
+      {"de": "Feldmarschall Paulus war der erste deutsche Feldmarschall, der lebend in Gefangenschaft geriet.", "ru": "Фельдмаршал Паулюс стал первым немецким фельдмаршалом, попавшим в плен живым."},
+      {"de": "Von 91.000 deutschen Gefangenen kehrten nur etwa 6.000 nach Deutschland zurück.", "ru": "Из 91 000 немецких пленных домой вернулось лишь около 6 000."},
+      {"de": "Hitler weigerte sich, den Rückzug anzuordnen – er nannte Stalingrad eine 'Festung'.", "ru": "Гитлер отказывался отдать приказ об отступлении — он называл Сталинград «крепостью»."}
+    ]
+  },
+  {
+    "id": 9182,
+    "question_de": "Was war die Bedeutung der Gründung der Vereinten Nationen (1945)?",
+    "question_ru": "Каково было значение основания Организации Объединённых Наций (1945)?",
+    "correct_answer_de": "Die UNO schuf ein internationales Forum zur Konfliktlösung und setzte universelle Menschenrechte sowie kollektive Sicherheit als Ziele",
+    "correct_answer_ru": "ООН создала международный форум для урегулирования конфликтов и поставила целью универсальные права человека и коллективную безопасность",
+    "wrong_answers_de": [
+      "Die UNO war ein Militärbündnis, das alle Mitgliedsstaaten zur gemeinsamen Kriegsführung verpflichtete",
+      "Die UNO ersetzte alle nationalen Regierungen durch eine Weltregierung",
+      "Die UNO wurde ausschließlich von westlichen Demokratien gegründet"
+    ],
+    "wrong_answers_ru": [
+      "ООН была военным альянсом, обязывавшим все государства-члены к совместному ведению войны",
+      "ООН заменила все национальные правительства мировым правительством",
+      "ООН была основана исключительно западными демократиями"
+    ],
+    "explanation_de": "51 Gründungsmitglieder unterzeichneten die UN-Charta am 26. Juni 1945 in San Francisco. Der Sicherheitsrat mit Vetorecht für USA, UdSSR, UK, Frankreich und China ist das Machtzentrum.",
+    "explanation_ru": "51 государство-основатель подписало Устав ООН 26 июня 1945 года в Сан-Франциско. Совет Безопасности с правом вето для США, СССР, Великобритании, Франции и Китая является центром власти.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["UNO", "Vereinte Nationen", "Sicherheitsrat", "Menschenrechte", "San Francisco"],
+    "interesting_facts": [
+      {"de": "Die Allgemeine Erklärung der Menschenrechte wurde 1948 verabschiedet – maßgeblich von Eleanor Roosevelt gestaltet.", "ru": "Всеобщая декларация прав человека была принята в 1948 году — решающую роль в её создании сыграла Элеонора Рузвельт."},
+      {"de": "Heute hat die UNO 193 Mitglieder – fast alle Staaten der Welt.", "ru": "Сегодня ООН насчитывает 193 члена — почти все государства мира."},
+      {"de": "Der erste UN-Generalsekretär war Trygve Lie aus Norwegen.", "ru": "Первым Генеральным секретарём ООН был Трюгве Ли из Норвегии."}
+    ]
+  },
+  {
+    "id": 9183,
+    "question_de": "Was war die Bedeutung des Bretton-Woods-Systems für die Weltwirtschaft nach 1945?",
+    "question_ru": "Каково было значение Бреттон-Вудской системы для мировой экономики после 1945 года?",
+    "correct_answer_de": "Bretton Woods schuf ein Währungssystem mit festem Dollar-Gold-Kurs und gründete IWF und Weltbank als Grundlage der Nachkriegswirtschaft",
+    "correct_answer_ru": "Бреттон-Вудс создал валютную систему с фиксированным курсом доллара к золоту и учредил МВФ и Всемирный банк как основу послевоенной экономики",
+    "wrong_answers_de": [
+      "Bretton Woods schuf eine Einheitswährung für alle westlichen Länder",
+      "Das System war ein Handelsabkommen zur Abschaffung aller Zölle",
+      "Bretton Woods wurde von der Sowjetunion initiiert und dominiert"
+    ],
+    "wrong_answers_ru": [
+      "Бреттон-Вудс создал единую валюту для всех западных стран",
+      "Система была торговым соглашением об отмене всех таможенных пошлин",
+      "Бреттон-Вудс был инициирован и доминирован Советским Союзом"
+    ],
+    "explanation_de": "Die Konferenz (1944) schuf: Goldstandard-Dollarparität, feste Wechselkurse, IWF (Stabilisierung) und Weltbank (Wiederaufbau). Nixon beendete das System 1971 ('Nixon-Schock').",
+    "explanation_ru": "Конференция (1944) создала: долларовый золотой паритет, фиксированные обменные курсы, МВФ (стабилизация) и Всемирный банк (восстановление). Никсон завершил систему в 1971 году («шок Никсона»).",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1944 CE",
+    "tags": ["Bretton Woods", "IWF", "Weltbank", "Dollar", "Weltwirtschaft"],
+    "interesting_facts": [
+      {"de": "John Maynard Keynes war der führende britische Verhandlungsführer bei Bretton Woods.", "ru": "Джон Мейнард Кейнс был ведущим британским переговорщиком в Бреттон-Вудсе."},
+      {"de": "1971 gab Nixon den Goldstandard auf – seitdem sind alle Währungen 'Fiatgeld'.", "ru": "В 1971 году Никсон отказался от золотого стандарта — с тех пор все валюты являются «фиатными деньгами»."},
+      {"de": "Das System ermöglichte die wirtschaftlichen Wunderjahre in Europa und Japan.", "ru": "Система обеспечила экономические «годы чудес» в Европе и Японии."}
+    ]
+  },
+  {
+    "id": 9184,
+    "question_de": "Was war die Bedeutung des Koreakrieges (1950–53) für den Kalten Krieg?",
+    "question_ru": "Каково было значение Корейской войны (1950–53) для холодной войны?",
+    "correct_answer_de": "Korea war der erste heiße Krieg des Kalten Krieges, in dem UN-Truppen unter US-Führung gegen nordkoreanische und chinesische Kräfte kämpften",
+    "correct_answer_ru": "Корея стала первой «горячей» войной холодной войны, в которой войска ООН под руководством США сражались против северокорейских и китайских сил",
+    "wrong_answers_de": [
+      "Der Koreakrieg endete mit der Wiedervereinigung Koreas unter demokratischer Führung",
+      "Die USA verloren den Krieg und mussten Korea vollständig räumen",
+      "Der Koreakrieg war ein rein innerkoreanischer Konflikt ohne externe Beteiligung"
+    ],
+    "wrong_answers_ru": [
+      "Корейская война завершилась объединением Кореи под демократическим руководством",
+      "США проиграли войну и были вынуждены полностью покинуть Корею",
+      "Корейская война была сугубо внутрикорейским конфликтом без внешнего участия"
+    ],
+    "explanation_de": "Nordkorea überfiel Südkorea am 25. Juni 1950. Der Waffenstillstand (1953) teilte Korea am 38. Breitengrad. Technisch dauert der Krieg bis heute – es gibt keinen Friedensvertrag.",
+    "explanation_ru": "Северная Корея напала на Южную Корею 25 июня 1950 года. Перемирие (1953) разделило Корею по 38-й параллели. Технически война продолжается по сей день — мирного договора нет.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1950 CE",
+    "tags": ["Koreakrieg", "Kalter Krieg", "USA", "China", "UNO"],
+    "interesting_facts": [
+      {"de": "General MacArthur wollte Atombomben gegen China einsetzen – Truman entließ ihn.", "ru": "Генерал Макартур хотел применить атомные бомбы против Китая — Трумэн уволил его."},
+      {"de": "Über 36.000 US-Soldaten und schätzungsweise 3 Millionen Koreaner starben.", "ru": "Погибло более 36 000 американских солдат и около 3 миллионов корейцев."},
+      {"de": "Korea gilt als 'der vergessene Krieg' im amerikanischen Gedächtnis, zwischen WW2 und Vietnam.", "ru": "Корея считается «забытой войной» в американской памяти — между Второй мировой и Вьетнамом."}
+    ]
+  },
+  {
+    "id": 9185,
+    "question_de": "Was war die Bedeutung von Chruschtschows Geheimrede 1956 und der Entstalinisierung?",
+    "question_ru": "Каково было значение секретного доклада Хрущёва 1956 года и десталинизации?",
+    "correct_answer_de": "Chruschtschow verurteilte Stalins Verbrechen und leitete eine Tauwetter-Periode ein, die Hoffnungen auf Reform im Ostblock weckte",
+    "correct_answer_ru": "Хрущёв осудил преступления Сталина и начал период «оттепели», породившей надежды на реформы в Восточном блоке",
+    "wrong_answers_de": [
+      "Die Rede war öffentlich und wurde im sowjetischen Staatsfernsehen übertragen",
+      "Chruschtschow lobte Stalin als größten Führer und bat um Vergebung für seine Kritik",
+      "Die Entstalinisierung führte zur sofortigen Demokratisierung der Sowjetunion"
+    ],
+    "wrong_answers_ru": [
+      "Доклад был публичным и транслировался по советскому государственному телевидению",
+      "Хрущёв прославлял Сталина как величайшего вождя и просил прощения за критику",
+      "Десталинизация привела к немедленной демократизации Советского Союза"
+    ],
+    "explanation_de": "Chruschtschows Geheimrede (Februar 1956) vor dem 20. Parteitag enthüllte Stalins Massaker, Willkür und Personenkult. Der Text wurde westlichen Geheimdiensten zugespielt und weltweit publiziert.",
+    "explanation_ru": "Секретный доклад Хрущёва (февраль 1956) на XX съезде партии раскрыл сталинские расправы, произвол и культ личности. Текст был передан западным спецслужбам и опубликован во всём мире.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1956 CE",
+    "tags": ["Chruschtschow", "Entstalinisierung", "Stalin", "Tauwetter", "Sowjetunion"],
+    "interesting_facts": [
+      {"de": "Stalins Leiche wurde aus dem Mausoleum entfernt und umgebettet.", "ru": "Тело Сталина было вынесено из Мавзолея и перезахоронено."},
+      {"de": "Die Rede löste den Ungarischen Aufstand (1956) mit aus – das Volk hoffte auf echte Reformen.", "ru": "Доклад в том числе спровоцировал Венгерское восстание (1956) — народ надеялся на подлинные реформы."},
+      {"de": "Chruschtschow selbst wurde 1964 von Breschnew gestürzt.", "ru": "Сам Хрущёв был свергнут Брежневым в 1964 году."}
+    ]
+  },
+  {
+    "id": 9186,
+    "question_de": "Was war die Bedeutung des Sputnik-Schocks (1957) für die USA und den Weltraumwettbewerb?",
+    "question_ru": "Каково было значение «спутникового шока» (1957) для США и космической гонки?",
+    "correct_answer_de": "Der sowjetische Satellit Sputnik 1 bewies, dass die UdSSR Raketen hatte, die auch Atomwaffen tragen konnten, und löste in den USA Panik und massive Investitionen in Bildung und Raumfahrt aus",
+    "correct_answer_ru": "Советский спутник «Спутник-1» доказал, что у СССР есть ракеты, способные нести ядерное оружие, и вызвал в США панику и массовые инвестиции в образование и космонавтику",
+    "wrong_answers_de": [
+      "Sputnik war ein amerikanischer Satellit, der versehentlich in eine falsche Umlaufbahn gebracht wurde",
+      "Der Sputnik-Schock führte zur sofortigen US-Kapitulation im Weltraumwettbewerb",
+      "Sputnik war unbedeutend, da die USA bereits eigene Satelliten im Orbit hatten"
+    ],
+    "wrong_answers_ru": [
+      "Спутник был американским спутником, случайно выведенным на неправильную орбиту",
+      "Спутниковый шок привёл к немедленной капитуляции США в космической гонке",
+      "Спутник был несущественен, так как у США уже были собственные спутники на орбите"
+    ],
+    "explanation_de": "Sputnik 1 (4. Oktober 1957) war der erste künstliche Erdsatellit. Er sendete Funksignale, die jeder empfangen konnte. Die USA gründeten daraufhin NASA (1958) und modernisierten ihr Bildungssystem.",
+    "explanation_ru": "«Спутник-1» (4 октября 1957 года) был первым искусственным спутником Земли. Он посылал радиосигналы, которые мог принимать каждый. После этого США основали НАСА (1958) и модернизировали систему образования.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1957 CE",
+    "tags": ["Sputnik", "Weltraumwettbewerb", "Kalter Krieg", "NASA", "Sowjetunion"],
+    "interesting_facts": [
+      {"de": "Der National Defense Education Act (1958) pumpte Milliarden in US-Schulen – Reaktion auf Sputnik.", "ru": "Закон о национальной обороне и образовании (1958) направил миллиарды в американские школы — реакция на Спутник."},
+      {"de": "Sputnik war nur 58 cm groß und wog 83 kg – aber seine Signale veränderten die Weltpolitik.", "ru": "Спутник имел диаметр всего 58 см и весил 83 кг — но его сигналы изменили мировую политику."},
+      {"de": "Ein Jahr später schickte die UdSSR Laika als erste Lebensform in den Orbit.", "ru": "Год спустя СССР отправил Лайку как первое живое существо на орбиту."}
+    ]
+  },
+  {
+    "id": 9187,
+    "question_de": "Was war die Bedeutung der Bandung-Konferenz (1955) für die Entwicklungsländer?",
+    "question_ru": "Каково было значение Бандунгской конференции (1955) для развивающихся стран?",
+    "correct_answer_de": "29 asiatische und afrikanische Staaten gründeten die Bewegung der Blockfreiheit als Alternative zum Ost-West-Konflikt",
+    "correct_answer_ru": "29 азиатских и африканских государств основали Движение неприсоединения как альтернативу конфликту Восток–Запад",
+    "wrong_answers_de": [
+      "Bandung war ein Gipfel der NATO-Staaten zur Planung der Verteidigung Asiens",
+      "Die Konferenz führte zur Gründung der Afrikanischen Union",
+      "Bandung war ein Wirtschaftsgipfel für Handelsfragen zwischen Asien und Europa"
+    ],
+    "wrong_answers_ru": [
+      "Бандунг был саммитом государств НАТО по планированию обороны Азии",
+      "Конференция привела к основанию Африканского союза",
+      "Бандунг был экономическим саммитом по торговым вопросам между Азией и Европой"
+    ],
+    "explanation_de": "Bandung (April 1955, Indonesien) versammelte Nehru (Indien), Sukarno (Indonesien), Nasser (Ägypten), Zhou Enlai (China). Prinzip: Nicht-Einmischung, Antikolonialismus, Gleichheit.",
+    "explanation_ru": "Бандунг (апрель 1955, Индонезия) собрал Неру (Индия), Сукарно (Индонезия), Насера (Египет), Чжоу Эньлая (Китай). Принципы: невмешательство, антиколониализм, равенство.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1955 CE",
+    "tags": ["Bandung", "Blockfreiheit", "Dekolonisierung", "Nehru", "Nasser"],
+    "interesting_facts": [
+      {"de": "Die Bewegung der Blockfreien entstand offiziell 1961 auf der Konferenz in Belgrad.", "ru": "Движение неприсоединения было официально основано в 1961 году на конференции в Белграде."},
+      {"de": "Heute hat die Bewegung über 120 Mitglieder – mehr als NATO und Warschauer Pakt zusammen hatten.", "ru": "Сегодня Движение насчитывает более 120 членов — больше, чем НАТО и Варшавский пакт вместе взятые."},
+      {"de": "Bandung gilt als Geburtsstunde des Globalen Südens als politische Kraft.", "ru": "Бандунг считается рождением Глобального Юга как политической силы."}
+    ]
+  },
+  {
+    "id": 9188,
+    "question_de": "Was war die historische Bedeutung von Maos Großem Sprung nach vorn (1958–62)?",
+    "question_ru": "Каково было историческое значение Большого скачка Мао (1958–62)?",
+    "correct_answer_de": "Das Programm zur schnellen Industrialisierung und Kollektivierung scheiterte katastrophal und verursachte eine Hungersnot mit 15–55 Millionen Toten",
+    "correct_answer_ru": "Программа ускоренной индустриализации и коллективизации катастрофически провалилась и вызвала голод, унёсший 15–55 миллионов жизней",
+    "wrong_answers_de": [
+      "Der Große Sprung machte China zur zweitgrößten Industrienation der Welt",
+      "Das Programm war ein Erfolg und verdoppelte Chinas Stahlproduktion nachhaltig",
+      "Mao beendete das Programm freiwillig, als erste Erfolge sichtbar wurden"
+    ],
+    "wrong_answers_ru": [
+      "Большой скачок сделал Китай второй по величине промышленной нацией мира",
+      "Программа оказалась успешной и устойчиво удвоила производство стали в Китае",
+      "Мао добровольно свернул программу, когда стали видны первые успехи"
+    ],
+    "explanation_de": "Mao ordnete Kollektivierung und Rüstungsstahl in Kleinhochöfen an. Missernten und Fehlplanung führten zur größten Hungersnot der Geschichte. Die Partei verschwieg das Ausmaß jahrzehntelang.",
+    "explanation_ru": "Мао приказал коллективизировать и выплавлять сталь в домашних доменных печах. Неурожаи и просчёты привели к крупнейшему голоду в истории. Партия десятилетиями скрывала масштабы катастрофы.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1959 CE",
+    "tags": ["Mao", "Großer Sprung", "China", "Hungersnot", "Kommunismus"],
+    "interesting_facts": [
+      {"de": "Bauern wurden angewiesen, Vögel zu töten, um die Ernte zu schützen – was zu einer Insektenpest führte.", "ru": "Крестьянам было приказано истреблять птиц для защиты урожая — что привело к нашествию насекомых."},
+      {"de": "Der Schmelzstahl in den Hinterhofhochöfen war meist unbrauchbar.", "ru": "Сталь, выплавленная в дворовых домнах, как правило, оказывалась непригодной к использованию."},
+      {"de": "Mao räumte Fehler ein, blieb aber an der Macht und startete die Kulturrevolution.", "ru": "Мао признал ошибки, однако остался у власти и начал Культурную революцию."}
+    ]
+  },
+  {
+    "id": 9189,
+    "question_de": "Was war die Bedeutung der Ermordung John F. Kennedys (1963) für die USA?",
+    "question_ru": "Каково было значение убийства Джона Ф. Кеннеди (1963) для США?",
+    "correct_answer_de": "Kennedys Ermordung erschütterte das Vertrauen der Amerikaner in ihre Institutionen und hinterließ ein bleibendes politisches und kulturelles Trauma",
+    "correct_answer_ru": "Убийство Кеннеди потрясло доверие американцев к своим институтам и оставило долгую политическую и культурную травму",
+    "wrong_answers_de": [
+      "Kennedys Tod führte zur sofortigen Einstellung aller außenpolitischen Programme",
+      "Der Täter wurde nach 10 Jahren Ermittlung öffentlich verurteilt",
+      "Kennedys Ermordung hatte keine politischen Konsequenzen, da sein Vizepräsident dieselbe Politik fortführte"
+    ],
+    "wrong_answers_ru": [
+      "Гибель Кеннеди привела к немедленному прекращению всех внешнеполитических программ",
+      "Виновный был публично осуждён после 10-летнего расследования",
+      "Убийство Кеннеди не имело политических последствий, так как его вице-президент проводил ту же политику"
+    ],
+    "explanation_de": "Kennedy wurde am 22. November 1963 in Dallas erschossen. Lee Harvey Oswald wurde verhaftet, dann von Jack Ruby ermordet. Die Warren-Kommission befand: Einzeltäter. Verschwörungstheorien bis heute.",
+    "explanation_ru": "Кеннеди был застрелен 22 ноября 1963 года в Далласе. Ли Харви Освальд был арестован, а затем убит Джеком Руби. Комиссия Уоррена постановила: одиночный убийца. Теории заговора существуют до сих пор.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1963 CE",
+    "tags": ["Kennedy", "Attentat", "Dallas", "USA", "Oswald"],
+    "interesting_facts": [
+      {"de": "Walter Cronkite weinte live im TV bei der Verkündigung von Kennedys Tod – ein ikonischer Moment.", "ru": "Уолтер Кронкайт заплакал в прямом телеэфире при объявлении о смерти Кеннеди — знаковый момент."},
+      {"de": "Lyndon B. Johnson wurde noch an Bord der Air Force One als Präsident vereidigt.", "ru": "Линдон Б. Джонсон был приведён к присяге в качестве президента прямо на борту Air Force One."},
+      {"de": "Über 60 Jahre später glaubt die Mehrheit der Amerikaner an eine Verschwörung.", "ru": "Более чем через 60 лет большинство американцев верят в заговор."}
+    ]
+  },
+  {
+    "id": 9190,
+    "question_de": "Was war die Bedeutung des Algerienkrieges (1954–62) für Frankreich und die Dekolonisierung?",
+    "question_ru": "Каково было значение Алжирской войны (1954–62) для Франции и деколонизации?",
+    "correct_answer_de": "Frankreich erkannte nach blutigem Guerillakrieg und Foltervorwürfen Algeriens Unabhängigkeit an – ein traumatischer Wendepunkt in der Kolonialgeschichte",
+    "correct_answer_ru": "После кровопролитной партизанской войны и обвинений в пытках Франция признала независимость Алжира — травматический поворот в колониальной истории",
+    "wrong_answers_de": [
+      "Frankreich gewann den Krieg und behielt Algerien als Département bis 1990",
+      "Algerien erlangte Unabhängigkeit durch eine friedliche Volksabstimmung ohne Gewalt",
+      "De Gaulle weigerte sich bis zu seinem Tod, Algeriens Unabhängigkeit anzuerkennen"
+    ],
+    "wrong_answers_ru": [
+      "Франция выиграла войну и сохранила Алжир как департамент до 1990 года",
+      "Алжир обрёл независимость путём мирного референдума без насилия",
+      "Де Голль до своей смерти отказывался признавать независимость Алжира"
+    ],
+    "explanation_de": "Die FLN kämpfte gegen 400.000 französische Soldaten. Franzosen folterten Gefangene systematisch. De Gaulle verhandelte den Evian-Vertrag (1962). 1 Million Pieds-Noirs flohen nach Frankreich.",
+    "explanation_ru": "ФНО воевал против 400 000 французских солдат. Французы систематически пытали пленных. Де Голль подписал Эвианские соглашения (1962). 1 миллион «чёрных ног» бежал во Францию.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1962 CE",
+    "tags": ["Algerien", "Frankreich", "Dekolonisierung", "De Gaulle", "FLN"],
+    "interesting_facts": [
+      {"de": "Algerien galt rechtlich nicht als Kolonie, sondern als Teil Frankreichs selbst.", "ru": "Алжир юридически считался не колонией, а частью самой Франции."},
+      {"de": "Jean-Paul Sartre und Simone de Beauvoir waren prominente Kritiker des Krieges.", "ru": "Жан-Поль Сартр и Симона де Бовуар были известными критиками войны."},
+      {"de": "Frankreich diskutiert die Tortur offiziell erst seit den 2000er Jahren.", "ru": "Франция официально обсуждает пытки лишь с 2000-х годов."}
+    ]
+  },
+  {
+    "id": 9191,
+    "question_de": "Was war die politische Bedeutung des Pinochet-Putsches in Chile (1973)?",
+    "question_ru": "Каково было политическое значение переворота Пиночета в Чили (1973)?",
+    "correct_answer_de": "General Pinochet stürzte den demokratisch gewählten Sozialisten Allende mit US-Unterstützung und errichtete eine Militärdiktatur",
+    "correct_answer_ru": "Генерал Пиночет при поддержке США сверг демократически избранного социалиста Альенде и установил военную диктатуру",
+    "wrong_answers_de": [
+      "Pinochet kam durch eine freie Wahl an die Macht",
+      "Die USA verurteilten den Putsch und boten Allende Asyl an",
+      "Pinochet übergab die Macht nach einem Jahr freiwillig an eine Zivilregierung"
+    ],
+    "wrong_answers_ru": [
+      "Пиночет пришёл к власти путём свободных выборов",
+      "США осудили переворот и предложили Альенде убежище",
+      "Пиночет добровольно передал власть гражданскому правительству через год"
+    ],
+    "explanation_de": "Am 11. September 1973 bombardierten chilenische Militärs das Präsidentenpalais La Moneda. Allende starb. CIA-Dokumente belegen US-Destabilisierungspolitik. Pinochet regierte bis 1990.",
+    "explanation_ru": "11 сентября 1973 года чилийские военные разбомбили президентский дворец Ла Монеда. Альенде погиб. Документы ЦРУ подтверждают политику дестабилизации США. Пиночет правил до 1990 года.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1973 CE",
+    "tags": ["Pinochet", "Chile", "Allende", "CIA", "Lateinamerika"],
+    "interesting_facts": [
+      {"de": "Pinochet ließ über 3.000 Gegner töten und 40.000 foltern.", "ru": "Пиночет казнил более 3 000 противников и подверг пыткам 40 000."},
+      {"de": "Milton Friedmans Schüler ('Chicago Boys') reformierten unter Pinochet Chiles Wirtschaft radikal.", "ru": "Ученики Милтона Фридмана («чикагские мальчики») при Пиночете радикально реформировали экономику Чили."},
+      {"de": "Pinochet wurde 1998 in London verhaftet, aber nie in Chile verurteilt.", "ru": "Пиночет был арестован в Лондоне в 1998 году, однако так и не был осуждён в Чили."}
+    ]
+  },
+  {
+    "id": 9192,
+    "question_de": "Was war die Bedeutung des Camp-David-Abkommens (1978) für den Nahen Osten?",
+    "question_ru": "Каково было значение Кэмп-Дэвидских соглашений (1978) для Ближнего Востока?",
+    "correct_answer_de": "US-Präsident Carter vermittelte den ersten Friedensvertrag zwischen Israel und einem arabischen Staat (Ägypten unter Sadat)",
+    "correct_answer_ru": "Президент США Картер выступил посредником первого мирного договора между Израилем и арабским государством (Египтом под руководством Садата)",
+    "wrong_answers_de": [
+      "Camp David schuf einen unabhängigen palästinensischen Staat",
+      "Das Abkommen beendete den israelisch-palästinensischen Konflikt dauerhaft",
+      "Jordanien und Syrien schlossen sich dem Friedensabkommen an"
+    ],
+    "wrong_answers_ru": [
+      "Кэмп-Дэвид создал независимое палестинское государство",
+      "Соглашение окончательно урегулировало израильско-палестинский конфликт",
+      "Иордания и Сирия присоединились к мирному договору"
+    ],
+    "explanation_de": "Israel (Begin) und Ägypten (Sadat) unterzeichneten 1979 den Friedensvertrag. Israel gab den Sinai zurück; Ägypten anerkannte Israel. Sadat wurde 1981 von Islamisten ermordet.",
+    "explanation_ru": "Израиль (Бегин) и Египет (Садат) подписали мирный договор в 1979 году. Израиль вернул Синай; Египет признал Израиль. Садат был убит исламистами в 1981 году.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1978 CE",
+    "tags": ["Camp David", "Israel", "Ägypten", "Sadat", "Begin"],
+    "interesting_facts": [
+      {"de": "Sadat und Begin erhielten 1978 gemeinsam den Friedensnobelpreis.", "ru": "Садат и Бегин совместно получили Нобелевскую премию мира в 1978 году."},
+      {"de": "Die arabische Welt boykottierte Ägypten nach Camp David für Jahre.", "ru": "Арабский мир бойкотировал Египет после Кэмп-Дэвида на протяжении нескольких лет."},
+      {"de": "Das Abkommen ist bis heute gültig – die ägyptisch-israelische Grenze ist stabil.", "ru": "Соглашение действует по сей день — египетско-израильская граница остаётся стабильной."}
+    ]
+  },
+  {
+    "id": 9193,
+    "question_de": "Was war die Bedeutung des Polnischen Solidarność-Streiks (1980) für den Ostblock?",
+    "question_ru": "Каково было значение польской забастовки «Солидарности» (1980) для Восточного блока?",
+    "correct_answer_de": "Solidarność war die erste unabhängige Gewerkschaft im Ostblock und ein Vorbote des Zusammenbruchs des kommunistischen Systems",
+    "correct_answer_ru": "«Солидарность» была первым независимым профсоюзом в Восточном блоке и предвестником крушения коммунистической системы",
+    "wrong_answers_de": [
+      "Solidarność wurde von der polnischen Kommunistischen Partei gegründet",
+      "Die Bewegung scheiterte sofort und hatte keine politischen Folgen",
+      "Die Sowjetunion intervenierte militärisch und löste Solidarność auf"
+    ],
+    "wrong_answers_ru": [
+      "«Солидарность» была основана Польской коммунистической партией",
+      "Движение сразу потерпело неудачу и не имело политических последствий",
+      "Советский Союз вмешался военным путём и распустил «Солидарность»"
+    ],
+    "explanation_de": "Lech Wałęsa führte den Streik in der Danziger Lenin-Werft. 10 Millionen Mitglieder; erste legale unabhängige Gewerkschaft in der Sowjetsphäre. 1981 Kriegsrecht, 1989 freie Wahlen.",
+    "explanation_ru": "Лех Валенса руководил забастовкой на Гданьской судоверфи имени Ленина. 10 миллионов членов; первый легальный независимый профсоюз в советской сфере. В 1981 году — военное положение, в 1989-м — свободные выборы.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1980 CE",
+    "tags": ["Solidarność", "Polen", "Wałęsa", "Gewerkschaft", "Kommunismus"],
+    "interesting_facts": [
+      {"de": "Wałęsa erhielt 1983 den Friedensnobelpreis – die Regierung ließ ihn nicht zur Verleihung reisen.", "ru": "Валенса получил Нобелевскую премию мира в 1983 году — правительство не позволило ему поехать на церемонию."},
+      {"de": "Papst Johannes Paul II. (ein Pole) stärkte die Solidarność-Bewegung durch seine Besuche.", "ru": "Папа Иоанн Павел II (поляк) укреплял движение «Солидарность» своими визитами."},
+      {"de": "1989 wurde Wałęsa Staatspräsident Polens – ein Ex-Elektriker als Staatschef.", "ru": "В 1989 году Валенса стал президентом Польши — бывший электрик стал главой государства."}
+    ]
+  },
+  {
+    "id": 9194,
+    "question_de": "Was war die Bedeutung von Thatcherismus und Reaganomics in den 1980er Jahren?",
+    "question_ru": "Каково было значение тэтчеризма и рейганомики в 1980-е годы?",
+    "correct_answer_de": "Beide Politiken brachen mit dem Nachkriegs-Keynesianismus und setzten auf Deregulierung, Privatisierung und Steuersenkungen als Wachstumsstrategie",
+    "correct_answer_ru": "Оба курса порвали с послевоенным кейнсианством и сделали ставку на дерегулирование, приватизацию и снижение налогов как стратегию роста",
+    "wrong_answers_de": [
+      "Reagan und Thatcher erweiterten den Wohlfahrtsstaat massiv, um Armut zu bekämpfen",
+      "Der Thatcherismus war ein Konzept der Labour Party, das Thatcher von der Opposition übernahm",
+      "Reaganomics forderte höhere Steuern für Unternehmen zur Schuldenreduzierung"
+    ],
+    "wrong_answers_ru": [
+      "Рейган и Тэтчер значительно расширили государство всеобщего благосостояния для борьбы с бедностью",
+      "Тэтчеризм был концепцией Лейбористской партии, которую Тэтчер переняла у оппозиции",
+      "Рейганомика требовала повышения налогов для корпораций с целью сокращения долга"
+    ],
+    "explanation_de": "Thatcher (UK, 1979–1990) privatisierte Staatsbetriebe und bekämpfte Gewerkschaften. Reagan (USA, 1981–89) senkte Steuern und deregulierte. Beide prägten den Neoliberalismus.",
+    "explanation_ru": "Тэтчер (Великобритания, 1979–1990) приватизировала государственные предприятия и боролась с профсоюзами. Рейган (США, 1981–89) снизил налоги и провёл дерегулирование. Оба сформировали неолиберализм.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1980 CE",
+    "tags": ["Thatcher", "Reagan", "Neoliberalismus", "Privatisierung", "Deregulierung"],
+    "interesting_facts": [
+      {"de": "Thatcher brach 1984–85 den Bergarbeiterstreik, der ein Jahr dauerte – ein Symbol des Klassenkampfs.", "ru": "Тэтчер в 1984–85 годах сломила забастовку шахтёров, продолжавшуюся год, — символ классовой борьбы."},
+      {"de": "Die Staatsverschuldung der USA verdreifachte sich unter Reagan trotz 'Trickle-Down'-Rhetorik.", "ru": "Государственный долг США при Рейгане утроился, несмотря на риторику «просачивания благ»."},
+      {"de": "Thatcher sagte: 'There is no such thing as society' – ihr berühmtestes und umstrittenstes Zitat.", "ru": "Тэтчер сказала: «Не существует такого понятия, как общество» — её самая известная и спорная цитата."}
+    ]
+  },
+  {
+    "id": 9195,
+    "question_de": "Was war die Bedeutung des Tiananmen-Massakers (1989) für China?",
+    "question_ru": "Каково было значение резни на площади Тяньаньмэнь (1989) для Китая?",
+    "correct_answer_de": "Das Militär schlug die Demokratiebewegung nieder und zeigte, dass die KPCh politische Reformen nicht tolerieren würde, auch wenn sie wirtschaftliche erlaubte",
+    "correct_answer_ru": "Армия подавила демократическое движение и показала, что КПК не потерпит политических реформ, даже допуская экономические",
+    "wrong_answers_de": [
+      "Die Proteste führten zu freien Wahlen im Jahr 1990",
+      "Tiananmen war ein Militärputsch gegen die kommunistische Partei",
+      "Die Regierung erkannte die Forderungen der Studenten an und verhandelte Reformen"
+    ],
+    "wrong_answers_ru": [
+      "Протесты привели к свободным выборам в 1990 году",
+      "Тяньаньмэнь был военным переворотом против коммунистической партии",
+      "Правительство признало требования студентов и провело переговоры о реформах"
+    ],
+    "explanation_de": "Millionen Studenten besetzten den Platz. Am 3.–4. Juni 1989 setzte das Militär Panzer ein. Hunderte bis Tausende Tote. Das 'Tank Man'-Foto geht um die Welt. China zensiert das Ereignis bis heute.",
+    "explanation_ru": "Миллионы студентов заняли площадь. 3–4 июня 1989 года армия применила танки. Сотни–тысячи погибших. Фото «Человека перед танком» облетело весь мир. Китай по сей день цензурирует это событие.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1989 CE",
+    "tags": ["Tiananmen", "China", "Demokratiebewegung", "KPCh", "Menschenrechte"],
+    "interesting_facts": [
+      {"de": "Parteiführer Zhao Ziyang, der Sympathien für die Studenten zeigte, wurde bis zu seinem Tod 2005 unter Hausarrest gestellt.", "ru": "Партийный лидер Чжао Цзыян, проявивший симпатию к студентам, находился под домашним арестом до своей смерти в 2005 году."},
+      {"de": "Die Identität des 'Tank Man' ist bis heute unbekannt.", "ru": "Личность «Человека перед танком» по сей день неизвестна."},
+      {"de": "In China ist die Suche nach 'Tiananmen' im Internet gesperrt.", "ru": "В Китае поиск по слову «Тяньаньмэнь» в интернете заблокирован."}
+    ]
+  },
+  {
+    "id": 9196,
+    "question_de": "Was war die Bedeutung der Samtenen Revolution in der Tschechoslowakei (1989)?",
+    "question_ru": "Каково было значение Бархатной революции в Чехословакии (1989)?",
+    "correct_answer_de": "Die gewaltlose Massenbewegung stürzte das kommunistische Regime und führte zur Demokratisierung unter Václav Havel",
+    "correct_answer_ru": "Ненасильственное массовое движение свергло коммунистический режим и привело к демократизации под руководством Вацлава Гавела",
+    "wrong_answers_de": [
+      "Die Revolution scheiterte und wurde vom Militär blutig niedergeschlagen",
+      "Die Sowjetunion intervenierte militärisch und verhinderte die Demokratisierung",
+      "Havel gründete nach der Revolution eine sozialistische Partei"
+    ],
+    "wrong_answers_ru": [
+      "Революция потерпела неудачу и была жестоко подавлена армией",
+      "Советский Союз вмешался военным путём и помешал демократизации",
+      "Гавел после революции основал социалистическую партию"
+    ],
+    "explanation_de": "Massenproteste ab November 1989 führten in Wochen zum Sturz der KSČ. Dramaturg Václav Havel wurde Präsident. Der 'Velvet Divorce' (1993) teilte die Tschechoslowakei friedlich.",
+    "explanation_ru": "Массовые протесты с ноября 1989 года за несколько недель привели к падению КСЧ. Драматург Вацлав Гавел стал президентом. «Бархатный развод» (1993) мирно разделил Чехословакию.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1989 CE",
+    "tags": ["Samtene Revolution", "Tschechoslowakei", "Havel", "Kommunismus", "Demokratie"],
+    "interesting_facts": [
+      {"de": "Havel war Dramatiker und Dissident – er verbrachte Jahre im Gefängnis vor seiner Präsidentschaft.", "ru": "Гавел был драматургом и диссидентом — до президентства он провёл годы в тюрьме."},
+      {"de": "Die 'Samtene' Revolution war besonders friedlich im Vergleich zu anderen osteuropäischen Umbrüchen.", "ru": "«Бархатная» революция была особенно мирной по сравнению с другими восточноевропейскими переворотами."},
+      {"de": "Die Slowakei und die Tschechische Republik trennten sich 1993 ohne Volksbefragung.", "ru": "Словакия и Чехия разделились в 1993 году без народного голосования."}
+    ]
+  },
+  {
+    "id": 9197,
+    "question_de": "Was war die historische Bedeutung der Terroranschläge vom 11. September 2001?",
+    "question_ru": "Каково было историческое значение террористических атак 11 сентября 2001 года?",
+    "correct_answer_de": "Al-Qaidas Anschläge auf New York und Washington töteten fast 3.000 Menschen und lösten den 'War on Terror' mit dauerhaften Auswirkungen auf Geopolitik und Bürgerrechte aus",
+    "correct_answer_ru": "Атаки «Аль-Каиды» на Нью-Йорк и Вашингтон унесли почти 3 000 жизней и развязали «войну с террором» с долгосрочными последствиями для геополитики и гражданских прав",
+    "wrong_answers_de": [
+      "Die Anschläge wurden von der irakischen Regierung unter Saddam Hussein geplant",
+      "Die USA antworteten nur mit diplomatischen Maßnahmen, nicht militärisch",
+      "Nach 9/11 zog sich die USA aus dem Nahen Osten vollständig zurück"
+    ],
+    "wrong_answers_ru": [
+      "Атаки были спланированы иракским правительством Саддама Хусейна",
+      "США ответили лишь дипломатическими мерами, не военными",
+      "После 9/11 США полностью вышли с Ближнего Востока"
+    ],
+    "explanation_de": "19 Entführer der Al-Qaida nutzten 4 Passagierflugzeuge. 2.977 Tote. Die USA invadieren Afghanistan (Oktober 2001) und später Irak (2003). Der Patriot Act erweiterte Überwachungsmöglichkeiten.",
+    "explanation_ru": "19 угонщиков «Аль-Каиды» использовали 4 пассажирских самолёта. 2977 погибших. США вторглись в Афганистан (октябрь 2001) и позднее в Ирак (2003). Патриотический акт расширил возможности слежки.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2001 CE",
+    "tags": ["9/11", "Al-Qaida", "Terror", "USA", "War on Terror"],
+    "interesting_facts": [
+      {"de": "Das World Trade Center stand nur von 1972 bis 2001 – 29 Jahre.", "ru": "Всемирный торговый центр простоял лишь с 1972 по 2001 год — 29 лет."},
+      {"de": "Osama bin Laden wurde erst 2011 in Pakistan von US-Spezialkräften getötet.", "ru": "Усама бен Ладен был убит американским спецназом в Пакистане лишь в 2011 году."},
+      {"de": "Artikel 5 der NATO wurde erstmals in der Geschichte nach 9/11 aktiviert.", "ru": "Статья 5 НАТО была впервые в истории задействована после 9/11."}
+    ]
+  },
+  {
+    "id": 9198,
+    "question_de": "Was war die Bedeutung der Kosovo-Krise (1999) für die internationale Ordnung?",
+    "question_ru": "Каково было значение косовского кризиса (1999) для международного порядка?",
+    "correct_answer_de": "Die NATO griff ohne UN-Mandat in Serbien ein, um Albanern zu helfen – ein Präzedenzfall für humanitäre Intervention",
+    "correct_answer_ru": "НАТО без мандата ООН вмешалась в Сербии для защиты албанцев — прецедент гуманитарного вмешательства",
+    "wrong_answers_de": [
+      "Russland führte die Militärintervention im Kosovo an",
+      "Der UN-Sicherheitsrat autorisierte die Intervention einstimmig",
+      "Kosovo blieb nach dem Krieg Teil Serbiens als autonome Provinz"
+    ],
+    "wrong_answers_ru": [
+      "Россия возглавила военное вмешательство в Косово",
+      "Совет Безопасности ООН единогласно санкционировал интервенцию",
+      "Косово после войны осталось частью Сербии как автономная провинция"
+    ],
+    "explanation_de": "Die NATO bombardierte Serbien 78 Tage lang (März–Juni 1999). Russland blockierte ein UN-Mandat. Kosovo erklärte 2008 die Unabhängigkeit – von 100+ Staaten anerkannt, nicht von Serbien.",
+    "explanation_ru": "НАТО бомбардировало Сербию 78 дней (март–июнь 1999). Россия заблокировала мандат ООН. В 2008 году Косово провозгласило независимость — признанную более чем 100 государствами, но не Сербией.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1999 CE",
+    "tags": ["Kosovo", "NATO", "Serbien", "Humanitäre Intervention", "Balkan"],
+    "interesting_facts": [
+      {"de": "Der Kosovo-Krieg war der erste Kampfeinsatz der NATO in ihrer Geschichte.", "ru": "Косовская война стала первой боевой операцией НАТО в её истории."},
+      {"de": "China und Russland betrachten Kosovo als illegale Abspaltung und erkennen es nicht an.", "ru": "Китай и Россия считают Косово незаконным отделением и не признают его."},
+      {"de": "Die NATO bombardierte versehentlich die chinesische Botschaft in Belgrad.", "ru": "НАТО случайно разбомбила китайское посольство в Белграде."}
+    ]
+  },
+  {
+    "id": 9199,
+    "question_de": "Was war die Bedeutung des Irakkrieges 2003 für die internationale Ordnung?",
+    "question_ru": "Каково было значение войны в Ираке 2003 года для международного порядка?",
+    "correct_answer_de": "Die US-geführte Invasion ohne UN-Mandat auf Basis falscher WMD-Behauptungen beschädigte das internationale Ansehen der USA und destabilisierte den Nahen Osten",
+    "correct_answer_ru": "Вторжение под руководством США без мандата ООН на основе ложных утверждений об ОМУ подорвало международный авторитет США и дестабилизировало Ближний Восток",
+    "wrong_answers_de": [
+      "Der Irakkrieg war eine UN-autorisierte Operation mit breiter internationaler Unterstützung",
+      "Der Krieg endete nach zwei Wochen mit einem vollständigen Sieg und stabiler Demokratie",
+      "Massenvernichtungswaffen wurden kurz nach der Invasion gefunden"
+    ],
+    "wrong_answers_ru": [
+      "Война в Ираке была авторизованной ООН операцией с широкой международной поддержкой",
+      "Война завершилась через две недели полной победой и стабильной демократией",
+      "Оружие массового уничтожения было найдено вскоре после вторжения"
+    ],
+    "explanation_de": "USA und UK invadierten am 20. März 2003. Saddam Hussein wurde gefangen und hingerichtet (2006). Es wurden keine WMD gefunden. Der IS entstand aus dem Chaos. Gesamtkosten: über 2 Billionen Dollar.",
+    "explanation_ru": "США и Великобритания вторглись 20 марта 2003 года. Саддам Хусейн был схвачен и казнён (2006). ОМУ найдено не было. Из хаоса возникло ИГИЛ. Общие затраты — более 2 триллионов долларов.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2003 CE",
+    "tags": ["Irakkrieg", "USA", "Saddam", "WMD", "Naher Osten"],
+    "interesting_facts": [
+      {"de": "Frankreich und Deutschland weigerten sich, am Krieg teilzunehmen – Rumsfeld nannte sie 'Altes Europa'.", "ru": "Франция и Германия отказались участвовать в войне — Рамсфелд назвал их «старой Европой»."},
+      {"de": "Colin Powells WMD-Präsentation vor dem UN-Sicherheitsrat basierte auf gefälschten Geheimdienstinformationen.", "ru": "Презентация Колина Пауэлла об ОМУ перед Советом Безопасности ООН основывалась на сфабрикованных разведданных."},
+      {"de": "Der Irakkrieg gilt als einer der größten außenpolitischen Fehler der US-Geschichte.", "ru": "Война в Ираке считается одной из крупнейших внешнеполитических ошибок в истории США."}
+    ]
+  },
+  {
+    "id": 9200,
+    "question_de": "Was war die Bedeutung des Jugoslawienkrieges (1991–95) für Europa?",
+    "question_ru": "Каково было значение Югославской войны (1991–95) для Европы?",
+    "correct_answer_de": "Der blutigste Krieg in Europa seit 1945 zeigte die Grenzen europäischer Sicherheitspolitik und endete mit dem Dayton-Abkommen unter US-Vermittlung",
+    "correct_answer_ru": "Самая кровопролитная война в Европе со времён 1945 года показала пределы европейской политики безопасности и завершилась Дейтонским соглашением при посредничестве США",
+    "wrong_answers_de": [
+      "Die EU handelte den Waffenstillstand innerhalb von Wochen aus und verhinderte so einen langen Krieg",
+      "Russland intervenierte militärisch und beendete den Krieg durch Besetzung Serbiens",
+      "Jugoslawien wurde nach dem Krieg als Föderalstaat wiedervereinigt"
+    ],
+    "wrong_answers_ru": [
+      "ЕС добился прекращения огня за несколько недель и тем самым предотвратил затяжную войну",
+      "Россия вмешалась военным путём и завершила войну оккупацией Сербии",
+      "Югославия после войны была воссоединена в качестве федеративного государства"
+    ],
+    "explanation_de": "Slovenien, Kroatien, Bosnien und Mazedonien erklärten 1991/92 Unabhängigkeit. Ethnische Säuberungen, Massaker (Srebrenica, 8.000 Tote) und NATO-Eingriff 1995. Dayton teilte Bosnien.",
+    "explanation_ru": "Словения, Хорватия, Босния и Македония в 1991/92 годах провозгласили независимость. Этнические чистки, массовые убийства (Сребреница, 8 000 жертв) и вмешательство НАТО в 1995 году. Дейтон разделил Боснию.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1991 CE",
+    "tags": ["Jugoslawien", "Balkan", "Srebrenica", "Dayton", "Bosnien"],
+    "interesting_facts": [
+      {"de": "Das Massaker von Srebrenica 1995 gilt als einziger offiziell anerkannter Völkermord in Europa nach dem Holocaust.", "ru": "Резня в Сребренице в 1995 году считается единственным официально признанным геноцидом в Европе после Холокоста."},
+      {"de": "Slobodan Milošević wurde vor dem Internationalen Tribunal angeklagt und starb 2006 in Haft.", "ru": "Слободан Милошевич был привлечён к суду Международного трибунала и умер под стражей в 2006 году."},
+      {"de": "Die Kriege führten zu über 100.000 Toten und 2 Millionen Flüchtlingen.", "ru": "Войны унесли более 100 000 жизней и породили 2 миллиона беженцев."}
+    ]
+  }
+]

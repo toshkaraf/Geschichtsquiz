@@ -1,0 +1,727 @@
+[
+  {
+    "id": 9201,
+    "question_de": "Was war die historische Bedeutung des Rüstungswettlaufs im Kalten Krieg?",
+    "question_ru": "Каково было историческое значение гонки вооружений в холодной войне?",
+    "correct_answer_de": "USA und UdSSR rüsteten nuklear auf, bis beide Seiten die Fähigkeit hatten, die Erde mehrfach zu zerstören, was paradoxerweise Stabilität durch gegenseitige Abschreckung schuf",
+    "correct_answer_ru": "США и СССР наращивали ядерный арсенал, пока обе стороны не получили возможность уничтожить Землю несколько раз, что парадоксально создало стабильность через взаимное сдерживание",
+    "wrong_answers_de": [
+      "Der Rüstungswettlauf war rein konventionell und betraf keine Atomwaffen",
+      "Die Sowjetunion gewann den Rüstungswettlauf, da sie mehr Atombomben produzierte",
+      "Der Rüstungswettlauf wurde durch den Völkerbund 1950 offiziell beendet"
+    ],
+    "wrong_answers_ru": [
+      "Гонка вооружений была сугубо обычной и не касалась ядерного оружия",
+      "Советский Союз выиграл гонку вооружений, так как произвёл больше атомных бомб",
+      "Гонка вооружений была официально завершена Лигой Наций в 1950 году"
+    ],
+    "explanation_de": "1949 testete die UdSSR ihre erste A-Bombe. 1952 USA die erste H-Bombe. Auf dem Höhepunkt hatten beide Seiten zusammen 70.000 Atomsprengköpfe. SALT I (1972) und START (1991) begrenzten das Arsenal.",
+    "explanation_ru": "В 1949 году СССР испытал первую атомную бомбу. В 1952-м США — первую водородную. На пике у обеих сторон вместе насчитывалось 70 000 ядерных боеголовок. СОЛТ-1 (1972) и СНВ (1991) ограничили арсенал.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1950 CE",
+    "tags": ["Rüstungswettlauf", "Atomwaffen", "Kalter Krieg", "Abschreckung", "SALT"],
+    "interesting_facts": [
+      {"de": "Die USA und UdSSR testeten zusammen über 2.000 Atomwaffen im 20. Jahrhundert.", "ru": "США и СССР в XX веке провели вместе более 2 000 ядерных испытаний."},
+      {"de": "Der 'Doomsday Clock' der Atomwissenschaftler stand 1953 auf 2 Minuten vor Mitternacht.", "ru": "В 1953 году «Часы Судного дня» учёных-ядерщиков показывали 2 минуты до полуночи."},
+      {"de": "Heute kontrollieren USA und Russland noch immer über 90% aller weltweiten Atomwaffen.", "ru": "Сегодня США и Россия по-прежнему контролируют более 90% всего мирового ядерного оружия."}
+    ]
+  },
+  {
+    "id": 9202,
+    "question_de": "Was war die Bedeutung des Space Shuttle-Programms der NASA (1981–2011)?",
+    "question_ru": "Каково было значение программы Space Shuttle НАСА (1981–2011)?",
+    "correct_answer_de": "Das erste wiederverwendbare Raumschiff ermöglichte Satelliten-Starts, den Bau der ISS und wissenschaftliche Experimente, litt aber unter zwei tödlichen Katastrophen",
+    "correct_answer_ru": "Первый многоразовый космический корабль обеспечил запуски спутников, строительство МКС и научные эксперименты, однако пережил две катастрофы с человеческими жертвами",
+    "wrong_answers_de": [
+      "Das Shuttle war das erste Raumschiff, das auf dem Mond landete",
+      "Die Sowjetunion entwickelte das Space Shuttle gemeinsam mit den USA",
+      "Das Shuttle-Programm war ein reines Militärprogramm ohne zivile Nutzung"
+    ],
+    "wrong_answers_ru": [
+      "Шаттл был первым космическим кораблём, приземлившимся на Луне",
+      "Советский Союз разработал Space Shuttle совместно с США",
+      "Программа шаттлов была сугубо военной и не имела гражданского применения"
+    ],
+    "explanation_de": "Challenger (1986) und Columbia (2003) explodierten – 14 Astronauten starben. Das Shuttle startete Hubble-Teleskop (1990) und half beim ISS-Bau. 135 Missionen insgesamt.",
+    "explanation_ru": "«Челленджер» (1986) и «Колумбия» (2003) взорвались — погибли 14 астронавтов. Шаттл запустил телескоп Хаббл (1990) и помог строить МКС. Всего 135 миссий.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1981 CE",
+    "tags": ["Space Shuttle", "NASA", "Challenger", "ISS", "Raumfahrt"],
+    "interesting_facts": [
+      {"de": "Der Challenger-Unfall wurde live im TV übertragen – Millionen Schulkinder sahen es, da Lehrerin Christa McAuliffe an Bord war.", "ru": "Катастрофа «Челленджера» транслировалась в прямом эфире — миллионы школьников смотрели её, так как на борту была учительница Криста Маколифф."},
+      {"de": "Das Hubble-Teleskop hatte zunächst einen Spiegelfehler – Shuttle-Astronauten reparierten es 1993.", "ru": "Телескоп Хаббл поначалу имел дефект зеркала — астронавты шаттла исправили его в 1993 году."},
+      {"de": "Die NASA hat seit 2011 kein eigenes Raumschiff für bemannte Flüge – SpaceX und Boeing übernahmen.", "ru": "С 2011 года у НАСА нет собственного корабля для пилотируемых полётов — их взяли на себя SpaceX и Boeing."}
+    ]
+  },
+  {
+    "id": 9203,
+    "question_de": "Was war die Bedeutung des Nordatlantikvertrags als Grundlage der NATO-Allianz?",
+    "question_ru": "Каково было значение Североатлантического договора как основы альянса НАТО?",
+    "correct_answer_de": "Artikel 5 des Vertrags definiert kollektive Verteidigung: Ein Angriff auf ein Mitglied gilt als Angriff auf alle",
+    "correct_answer_ru": "Статья 5 договора определяет коллективную оборону: нападение на одного члена считается нападением на всех",
+    "wrong_answers_de": [
+      "Der Nordatlantikvertrag verpflichtete alle Mitglieder zu gemeinsamen Nuklearwaffen",
+      "Artikel 5 verbot allen Mitgliedern die unilaterale Kriegsführung",
+      "Der Vertrag schuf eine einheitliche europäische Armee unter US-Kommando"
+    ],
+    "wrong_answers_ru": [
+      "Североатлантический договор обязывал всех членов к совместному ядерному оружию",
+      "Статья 5 запрещала всем членам одностороннее ведение войны",
+      "Договор создал единую европейскую армию под командованием США"
+    ],
+    "explanation_de": "NATO (1949): 12 Gründungsmitglieder. Artikel 5 der Beistandspflicht war die Antwort auf sowjetische Bedrohung. Erweiterungen nach 1991 auf 32 Mitglieder (inkl. Schweden 2024).",
+    "explanation_ru": "НАТО (1949): 12 государств-основателей. Статья 5 об обязательстве взаимной помощи стала ответом на советскую угрозу. После 1991 года расширилось до 32 членов (включая Швецию в 2024 году).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1949 CE",
+    "tags": ["NATO", "Artikel 5", "Kollektive Verteidigung", "Kalter Krieg", "Bündnis"],
+    "interesting_facts": [
+      {"de": "Artikel 5 wurde erstmals nach 9/11 aktiviert – zugunsten der USA.", "ru": "Статья 5 была впервые задействована после 9/11 — в защиту США."},
+      {"de": "Der Warschauer Pakt (1955) war die sowjetische Antwort auf die NATO.", "ru": "Варшавский договор (1955) был советским ответом на НАТО."},
+      {"de": "Frankreich trat 1966 aus der militärischen Integration aus und kehrte erst 2009 zurück.", "ru": "Франция в 1966 году вышла из военной интеграции и вернулась лишь в 2009 году."}
+    ]
+  },
+  {
+    "id": 9204,
+    "question_de": "Was war die Bedeutung des Ende des Kalten Krieges für die Weltordnung?",
+    "question_ru": "Каково было значение окончания холодной войны для мирового порядка?",
+    "correct_answer_de": "Das Ende des Ost-West-Konflikts schuf kurz eine 'unipolare Welt' unter US-Führung, löste aber auch neue regionale Konflikte und Nationalismen aus",
+    "correct_answer_ru": "Окончание конфликта Восток–Запад ненадолго создало «однополярный мир» под руководством США, но также породило новые региональные конфликты и национализм",
+    "wrong_answers_de": [
+      "Das Ende des Kalten Krieges führte zur dauerhaften Abrüstung aller Atomwaffen",
+      "Die Sowjetunion wurde in eine Demokratie umgewandelt und trat der EU bei",
+      "Die USA und Russland schlossen eine formelle Allianz nach dem Kalten Krieg"
+    ],
+    "wrong_answers_ru": [
+      "Окончание холодной войны привело к полному разоружению всего ядерного оружия",
+      "Советский Союз был преобразован в демократию и вступил в ЕС",
+      "США и Россия заключили формальный союз после холодной войны"
+    ],
+    "explanation_de": "Der Zusammenbruch der UdSSR (1991) ließ die USA als einzige Supermacht zurück. Francis Fukuyamas 'End of History': Liberalismus triumphiert. Doch Jugoslawien, 9/11, Irak zeigten schnell neue Konflikte.",
+    "explanation_ru": "Распад СССР (1991) оставил США единственной сверхдержавой. «Конец истории» Фукуямы: торжество либерализма. Но Югославия, 9/11, Ирак быстро показали новые конфликты.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1991 CE",
+    "tags": ["Kalter Krieg Ende", "USA", "Sowjetunion", "Weltordnung", "Unipolarität"],
+    "interesting_facts": [
+      {"de": "Die UdSSR löste sich am 25. Dezember 1991 offiziell auf – Weihnachten.", "ru": "СССР официально прекратил существование 25 декабря 1991 года — в Рождество."},
+      {"de": "15 neue Staaten entstanden aus der UdSSR.", "ru": "Из СССР образовалось 15 новых государств."},
+      {"de": "Samuel Huntingtons 'Clash of Civilizations' (1993) warnte vor neuen kulturellen Konflikten – als Gegenentwurf zu Fukuyama.", "ru": "«Столкновение цивилизаций» Сэмюэла Хантингтона (1993) предупреждало о новых культурных конфликтах — как альтернатива Фукуяме."}
+    ]
+  },
+  {
+    "id": 9205,
+    "question_de": "Was war die Bedeutung der Apartheid in Südafrika im globalen Kontext des 20. Jahrhunderts?",
+    "question_ru": "Каково было значение апартеида в Южной Африке в глобальном контексте XX века?",
+    "correct_answer_de": "Apartheid war ein staatlich institutionalisiertes System der Rassentrennung, das durch internationalen Druck, ANC-Widerstand und Mandellas Führung 1994 endete",
+    "correct_answer_ru": "Апартеид был государственно институционализированной системой расовой сегрегации, которая завершилась в 1994 году благодаря международному давлению, сопротивлению АНК и руководству Манделы",
+    "wrong_answers_de": [
+      "Apartheid wurde 1960 nach einem UN-Beschluss beendet",
+      "Apartheid betraf ausschließlich das Wahlrecht, nicht den Alltag der Menschen",
+      "Südafrika endete die Apartheid durch einen bewaffneten Volksaufstand"
+    ],
+    "wrong_answers_ru": [
+      "Апартеид был прекращён в 1960 году по решению ООН",
+      "Апартеид касался исключительно избирательных прав, а не повседневной жизни людей",
+      "Южная Африка покончила с апартеидом путём вооружённого народного восстания"
+    ],
+    "explanation_de": "1948 eingeführt von der Nationalen Partei: völlige Rassentrennung in Bildung, Wohnen, Verkehr. Sharpeville-Massaker (1960, 69 Tote). Internationale Sanktionen. Freie Wahlen 1994.",
+    "explanation_ru": "Введён в 1948 году Национальной партией: полная расовая сегрегация в образовании, жилье, транспорте. Шарпевильский расстрел (1960, 69 погибших). Международные санкции. Свободные выборы в 1994 году.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1948 CE",
+    "tags": ["Apartheid", "Südafrika", "ANC", "Rassismus", "Menschenrechte"],
+    "interesting_facts": [
+      {"de": "Die Weltgemeinschaft verhängte Wirtschaftssanktionen, die Südafrikas Wirtschaft stark belasteten.", "ru": "Мировое сообщество ввело экономические санкции, сильно ударившие по экономике Южной Африки."},
+      {"de": "Desmond Tutu führte die Wahrheits- und Versöhnungskommission (1995–98), die Aufarbeitung ohne Rache ermöglichte.", "ru": "Десмонд Туту возглавлял Комиссию по установлению истины и примирению (1995–98), обеспечившую осмысление прошлого без мести."},
+      {"de": "Das Wort 'Apartheid' bedeutet auf Afrikaans 'Getrenntheit'.", "ru": "Слово «апартеид» на африкаанс означает «раздельность»."}
+    ]
+  },
+  {
+    "id": 9206,
+    "question_de": "Was war die Bedeutung der europäischen Integration als politisches Projekt nach 1945?",
+    "question_ru": "Каково было значение европейской интеграции как политического проекта после 1945 года?",
+    "correct_answer_de": "Die EG/EU schuf durch wirtschaftliche Verflechtung einen Friedensraum, in dem Krieg zwischen Mitgliedsstaaten undenkbar wurde",
+    "correct_answer_ru": "ЕС создал через экономическое переплетение пространство мира, в котором война между государствами-членами стала немыслимой",
+    "wrong_answers_de": [
+      "Die EU entstand 1919 als Reaktion auf den Ersten Weltkrieg",
+      "Die europäische Integration war ein sowjetisches Projekt zur Schwächung der USA",
+      "Die EU wurde von Anfang an als militärisches Bündnis konzipiert"
+    ],
+    "wrong_answers_ru": [
+      "ЕС возник в 1919 году как реакция на Первую мировую войну",
+      "Европейская интеграция была советским проектом ослабления США",
+      "ЕС с самого начала задумывался как военный союз"
+    ],
+    "explanation_de": "Europäische Gemeinschaft für Kohle und Stahl (EGKS, 1951) → EWG (1957, Römische Verträge) → EG → EU (1993, Maastricht). Heute: 27 Mitglieder, Binnenmarkt, Freizügigkeit.",
+    "explanation_ru": "Европейское объединение угля и стали (ЕОУС, 1951) → ЕЭС (1957, Римский договор) → ЕС (1993, Маастрихт). Сегодня: 27 членов, единый рынок, свобода передвижения.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1951 CE",
+    "tags": ["EU", "Europäische Integration", "Frieden", "Binnenmarkt", "Römische Verträge"],
+    "interesting_facts": [
+      {"de": "Robert Schuman und Jean Monnet gelten als 'Väter Europas'.", "ru": "Робер Шуман и Жан Монне считаются «отцами Европы»."},
+      {"de": "Die EU erhielt 2012 den Friedensnobelpreis.", "ru": "ЕС получил Нобелевскую премию мира в 2012 году."},
+      {"de": "Großbritannien trat der EU 1973 bei und verließ sie 2020 (Brexit).", "ru": "Великобритания вступила в ЕС в 1973 году и вышла из него в 2020 году (Brexit)."}
+    ]
+  },
+  {
+    "id": 9207,
+    "question_de": "Was war die Bedeutung der Entkolonisierung Afrikas in den 1960er Jahren für die Geopolitik?",
+    "question_ru": "Каково было значение деколонизации Африки в 1960-е годы для геополитики?",
+    "correct_answer_de": "17 neue afrikanische Staaten erlangten 1960 Unabhängigkeit, wurden sofort zum Schauplatz des Ost-West-Wettbewerbs und kämpften mit Korruption und Instabilität",
+    "correct_answer_ru": "17 новых африканских государств обрели независимость в 1960 году, немедленно став ареной соперничества Востока и Запада и борясь с коррупцией и нестабильностью",
+    "wrong_answers_de": [
+      "Die Entkolonisierung Afrikas verlief ohne Konflikte und führte zu stabilen Demokratien",
+      "Nur fünf Länder erlangten Unabhängigkeit in den 1960ern, der Rest erst nach 1990",
+      "Die UNO übernahm die Verwaltung aller afrikanischen Kolonien als Treuhandgebiete"
+    ],
+    "wrong_answers_ru": [
+      "Деколонизация Африки прошла бесконфликтно и привела к стабильным демократиям",
+      "В 1960-е годы независимость обрели лишь пять стран, остальные — только после 1990 года",
+      "ООН взяла на себя управление всеми африканischen колониями в качестве подопечных территорий"
+    ],
+    "explanation_de": "1960 war das 'Afrikanische Jahr': Nigeria, Kamerun, Senegal, Kongo u.a. Die belgische Entlassung des Kongos war besonders chaotisch – Bürgerkrieg folgte sofort. Lumumba wurde ermordet.",
+    "explanation_ru": "1960-й был «Годом Африки»: Нигерия, Камерун, Сенегал, Конго и другие. Особенно хаотичным было предоставление независимости Конго Бельгией — сразу же последовала гражданская война. Лумумба был убит.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1960 CE",
+    "tags": ["Entkolonisierung", "Afrika", "Unabhängigkeit", "Kalter Krieg", "Lumumba"],
+    "interesting_facts": [
+      {"de": "Patrice Lumumba, erster Premierminister des Kongos, wurde mit CIA-Unterstützung 1961 ermordet.", "ru": "Патрис Лумумба, первый премьер-министр Конго, был убит в 1961 году при содействии ЦРУ."},
+      {"de": "Viele afrikanische Grenzen folgten noch immer kolonialen Linien und ignorierten ethnische Realitäten.", "ru": "Многие африканские границы по-прежнему следовали колониальным линиям и игнорировали этнические реалии."},
+      {"de": "Nkrumah (Ghana), Nyerere (Tansania) und Senghor (Senegal) prägten den afrikanischen Sozialismus.", "ru": "Нкрума (Гана), Ньерере (Танзания) и Сенгор (Сенегал) сформировали африканский социализм."}
+    ]
+  },
+  {
+    "id": 9208,
+    "question_de": "Was war die historische Bedeutung der Studentenbewegung von 1968 weltweit?",
+    "question_ru": "Каково было историческое значение студенческого движения 1968 года во всём мире?",
+    "correct_answer_de": "Die 68er-Bewegung hinterfragte Autorität, Traditionen und den Vietnamkrieg und leitete einen kulturellen Wandel in westlichen Gesellschaften ein",
+    "correct_answer_ru": "Движение 1968 года поставило под сомнение авторитет, традиции и войну во Вьетнаме и положило начало культурным переменам в западных обществах",
+    "wrong_answers_de": [
+      "Die 68er-Bewegung war ausschließlich ein ostdeutsches Phänomen",
+      "Die Bewegung hatte ausschließlich wirtschaftliche Forderungen nach höheren Löhnen",
+      "1968 führte zu sofortigen Wahlerfolgen für kommunistische Parteien in Westeuropa"
+    ],
+    "wrong_answers_ru": [
+      "Движение 1968 года было исключительно восточногерманским явлением",
+      "Движение выдвигало исключительно экономические требования о повышении зарплат",
+      "1968-й привёл к немедленным электоральным успехам коммунистических партий в Западной Европе"
+    ],
+    "explanation_de": "Paris (Mai 68), Berkeley, Berlin, Mexiko-Stadt, Prag – überall Proteste. Themen: Vietnamkrieg, Autoritarismus, sexuelle Befreiung. Langfristig: Feminismus, Umweltbewegung, neue Linke.",
+    "explanation_ru": "Париж (май 68), Беркли, Берлин, Мехико, Прага — протесты повсюду. Темы: война во Вьетнаме, авторитаризм, сексуальное освобождение. Долгосрочно: феминизм, экологическое движение, новые левые.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1968 CE",
+    "tags": ["68er", "Studentenbewegung", "Kulturrevolution", "Vietnam", "Paris"],
+    "interesting_facts": [
+      {"de": "In Mexiko schoss die Armee am 2. Oktober 1968 auf Studenten – 40–300 Tote (Tlatelolco-Massaker).", "ru": "В Мексике 2 октября 1968 года армия открыла огонь по студентам — 40–300 погибших (резня в Тлателолько)."},
+      {"de": "Charles de Gaulle floh kurz aus Paris und dachte an Rücktritt – er gewann aber dann die Wahl.", "ru": "Шарль де Голль ненадолго бежал из Парижа и думал об отставке — но затем выиграл выборы."},
+      {"de": "Viele 68er-Aktivisten wurden später Politiker: Joschka Fischer (Deutschland), Daniel Cohn-Bendit (Frankreich).", "ru": "Многие активисты 1968 года впоследствии стали политиками: Йошка Фишер (Германия), Даниэль Кон-Бендит (Франция)."}
+    ]
+  },
+  {
+    "id": 9209,
+    "question_de": "Was war die Bedeutung des Völkermords in Kambodscha unter den Roten Khmer (1975–79)?",
+    "question_ru": "Каково было значение геноцида в Камбодже при «красных кхмерах» (1975–79)?",
+    "correct_answer_de": "Pol Pots Rotes-Khmer-Regime tötete 1,7–2 Millionen Menschen (ca. 25% der Bevölkerung) beim Versuch, eine agrarkommunistische Utopie zu errichten",
+    "correct_answer_ru": "Режим «красных кхмеров» Пол Пота уничтожил 1,7–2 миллиона человек (около 25% населения) при попытке создать аграрно-коммунистическую утопию",
+    "wrong_answers_de": [
+      "Der Völkermord war ein Ergebnis des Vietnam-Krieges und wurde von US-Truppen verübt",
+      "Die Roten Khmer regierten Kambodscha bis 2000 ohne internationale Einmischung",
+      "Die UN intervenierten 1976 und beendeten das Regime innerhalb eines Jahres"
+    ],
+    "wrong_answers_ru": [
+      "Геноцид стал следствием войны во Вьетнаме и был совершён американскими войсками",
+      "«Красные кхмеры» правили Камбоджей до 2000 года без международного вмешательства",
+      "ООН вмешалась в 1976 году и положила конец режиму в течение года"
+    ],
+    "explanation_de": "Pol Pot evakuierte Städte, schaffte Geld und Bildung ab und zwang alle zu Landarbeit. Intellektuelle, Stadtbewohner, Religiöse wurden ermordet. Vietnam beendete das Regime 1979.",
+    "explanation_ru": "Пол Пот эвакуировал города, упразднил деньги и образование и принудил всех к сельскохозяйственному труду. Интеллигенция, горожане, верующие были уничтожены. Вьетнам положил конец режиму в 1979 году.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1975 CE",
+    "tags": ["Kambodscha", "Rote Khmer", "Völkermord", "Pol Pot", "Kommunismus"],
+    "interesting_facts": [
+      {"de": "Pol Pot studierte in Paris und war beeinflusst von Mao und stalinistischen Ideen.", "ru": "Пол Пот учился в Париже и был под влиянием Мао и сталинистских идей."},
+      {"de": "Das Jahr Null: Die Roten Khmer erklärten 1975 zum Beginn einer neuen Geschichte.", "ru": "Год ноль: «Красные кхмеры» объявили 1975 год началом новой истории."},
+      {"de": "Viele Täter wurden erst Jahrzehnte später vor einem UN-Sondertribunal verurteilt.", "ru": "Многие преступники были осуждены специальным трибуналом ООН лишь спустя десятилетия."}
+    ]
+  },
+  {
+    "id": 9210,
+    "question_de": "Was war die Bedeutung des Brexit (2016–2020) für Europa?",
+    "question_ru": "Каково было значение Brexit (2016–2020) для Европы?",
+    "correct_answer_de": "Das britische Referendum zur EU-Austritt war der erste Rückzug eines Mitgliedsstaats aus der EU und erschütterte das europäische Integrationsprojekt",
+    "correct_answer_ru": "Британский референдум о выходе из ЕС стал первым выходом государства-члена из ЕС и потряс проект европейской интеграции",
+    "wrong_answers_de": [
+      "Das Brexit-Referendum ergab eine klare 70%-Mehrheit für den Austritt",
+      "Großbritannien verließ die EU sofort nach dem Referendum im Jahr 2016",
+      "Der Austritt wurde vom EU-Parlament abgelehnt und nie vollzogen"
+    ],
+    "wrong_answers_ru": [
+      "Референдум Brexit дал явное большинство в 70% за выход",
+      "Великобритания покинула ЕС немедленно после референдума в 2016 году",
+      "Выход был отклонён Европейским парламентом и так и не состоялся"
+    ],
+    "explanation_de": "Das Referendum (Juni 2016) ergab 52% für Leave. Vier Jahre Verhandlungen. UK verließ offiziell die EU am 31. Januar 2020. Irland/Nordirland-Frage blieb kompliziert.",
+    "explanation_ru": "Референдум (июнь 2016) дал 52% за выход. Четыре года переговоров. Великобритания официально покинула ЕС 31 января 2020 года. Вопрос Ирландии/Северной Ирландии остался сложным.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2016 CE",
+    "tags": ["Brexit", "Großbritannien", "EU", "Referendum", "Austritt"],
+    "interesting_facts": [
+      {"de": "Premierministerin Theresa May scheiterte drei Mal mit ihrem Brexit-Deal im Parlament.", "ru": "Премьер-министр Тереза Мэй трижды потерпела поражение со своим соглашением о Brexit в парламенте."},
+      {"de": "Schottland und Nordirland votierten mehrheitlich für Remain – nur England und Wales für Leave.", "ru": "Шотландия и Северная Ирландия проголосовали большинством за «Остаться» — только Англия и Уэльс за «Выйти»."},
+      {"de": "Boris Johnson vollzog den Brexit endgültig am 31. Januar 2020.", "ru": "Борис Джонсон окончательно осуществил Brexit 31 января 2020 года."}
+    ]
+  },
+  {
+    "id": 9211,
+    "question_de": "Was war die Bedeutung des Klimawandels als politisches Problem im späten 20. Jahrhundert?",
+    "question_ru": "Каково было значение изменения климата как политической проблемы в конце XX века?",
+    "correct_answer_de": "Wissenschaftliche Erkenntnisse über den anthropogenen Klimawandel führten zu internationalen Vereinbarungen, die jedoch kaum bindend genug waren",
+    "correct_answer_ru": "Научные данные об антропогенном изменении климата привели к международным соглашениям, которые, однако, были недостаточно обязательными",
+    "wrong_answers_de": [
+      "Der Klimawandel wurde erst im 21. Jahrhundert entdeckt",
+      "Alle Industrieländer reduzierten ihre CO₂-Emissionen nach dem Kyoto-Protokoll erfolgreich",
+      "Die USA ratifizierten das Kyoto-Protokoll und reduzierten ihre Emissionen um 30%"
+    ],
+    "wrong_answers_ru": [
+      "Изменение климата было открыто лишь в XXI веке",
+      "Все промышленные страны успешно сократили выбросы CO₂ после Киотского протокола",
+      "США ратифицировали Киотский протокол и сократили выбросы на 30%"
+    ],
+    "explanation_de": "IPCC gegründet 1988. Rio-Konferenz 1992: Klimarahmenkonvention. Kyoto (1997): USA unterschrieben, nie ratifiziert. Paris 2015 als nächster Schritt. Emissionen stiegen trotzdem.",
+    "explanation_ru": "МГЭИК основана в 1988 году. Конференция в Рио 1992: Рамочная конвенция по климату. Киото (1997): США подписали, так и не ратифицировали. Парижское соглашение 2015 — следующий шаг. Выбросы тем не менее росли.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1992 CE",
+    "tags": ["Klimawandel", "IPCC", "Kyoto", "Umwelt", "CO2"],
+    "interesting_facts": [
+      {"de": "James Hansen warnte 1988 erstmals öffentlich vor dem Treibhauseffekt im US-Kongress.", "ru": "Джеймс Хансен в 1988 году впервые публично предупредил Конгресс США о парниковом эффекте."},
+      {"de": "Das 2015er Pariser Abkommen setzte das 1,5-Grad-Ziel – bisher nicht erreicht.", "ru": "Парижское соглашение 2015 года установило цель в 1,5 градуса — пока не достигнутую."},
+      {"de": "Greta Thunberg begann 2018 ihren Schulstreik und wurde zur globalen Klimaaktivistin.", "ru": "Грета Тунберг начала школьную забастовку в 2018 году и стала глобальной климатической активисткой."}
+    ]
+  },
+  {
+    "id": 9212,
+    "question_de": "Was war die Bedeutung der Digitalen Revolution für Wirtschaft und Gesellschaft ab den 1990ern?",
+    "question_ru": "Каково было значение цифровой революции для экономики и общества с 1990-х годов?",
+    "correct_answer_de": "Internet und digitale Technologien veränderten Kommunikation, Handel, Medien und Arbeit grundlegend und schufen neue wirtschaftliche Mächte wie Silicon Valley",
+    "correct_answer_ru": "Интернет и цифровые технологии коренным образом изменили коммуникацию, торговлю, СМИ и труд и породили новые экономические силы, такие как Кремниевая долина",
+    "wrong_answers_de": [
+      "Die Digitale Revolution beschränkte sich auf die USA und betraf Europa kaum",
+      "Das Internet wurde von der NATO als militärisches Kommunikationssystem für alle Bürger geöffnet",
+      "Die digitale Revolution verlangsamte die Wirtschaft durch überflüssige Technologien"
+    ],
+    "wrong_answers_ru": [
+      "Цифровая революция ограничилась США и почти не затронула Европу",
+      "Интернет был открыт НАТО как военная система связи для всех граждан",
+      "Цифровая революция замедлила экономику из-за излишних технологий"
+    ],
+    "explanation_de": "Das World Wide Web (1991, Tim Berners-Lee) explodierte in den 1990ern. Dotcom-Boom (1995–2000) und -Bust. Google (1998), Amazon (1994), Facebook (2004) prägten das 21. Jahrhundert.",
+    "explanation_ru": "Всемирная паутина (1991, Тим Бернерс-Ли) взорвалась в 1990-е годы. Бум доткомов (1995–2000) и крах. Google (1998), Amazon (1994), Facebook (2004) сформировали XXI век.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1995 CE",
+    "tags": ["Digitale Revolution", "Internet", "Silicon Valley", "Wirtschaft", "Technologie"],
+    "interesting_facts": [
+      {"de": "Das erste Web-Bild wurde 1992 hochgeladen – eine Band-Foto von Les Horribles Cernettes.", "ru": "Первое веб-изображение было загружено в 1992 году — фотография группы Les Horribles Cernettes."},
+      {"de": "Der Dotcom-Crash (2000) vernichtete 5 Billionen Dollar Börsenwert.", "ru": "Крах доткомов (2000) уничтожил 5 триллионов долларов биржевой стоимости."},
+      {"de": "Steve Jobs, Bill Gates und Jeff Bezos formten die digitale Wirtschaft als Gründerfiguren.", "ru": "Стив Джобс, Билл Гейтс и Джефф Безос как основатели сформировали цифровую экономику."}
+    ]
+  },
+  {
+    "id": 9213,
+    "question_de": "Was war die historische Bedeutung des Genfer Abkommens zur Kriegsführung?",
+    "question_ru": "Каково было историческое значение Женевских конвенций о ведении войны?",
+    "correct_answer_de": "Die Genfer Konventionen definierten internationale Regeln für die Behandlung von Kriegsgefangenen und Zivilisten und bildeten das humanitäre Völkerrecht",
+    "correct_answer_ru": "Женевские конвенции определили международные правила обращения с военнопленными и гражданским населением и сформировали международное гуманитарное право",
+    "wrong_answers_de": [
+      "Die Genfer Konventionen verboten alle Kriege zwischen Signatarstaaten",
+      "Sie wurden ausschließlich nach dem Zweiten Weltkrieg unterzeichnet",
+      "Die Konventionen gelten nur für Mitglieder des Roten Kreuzes"
+    ],
+    "wrong_answers_ru": [
+      "Женевские конвенции запрещали все войны между государствами-подписантами",
+      "Они были подписаны исключительно после Второй мировой войны",
+      "Конвенции распространяются лишь на членов Красного Креста"
+    ],
+    "explanation_de": "Erste Genfer Konvention 1864 (Dunant). 1949 vier Konventionen nach WW2: Verwundete, Schiffbrüchige, Kriegsgefangene, Zivilisten. Zusatzprotokolle 1977. Grundlage des humanitären Völkerrechts.",
+    "explanation_ru": "Первая Женевская конвенция 1864 года (Дюнан). В 1949 году — четыре конвенции после Второй мировой: раненые, потерпевшие кораблекрушение, военнопленные, гражданские. Дополнительные протоколы 1977 года. Основа международного гуманитарного права.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1949 CE",
+    "tags": ["Genfer Konventionen", "Kriegsrecht", "Humanitäres Völkerrecht", "Rotes Kreuz", "Kriegsgefangene"],
+    "interesting_facts": [
+      {"de": "Die USA haben die Zusatzprotokolle von 1977 nicht ratifiziert.", "ru": "США не ратифицировали дополнительные протоколы 1977 года."},
+      {"de": "Guantánamo Bay wurde kontrovers diskutiert, weil die USA Gefangene nicht als Kriegsgefangene einstuften.", "ru": "Тюрьма в Гуантанамо вызвала споры, поскольку США не признавали заключённых военнопленными."},
+      {"de": "Das Internationale Komitee vom Roten Kreuz (IKRK) überwacht die Einhaltung der Konventionen.", "ru": "Международный комитет Красного Креста (МККК) осуществляет контроль за соблюдением конвенций."}
+    ]
+  },
+  {
+    "id": 9214,
+    "question_de": "Was war die Bedeutung der Gründung der Welthandelsorganisation (WTO) 1995?",
+    "question_ru": "Каково было значение основания Всемирной торговой организации (ВТО) в 1995 году?",
+    "correct_answer_de": "Die WTO schuf ein verbindliches System für weltweiten Freihandel mit Streitbeilegungsmechanismus als Nachfolgerin des GATT",
+    "correct_answer_ru": "ВТО создала обязательную систему мировой свободной торговли с механизмом урегулирования споров в качестве преемника ГАТТ",
+    "wrong_answers_de": [
+      "Die WTO war eine Erweiterung der NATO in wirtschaftliche Bereiche",
+      "Die WTO wurde von Entwicklungsländern gegründet, um Industrieländer zu kontrollieren",
+      "Die WTO verbat alle Zölle zwischen ihren Mitgliedern sofort nach der Gründung"
+    ],
+    "wrong_answers_ru": [
+      "ВТО была экономическим расширением НАТО",
+      "ВТО была основана развивающимися странами для контроля над промышленными",
+      "ВТО немедленно запретила все таможенные пошлины между своими членами после основания"
+    ],
+    "explanation_de": "GATT (1947) → WTO (1. Januar 1995). 164 Mitglieder heute. Doha-Runde (2001) zur Liberalisierung scheiterte. Streitbeilegung: Panelverfahren zwischen Mitgliedern.",
+    "explanation_ru": "ГАТТ (1947) → ВТО (1 января 1995). Сегодня 164 члена. Дохийский раунд (2001) по либерализации провалился. Урегулирование споров: панельные процедуры между членами.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1995 CE",
+    "tags": ["WTO", "Welthandel", "Freihandel", "Globalisierung", "GATT"],
+    "interesting_facts": [
+      {"de": "Die WTO-Ministerkonferenz 1999 in Seattle wurde von massiven Anti-Globalisierungs-Protesten begleitet.", "ru": "Министерская конференция ВТО 1999 года в Сиэтле сопровождалась массовыми антиглобализационными протестами."},
+      {"de": "China trat der WTO erst 2001 bei – ein Meilenstein der wirtschaftlichen Integration.", "ru": "Китай вступил в ВТО лишь в 2001 году — веха экономической интеграции."},
+      {"de": "Die USA unter Trump verhängten 2018 Strafzölle auf China – eine direkte Herausforderung der WTO-Regeln.", "ru": "США при Трампе в 2018 году ввели штрафные таможенные пошлины на Китай — прямой вызов правилам ВТО."}
+    ]
+  },
+  {
+    "id": 9215,
+    "question_de": "Was war die Bedeutung der Finanzkrise 2008 für die Weltwirtschaft?",
+    "question_ru": "Каково было значение финансового кризиса 2008 года для мировой экономики?",
+    "correct_answer_de": "Der Zusammenbruch des US-Immobilienmarkts und der Lehman Brothers löste die schlimmste Weltwirtschaftskrise seit 1929 aus",
+    "correct_answer_ru": "Крах американского рынка недвижимости и банка Lehman Brothers вызвал худший мировой экономический кризис со времён 1929 года",
+    "wrong_answers_de": [
+      "Die Finanzkrise 2008 betraf nur die USA und nicht Europa oder Asien",
+      "Die Krise wurde durch einen Ölpreisanstieg ausgelöst, nicht durch Immobilien",
+      "Die US-Regierung ließ alle Banken in der Krise in Konkurs gehen"
+    ],
+    "wrong_answers_ru": [
+      "Финансовый кризис 2008 года затронул только США, а не Европу или Азию",
+      "Кризис был вызван ростом цен на нефть, а не рынком недвижимости",
+      "Правительство США позволило всем банкам в ходе кризиса обанкротиться"
+    ],
+    "explanation_de": "Subprime-Hypotheken wurden als Wertpapiere verpackt und weltweit verkauft. Lehman Brothers kollabierte am 15. September 2008. Governments retteten Banken (Bailouts). Eurozone-Schuldenkrise folgte.",
+    "explanation_ru": "Субстандартные ипотечные кредиты упаковывались в ценные бумаги и продавались по всему миру. Lehman Brothers рухнул 15 сентября 2008 года. Правительства спасали банки (bailouts). Последовал долговой кризис еврозоны.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2008 CE",
+    "tags": ["Finanzkrise", "Lehman", "Subprime", "Weltwirtschaft", "Bankenkrise"],
+    "interesting_facts": [
+      {"de": "Die US-Regierung rettete AIG mit 182 Milliarden Dollar – die größte Bankenrettung der Geschichte.", "ru": "Правительство США спасло AIG на 182 миллиарда долларов — крупнейшее банковское спасение в истории."},
+      {"de": "Island ließ seine Banken kollabieren und verhaftete Banker – ein einzigartiger Weg aus der Krise.", "ru": "Исландия позволила своим банкам рухнуть и арестовала банкиров — уникальный путь выхода из кризиса."},
+      {"de": "Die Occupy-Bewegung (2011) war eine direkte Reaktion auf die sozialen Folgen der Finanzkrise.", "ru": "Движение Occupy (2011) стало прямой реакцией на социальные последствия финансового кризиса."}
+    ]
+  },
+  {
+    "id": 9216,
+    "question_de": "Was war die Bedeutung des Arabischen Frühlings (2010–12)?",
+    "question_ru": "Каково было значение Арабской весны (2010–12)?",
+    "correct_answer_de": "Massenproteste in der arabischen Welt stürzten einige Diktatoren, führten aber meist zu weiterer Instabilität, Bürgerkriegen oder neuer Autokratie statt Demokratie",
+    "correct_answer_ru": "Массовые протесты в арабском мире свергли некоторых диктаторов, однако привели в большинстве случаев к дальнейшей нестабильности, гражданским войнам или новой автократии, а не к демократии",
+    "wrong_answers_de": [
+      "Der Arabische Frühling führte in allen betroffenen Ländern zu stabilen Demokratien",
+      "Die Bewegung wurde von der CIA organisiert, um pro-westliche Regime zu installieren",
+      "Nur Tunesien war betroffen – alle anderen arabischen Länder blieben stabil"
+    ],
+    "wrong_answers_ru": [
+      "Арабская весна привела к стабильным демократиям во всех затронутых странах",
+      "Движение было организовано ЦРУ для установления прозападных режимов",
+      "Только Тунис пострадал — все остальные арабские страны оставались стабильными"
+    ],
+    "explanation_de": "Mohammed Bouazizis Selbstverbrennung (Tunesien, Dezember 2010) löste Domino-Proteste aus. Mubarak (Ägypten) und Gaddafi (Libyen) gestürzt. Syrien → Bürgerkrieg. Tunesien → Demokratie (zeitweilig).",
+    "explanation_ru": "Самосожжение Мохаммеда Буазизи (Тунис, декабрь 2010) вызвало волну протестов. Мубарак (Египет) и Каддафи (Ливия) свергнуты. Сирия → гражданская война. Тунис → демократия (временно).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2011 CE",
+    "tags": ["Arabischer Frühling", "Demokratie", "Naher Osten", "Revolution", "Tunesien"],
+    "interesting_facts": [
+      {"de": "Social Media spielte eine Schlüsselrolle: Twitter und Facebook ermöglichten Koordination.", "ru": "Социальные сети сыграли ключевую роль: Twitter и Facebook обеспечили координацию."},
+      {"de": "Libyen versinkt seit Gaddafis Sturz in Chaos und rivalisierenden Milizen.", "ru": "Ливия с момента свержения Каддафи погружена в хаос и соперничество вооружённых группировок."},
+      {"de": "Tunesien ist das einzige Land des Arabischen Frühlings, das demokratische Wahlen institutionalisierte.", "ru": "Тунис — единственная страна Арабской весны, которой удалось институционализировать демократические выборы."}
+    ]
+  },
+  {
+    "id": 9217,
+    "question_de": "Was war die historische Bedeutung der russischen Annexion der Krim (2014)?",
+    "question_ru": "Каково было историческое значение аннексии Крыма Россией (2014)?",
+    "correct_answer_de": "Russland annektierte erstmals seit dem Zweiten Weltkrieg in Europa gewaltsam fremdes Territorium und brach damit die Nachkriegsordnung",
+    "correct_answer_ru": "Россия впервые со времён Второй мировой войны насильственно аннексировала в Европе чужую территорию, нарушив тем самым послевоенный мировой порядок",
+    "wrong_answers_de": [
+      "Die Krim-Annexion wurde durch ein vom UN-Sicherheitsrat anerkanntes Referendum legitimiert",
+      "Die Ukraine stimmte der Annexion nach Verhandlungen freiwillig zu",
+      "Die NATO reagierte mit einem Militäreinsatz zur Rückeroberung der Krim"
+    ],
+    "wrong_answers_ru": [
+      "Аннексия Крыма была легитимизирована референдумом, признанным Советом Безопасности ООН",
+      "Украина добровольно согласилась на аннексию после переговоров",
+      "НАТО отреагировало военной операцией по возвращению Крыма"
+    ],
+    "explanation_de": "Nach dem Euromaidan-Aufstand annektierte Russland die Krim im März 2014. UN-Resolution dagegen (100:11). Westliche Sanktionen. Separatisten im Donbas mit russischer Unterstützung.",
+    "explanation_ru": "После восстания Евромайдана Россия аннексировала Крым в марте 2014 года. Резолюция ООН против (100:11). Западные санкции. Сепаратисты на Донбассе при поддержке России.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2014 CE",
+    "tags": ["Krim", "Russland", "Ukraine", "Annexion", "NATO"],
+    "interesting_facts": [
+      {"de": "Das Budapester Memorandum (1994) sicherte der Ukraine Sicherheitsgarantien im Tausch für Atomwaffenverzicht.", "ru": "Будапештский меморандум (1994) предоставил Украине гарантии безопасности в обмен на ядерное разоружение."},
+      {"de": "Russland erklärt die Krim als historisch russisch – sie war von 1783–1954 russisch, dann ukrainisch.", "ru": "Россия называет Крым исторически российским — он был российским с 1783 по 1954 год, затем украинским."},
+      {"de": "Die Annexion verstieß gegen die Schlussakte von Helsinki (1975) über Unverletzlichkeit der Grenzen.", "ru": "Аннексия нарушила Хельсинкский заключительный акт (1975) о нерушимости границ."}
+    ]
+  },
+  {
+    "id": 9218,
+    "question_de": "Was war die Bedeutung der Gründung des Internationalen Strafgerichtshofs (ICC) im Jahr 2002?",
+    "question_ru": "Каково было значение основания Международного уголовного суда (МУС) в 2002 году?",
+    "correct_answer_de": "Der ICC schuf erstmals ein dauerhaftes internationales Gericht zur Verfolgung von Völkermord, Kriegsverbrechen und Verbrechen gegen die Menschlichkeit",
+    "correct_answer_ru": "МУС впервые создал постоянный международный суд для преследования геноцида, военных преступлений и преступлений против человечности",
+    "wrong_answers_de": [
+      "Der ICC ist das Hauptgericht der Vereinten Nationen für Zivilstreitigkeiten",
+      "USA, Russland und China sind die wichtigsten Mitglieder des ICC",
+      "Der ICC wurde als Reaktion auf den Irakkrieg gegründet"
+    ],
+    "wrong_answers_ru": [
+      "МУС является главным судом ООН по гражданским спорам",
+      "США, Россия и Китай являются важнейшими членами МУС",
+      "МУС был основан как реакция на войну в Ираке"
+    ],
+    "explanation_de": "Das Römische Statut (1998) trat 2002 in Kraft. 124 Mitgliedstaaten. USA, Russland und China sind nicht Mitglieder. Erste Verurteilung 2012 (Thomas Lubanga, Kongo).",
+    "explanation_ru": "Римский статут (1998) вступил в силу в 2002 году. 124 государства-члена. США, Россия и Китай не являются членами. Первый обвинительный приговор вынесен в 2012 году (Томас Лубанга, Конго).",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2002 CE",
+    "tags": ["ICC", "Strafgerichtshof", "Völkerrecht", "Kriegsverbrechen", "Völkermord"],
+    "interesting_facts": [
+      {"de": "George W. Bush 'unsigned' das Römer Statut nach seinem Amtsantritt – Obama änderte das nicht.", "ru": "Джордж Буш-младший «отозвал подпись» под Римским статутом, вступив в должность — Обама это не изменил."},
+      {"de": "Der ICC hat bisher ausschließlich Afrikaner verurteilt – ein umstrittener Aspekt.", "ru": "МУС до сих пор выносил обвинительные приговоры исключительно в отношении африканцев — спорный аспект."},
+      {"de": "2024 beantragte der ICC Haftbefehle gegen Netanyahu und Hamas-Führer.", "ru": "В 2024 году МУС запросил ордера на арест Нетаньяху и лидеров ХАМАСа."}
+    ]
+  },
+  {
+    "id": 9219,
+    "question_de": "Was war die Bedeutung der COVID-19-Pandemie für die Weltgesellschaft?",
+    "question_ru": "Каково было значение пандемии COVID-19 для мирового общества?",
+    "correct_answer_de": "Die Pandemie tötete über 7 Millionen Menschen, störte globale Lieferketten, beschleunigte Digitalisierung und legte Schwächen in Gesundheitssystemen und internationaler Kooperation offen",
+    "correct_answer_ru": "Пандемия унесла более 7 миллионов жизней, нарушила глобальные цепочки поставок, ускорила цифровизацию и обнажила слабости систем здравоохранения и международного сотрудничества",
+    "wrong_answers_de": [
+      "COVID-19 betraf nur Asien und blieb auf dem europäischen und amerikanischen Kontinent unbekannt",
+      "Die WHO koordinierte eine sofortige, weltweite Eindämmung innerhalb von Wochen",
+      "Der Impfstoff wurde erst 2025 entwickelt, nach vier Jahren Pandemie"
+    ],
+    "wrong_answers_ru": [
+      "COVID-19 затронул только Азию и остался неизвестным в Европе и Америке",
+      "ВОЗ координировала немедленное глобальное сдерживание в течение нескольких недель",
+      "Вакцина была разработана лишь в 2025 году, через четыре года после начала пандемии"
+    ],
+    "explanation_de": "WHO erklärte Pandemie am 11. März 2020. Lockdowns weltweit. mRNA-Impfstoffe (BioNTech/Pfizer) in Rekordzeit entwickelt. Wirtschaftliche Schäden: Billionen Dollar. Ungleichheit vergrößert.",
+    "explanation_ru": "ВОЗ объявила пандемию 11 марта 2020 года. Локдауны по всему миру. мРНК-вакцины (BioNTech/Pfizer) разработаны в рекордные сроки. Экономический ущерб — триллионы долларов. Неравенство возросло.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2020 CE",
+    "tags": ["COVID-19", "Pandemie", "WHO", "mRNA", "Globalisierung"],
+    "interesting_facts": [
+      {"de": "Die mRNA-Technologie wurde in weniger als einem Jahr zur Impfstoffreife gebracht – normalerweise dauert das 10 Jahre.", "ru": "Технология мРНК была доведена до стадии вакцины менее чем за год — обычно это занимает 10 лет."},
+      {"de": "Die Pandemie führte zu einem Boom im Homeoffice, der den Immobilienmarkt in Städten veränderte.", "ru": "Пандемия вызвала бум удалённой работы, изменивший рынок городской недвижимости."},
+      {"de": "China meldete den ersten Fall Dezember 2019 – die WHO wurde erst spät informiert.", "ru": "Китай сообщил о первом случае в декабре 2019 года — ВОЗ была уведомлена с запозданием."}
+    ]
+  },
+  {
+    "id": 9220,
+    "question_de": "Was war die Bedeutung des Völkermordabkommens der Vereinten Nationen (1948)?",
+    "question_ru": "Каково было значение Конвенции ООН о предупреждении преступления геноцида (1948)?",
+    "correct_answer_de": "Die Konvention definierte Völkermord als internationales Verbrechen und verpflichtete Unterzeichner, ihn zu verhindern und zu bestrafen",
+    "correct_answer_ru": "Конвенция определила геноцид как международное преступление и обязала подписантов предотвращать его и наказывать за него",
+    "wrong_answers_de": [
+      "Die Konvention wurde erst nach dem Völkermord in Ruanda 1994 verabschiedet",
+      "Sie gilt nur für staatlich organisierten Völkermord, nicht für Gruppen",
+      "Die Konvention erlaubt Völkermord in Kriegszeiten als militärisches Mittel"
+    ],
+    "wrong_answers_ru": [
+      "Конвенция была принята лишь после геноцида в Руанде в 1994 году",
+      "Она распространяется только на государственно организованный геноцид, но не на группы",
+      "Конвенция допускает геноцид в военное время как военное средство"
+    ],
+    "explanation_de": "Raphael Lemkin prägte den Begriff 'Genozid' und trieb die Konvention voran. Ratifiziert von 153 Staaten. Definition: Absicht, eine Gruppe ganz oder teilweise zu vernichten.",
+    "explanation_ru": "Рафаэль Лемкин ввёл термин «геноцид» и добивался принятия Конвенции. Ратифицирована 153 государствами. Определение: умысел уничтожить группу полностью или частично.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1948 CE",
+    "tags": ["Völkermordkonvention", "UN", "Lemkin", "Holocaust", "Menschenrechte"],
+    "interesting_facts": [
+      {"de": "Lemkin verlor 49 Familienmitglieder im Holocaust – er kämpfte sein Leben lang für die Konvention.", "ru": "Лемкин потерял 49 членов семьи в Холокосте — он всю жизнь боролся за принятие Конвенции."},
+      {"de": "Die USA ratifizierten die Konvention erst 1988 – 40 Jahre nach ihrer Verabschiedung.", "ru": "США ратифицировали Конвенцию лишь в 1988 году — через 40 лет после её принятия."},
+      {"de": "Trotz der Konvention gab es nach 1948 Völkermorde in Kambodscha, Ruanda, Bosnien und anderswo.", "ru": "Несмотря на Конвенцию, после 1948 года произошли геноциды в Камбодже, Руанде, Боснии и других местах."}
+    ]
+  },
+  {
+    "id": 9221,
+    "question_de": "Was war die Bedeutung der Entdeckung der Doppelhelix-Struktur der DNA für die Wissenschaft?",
+    "question_ru": "Каково было значение открытия структуры двойной спирали ДНК для науки?",
+    "correct_answer_de": "Watson und Crick (1953) entschlüsselten die Struktur der DNA und ebneten den Weg für Genetik, Biotechnologie und Medizin des 20. Jahrhunderts",
+    "correct_answer_ru": "Уотсон и Крик (1953) расшифровали структуру ДНК и открыли путь для генетики, биотехнологии и медицины XX века",
+    "wrong_answers_de": [
+      "Die Doppelhelix wurde von Marie Curie 1920 entdeckt",
+      "Die Struktur der DNA ist bis heute unbekannt und Gegenstand aktueller Forschung",
+      "Watson und Crick entdeckten das Penicillin, nicht die DNA-Struktur"
+    ],
+    "wrong_answers_ru": [
+      "Двойная спираль была открыта Марией Кюри в 1920 году",
+      "Структура ДНК до сих пор неизвестна и является предметом актуальных исследований",
+      "Уотсон и Крик открыли пенициллин, а не структуру ДНК"
+    ],
+    "explanation_de": "Rosalind Franklins Röntgenbild (Photo 51) lieferte den entscheidenden Hinweis. Watson, Crick und Wilkins erhielten 1962 den Nobelpreis – Franklin war 1958 gestorben und wurde ausgeschlossen.",
+    "explanation_ru": "Рентгеновский снимок Розалинд Франклин (Фото 51) дал решающую подсказку. Уотсон, Крик и Уилкинс получили Нобелевскую премию в 1962 году — Франклин умерла в 1958 году и была исключена.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1953 CE",
+    "tags": ["DNA", "Watson", "Crick", "Genetik", "Biologie"],
+    "interesting_facts": [
+      {"de": "Das Human Genome Project (abgeschlossen 2003) sequenzierte das gesamte menschliche Erbgut.", "ru": "Проект «Геном человека» (завершён в 2003 году) расшифровал всё человеческое наследственное вещество."},
+      {"de": "Rosalind Franklin wird heute als wichtige, aber übersehene Mitentdeckerin anerkannt.", "ru": "Розалинд Франклин сегодня признаётся важным, но overlooked сооткрывателем."},
+      {"de": "Die Entschlüsselung der DNA ermöglichte später Gentechnik, GMOs und CRISPR-Genschere.", "ru": "Расшифровка ДНК позднее открыла возможности генной инженерии, ГМО и CRISPR-редактирования генов."}
+    ]
+  },
+  {
+    "id": 9222,
+    "question_de": "Was war die Bedeutung der Nelson Mandela Präsidentschaft (1994–99) für Südafrika?",
+    "question_ru": "Каково было значение президентства Нельсона Манделы (1994–99) для Южной Африки?",
+    "correct_answer_de": "Mandela führte Südafrika durch den friedlichen Übergang vom Apartheid-System zur Mehrheitsdemokratie ohne Racheakte",
+    "correct_answer_ru": "Мандела провёл Южную Африку через мирный переход от системы апартеида к демократии большинства без мести",
+    "wrong_answers_de": [
+      "Mandela regierte Südafrika als Diktator nach dem Ende der Apartheid",
+      "Mandela weigerte sich, Weißen Südafrikanern das Wahlrecht zu gewähren",
+      "Südafrika erlebte nach Mandellas Wahl einen jahrzehntelangen Bürgerkrieg"
+    ],
+    "wrong_answers_ru": [
+      "Мандела управлял Южной Африкой как диктатор после окончания апартеида",
+      "Мандела отказался предоставить белым южноафриканцам право голоса",
+      "Южная Африка пережила после избрания Манделы многолетнюю гражданскую войну"
+    ],
+    "explanation_de": "Mandela verbrachte 27 Jahre im Gefängnis. 1994 gewann der ANC die ersten demokratischen Wahlen. Mandela trat 1999 freiwillig nicht zur Wiederwahl an – ein Vorbild für afrikanische Demokratie.",
+    "explanation_ru": "Мандела провёл 27 лет в тюрьме. В 1994 году АНК выиграл первые демократические выборы. В 1999 году Мандела добровольно не баллотировался на второй срок — образец для африканской демократии.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1994 CE",
+    "tags": ["Mandela", "Südafrika", "ANC", "Demokratie", "Apartheid"],
+    "interesting_facts": [
+      {"de": "Mandela trug beim Rugby-Weltmeisterschaftsfinale 1995 das Springbok-Trikot – ein Symbol der Versöhnung.", "ru": "На финале чемпионата мира по регби 1995 года Мандела надел майку «Спрингбок» — символ примирения."},
+      {"de": "Die Wahrheits- und Versöhnungskommission unter Tutu ermöglichte öffentliche Bekenntnisse ohne Strafverfolgung.", "ru": "Комиссия по установлению истины и примирению под руководством Туту позволяла публичные признания без уголовного преследования."},
+      {"de": "Mandela erhielt 1993 gemeinsam mit F.W. de Klerk den Friedensnobelpreis.", "ru": "Мандела совместно с Ф. В. де Клерком получил Нобелевскую премию мира в 1993 году."}
+    ]
+  },
+  {
+    "id": 9223,
+    "question_de": "Was war die Bedeutung der Erfindung des Mobiltelefons für die Gesellschaft des 20. Jahrhunderts?",
+    "question_ru": "Каково было значение изобретения мобильного телефона для общества XX века?",
+    "correct_answer_de": "Das Mobiltelefon demokratisierte Kommunikation, überbrückte Infrastrukturlücken in Entwicklungsländern und veränderte soziale Interaktion grundlegend",
+    "correct_answer_ru": "Мобильный телефон демократизировал связь, устранил инфраструктурные пробелы в развивающихся странах и коренным образом изменил социальное взаимодействие",
+    "wrong_answers_de": [
+      "Das Mobiltelefon wurde ausschließlich für Militärkommunikation entwickelt",
+      "Mobiltelefone waren bis 2000 nur in Asien verbreitet und kamen erst später nach Europa",
+      "Das erste Mobiltelefon wurde von Apple 2007 erfunden"
+    ],
+    "wrong_answers_ru": [
+      "Мобильный телефон был разработан исключительно для военной связи",
+      "Мобильные телефоны были распространены до 2000 года только в Азии и появились в Европе позже",
+      "Первый мобильный телефон был изобретён Apple в 2007 году"
+    ],
+    "explanation_de": "Martin Cooper (Motorola) tätigte 1973 den ersten Mobilfunkanruf. Massenmarkt ab 1990er. In Afrika übersprang das Mobilfunk die Festnetzinfrastruktur. 2007 iPhone: Smartphone-Revolution.",
+    "explanation_ru": "Мартин Купер (Motorola) совершил первый звонок по мобильному телефону в 1973 году. Массовый рынок с 1990-х. В Африке мобильная связь перешагнула через фиксированную инфраструктуру. iPhone 2007: революция смартфонов.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1990 CE",
+    "tags": ["Mobiltelefon", "Kommunikation", "Technologie", "Smartphone", "iPhone"],
+    "interesting_facts": [
+      {"de": "Das erste kommerzielle Mobiltelefon (Motorola DynaTAC, 1983) kostete 3.995 Dollar.", "ru": "Первый коммерческий мобильный телефон (Motorola DynaTAC, 1983) стоил 3 995 долларов."},
+      {"de": "In Afrika gibt es mehr Mobiltelefon-Abonnenten als Menschen mit Bankkonten.", "ru": "В Африке абонентов мобильной связи больше, чем людей с банковскими счетами."},
+      {"de": "Steve Jobs stellte das iPhone am 9. Januar 2007 vor und veränderte damit die gesamte Industrie.", "ru": "Стив Джобс представил iPhone 9 января 2007 года и тем самым изменил всю отрасль."}
+    ]
+  },
+  {
+    "id": 9224,
+    "question_de": "Was war die Bedeutung des Atomprogramms Irans und der Verhandlungen mit dem Westen?",
+    "question_ru": "Каково было значение ядерной программы Ирана и переговоров с Западом?",
+    "correct_answer_de": "Der Iran entwickelte Urananreicherungskapazitäten, was zu internationalen Sanktionen und langwierigen Verhandlungen führte, die 2015 im JCPOA mündeten",
+    "correct_answer_ru": "Иран развил мощности по обогащению урана, что привело к международным санкциям и длительным переговорам, завершившимся СВПД в 2015 году",
+    "wrong_answers_de": [
+      "Der Iran besitzt seit 1990 offiziell Atomwaffen",
+      "Die USA griffen 2006 den Iran an, um sein Atomprogramm zu zerstören",
+      "Israel und der Iran haben gemeinsam an einem Atomprogramm gearbeitet"
+    ],
+    "wrong_answers_ru": [
+      "Иран официально обладает ядерным оружием с 1990 года",
+      "США в 2006 году напали на Иран, чтобы уничтожить его ядерную программу",
+      "Израиль и Иран совместно работали над ядерной программой"
+    ],
+    "explanation_de": "JCPOA (2015): Iran begrenzte Urananreicherung gegen Sanktionsaufhebung. Trump stieg 2018 aus. Biden versuchte Neuverhandlung. Iran ist keine Nuklearmacht, aber nahe dran.",
+    "explanation_ru": "СВПД (2015): Иран ограничил обогащение урана в обмен на снятие санкций. Трамп вышел в 2018 году. Байден пытался переговоров. Иран — не ядерная держава, но близок к этому.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2015 CE",
+    "tags": ["Iran", "Atomprogramm", "JCPOA", "Sanktionen", "Nuklear"],
+    "interesting_facts": [
+      {"de": "Israel bekennt sich nicht offiziell zu seiner Atombombe – eine Politik der 'nuklearen Mehrdeutigkeit'.", "ru": "Израиль официально не признаёт наличие атомной бомбы — политика «ядерной двусмысленности»."},
+      {"de": "Der Stuxnet-Virus (2010) sabotierte iranische Zentrifugen – vermutlich ein US-israelisches Projekt.", "ru": "Вирус Stuxnet (2010) вывел из строя иранские центрифуги — предположительно американо-израильский проект."},
+      {"de": "Der Iran unterzeichnete den Atomwaffensperrvertrag (NPT) – darf also offiziell keine Atomwaffen entwickeln.", "ru": "Иран подписал Договор о нераспространении ядерного оружия (ДНЯО) — значит, официально не имеет права разрабатывать ядерное оружие."}
+    ]
+  },
+  {
+    "id": 9225,
+    "question_de": "Was war die Bedeutung der Agenda 2030 der Vereinten Nationen für die Weltpolitik?",
+    "question_ru": "Каково было значение Повестки дня ООН на период до 2030 года для мировой политики?",
+    "correct_answer_de": "Die 17 Nachhaltigkeitsziele (SDGs) definierten globale Ziele für Armut, Klimawandel, Bildung und Gesundheit als gemeinsame Agenda aller 193 UN-Staaten",
+    "correct_answer_ru": "17 целей устойчивого развития (ЦУР) определили глобальные цели в области бедности, изменения климата, образования и здравоохранения как общую повестку всех 193 государств ООН",
+    "wrong_answers_de": [
+      "Die Agenda 2030 ist ein geheimes Dokument, nur für UN-Generalsekretäre bestimmt",
+      "Sie ersetzt alle nationalen Gesetze durch verbindliche UN-Regulierung",
+      "Die Agenda 2030 betrifft ausschließlich den Klimawandel"
+    ],
+    "wrong_answers_ru": [
+      "Повестка дня 2030 является секретным документом, предназначенным только для Генеральных секретарей ООН",
+      "Она заменяет все национальные законы обязательным регулированием ООН",
+      "Повестка дня 2030 касается исключительно изменения климата"
+    ],
+    "explanation_de": "Die SDGs (Sustainable Development Goals, 2015) folgten den Millenniumszielen. 17 Ziele, 169 Unterziele, bis 2030 zu erreichen. Finanzierungslücke: Billionen Dollar pro Jahr.",
+    "explanation_ru": "ЦУР (Цели устойчивого развития, 2015) сменили Цели развития тысячелетия. 17 целей, 169 подцелей, которые должны быть достигнуты к 2030 году. Финансовый разрыв: триллионы долларов в год.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2015 CE",
+    "tags": ["Agenda 2030", "SDGs", "UNO", "Nachhaltigkeit", "Weltpolitik"],
+    "interesting_facts": [
+      {"de": "SDG 1 lautet 'Keine Armut' – die Hälfte der Welt lebt noch immer von unter 5,50 Dollar pro Tag.", "ru": "ЦУР 1 гласит «Нет бедности» — половина мира до сих пор живёт менее чем на 5,50 доллара в день."},
+      {"de": "SDG 13 fordert Klimamaßnahmen – in direkter Ergänzung zum Pariser Abkommen.", "ru": "ЦУР 13 требует климатических мер — в прямое дополнение к Парижскому соглашению."},
+      {"de": "Der Fortschritt bei den SDGs ist laut UN-Berichten in vielen Bereichen zu langsam.", "ru": "По данным ООН, прогресс в достижении ЦУР во многих областях слишком медленный."}
+    ]
+  }
+]

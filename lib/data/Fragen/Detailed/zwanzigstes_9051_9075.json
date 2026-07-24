@@ -1,0 +1,752 @@
+[
+  {
+    "id": 9051,
+    "question_de": "Was war die Kubakrise (1962) und wie wurde sie gelöst?",
+    "question_ru": "Что такое Кубинский кризис (1962) и как он был разрешён?",
+    "correct_answer_de": "Die gefährlichste Nuklearkonfrontation des Kalten Krieges – durch geheimen Raketentausch (Kuba/Türkei) gelöst",
+    "correct_answer_ru": "Самая опасная ядерная конфронтация холодной войны — разрешена тайным обменом ракетами (Куба/Турция)",
+    "wrong_answers_de": ["Kennedy und Chruschtschow einigten sich sofort per Telefon durch den roten Draht", "Die Krise endete, als Cuba Russland aus dem Land verwies und sich den USA ergab", "Die UNO vermittelte einen Vertrag zwischen USA und USSR durch öffentliche Verhandlungen"],
+    "wrong_answers_ru": ["Кеннеди и Хрущёв сразу договорились по телефону через красный телефон", "Кризис закончился, когда Куба выдворила Россию и сдалась США", "ООН посредничала в договоре между США и СССР через публичные переговоры"],
+    "explanation_de": "Oktober 1962: Spionageflugzeuge entdeckten sowjetische Raketen auf Kuba. Kennedy verhängte Seeblockade. 13 Tage am Rand des Atomkriegs. Geheime Einigung: Sowjets ziehen Raketen aus Kuba ab, USA ziehen Raketen aus Türkei ab und versprechen, Kuba nicht anzugreifen.",
+    "explanation_ru": "Октябрь 1962 года: самолёты-шпионы обнаружили советские ракеты на Кубе. Кеннеди объявил морскую блокаду. 13 дней на грани ядерной войны. Тайное соглашение: советы убирают ракеты с Кубы, США убирают ракеты из Турции и обещают не нападать на Кубу.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1962 CE",
+    "tags": ["Kalter Krieg", "USA", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Der 'Rote Draht' (hotline) zwischen Washington und Moskau wurde NACH der Krise installiert – als direkte Konsequenz.",
+        "ru": "«Красный телефон» (прямая линия) между Вашингтоном и Москвой был установлен ПОСЛЕ кризиса — как прямое следствие."
+      },
+      {
+        "de": "Vasili Arkhipov verhinderte allein den Atomkrieg: Er verweigerte den Befehl, von U-Boot B-59 einen Atomtorpedo abzufeuern.",
+        "ru": "Василий Архипов один предотвратил ядерную войну: он отказался выполнить приказ выпустить ядерную торпеду с подлодки Б-59."
+      },
+      {
+        "de": "Kuba bekam nie Garantien auf Papier – Castro fühlte sich von den Sowjets verraten.",
+        "ru": "Куба так и не получила гарантий на бумаге — Кастро чувствовал себя преданным советами."
+      }
+    ]
+  },
+  {
+    "id": 9052,
+    "question_de": "Was war die Berliner Luftbrücke (1948/49)?",
+    "question_ru": "Что такое Берлинский воздушный мост (1948/49)?",
+    "correct_answer_de": "Die Westalliierten versorgten West-Berlin ein Jahr lang per Flugzeug, nachdem Sowjets alle Landwege blockierten",
+    "correct_answer_ru": "Западные союзники целый год снабжали Западный Берлин по воздуху, после того как советы заблокировали все сухопутные пути",
+    "wrong_answers_de": ["England und USA überflogen Ostdeutschland mit Truppen, um Berlin militärisch zu entsetzen", "Die Sowjets sperrten den Berliner Luftraum – Alliierte mussten Schiffe durch Polen schicken", "Die Luftbrücke war eine militärische Übung, die nie real Güter transportierte"],
+    "wrong_answers_ru": ["Англия и США перелетели Восточную Германию с войсками для военного освобождения Берлина", "Советы закрыли воздушное пространство Берлина — союзники были вынуждены посылать корабли через Польшу", "Воздушный мост был военным учением, которое никогда не перевозило реальных грузов"],
+    "explanation_de": "Stalin blockierte Juni 1948 alle Straßen- und Schienenwege nach West-Berlin. Alliierte starteten 'Operation Vittles': täglich bis zu 1.400 Flüge, 278 Tage lang. West-Berlin: 2 Millionen Menschen versorgt mit Kohle, Lebensmitteln, Medikamenten. Stalin hob Blockade Mai 1949 auf – Niederlage.",
+    "explanation_ru": "В июне 1948 года Сталин заблокировал все дороги и железнодорожные пути в Западный Берлин. Союзники начали «Операцию Витлс»: до 1 400 рейсов ежедневно, 278 дней. Западный Берлин: 2 миллиона человек снабжались углём, продовольствием, медикаментами. В мае 1949 года Сталин снял блокаду — поражение.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1948 CE",
+    "tags": ["Kalter Krieg", "Deutschland"],
+    "interesting_facts": [
+      {
+        "de": "Pilot Gail Halvorsen ('Candy Bomber') warf Schokolade mit Miniatur-Fallschirmen ab – für Berliner Kinder.",
+        "ru": "Пилот Гейл Хэлворсен («Шоколадный бомбардировщик») сбрасывал шоколад на мини-парашютах — для берлинских детей."
+      },
+      {
+        "de": "Die Flugzeuge landeten alle 90 Sekunden in Tempelhof – wie ein gigantisches Förderband.",
+        "ru": "Самолёты приземлялись каждые 90 секунд в Темпельхофе — как гигантский конвейер."
+      },
+      {
+        "de": "Der Rosinenbomber (Candy Bomber) wurde Symbol der Luftbrücke und des amerikanischen Goodwills.",
+        "ru": "«Изюмный бомбардировщик» (Candy Bomber) стал символом воздушного моста и американской доброй воли."
+      }
+    ]
+  },
+  {
+    "id": 9053,
+    "question_de": "Was war der Koreakrieg (1950–1953)?",
+    "question_ru": "Что такое Корейская война (1950–1953)?",
+    "correct_answer_de": "Nordkorea griff Südkorea an – UNO-Truppen (USA) kämpften gegen Nordkorea und China; endete mit Waffenstillstand",
+    "correct_answer_ru": "Северная Корея напала на Южную — войска ООН (США) сражались против Северной Кореи и Китая; завершилась перемирием",
+    "wrong_answers_de": ["Südkorea griff 1950 Nordkorea an, woraufhin China eingriff um Nordkorea zu schützen", "Der Krieg endete mit einem Friedensvertrag, der zwei getrennte koreanische Staaten anerkannte", "Japan und USA gemeinsam verteidigten Korea gegen sowjetische Invasion aus der Mandschurei"],
+    "wrong_answers_ru": ["Южная Корея напала в 1950 году на Северную, после чего Китай вмешался для защиты Севера", "Война завершилась мирным договором, признавшим два отдельных корейских государства", "Япония и США совместно защищали Корею от советского вторжения из Маньчжурии"],
+    "explanation_de": "25. Juni 1950: Nordkoreas Truppen überquerten den 38. Breitengrad. UNO beschloss Intervention (ohne Sowjetveto: Sowjets boykottierten damals UNO). General MacArthur landete bei Inchon. China griff ein (Oktober 1950). Waffenstillstand 1953 – kein Friedensvertrag bis heute. Korea bis heute geteilt.",
+    "explanation_ru": "25 июня 1950 года: войска Северной Кореи пересекли 38-ю параллель. ООН приняла решение об интервенции (без советского вето: СССР тогда бойкотировал ООН). Генерал Макартур высадился в Инчхоне. Китай вступил в войну (октябрь 1950). Перемирие 1953 — мирного договора нет по сей день. Корея разделена до сих пор.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1952 CE",
+    "tags": ["Krieg", "Kalter Krieg", "Asien"],
+    "interesting_facts": [
+      {
+        "de": "Der Koreakrieg heißt in den USA 'The Forgotten War' – zwischen dem 2. Weltkrieg und Vietnam verdrängt.",
+        "ru": "Корейская война в США называется «Забытой войной» — вытеснена между Второй мировой и Вьетнамом."
+      },
+      {
+        "de": "General MacArthur wollte Atombomben gegen China einsetzen – Truman feuerte ihn deshalb.",
+        "ru": "Генерал Макартур хотел применить атомные бомбы против Китая — за это Трумэн его уволил."
+      },
+      {
+        "de": "Die TV-Serie MASH (1972–1983) über den Koreakrieg war eine verdeckte Kritik am Vietnamkrieg.",
+        "ru": "Телесериал «МЭШ» (1972–1983) о Корейской войне был завуалированной критикой Вьетнамской войны."
+      }
+    ]
+  },
+  {
+    "id": 9054,
+    "question_de": "Was war die Entkolonialisierung Afrikas (1950–1975)?",
+    "question_ru": "Что такое деколонизация Африки (1950–1975)?",
+    "correct_answer_de": "In zwei Jahrzehnten erlangten fast alle afrikanischen Länder die Unabhängigkeit – 1960 war das 'Jahr Afrikas'",
+    "correct_answer_ru": "За два десятилетия почти все африканские страны обрели независимость — 1960 год был «Годом Африки»",
+    "wrong_answers_de": ["Afrika erlangte die Unabhängigkeit hauptsächlich durch militärische Niederlagen Europas im 2. Weltkrieg", "Die Entkolonialisierung Afrikas verlief friedlich und wurde durch europäische Regierungen initiiert", "Nur Nordafrika wurde in den 1950ern unabhängig – Subsahara-Afrika erst nach 1990"],
+    "wrong_answers_ru": ["Африка обрела независимость главным образом через военные поражения Европы во Второй мировой войне", "Деколонизация Африки проходила мирно и была инициирована европейскими правительствами", "Независимость в 1950-х получила только Северная Африка — Африка к югу от Сахары лишь после 1990-го"],
+    "explanation_de": "1960: 17 afrikanische Länder wurden unabhängig ('Jahr Afrikas'). Ghana (1957, Nkrumah erste). Algerien: blutiger Unabhängigkeitskrieg gegen Frankreich (1954–1962). Kongo: belgische Kolonie → chaotische Unabhängigkeit → Patrice Lumumba ermordet. Einige Länder erkämpften es, andere bekamen es friedlich.",
+    "explanation_ru": "1960 год: 17 африканских стран обрели независимость («Год Африки»). Гана (1957, Нкрума первой). Алжир: кровавая война за независимость против Франции (1954–1962). Конго: бельгийская колония → хаотическая независимость → Патрис Лумумба убит. Одни страны завоевали независимость, другие получили её мирно.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1960 CE",
+    "tags": ["Afrika", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Kwame Nkrumah (Ghana) war der erste gewählte Staatschef eines unabhängigen Afrika südlich der Sahara.",
+        "ru": "Кваме Нкрума (Гана) был первым избранным главой государства независимой Африки к югу от Сахары."
+      },
+      {
+        "de": "Patrice Lumumba (Kongo) wurde 1961 ermordet – mit Wissen und Unterstützung der CIA und Belgiens.",
+        "ru": "Патрис Лумумба (Конго) был убит в 1961 году — с ведома и при поддержке ЦРУ и Бельгии."
+      },
+      {
+        "de": "Die kolonialen Grenzen Afrikas wurden von 1884 (Berliner Konferenz) beibehalten – und verursachen bis heute ethnische Konflikte.",
+        "ru": "Колониальные границы Африки, установленные в 1884 году (Берлинская конференция), сохранились — и по сей день вызывают этнические конфликты."
+      }
+    ]
+  },
+  {
+    "id": 9055,
+    "question_de": "Was war der Prager Frühling (1968)?",
+    "question_ru": "Что такое Пражская весна (1968)?",
+    "correct_answer_de": "Alexander Dubčeks Reformversuche in der Tschechoslowakei wurden durch sowjetische Panzer im August 1968 beendet",
+    "correct_answer_ru": "Попытки реформ Александра Дубчека в Чехословакии были подавлены советскими танками в августе 1968 года",
+    "wrong_answers_de": ["Ein erfolgreicher Übergang Tschechoslowakiens zur Demokratie unter Führung von Dubček", "Eine Studentenbewegung in Prag, die die kommunistische Regierung stürzte", "Die Prager Frühlingsbewegung führte zur Abspaltung der Slowakei von Tschechien 1968"],
+    "wrong_answers_ru": ["Успешный переход Чехословакии к демократии под руководством Дубчека", "Студенческое движение в Праге, свергнувшее коммунистическое правительство", "Движение Пражской весны привело к отделению Словакии от Чехии в 1968 году"],
+    "explanation_de": "Dubček wollte 'Sozialismus mit menschlichem Antlitz': Pressefreiheit, Reisefreiheit, politischer Pluralismus. 20. August 1968: 200.000 Soldaten und 2.000 Panzer des Warschauer Pakts marschierten ein. Dubček abgesetzt. 'Breschnew-Doktrin': Sowjetunion behält Recht auf Eingreifen in sozialistische Länder.",
+    "explanation_ru": "Дубчек хотел «социализм с человеческим лицом»: свобода прессы, свобода передвижения, политический плюрализм. 20 августа 1968 года: 200 000 солдат и 2 000 танков Варшавского договора вошли в страну. Дубчек отстранён. «Доктрина Брежнева»: Советский Союз сохраняет право вмешиваться в социалистических странах.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1968 CE",
+    "tags": ["Kalter Krieg", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Jan Palach verbrannte sich 1969 auf dem Wenzelsplatz aus Protest gegen die Besatzung – Symbol des Widerstands.",
+        "ru": "Ян Палах в 1969 году сжёг себя на Вацлавской площади в знак протеста против оккупации — символ сопротивления."
+      },
+      {
+        "de": "Dubček wurde 'rehabilitiert' nach 1989 und erlebte die Samtene Revolution – starb 1992 bei Autounfall.",
+        "ru": "Дубчек был «реабилитирован» после 1989 года и пережил Бархатную революцию — умер в 1992 году в автокатастрофе."
+      },
+      {
+        "de": "Die Tschechoslowakei trennte sich 1993 friedlich ('Samtene Scheidung') in Tschechien und Slowakei.",
+        "ru": "Чехословакия в 1993 году мирно разделилась («Бархатный развод») на Чехию и Словакию."
+      }
+    ]
+  },
+  {
+    "id": 9056,
+    "question_de": "Was war die Ölkrise 1973 und ihre Auswirkungen?",
+    "question_ru": "Что такое нефтяной кризис 1973 года и его последствия?",
+    "correct_answer_de": "OPEC-Länder stoppten Ölexporte an westliche Länder wegen Yom-Kippur-Krieg – Benzinknappheit, Wirtschaftskrise",
+    "correct_answer_ru": "Страны ОПЕК остановили экспорт нефти на Запад из-за войны Судного дня — нехватка бензина, экономический кризис",
+    "wrong_answers_de": ["Die Ölkrise 1973 entstand durch technische Katastrophen in Saudi-arabischen Ölfeldern", "OPEC erhöhte nur die Preise – kein Land stoppte den Export von Öl an den Westen", "Die Ölkrise 1973 betraf nur die USA – Europa hatte eigene Nordsee-Ölquellen"],
+    "wrong_answers_ru": ["Нефтяной кризис 1973 года возник из-за технических катастроф на саудовских нефтяных полях", "ОПЕК лишь подняла цены — ни одна страна не остановила экспорт нефти на Запад", "Нефтяной кризис 1973 года затронул только США — Европа имела собственные нефтяные источники в Северном море"],
+    "explanation_de": "Oktober 1973: Ägypten und Syrien griffen Israel an (Yom-Kippur-Krieg). USA und Europa unterstützten Israel. OPEC-Araber verhängten Ölembargo. Preis stieg um 400 %. In Deutschland: autofreie Sonntage, Tempolimit 100. Wirtschaftswachstum stoppte (Stagflation). Ende des Wirtschaftswunders.",
+    "explanation_ru": "Октябрь 1973 года: Египет и Сирия напали на Израиль (война Судного дня). США и Европа поддержали Израиль. Арабские страны ОПЕК ввели нефтяное эмбарго. Цена выросла на 400%. В Германии: воскресенья без автомобилей, ограничение скорости 100 км/ч. Экономический рост остановился (стагфляция). Конец экономического чуда.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1973 CE",
+    "tags": ["Wirtschaft", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Autofreie Sonntage in Deutschland wurden zur Belebungserfahrung: Familien spielten auf der Autobahn Fußball.",
+        "ru": "Воскресенья без автомобилей в Германии стали оживляющим опытом: семьи играли в футбол на автобане."
+      },
+      {
+        "de": "Die Krise beschleunigte die Entwicklung erneuerbarer Energien und Kernkraft – Energieunabhängigkeit als Ziel.",
+        "ru": "Кризис ускорил развитие возобновляемых источников энергии и ядерной энергетики — энергетическая независимость как цель."
+      },
+      {
+        "de": "Japan, das 100 % Öl importiert, wurde in der Krise zum effizienten Auto-Hersteller – Toyota profitierte langfristig.",
+        "ru": "Япония, импортирующая 100% нефти, в ходе кризиса стала производителем экономичных автомобилей — Toyota выиграла долгосрочно."
+      }
+    ]
+  },
+  {
+    "id": 9057,
+    "question_de": "Was war die Iranische Revolution (1979)?",
+    "question_ru": "Что такое Иранская революция (1979)?",
+    "correct_answer_de": "Ajatollah Khomeinis islamische Revolution stürzte den Schah und schuf die Islamische Republik Iran",
+    "correct_answer_ru": "Исламская революция аятоллы Хомейни свергла шаха и создала Исламскую Республику Иран",
+    "wrong_answers_de": ["Eine marxistische Revolution vertrieb den Schah und schuf eine kommunistische Republik", "Irak und Iran verbündeten sich 1979 gegen den Schah in einer gemeinsamen Revolution", "Ein Militärputsch unter General Khomeini übernahm 1979 die Macht im Iran"],
+    "wrong_answers_ru": ["Марксистская революция изгнала шаха и создала коммунистическую республику", "Ирак и Иран объединились в 1979 году против шаха в совместной революции", "Военный переворот под руководством генерала Хомейни захватил власть в Иране в 1979 году"],
+    "explanation_de": "Schah Reza Pahlavis Modernisierung und SAVAK-Geheimpolizei erzeugten Widerstand. Khomeini (im Exil in Paris) führte per Tonbandkassetten die Revolution. Januar 1979: Schah flieht. Februar: Khomeini zurück. Islamische Scharia als Staatsgesetz. Geiselnahme US-Botschaft (444 Tage). Beginn des Islamismus als politische Kraft.",
+    "explanation_ru": "Модернизация шаха Резы Пехлеви и тайная полиция САВАК породили сопротивление. Хомейни (в эмиграции в Париже) руководил революцией через магнитофонные кассеты. Январь 1979 года: шах бежит. Февраль: Хомейни возвращается. Исламский шариат как государственный закон. Захват заложников в посольстве США (444 дня). Начало исламизма как политической силы.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1979 CE",
+    "tags": ["Islam", "Politik", "Naher Osten"],
+    "interesting_facts": [
+      {
+        "de": "Die Geiselnahme (444 Tage) kostete Jimmy Carter die Wiederwahl – Ronald Reagan gewann.",
+        "ru": "Захват заложников (444 дня) стоил Джимми Картеру переизбрания — победил Рональд Рейган."
+      },
+      {
+        "de": "Iran und Iraq führten 8 Jahre Krieg (1980–88) – 500.000 bis 1 Million Tote auf beiden Seiten.",
+        "ru": "Иран и Ирак вели войну 8 лет (1980–88) — 500 000 — 1 миллион погибших с обеих сторон."
+      },
+      {
+        "de": "Die USA hatten 1953 den demokratisch gewählten Mossadegh gestürzt und den Schah eingesetzt – Iran vergaß es nie.",
+        "ru": "США в 1953 году свергли демократически избранного Мосаддыка и установили шаха — Иран никогда этого не забыл."
+      }
+    ]
+  },
+  {
+    "id": 9058,
+    "question_de": "Was war die Solidarność-Bewegung in Polen (1980)?",
+    "question_ru": "Что такое движение «Солидарность» в Польше (1980)?",
+    "correct_answer_de": "Lech Wałęsas Gewerkschaft Solidarność (1980) war die erste freie Gewerkschaft im Ostblock – ebnete den Weg für 1989",
+    "correct_answer_ru": "Профсоюз «Солидарность» Леха Валенсы (1980) был первым свободным профсоюзом в Восточном блоке — проложил путь к 1989 году",
+    "wrong_answers_de": ["Solidarność war eine kommunistische Jugendorganisation, die sich gegen die Regierung wandte", "Die Bewegung wurde von der Kirche gegründet und verlangte religiöse Freiheit, nicht Arbeitnehmerrechte", "Lech Wałęsa wurde von der Sowjetunion als Gegengewicht zur polnischen Regierung unterstützt"],
+    "wrong_answers_ru": ["«Солидарность» была коммунистической молодёжной организацией, выступившей против правительства", "Движение было основано церковью и требовало религиозной свободы, а не прав трудящихся", "Лех Валенса поддерживался Советским Союзом как противовес польскому правительству"],
+    "explanation_de": "August 1980: Streiks in Lenin-Werft Danzig. Lech Wałęsa führte Verhandlungen. Gdańsker Abkommen: erste freie Gewerkschaft im Ostblock anerkannt. 10 Millionen Mitglieder. Dezember 1981: Kriegsrecht (General Jaruzelski). Solidarność verboten, unterirdisch weiter. 1989: erste freie Wahlen → Sieg Solidarność.",
+    "explanation_ru": "Август 1980 года: забастовки на судоверфи Ленина в Гданьске. Лех Валенса вёл переговоры. Гданьские соглашения: первый свободный профсоюз в Восточном блоке признан. 10 миллионов членов. Декабрь 1981 года: военное положение (генерал Ярузельский). «Солидарность» запрещена, продолжала работу подпольно. 1989 год: первые свободные выборы → победа «Солидарности».",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1980 CE",
+    "tags": ["Kalter Krieg", "Europa", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Papst Johannes Paul II. (Polnischer Papst Karol Wojtyła) besuchte 1979 Polen – das gab der Bewegung enormen Schub.",
+        "ru": "Папа Иоанн Павел II (польский папа Кароль Войтыла) посетил Польшу в 1979 году — это дало движению огромный импульс."
+      },
+      {
+        "de": "Wałęsa erhielt 1983 den Friedensnobelpreis – konnte ihn nicht entgegennehmen (Kriegsrecht).",
+        "ru": "Валенса получил в 1983 году Нобелевскую премию мира — не мог её принять (военное положение)."
+      },
+      {
+        "de": "Wałęsa wurde 1990 Präsident Polens – und 1995 von einem Postkommunisten abgelöst.",
+        "ru": "Валенса стал в 1990 году президентом Польши — и был сменён в 1995 году посткоммунистом."
+      }
+    ]
+  },
+  {
+    "id": 9059,
+    "question_de": "Was war die Tschernobyl-Katastrophe (1986)?",
+    "question_ru": "Что такое катастрофа Чернобыля (1986)?",
+    "correct_answer_de": "Explosion im sowjetischen Kernkraftwerk Tschernobyl (April 1986) war die schlimmste nukleare Katastrophe der Geschichte",
+    "correct_answer_ru": "Взрыв на советской атомной электростанции «Чернобыль» (апрель 1986 года) стал крупнейшей ядерной катастрофой в истории",
+    "wrong_answers_de": ["Tschernobyl war eine militärische Nuklearanlage, die bei einem Angriff explodierte", "Die Explosion fand 1989 statt und war der Auslöser für den Zusammenbruch der Sowjetunion", "Tschernobyl war ein Unfall in einer westdeutschen Anlage, die in der Ukraine stationiert war"],
+    "wrong_answers_ru": ["Чернобыль был военным ядерным объектом, взорвавшимся при нападении", "Взрыв произошёл в 1989 году и стал спусковым крючком распада Советского Союза", "Чернобыль был аварией на западногерманской установке, расположенной на Украине"],
+    "explanation_de": "26. April 1986: Reaktor 4 explodierte bei einem Sicherheitstest. Radioaktivität verbreitete sich über Europa. Sowjets verschwiegen zunächst. Gorbatschows 'Glasnost' wurde teilweise durch Tschernobyl erzwungen. 31 direkte Tote, Tausende Strahlenkranke, 350.000 evakuiert. Sperrzone bis heute.",
+    "explanation_ru": "26 апреля 1986 года: реактор № 4 взорвался во время испытания систем безопасности. Радиация распространилась по Европе. Советы поначалу скрывали. «Гласность» Горбачёва была отчасти вынуждена Чернобылем. 31 прямая гибель, тысячи пострадавших от радиации, 350 000 эвакуировано. Зона отчуждения по сей день.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1986 CE",
+    "tags": ["Katastrophe", "USSR"],
+    "interesting_facts": [
+      {
+        "de": "Schweden entdeckte die Strahlung zuerst – Mitarbeiter eines schwedischen AKW trugen Tschernobyl-Partikel auf den Schuhen.",
+        "ru": "Швеция первой обнаружила радиацию — сотрудник шведской АЭС принёс частицы Чернобыля на подошвах обуви."
+      },
+      {
+        "de": "Die HBO-Serie 'Chernobyl' (2019) wird oft als eines der besten TV-Dramen aller Zeiten bewertet.",
+        "ru": "Сериал HBO «Чернобыль» (2019) часто считается одной из лучших телевизионных драм всех времён."
+      },
+      {
+        "de": "Pripjat ist bis heute eine Geisterstadt – und ein bizarres touristisches Ziel.",
+        "ru": "Припять по сей день является городом-призраком — и причудливым туристическим направлением."
+      }
+    ]
+  },
+  {
+    "id": 9060,
+    "question_de": "Was war der Völkermord in Ruanda (1994)?",
+    "question_ru": "Что такое геноцид в Руанде (1994)?",
+    "correct_answer_de": "Innerhalb von 100 Tagen wurden 800.000 Tutsi von Hutu-Extremisten ermordet – trotz UNO-Präsenz",
+    "correct_answer_ru": "За 100 дней 800 000 тутси были убиты хуту-экстремистами — несмотря на присутствие ООН",
+    "wrong_answers_de": ["Der Ruanda-Völkermord war ein Bürgerkrieg zwischen Rebellen und der Regierung ohne ethnischen Hintergrund", "UNO-Truppen stoppten den Völkermord innerhalb einer Woche durch entschlossenes Eingreifen", "600.000 Hutu wurden von Tutsi-Streitkräften nach dem Sturz der Regierung ermordet"],
+    "wrong_answers_ru": ["Геноцид в Руанде был гражданской войной между повстанцами и правительством без этнического подтекста", "Войска ООН остановили геноцид в течение недели через решительное вмешательство", "600 000 хуту были убиты силами тутси после свержения правительства"],
+    "explanation_de": "Belgische Kolonialherrschaft hatte Hutu und Tutsi als getrennte 'Rassen' erfunden (Ausweisproblematik). Extremisten riefen im Radio auf: 'Tötet die Kakerlaken'. UNO-General Roméo Dallaire bat vergeblich um Verstärkung. USA und Clinton weigerten sich, 'Völkermord' zu sagen. RPF-Rebellen stoppten Massaker im Juli 1994.",
+    "explanation_ru": "Бельгийское колониальное владычество изобрело хуту и тутси как отдельные «расы» (проблема удостоверений). Экстремисты призывали по радио: «Убивайте тараканов». Генерал ООН Ромео Даллер напрасно просил подкрепления. США и Клинтон отказались произнести слово «геноцид». Повстанцы РПФ остановили резню в июле 1994 года.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1994 CE",
+    "tags": ["Afrika", "Gesellschaft", "Katastrophe"],
+    "interesting_facts": [
+      {
+        "de": "Paul Rusesabagina rettete 1.200 Menschen im Hotel des Mille Collines – Film 'Hotel Rwanda' (2004).",
+        "ru": "Поль Русесабагина спас 1 200 человек в отеле «Мил Колин» — фильм «Отель Руанда» (2004)."
+      },
+      {
+        "de": "Bill Clinton bezeichnete die Untätigkeit der USA in Ruanda als seinen größten Fehler als Präsident.",
+        "ru": "Билл Клинтон назвал бездействие США в Руанде своей величайшей ошибкой на посту президента."
+      },
+      {
+        "de": "Ruanda hat heute den höchsten Frauenanteil im Parlament weltweit (über 60 %) – ein Wiederaufbau-Wunder.",
+        "ru": "Руанда сегодня имеет наибольшую долю женщин в парламенте в мире (более 60%) — чудо восстановления."
+      }
+    ]
+  },
+  {
+    "id": 9061,
+    "question_de": "Was war die Apartheid und Mandelas Freilassung (1990)?",
+    "question_ru": "Что такое апартеид и освобождение Манделы (1990)?",
+    "correct_answer_de": "Apartheid (Rassentrennung in Südafrika 1948–1994) endete nach internationalen Sanktionen – Mandela wurde 27 Jahre inhaftiert",
+    "correct_answer_ru": "Апартеид (расовая сегрегация в ЮАР 1948–1994) завершился после международных санкций — Мандела провёл в заключении 27 лет",
+    "wrong_answers_de": ["Mandela wurde 1985 freigelassen und übernahm sofort die Regierung Südafrikas", "Apartheid endete durch einen Militärputsch des ANC 1990 ohne internationale Hilfe", "Südafrikas weiße Bevölkerung verlor durch Apartheid ihre politischen Rechte"],
+    "wrong_answers_ru": ["Мандела был освобождён в 1985 году и сразу же возглавил правительство ЮАР", "Апартеид завершился военным переворотом АНК в 1990 году без международной помощи", "Белое население ЮАР из-за апартеида потеряло свои политические права"],
+    "explanation_de": "Apartheid 1948 eingeführt (National Party). ANC kämpfte dagegen. Nelson Mandela 1964 wegen Sabotage zu lebenslanger Haft verurteilt. Internationale Sanktionen, Boykotte. F.W. de Klerk: ANC legalisiert, Mandela freigelassen (11. Februar 1990). Erste freie Wahlen 1994: Mandela Präsident.",
+    "explanation_ru": "Апартеид введён в 1948 году (Национальная партия). АНК боролся против него. Нельсон Мандела в 1964 году приговорён к пожизненному заключению за саботаж. Международные санкции, бойкоты. Ф.В. де Клерк: АНК легализован, Мандела освобождён (11 февраля 1990). Первые свободные выборы 1994 года: Мандела — президент.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1990 CE",
+    "tags": ["Afrika", "Politik", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Mandela und de Klerk erhielten gemeinsam 1993 den Friedensnobelpreis.",
+        "ru": "Мандела и де Клерк совместно получили в 1993 году Нобелевскую премию мира."
+      },
+      {
+        "de": "Mandelas Aussöhnungspolitik ('Regenbogennation') verhinderte Racheakte trotz bitterer Vergangenheit.",
+        "ru": "Политика примирения Манделы («нация-радуга») предотвратила акты мести, несмотря на горькое прошлое."
+      },
+      {
+        "de": "'Invictus' (Gedicht, 1875) war Mandelas Kraftquelle auf Robben Island: 'I am the master of my fate.'",
+        "ru": "«Инвиктус» (стихотворение, 1875) был источником силы Манделы на острове Роббен: «Я — хозяин своей судьбы»."
+      }
+    ]
+  },
+  {
+    "id": 9062,
+    "question_de": "Was war das Klonen des Schafes Dolly (1996)?",
+    "question_ru": "Что такое клонирование овцы Долли (1996)?",
+    "correct_answer_de": "Ian Wilmut klonte 1996 das erste Säugetier aus adulten Zellen – revolutionierte Gentechnik, warf ethische Fragen auf",
+    "correct_answer_ru": "Ян Вилмут в 1996 году клонировал первое млекопитающее из взрослых клеток — революционизировало генетику, поставило этические вопросы",
+    "wrong_answers_de": ["Dolly war das erste genetisch veränderte Tier durch CRISPR-Technologie 1996", "Das Klonen von Dolly wurde vom Militär für Rüstungszwecke initiiert", "Dolly war das erste Klon-Schaf aus embryonalen Stammzellen in den USA"],
+    "wrong_answers_ru": ["Долли было первым генетически изменённым животным через технологию CRISPR в 1996 году", "Клонирование Долли было инициировано военными в целях вооружения", "Долли была первой клонированной овцой из эмбриональных стволовых клеток в США"],
+    "explanation_de": "Roslin Institute (Edinburgh): Somatischer Zellkerntransfer. Dolly lebte 6 Jahre (früh gealtert). Bewies: Adulte Zellen können 'zurückprogrammiert' werden. Führte zu Stammzellforschung, therapeutisches Klonen. Menschliches Klonen bleibt weltweit verboten. 'Jurassic Park'-Debatte über ausgestorbene Arten.",
+    "explanation_ru": "Институт Рослина (Эдинбург): перенос соматического ядра клетки. Долли прожила 6 лет (преждевременно состарилась). Доказала: взрослые клетки можно «перепрограммировать». Привело к исследованиям стволовых клеток, терапевтическому клонированию. Клонирование человека по всему миру запрещено. Дебаты в духе «Парка юрского периода» о вымерших видах.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1996 CE",
+    "tags": ["Wissenschaft", "Technologie"],
+    "interesting_facts": [
+      {
+        "de": "Dolly wurde nach Dolly Parton benannt – weil sie aus einer Brustdrüsenzelle geklont wurde.",
+        "ru": "Долли была названа в честь Долли Партон — потому что была клонирована из клетки молочной железы."
+      },
+      {
+        "de": "2016 wurde das erste geklonte Pferd als Zuchtpferd eingesetzt – ein milliardenschwerer Markt entstand.",
+        "ru": "В 2016 году первая клонированная лошадь была использована как племенная — возник рынок стоимостью в миллиарды."
+      },
+      {
+        "de": "Sina Matagi klonte 2003 ihr Lieblingskatze – für 50.000 $ die erste kommerziell geklonte Katze.",
+        "ru": "В 2003 году американка клонировала свою любимую кошку за 50 000 долларов — первая коммерчески клонированная кошка."
+      }
+    ]
+  },
+  {
+    "id": 9063,
+    "question_de": "Was war der Mauerfall und die Deutsche Wiedervereinigung?",
+    "question_ru": "Что такое падение Берлинской стены и объединение Германии?",
+    "correct_answer_de": "9. November 1989: Berliner Mauer fiel nach Massenprotesten – Wiedervereinigung am 3. Oktober 1990",
+    "correct_answer_ru": "9 ноября 1989 года: Берлинская стена пала после массовых протестов — объединение 3 октября 1990 года",
+    "wrong_answers_de": ["Die Mauer fiel am 9. November 1989 durch einen militärischen Befehl Gorbatschows", "Deutschland wurde durch den 2+4-Vertrag 1989 wiedervereinigt und nicht erst 1990", "Die Wiedervereinigung wurde durch die NATO militärisch erzwungen und nicht durch Volkswillen"],
+    "wrong_answers_ru": ["Стена пала 9 ноября 1989 года по военному приказу Горбачёва", "Германия была вновь объединена по договору «2+4» в 1989 году, а не в 1990-м", "Объединение было принудительно достигнуто НАТО военными средствами, а не народной волей"],
+    "explanation_de": "DDR-Bürger demonstrierten ('Wir sind das Volk'). Ungarn öffnete Grenzen. Günter Schabowski verkündete versehentlich im TV: Grenzöffnung sofort. Massen strömten zu den Grenzübergängen. Mauer öffnete. 2+4-Vertrag (September 1990): Siegermächte gaben Zustimmung. 3. Oktober 1990: Deutsche Einheit.",
+    "explanation_ru": "Граждане ГДР вышли на демонстрации («Мы — народ»). Венгрия открыла границы. Гюнтер Шабовски случайно объявил по TV: открытие границ немедленно. Массы устремились к пограничным переходам. Стена открылась. Договор «2+4» (сентябрь 1990): державы-победительницы дали согласие. 3 октября 1990 года: Единство Германии.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1989 CE",
+    "tags": ["Deutschland", "Kalter Krieg"],
+    "interesting_facts": [
+      {
+        "de": "Günter Schabowski hatte die Notiz über die Grenzöffnung falsch gelesen – er war nicht bei der Sitzung.",
+        "ru": "Гюнтер Шабовски неправильно прочитал записку об открытии границы — он не присутствовал на совещании."
+      },
+      {
+        "de": "Gorbatschow gewann 1990 den Friedensnobelpreis – vor allem wegen seiner Zustimmung zur deutschen Einheit.",
+        "ru": "Горбачёв получил в 1990 году Нобелевскую премию мира — прежде всего за согласие на объединение Германии."
+      },
+      {
+        "de": "Die DDR hatte mehr Bürger die flohen als jedes andere kommunistische Land – über 3 Millionen bis 1989.",
+        "ru": "ГДР имела больше бежавших граждан, чем любая другая коммунистическая страна — более 3 миллионов до 1989 года."
+      }
+    ]
+  },
+  {
+    "id": 9064,
+    "question_de": "Was war der Zerfall Jugoslawiens in den 1990ern?",
+    "question_ru": "Что такое распад Югославии в 1990-х годах?",
+    "correct_answer_de": "Nach Titos Tod zerbrach Jugoslawien in Bürgerkriege und ethnische Säuberungen – Srebrenica als schlimmster Genozid in Europa seit 1945",
+    "correct_answer_ru": "После смерти Тито Югославия распалась на гражданские войны и этнические чистки — Сребреница как худший геноцид в Европе с 1945 года",
+    "wrong_answers_de": ["Jugoslawien zerfiel friedlich 1990 durch eine geregelte Volksabstimmung in alle Teilstaaten", "Die NATO-Intervention 1990 löste den Zerfall Jugoslawiens aus", "Tito regierte Jugoslawien bis 1990 – nach seinem Tod zerfiel das Land sofort"],
+    "wrong_answers_ru": ["Югославия мирно распалась в 1990 году через регламентированный референдум во всех республиках", "Вмешательство НАТО в 1990 году вызвало распад Югославии", "Тито правил Югославией до 1990 года — после его смерти страна сразу распалась"],
+    "explanation_de": "Tito starb 1980. Slowenien und Kroatien erklärten 1991 Unabhängigkeit. Bosnien-Krieg: Serbische Milizen (Arkan, Mladić) betrieben ethnische Säuberungen. Srebrenica Juli 1995: 8.000 bosnische Muslime ermordet (UN-Schutzzone). NATO-Luftangriffe stoppten Krieg. Dayton-Abkommen 1995.",
+    "explanation_ru": "Тито умер в 1980 году. Словения и Хорватия объявили независимость в 1991 году. Боснийская война: сербские боевики (Аркан, Младич) проводили этнические чистки. Сребреница, июль 1995 года: убиты 8 000 боснийских мусульман (зона защиты ООН). Авиаудары НАТО остановили войну. Дейтонское соглашение 1995 года.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1995 CE",
+    "tags": ["Krieg", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Ratko Mladić ('Schlächter von Bosnien') wurde 2011 verhaftet und 2017 zu lebenslanger Haft verurteilt.",
+        "ru": "Ратко Младич («Мясник Боснии») был арестован в 2011 году и в 2017 году приговорён к пожизненному заключению."
+      },
+      {
+        "de": "Milošević starb 2006 während seines Prozesses in Den Haag – Urteil nie gesprochen.",
+        "ru": "Милошевич умер в 2006 году во время процесса в Гааге — приговор так и не был вынесен."
+      },
+      {
+        "de": "Aus Jugoslawien entstanden 7 Staaten: Slowenien, Kroatien, Bosnien, Serbien, Montenegro, Mazedonien, Kosovo.",
+        "ru": "Из Югославии образовалось 7 государств: Словения, Хорватия, Босния, Сербия, Черногория, Македония, Косово."
+      }
+    ]
+  },
+  {
+    "id": 9065,
+    "question_de": "Was war das Human Genome Project (1990–2003)?",
+    "question_ru": "Что такое проект «Геном человека» (1990–2003)?",
+    "correct_answer_de": "Internationales Wissenschaftsprojekt entschlüsselte das komplette menschliche Erbgut (3,2 Milliarden Basenpaare) bis 2003",
+    "correct_answer_ru": "Международный научный проект расшифровал полный геном человека (3,2 миллиарда пар оснований) к 2003 году",
+    "wrong_answers_de": ["Das Human Genome Project klonte das menschliche Erbgut zur medizinischen Reproduktion", "Ein amerikanisches Privatunternehmen entschlüsselte 1990 das menschliche Erbgut in 3 Jahren", "Das Projekt wurde vom Militär initiiert, um genetische Waffen zu entwickeln"],
+    "wrong_answers_ru": ["Проект по геному человека клонировал человеческое ДНК для медицинского воспроизводства", "Американская частная компания расшифровала человеческий геном в 1990 году за 3 года", "Проект был инициирован военными для разработки генетического оружия"],
+    "explanation_de": "1990 gestartet: USA, England, Frankreich, Deutschland, Japan, China. Craig Venters Celera Genomics konkurrierte privat. 2001 erste Entwürfe veröffentlicht. 2003 abgeschlossen. Revolutionierte Medizin: Erbkrankheiten, Krebstherapie. CRISPR (2012) ermöglicht Eingriffe ins Erbgut.",
+    "explanation_ru": "Начат в 1990 году: США, Англия, Франция, Германия, Япония, Китай. Celera Genomics Крейга Вентера конкурировала в частном порядке. Первые черновики опубликованы в 2001 году. Завершён в 2003 году. Революционизировал медицину: наследственные болезни, онкотерапия. CRISPR (2012) позволяет вмешиваться в геном.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2003 CE",
+    "tags": ["Wissenschaft", "Technologie"],
+    "interesting_facts": [
+      {
+        "de": "Das menschliche Erbgut hat nur 20.000-25.000 Gene – weniger als ein Reiskorn (38.000).",
+        "ru": "Человеческий геном содержит лишь 20 000–25 000 генов — меньше, чем у рисового зерна (38 000)."
+      },
+      {
+        "de": "Menschen und Schimpansen teilen 98,7 % ihrer DNA – und 85 % mit Mäusen.",
+        "ru": "Люди и шимпанзе имеют общие 98,7% ДНК — и 85% с мышами."
+      },
+      {
+        "de": "CRISPR-Cas9 (Jennifer Doudna/Emmanuelle Charpentier, Nobelpreis 2020) gilt als 'genetische Schere' der Zukunft.",
+        "ru": "CRISPR-Cas9 (Дженнифер Дудна/Эммануэль Шарпентье, Нобелевская премия 2020) считается «генетическими ножницами» будущего."
+      }
+    ]
+  },
+  {
+    "id": 9066,
+    "question_de": "Was war der 11. September 2001 und seine globalen Konsequenzen?",
+    "question_ru": "Что такое 11 сентября 2001 года и его глобальные последствия?",
+    "correct_answer_de": "Al-Qaida-Terroranschläge auf WTC und Pentagon töteten 2.996 Menschen – leiteten den 'Krieg gegen Terror' ein",
+    "correct_answer_ru": "Теракты «Аль-Каиды» на ВТЦ и Пентагон убили 2 996 человек — положили начало «войне против терроризма»",
+    "wrong_answers_de": ["Irak und Saddam Hussein planten die Anschläge vom 11. September 2001 persönlich", "Die Anschläge töteten 10.000 Menschen und zerstörten alle Gebäude im Finanzzentrum New Yorks", "Die USA griffen nach 9/11 sofort Iraq an, ohne Afghanistan vorher zu invadieren"],
+    "wrong_answers_ru": ["Ирак и Саддам Хусейн лично спланировали теракты 11 сентября 2001 года", "Теракты убили 10 000 человек и уничтожили все здания финансового центра Нью-Йорка", "США после 11 сентября немедленно напали на Ирак, не вторгаясь предварительно в Афганистан"],
+    "explanation_de": "19 Entführer (15 Saudis, Ägypter, Libanese): 4 entführte Flugzeuge. WTC (New York): beide Türme eingestürzt. Pentagon (Washington) beschädigt. United 93 stürzte in Pennsylvania (Passagiere kämpften gegen Entführer). Patriot Act. Afghanistan-Krieg (2001). Irak-Krieg (2003). Guantanamo.",
+    "explanation_ru": "19 угонщиков (15 саудовцев, египтяне, ливанцы): 4 захваченных самолёта. ВТЦ (Нью-Йорк): оба здания рухнули. Пентагон (Вашингтон) повреждён. Рейс 93 разбился в Пенсильвании (пассажиры сражались с угонщиками). Патриотический акт. Война в Афганистане (2001). Война в Ираке (2003). Гуантанамо.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2001 CE",
+    "tags": ["Terror", "USA", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Osama bin Laden wurde erst 2011 in Pakistan von US-Spezialeinheiten getötet – 10 Jahre nach dem Anschlag.",
+        "ru": "Усама бин Ладен был убит лишь в 2011 году в Пакистане спецназом США — через 10 лет после теракта."
+      },
+      {
+        "de": "Der PATRIOT Act legalisierte Massenüberwachung – NSA-Enthüllungen durch Snowden 2013.",
+        "ru": "Патриотический акт легализовал массовую слежку — разоблачения АНБ через Сноудена в 2013 году."
+      },
+      {
+        "de": "9/11 kostete die USA geschätzte 3–5 Billionen Dollar Kriegskosten bis 2021 (inkl. Veteranenfürsorge).",
+        "ru": "11 сентября обошлось США приблизительно в 3–5 триллионов долларов военных расходов до 2021 года (включая уход за ветеранами)."
+      }
+    ]
+  },
+  {
+    "id": 9067,
+    "question_de": "Was war die Finanzkrise 2008 und ihre Ursachen?",
+    "question_ru": "Что такое финансовый кризис 2008 года и его причины?",
+    "correct_answer_de": "Kollaps von Lehman Brothers löste globale Finanzkrise aus – Ursache: US-Immobilienblasen und riskante Wertpapiere",
+    "correct_answer_ru": "Крах Lehman Brothers вызвал глобальный финансовый кризис — причина: пузырь на рынке недвижимости США и рискованные ценные бумаги",
+    "wrong_answers_de": ["Die Krise 2008 entstand durch den Ölpreisschock und steigende Benzinpreise", "Griechenlands Staatsbankrott 2008 löste die globale Finanzkrise durch Ansteckungseffekte aus", "Die Krise war durch Computerfehler auf den Börsen ausgelöst – keine strukturellen Ursachen"],
+    "wrong_answers_ru": ["Кризис 2008 года возник из-за нефтяного шока и роста цен на бензин", "Государственное банкротство Греции в 2008 году вызвало глобальный финансовый кризис через эффект заражения", "Кризис был вызван компьютерными ошибками на биржах — никаких структурных причин"],
+    "explanation_de": "Subprime-Hypotheken: US-Banken gaben Kredite an Nicht-Kreditwürdige. Diese wurden als 'CDOs' gebündelt und weltweit verkauft. Immobilienblase platzte 2007. Lehman Brothers bankrott (15. September 2008). Weltweite Rezession. Regierungen retteten Banken ('Too big to fail'). 8 Millionen Jobs verloren in USA.",
+    "explanation_ru": "Ипотека subprime: банки США выдавали кредиты некредитоспособным. Они были объединены в «CDO» и проданы по всему миру. Пузырь на рынке недвижимости лопнул в 2007 году. Lehman Brothers обанкротился (15 сентября 2008). Мировая рецессия. Правительства спасали банки («слишком большие, чтобы обанкротиться»). В США потеряно 8 миллионов рабочих мест.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2008 CE",
+    "tags": ["Wirtschaft", "USA"],
+    "interesting_facts": [
+      {
+        "de": "Lehman Brothers war die viertgrößte US-Investmentbank – mit 25.000 Mitarbeitern und 600 Milliarden Dollar Schulden.",
+        "ru": "Lehman Brothers был четвёртым по величине инвестиционным банком США — с 25 000 сотрудников и долгами в 600 миллиардов долларов."
+      },
+      {
+        "de": "Der Film 'The Big Short' (2015) erklärt die Krise durch Bowling und Stripclubs – Oscar für bestes adaptiertes Drehbuch.",
+        "ru": "Фильм «Игра на понижение» (2015) объясняет кризис через боулинг и стриптиз-клубы — Оскар за лучший адаптированный сценарий."
+      },
+      {
+        "de": "Island war das einzige Land, das seine Banker nach der Krise ins Gefängnis schickte.",
+        "ru": "Исландия была единственной страной, отправившей своих банкиров в тюрьму после кризиса."
+      }
+    ]
+  },
+  {
+    "id": 9068,
+    "question_de": "Was war der Arabische Frühling (2010–2012)?",
+    "question_ru": "Что такое «Арабская весна» (2010–2012)?",
+    "correct_answer_de": "Volksaufstände in Arabischer Welt stürzten Diktatoren (Tunesien, Ägypten, Libyen) – meist mit chaotischem Ergebnis",
+    "correct_answer_ru": "Народные восстания в арабском мире свергли диктаторов (Тунис, Египет, Ливия) — чаще всего с хаотическим результатом",
+    "wrong_answers_de": ["Der Arabische Frühling brachte stabile Demokratien in allen betroffenen Ländern", "Es war eine koordinierte Aktion westlicher Geheimdienste zur Destabilisierung der Region", "Nur Tunesien hatte einen Aufstand – die anderen Länder blieben ruhig"],
+    "wrong_answers_ru": ["Арабская весна принесла стабильные демократии во всех затронутых странах", "Это была скоординированная акция западных спецслужб по дестабилизации региона", "Только в Тунисе было восстание — другие страны оставались спокойными"],
+    "explanation_de": "Mohamed Bouazizi (Tunesien) verbrannte sich als Protest (17. Dezember 2010). Kettenreaktion: Ben Ali floh, Mubarak stürzte, Gaddafi getötet. Syrien: Bürgerkrieg. Ägypten: Militär übernahm wieder. Nur Tunesien blieb zeitweise Demokratie (2011 Jasmin-Revolution-Erfolg). Social Media (Twitter/Facebook) als Koordinationsmittel.",
+    "explanation_ru": "Мухаммед Буазизи (Тунис) сжёг себя в знак протеста (17 декабря 2010 года). Цепная реакция: Бен Али бежал, Мубарак свергнут, Каддафи убит. Сирия: гражданская война. Египет: военные снова взяли власть. Только Тунис временно стал демократией (успех Жасминовой революции 2011). Социальные сети (Twitter/Facebook) как инструмент координации.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2011 CE",
+    "tags": ["Politik", "Naher Osten"],
+    "interesting_facts": [
+      {
+        "de": "Ben Alis Frau soll 1,5 Tonnen Gold aus der Staatsbank gestohlen haben, bevor sie flohen.",
+        "ru": "Говорят, жена Бен Али похитила 1,5 тонны золота из государственного банка перед бегством."
+      },
+      {
+        "de": "Syriens Bürgerkrieg tötete über 500.000 Menschen und vertrieb 12 Millionen.",
+        "ru": "Гражданская война в Сирии унесла жизни более 500 000 человек и вынудила покинуть страну 12 миллионов."
+      },
+      {
+        "de": "Tunesien erhielt 2015 den Friedensnobelpreis (das Nationale Dialogquartett) für friedlichen Übergang.",
+        "ru": "Тунис получил в 2015 году Нобелевскую премию мира (Национальный диалоговый квартет) за мирный переход."
+      }
+    ]
+  },
+  {
+    "id": 9069,
+    "question_de": "Was war Deng Xiaopings Wirtschaftsreform in China?",
+    "question_ru": "Что такое экономические реформы Дэн Сяопина в Китае?",
+    "correct_answer_de": "Deng Xiaopings 'Reform und Öffnung' ab 1978 verwandelte China in die zweitgrößte Wirtschaft der Welt",
+    "correct_answer_ru": "«Реформы и открытость» Дэн Сяопина с 1978 года превратили Китай во вторую по величине экономику мира",
+    "wrong_answers_de": ["Mao Zedong initiierte 1978 die chinesische Wirtschaftsreform als Fortführung des Großen Sprungs", "China öffnete sich 1978 durch eine demokratische Revolution nach taiwanesischem Vorbild", "Deng Xiaopings Reformen begannen erst 1989 nach den Protesten auf dem Tiananmen-Platz"],
+    "wrong_answers_ru": ["Мао Цзэдун в 1978 году инициировал китайскую экономическую реформу как продолжение Большого скачка", "Китай открылся в 1978 году через демократическую революцию по тайваньскому образцу", "Реформы Дэн Сяопина начались лишь в 1989 году после протестов на площади Тяньаньмэнь"],
+    "explanation_de": "Deng: 'Es ist egal, ob die Katze schwarz oder weiß ist, solange sie Mäuse fängt.' Sonderwirtschaftszonen (Shenzhen). Bäuerliche Dezentralisierung. Staatsunternehmen teils privatisiert. BIP wuchs 10 % pro Jahr 30 Jahre lang. China hob 800 Millionen aus der Armut. Tiananmen-Massaker 1989 – Öffnung ohne Demokratie.",
+    "explanation_ru": "Дэн: «Неважно, чёрная кошка или белая, лишь бы ловила мышей». Особые экономические зоны (Шэньчжэнь). Аграрная децентрализация. Государственные предприятия частично приватизированы. ВВП рос на 10% в год 30 лет подряд. Китай вывел 800 миллионов из бедности. Резня на Тяньаньмэнь 1989 — открытость без демократии.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1985 CE",
+    "tags": ["China", "Wirtschaft", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Shenzhen war 1979 ein Fischerdorf mit 30.000 Einwohnern – heute eine Metropole mit 13 Millionen.",
+        "ru": "Шэньчжэнь в 1979 году был рыбацкой деревней с 30 000 жителей — сегодня это мегаполис с 13 миллионами."
+      },
+      {
+        "de": "China produziert heute 50 % des weltweiten Stahls und besitzt 40 % der globalen Devisenreserven.",
+        "ru": "Китай сегодня производит 50% мировой стали и владеет 40% мировых валютных резервов."
+      },
+      {
+        "de": "Tiananmen 1989: Tank Man – einer der ikonischsten Fotos des 20. Jahrhunderts – bleibt in China zensiert.",
+        "ru": "Тяньаньмэнь 1989 год: «Человек перед танком» — одна из самых знаковых фотографий XX века — по-прежнему цензурируется в Китае."
+      }
+    ]
+  },
+  {
+    "id": 9070,
+    "question_de": "Was war die NATO und ihre Entstehung (1949)?",
+    "question_ru": "Что такое НАТО и его создание (1949)?",
+    "correct_answer_de": "NATO (1949): westliches Verteidigungsbündnis gegen sowjetische Bedrohung – 'Angriff auf einen ist Angriff auf alle' (Artikel 5)",
+    "correct_answer_ru": "НАТО (1949): западный оборонительный союз против советской угрозы — «нападение на одного есть нападение на всех» (статья 5)",
+    "wrong_answers_de": ["NATO wurde 1945 nach dem Zweiten Weltkrieg als Ersatz für den Völkerbund gegründet", "NATO ist ein wirtschaftliches Bündnis – der militärische Arm ist die UNO-Friedenstruppe", "Die NATO wurde von den USA allein gegründet und Deutschland war Gründungsmitglied"],
+    "wrong_answers_ru": ["НАТО было основано в 1945 году после Второй мировой войны как замена Лиге Наций", "НАТО является экономическим союзом — военным крылом являются миротворческие силы ООН", "НАТО было основано исключительно США, и Германия была страной-основателем"],
+    "explanation_de": "12 Gründungsmitglieder (April 1949): USA, Kanada, England, Frankreich, Belgien u.a. Deutschland trat 1955 bei. Sowjetunion gründete Warschauer Pakt 1955 als Gegengewicht. Kalter Krieg: NATO vs. Warschauer Pakt. Nach 1991 Osterweiterung. Artikel 5 (kollektive Verteidigung) wurde erst einmal aktiviert: nach 9/11.",
+    "explanation_ru": "12 государств-основателей (апрель 1949): США, Канада, Англия, Франция, Бельгия и др. Германия вступила в 1955 году. Советский Союз основал Варшавский договор в 1955 году как противовес. Холодная война: НАТО против Варшавского договора. После 1991 расширение на восток. Статья 5 (коллективная оборона) была активирована лишь однажды: после 11 сентября.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1949 CE",
+    "tags": ["Kalter Krieg", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Artikel 5 wurde bisher genau einmal ausgerufen: nach den Terroranschlägen vom 11. September 2001.",
+        "ru": "Статья 5 была задействована ровно один раз: после терактов 11 сентября 2001 года."
+      },
+      {
+        "de": "Frankreich verließ die NATO-Militärstruktur 1966 (de Gaulle) und kehrte 2009 zurück (Sarkozy).",
+        "ru": "Франция вышла из военной структуры НАТО в 1966 году (де Голль) и вернулась в 2009 году (Саркози)."
+      },
+      {
+        "de": "Montenegro trat 2017 als 29. Mitglied der NATO bei – trotz heftiger russischer Proteste.",
+        "ru": "Черногория вступила в НАТО в 2017 году в качестве 29-го члена — несмотря на резкие протесты России."
+      }
+    ]
+  },
+  {
+    "id": 9071,
+    "question_de": "Was war die Weltraumrüstung und das erste Weltraumteleskop Hubble (1990)?",
+    "question_ru": "Что такое космическая гонка вооружений и первый космический телескоп Хаббл (1990)?",
+    "correct_answer_de": "Das Hubble-Weltraumteleskop (1990) revolutionierte die Astronomie mit Bildern aus 13,4 Milliarden Lichtjahren Entfernung",
+    "correct_answer_ru": "Космический телескоп «Хаббл» (1990) революционизировал астрономию снимками на расстоянии 13,4 миллиарда световых лет",
+    "wrong_answers_de": ["Hubble wurde 1969 zusammen mit dem Mondlandungsprogramm als Orbitteleskop entwickelt", "Das Hubble-Teleskop wurde von der Sowjetunion als erstes Weltraumteleskop gestartet", "Hubble arbeitet mit Röntgenstrahlen – daher kann es durch Wolken und Atmosphäre sehen"],
+    "wrong_answers_ru": ["Хаббл был разработан в 1969 году вместе с лунной программой как орбитальный телескоп", "Телескоп «Хаббл» был запущен Советским Союзом как первый космический телескоп", "Хаббл работает на рентгеновских лучах — поэтому он видит сквозь облака и атмосферу"],
+    "explanation_de": "NASA/ESA starteten Hubble 1990. Anfang: verschwommene Bilder (Spiegelfehler). 1993: Reparaturen im Weltraum. Dann: revolutionäre Bilder. Alter des Universums präzisiert (13,8 Mrd. Jahre). Dunkle Materie, Hubble Deep Field. Nachfolger: James Webb Space Telescope (2021).",
+    "explanation_ru": "НАСА/ЕКА запустили Хаббл в 1990 году. Начало: размытые изображения (ошибка зеркала). 1993 год: ремонт в открытом космосе. Затем: революционные снимки. Уточнён возраст Вселенной (13,8 млрд лет). Тёмная материя, глубокое поле Хаббла. Преемник: космический телескоп Джеймса Уэбба (2021).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1990 CE",
+    "tags": ["Wissenschaft", "Technologie", "USA"],
+    "interesting_facts": [
+      {
+        "de": "Das Hubble Ultra Deep Field (2003) zeigt 10.000 Galaxien in einem Himmelsbereich so klein wie ein Sandkorn auf Armlänge.",
+        "ru": "Сверхглубокое поле Хаббла (2003) показывает 10 000 галактик в области неба размером с песчинку на вытянутой руке."
+      },
+      {
+        "de": "Der Spiegelfehler von 2mm Abweichung wurde durch Raumfahrer in 5 Spacewalks korrigiert.",
+        "ru": "Ошибка зеркала в 2 мм была исправлена астронавтами в ходе 5 выходов в открытый космос."
+      },
+      {
+        "de": "James Webb (2021) sieht weiter und tiefer als Hubble – ins früheste Universum nach dem Urknall.",
+        "ru": "Джеймс Уэбб (2021) видит дальше и глубже Хаббла — в самую раннюю Вселенную после Большого взрыва."
+      }
+    ]
+  },
+  {
+    "id": 9072,
+    "question_de": "Was war Margaret Thatchers Politik und der Thatcherismus?",
+    "question_ru": "Что такое политика Маргарет Тэтчер и тэтчеризм?",
+    "correct_answer_de": "Thatchers Wirtschaftspolitik (1979–1990): Privatisierung, Gewerkschaftsschwächung, freier Markt – neoliberale Revolution",
+    "correct_answer_ru": "Экономическая политика Тэтчер (1979–1990): приватизация, ослабление профсоюзов, свободный рынок — неолиберальная революция",
+    "wrong_answers_de": ["Thatcher führte den britischen Sozialstaat ein und stärkte die Gewerkschaftsrechte", "Thatcher war die erste Premierministerin Australiens und reformierte das Gesundheitssystem", "Thatcher und Kohl vereinten Europa durch gemeinsame Währungsreformen"],
+    "wrong_answers_ru": ["Тэтчер ввела британское социальное государство и укрепила права профсоюзов", "Тэтчер была первым премьер-министром Австралии и реформировала систему здравоохранения", "Тэтчер и Коль объединили Европу через совместные валютные реформы"],
+    "explanation_de": "Margaret Thatcher (Konservative) war erste Premierministerin Großbritanniens (1979–1990). Privatisierte British Telecom, British Gas, British Airways. Brach Bergarbeiterstreik 1984/85. Falklandkrieg 1982. Enge Verbündete Reagans. 'Die Eiserne Lady'. Ihr Programm beeinflusste globale Wirtschaftspolitik der 1980er/90er.",
+    "explanation_ru": "Маргарет Тэтчер (консерваторы) — первый премьер-министр Великобритании-женщина (1979–1990). Приватизировала British Telecom, British Gas, British Airways. Сломила забастовку шахтёров 1984/85. Фолклендская война 1982 года. Тесный союзник Рейгана. «Железная леди». Её программа повлияла на мировую экономическую политику 1980-90-х.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1985 CE",
+    "tags": ["England", "Wirtschaft", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Thatcher gewann 3 Parlamentswahlen in Folge (1979, 1983, 1987) – und wurde von ihrer eigenen Partei gestürzt.",
+        "ru": "Тэтчер выиграла 3 парламентских выборов подряд (1979, 1983, 1987) — и была свергнута собственной партией."
+      },
+      {
+        "de": "Der Bergarbeiterstreik 1984/85 dauerte 362 Tage – die längste und bitterste Arbeitskampfaktion in UK.",
+        "ru": "Забастовка шахтёров 1984/85 года длилась 362 дня — самая долгая и горькая трудовая борьба в Великобритании."
+      },
+      {
+        "de": "'There is no such thing as society' – Thatchers berühmtestes Zitat, das Individualismus über Gemeinschaft stellt.",
+        "ru": "«Не существует такой вещи, как общество» — самая знаменитая цитата Тэтчер, ставящая индивидуализм выше общности."
+      }
+    ]
+  },
+  {
+    "id": 9073,
+    "question_de": "Was war Mikhail Gorbatschows Glasnost und Perestroika?",
+    "question_ru": "Что такое Гласность и Перестройка Михаила Горбачёва?",
+    "correct_answer_de": "Gorbatschows Reformen (Glasnost = Offenheit, Perestroika = Umbau) sollten die UdSSR modernisieren – führten zu ihrem Zerfall",
+    "correct_answer_ru": "Реформы Горбачёва (Гласность = открытость, Перестройка = перестройка) должны были модернизировать СССР — привели к его распаду",
+    "wrong_answers_de": ["Glasnost bedeutete militärische Abrüstung, Perestroika war eine Währungsreform", "Gorbatschows Reformen führten zur Stärkung der kommunistischen Partei und Verlängerung der Sowjetherrschaft", "Glasnost wurde von Breschnew eingeleitet und von Gorbatschow zu Ende gebracht"],
+    "wrong_answers_ru": ["Гласность означала военное разоружение, Перестройка была валютной реформой", "Реформы Горбачёва укрепили коммунистическую партию и продлили советское господство", "Гласность была инициирована Брежневым и завершена Горбачёвым"],
+    "explanation_de": "Gorbatschow (1985–1991): Glasnost (Pressefreiheit, Transparenz), Perestroika (Wirtschaftsreform), Demokratisierung. Ölpreisverfall 1986 traf UdSSR schwer. Tschernobyl 1986 beschleunigte Glasnost. Volksaufstände in Osteuropa (1989). Augustputsch 1991. Sowjetunion löste sich auf Dezember 1991.",
+    "explanation_ru": "Горбачёв (1985–1991): Гласность (свобода прессы, прозрачность), Перестройка (экономическая реформа), демократизация. Падение цен на нефть 1986 года сильно ударило по СССР. Чернобыль 1986 года ускорил Гласность. Народные восстания в Восточной Европе (1989). Августовский путч 1991 года. Советский Союз распался в декабре 1991 года.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1988 CE",
+    "tags": ["USSR", "Kalter Krieg", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Gorbatschow sagte: 'Er wollte die UdSSR reformieren, nicht zerstören' – es gelang ihm beides falsch.",
+        "ru": "Горбачёв говорил: «Он хотел реформировать СССР, а не разрушить» — ему удалось и то и другое не так."
+      },
+      {
+        "de": "Der Augustputsch 1991 wurde von KGB-Chef und Ministern gegen Gorbatschow inszeniert – Boris Jelzin stellte ihn.",
+        "ru": "Августовский путч 1991 года был организован начальником КГБ и министрами против Горбачёва — Борис Ельцин остановил его."
+      },
+      {
+        "de": "Gorbatschow arbeite nach 1991 für Greenpeace und Pizza Hut – letzteres in einem berühmten Werbefilm.",
+        "ru": "После 1991 года Горбачёв работал на Greenpeace и Pizza Hut — последнее в знаменитой рекламе."
+      }
+    ]
+  },
+  {
+    "id": 9074,
+    "question_de": "Was war der Vietnamkrieg und seine Bedeutung für die USA?",
+    "question_ru": "Что такое Вьетнамская война и её значение для США?",
+    "correct_answer_de": "USA verloren ihren ersten Krieg (1955–1975) gegen vietnamesische Kommunisten – 58.000 US-Tote, Kriegsschock der Nation",
+    "correct_answer_ru": "США проиграли свою первую войну (1955–1975) вьетнамским коммунистам — 58 000 погибших американцев, шок нации",
+    "wrong_answers_de": ["Die USA gewannen den Vietnamkrieg und verhinderten die Ausbreitung des Kommunismus in Asien", "Frankreich kämpfte in Vietnam und verlor – die USA intervenierten erst nach dem Frieden 1970", "Vietnam wurde durch ein UNO-Mandat geteilt – Nord und Süd nach dem Koreamodell"],
+    "wrong_answers_ru": ["США выиграли Вьетнамскую войну и предотвратили распространение коммунизма в Азии", "Франция воевала во Вьетнаме и проиграла — США вмешались лишь после мира 1970 года", "Вьетнам был разделён по мандату ООН — Север и Юг по корейской модели"],
+    "explanation_de": "Frankreich verlor 1954 (Dien Bien Phu). USA unterstützten Südvietnam. Tonkin-Resolution 1964: LBJ eskalierte. My-Lai-Massaker 1968. Anti-Kriegsbewegung. Nixon: Vietnamisierung, Bombardierung Kambodschas. Saigon fiel 30. April 1975. Vietnam vereint als kommunistisch. Trauma prägte US-Außenpolitik jahrzehntelang.",
+    "explanation_ru": "Франция проиграла в 1954 году (Дьенбьенфу). США поддерживали Южный Вьетнам. Резолюция по Тонкинскому заливу 1964 года: ЛБД эскалировал. Резня в Милай в 1968 году. Антивоенное движение. Никсон: вьетнамизация, бомбардировки Камбоджи. Сайгон пал 30 апреля 1975 года. Вьетнам объединён как коммунистический. Травма десятилетиями определяла внешнюю политику США.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1970 CE",
+    "tags": ["Krieg", "USA", "Kalter Krieg"],
+    "interesting_facts": [
+      {
+        "de": "Vietnam verlor 2 Millionen Zivilisten – aber wird heute als prosperierendes Land mit 97 Millionen Einwohnern bezeichnet.",
+        "ru": "Вьетнам потерял 2 миллиона мирных жителей — но сегодня называется процветающей страной с 97 миллионами жителей."
+      },
+      {
+        "de": "Das berühmte 'Napalm Girl' Foto (1972, Nick Ut) wurde zum Symbol des Kriegs und änderte die öffentliche Meinung.",
+        "ru": "Знаменитое фото «Девочка с напалмом» (1972, Ник Ут) стало символом войны и изменило общественное мнение."
+      },
+      {
+        "de": "Jane Fonda besuchte Nord-Vietnam 1972 – und wurde für Jahrzehnte als 'Hanoi Jane' beschimpft.",
+        "ru": "Джейн Фонда посетила Северный Вьетнам в 1972 году — и десятилетиями называлась «Ханойской Джейн»."
+      }
+    ]
+  },
+  {
+    "id": 9075,
+    "question_de": "Was war die Globalisierung und ihre Kritik am Ende des 20. Jahrhunderts?",
+    "question_ru": "Что такое глобализация и её критика в конце XX века?",
+    "correct_answer_de": "Globalisierung: weltweite wirtschaftliche Verflechtung ab 1990 durch Internet, WTO, Freihandel – mit Protest in Seattle 1999",
+    "correct_answer_ru": "Глобализация: мировое экономическое взаимопереплетение с 1990-х через интернет, ВТО, свободную торговлю — с протестами в Сиэтле 1999 года",
+    "wrong_answers_de": ["Globalisierung begann mit dem Bretton-Woods-Abkommen 1944 und vollendete sich bis 1970", "Die Globalisierungskritiker fanden sich in der WTO zusammen, um Handelsregelungen zu kritisieren", "Globalisierung bezeichnete vor 1990 hauptsächlich die militärische Allianzbildung der Supermächte"],
+    "wrong_answers_ru": ["Глобализация началась с Бреттон-Вудского соглашения 1944 года и завершилась к 1970-му", "Критики глобализации собрались в ВТО, чтобы критиковать торговые правила", "До 1990 года глобализация обозначала главным образом военное создание альянсов сверхдержав"],
+    "explanation_de": "Nach 1990: WTO (1995), NAFTA, EU-Binnenmarkt. Welthandel explodierte. Chinas Aufstieg. Internetwirtschaft. Anti-Globalisierungsbewegung: WTO-Protest Seattle 1999 ('Battle in Seattle'). Attac gegründet. Kritik: Ausbeutung, Umweltzerstörung, kulturelle Homogenisierung. Finanzkrise 2008 erschütterte Globalisierungsoptimismus.",
+    "explanation_ru": "После 1990 года: ВТО (1995), НАФТА, единый рынок ЕС. Мировая торговля взорвалась. Подъём Китая. Интернет-экономика. Антиглобализационное движение: протест против ВТО в Сиэтле 1999 («Битва в Сиэтле»). Основан Attac. Критика: эксплуатация, уничтожение окружающей среды, культурная гомогенизация. Финансовый кризис 2008 года поколебал оптимизм по поводу глобализации.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1999 CE",
+    "tags": ["Wirtschaft", "Politik", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Die Protestbewegung in Seattle 1999 brachte 50.000 Demonstranten auf die Straße – und kollabierte die WTO-Ministerkonferenz.",
+        "ru": "Протестное движение в Сиэтле 1999 года вывело на улицы 50 000 демонстрантов — и обрушило министерскую конференцию ВТО."
+      },
+      {
+        "de": "Thomas Friedman schrieb 2005 'The World is Flat' – Hymne auf die Globalisierung, kurz vor der Krise von 2008.",
+        "ru": "Томас Фридман в 2005 году написал «Мир плоский» — гимн глобализации, незадолго до кризиса 2008 года."
+      },
+      {
+        "de": "McDonald's ist in 120 Ländern – aber das BigMac-Index misst tatsächlich Kaufkraftunterschiede weltweit.",
+        "ru": "McDonald's есть в 120 странах — а «индекс Биг Мака» реально измеряет различия покупательной способности в мире."
+      }
+    ]
+  }
+]

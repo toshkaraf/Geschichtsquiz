@@ -1,0 +1,727 @@
+[
+  {
+    "id": 9251,
+    "question_de": "Was war die Bedeutung des Atombombenabwurfs auf Hiroshima und Nagasaki für das Ende des Zweiten Weltkrieges?",
+    "question_ru": "Каково было значение атомных бомбардировок Хиросимы и Нагасаки для окончания Второй мировой войны?",
+    "correct_answer_de": "Die erste militärische Nutzung von Atomwaffen führte zur japanischen Kapitulation und begründete das nukleare Zeitalter mit seiner Abschreckungsdoktrin",
+    "correct_answer_ru": "Первое боевое применение ядерного оружия привело к капитуляции Японии и ознаменовало ядерный век с его доктриной сдерживания",
+    "wrong_answers_de": [
+      "Japan kapitulierte ausschließlich wegen der sowjetischen Kriegserklärung, nicht wegen der Bomben",
+      "Die USA ließen nur eine Bombe fallen und verzichteten auf Nagasaki",
+      "Die Bomben trafen ausschließlich Militärbasen und verursachten keine zivilen Opfer"
+    ],
+    "wrong_answers_ru": [
+      "Япония капитулировала исключительно из-за объявления войны Советским Союзом, а не из-за бомб",
+      "США сбросили только одну бомбу и отказались от Нагасаки",
+      "Бомбы поразили исключительно военные базы и не вызвали жертв среди мирного населения"
+    ],
+    "explanation_de": "6. August 1945: 'Little Boy' auf Hiroshima (70.000 sofort tot). 9. August: 'Fat Man' auf Nagasaki (40.000 sofort). Tausende starben später an Strahlung. Japan kapitulierte 15. August.",
+    "explanation_ru": "6 августа 1945 года: «Малыш» на Хиросиму (70 000 погибших сразу). 9 августа: «Толстяк» на Нагасаки (40 000 сразу). Тысячи погибли позднее от радиации. Япония капитулировала 15 августа.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["Hiroshima", "Atombombe", "Japan", "Zweiter Weltkrieg", "Nuklear"],
+    "interesting_facts": [
+      {"de": "Präsident Truman rechtfertigte die Bomben als Mittel, eine Invasion Japans mit Millionen Opfern zu vermeiden.", "ru": "Президент Трумэн оправдывал бомбы как средство избежать вторжения в Японию с миллионами жертв."},
+      {"de": "Die Überlebenden heißen 'Hibakusha' und wurden in Japan jahrelang diskriminiert.", "ru": "Выжившие называются «хибакуся» и годами подвергались дискриминации в Японии."},
+      {"de": "Bis heute ist umstritten, ob die Bomben moralisch gerechtfertigt waren.", "ru": "До сих пор спорно, были ли бомбы морально оправданы."}
+    ]
+  },
+  {
+    "id": 9252,
+    "question_de": "Was war die Bedeutung des Zweiten Vatikanischen Konzils (1962–65) für die Weltkirche?",
+    "question_ru": "Каково было значение Второго Ватиканского собора (1962–65) для вселенской церкви?",
+    "correct_answer_de": "Das Konzil modernisierte die katholische Kirche: Messe auf Landessprache, Dialog mit anderen Religionen und Betonung der Laienmitverantwortung",
+    "correct_answer_ru": "Собор модернизировал католическую церковь: месса на народных языках, диалог с другими религиями и акцент на ответственности мирян",
+    "wrong_answers_de": [
+      "Das Zweite Vatikanum schaffte das Papsttum als Institution ab",
+      "Das Konzil beschloss den Beitritt der Kirche zur UNO",
+      "Papst Pius XII. leitete das Konzil persönlich bis zu seinem Abschluss"
+    ],
+    "wrong_answers_ru": [
+      "Второй Ватикан упразднил папство как институт",
+      "Собор принял решение о вступлении церкви в ООН",
+      "Папа Пий XII лично руководил собором вплоть до его завершения"
+    ],
+    "explanation_de": "Johannes XXIII. eröffnete das Konzil 1962. Dokumente: Lumen Gentium (Kirche), Nostra Aetate (Verhältnis zum Judentum), Gaudium et Spes (Kirche in der Welt). Aggiornamento = Erneuerung.",
+    "explanation_ru": "Иоанн XXIII открыл собор в 1962 году. Документы: Lumen Gentium (церковь), Nostra Aetate (отношения с иудаизмом), Gaudium et Spes (церковь в мире). Aggiornamento = обновление.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1965 CE",
+    "tags": ["Vatikanisches Konzil", "Kirche", "Modernisierung", "Johannes XXIII", "Religion"],
+    "interesting_facts": [
+      {"de": "Nostra Aetate widerrief den jahrhundertalten Vorwurf der Kollektivschuld der Juden am Tod Jesu.", "ru": "Nostra Aetate отозвала вековое обвинение в коллективной вине евреев в смерти Иисуса."},
+      {"de": "Die Traditionsverhafteten ('Traditionalisten') wie Erzbischof Lefebvre lehnten das Konzil ab.", "ru": "Привязанные к традиции («традиционалисты»), такие как архиепископ Лефевр, отвергли собор."},
+      {"de": "Das Konzil machte die Volkssprache in der Messe offiziell möglich – Latein wurde fakultativ.", "ru": "Собор официально допустил народные языки в богослужении — латынь стала факультативной."}
+    ]
+  },
+  {
+    "id": 9253,
+    "question_de": "Was war die Bedeutung des Lend-Lease-Programms der USA im Zweiten Weltkrieg?",
+    "question_ru": "Каково было значение программы ленд-лиза США во Второй мировой войне?",
+    "correct_answer_de": "Das Programm lieferte Großbritannien, der UdSSR und anderen Alliierten Waffen und Güter im Wert von 50 Milliarden Dollar und war entscheidend für den Sieg",
+    "correct_answer_ru": "Программа поставила Великобритании, СССР и другим союзникам вооружение и товары на сумму 50 миллиардов долларов и сыграла решающую роль в победе",
+    "wrong_answers_de": [
+      "Lend-Lease war ein Kreditprogramm, das alle Empfänger vollständig zurückzahlen mussten",
+      "Das Programm belieferte ausschließlich Großbritannien und schloss die Sowjetunion aus",
+      "Lend-Lease wurde erst nach dem japanischen Angriff auf Pearl Harbor eingeführt"
+    ],
+    "wrong_answers_ru": [
+      "Ленд-лиз был кредитной программой, которую все получатели должны были полностью вернуть",
+      "Программа снабжала исключительно Великобританию и исключала СССР",
+      "Ленд-лиз был введён только после японского нападения на Пёрл-Харбор"
+    ],
+    "explanation_de": "März 1941 – ab vor Pearl Harbor. 50 Mrd. Dollar Güter: Flugzeuge, Panzer, Nahrung. UdSSR erhielt 11 Mrd. Dollar. Entscheidend für britisches Überleben und Sowjets im Ostkrieg.",
+    "explanation_ru": "Март 1941 — до Пёрл-Харбора. Товары на 50 млрд долларов: самолёты, танки, продовольствие. СССР получил 11 млрд долларов. Решающее значение для выживания Великобритании и советских войск на Востоке.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1941 CE",
+    "tags": ["Lend-Lease", "USA", "Zweiter Weltkrieg", "Sowjetunion", "Großbritannien"],
+    "interesting_facts": [
+      {"de": "Die UdSSR zahlte den Lend-Lease-Kredit erst 2006 vollständig zurück.", "ru": "СССР полностью погасил кредит по ленд-лизу лишь в 2006 году."},
+      {"de": "Churchill nannte Lend-Lease 'das uneigennützigste Handeln in der Geschichte'.", "ru": "Черчилль назвал ленд-лиз «самым бескорыстным деянием в истории»."},
+      {"de": "Auch Nahrungsmittel-Konserven ('SPAM') wurden geliefert – bis heute in manchen Ländern populär.", "ru": "Поставлялись также консервированные продукты питания (SPAM) — до сих пор популярные в некоторых странах."}
+    ]
+  },
+  {
+    "id": 9254,
+    "question_de": "Was war die Bedeutung der Decolonization-Bewegung in Asien nach dem Zweiten Weltkrieg?",
+    "question_ru": "Каково было значение движения за деколонизацию в Азии после Второй мировой войны?",
+    "correct_answer_de": "Indochina (Vietnam), Indonesien, Malaysia und andere Länder erkämpften ihre Unabhängigkeit von europäischen Kolonialmächten oft in blutigen Kriegen",
+    "correct_answer_ru": "Индокитай (Вьетнам), Индонезия, Малайзия и другие страны завоёвали независимость от европейских колониальных держав нередко в кровопролитных войнах",
+    "wrong_answers_de": [
+      "Alle asiatischen Länder erhielten friedlich Unabhängigkeit durch UN-Abstimmungen",
+      "Japan behielt nach dem Zweiten Weltkrieg alle seine asiatischen Kolonien",
+      "Nur Indien und Pakistan wurden unabhängig – der Rest Asiens blieb kolonial"
+    ],
+    "wrong_answers_ru": [
+      "Все азиатские страны мирно получили независимость путём голосования в ООН",
+      "Япония после Второй мировой войны сохранила все свои азиатские колонии",
+      "Независимость получили только Индия и Пакистан — остальная Азия оставалась колониальной"
+    ],
+    "explanation_de": "Indonesien erklärte 1945 Unabhängigkeit (Sukarno). Frankreich verlor Vietnam (1954) nach Dienbienphu. England verlor Malaysia. Die USA übernahmen in Vietnam – und verloren auch.",
+    "explanation_ru": "Индонезия провозгласила независимость в 1945 году (Сукарно). Франция потеряла Вьетнам (1954) после Дьенбьенфу. Англия потеряла Малайзию. США заняли место Франции во Вьетнаме — и тоже потерпели поражение.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1950 CE",
+    "tags": ["Dekolonisierung", "Asien", "Vietnam", "Indonesien", "Unabhängigkeit"],
+    "interesting_facts": [
+      {"de": "Die Schlacht von Dien Bien Phu (1954) war die erste Niederlage einer europäischen Armee gegen Kolonisierten.", "ru": "Битва при Дьенбьенфу (1954) стала первым поражением европейской армии от колонизированного народа."},
+      {"de": "Sukarno hielt eine der bekanntesten Reden der Dekolonisierungsgeschichte in Bandung (1955).", "ru": "Сукарно произнёс одну из самых известных речей в истории деколонизации в Бандунге (1955)."},
+      {"de": "Singapur wurde 1965 aus Malaysia ausgestoßen – Lee Kuan Yew weinte auf der Pressekonferenz.", "ru": "Сингапур был исключён из Малайзии в 1965 году — Ли Куан Ю заплакал на пресс-конференции."}
+    ]
+  },
+  {
+    "id": 9255,
+    "question_de": "Was war die Bedeutung der Erfindung der Kernkraft als Energiequelle?",
+    "question_ru": "Каково было значение изобретения ядерной энергии как источника энергии?",
+    "correct_answer_de": "Kernkraftwerke liefern CO₂-freien Strom und decken ca. 10% des Weltstroms, sind aber mit Sicherheitsrisiken und der Frage der Endlagerung behaftet",
+    "correct_answer_ru": "Атомные электростанции производят электричество без CO₂ и обеспечивают около 10% мирового электричества, однако сопряжены с рисками безопасности и проблемой захоронения отходов",
+    "wrong_answers_de": [
+      "Kernkraft wurde ausschließlich für militärische Zwecke entwickelt",
+      "Kernkraftwerke produzieren mehr CO₂ als Kohlekraftwerke",
+      "Die ersten Kernkraftwerke wurden in Deutschland gebaut und 1950 in Betrieb genommen"
+    ],
+    "wrong_answers_ru": [
+      "Ядерная энергетика разрабатывалась исключительно в военных целях",
+      "Атомные электростанции производят больше CO₂, чем угольные",
+      "Первые атомные электростанции были построены в Германии и введены в эксплуатацию в 1950 году"
+    ],
+    "explanation_de": "Erstes kommerzielles Kernkraftwerk: Calder Hall (UK, 1956). Frankreich erzeugt 70% seines Stroms durch Kernkraft. Tschernobyl (1986) und Fukushima (2011) prägten die öffentliche Wahrnehmung.",
+    "explanation_ru": "Первая коммерческая АЭС: Колдер-Холл (Великобритания, 1956). Франция производит 70% электроэнергии за счёт ядерной энергии. Чернобыль (1986) и Фукусима (2011) сформировали общественное восприятие.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1956 CE",
+    "tags": ["Kernkraft", "Energie", "Tschernobyl", "Fukushima", "Elektrizität"],
+    "interesting_facts": [
+      {"de": "Enrico Fermis erster Kernreaktor 'Chicago Pile-1' (1942) war ein Holzstapel unter einer Tribüne.", "ru": "Первый реактор Энрико Ферми «Чикагская поленница-1» (1942) был деревянной кладкой под трибуной."},
+      {"de": "Deutschland beschloss nach Fukushima 2011 den Atomausstieg bis 2023.", "ru": "После Фукусимы в 2011 году Германия приняла решение об отказе от ядерной энергии к 2023 году."},
+      {"de": "Die Frage der Endlagerung nuklearen Abfalls ist nach 70 Jahren noch immer ungelöst.", "ru": "Вопрос о захоронении ядерных отходов не решён и по прошествии 70 лет."}
+    ]
+  },
+  {
+    "id": 9256,
+    "question_de": "Was war die Bedeutung des Marshallplans für Westeuropa?",
+    "question_ru": "Каково было значение плана Маршалла для Западной Европы?",
+    "correct_answer_de": "Der US-Wiederaufbauplan (13 Mrd. Dollar) ermöglichte den wirtschaftlichen Aufschwung Westeuropas und band die Länder an die westliche Demokratie und den freien Markt",
+    "correct_answer_ru": "Американский план восстановления (13 млрд долларов) обеспечил экономический подъём Западной Европы и привязал страны к западной демократии и свободному рынку",
+    "wrong_answers_de": [
+      "Der Marshallplan wurde ausschließlich für Deutschland eingeführt",
+      "Der Plan verlangte, dass alle Empfänger kommunistische Parteien verbieten",
+      "Die Sowjetunion nahm am Marshallplan teil und profitierte davon"
+    ],
+    "wrong_answers_ru": [
+      "План Маршалла был введён исключительно для Германии",
+      "План требовал, чтобы все получатели запретили коммунистические партии",
+      "Советский Союз участвовал в плане Маршалла и извлекал из него пользу"
+    ],
+    "explanation_de": "1947 bot Außenminister Marshall Hilfe an. 16 europäische Länder nahmen an. UdSSR lehnte ab und zwang Osteuropa zur Ablehnung. BIP Westeuropas verdoppelte sich bis 1955.",
+    "explanation_ru": "В 1947 году государственный секретарь Маршалл предложил помощь. 16 европейских стран приняли участие. СССР отказался и вынудил Восточную Европу сделать то же самое. ВВП Западной Европы к 1955 году удвоился.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1948 CE",
+    "tags": ["Marshallplan", "USA", "Westeuropa", "Wiederaufbau", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "George Marshall erhielt 1953 den Friedensnobelpreis für den Plan.", "ru": "Джордж Маршалл получил Нобелевскую премию мира в 1953 году за этот план."},
+      {"de": "Der Plan war auch ein Mittel, kommunistischen Parteien in Westeuropa die Basis zu entziehen.", "ru": "План был также средством лишить коммунистические партии Западной Европы опоры."},
+      {"de": "Die BRD erhielt 1,4 Milliarden Dollar und war einer der größten Nutznießer.", "ru": "ФРГ получила 1,4 миллиарда долларов и была одним из крупнейших бенефициаров."}
+    ]
+  },
+  {
+    "id": 9257,
+    "question_de": "Was war die historische Bedeutung der Genfer Konferenzen 1954 für Indochina?",
+    "question_ru": "Каково было историческое значение Женевских конференций 1954 года для Индокитая?",
+    "correct_answer_de": "Die Konferenz beendete den Französisch-Indochina-Krieg, teilte Vietnam am 17. Breitengrad und legte den Grundstein für den späteren Vietnamkrieg",
+    "correct_answer_ru": "Конференция завершила Первую Индокитайскую войну, разделила Вьетнам по 17-й параллели и заложила основу для последующей войны во Вьетнаме",
+    "wrong_answers_de": [
+      "Die Konferenz vereinte Vietnam dauerhaft unter kommunistischer Führung",
+      "Die USA unterzeichneten als Vermittler die Genfer Abkommen 1954",
+      "Die Teilung Vietnams an der 17. Breite war dauerhaft gedacht und kein Waffenstillstand"
+    ],
+    "wrong_answers_ru": [
+      "Конференция навсегда объединила Вьетнам под коммунистическим руководством",
+      "США подписали Женевские соглашения 1954 года в качестве посредников",
+      "Раздел Вьетнама по 17-й параллели задумывался как постоянный, а не как перемирие"
+    ],
+    "explanation_de": "Nach Dien Bien Phu (1954) unterzeichneten Frankreich, Ho-Chi-Minh, Kambodscha, Laos und China Abkommen. Wahlen zur Wiedervereinigung 1956 sollten stattfinden – sie fanden nie statt.",
+    "explanation_ru": "После Дьенбьенфу (1954) Франция, Хо Ши Мин, Камбоджа, Лаос и Китай подписали соглашения. Выборы по воссоединению должны были состояться в 1956 году — они так и не прошли.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1954 CE",
+    "tags": ["Genf 1954", "Vietnam", "Indochina", "Teilung", "Frankreich"],
+    "interesting_facts": [
+      {"de": "Die USA verweigerten die Unterzeichnung, da sie eine kommunistische Übernahme Vietnams befürchteten.", "ru": "США отказались от подписания, опасаясь коммунистического захвата Вьетнама."},
+      {"de": "Ho Chi Minh lehnte die Teilung innerlich ab – er war überzeugt, die Wahl zu gewinnen.", "ru": "Хо Ши Мин внутренне отвергал раздел — он был убеждён, что выиграет выборы."},
+      {"de": "Laos und Kambodscha sollten neutral bleiben – beide wurden in den späteren Krieg hineingezogen.", "ru": "Лаос и Камбоджа должны были оставаться нейтральными — оба были втянуты в последующую войну."}
+    ]
+  },
+  {
+    "id": 9258,
+    "question_de": "Was war die Bedeutung von Mahatma Gandhis Unabhängigkeitsbewegung für die Welt?",
+    "question_ru": "Каково было значение движения за независимость Махатмы Ганди для мира?",
+    "correct_answer_de": "Gandhis gewaltloser Widerstand (Satyagraha) inspirierte Unabhängigkeitsbewegungen weltweit und wurde zum Vorbild für Martin Luther King und Nelson Mandela",
+    "correct_answer_ru": "Ненасильственное сопротивление Ганди (Сатьяграха) вдохновило движения за независимость по всему миру и стало образцом для Мартина Лютера Кинга и Нельсона Манделы",
+    "wrong_answers_de": [
+      "Gandhi befürwortete bewaffneten Widerstand gegen die britische Kolonialherrschaft",
+      "Gandhi scheiterte und Indien erlangte Unabhängigkeit nur durch militärische Mittel",
+      "Gandhis Bewegung war ausschließlich religiös motiviert ohne politische Dimension"
+    ],
+    "wrong_answers_ru": [
+      "Ганди поддерживал вооружённое сопротивление британскому колониальному господству",
+      "Ганди потерпел неудачу, и Индия обрела независимость только военными средствами",
+      "Движение Ганди было исключительно религиозно мотивированным без политического измерения"
+    ],
+    "explanation_de": "Salzmarscht (1930), Quit India (1942), Hungerstreiks. Methoden: ziviler Ungehorsam, Boykott britischer Waren. Gandhis Ermordung (1948) erschütterte die Welt.",
+    "explanation_ru": "Соляной марш (1930), «Прочь из Индии» (1942), голодовки. Методы: гражданское неповиновение, бойкот британских товаров. Убийство Ганди (1948) потрясло мир.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1930 CE",
+    "tags": ["Gandhi", "Indien", "Gewaltlosigkeit", "Satyagraha", "Unabhängigkeit"],
+    "interesting_facts": [
+      {"de": "Gandhi wurde nie mit dem Friedensnobelpreis ausgezeichnet – ein bis heute diskutiertes Versäumnis.", "ru": "Ганди так и не был удостоен Нобелевской премии мира — упущение, обсуждаемое до сих пор."},
+      {"de": "Der 30. Januar (Gandhis Todestag) ist in Indien nationaler Trauertag.", "ru": "30 января (день смерти Ганди) является национальным днём траура в Индии."},
+      {"de": "Gandhis Weberrock und Sandalen wurden zum Symbol der Ablehnung britischer Industriewaren.", "ru": "Ткацкая одежда и сандалии Ганди стали символом отказа от британских промышленных товаров."}
+    ]
+  },
+  {
+    "id": 9259,
+    "question_de": "Was war die Bedeutung der Einführung des Internets für die Wissenschaft und Forschung?",
+    "question_ru": "Каково было значение введения интернета для науки и исследований?",
+    "correct_answer_de": "Das Internet ermöglichte weltweite Zusammenarbeit von Wissenschaftlern, offenen Zugang zu Forschungsergebnissen und die Beschleunigung des wissenschaftlichen Fortschritts",
+    "correct_answer_ru": "Интернет обеспечил всемирное сотрудничество учёных, открытый доступ к результатам исследований и ускорение научного прогресса",
+    "wrong_answers_de": [
+      "Das Internet wurde ausschließlich für militärische Forschung genutzt und ist für Zivilwissenschaften gesperrt",
+      "Wissenschaftliche Artikel können im Internet nicht veröffentlicht werden",
+      "Das Internet verlangsamte die Wissenschaft durch zu viele Informationen"
+    ],
+    "wrong_answers_ru": [
+      "Интернет использовался исключительно для военных исследований и закрыт для гражданской науки",
+      "Научные статьи не могут публиковаться в интернете",
+      "Интернет замедлил науку из-за слишком большого количества информации"
+    ],
+    "explanation_de": "ARPANET (1969) → Internet (1983) → WWW (1991, CERN). Wissenschaftliche Preprints (arXiv), Open Access, internationale Kollaborationen wie CERN/LHC wurden möglich.",
+    "explanation_ru": "ARPANET (1969) → Интернет (1983) → Всемирная паутина (1991, ЦЕРН). Стали возможными научные препринты (arXiv), открытый доступ, международные коллаборации, такие как ЦЕРН/БАК.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1991 CE",
+    "tags": ["Internet", "Wissenschaft", "CERN", "Forschung", "Kollaboration"],
+    "interesting_facts": [
+      {"de": "Tim Berners-Lee erfand das WWW am CERN, um Teilchenphysiker-Daten auszutauschen.", "ru": "Тим Бернерс-Ли изобрёл Всемирную паутину в ЦЕРН для обмена данными физиков-ядерщиков."},
+      {"de": "arXiv.org (1991) ermöglicht Physikern, Papiere vor dem Peer Review zu teilen.", "ru": "arXiv.org (1991) позволяет физикам делиться статьями до рецензирования."},
+      {"de": "COVID-19-Impfstoffe wurden dank globaler Datenteile über das Internet in Rekordzeit entwickelt.", "ru": "Вакцины от COVID-19 были разработаны в рекордные сроки благодаря глобальному обмену данными через интернет."}
+    ]
+  },
+  {
+    "id": 9260,
+    "question_de": "Was war die Bedeutung des Widerstands gegen den Nationalsozialismus in Deutschland?",
+    "question_ru": "Каково было значение сопротивления национал-социализму в Германии?",
+    "correct_answer_de": "Der deutsche Widerstand (Stauffenberg-Attentat, Weiße Rose, kirchlicher Widerstand) zeigte, dass moralischer Mut unter Gefahr seines Lebens möglich war",
+    "correct_answer_ru": "Немецкое сопротивление (покушение Штауффенберга, «Белая роза», церковное сопротивление) показало, что нравственное мужество возможно с риском для жизни",
+    "wrong_answers_de": [
+      "Es gab keinen deutschen Widerstand gegen Hitler – alle Deutschen unterstützten das Regime",
+      "Das Stauffenberg-Attentat wurde von den Alliierten von außen koordiniert",
+      "Die Weiße Rose war eine kommunistische Gruppe, die von Stalin finanziert wurde"
+    ],
+    "wrong_answers_ru": [
+      "Немецкого сопротивления Гитлеру не существовало — все немцы поддерживали режим",
+      "Покушение Штауффенберга было скоординировано союзниками извне",
+      "«Белая роза» была коммунистической группой, финanzированной Сталиным"
+    ],
+    "explanation_de": "20. Juli 1944: Stauffenbergs Bombe verfehlte Hitler. Sophie und Hans Scholl (Weiße Rose) wurden 1943 hingerichtet. Dietrich Bonhoeffer starb im KZ. Über 700 Widerstandskämpfer wurden nach dem Attentat ermordet.",
+    "explanation_ru": "20 июля 1944 года: бомба Штауффенберга не убила Гитлера. Софи и Ханс Шолль («Белая роза») были казнены в 1943 году. Дитрих Бонхёффер погиб в концлагере. После покушения было убито более 700 участников сопротивления.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1944 CE",
+    "tags": ["Widerstand", "Stauffenberg", "Weiße Rose", "Nationalsozialismus", "Deutschland"],
+    "interesting_facts": [
+      {"de": "Stauffenberg war ein konservativer Offizier, kein Demokrat – er wollte Deutschland retten, nicht die Demokratie.", "ru": "Штауффенберг был консервативным офицером, а не демократом — он хотел спасти Германию, а не демократию."},
+      {"de": "Sophie Scholl war 21 Jahre alt bei ihrer Hinrichtung.", "ru": "Софи Шолль была казнена в 21 год."},
+      {"de": "Dietrich Bonhoeffers Theologie des 'Widerstands aus Glauben' wirkt bis heute nach.", "ru": "Теология «сопротивления из веры» Дитриха Бонхёффера оказывает влияние по сей день."}
+    ]
+  },
+  {
+    "id": 9261,
+    "question_de": "Was war die Bedeutung der Nanotechnologie als wissenschaftlicher Durchbruch?",
+    "question_ru": "Каково было значение нанотехнологий как научного прорыва?",
+    "correct_answer_de": "Nanotechnologie ermöglicht die Manipulation von Materie auf atomarer Ebene und revolutioniert Medizin, Elektronik und Materialwissenschaft",
+    "correct_answer_ru": "Нанотехнологии позволяют манипулировать материей на атомном уровне и революционизируют медицину, электронику и материаловедение",
+    "wrong_answers_de": [
+      "Nanotechnologie ist ausschließlich in Militärforschung eingesetzt und noch nicht zivil nutzbar",
+      "Nanotechnologie ist ein überwundenes Konzept, das durch Biotechnologie ersetzt wurde",
+      "Nanotechnologie wurde von einem einzigen Wissenschaftler in den 1950ern vollständig entwickelt"
+    ],
+    "wrong_answers_ru": [
+      "Нанотехнологии применяются исключительно в военных исследованиях и пока недоступны в гражданском использовании",
+      "Нанотехнологии — преодолённая концепция, замещённая биотехнологиями",
+      "Нанотехнологии были полностью разработаны одним учёным в 1950-х годах"
+    ],
+    "explanation_de": "Richard Feynman vision 'There's Plenty of Room at the Bottom' (1959). Rastertunnelmikroskop (1981) macht Atome sichtbar. IBM schrieb 1989 'IBM' mit 35 Xenonatomen. Nanomedizin, Solarzellen, Transistoren profitieren.",
+    "explanation_ru": "Видение Ричарда Фейнмана «There's Plenty of Room at the Bottom» (1959). Сканирующий туннельный микроскоп (1981) делает атомы видимыми. В 1989 году IBM написал «IBM» 35 атомами ксенона. Нанмедицина, солнечные батареи, транзисторы извлекают пользу.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1981 CE",
+    "tags": ["Nanotechnologie", "Wissenschaft", "Feynman", "Technologie", "Medizin"],
+    "interesting_facts": [
+      {"de": "Nanopartikel in Sonnencreme (Titandioxid, Zinkoxid) schützen Haut ohne weißen Film.", "ru": "Наночастицы в солнцезащитных кремах (диоксид титана, оксид цинка) защищают кожу без белой плёнки."},
+      {"de": "Kohlenstoff-Nanoröhren sind 100-mal stärker als Stahl bei einem Sechstel des Gewichts.", "ru": "Углеродные нанотрубки в 100 раз прочнее стали при шестой части его веса."},
+      {"de": "mRNA-Nanopartikel transportieren den COVID-Impfstoff in menschliche Zellen.", "ru": "Наночастицы мРНК доставляют вакцину от COVID в клетки человека."}
+    ]
+  },
+  {
+    "id": 9262,
+    "question_de": "Was war die Bedeutung der Großen Depression (1929–33) für die Weltpolitik?",
+    "question_ru": "Каково было значение Великой депрессии (1929–33) для мировой политики?",
+    "correct_answer_de": "Der Börsencrash von 1929 führte zur Weltwirtschaftskrise, dem Aufstieg des Faschismus in Europa und einer fundamentalen Neubewertung des Laissez-faire-Kapitalismus",
+    "correct_answer_ru": "Биржевой крах 1929 года привел к мировому экономическому кризису, подъёму фашизма в Европе и фундаментальной переоценке капитализма laissez-faire",
+    "wrong_answers_de": [
+      "Die Große Depression war ausschließlich ein amerikanisches Phänomen ohne globale Auswirkungen",
+      "Die Depression wurde durch eine sofortige internationale Koordination überwunden",
+      "Die USA und Europa profitierten wirtschaftlich von der Depression durch niedrige Löhne"
+    ],
+    "wrong_answers_ru": [
+      "Великая депрессия была исключительно американским явлением без глобальных последствий",
+      "Депрессия была преодолена немедленной международной координацией",
+      "США и Европа экономически выиграли от депрессии благодаря низким зарплатам"
+    ],
+    "explanation_de": "Black Thursday (24. Oktober 1929): Dow Jones fiel 25%. Deflation, Bankpleiten, 25% US-Arbeitslosigkeit. Smoot-Hawley-Zölle verschlimmerten globalen Handel. Roosevelts New Deal (1933) als Antwort.",
+    "explanation_ru": "«Чёрный четверг» (24 октября 1929): индекс Dow Jones упал на 25%. Дефляция, банковские крахи, 25% безработицы в США. Тарифы Смута–Хоули ухудшили мировую торговлю. «Новый курс» Рузвельта (1933) как ответ.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1929 CE",
+    "tags": ["Große Depression", "Börsencrash", "Faschismus", "New Deal", "Wirtschaft"],
+    "interesting_facts": [
+      {"de": "In Deutschland stieg die Arbeitslosigkeit auf 30% – ein Hauptgrund für Hitlers Aufstieg.", "ru": "В Германии безработица достигла 30% — одна из главных причин подъёма Гитлера."},
+      {"de": "John Maynard Keynes entwickelte die Theorie staatlicher Konjunkturprogramme als Reaktion auf die Depression.", "ru": "Джон Мейнард Кейнс разработал теорию государственных антикризисных программ как ответ на депрессию."},
+      {"de": "Die Staubschüssel (Dust Bowl) in den USA trieb 3 Millionen Farmer nach Westen – Steinbecks 'Früchte des Zorns'.", "ru": "«Пыльный котёл» в США вынудил 3 миллиона фермеров двинуться на запад — «Гроздья гнева» Стейнбека."}
+    ]
+  },
+  {
+    "id": 9263,
+    "question_de": "Was war die Bedeutung des Ersteinsatzes von GPS für Gesellschaft und Wirtschaft?",
+    "question_ru": "Каково было значение первого применения GPS для общества и экономики?",
+    "correct_answer_de": "GPS revolutionierte Navigation, Logistik, Militär und den Alltag und wurde zur unsichtbaren Infrastruktur der modernen Wirtschaft",
+    "correct_answer_ru": "GPS революционизировал навигацию, логистику, военное дело и повседневную жизнь и стал невидимой инфраструктурой современной экономики",
+    "wrong_answers_de": [
+      "GPS wurde ausschließlich für militärische Zwecke entwickelt und ist heute nur Geheimdiensten zugänglich",
+      "GPS ersetzte ausschließlich den Kompass und hat keine weiteren Anwendungen",
+      "GPS wurde von der EU in den 1980ern für zivile Anwendungen entwickelt"
+    ],
+    "wrong_answers_ru": [
+      "GPS разрабатывался исключительно в военных целях и сегодня доступен только спецслужбам",
+      "GPS заменил исключительно компас и не имеет других применений",
+      "GPS был разработан ЕС в 1980-х годах для гражданских применений"
+    ],
+    "explanation_de": "US-Militär entwickelte GPS (1970s). Civilian use ab 1983 nach sowjetischem Abschuss von KAL 007 auf Betreiben Reagans. Google Maps (2005), Uber, Amazon Logistics basieren auf GPS.",
+    "explanation_ru": "Американские военные разработали GPS (1970-е). Гражданское использование с 1983 года после советского уничтожения KAL 007 по инициативе Рейгана. Google Maps (2005), Uber, Amazon Logistics основаны на GPS.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1983 CE",
+    "tags": ["GPS", "Navigation", "Militär", "Technologie", "Logistik"],
+    "interesting_facts": [
+      {"de": "GPS benötigt mindestens 4 Satelliten für eine genaue Position – heute sind 31 aktiv.", "ru": "GPS требует минимум 4 спутника для точного определения позиции — сегодня активны 31."},
+      {"de": "Russland (GLONASS), China (BeiDou) und EU (Galileo) haben eigene Navigationssysteme.", "ru": "Россия (ГЛОНАСС), Китай (Бэйдоу) и ЕС (Галилео) имеют собственные навигационные системы."},
+      {"de": "GPS-gesteuerte Präzisionslandwirtschaft kann Düngemitteleinsatz um 30% reduzieren.", "ru": "Точное земледелие с GPS-управлением может сократить применение удобрений на 30%."}
+    ]
+  },
+  {
+    "id": 9264,
+    "question_de": "Was war die Bedeutung der Nürnberger Rassengesetze (1935) für die jüdische Bevölkerung?",
+    "question_ru": "Каково было значение Нюрнбергских расовых законов (1935) для еврейского населения?",
+    "correct_answer_de": "Die Gesetze entzogen deutschen Juden die Staatsbürgerschaft, verboten Ehen zwischen Juden und Nichtjuden und schufen die rechtliche Grundlage für systematische Verfolgung",
+    "correct_answer_ru": "Законы лишили немецких евреев гражданства, запретили браки между евреями и неевреями и создали правовую основу для систематических преследований",
+    "wrong_answers_de": [
+      "Die Rassengesetze betrafen nur jüdische Einwanderer, nicht in Deutschland geborene Juden",
+      "Die Gesetze wurden von der Mehrheit der Deutschen abgelehnt und geheim gehalten",
+      "Die Nürnberger Gesetze wurden nach internationalen Protesten 1936 zurückgezogen"
+    ],
+    "wrong_answers_ru": [
+      "Расовые законы касались только евреев-иммигрантов, но не евреев, родившихся в Германии",
+      "Законы были отвергнуты большинством немцев и держались в тайне",
+      "Нюрнбергские законы были отозваны в 1936 году после международных протестов"
+    ],
+    "explanation_de": "September 1935: Reichsbürgergesetz und Gesetz zum Schutz des deutschen Blutes. 'Rasse' bestimmte Rechtsstatus. Jüdische Ärzte, Anwälte und Beamte verloren ihre Stellen.",
+    "explanation_ru": "Сентябрь 1935 года: Закон о гражданстве Рейха и Закон об охране немецкой крови. «Раса» определяла правовой статус. Еврейские врачи, юристы и чиновники лишились мест.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1935 CE",
+    "tags": ["Rassengesetze", "Nürnberg", "Juden", "Nationalsozialismus", "Holocaust"],
+    "interesting_facts": [
+      {"de": "Kristallnacht (9. November 1938) war der erste großangelegte pogrom – 30.000 Juden verhaftet.", "ru": "«Хрустальная ночь» (9 ноября 1938 года) была первым масштабным погромом — арестовано 30 000 евреев."},
+      {"de": "Die Gesetze definierten 'Jude' anhand von Großeltern – nicht nach Religion, sondern Abstammung.", "ru": "Законы определяли «еврея» по дедушкам и бабушкам — не по религии, а по происхождению."},
+      {"de": "Hans Frank, Jurist und späterer NS-Gouverneur, formulierte die Gesetze in einer Nacht.", "ru": "Ганс Франк, юрист и будущий нацистский генерал-губернатор, сформулировал законы за одну ночь."}
+    ]
+  },
+  {
+    "id": 9265,
+    "question_de": "Was war die Bedeutung des Aufbaus des Wohlfahrtsstaats in Europa nach 1945?",
+    "question_ru": "Каково было значение построения государства всеобщего благосостояния в Европе после 1945 года?",
+    "correct_answer_de": "Der Wohlfahrtsstaat schuf universelle Gesundheitsversorgung, Rentenversicherung und Bildung als soziale Rechte und reduzierte Armut und Ungleichheit",
+    "correct_answer_ru": "Государство всеобщего благосостояния создало универсальное здравоохранение, пенсионное страхование и образование как социальные права и сократило бедность и неравенство",
+    "wrong_answers_de": [
+      "Der Wohlfahrtsstaat wurde ausschließlich in sozialistischen Ländern eingeführt",
+      "Der Wohlfahrtsstaat ist ein US-amerikanisches Konzept, das nach Europa exportiert wurde",
+      "Der Wohlfahrtsstaat entstand erst in den 1980ern unter Thatcher und Reagan"
+    ],
+    "wrong_answers_ru": [
+      "Государство всеобщего благосостояния было введено исключительно в социалистических странах",
+      "Государство всеобщего благосостояния — американская концепция, экспортированная в Европу",
+      "Государство всеобщего благосостояния возникло лишь в 1980-х годах при Тэтчер и Рейгане"
+    ],
+    "explanation_de": "Britischer Beveridge-Report (1942) plante Welfare State. NHS (1948), staatliche Renten, Wohnungsbau. Schweden als Vorbild. 'Wirtschaftswunder'-Jahre bauten ihn aus.",
+    "explanation_ru": "Британский доклад Бевериджа (1942) запланировал государство всеобщего благосостояния. Национальная служба здравоохранения (1948), государственные пенсии, жилищное строительство. Швеция как образец. «Годы экономического чуда» развивали его.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1948 CE",
+    "tags": ["Wohlfahrtsstaat", "NHS", "Sozialstaat", "Europa", "Soziale Rechte"],
+    "interesting_facts": [
+      {"de": "Der britische National Health Service (NHS) behandelt täglich 1,3 Millionen Patienten kostenlos.", "ru": "Британская национальная служба здравоохранения (NHS) ежедневно бесплатно лечит 1,3 миллиона пациентов."},
+      {"de": "Schweden hat das umfassendste Wohlfahrtssystem der Welt und gleichzeitig hohe Steuern.", "ru": "Швеция имеет наиболее всеобъемлющую систему социального обеспечения в мире и одновременно высокие налоги."},
+      {"de": "Der Gini-Koeffizient (Ungleichheit) ist in Ländern mit starkem Wohlfahrtsstaat am niedrigsten.", "ru": "Коэффициент Джини (неравенство) наиболее низок в странах с развитым государством всеобщего благосостояния."}
+    ]
+  },
+  {
+    "id": 9266,
+    "question_de": "Was war die Bedeutung des Scheiterns der Doha-Runde in der Welthandelspolitik?",
+    "question_ru": "Каково было значение провала Дохийского раунда в мировой торговой политике?",
+    "correct_answer_de": "Das Scheitern der WTO-Verhandlungen (2001–2016) zeigte die Grenzen multilateraler Handelsabkommen und trieb Länder zu bilateralen Vereinbarungen",
+    "correct_answer_ru": "Провал переговоров ВТО (2001–2016) показал пределы многосторонних торговых соглашений и подтолкнул страны к двусторонним договорённостям",
+    "wrong_answers_de": [
+      "Die Doha-Runde endete erfolgreich mit einem umfassenden Handelsabkommen",
+      "Die Doha-Runde wurde nach einem Jahr abgeschlossen",
+      "Nur Entwicklungsländer lehnten die Doha-Runde ab"
+    ],
+    "wrong_answers_ru": [
+      "Дохийский раунд успешно завершился всеобъемлющим торговым соглашением",
+      "Дохийский раунд был завершён через год",
+      "Только развивающиеся страны отвергли Дохийский раунд"
+    ],
+    "explanation_de": "Die Doha Development Round (2001) sollte Agrarsubventionen abbauen und Entwicklungsländer einbeziehen. USA, EU und India/China blockierten sich gegenseitig. 15 Jahre Verhandlungen ohne Ergebnis.",
+    "explanation_ru": "Дохийский раунд развития (2001) должен был сократить сельскохозяйственные субсидии и включить развивающиеся страны. США, ЕС и Индия/Китай блокировали друг друга. 15 лет переговоров без результата.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2001 CE",
+    "tags": ["Doha", "WTO", "Handel", "Globalisierung", "Entwicklungsländer"],
+    "interesting_facts": [
+      {"de": "Das Scheitern von Doha führte zu einem Proliferation von bilateralen Freihandelsabkommen.", "ru": "Провал Дохи привёл к распространению двусторонних соглашений о свободной торговле."},
+      {"de": "Agrarsubventionen der USA und EU (ca. 600 Mrd. Dollar/Jahr) sind der Hauptstreitpunkt.", "ru": "Сельскохозяйственные субсидии США и ЕС (около 600 млрд долларов в год) — главный спорный вопрос."},
+      {"de": "TTIP (EU-USA) und TPP (Pazifik) als bilaterale Alternative wurden ebenfalls nicht ratifiziert.", "ru": "TTIP (ЕС–США) и ТТП (Тихоокеанское) как двусторонние альтернативы также не были ратифицированы."}
+    ]
+  },
+  {
+    "id": 9267,
+    "question_de": "Was war die Bedeutung der Stonewall-Unruhen (1969) für die LGBTQ-Bewegung?",
+    "question_ru": "Каково было значение беспорядков у «Стоунволла» (1969) для ЛГБТК-движения?",
+    "correct_answer_de": "Die Proteste von New Yorker Homosexuellen gegen Polizeigewalt galten als Startschuss der modernen LGBTQ-Rechtsbewegung weltweit",
+    "correct_answer_ru": "Протесты нью-йоркских гомосексуалов против полицейского насилия считаются отправной точкой современного мирового движения за права ЛГБТК",
+    "wrong_answers_de": [
+      "Stonewall war eine staatlich geförderte Demonstration zur Legalisierung der Homosexualität",
+      "Die Unruhen führten sofort zur Legalisierung gleichgeschlechtlicher Ehen in den USA",
+      "Stonewall war ein Protest gegen Kriegsdienst von Homosexuellen in Vietnam"
+    ],
+    "wrong_answers_ru": [
+      "Стоунволл был государственно спонсируемой демонстрацией за легализацию гомосексуальности",
+      "Беспорядки немедленно привели к легализации однополых браков в США",
+      "Стоунволл был протестом против призыва гомосексуалов во Вьетнаме"
+    ],
+    "explanation_de": "Juni 1969: Polizeirazzia im Stonewall Inn (Greenwich Village). Klientel wehrte sich. Der Christopher Street Day (Pride) erinnert daran jährlich. Harvey Milk wurde 1977 erster offen schwuler Stadtrat in San Francisco.",
+    "explanation_ru": "Июнь 1969: полицейский рейд в баре Stonewall Inn (Гринвич-Вилладж). Посетители оказали сопротивление. День Кристофера-стрит (Прайд) ежегодно напоминает об этом. Харви Милк в 1977 году стал первым открытым гомосексуалом в совете Сан-Франциско.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1969 CE",
+    "tags": ["Stonewall", "LGBTQ", "Bürgerrechte", "New York", "Pride"],
+    "interesting_facts": [
+      {"de": "In den USA war homosexuelles Verhalten 1969 in 49 von 50 Bundesstaaten illegal.", "ru": "В США в 1969 году гомосексуальное поведение было незаконным в 49 из 50 штатов."},
+      {"de": "Die WHO strich Homosexualität 1990 aus ihrer Liste psychischer Krankheiten.", "ru": "ВОЗ в 1990 году исключила гомосексуальность из списка психических заболеваний."},
+      {"de": "Der Supreme Court legalisierte gleichgeschlechtliche Ehe in den USA 2015 (Obergefell v. Hodges).", "ru": "Верховный суд США в 2015 году легализовал однополые браки (дело Оберджефелл против Ходжеса)."}
+    ]
+  },
+  {
+    "id": 9268,
+    "question_de": "Was war die Bedeutung des Transatlantischen Sklavenhandels für die wirtschaftliche Entwicklung Europas?",
+    "question_ru": "Каково было значение трансатлантической работорговли для экономического развития Европы?",
+    "correct_answer_de": "Europäische Wirtschaft profitierte von Sklavenarbeit auf Plantagen und dem Dreieckshandel, was Kapital für die Industrialisierung generierte",
+    "correct_answer_ru": "Европейская экономика извлекала выгоду из труда рабов на плантациях и треугольной торговли, что генерировало капитал для индустриализации",
+    "wrong_answers_de": [
+      "Der Sklavenhandel war wirtschaftlich bedeutungslos und schadete der europäischen Wirtschaft",
+      "Nur Portugal und Spanien betrieben Sklavenhandel – Großbritannien und Frankreich waren uninvolviert",
+      "Der Sklavenhandel endete bereits im 17. Jahrhundert, bevor die Industrialisierung begann"
+    ],
+    "wrong_answers_ru": [
+      "Работорговля не имела экономического значения и вредила европейской экономике",
+      "Только Португалия и Испания вели работорговлю — Великобритания и Франция не были вовлечены",
+      "Работорговля прекратилась ещё в XVII веке, до начала индустриализации"
+    ],
+    "explanation_de": "12 Millionen Afrikaner wurden verschleppt. Dreieckshandel: Waren nach Afrika → Sklaven nach Amerika → Zucker/Tabak/Baumwolle nach Europa. Eric Williams' These: Sklavenhandel finanzierte britische Industrialisierung.",
+    "explanation_ru": "12 миллионов африканцев были похищены. Треугольная торговля: товары в Африку → рабы в Америку → сахар/табак/хлопок в Европу. Тезис Эрика Уильямса: работорговля финансировала британскую индустриализацию.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1700 CE",
+    "tags": ["Sklavenhandel", "Kolonialismus", "Industrialisierung", "Afrika", "Dreieckshandel"],
+    "interesting_facts": [
+      {"de": "Liverpool und Bristol wurden durch den Sklavenhandel reich – Stadtarchive belegen dies.", "ru": "Ливерпуль и Бристоль разбогатели на работорговле — это подтверждают городские архивы."},
+      {"de": "Reparationen für den Sklavenhandel sind bis heute ein politisch umstrittenes Thema.", "ru": "Репарации за работорговлю по сей день являются политически спорной темой."},
+      {"de": "Die letzte bekannte Sklavenlieferung nach Kuba erfolgte 1866 – fast 30 Jahre nach dem offiziellen Verbot.", "ru": "Последняя известная партия рабов была доставлена на Кубу в 1866 году — почти через 30 лет после официального запрета."}
+    ]
+  },
+  {
+    "id": 9269,
+    "question_de": "Was war die Bedeutung der Grünen Revolution für die Ernährungssicherheit?",
+    "question_ru": "Каково было значение «зелёной революции» для продовольственной безопасности?",
+    "correct_answer_de": "Neue Hochertragssorten, Dünger und Bewässerung verdreifachten die Ernteerträge in Entwicklungsländern und retteten Millionen vor dem Hungertod",
+    "correct_answer_ru": "Новые высокоурожайные сорта, удобрения и орошение утроили урожаи в развивающихся странах и спасли миллионы от голодной смерти",
+    "wrong_answers_de": [
+      "Die Grüne Revolution bezog sich auf ökologische Landwirtschaft ohne Chemikalien",
+      "Die Revolution erhöhte nur Fleischproduktion, nicht Getreideerträge",
+      "Die Grüne Revolution verbesserte ausschließlich Getreideproduktion in Europa"
+    ],
+    "wrong_answers_ru": [
+      "«Зелёная революция» касалась экологического земледелия без химикатов",
+      "Революция повысила только производство мяса, а не зерна",
+      "«Зелёная революция» улучшила исключительно производство зерна в Европе"
+    ],
+    "explanation_de": "Norman Borlaug entwickelte 1960er Hochertragssorten (Nobelpreis 1970). Indien und Pakistan verdreifachten Weizenernte. Kehrseite: Wasserverbrauch, Pestizide, Biodiversitätsverlust.",
+    "explanation_ru": "В 1960-х годах Норман Борлауг разработал высокоурожайные сорта (Нобелевская премия 1970). Индия и Пакистан утроили урожай пшеницы. Обратная сторона: потребление воды, пестициды, утрата биоразнообразия.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1965 CE",
+    "tags": ["Grüne Revolution", "Borlaug", "Ernährung", "Entwicklungsländer", "Landwirtschaft"],
+    "interesting_facts": [
+      {"de": "Borlaug sagte, er habe mit seinem Weizen eine Milliarde Menschen vor dem Hunger gerettet.", "ru": "Борлауг говорил, что своей пшеницей спас от голода один миллиард человек."},
+      {"de": "Grundwasserspiegel in Indien sinken durch intensive Bewässerung dramatisch.", "ru": "Уровень грунтовых вод в Индии резко падает из-за интенсивного орошения."},
+      {"de": "Gentechnisch veränderter 'Goldener Reis' soll Vitaminmangel bekämpfen – bis heute umstritten.", "ru": "Генетически модифицированный «золотой рис» должен бороться с дефицитом витаминов — до сих пор вызывает споры."}
+    ]
+  },
+  {
+    "id": 9270,
+    "question_de": "Was war die Bedeutung des Scheiterns des Kommunismus als historisches Experiment?",
+    "question_ru": "Каково было значение провала коммунизма как исторического эксперимента?",
+    "correct_answer_de": "Der Zusammenbruch der UdSSR und des Ostblocks zeigte die Grenzen zentraler Planwirtschaft und politischer Unterdrückung als Systemalternativen",
+    "correct_answer_ru": "Распад СССР и Восточного блока показал пределы централизованного планового хозяйства и политических репрессий как системных альтернатив",
+    "wrong_answers_de": [
+      "Kommunismus scheiterte ausschließlich wegen westlichen Wirtschaftskriegführung, nicht an inneren Schwächen",
+      "Der Kommunismus wurde nie wirklich praktiziert – nur Sozialismus existierte",
+      "Kommunismus war erfolgreich in der Sowjetunion und scheiterte nur in China"
+    ],
+    "wrong_answers_ru": [
+      "Коммунизм потерпел неудачу исключительно из-за западной экономической войны, а не внутренних слабостей",
+      "Коммунизм никогда по-настоящему не практиковался — существовал только социализм",
+      "Коммунизм был успешен в Советском Союзе и потерпел неудачу только в Китае"
+    ],
+    "explanation_de": "70 Jahre Sowjetkommunismus (1917–1991): Innovation und Wohlstand blieben hinter dem Westen zurück. Gorbatschows Reformen konnten das System nicht retten. Überlebend: Kuba, Nordkorea, Vietnam, China (Mischform).",
+    "explanation_ru": "70 лет советского коммунизма (1917–1991): инновации и благосостояние отставали от Запада. Реформы Горбачёва не смогли спасти систему. Выжили: Куба, Северная Корея, Вьетнам, Китай (смешанная форма).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1991 CE",
+    "tags": ["Kommunismus", "Sowjetunion", "Planwirtschaft", "Kalter Krieg", "Geschichte"],
+    "interesting_facts": [
+      {"de": "Karl Marx selbst lebte nie in einem kommunistischen Staat – er starb 1883.", "ru": "Сам Карл Маркс никогда не жил в коммунистическом государстве — он умер в 1883 году."},
+      {"de": "China nennt sich kommunistisch, hat aber die am schnellsten wachsende kapitalistische Wirtschaft.", "ru": "Китай называет себя коммунистическим, но имеет наиболее быстро растущую капиталистическую экономику."},
+      {"de": "Nordkorea ist der letzte stalinistische Staat – seit 1945 von derselben Familie regiert.", "ru": "Северная Корея является последним сталинистским государством — с 1945 года управляется одной семьёй."}
+    ]
+  },
+  {
+    "id": 9271,
+    "question_de": "Was war die Bedeutung der zweiten Weltbewegung der Gewerkschaften im 20. Jahrhundert?",
+    "question_ru": "Каково было значение второго мирового движения профсоюзов в XX веке?",
+    "correct_answer_de": "Gewerkschaften erkämpften Achtstundentag, Mindestlöhne, Urlaubsrecht und Sicherheitsstandards als dauerhafte Errungenschaften der Arbeiterbewegung",
+    "correct_answer_ru": "Профсоюзы завоевали восьмичасовой рабочий день, минимальную заработную плату, право на отпуск и стандарты безопасности как долговременные завоевания рабочего движения",
+    "wrong_answers_de": [
+      "Gewerkschaften schadeten der Wirtschaft und wurden deshalb weltweit 1950 verboten",
+      "Der Achtstundentag wurde durch Gesetze eingeführt ohne Gewerkschaftsdruck",
+      "Gewerkschaften entstanden erst nach dem Zweiten Weltkrieg"
+    ],
+    "wrong_answers_ru": [
+      "Профсоюзы вредили экономике и поэтому были запрещены во всём мире в 1950 году",
+      "Восьмичасовой рабочий день был введён законами без давления профсоюзов",
+      "Профсоюзы возникли только после Второй мировой войны"
+    ],
+    "explanation_de": "Der 1. Mai 1886 (Haymarket-Streik) forderte 8-Stunden-Tag. Ford führte ihn 1914 freiwillig ein. UAW, IG Metall, TUC erkämpften kollektive Verhandlungsrechte. Gegenbewegung durch Thatcher/Reagan ab 1980.",
+    "explanation_ru": "1 мая 1886 года (Хеймаркетская забастовка) требовала 8-часового дня. Форд добровольно ввёл его в 1914 году. UAW, ИГ Металл, TUC добились права на коллективные переговоры. Встречное движение Тэтчер/Рейгана с 1980 года.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1920 CE",
+    "tags": ["Gewerkschaften", "Arbeiterrechte", "Achtstundentag", "Mindestlohn", "Arbeiterbewegung"],
+    "interesting_facts": [
+      {"de": "Henry Ford führte den 8-Stunden-Tag 1914 ein, weil er erkannte: Arbeiter müssen sich Autos leisten können.", "ru": "Генри Форд ввёл 8-часовой рабочий день в 1914 году, осознав: рабочие должны быть способны покупать автомобили."},
+      {"de": "Die ILO (Internationale Arbeitsorganisation) wurde 1919 gegründet – noch vor der UN.", "ru": "МОТ (Международная организация труда) была основана в 1919 году — ещё до ООН."},
+      {"de": "In den USA ist der gewerkschaftliche Organisationsgrad von 35% (1950) auf unter 10% (2023) gefallen.", "ru": "В США охват профсоюзами упал с 35% (1950) до менее 10% (2023)."}
+    ]
+  },
+  {
+    "id": 9272,
+    "question_de": "Was war die Bedeutung der Einführung der Menschenrechte als universales Konzept?",
+    "question_ru": "Каково было значение введения прав человека как универсальной концепции?",
+    "correct_answer_de": "Universelle Menschenrechte überwinden den Nationalstaatsgedanken und verankern individuelle Würde als unverletzbares Prinzip unabhängig von Herkunft oder Staatsbürgerschaft",
+    "correct_answer_ru": "Универсальные права человека преодолевают идею национального государства и закрепляют индивидуальное достоинство как нерушимый принцип вне зависимости от происхождения или гражданства",
+    "wrong_answers_de": [
+      "Menschenrechte gelten nur für Bürger demokratischer Staaten",
+      "Universelle Menschenrechte wurden erst 2000 durch UN-Beschluss verankert",
+      "Menschenrechte sind ein westliches Konzept, das nicht für andere Kulturen gilt"
+    ],
+    "wrong_answers_ru": [
+      "Права человека распространяются только на граждан демократических государств",
+      "Универсальные права человека были закреплены лишь в 2000 году решением ООН",
+      "Права человека — западная концепция, неприменимая к другим культурам"
+    ],
+    "explanation_de": "AEMR (1948), Europäische Menschenrechtskonvention (1950), ICCPR (1966). Debatten: Kulturrelativismus vs. Universalismus. China, Russland betonen Staatssouveränität gegenüber Menschenrechten.",
+    "explanation_ru": "ВДПЧ (1948), Европейская конвенция о правах человека (1950), МПГПП (1966). Дискуссии: культурный релятивизм против универсализма. Китай, Россия подчёркивают государственный суверенитет в противовес правам человека.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1948 CE",
+    "tags": ["Menschenrechte", "Universalismus", "UN", "Demokratie", "Würde"],
+    "interesting_facts": [
+      {"de": "Der Europäische Gerichtshof für Menschenrechte (EGMR) in Straßburg nimmt individuelle Klagen an.", "ru": "Европейский суд по правам человека (ЕСПЧ) в Страсбурге принимает индивидуальные жалобы."},
+      {"de": "Saudi-Arabien enthielt sich bei der AEMR-Abstimmung 1948 – wegen Religionsfreiheit und Eherecht.", "ru": "Саудовская Аравия воздержалась при голосовании по ВДПЧ в 1948 году — из-за свободы вероисповедания и брачного права."},
+      {"de": "Der Begriff der 'Responsibility to Protect' (R2P) erlaubt UN-Interventionen bei Massenverbrechen.", "ru": "Концепция «Ответственность по защите» (R2P) допускает вмешательство ООН при массовых преступлениях."}
+    ]
+  },
+  {
+    "id": 9273,
+    "question_de": "Was war die Bedeutung der Schaffung des Euroraums und des Euro?",
+    "question_ru": "Каково было значение создания еврозоны и евро?",
+    "correct_answer_de": "Der Euro schuf eine gemeinsame Währung für 20 EU-Länder, vereinfachte den Handel, erforderte aber auch gemeinsame Haushaltsdisziplin",
+    "correct_answer_ru": "Евро создал общую валюту для 20 стран ЕС, упростил торговлю, но также потребовал общей бюджетной дисциплины",
+    "wrong_answers_de": [
+      "Alle EU-Länder haben den Euro eingeführt, einschließlich Schweden und Dänemark",
+      "Der Euro ersetzte den Dollar als Weltreservewährung im Jahr 2005",
+      "Der Euro wurde bereits 1957 mit den Römischen Verträgen eingeführt"
+    ],
+    "wrong_answers_ru": [
+      "Все страны ЕС ввели евро, включая Швецию и Данию",
+      "Евро заменил доллар как мировую резервную валюту в 2005 году",
+      "Евро был введён ещё в 1957 году вместе с Римскими договорами"
+    ],
+    "explanation_de": "Maastricht (1992) beschloss die Währungsunion. Buchgeld-Euro 1999; Münzen und Scheine 2002. Griechenland-Krise (2010) zeigte Risiken gemeinsamer Währung ohne gemeinsame Fiskalpolitik.",
+    "explanation_ru": "Маастрихт (1992) принял решение о валютном союзе. Безналичный евро с 1999 года; монеты и банкноты с 2002 года. Греческий кризис (2010) показал риски общей валюты без единой налогово-бюджетной политики.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2002 CE",
+    "tags": ["Euro", "Eurozone", "EU", "Währung", "Maastricht"],
+    "interesting_facts": [
+      {"de": "12 Länder führten den Euro am 1. Januar 2002 ein – ein historischer Schritt für 300 Millionen Menschen.", "ru": "12 стран ввели евро 1 января 2002 года — исторический шаг для 300 миллионов человек."},
+      {"de": "Großbritannien behielt das Pfund und verließ danach die EU (Brexit).", "ru": "Великобритания сохранила фунт, а затем покинула ЕС (Brexit)."},
+      {"de": "Der Euro ist nach dem Dollar die zweitwichtigste Reservewährung der Welt.", "ru": "Евро является второй по значимости резервной валютой мира после доллара."}
+    ]
+  },
+  {
+    "id": 9274,
+    "question_de": "Was war die historische Bedeutung des Zweiten Weltkrieges für die Entstehung der heutigen Weltordnung?",
+    "question_ru": "Каково было историческое значение Второй мировой войны для возникновения нынешнего мирового порядка?",
+    "correct_answer_de": "Der Krieg vernichtete den alten Kolonialismus, schuf die USA und UdSSR als Supermächte, gründete die UNO und läutete das Atomzeitalter ein",
+    "correct_answer_ru": "Война уничтожила старый колониализм, создала США и СССР как сверхдержавы, основала ООН и ознаменовала ядерный век",
+    "wrong_answers_de": [
+      "Der Zweite Weltkrieg hatte kaum Auswirkungen auf die internationale Ordnung nach 1945",
+      "Europa blieb nach dem Krieg die dominierende Weltmacht",
+      "Der Krieg führte zur direkten Gründung der NATO ohne Sowjet-Beteiligung als Gegenpol"
+    ],
+    "wrong_answers_ru": [
+      "Вторая мировая война почти не повлияла на международный порядок после 1945 года",
+      "Европа после войны оставалась доминирующей мировой державой",
+      "Война привела к непосредственному созданию НАТО без советского противовеса"
+    ],
+    "explanation_de": "55 Millionen Tote. Europa zerstört → Marshallplan, EG. Dekolonisierung beschleunigt. UNO gegründet. US-Dollar Weltreservewährung (Bretton Woods). Atombombe verändert Kriegsführung grundlegend.",
+    "explanation_ru": "55 миллионов погибших. Европа разрушена → план Маршалла, ЕС. Деколонизация ускорена. Основана ООН. Доллар США — мировая резервная валюта (Бреттон-Вудс). Атомная бомба коренным образом изменила ведение войны.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1945 CE",
+    "tags": ["Zweiter Weltkrieg", "Weltordnung", "UNO", "USA", "Supermächte"],
+    "interesting_facts": [
+      {"de": "Der Zweite Weltkrieg war der erste Krieg, in dem mehr Zivilisten als Soldaten starben.", "ru": "Вторая мировая война была первой войной, в которой погибло больше мирных жителей, чем солдат."},
+      {"de": "Japan und Deutschland wurden nach dem Krieg von US-Besatzern zu Demokratien umgebaut.", "ru": "Япония и Германия после войны были преобразованы американскими оккупантами в демократии."},
+      {"de": "Deutschland wurde 1990 erst wieder vollständig souverän durch den Zwei-plus-vier-Vertrag.", "ru": "Германия стала снова полностью суверенной лишь в 1990 году по договору Два плюс четыре."}
+    ]
+  },
+  {
+    "id": 9275,
+    "question_de": "Was war die Bedeutung der Entdeckung des Higgs-Bosons am CERN (2012)?",
+    "question_ru": "Каково было значение открытия бозона Хиггса в ЦЕРН (2012)?",
+    "correct_answer_de": "Das Higgs-Boson vervollständigte das Standardmodell der Teilchenphysik und erklärte, warum Teilchen Masse haben",
+    "correct_answer_ru": "Бозон Хиггса завершил Стандартную модель физики частиц и объяснил, почему частицы имеют массу",
+    "wrong_answers_de": [
+      "Das Higgs-Boson wurde in einem Labor in den USA entdeckt, nicht in der Schweiz",
+      "Das Higgs-Boson ist ein Medium der Kommunikation zwischen Teilchen (wie das Photon für Licht)",
+      "Die Entdeckung widerlegte Einsteins Relativitätstheorie"
+    ],
+    "wrong_answers_ru": [
+      "Бозон Хиггса был открыт в лаборатории США, а не в Швейцарии",
+      "Бозон Хиггса является средством связи между частицами (как фотон для света)",
+      "Открытие опровергло теорию относительности Эйнштейна"
+    ],
+    "explanation_de": "Peter Higgs postulierte das Boson 1964. Der LHC am CERN (25 km Umfang) bestätigte es 2012. Nobelpreis 2013 für Higgs und Englert. Das 'Gottesteilchen' (Medienname) ist für alle Masse verantwortlich.",
+    "explanation_ru": "Питер Хиггс постулировал бозон в 1964 году. Большой адронный коллайдер ЦЕРН (25 км в окружности) подтвердил его в 2012 году. Нобелевская премия 2013 Хиггсу и Энглеру. «Частица Бога» (медийное название) ответственна за всю массу.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2012 CE",
+    "tags": ["Higgs-Boson", "CERN", "Teilchenphysik", "Standardmodell", "LHC"],
+    "interesting_facts": [
+      {"de": "Der LHC ist das komplexeste Experiment, das Menschen je gebaut haben – 10.000 Wissenschaftler beteiligt.", "ru": "БАК — самый сложный эксперимент, когда-либо созданный людьми — задействовано 10 000 учёных."},
+      {"de": "Das Higgs-Feld durchdringt das Universum – es gibt Teilchen Masse, indem sie mit ihm wechselwirken.", "ru": "Поле Хиггса пронизывает Вселенную — оно придаёт частицам массу, взаимодействуя с ними."},
+      {"de": "Physiker suchen weiter nach 'Neuer Physik' jenseits des Standardmodells.", "ru": "Физики продолжают искать «новую физику» за пределами Стандартной модели."}
+    ]
+  }
+]

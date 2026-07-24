@@ -1,0 +1,1780 @@
+[
+  {
+    "id": 451,
+    "question_ru": "Кто был богом границ?",
+    "question_de": "Wer war der Gott der Grenzen?",
+    "correct_answer_ru": "Термин",
+    "correct_answer_de": "Terminus",
+    "wrong_answers_ru": [
+      "Янус",
+      "Лары",
+      "Пенаты"
+    ],
+    "wrong_answers_de": [
+      "Janus",
+      "Laren",
+      "Penaten"
+    ],
+    "explanation_ru": "Термин был римским богом границ, межевых знаков и собственности. Он защищал границы полей, владений и государства. Термин изображался в виде каменного столба или межевого знака. Его праздник, Терминалии, отмечался 23 февраля и включал обряды по установлению и обновлению границ.",
+    "explanation_de": "Terminus war der römische Gott der Grenzen, Grenzsteine und des Eigentums. Er schützte die Grenzen von Feldern, Besitzungen und des Staates. Terminus wurde als Steinpfeiler oder Grenzstein dargestellt. Sein Fest, die Terminalia, wurde am 23. Februar gefeiert und umfasste Riten zur Festlegung und Erneuerung von Grenzen.",
+    "interesting_facts": [
+      {
+        "ru": "Термин был одним из старейших римских богов и считался неподвижным божеством. Согласно легенде, когда строили храм Юпитера на Капитолии, все боги согласились уйти, кроме Термина. Его камень остался на месте, что символизировало нерушимость границ.",
+        "de": "Terminus war einer der ältesten römischen Götter und galt als unbewegliche Gottheit. Der Legende nach stimmten alle Götter zu, zu gehen, als der Tempel des Jupiter auf dem Kapitol gebaut wurde, außer Terminus. Sein Stein blieb an Ort und Stelle, was die Unverletzlichkeit der Grenzen symbolisierte."
+      },
+      {
+        "ru": "Культ Термина подчёркивал важность границ в римском обществе. Нарушение границ считалось серьёзным преступлением. Терминалии были важным праздником для землевладельцев, которые обновляли межевые знаки и приносили жертвы Термину.",
+        "de": "Der Kult des Terminus betonte die Bedeutung von Grenzen in der römischen Gesellschaft. Die Verletzung von Grenzen galt als schweres Verbrechen. Die Terminalia waren ein wichtiges Fest für Grundbesitzer, die Grenzsteine erneuerten und Terminus Opfer brachten."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "земля"
+    ]
+  },
+  {
+    "id": 452,
+    "question_ru": "В каком году разрушен Иерусалим?",
+    "question_de": "In welchem Jahr wurde Jerusalem zerstört?",
+    "correct_answer_ru": "70 год н.э.",
+    "correct_answer_de": "70 n. Chr.",
+    "wrong_answers_ru": [
+      "66 год н.э.",
+      "73 год н.э.",
+      "135 год н.э."
+    ],
+    "wrong_answers_de": [
+      "66 n. Chr.",
+      "73 n. Chr.",
+      "135 n. Chr."
+    ],
+    "explanation_ru": "Иерусалим был разрушен римлянами в 70 году н.э. во время Первой Иудейской войны. Римская армия под командованием Тита осадила город и после длительной осады захватила его. Храм был сожжён, а город разрушен. Это событие положило конец еврейскому государству и начало диаспоры.",
+    "explanation_de": "Jerusalem wurde 70 n. Chr. von den Römern während des Ersten Jüdischen Krieges zerstört. Die römische Armee unter Titus belagerte die Stadt und eroberte sie nach langer Belagerung. Der Tempel wurde niedergebrannt und die Stadt zerstört. Dieses Ereignis beendete den jüdischen Staat und markierte den Beginn der Diaspora.",
+    "interesting_facts": [
+      {
+        "ru": "Разрушение Иерусалима было одним из самых трагических событий в еврейской истории. Храм, который был центром иудейской религии, был полностью уничтожен. Римляне захватили священные предметы, включая менору, которые были пронесены в триумфальном шествии в Риме.",
+        "de": "Die Zerstörung Jerusalems war eines der tragischsten Ereignisse in der jüdischen Geschichte. Der Tempel, der das Zentrum der jüdischen Religion war, wurde vollständig zerstört. Die Römer erbeuteten heilige Gegenstände, einschließlich der Menora, die im Triumphzug in Rom mitgeführt wurden."
+      },
+      {
+        "ru": "Триумфальная арка Тита в Риме изображает захват Иерусалима и несение трофеев. Разрушение храма положило конец жертвоприношениям и изменило иудаизм навсегда. Евреи были рассеяны по всей империи, что привело к формированию диаспоры.",
+        "de": "Der Titusbogen in Rom zeigt die Eroberung Jerusalems und das Tragen von Trophäen. Die Zerstörung des Tempels beendete die Opfergaben und veränderte das Judentum für immer. Die Juden wurden im gesamten Reich verstreut, was zur Bildung der Diaspora führte."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "70 CE",
+    "tags": [
+      "войны",
+      "Иудея"
+    ]
+  },
+  {
+    "id": 453,
+    "question_ru": "Какой историк написал 'Анналы'?",
+    "question_de": "Welcher Historiker schrieb die 'Annalen'?",
+    "correct_answer_ru": "Тацит",
+    "correct_answer_de": "Tacitus",
+    "wrong_answers_ru": [
+      "Тит Ливий",
+      "Светоний",
+      "Саллюстий"
+    ],
+    "wrong_answers_de": [
+      "Titus Livius",
+      "Süton",
+      "Sallust"
+    ],
+    "explanation_ru": "Публий Корнелий Тацит написал 'Анналы' - историческое произведение, охватывающее период от смерти Августа до смерти Нерона (14-68 годы н.э.). Тацит был одним из величайших римских историков и известен своим критическим подходом к императорам и республиканским идеалам. Его работы являются важным источником по истории ранней Римской империи.",
+    "explanation_de": "Publius Cornelius Tacitus schrieb die 'Annalen' - ein historisches Werk, das die Zeit vom Tod des Augustus bis zum Tod Neros (14-68 n. Chr.) abdeckt. Tacitus war einer der größten römischen Historiker und bekannt für seinen kritischen Ansatz zu Kaisern und republikanischen Idealen. Seine Werke sind eine wichtige Quelle für die Geschichte des frühen Römischen Reiches.",
+    "interesting_facts": [
+      {
+        "ru": "Тацит был известен своим лаконичным и мощным стилем письма. Он критиковал тиранию императоров и ностальгировал по республике. 'Анналы' сохранились не полностью - некоторые части были утеряны. Тацит также написал 'Историю' и 'Германию'.",
+        "de": "Tacitus war für seinen lakonischen und kraftvollen Schreibstil bekannt. Er kritisierte die Tyrannei der Kaiser und sehnte sich nach der Republik. Die 'Annalen' sind nicht vollständig erhalten - einige Teile gingen verloren. Tacitus schrieb auch 'Historiä' und 'Germania'."
+      },
+      {
+        "ru": "Тацит был сенатором и занимал высокие должности в империи. Его работы оказали огромное влияние на последующих историков и писателей. Тацит считается одним из величайших прозаиков латинской литературы.",
+        "de": "Tacitus war Senator und bekleidete hohe Ämter im Reich. Seine Werke hatten einen enormen Einfluss auf nachfolgende Historiker und Schriftsteller. Tacitus gilt als einer der größten Prosaisten der lateinischen Literatur."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "история"
+    ]
+  },
+  {
+    "id": 454,
+    "question_ru": "Как называлась римская крепость?",
+    "question_de": "Wie hieß die römische Festung?",
+    "correct_answer_ru": "Кастра",
+    "correct_answer_de": "Castra",
+    "wrong_answers_ru": [
+      "Лимес",
+      "Валлум",
+      "Форт"
+    ],
+    "wrong_answers_de": [
+      "Limes",
+      "Vallum",
+      "Fort"
+    ],
+    "explanation_ru": "Кастра (castra) была римским военным лагерем или крепостью. Римляне строили кастра везде, где размещали войска. Они имели стандартную прямоугольную планировку с главными улицами, воротами и штабом в центре. Кастра могли быть временными или постоянными укреплениями.",
+    "explanation_de": "Castra war ein römisches Militärlager oder eine Festung. Die Römer bauten Castra überall dort, wo sie Truppen stationierten. Sie hatten eine standardisierte rechteckige Anlage mit Hauptstraßen, Toren und Hauptquartier in der Mitte. Castra konnten temporäre oder permanente Befestigungen sein.",
+    "interesting_facts": [
+      {
+        "ru": "Римляне были мастерами строительства военных лагерей. Они могли построить полноценный лагерь за несколько часов. Стандартная планировка кастра обеспечивала эффективную организацию и защиту. Многие современные города в Европе выросли из римских кастра.",
+        "de": "Die Römer waren Meister im Bau von Militärlagern. Sie konnten ein vollständiges Lager in wenigen Stunden errichten. Die standardisierte Anlage der Castra gewährleistete effiziente Organisation und Schutz. Viele moderne Städte in Europa entstanden aus römischen Castra."
+      },
+      {
+        "ru": "Кастра были настолько стандартизированы, что солдаты могли легко ориентироваться в любом лагере. Главная улица называлась via principalis, а поперечная - via praetoria. В центре находилась палатка командира (praetorium) и знамёна легиона.",
+        "de": "Castra waren so standardisiert, dass Soldaten sich in jedem Lager leicht orientieren konnten. Die Hauptstraße hieß via principalis, die Querstraße via prätoria. In der Mitte befanden sich das Zelt des Kommandanten (prätorium) und die Standarten der Legion."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "военное дело",
+      "укрепления"
+    ]
+  },
+  {
+    "id": 455,
+    "question_ru": "Кто был богом сна?",
+    "question_de": "Wer war der Gott des Schlafes?",
+    "correct_answer_ru": "Сомн",
+    "correct_answer_de": "Somnus",
+    "wrong_answers_ru": [
+      "Морфей",
+      "Гипнос",
+      "Танатос"
+    ],
+    "wrong_answers_de": [
+      "Morpheus",
+      "Hypnos",
+      "Thanatos"
+    ],
+    "explanation_ru": "Сомн был римским богом сна, отождествлённым с греческим Гипносом. Он был братом-близнецом Танатоса, бога смерти. Сомн изображался как юноша с крыльями и маковыми цветами. Он жил в подземном мире и вызывал сон, прикасаясь к людям маковыми ветвями.",
+    "explanation_de": "Somnus war der römische Gott des Schlafes, identifiziert mit dem griechischen Hypnos. Er war der Zwillingsbruder von Thanatos, dem Gott des Todes. Somnus wurde als Jüngling mit Flügeln und Mohnblumen dargestellt. Er lebte in der Unterwelt und verursachte Schlaf, indem er Menschen mit Mohnzweigen berührte.",
+    "interesting_facts": [
+      {
+        "ru": "Сомн был отцом Морфея, бога сновидений, и других богов снов. Он был очень могущественным богом, способным усыпить даже Зевса. Сомн ассоциировался с маком, который использовался как символ сна и забвения. Его имя дало название снотворным препаратам.",
+        "de": "Somnus war der Vater von Morpheus, dem Gott der Träume, und anderen Göttern der Träume. Er war ein sehr mächtiger Gott, der sogar Zeus einschläfern konnte. Somnus wurde mit Mohn assoziiert, der als Symbol für Schlaf und Vergessenheit verwendet wurde. Sein Name gab Schlafmitteln ihren Namen."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "сон"
+    ]
+  },
+  {
+    "id": 456,
+    "question_ru": "В каком году Нерон стал императором?",
+    "question_de": "In welchem Jahr wurde Nero Kaiser?",
+    "correct_answer_ru": "54 год н.э.",
+    "correct_answer_de": "54 n. Chr.",
+    "wrong_answers_ru": [
+      "50 год н.э.",
+      "58 год н.э.",
+      "68 год н.э."
+    ],
+    "wrong_answers_de": [
+      "50 n. Chr.",
+      "58 n. Chr.",
+      "68 n. Chr."
+    ],
+    "explanation_ru": "Нерон стал императором в 54 году н.э. в возрасте 16 лет после смерти своего приёмного отца Клавдия. Его мать Агриппина Младшая отравила Клавдия, чтобы обеспечить трон своему сыну. Нерон правил 14 лет и стал известен своей жестокостью, эксцентричностью и преследованием христиан.",
+    "explanation_de": "Nero wurde 54 n. Chr. im Alter von 16 Jahren nach dem Tod seines Adoptivvaters Claudius Kaiser. Seine Mutter Agrippina die Jüngere vergiftete Claudius, um ihrem Sohn den Thron zu sichern. Nero regierte 14 Jahre lang und wurde für seine Grausamkeit, Exzentrizität und Verfolgung der Christen bekannt.",
+    "interesting_facts": [
+      {
+        "ru": "Нерон был последним императором из династии Юлиев-Клавдиев. Он был известен своей любовью к искусству и театру, но также и своей жестокостью. Нерон убил свою мать, жену и многих других. Он покончил с собой в 68 году н.э., когда против него восстали легионы.",
+        "de": "Nero war der letzte Kaiser aus der julisch-claudischen Dynastie. Er war für seine Liebe zur Kunst und zum Theater bekannt, aber auch für seine Grausamkeit. Nero tötete seine Mutter, seine Frau und viele andere. Er beging 68 n. Chr. Selbstmord, als die Legionen gegen ihn rebellierten."
+      },
+      {
+        "ru": "Нерон обвинялся в том, что устроил Великий пожар Рима в 64 году, хотя это обвинение оспаривается историками. После пожара он построил Золотой дом - огромный дворец в центре Рима. Нерон также преследовал христиан, обвиняя их в поджоге.",
+        "de": "Nero wurde beschuldigt, das Große Feuer Roms 64 n. Chr. gelegt zu haben, obwohl diese Anschuldigung von Historikern bestritten wird. Nach dem Feuer baute er das Goldene Haus - einen riesigen Palast im Zentrum Roms. Nero verfolgte auch Christen und beschuldigte sie der Brandstiftung."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "54 CE",
+    "tags": [
+      "императоры",
+      "правление"
+    ]
+  },
+  {
+    "id": 457,
+    "question_ru": "Какой биограф написал о 12 цезарях?",
+    "question_de": "Welcher Biograph schrieb über die 12 Cäsaren?",
+    "correct_answer_ru": "Светоний",
+    "correct_answer_de": "Süton",
+    "wrong_answers_ru": [
+      "Тацит",
+      "Тит Ливий",
+      "Плутарх"
+    ],
+    "wrong_answers_de": [
+      "Tacitus",
+      "Titus Livius",
+      "Plutarch"
+    ],
+    "explanation_ru": "Гай Светоний Транквилл написал 'Жизнь двенадцати цезарей' - биографическое произведение о первых двенадцати римских императорах от Цезаря до Домициана. Светоний был секретарём императора Адриана и имел доступ к императорским архивам. Его работы содержат множество интересных деталей о жизни императоров.",
+    "explanation_de": "Gaius Sütonius Tranquillus schrieb 'Das Leben der zwölf Cäsaren' - ein biographisches Werk über die ersten zwölf römischen Kaiser von Cäsar bis Domitian. Süton war Sekretär von Kaiser Hadrian und hatte Zugang zu kaiserlichen Archiven. Seine Werke enthalten viele interessante Details über das Leben der Kaiser.",
+    "interesting_facts": [
+      {
+        "ru": "Светоний был известен своим вниманием к личным деталям и скандалам. Его биографии содержат информацию о внешности, привычках и частной жизни императоров. Хотя некоторые детали могут быть преувеличены, работы Светония являются важным источником по истории ранней империи.",
+        "de": "Süton war für seine Aufmerksamkeit für persönliche Details und Skandale bekannt. Seine Biographien enthalten Informationen über Aussehen, Gewohnheiten und Privatleben der Kaiser. Obwohl einige Details übertrieben sein mögen, sind Sütons Werke eine wichtige Quelle für die Geschichte des frühen Reiches."
+      },
+      {
+        "ru": "Светоний писал в простом и понятном стиле, что делало его работы популярными. Он организовал биографии по темам, а не хронологически. Его работы оказали влияние на последующих биографов и историков.",
+        "de": "Süton schrieb in einem einfachen und verständlichen Stil, was seine Werke populär machte. Er organisierte Biographien nach Themen, nicht chronologisch. Seine Werke beeinflussten nachfolgende Biographen und Historiker."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "литература",
+      "биографии"
+    ]
+  },
+  {
+    "id": 458,
+    "question_ru": "Как называлась римская укреплённая граница?",
+    "question_de": "Wie hieß die römische befestigte Grenze?",
+    "correct_answer_ru": "Лимес",
+    "correct_answer_de": "Limes",
+    "wrong_answers_ru": [
+      "Валлум",
+      "Кастра",
+      "Фосс"
+    ],
+    "wrong_answers_de": [
+      "Vallum",
+      "Castra",
+      "Foss"
+    ],
+    "explanation_ru": "Лимес была системой укреплённых границ Римской империи, включавшей стены, рвы, башни и форты. Самые известные лимесы были в Германии (Верхнегерманско-ретийский лимес) и Британии (Адрианов вал). Лимес защищал империю от варварских набегов и контролировал торговлю.",
+    "explanation_de": "Der Limes war ein System befestigter Grenzen des Römischen Reiches, das Mauern, Gräben, Türme und Forts umfasste. Die bekanntesten Limes waren in Deutschland (Obergermanisch-Rätischer Limes) und Britannien (Hadrianswall). Der Limes schützte das Reich vor barbarischen Überfällen und kontrollierte den Handel.",
+    "interesting_facts": [
+      {
+        "ru": "Лимес был не просто стеной, а сложной системой обороны протяжённостью в сотни километров. Он включал дороги, сигнальные башни и гарнизоны. Лимес позволял римлянам контролировать границу и быстро реагировать на угрозы. Многие части лимеса сохранились до наших дней.",
+        "de": "Der Limes war nicht nur eine Mauer, sondern ein komplexes Verteidigungssystem, das sich über Hunderte von Kilometern erstreckte. Er umfasste Straßen, Signaltürme und Garnisonen. Der Limes ermöglichte es den Römern, die Grenze zu kontrollieren und schnell auf Bedrohungen zu reagieren. Viele Teile des Limes sind bis heute erhalten."
+      },
+      {
+        "ru": "Верхнегерманско-ретийский лимес протяжённостью 550 километров был самым длинным археологическим памятником в Европе. Он был включён в список Всемирного наследия ЮНЕСКО. Лимес демонстрирует римскую инженерную мощь и организационные способности.",
+        "de": "Der Obergermanisch-Rätische Limes mit einer Länge von 550 Kilometern war das längste archäologische Denkmal in Europa. Er wurde in die Liste des UNESCO-Weltkulturerbes aufgenommen. Der Limes demonstriert römische Ingenieurskunst und organisatorische Fähigkeiten."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century CE",
+    "tags": [
+      "границы",
+      "оборона"
+    ]
+  },
+  {
+    "id": 459,
+    "question_ru": "Кто была богиня верности?",
+    "question_de": "Wer war die Göttin der Treue?",
+    "correct_answer_ru": "Фидес",
+    "correct_answer_de": "Fides",
+    "wrong_answers_ru": [
+      "Пиетас",
+      "Виртус",
+      "Юстиция"
+    ],
+    "wrong_answers_de": [
+      "Pietas",
+      "Virtus",
+      "Iustitia"
+    ],
+    "explanation_ru": "Фидес была римской богиней верности, честности и соблюдения договоров. Она была одной из древнейших римских богинь и ассоциировалась с клятвами и обещаниями. Фидес изображалась с оливковой ветвью и чашей. Её храм на Капитолии был одним из старейших в Риме.",
+    "explanation_de": "Fides war die römische Göttin der Treue, Ehrlichkeit und der Einhaltung von Verträgen. Sie war eine der ältesten römischen Göttinnen und wurde mit Eiden und Versprechen assoziiert. Fides wurde mit einem Olivenzweig und einer Schale dargestellt. Ihr Tempel auf dem Kapitol war einer der ältesten in Rom.",
+    "interesting_facts": [
+      {
+        "ru": "Фидес была особенно важна в римской дипломатии и международных отношениях. Римляне верили, что нарушение клятвы, данной именем Фидес, приведёт к божественному наказанию. Фидес также ассоциировалась с верностью в браке и дружбе.",
+        "de": "Fides war besonders wichtig in der römischen Diplomatie und internationalen Beziehungen. Die Römer glaubten, dass der Bruch eines Eides, der im Namen der Fides geschworen wurde, zu göttlicher Strafe führen würde. Fides wurde auch mit Treue in Ehe und Freundschaft assoziiert."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "добродетели"
+    ]
+  },
+  {
+    "id": 460,
+    "question_ru": "В каком году произошла битва при Филиппах?",
+    "question_de": "In welchem Jahr fand die Schlacht von Philippi statt?",
+    "correct_answer_ru": "42 год до н.э.",
+    "correct_answer_de": "42 v. Chr.",
+    "wrong_answers_ru": [
+      "44 год до н.э.",
+      "43 год до н.э.",
+      "41 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "44 v. Chr.",
+      "43 v. Chr.",
+      "41 v. Chr."
+    ],
+    "explanation_ru": "Битва при Филиппах произошла в 42 году до н.э. между армиями Октавиана и Марка Антония с одной стороны и армиями Брута и Кассия с другой. Это было решающее сражение после убийства Цезаря. Октавиан и Антоний одержали победу, что положило конец республиканскому сопротивлению.",
+    "explanation_de": "Die Schlacht von Philippi fand 42 v. Chr. zwischen den Armeen von Octavian und Marcus Antonius auf der einen Seite und den Armeen von Brutus und Cassius auf der anderen Seite statt. Es war die entscheidende Schlacht nach der Ermordung Cäsars. Octavian und Antonius errangen den Sieg, was dem republikanischen Widerstand ein Ende setzte.",
+    "interesting_facts": [
+      {
+        "ru": "Битва при Филиппах состояла из двух сражений в течение трёх недель. В первом сражении Брут разгромил Октавиана, но Кассий был разбит Антонием и покончил с собой. Во втором сражении Брут был разгромлен и также покончил с собой. Эта битва положила конец республике.",
+        "de": "Die Schlacht von Philippi bestand aus zwei Schlachten innerhalb von drei Wochen. In der ersten Schlacht besiegte Brutus Octavian, aber Cassius wurde von Antonius geschlagen und beging Selbstmord. In der zweiten Schlacht wurde Brutus besiegt und beging ebenfalls Selbstmord. Diese Schlacht beendete die Republik."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "42 BCE",
+    "tags": [
+      "битвы",
+      "гражданская война"
+    ]
+  },
+  {
+    "id": 461,
+    "question_ru": "Какой философ был советником Нерона?",
+    "question_de": "Welcher Philosoph war Berater von Nero?",
+    "correct_answer_ru": "Сенека",
+    "correct_answer_de": "Seneca",
+    "wrong_answers_ru": [
+      "Эпиктет",
+      "Марк Аврелий",
+      "Цицерон"
+    ],
+    "wrong_answers_de": [
+      "Epiktet",
+      "Mark Aurel",
+      "Cicero"
+    ],
+    "explanation_ru": "Луций Анней Сенека был стоическим философом, драматургом и советником императора Нерона. Он был одним из самых влиятельных людей в ранние годы правления Нерона и пытался направлять молодого императора. Однако в 65 году н.э. Сенека был обвинён в заговоре против Нерона и был вынужден покончить с собой.",
+    "explanation_de": "Lucius Annäus Seneca war ein stoischer Philosoph, Dramatiker und Berater von Kaiser Nero. Er war einer der einflussreichsten Männer in den frühen Jahren von Neros Herrschaft und versuchte, den jungen Kaiser zu lenken. 65 n. Chr. wurde Seneca jedoch beschuldigt, an einer Verschwörung gegen Nero beteiligt gewesen zu sein, und wurde gezwungen, Selbstmord zu begehen.",
+    "interesting_facts": [
+      {
+        "ru": "Сенека был одним из величайших стоических философов и писателей Древнего Рима. Его философские труды о добродетели, смерти и жизни оказали огромное влияние. Сенека также написал трагедии, которые повлияли на развитие европейской драматургии.",
+        "de": "Seneca war einer der größten stoischen Philosophen und Schriftsteller des antiken Roms. Seine philosophischen Werke über Tugend, Tod und Leben hatten einen enormen Einfluss. Seneca schrieb auch Tragödien, die die Entwicklung des europäischen Dramas beeinflussten."
+      },
+      {
+        "ru": "Сенека был очень богат и одним из самых влиятельных людей в Риме. Однако его богатство и близость к Нерону вызывали подозрения. Когда Нерон приказал ему покончить с собой, Сенека принял смерть с достоинством, демонстрируя свои стоические принципы.",
+        "de": "Seneca war sehr reich und einer der einflussreichsten Männer in Rom. Sein Reichtum und seine Nähe zu Nero erregten jedoch Verdacht. Als Nero ihm befahl, Selbstmord zu begehen, nahm Seneca den Tod mit Würde an und demonstrierte seine stoischen Prinzipien."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "философы",
+      "императоры"
+    ]
+  },
+  {
+    "id": 462,
+    "question_ru": "Как называлась римская система отопления?",
+    "question_de": "Wie hieß das römische Heizungssystem?",
+    "correct_answer_ru": "Гипокауст",
+    "correct_answer_de": "Hypokaustum",
+    "wrong_answers_ru": [
+      "Термы",
+      "Кальдарий",
+      "Фригидарий"
+    ],
+    "wrong_answers_de": [
+      "Thermen",
+      "Caldarium",
+      "Frigidarium"
+    ],
+    "explanation_ru": "Гипокауст была римской системой подпольного отопления, которая использовалась в термах и богатых домах. Система состояла из печи, которая нагревала воздух под полом, и каналов в стенах, которые распределяли тепло. Гипокауст позволял обогревать большие помещения эффективно и равномерно.",
+    "explanation_de": "Das Hypokaustum war ein römisches Fußbodenheizungssystem, das in Thermen und reichen Häusern verwendet wurde. Das System bestand aus einem Ofen, der die Luft unter dem Boden erwärmte, und Kanälen in den Wänden, die die Wärme verteilten. Das Hypokaustum ermöglichte es, große Räume effizient und gleichmäßig zu heizen.",
+    "interesting_facts": [
+      {
+        "ru": "Гипокауст была одним из величайших инженерных достижений римлян. Она позволяла обогревать огромные залы терм и создавать комфортные условия даже в холодную погоду. Система использовалась в общественных зданиях и домах богатых римлян.",
+        "de": "Das Hypokaustum war eine der größten Ingenieursleistungen der Römer. Es ermöglichte es, riesige Hallen der Thermen zu heizen und komfortable Bedingungen auch bei kaltem Wetter zu schaffen. Das System wurde in öffentlichen Gebäuden und Häusern reicher Römer verwendet."
+      },
+      {
+        "ru": "Гипокауст работала на принципе конвекции - горячий воздух поднимался и нагревал пол и стены. Полы в термах были покрыты мозаиками, которые оставались тёплыми. Эта система была настолько эффективна, что использовалась в некоторых зданиях до Средневековья.",
+        "de": "Das Hypokaustum funktionierte nach dem Prinzip der Konvektion - heiße Luft stieg auf und erwärmte Boden und Wände. Die Böden in den Thermen waren mit Mosaiken bedeckt, die warm blieben. Dieses System war so effektiv, dass es in einigen Gebäuden bis ins Mittelalter verwendet wurde."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "технологии",
+      "архитектура"
+    ]
+  },
+  {
+    "id": 463,
+    "question_ru": "Кто была богиня надежды?",
+    "question_de": "Wer war die Göttin der Hoffnung?",
+    "correct_answer_ru": "Спес",
+    "correct_answer_de": "Spes",
+    "wrong_answers_ru": [
+      "Фортуна",
+      "Фелицитас",
+      "Сальс"
+    ],
+    "wrong_answers_de": [
+      "Fortuna",
+      "Felicitas",
+      "Salus"
+    ],
+    "explanation_ru": "Спес была римской богиней надежды и ожидания. Она была одной из персонифицированных добродетелей в римской религии. Спес изображалась как молодая женщина, держащая цветок или поднимающая подол платья. Она была особенно важна в трудные времена, когда люди нуждались в надежде.",
+    "explanation_de": "Spes war die römische Göttin der Hoffnung und Erwartung. Sie war eine der personifizierten Tugenden in der römischen Religion. Spes wurde als junge Frau dargestellt, die eine Blume hält oder den Saum ihres Kleides hebt. Sie war besonders wichtig in schwierigen Zeiten, wenn Menschen Hoffnung brauchten.",
+    "interesting_facts": [
+      {
+        "ru": "Спес была особенно почитаема во время войн и кризисов. Её храм на Форуме был одним из старейших в Риме. Спес ассоциировалась с будущим и возможностями. Римляне верили, что надежда необходима для преодоления трудностей.",
+        "de": "Spes wurde besonders während Kriege und Krisen verehrt. Ihr Tempel auf dem Forum war einer der ältesten in Rom. Spes wurde mit Zukunft und Möglichkeiten assoziiert. Die Römer glaubten, dass Hoffnung notwendig ist, um Schwierigkeiten zu überwinden."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "чувства"
+    ]
+  },
+  {
+    "id": 464,
+    "question_ru": "В каком году император Калигула был убит?",
+    "question_de": "In welchem Jahr wurde Kaiser Caligula ermordet?",
+    "correct_answer_ru": "41 год н.э.",
+    "correct_answer_de": "41 n. Chr.",
+    "wrong_answers_ru": [
+      "37 год н.э.",
+      "40 год н.э.",
+      "42 год н.э."
+    ],
+    "wrong_answers_de": [
+      "37 n. Chr.",
+      "40 n. Chr.",
+      "42 n. Chr."
+    ],
+    "explanation_ru": "Калигула был убит 24 января 41 года н.э. группой преторианских гвардейцев и сенаторов. Он правил всего 4 года и стал известен своей жестокостью, безумием и эксцентричностью. Убийство Калигулы положило конец его тирании и привело к провозглашению его дяди Клавдия императором.",
+    "explanation_de": "Caligula wurde am 24. Januar 41 n. Chr. von einer Gruppe von Prätorianergarden und Senatoren ermordet. Er regierte nur 4 Jahre lang und wurde für seine Grausamkeit, Wahnsinn und Exzentrizität bekannt. Die Ermordung Caligulas beendete seine Tyrannei und führte zur Proklamation seines Onkels Claudius zum Kaiser.",
+    "interesting_facts": [
+      {
+        "ru": "Калигула был одним из самых печально известных римских императоров. Он провозгласил себя богом, тратил огромные суммы на развлечения и казнил многих людей. Его правление было отмечено террором и безумием. Убийство Калигулы было встречено с облегчением в Риме.",
+        "de": "Caligula war einer der berüchtigtsten römischen Kaiser. Er erklärte sich zum Gott, gab enorme Summen für Unterhaltung aus und exekutierte viele Menschen. Seine Herrschaft war von Terror und Wahnsinn geprägt. Die Ermordung Caligulas wurde in Rom mit Erleichterung aufgenommen."
+      },
+      {
+        "ru": "После убийства Калигулы преторианская гвардия провозгласила Клавдия императором, хотя сенат хотел восстановить республику. Клавдий был дядей Калигулы и считался слабоумным, но оказался способным правителем. Его правление было более стабильным, чем правление Калигулы.",
+        "de": "Nach der Ermordung Caligulas proklamierte die Prätorianergarde Claudius zum Kaiser, obwohl der Senat die Republik wiederherstellen wollte. Claudius war der Onkel Caligulas und galt als schwachsinnig, erwies sich aber als fähiger Herrscher. Seine Herrschaft war stabiler als die von Caligula."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "41 CE",
+    "tags": [
+      "императоры",
+      "убийства"
+    ]
+  },
+  {
+    "id": 465,
+    "question_ru": "Какой историк написал 'Историю'?",
+    "question_de": "Welcher Historiker schrieb die 'Geschichte'?",
+    "correct_answer_ru": "Тит Ливий",
+    "correct_answer_de": "Titus Livius",
+    "wrong_answers_ru": [
+      "Тацит",
+      "Саллюстий",
+      "Светоний"
+    ],
+    "wrong_answers_de": [
+      "Tacitus",
+      "Sallust",
+      "Süton"
+    ],
+    "explanation_ru": "Тит Ливий написал 'Историю Рима от основания города' - монументальное произведение из 142 книг, охватывающее период от основания Рима до 9 года до н.э. Только 35 книг сохранились полностью, остальные известны по отрывкам. Ливий был одним из величайших римских историков и мастером повествовательного стиля.",
+    "explanation_de": "Titus Livius schrieb 'Ab urbe condita' (Von der Gründung der Stadt) - ein monumentales Werk aus 142 Büchern, das die Zeit von der Gründung Roms bis 9 v. Chr. abdeckt. Nur 35 Bücher sind vollständig erhalten, der Rest ist durch Fragmente bekannt. Livius war einer der größten römischen Historiker und Meister des Erzählstils.",
+    "interesting_facts": [
+      {
+        "ru": "Ливий работал над своей 'Историей' более 40 лет. Его произведение было настолько популярно, что его читали публично в Риме. Ливий был патриотом и идеализировал раннюю республику. Его работы оказали огромное влияние на последующих историков и писателей.",
+        "de": "Livius arbeitete über 40 Jahre an seiner 'Geschichte'. Sein Werk war so populär, dass es öffentlich in Rom gelesen wurde. Livius war ein Patriot und idealisierte die frühe Republik. Seine Werke hatten einen enormen Einfluss auf nachfolgende Historiker und Schriftsteller."
+      },
+      {
+        "ru": "Ливий использовал множество источников, включая более ранних историков и легенды. Он не всегда был критичен к своим источникам, но его повествовательный талант сделал его работы очень читаемыми. Ливий также писал философские трактаты, которые не сохранились.",
+        "de": "Livius verwendete viele Quellen, einschließlich früherer Historiker und Legenden. Er war nicht immer kritisch gegenüber seinen Quellen, aber sein erzählerisches Talent machte seine Werke sehr lesbar. Livius schrieb auch philosophische Abhandlungen, die nicht erhalten sind."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "литература",
+      "история"
+    ]
+  },
+  {
+    "id": 466,
+    "question_ru": "Как называлась римская триррема?",
+    "question_de": "Wie hieß das römische Triremen?",
+    "correct_answer_ru": "Трирема",
+    "correct_answer_de": "Trireme",
+    "wrong_answers_ru": [
+      "Квинкверема",
+      "Бирема",
+      "Либурна"
+    ],
+    "wrong_answers_de": [
+      "Quinquereme",
+      "Bireme",
+      "Liburne"
+    ],
+    "explanation_ru": "Трирема была основным военным кораблём римского флота. Она имела три ряда вёсел с каждой стороны и экипаж около 200 человек. Трирема была быстрой и манёвренной, что делало её эффективной в морских сражениях. Римляне переняли конструкцию триремы у греков и карфагенян.",
+    "explanation_de": "Die Trireme war das Hauptkriegsschiff der römischen Flotte. Sie hatte drei Reihen von Rudern auf jeder Seite und eine Besatzung von etwa 200 Mann. Die Trireme war schnell und wendig, was sie in Seeschlachten effektiv machte. Die Römer übernahmen das Design der Trireme von den Griechen und Karthagern.",
+    "interesting_facts": [
+      {
+        "ru": "Трирема была длиной около 37 метров и шириной 5 метров. Она могла развивать скорость до 7 узлов и была вооружена тараном. Трирема использовалась не только в бою, но и для перевозки войск и грузов. Римляне построили сотни трирем для своих флотов.",
+        "de": "Die Trireme war etwa 37 Meter lang und 5 Meter breit. Sie konnte eine Geschwindigkeit von bis zu 7 Knoten erreichen und war mit einem Rammsporn bewaffnet. Die Trireme wurde nicht nur im Kampf, sondern auch zum Transport von Truppen und Gütern verwendet. Die Römer bauten Hunderte von Triremen für ihre Flotten."
+      },
+      {
+        "ru": "Римляне усовершенствовали конструкцию триремы, добавив абордажные мостики (corvus), которые позволяли им использовать свою превосходную пехоту в морских сражениях. Это дало римлянам преимущество над карфагенянами, которые полагались на морскую тактику.",
+        "de": "Die Römer verbesserten das Design der Trireme, indem sie Enterbrücken (corvus) hinzufügten, die es ihnen ermöglichten, ihre überlegene Infanterie in Seeschlachten einzusetzen. Dies gab den Römern einen Vorteil gegenüber den Karthagern, die sich auf Seetaktik verließen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "флот",
+      "корабли"
+    ]
+  },
+  {
+    "id": 467,
+    "question_ru": "Кто был богом леса?",
+    "question_de": "Wer war der Gott des Waldes?",
+    "correct_answer_ru": "Сильван",
+    "correct_answer_de": "Silvanus",
+    "wrong_answers_ru": [
+      "Фавн",
+      "Пан",
+      "Вертумн"
+    ],
+    "wrong_answers_de": [
+      "Faunus",
+      "Pan",
+      "Vertumnus"
+    ],
+    "explanation_ru": "Сильван был римским богом лесов, полей и дикой природы. Он был покровителем лесоводов, пастухов и охотников. Сильван изображался как старик с серпом или ветвью дерева. Он был особенно почитаем в сельской местности и ассоциировался с плодородием и защитой границ.",
+    "explanation_de": "Silvanus war der römische Gott der Wälder, Felder und Wildnis. Er war der Schutzpatron der Forstwirte, Hirten und Jäger. Silvanus wurde als alter Mann mit Sichel oder Ast dargestellt. Er wurde besonders in ländlichen Gebieten verehrt und mit Fruchtbarkeit und Grenzschutz assoziiert.",
+    "interesting_facts": [
+      {
+        "ru": "Сильван был одним из старейших римских богов и имел множество святилищ в лесах и на границах полей. Он защищал скот и урожаи от диких животных и болезней. Сильван также ассоциировался с границами и межевыми знаками.",
+        "de": "Silvanus war einer der ältesten römischen Götter und hatte viele Heiligtümer in Wäldern und an Feldgrenzen. Er schützte Vieh und Ernten vor wilden Tieren und Krankheiten. Silvanus wurde auch mit Grenzen und Grenzsteinen assoziiert."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 468,
+    "question_ru": "В каком году издан эдикт Каракаллы о гражданстве?",
+    "question_de": "In welchem Jahr wurde das Edikt des Caracalla über die Bürgerschaft erlassen?",
+    "correct_answer_ru": "212 год н.э.",
+    "correct_answer_de": "212 n. Chr.",
+    "wrong_answers_ru": [
+      "211 год н.э.",
+      "213 год н.э.",
+      "215 год н.э."
+    ],
+    "wrong_answers_de": [
+      "211 n. Chr.",
+      "213 n. Chr.",
+      "215 n. Chr."
+    ],
+    "explanation_ru": "Эдикт Каракаллы (Constitutio Antoniniana) был издан в 212 году н.э. и предоставил римское гражданство всем свободным жителям империи. Это был один из самых важных указов в римской истории, который изменил социальную структуру империи. Эдикт увеличил налоговую базу, но также расширил права миллионов людей.",
+    "explanation_de": "Das Edikt des Caracalla (Constitutio Antoniniana) wurde 212 n. Chr. erlassen und gewährte allen freien Einwohnern des Reiches die römische Bürgerschaft. Es war eines der wichtigsten Edikte in der römischen Geschichte, das die soziale Struktur des Reiches veränderte. Das Edikt erhöhte die Steuerbasis, erweiterte aber auch die Rechte von Millionen von Menschen.",
+    "interesting_facts": [
+      {
+        "ru": "Эдикт Каракаллы был мотивирован финансовыми соображениями - только римские граждане платили определённые налоги. Однако он также имел глубокие социальные последствия. Все свободные жители империи получили равные права, что способствовало унификации империи.",
+        "de": "Das Edikt des Caracalla war von finanziellen Überlegungen motiviert - nur römische Bürger zahlten bestimmte Steuern. Es hatte jedoch auch tiefgreifende soziale Auswirkungen. Alle freien Einwohner des Reiches erhielten gleiche Rechte, was zur Vereinheitlichung des Reiches beitrug."
+      },
+      {
+        "ru": "Эдикт Каракаллы знаменовал конец особого статуса римского гражданства. До этого гражданство было привилегией, которую нужно было заслужить. После эдикта все свободные люди в империи стали равны перед законом, что было революционным изменением.",
+        "de": "Das Edikt des Caracalla markierte das Ende des besonderen Status der römischen Bürgerschaft. Vorher war die Bürgerschaft ein Privileg, das verdient werden musste. Nach dem Edikt waren alle freien Menschen im Reich vor dem Gesetz gleich, was eine revolutionäre Veränderung war."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "212 CE",
+    "tags": [
+      "законы",
+      "гражданство"
+    ]
+  },
+  {
+    "id": 469,
+    "question_ru": "Какой поэт написал 'Метаморфозы'?",
+    "question_de": "Welcher Dichter schrieb die 'Metamorphosen'?",
+    "correct_answer_ru": "Овидий",
+    "correct_answer_de": "Ovid",
+    "wrong_answers_ru": [
+      "Вергилий",
+      "Гораций",
+      "Катулл"
+    ],
+    "wrong_answers_de": [
+      "Vergil",
+      "Horaz",
+      "Catull"
+    ],
+    "explanation_ru": "Публий Овидий Назон написал 'Метаморфозы' - эпическую поэму из 15 книг, рассказывающую о мифологических превращениях. Поэма содержит более 250 мифов и охватывает период от сотворения мира до обожествления Цезаря. Овидий был одним из величайших римских поэтов и мастером элегического стиха.",
+    "explanation_de": "Publius Ovidius Naso schrieb die 'Metamorphosen' - ein episches Gedicht aus 15 Büchern, das von mythologischen Verwandlungen erzählt. Das Gedicht enthält über 250 Mythen und umfasst die Zeit von der Schöpfung bis zur Vergöttlichung Cäsars. Ovid war einer der größten römischen Dichter und Meister des elegischen Verses.",
+    "interesting_facts": [
+      {
+        "ru": "Овидий был изгнан из Рима императором Августом в 8 году н.э. по неизвестным причинам. Он провёл остаток жизни в изгнании на Чёрном море и писал грустные стихи о своей тоске по Риму. 'Метаморфозы' стали одним из самых влиятельных произведений в западной литературе.",
+        "de": "Ovid wurde 8 n. Chr. von Kaiser Augustus aus Rom verbannt, aus unbekannten Gründen. Er verbrachte den Rest seines Lebens im Exil am Schwarzen Meer und schrieb traurige Gedichte über seine Sehnsucht nach Rom. Die 'Metamorphosen' wurden zu einem der einflussreichsten Werke der westlichen Literatur."
+      },
+      {
+        "ru": "'Метаморфозы' оказали огромное влияние на искусство и литературу последующих веков. Многие художники и писатели черпали вдохновение из мифов Овидия. Поэма написана гекзаметром и демонстрирует виртуозное владение языком и стилем.",
+        "de": "Die 'Metamorphosen' hatten einen enormen Einfluss auf Kunst und Literatur der folgenden Jahrhunderte. Viele Künstler und Schriftsteller schöpften Inspiration aus Ovids Mythen. Das Gedicht ist in Hexametern geschrieben und zeigt virtuose Beherrschung von Sprache und Stil."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "поэзия"
+    ]
+  },
+  {
+    "id": 470,
+    "question_ru": "Как называлась римская галера?",
+    "question_de": "Wie hieß die römische Galeere?",
+    "correct_answer_ru": "Либурна",
+    "correct_answer_de": "Liburne",
+    "wrong_answers_ru": [
+      "Трирема",
+      "Квинкверема",
+      "Актуария"
+    ],
+    "wrong_answers_de": [
+      "Trireme",
+      "Quinquereme",
+      "Actuaria"
+    ],
+    "explanation_ru": "Либурна была лёгким и быстрым римским военным кораблём, первоначально использовавшимся иллирийскими пиратами из Либурнии. Римляне переняли конструкцию либурны и использовали её для разведки, преследования и быстрых атак. Либурна была меньше триремы, но более манёвренной.",
+    "explanation_de": "Die Liburne war ein leichtes und schnelles römisches Kriegsschiff, das ursprünglich von illyrischen Piraten aus Liburnien verwendet wurde. Die Römer übernahmen das Design der Liburne und verwendeten sie für Aufklärung, Verfolgung und schnelle Angriffe. Die Liburne war kleiner als die Trireme, aber wendiger.",
+    "interesting_facts": [
+      {
+        "ru": "Либурна имела два ряда вёсел и была очень быстрой. Она использовалась как вспомогательное судно в римских флотах и была особенно эффективна против пиратов. Либурна стала стандартным типом лёгкого военного корабля в римском флоте.",
+        "de": "Die Liburne hatte zwei Reihen von Rudern und war sehr schnell. Sie wurde als Hilfsschiff in römischen Flotten verwendet und war besonders effektiv gegen Piraten. Die Liburne wurde zum Standardtyp eines leichten Kriegsschiffs in der römischen Flotte."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "флот",
+      "корабли"
+    ]
+  },
+  {
+    "id": 471,
+    "question_ru": "Кто была богиня плодородия?",
+    "question_de": "Wer war die Göttin der Fruchtbarkeit?",
+    "correct_answer_ru": "Церера",
+    "correct_answer_de": "Ceres",
+    "wrong_answers_ru": [
+      "Деметра",
+      "Флора",
+      "Теллус"
+    ],
+    "wrong_answers_de": [
+      "Demeter",
+      "Flora",
+      "Tellus"
+    ],
+    "explanation_ru": "Церера была римской богиней земледелия, плодородия и урожая. Она была отождествлена с греческой Деметрой и стала одной из главных богинь римского пантеона. Церера была покровительницей земледельцев и защитницей урожая. Её праздник, Цереалии, отмечался в апреле.",
+    "explanation_de": "Ceres war die römische Göttin der Landwirtschaft, Fruchtbarkeit und Ernte. Sie wurde mit der griechischen Demeter identifiziert und wurde zu einer der Hauptgöttinnen des römischen Pantheons. Ceres war die Schutzpatronin der Landwirte und Beschützerin der Ernte. Ihr Fest, die Cerealia, wurde im April gefeiert.",
+    "interesting_facts": [
+      {
+        "ru": "Церера была особенно важна для римлян, так как они зависели от сельского хозяйства. Её храм на Авентинском холме был центром её культа. Церера также ассоциировалась с законом и защитой плебеев. Её имя дало название злакам (cereals).",
+        "de": "Ceres war besonders wichtig für die Römer, da sie von der Landwirtschaft abhängig waren. Ihr Tempel auf dem Aventinischen Hügel war das Zentrum ihres Kultes. Ceres wurde auch mit Gesetz und Schutz der Plebejer assoziiert. Ihr Name gab den Getreidearten (cereals) ihren Namen."
+      },
+      {
+        "ru": "Культ Цереры включал мистерии, подобные элевсинским мистериям в Греции. Церера была матерью Прозерпины, которая была похищена Плутоном. Миф о похищении объяснял смену времён года и был важной частью культа Цереры.",
+        "de": "Der Kult der Ceres umfasste Mysterien, ähnlich den eleusinischen Mysterien in Griechenland. Ceres war die Mutter der Proserpina, die von Pluto entführt wurde. Der Mythos der Entführung erklärte den Wechsel der Jahreszeiten und war ein wichtiger Teil des Kultes der Ceres."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "земледелие"
+    ]
+  },
+  {
+    "id": 472,
+    "question_ru": "В каком году началась Первая Пуническая война?",
+    "question_de": "In welchem Jahr begann der Erste Punische Krieg?",
+    "correct_answer_ru": "264 год до н.э.",
+    "correct_answer_de": "264 v. Chr.",
+    "wrong_answers_ru": [
+      "265 год до н.э.",
+      "263 год до н.э.",
+      "260 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "265 v. Chr.",
+      "263 v. Chr.",
+      "260 v. Chr."
+    ],
+    "explanation_ru": "Первая Пуническая война началась в 264 году до н.э. и длилась 23 года до 241 года до н.э. Война велась между Римом и Карфагеном за контроль над Сицилией. Это была первая из трёх Пунических войн, которые определили судьбу Западного Средиземноморья. Война закончилась победой Рима.",
+    "explanation_de": "Der Erste Punische Krieg begann 264 v. Chr. und dauerte 23 Jahre bis 241 v. Chr. Der Krieg wurde zwischen Rom und Karthago um die Kontrolle über Sizilien geführt. Es war der erste der drei Punischen Kriege, die das Schicksal des westlichen Mittelmeers bestimmten. Der Krieg endete mit einem römischen Sieg.",
+    "interesting_facts": [
+      {
+        "ru": "Первая Пуническая война была в основном морской войной, что было новым для римлян. Римлянам пришлось быстро построить флот и научиться морской тактике. Они использовали абордажные мостики (corvus), чтобы превратить морские сражения в сухопутные бои, где они имели преимущество.",
+        "de": "Der Erste Punische Krieg war hauptsächlich ein Seekrieg, was für die Römer neu war. Die Römer mussten schnell eine Flotte bauen und Seetaktik lernen. Sie verwendeten Enterbrücken (corvus), um Seeschlachten in Landkämpfe zu verwandeln, wo sie einen Vorteil hatten."
+      },
+      {
+        "ru": "Война была очень дорогой для обеих сторон и привела к огромным потерям. Римляне потеряли сотни кораблей, но в конечном итоге победили благодаря своей настойчивости и ресурсам. Победа в Первой Пунической войне сделала Рим доминирующей силой в Западном Средиземноморье.",
+        "de": "Der Krieg war für beide Seiten sehr teuer und führte zu enormen Verlusten. Die Römer verloren Hunderte von Schiffen, siegten aber letztendlich dank ihrer Beharrlichkeit und Ressourcen. Der Sieg im Ersten Punischen Krieg machte Rom zur dominierenden Macht im westlichen Mittelmeer."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "264 BCE",
+    "tags": [
+      "войны",
+      "Карфаген"
+    ]
+  },
+  {
+    "id": 473,
+    "question_ru": "Какой медик написал труды по анатомии?",
+    "question_de": "Welcher Mediziner schrieb Werke über Anatomie?",
+    "correct_answer_ru": "Гален",
+    "correct_answer_de": "Galen",
+    "wrong_answers_ru": [
+      "Гиппократ",
+      "Асклепиад",
+      "Цельс"
+    ],
+    "wrong_answers_de": [
+      "Hippokrates",
+      "Asklepiades",
+      "Celsus"
+    ],
+    "explanation_ru": "Клавдий Гален был греческим врачом, который работал в Риме во II веке н.э. Он написал множество медицинских трактатов по анатомии, физиологии и патологии. Гален провёл множество вскрытий животных и создал подробные описания человеческого тела. Его работы оставались авторитетными в медицине более тысячи лет.",
+    "explanation_de": "Claudius Galenus war ein griechischer Arzt, der im 2. Jahrhundert n. Chr. in Rom arbeitete. Er schrieb viele medizinische Abhandlungen über Anatomie, Physiologie und Pathologie. Galen führte viele Tierpräparationen durch und erstellte detaillierte Beschreibungen des menschlichen Körpers. Seine Werke blieben über tausend Jahre lang maßgeblich in der Medizin.",
+    "interesting_facts": [
+      {
+        "ru": "Гален был врачом нескольких римских императоров, включая Марка Аврелия. Он провёл множество экспериментов и наблюдений, хотя ему не разрешалось вскрывать человеческие тела. Гален создал теорию четырёх жидкостей (гуморов), которая доминировала в медицине до эпохи Возрождения.",
+        "de": "Galen war Arzt mehrerer römischer Kaiser, einschließlich Mark Aurel. Er führte viele Experimente und Beobachtungen durch, obwohl ihm nicht erlaubt war, menschliche Körper zu sezieren. Galen schuf die Theorie der vier Säfte (Humore), die die Medizin bis zur Renaissance dominierte."
+      },
+      {
+        "ru": "Работы Галена были переведены на арабский и латынь и стали основой медицинского образования в Европе и арабском мире. Его анатомические описания, хотя и содержали ошибки, были самыми подробными в античности. Гален считается одним из отцов медицины.",
+        "de": "Galens Werke wurden ins Arabische und Lateinische übersetzt und wurden zur Grundlage der medizinischen Ausbildung in Europa und der arabischen Welt. Seine anatomischen Beschreibungen, obwohl sie Fehler enthielten, waren die detailliertesten in der Antike. Galen gilt als einer der Väter der Medizin."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "медицина",
+      "наука"
+    ]
+  },
+  {
+    "id": 474,
+    "question_ru": "Как назывался римский таран?",
+    "question_de": "Wie hieß der römische Rammbock?",
+    "correct_answer_ru": "Ариес",
+    "correct_answer_de": "Aries",
+    "wrong_answers_ru": [
+      "Баллиста",
+      "Онагр",
+      "Скорпион"
+    ],
+    "wrong_answers_de": [
+      "Ballista",
+      "Onager",
+      "Skorpion"
+    ],
+    "explanation_ru": "Ариес (таран) был осадным орудием, использовавшимся для разрушения стен и ворот. Он состоял из большого бревна с металлическим наконечником, подвешенного на раме. Солдаты раскачивали таран и били им по стенам, пока они не разрушались. Таран был защищён навесом от стрел и камней.",
+    "explanation_de": "Der Aries (Rammbock) war eine Belagerungswaffe, die zum Zerstören von Mauern und Toren verwendet wurde. Er bestand aus einem großen Baumstamm mit einer Metallspitze, der an einem Rahmen aufgehängt war. Soldaten schwang den Rammbock und schlugen damit gegen die Mauern, bis sie zusammenbrachen. Der Rammbock war durch ein Dach vor Pfeilen und Steinen geschützt.",
+    "interesting_facts": [
+      {
+        "ru": "Таран был одним из самых эффективных осадных орудий в древности. Он мог разрушить даже самые крепкие стены при достаточном времени. Римляне использовали тараны в сочетании с другими осадными машинами. Защитники часто пытались захватить или уничтожить таран.",
+        "de": "Der Rammbock war eine der effektivsten Belagerungswaffen der Antike. Er konnte sogar die stärksten Mauern bei ausreichender Zeit zerstören. Die Römer verwendeten Rammböcke in Kombination mit anderen Belagerungsmaschinen. Verteidiger versuchten oft, den Rammbock zu erobern oder zu zerstören."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "оружие",
+      "осады"
+    ]
+  },
+  {
+    "id": 475,
+    "question_ru": "Кто был богом урожая?",
+    "question_de": "Wer war der Gott der Ernte?",
+    "correct_answer_ru": "Сатурн",
+    "correct_answer_de": "Saturn",
+    "wrong_answers_ru": [
+      "Церера",
+      "Конс",
+      "Опа"
+    ],
+    "wrong_answers_de": [
+      "Ceres",
+      "Consus",
+      "Ops"
+    ],
+    "explanation_ru": "Сатурн был римским богом земледелия, урожая и времени. Он был отождествлён с греческим Кроносом и считался богом золотого века. Сатурн изображался с серпом и ассоциировался с сельским хозяйством. Его праздник, Сатурналии, был одним из самых популярных в Риме.",
+    "explanation_de": "Saturn war der römische Gott der Landwirtschaft, Ernte und Zeit. Er wurde mit dem griechischen Kronos identifiziert und galt als Gott des goldenen Zeitalters. Saturn wurde mit einer Sichel dargestellt und mit Landwirtschaft assoziiert. Sein Fest, die Saturnalia, war eines der beliebtesten in Rom.",
+    "interesting_facts": [
+      {
+        "ru": "Сатурналии были праздником, когда социальные роли менялись местами - рабы могли командовать хозяевами. Праздник длился несколько дней и включал пиршества, подарки и веселье. Сатурналии стали прообразом современных рождественских праздников.",
+        "de": "Die Saturnalia waren ein Fest, bei dem soziale Rollen vertauscht wurden - Sklaven konnten ihre Herren befehligen. Das Fest dauerte mehrere Tage und umfasste Festmähler, Geschenke und Fröhlichkeit. Die Saturnalia wurden zum Vorbild für moderne Weihnachtsfeiern."
+      },
+      {
+        "ru": "Храм Сатурна на римском форуме был одним из старейших и важнейших храмов. В нём хранилась государственная казна. Сатурн считался богом изобилия и процветания. Его имя дало название планете Сатурн и дню недели суббота (Saturday).",
+        "de": "Der Tempel des Saturn auf dem römischen Forum war einer der ältesten und wichtigsten Tempel. In ihm wurde die Staatskasse aufbewahrt. Saturn galt als Gott des Überflusses und Wohlstands. Sein Name gab dem Planeten Saturn und dem Wochentag Samstag (Saturday) ihren Namen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "земледелие"
+    ]
+  },
+  {
+    "id": 476,
+    "question_ru": "В каком году началась Вторая Пуническая война?",
+    "question_de": "In welchem Jahr begann der Zweite Punische Krieg?",
+    "correct_answer_ru": "218 год до н.э.",
+    "correct_answer_de": "218 v. Chr.",
+    "wrong_answers_ru": [
+      "216 год до н.э.",
+      "202 год до н.э.",
+      "264 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "216 v. Chr.",
+      "202 v. Chr.",
+      "264 v. Chr."
+    ],
+    "explanation_ru": "Вторая Пуническая война началась в 218 году до н.э., когда Ганнибал вторгся в Италию, перейдя через Альпы. Война длилась 17 лет до 201 года до н.э. и была самой разрушительной из трёх Пунических войн. Ганнибал одержал несколько крупных побед, но в конечном итоге был разгромлен Сципионом Африканским.",
+    "explanation_de": "Der Zweite Punische Krieg begann 218 v. Chr., als Hannibal in Italien einfiel, nachdem er die Alpen überquert hatte. Der Krieg dauerte 17 Jahre bis 201 v. Chr. und war der verheerendste der drei Punischen Kriege. Hannibal errang mehrere große Siege, wurde aber letztendlich von Scipio Africanus besiegt.",
+    "interesting_facts": [
+      {
+        "ru": "Вторая Пуническая война была самой знаменитой из Пунических войн благодаря военному гению Ганнибала. Его переход через Альпы со слонами стал легендарным. Война потрясла Рим до основания, но римляне проявили невероятную стойкость и в конечном итоге победили.",
+        "de": "Der Zweite Punische Krieg war der berühmteste der Punischen Kriege dank des militärischen Genies Hannibals. Sein Übergang über die Alpen mit Elefanten wurde legendär. Der Krieg erschütterte Rom bis in die Grundfesten, aber die Römer zeigten unglaubliche Widerstandsfähigkeit und siegten letztendlich."
+      },
+      {
+        "ru": "Война велась не только в Италии, но и в Испании, Сицилии и Африке. Римляне перенесли войну в Африку, что заставило Ганнибала покинуть Италию. Битва при Заме в 202 году до н.э. положила конец войне и установила римское господство.",
+        "de": "Der Krieg wurde nicht nur in Italien, sondern auch in Spanien, Sizilien und Afrika geführt. Die Römer verlegten den Krieg nach Afrika, was Hannibal zwang, Italien zu verlassen. Die Schlacht von Zama 202 v. Chr. beendete den Krieg und etablierte die römische Vorherrschaft."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "218 BCE",
+    "tags": [
+      "войны",
+      "Ганнибал"
+    ]
+  },
+  {
+    "id": 477,
+    "question_ru": "Какой философ написал 'О природе вещей'?",
+    "question_de": "Welcher Philosoph schrieb 'Über die Natur der Dinge'?",
+    "correct_answer_ru": "Лукреций",
+    "correct_answer_de": "Lucretius",
+    "wrong_answers_ru": [
+      "Эпикур",
+      "Цицерон",
+      "Сенека"
+    ],
+    "wrong_answers_de": [
+      "Epikur",
+      "Cicero",
+      "Seneca"
+    ],
+    "explanation_ru": "Тит Лукреций Кар написал философскую поэму 'О природе вещей' (De rerum natura) в I веке до н.э. Поэма излагает эпикурейскую философию и атомистическую теорию в стихотворной форме. Лукреций объясняет природу вселенной, материи и души, используя поэзию для передачи сложных философских идей.",
+    "explanation_de": "Titus Lucretius Carus schrieb das philosophische Gedicht 'Über die Natur der Dinge' (De rerum natura) im 1. Jahrhundert v. Chr. Das Gedicht legt die epikureische Philosophie und die atomistische Theorie in Versform dar. Lucretius erklärt die Natur des Universums, der Materie und der Seele und verwendet Poesie, um komplexe philosophische Ideen zu vermitteln.",
+    "interesting_facts": [
+      {
+        "ru": "Лукреций был одним из величайших поэтов-философов Древнего Рима. Его поэма оказала огромное влияние на последующих философов и учёных. Лукреций излагал идеи Эпикура о том, что вселенная состоит из атомов и пустоты, что было революционным для того времени.",
+        "de": "Lucretius war einer der größten Dichter-Philosophen des antiken Roms. Sein Gedicht hatte einen enormen Einfluss auf nachfolgende Philosophen und Wissenschaftler. Lucretius legte Epikurs Ideen dar, dass das Universum aus Atomen und Leere besteht, was für die damalige Zeit revolutionär war."
+      },
+      {
+        "ru": "Поэма Лукреция была почти утеряна в Средневековье, но была заново открыта в эпоху Возрождения. Она оказала влияние на таких мыслителей, как Монтень и Ньютон. Лукреций также критиковал религию и суеверия, пропагандируя рациональное мышление.",
+        "de": "Lucretius' Gedicht wurde im Mittelalter fast verloren, wurde aber in der Renaissance wiederentdeckt. Es beeinflusste Denker wie Montaigne und Newton. Lucretius kritisierte auch Religion und Aberglauben und förderte rationales Denken."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "философия",
+      "поэзия"
+    ]
+  },
+  {
+    "id": 478,
+    "question_ru": "Как называлась римская когорта?",
+    "question_de": "Wie hieß die römische Kohorte?",
+    "correct_answer_ru": "Подразделение легиона",
+    "correct_answer_de": "Untereinheit der Legion",
+    "wrong_answers_ru": [
+      "Отряд центуриона",
+      "Группа легионеров",
+      "Военное формирование"
+    ],
+    "wrong_answers_de": [
+      "Einheit des Zenturios",
+      "Gruppe von Legionären",
+      "Militärische Formation"
+    ],
+    "explanation_ru": "Когорта была основным тактическим подразделением римского легиона, состоявшим из 6 центурий (около 480-600 человек). Легион состоял из 10 когорт. Когорта была более гибкой единицей, чем старая манипула, и позволяла легиону действовать более эффективно. Первая когорта была самой большой и элитной.",
+    "explanation_de": "Die Kohorte war die Haupttaktikeinheit der römischen Legion und bestand aus 6 Zenturien (etwa 480-600 Mann). Eine Legion bestand aus 10 Kohorten. Die Kohorte war flexibler als die alte Manipel und ermöglichte es der Legion, effektiver zu operieren. Die erste Kohorte war die größte und elitärste.",
+    "interesting_facts": [
+      {
+        "ru": "Реформа армии, введшая когорты вместо манипул, приписывается Марию в конце II века до н.э. Когорты были более универсальными и могли действовать независимо. Первая когорта имела двойную численность и состояла из лучших солдат легиона.",
+        "de": "Die Heeresreform, die Kohorten statt Manipeln einführte, wird Marius am Ende des 2. Jahrhunderts v. Chr. zugeschrieben. Kohorten waren vielseitiger und konnten unabhängig operieren. Die erste Kohorte hatte doppelte Stärke und bestand aus den besten Soldaten der Legion."
+      },
+      {
+        "ru": "Когорты были организованы по номерам от первой до десятой. Каждая когорта имела своё знамя и могла действовать как самостоятельная боевая единица. Эта система оставалась стандартной организацией римской армии на протяжении веков.",
+        "de": "Kohorten wurden von der ersten bis zur zehnten nummeriert. Jede Kohorte hatte ihre eigene Standarte und konnte als unabhängige Kampfeinheit operieren. Dieses System blieb die Standardorganisation der römischen Armee über Jahrhunderte."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "армия",
+      "организация"
+    ]
+  },
+  {
+    "id": 479,
+    "question_ru": "Кто был богом полей?",
+    "question_de": "Wer war der Gott der Felder?",
+    "correct_answer_ru": "Фавн",
+    "correct_answer_de": "Faunus",
+    "wrong_answers_ru": [
+      "Сильван",
+      "Пан",
+      "Вертумн"
+    ],
+    "wrong_answers_de": [
+      "Silvanus",
+      "Pan",
+      "Vertumnus"
+    ],
+    "explanation_ru": "Фавн был римским богом полей, лесов и пастухов. Он был отождествлён с греческим Паном и изображался как человек с козлиными ногами и рогами. Фавн был покровителем скотоводства и защитником стад. Его праздник, Луперкалии, был одним из древнейших римских праздников.",
+    "explanation_de": "Faunus war der römische Gott der Felder, Wälder und Hirten. Er wurde mit dem griechischen Pan identifiziert und als Mensch mit Ziegenbeinen und Hörnern dargestellt. Faunus war der Schutzpatron der Viehzucht und Beschützer der Herden. Sein Fest, die Lupercalia, war eines der ältesten römischen Feste.",
+    "interesting_facts": [
+      {
+        "ru": "Фавн был особенно почитаем в сельской местности и среди пастухов. Луперкалии отмечались 15 февраля и включали обряды плодородия. Жрецы Фавна, луперки, бегали по городу в козлиных шкурах и били женщин кожаными ремнями, чтобы обеспечить плодородие.",
+        "de": "Faunus wurde besonders in ländlichen Gebieten und unter Hirten verehrt. Die Lupercalia wurden am 15. Februar gefeiert und umfassten Fruchtbarkeitsriten. Die Priester des Faunus, die Luperci, liefen durch die Stadt in Ziegenfellen und schlugen Frauen mit Lederriemen, um Fruchtbarkeit zu gewährleisten."
+      },
+      {
+        "ru": "Фавн также ассоциировался с пророчествами и оракулами. Согласно легенде, он мог говорить с людьми во сне. Фавн был богом дикой природы и неконтролируемых сил. Его имя дало название фавнам - мифологическим существам, похожим на сатиров.",
+        "de": "Faunus wurde auch mit Prophezeiungen und Orakeln assoziiert. Der Legende nach konnte er mit Menschen im Traum sprechen. Faunus war der Gott der Wildnis und unkontrollierter Kräfte. Sein Name gab den Faunen - mythologischen Wesen ähnlich Satyrn - ihren Namen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 480,
+    "question_ru": "В каком году была битва при Треббии?",
+    "question_de": "In welchem Jahr fand die Schlacht an der Trebia statt?",
+    "correct_answer_ru": "218 год до н.э.",
+    "correct_answer_de": "218 v. Chr.",
+    "wrong_answers_ru": [
+      "217 год до н.э.",
+      "216 год до н.э.",
+      "219 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "217 v. Chr.",
+      "216 v. Chr.",
+      "219 v. Chr."
+    ],
+    "explanation_ru": "Битва при Треббии произошла в декабре 218 года до н.э. во время Второй Пунической войны. Это была первая крупная победа Ганнибала в Италии после перехода через Альпы. Ганнибал использовал засаду и разгромил римскую армию под командованием консула Тиберия Семпрония Лонга. Победа укрепила позиции Ганнибала в Италии.",
+    "explanation_de": "Die Schlacht an der Trebia fand im Dezember 218 v. Chr. während des Zweiten Punischen Krieges statt. Es war der erste große Sieg Hannibals in Italien nach der Überquerung der Alpen. Hannibal verwendete einen Hinterhalt und besiegte die römische Armee unter dem Kommando des Konsuls Tiberius Sempronius Longus. Der Sieg stärkte Hannibals Position in Italien.",
+    "interesting_facts": [
+      {
+        "ru": "Битва при Треббии показала тактическое превосходство Ганнибала. Он заманил римлян в ловушку, используя реку и засаду. Ганнибал использовал слонов и нумидийскую кавалерию, что дало ему преимущество. Эта победа заставила римлян пересмотреть свою стратегию.",
+        "de": "Die Schlacht an der Trebia zeigte die taktische Überlegenheit Hannibals. Er lockte die Römer in eine Falle, indem er den Fluss und einen Hinterhalt verwendete. Hannibal setzte Elefanten und numidische Kavallerie ein, was ihm einen Vorteil verschaffte. Dieser Sieg zwang die Römer, ihre Strategie zu überdenken."
+      },
+      {
+        "ru": "После битвы при Треббии многие галльские племена перешли на сторону Ганнибала. Это увеличило его армию и дало ему базу в Северной Италии. Римляне были вынуждены перейти к оборонительной стратегии, избегая крупных сражений.",
+        "de": "Nach der Schlacht an der Trebia wechselten viele gallische Stämme zu Hannibal. Dies vergrößerte seine Armee und gab ihm eine Basis in Norditalien. Die Römer waren gezwungen, zu einer defensiven Strategie überzugehen und große Schlachten zu vermeiden."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "218 BCE",
+    "tags": [
+      "битвы",
+      "Ганнибал"
+    ]
+  },
+  {
+    "id": 481,
+    "question_ru": "Какой астроном создал геоцентрическую систему?",
+    "question_de": "Welcher Astronom schuf das geozentrische System?",
+    "correct_answer_ru": "Птолемей",
+    "correct_answer_de": "Ptolemäus",
+    "wrong_answers_ru": [
+      "Аристарх",
+      "Гиппарх",
+      "Эратосфен"
+    ],
+    "wrong_answers_de": [
+      "Aristarch",
+      "Hipparch",
+      "Eratosthenes"
+    ],
+    "explanation_ru": "Клавдий Птолемей был греческим астрономом, математиком и географом, который работал в Александрии во II веке н.э. Он создал геоцентрическую систему, согласно которой Земля находится в центре вселенной, а все небесные тела вращаются вокруг неё. Его система доминировала в астрономии более 1400 лет.",
+    "explanation_de": "Claudius Ptolemäus war ein griechischer Astronom, Mathematiker und Geograph, der im 2. Jahrhundert n. Chr. in Alexandria arbeitete. Er schuf das geozentrische System, nach dem die Erde im Zentrum des Universums steht und alle Himmelskörper sich um sie drehen. Sein System dominierte die Astronomie über 1400 Jahre lang.",
+    "interesting_facts": [
+      {
+        "ru": "Птолемей написал 'Альмагест' - фундаментальный труд по астрономии, который стал стандартным учебником на протяжении веков. Его геоцентрическая система была опровергнута только Коперником в XVI веке. Птолемей также создал карту мира и каталог звёзд.",
+        "de": "Ptolemäus schrieb den 'Almagest' - ein grundlegendes Werk über Astronomie, das jahrhundertelang das Standardlehrbuch wurde. Sein geozentrisches System wurde erst von Kopernikus im 16. Jahrhundert widerlegt. Ptolemäus erstellte auch eine Weltkarte und einen Sternenkatalog."
+      },
+      {
+        "ru": "Птолемей использовал эпициклы и деференты для объяснения движения планет. Его система была математически сложной, но позволяла предсказывать положения планет с высокой точностью. Католическая церковь приняла систему Птолемея как официальную космологию.",
+        "de": "Ptolemäus verwendete Epizykel und Deferenten, um die Bewegung der Planeten zu erklären. Sein System war mathematisch komplex, ermöglichte aber die Vorhersage von Planetenpositionen mit hoher Genauigkeit. Die katholische Kirche übernahm Ptolemäus' System als offizielle Kosmologie."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "2nd century CE",
+    "tags": [
+      "астрономия",
+      "теории"
+    ]
+  },
+  {
+    "id": 482,
+    "question_ru": "Как называлась римская катапульта?",
+    "question_de": "Wie hieß die römische Katapult?",
+    "correct_answer_ru": "Онагр",
+    "correct_answer_de": "Onager",
+    "wrong_answers_ru": [
+      "Баллиста",
+      "Скорпион",
+      "Карробаллиста"
+    ],
+    "wrong_answers_de": [
+      "Ballista",
+      "Skorpion",
+      "Carroballista"
+    ],
+    "explanation_ru": "Онагр (дикий осёл) была римской катапультой, которая метала камни с помощью скрученных верёвок. Она имела один рычаг с пращой на конце и была очень мощной. Онагр использовалась для разрушения укреплений и метания больших камней на большие расстояния. Название 'онагр' происходит от отдачи машины, похожей на удар дикого осла.",
+    "explanation_de": "Der Onager (Wildesel) war eine römische Katapult, die Steine mit verdrehten Seilen schleuderte. Sie hatte einen Hebel mit einer Schleuder am Ende und war sehr kraftvoll. Der Onager wurde verwendet, um Befestigungen zu zerstören und große Steine über große Entfernungen zu schleudern. Der Name 'Onager' kommt vom Rückstoß der Maschine, der dem Tritt eines Wildesels ähnelt.",
+    "interesting_facts": [
+      {
+        "ru": "Онагр был одним из самых мощных осадных орудий римлян. Он мог метать камни весом до 50 килограммов на расстояние до 400 метров. Онагр требовал большой команды для обслуживания и был очень точным. Он использовался как в осадах, так и в полевых сражениях.",
+        "de": "Der Onager war eine der kraftvollsten Belagerungswaffen der Römer. Er konnte Steine mit einem Gewicht von bis zu 50 Kilogramm über eine Entfernung von bis zu 400 Metern schleudern. Der Onager erforderte eine große Besatzung zur Bedienung und war sehr präzise. Er wurde sowohl bei Belagerungen als auch in Feldschlachten verwendet."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century CE",
+    "tags": [
+      "оружие",
+      "осады"
+    ]
+  },
+  {
+    "id": 483,
+    "question_ru": "Кто была богиня луны?",
+    "question_de": "Wer war die Göttin des Mondes?",
+    "correct_answer_ru": "Луна",
+    "correct_answer_de": "Luna",
+    "wrong_answers_ru": [
+      "Диана",
+      "Селена",
+      "Геката"
+    ],
+    "wrong_answers_de": [
+      "Diana",
+      "Selene",
+      "Hekate"
+    ],
+    "explanation_ru": "Луна была римской богиней луны и ночи. Она была отождествлена с греческой Селеной и часто ассоциировалась с Дианой. Луна изображалась как женщина с лунным диском на голове или в колеснице, запряжённой лошадьми или быками. Она была покровительницей ночных путешествий и магии.",
+    "explanation_de": "Luna war die römische Göttin des Mondes und der Nacht. Sie wurde mit der griechischen Selene identifiziert und oft mit Diana assoziiert. Luna wurde als Frau mit einer Mondscheibe auf dem Kopf oder in einem von Pferden oder Ochsen gezogenen Wagen dargestellt. Sie war die Schutzpatronin nächtlicher Reisen und Magie.",
+    "interesting_facts": [
+      {
+        "ru": "Луна была особенно почитаема в ночное время и ассоциировалась с циклами и переменами. Её храм на Авентинском холме был одним из важных святилищ. Луна также ассоциировалась с женственностью и плодородием. Её имя дало название луне и понедельнику (Monday - день луны).",
+        "de": "Luna wurde besonders in der Nacht verehrt und mit Zyklen und Veränderungen assoziiert. Ihr Tempel auf dem Aventinischen Hügel war eines der wichtigen Heiligtümer. Luna wurde auch mit Weiblichkeit und Fruchtbarkeit assoziiert. Ihr Name gab dem Mond und dem Montag (Monday - Tag des Mondes) ihren Namen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "небо"
+    ]
+  },
+  {
+    "id": 484,
+    "question_ru": "В каком году произошла битва при Тразименском озере?",
+    "question_de": "In welchem Jahr fand die Schlacht am Trasimenischen See statt?",
+    "correct_answer_ru": "217 год до н.э.",
+    "correct_answer_de": "217 v. Chr.",
+    "wrong_answers_ru": [
+      "218 год до н.э.",
+      "216 год до н.э.",
+      "215 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "218 v. Chr.",
+      "216 v. Chr.",
+      "215 v. Chr."
+    ],
+    "explanation_ru": "Битва при Тразименском озере произошла 21 июня 217 года до н.э. во время Второй Пунической войны. Ганнибал устроил засаду римской армии под командованием консула Гая Фламиния и полностью разгромил её. Это была одна из самых сокрушительных побед Ганнибала, в которой погибло около 15 000 римских солдат.",
+    "explanation_de": "Die Schlacht am Trasimenischen See fand am 21. Juni 217 v. Chr. während des Zweiten Punischen Krieges statt. Hannibal veranstaltete einen Hinterhalt für die römische Armee unter dem Kommando des Konsuls Gaius Flaminius und vernichtete sie vollständig. Es war einer der verheerendsten Siege Hannibals, bei dem etwa 15.000 römische Soldaten starben.",
+    "interesting_facts": [
+      {
+        "ru": "Битва при Тразименском озере была классической засадой. Ганнибал использовал туман и рельеф местности, чтобы скрыть свои войска. Римляне были застигнуты врасплох и не смогли организовать оборону. Консул Фламиний погиб в бою.",
+        "de": "Die Schlacht am Trasimenischen See war ein klassischer Hinterhalt. Hannibal nutzte Nebel und Gelände, um seine Truppen zu verbergen. Die Römer wurden überrascht und konnten keine Verteidigung organisieren. Konsul Flaminius starb im Kampf."
+      },
+      {
+        "ru": "После битвы при Тразименском озере римляне назначили диктатора Квинта Фабия Максима, который использовал тактику 'выжженной земли' и избегал крупных сражений. Эта стратегия получила название 'тактика Фабия' и позволила римлянам выиграть время.",
+        "de": "Nach der Schlacht am Trasimenischen See ernannten die Römer den Diktator Quintus Fabius Maximus, der eine Taktik der 'verbrannten Erde' verwendete und große Schlachten vermied. Diese Strategie wurde 'Fabianische Taktik' genannt und ermöglichte es den Römern, Zeit zu gewinnen."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "217 BCE",
+    "tags": [
+      "битвы",
+      "Ганнибал"
+    ]
+  },
+  {
+    "id": 485,
+    "question_ru": "Какой архитектор написал об архитектуре?",
+    "question_de": "Welcher Architekt schrieb über Architektur?",
+    "correct_answer_ru": "Витрувий",
+    "correct_answer_de": "Vitruv",
+    "wrong_answers_ru": [
+      "Аполлодор",
+      "Рабирий",
+      "Север"
+    ],
+    "wrong_answers_de": [
+      "Apollodor",
+      "Rabirius",
+      "Severus"
+    ],
+    "explanation_ru": "Марк Витрувий Поллион написал 'Десять книг об архитектуре' (De architectura) в I веке до н.э. Это единственный сохранившийся трактат об архитектуре из античности. Витрувий описал принципы архитектуры, строительные материалы, инженерные решения и эстетику. Его работы оказали огромное влияние на архитектуру эпохи Возрождения.",
+    "explanation_de": "Marcus Vitruvius Pollio schrieb 'Zehn Bücher über Architektur' (De architectura) im 1. Jahrhundert v. Chr. Es ist der einzige erhaltene Architekturtraktat aus der Antike. Vitruv beschrieb Architekturprinzipien, Baumaterialien, Ingenieurslösungen und Ästhetik. Seine Werke hatten einen enormen Einfluss auf die Architektur der Renaissance.",
+    "interesting_facts": [
+      {
+        "ru": "Витрувий сформулировал три принципа архитектуры: прочность (firmitas), полезность (utilitas) и красота (venustas). Эти принципы остаются актуальными и сегодня. Витрувий также описал идеальные пропорции человеческого тела, что вдохновило знаменитый рисунок Леонардо да Винчи 'Витрувианский человек'.",
+        "de": "Vitruv formulierte drei Architekturprinzipien: Festigkeit (firmitas), Nützlichkeit (utilitas) und Schönheit (venustas). Diese Prinzipien bleiben bis heute relevant. Vitruv beschrieb auch die idealen Proportionen des menschlichen Körpers, was Leonardo da Vincis berühmte Zeichnung 'Der vitruvianische Mensch' inspirierte."
+      },
+      {
+        "ru": "Трактат Витрувия был заново открыт в эпоху Возрождения и стал основой для архитектурного образования. Многие архитекторы, включая Палладио и Альберти, черпали вдохновение из его работ. Витрувий также описал римские акведуки, дороги и военные машины.",
+        "de": "Vitruvs Traktat wurde in der Renaissance wiederentdeckt und wurde zur Grundlage der architektonischen Ausbildung. Viele Architekten, einschließlich Palladio und Alberti, schöpften Inspiration aus seinen Werken. Vitruv beschrieb auch römische Aquädukte, Straßen und Militärmaschinen."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "архитектура",
+      "литература"
+    ]
+  },
+  {
+    "id": 486,
+    "question_ru": "Как назывались римские гладиаторы?",
+    "question_de": "Wie hießen die römischen Gladiatoren?",
+    "correct_answer_ru": "Гладиаторы",
+    "correct_answer_de": "Gladiatoren",
+    "wrong_answers_ru": [
+      "Бестиарии",
+      "Ретиарии",
+      "Секуторы"
+    ],
+    "wrong_answers_de": [
+      "Bestiarii",
+      "Retiarii",
+      "Secutores"
+    ],
+    "explanation_ru": "Гладиаторы были профессиональными бойцами в Древнем Риме, которые сражались на аренах для развлечения публики. Название происходит от слова 'гладиус' (меч). Гладиаторы были рабами, военнопленными или добровольцами. Они проходили специальную подготовку в гладиаторских школах и сражались в различных типах вооружения.",
+    "explanation_de": "Gladiatoren waren professionelle Kämpfer im antiken Rom, die auf Arenen zur Unterhaltung der Öffentlichkeit kämpften. Der Name kommt vom Wort 'Gladius' (Schwert). Gladiatoren waren Sklaven, Kriegsgefangene oder Freiwillige. Sie durchliefen eine spezielle Ausbildung in Gladiatorenschulen und kämpften in verschiedenen Waffentypen.",
+    "interesting_facts": [
+      {
+        "ru": "Гладиаторы были разделены на типы в зависимости от вооружения: секуторы, ретиарии, мурмиллоны и другие. Каждый тип имел свои преимущества и недостатки. Гладиаторы могли стать очень популярными и богатыми, если выживали достаточно долго. Некоторые гладиаторы получали свободу после многих побед.",
+        "de": "Gladiatoren wurden je nach Bewaffnung in Typen eingeteilt: Secutores, Retiarii, Murmillonen und andere. Jeder Typ hatte seine Vor- und Nachteile. Gladiatoren konnten sehr populär und reich werden, wenn sie lange genug überlebten. Einige Gladiatoren erhielten die Freiheit nach vielen Siegen."
+      },
+      {
+        "ru": "Гладиаторские бои были очень популярны в Риме и собирали огромные толпы. Игры в Колизее могли длиться целый день и включать сотни бойцов. Гладиаторы сражались не только друг с другом, но и с дикими животными. Бои были смертельными, но не все бои заканчивались смертью.",
+        "de": "Gladiatorenkämpfe waren in Rom sehr beliebt und zogen riesige Menschenmengen an. Die Spiele im Kolosseum konnten den ganzen Tag dauern und Hunderte von Kämpfern umfassen. Gladiatoren kämpften nicht nur gegeneinander, sondern auch gegen wilde Tiere. Die Kämpfe waren tödlich, aber nicht alle Kämpfe endeten mit dem Tod."
+      }
+    ],
+    "difficulty": "easy",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "развлечения",
+      "бои"
+    ]
+  },
+  {
+    "id": 487,
+    "question_ru": "Кто был богом садов?",
+    "question_de": "Wer war der Gott der Gärten?",
+    "correct_answer_ru": "Вертумн",
+    "correct_answer_de": "Vertumnus",
+    "wrong_answers_ru": [
+      "Фавн",
+      "Помона",
+      "Флора"
+    ],
+    "wrong_answers_de": [
+      "Faunus",
+      "Pomona",
+      "Flora"
+    ],
+    "explanation_ru": "Вертумн был римским богом садов, фруктовых деревьев и смены времён года. Он был покровителем садоводов и ассоциировался с превращениями и изменениями. Вертумн изображался с садовыми инструментами и часто в сопровождении Помоны, богини фруктов. Он мог менять свой облик, что отражало смену времён года.",
+    "explanation_de": "Vertumnus war der römische Gott der Gärten, Obstbäume und des Wechsels der Jahreszeiten. Er war der Schutzpatron der Gärtner und wurde mit Verwandlungen und Veränderungen assoziiert. Vertumnus wurde mit Gartengeräten dargestellt und oft in Begleitung von Pomona, der Göttin der Früchte. Er konnte sein Aussehen ändern, was den Wechsel der Jahreszeiten widerspiegelte.",
+    "interesting_facts": [
+      {
+        "ru": "Вертумн был особенно почитаем в сельской местности и среди садоводов. Его способность менять облик символизировала циклы природы и смену времён года. Вертумн ухаживал за Помоной, богиней фруктов, и в конце концов женился на ней.",
+        "de": "Vertumnus wurde besonders in ländlichen Gebieten und unter Gärtnern verehrt. Seine Fähigkeit, das Aussehen zu ändern, symbolisierte die Zyklen der Natur und den Wechsel der Jahreszeiten. Vertumnus umwarb Pomona, die Göttin der Früchte, und heiratete sie schließlich."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 488,
+    "question_ru": "В каком году была осада Алезии?",
+    "question_de": "In welchem Jahr war die Belagerung von Alesia?",
+    "correct_answer_ru": "52 год до н.э.",
+    "correct_answer_de": "52 v. Chr.",
+    "wrong_answers_ru": [
+      "51 год до н.э.",
+      "53 год до н.э.",
+      "58 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "51 v. Chr.",
+      "53 v. Chr.",
+      "58 v. Chr."
+    ],
+    "explanation_ru": "Осада Алезии произошла в 52 году до н.э. во время Галльских войн. Юлий Цезарь осадил галльскую крепость Алезию, где укрылся вождь Верцингеториг. Цезарь построил двойную линию укреплений - одну против осаждённых, другую против галльской армии помощи. После длительной осады галлы сдались, что положило конец сопротивлению.",
+    "explanation_de": "Die Belagerung von Alesia fand 52 v. Chr. während der Gallischen Kriege statt. Julius Cäsar belagerte die gallische Festung Alesia, wo sich der Anführer Vercingetorix verschanzt hatte. Cäsar baute eine doppelte Befestigungslinie - eine gegen die Belagerten, eine andere gegen die gallische Entsatzarmee. Nach langer Belagerung ergaben sich die Gallier, was dem Widerstand ein Ende setzte.",
+    "interesting_facts": [
+      {
+        "ru": "Осада Алезии была одним из величайших военных достижений Цезаря. Он использовал инженерное искусство, построив сложную систему укреплений. Цезарь сражался одновременно против осаждённых и армии помощи, что требовало огромного мастерства. Победа при Алезии завершила завоевание Галлии.",
+        "de": "Die Belagerung von Alesia war eine der größten militärischen Leistungen Cäsars. Er nutzte Ingenieurskunst und baute ein komplexes Befestigungssystem. Cäsar kämpfte gleichzeitig gegen die Belagerten und die Entsatzarmee, was enormes Geschick erforderte. Der Sieg bei Alesia vollendete die Eroberung Galliens."
+      },
+      {
+        "ru": "Верцингеториг был взят в плен и провёл шесть лет в тюрьме, прежде чем был казнён во время триумфа Цезаря в 46 году до н.э. Осада Алезии стала символом римского военного превосходства и инженерного мастерства. Цезарь подробно описал осаду в своих 'Записках о Галльской войне'.",
+        "de": "Vercingetorix wurde gefangen genommen und verbrachte sechs Jahre im Gefängnis, bevor er während Cäsars Triumph 46 v. Chr. hingerichtet wurde. Die Belagerung von Alesia wurde zum Symbol römischer militärischer Überlegenheit und Ingenieurskunst. Cäsar beschrieb die Belagerung ausführlich in seinen 'Kommentaren zum Gallischen Krieg'."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "52 BCE",
+    "tags": [
+      "осады",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 489,
+    "question_ru": "Какой поэт написал 'Оды'?",
+    "question_de": "Welcher Dichter schrieb die 'Oden'?",
+    "correct_answer_ru": "Гораций",
+    "correct_answer_de": "Horaz",
+    "wrong_answers_ru": [
+      "Катулл",
+      "Тибулл",
+      "Проперций"
+    ],
+    "wrong_answers_de": [
+      "Catull",
+      "Tibull",
+      "Properz"
+    ],
+    "explanation_ru": "Квинт Гораций Флакк написал 'Оды' - сборник лирических стихотворений, состоящий из четырёх книг. Гораций был одним из величайших римских поэтов и мастером лирической поэзии. Его оды охватывают широкий круг тем: любовь, дружбу, философию, природу и политику. Гораций также написал 'Сатиры' и 'Послания'.",
+    "explanation_de": "Quintus Horatius Flaccus schrieb die 'Oden' - eine Sammlung lyrischer Gedichte, bestehend aus vier Büchern. Horaz war einer der größten römischen Dichter und Meister der Lyrik. Seine Oden umfassen ein breites Spektrum von Themen: Liebe, Freundschaft, Philosophie, Natur und Politik. Horaz schrieb auch 'Satiren' und 'Episteln'.",
+    "interesting_facts": [
+      {
+        "ru": "Гораций был другом Вергилия и Мецената, покровителя искусств. Он получил от Августа имение в Сабинских горах, где мог спокойно творить. Гораций был известен своим умеренным и мудрым подходом к жизни. Его фраза 'carpe diem' (лови день) стала знаменитой.",
+        "de": "Horaz war ein Freund von Vergil und Mäcenas, dem Förderer der Künste. Er erhielt von Augustus ein Anwesen in den Sabiner Bergen, wo er in Ruhe schaffen konnte. Horaz war für seinen gemäßigten und weisen Ansatz zum Leben bekannt. Sein Satz 'carpe diem' (nutze den Tag) wurde berühmt."
+      },
+      {
+        "ru": "Оды Горация оказали огромное влияние на европейскую поэзию. Многие поэты, включая Петрарку и Гёте, черпали вдохновение из его работ. Гораций также писал о поэтическом искусстве в 'Послании к Пизонам' (Ars Poetica), которое стало важным теоретическим трудом.",
+        "de": "Horaz' Oden hatten einen enormen Einfluss auf die europäische Poesie. Viele Dichter, einschließlich Petrarca und Göthe, schöpften Inspiration aus seinen Werken. Horaz schrieb auch über die Dichtkunst im 'Brief an die Pisonen' (Ars Poetica), der zu einem wichtigen theoretischen Werk wurde."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century BCE",
+    "tags": [
+      "литература",
+      "поэзия"
+    ]
+  },
+  {
+    "id": 490,
+    "question_ru": "Как называлась римская повозка?",
+    "question_de": "Wie hieß der römische Wagen?",
+    "correct_answer_ru": "Карпентум",
+    "correct_answer_de": "Carpentum",
+    "wrong_answers_ru": [
+      "Курул",
+      "Пилаентум",
+      "Эсседа"
+    ],
+    "wrong_answers_de": [
+      "Curul",
+      "Piläntum",
+      "Esseda"
+    ],
+    "explanation_ru": "Карпентум была римской повозкой с двумя колёсами, запряжённой мулами или лошадьми. Она использовалась для перевозки людей, особенно знатных женщин. Карпентум имела крышу и была более комфортной, чем другие типы повозок. Она была символом статуса и богатства.",
+    "explanation_de": "Das Carpentum war ein römischer zweirädriger Wagen, der von Maultieren oder Pferden gezogen wurde. Es wurde zum Transport von Menschen verwendet, besonders von edlen Frauen. Das Carpentum hatte ein Dach und war bequemer als andere Wagentypen. Es war ein Symbol für Status und Reichtum.",
+    "interesting_facts": [
+      {
+        "ru": "Карпентум использовалась в основном женщинами из высших слоёв общества. Она была украшена и часто имела роскошную отделку. Карпентум также использовалась в религиозных процессиях. Некоторые императрицы имели специальные карпентумы для официальных церемоний.",
+        "de": "Das Carpentum wurde hauptsächlich von Frauen aus den oberen Gesellschaftsschichten verwendet. Es war verziert und hatte oft luxuriöse Ausstattung. Das Carpentum wurde auch in religiösen Prozessionen verwendet. Einige Kaiserinnen hatten spezielle Carpenten für offizielle Zeremonien."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "1st century BCE",
+    "tags": [
+      "транспорт",
+      "повозки"
+    ]
+  },
+  {
+    "id": 491,
+    "question_ru": "Кто была богиня цветов?",
+    "question_de": "Wer war die Göttin der Blumen?",
+    "correct_answer_ru": "Флора",
+    "correct_answer_de": "Flora",
+    "wrong_answers_ru": [
+      "Венера",
+      "Церера",
+      "Помона"
+    ],
+    "wrong_answers_de": [
+      "Venus",
+      "Ceres",
+      "Pomona"
+    ],
+    "explanation_ru": "Флора была римской богиней цветов, весны и плодородия. Она была покровительницей садов и цветоводов. Флора изображалась с цветами и венками. Её праздник, Флоралии, отмечался в конце апреля и начале мая и включал игры, театральные представления и раздачу цветов.",
+    "explanation_de": "Flora war die römische Göttin der Blumen, des Frühlings und der Fruchtbarkeit. Sie war die Schutzpatronin der Gärten und Gärtner. Flora wurde mit Blumen und Kränzen dargestellt. Ihr Fest, die Floralia, wurde Ende April und Anfang Mai gefeiert und umfasste Spiele, Theateraufführungen und die Verteilung von Blumen.",
+    "interesting_facts": [
+      {
+        "ru": "Флоралии были одним из самых веселых праздников в Риме. Они включали театральные представления, часто с непристойным содержанием, и раздачу цветов и бобов. Флора ассоциировалась с весной и возрождением природы. Её имя дало название флоре - растительному миру.",
+        "de": "Die Floralia waren eines der fröhlichsten Feste in Rom. Sie umfassten Theateraufführungen, oft mit unanständigem Inhalt, und die Verteilung von Blumen und Bohnen. Flora wurde mit Frühling und Wiedergeburt der Natur assoziiert. Ihr Name gab der Flora - der Pflanzenwelt - ihren Namen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "природа"
+    ]
+  },
+  {
+    "id": 492,
+    "question_ru": "В каком году была битва при Фарсале?",
+    "question_de": "In welchem Jahr fand die Schlacht von Pharsalus statt?",
+    "correct_answer_ru": "48 год до н.э.",
+    "correct_answer_de": "48 v. Chr.",
+    "wrong_answers_ru": [
+      "49 год до н.э.",
+      "47 год до н.э.",
+      "46 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "49 v. Chr.",
+      "47 v. Chr.",
+      "46 v. Chr."
+    ],
+    "explanation_ru": "Битва при Фарсале произошла 9 августа 48 года до н.э. между армиями Цезаря и Помпея во время гражданской войны. Цезарь, имея меньшую армию, одержал решительную победу благодаря превосходной тактике и дисциплине своих войск. Помпей бежал в Египет, где был убит. Эта битва сделала Цезаря хозяином Рима.",
+    "explanation_de": "Die Schlacht von Pharsalus fand am 9. August 48 v. Chr. zwischen den Armeen von Cäsar und Pompeius während des Bürgerkriegs statt. Cäsar, mit einer kleineren Armee, errang einen entscheidenden Sieg dank überlegener Taktik und Disziplin seiner Truppen. Pompeius floh nach Ägypten, wo er getötet wurde. Diese Schlacht machte Cäsar zum Herrn Roms.",
+    "interesting_facts": [
+      {
+        "ru": "Битва при Фарсале была решающим сражением гражданской войны между Цезарем и Помпеем. Цезарь использовал свою превосходную кавалерию и пехоту, чтобы разгромить превосходящие силы Помпея. Победа при Фарсале положила конец республике и установила диктатуру Цезаря.",
+        "de": "Die Schlacht von Pharsalus war die entscheidende Schlacht des Bürgerkriegs zwischen Cäsar und Pompeius. Cäsar nutzte seine überlegene Kavallerie und Infanterie, um Pompeius' überlegene Kräfte zu besiegen. Der Sieg bei Pharsalus beendete die Republik und etablierte Cäsars Diktatur."
+      },
+      {
+        "ru": "После битвы при Фарсале Помпей бежал в Египет, надеясь на помощь. Однако египетский фараон Птолемей XIII приказал убить его, чтобы угодить Цезарю. Цезарь прибыл в Египет и был потрясён убийством своего бывшего зятя и союзника.",
+        "de": "Nach der Schlacht von Pharsalus floh Pompeius nach Ägypten und hoffte auf Hilfe. Der ägyptische Pharao Ptolemaios XIII. befahl jedoch, ihn zu töten, um Cäsar zu gefallen. Cäsar kam in Ägypten an und war schockiert über die Ermordung seines ehemaligen Schwiegersohns und Verbündeten."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "48 BCE",
+    "tags": [
+      "битвы",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 493,
+    "question_ru": "Какой писатель создал 'Сатирикон'?",
+    "question_de": "Welcher Schriftsteller schuf den 'Satyricon'?",
+    "correct_answer_ru": "Петроний",
+    "correct_answer_de": "Petron",
+    "wrong_answers_ru": [
+      "Ювенал",
+      "Марциал",
+      "Персий"
+    ],
+    "wrong_answers_de": [
+      "Juvenal",
+      "Martial",
+      "Persius"
+    ],
+    "explanation_ru": "Гай Петроний Арбитр написал 'Сатирикон' - сатирический роман, который является одним из первых примеров романа в западной литературе. Произведение рассказывает о приключениях трёх друзей и содержит критику римского общества. 'Сатирикон' сохранился только частично, но оказал влияние на развитие романа.",
+    "explanation_de": "Gaius Petronius Arbiter schrieb den 'Satyricon' - einen satirischen Roman, der eines der ersten Beispiele eines Romans in der westlichen Literatur ist. Das Werk erzählt von den Abenteuern dreier Freunde und enthält Kritik an der römischen Gesellschaft. Der 'Satyricon' ist nur teilweise erhalten, hatte aber Einfluss auf die Entwicklung des Romans.",
+    "interesting_facts": [
+      {
+        "ru": "Петроний был известен как 'арбитр изящества' при дворе Нерона. Он был известен своим вкусом и роскошным образом жизни. Петроний покончил с собой в 66 году н.э., когда был обвинён в заговоре против Нерона. 'Сатирикон' содержит знаменитую сцену пира Тримальхиона, которая сатирически изображает римское общество.",
+        "de": "Petron war als 'Arbiter der Eleganz' am Hof Neros bekannt. Er war für seinen Geschmack und luxuriösen Lebensstil bekannt. Petron beging 66 n. Chr. Selbstmord, als er beschuldigt wurde, an einer Verschwörung gegen Nero beteiligt gewesen zu sein. Der 'Satyricon' enthält die berühmte Szene des Gastmahls des Trimalchio, die die römische Gesellschaft satirisch darstellt."
+      },
+      {
+        "ru": "'Сатирикон' был написан в смешанном стиле прозы и поэзии и содержал множество вульгарных и сатирических элементов. Произведение даёт уникальное представление о повседневной жизни римлян. 'Сатирикон' повлиял на многих последующих писателей, включая Рабле и Филдинга.",
+        "de": "Der 'Satyricon' wurde in einem gemischten Stil aus Prosa und Poesie geschrieben und enthielt viele vulgäre und satirische Elemente. Das Werk gibt einen einzigartigen Einblick in das tägliche Leben der Römer. Der 'Satyricon' beeinflusste viele nachfolgende Schriftsteller, einschließlich Rabelais und Fielding."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "сатира"
+    ]
+  },
+  {
+    "id": 494,
+    "question_ru": "Как называлась римская монета из бронзы?",
+    "question_de": "Wie hieß die römische Bronzemünze?",
+    "correct_answer_ru": "Асс",
+    "correct_answer_de": "As",
+    "wrong_answers_ru": [
+      "Сестерций",
+      "Дупондий",
+      "Семис"
+    ],
+    "wrong_answers_de": [
+      "Sesterz",
+      "Dupondius",
+      "Semis"
+    ],
+    "explanation_ru": "Асс была основной бронзовой монетой Римской республики и ранней империи. Она была самой мелкой монетой и использовалась для повседневных покупок. Асс весил около 12 граммов в ранний период, но со временем стал легче. Один денарий равнялся 16 ассам в ранний период.",
+    "explanation_de": "Das As war die Hauptbronzemünze der Römischen Republik und des frühen Reiches. Es war die kleinste Münze und wurde für tägliche Einkäufe verwendet. Das As wog etwa 12 Gramm in der frühen Periode, wurde aber im Laufe der Zeit leichter. Ein Denar entsprach 16 Assen in der frühen Periode.",
+    "interesting_facts": [
+      {
+        "ru": "Асс был одной из старейших римских монет и первоначально был отлит из бронзы. На монетах часто изображались боги, животные и важные события. Асс использовался для мелких покупок и был основной монетой для бедных слоёв населения. Со временем асс обесценился из-за инфляции.",
+        "de": "Das As war eine der ältesten römischen Münzen und wurde ursprünglich aus Bronze gegossen. Die Münzen zeigten oft Götter, Tiere und wichtige Ereignisse. Das As wurde für kleine Einkäufe verwendet und war die Hauptmünze für die armen Bevölkerungsschichten. Im Laufe der Zeit wurde das As durch Inflation entwertet."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "деньги",
+      "монеты"
+    ]
+  },
+  {
+    "id": 495,
+    "question_ru": "Кто была богиня зари?",
+    "question_de": "Wer war die Göttin der Morgenröte?",
+    "correct_answer_ru": "Аврора",
+    "correct_answer_de": "Aurora",
+    "wrong_answers_ru": [
+      "Луна",
+      "Диана",
+      "Венера"
+    ],
+    "wrong_answers_de": [
+      "Luna",
+      "Diana",
+      "Venus"
+    ],
+    "explanation_ru": "Аврора была римской богиней зари и утра. Она была отождествлена с греческой Эос и изображалась как прекрасная женщина, летящая по небу и разбрасывающая розовые лепестки. Аврора возвещала наступление дня и была матерью ветров и звёзд. Она ассоциировалась с красотой и новыми начинаниями.",
+    "explanation_de": "Aurora war die römische Göttin der Morgenröte und des Morgens. Sie wurde mit der griechischen Eos identifiziert und als schöne Frau dargestellt, die durch den Himmel fliegt und rosa Blütenblätter verstreut. Aurora kündigte den Tagesanbruch an und war die Mutter der Winde und Sterne. Sie wurde mit Schönheit und neuen Anfängen assoziiert.",
+    "interesting_facts": [
+      {
+        "ru": "Аврора была особенно почитаема поэтами и художниками, которые воспевали красоту зари. Она изображалась в колеснице, запряжённой лошадьми или крылатыми конями. Аврора ассоциировалась с надеждой и новыми возможностями. Её имя дало название явлению северного сияния (aurora borealis).",
+        "de": "Aurora wurde besonders von Dichtern und Künstlern verehrt, die die Schönheit der Morgenröte besangen. Sie wurde in einem von Pferden oder geflügelten Pferden gezogenen Wagen dargestellt. Aurora wurde mit Hoffnung und neuen Möglichkeiten assoziiert. Ihr Name gab dem Phänomen des Nordlichts (aurora borealis) seinen Namen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "утро"
+    ]
+  },
+  {
+    "id": 496,
+    "question_ru": "В каком году состоялась битва при Мунде?",
+    "question_de": "In welchem Jahr fand die Schlacht von Munda statt?",
+    "correct_answer_ru": "45 год до н.э.",
+    "correct_answer_de": "45 v. Chr.",
+    "wrong_answers_ru": [
+      "46 год до н.э.",
+      "44 год до н.э.",
+      "47 год до н.э."
+    ],
+    "wrong_answers_de": [
+      "46 v. Chr.",
+      "44 v. Chr.",
+      "47 v. Chr."
+    ],
+    "explanation_ru": "Битва при Мунде произошла 17 марта 45 года до н.э. и была последним крупным сражением гражданской войны между Цезарем и республиканцами. Цезарь одержал победу над армией сыновей Помпея, что положило конец гражданской войне. После этой битвы Цезарь стал единоличным правителем Рима.",
+    "explanation_de": "Die Schlacht von Munda fand am 17. März 45 v. Chr. statt und war die letzte große Schlacht des Bürgerkriegs zwischen Cäsar und den Republikanern. Cäsar besiegte die Armee der Söhne des Pompeius, was dem Bürgerkrieg ein Ende setzte. Nach dieser Schlacht wurde Cäsar der alleinige Herrscher Roms.",
+    "interesting_facts": [
+      {
+        "ru": "Битва при Мунде была одной из самых кровопролитных в карьере Цезаря. Республиканцы сражались отчаянно, но были разгромлены. После победы Цезарь вернулся в Рим и отпраздновал свой последний триумф. Через год он был убит заговорщиками.",
+        "de": "Die Schlacht von Munda war eine der blutigsten in Cäsars Karriere. Die Republikaner kämpften verzweifelt, wurden aber besiegt. Nach dem Sieg kehrte Cäsar nach Rom zurück und feierte seinen letzten Triumph. Ein Jahr später wurde er von Verschwörern ermordet."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "45 BCE",
+    "tags": [
+      "битвы",
+      "Цезарь"
+    ]
+  },
+  {
+    "id": 497,
+    "question_ru": "Какой поэт написал 'Фасты'?",
+    "question_de": "Welcher Dichter schrieb die 'Fasten'?",
+    "correct_answer_ru": "Овидий",
+    "correct_answer_de": "Ovid",
+    "wrong_answers_ru": [
+      "Вергилий",
+      "Гораций",
+      "Проперций"
+    ],
+    "wrong_answers_de": [
+      "Vergil",
+      "Horaz",
+      "Properz"
+    ],
+    "explanation_ru": "Овидий написал 'Фасты' (Fasti) - поэтический календарь, описывающий римские праздники и обряды по месяцам. Поэма должна была состоять из 12 книг, по одной на каждый месяц, но сохранились только первые 6 книг (январь-июнь). 'Фасты' содержат мифы, легенды и описания религиозных обрядов.",
+    "explanation_de": "Ovid schrieb die 'Fasten' (Fasti) - einen poetischen Kalender, der römische Feste und Riten nach Monaten beschreibt. Das Gedicht sollte aus 12 Büchern bestehen, eines für jeden Monat, aber nur die ersten 6 Bücher (Januar-Juni) sind erhalten. Die 'Fasten' enthalten Mythen, Legenden und Beschreibungen religiöser Riten.",
+    "interesting_facts": [
+      {
+        "ru": "'Фасты' были написаны в элегическом дистихе и сочетают поэзию с историей и религией. Овидий работал над 'Фастами' во время своего изгнания, но не смог завершить произведение. 'Фасты' являются важным источником информации о римской религии и календаре.",
+        "de": "Die 'Fasten' wurden im elegischen Distichon geschrieben und verbinden Poesie mit Geschichte und Religion. Ovid arbeitete an den 'Fasten' während seines Exils, konnte das Werk aber nicht vollenden. Die 'Fasten' sind eine wichtige Quelle für Informationen über die römische Religion und den Kalender."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "factual",
+    "period": "1st century CE",
+    "tags": [
+      "литература",
+      "календарь"
+    ]
+  },
+  {
+    "id": 498,
+    "question_ru": "Как называлась римская квинкверема?",
+    "question_de": "Wie hieß die römische Quinquereme?",
+    "correct_answer_ru": "Пятирядный корабль",
+    "correct_answer_de": "Fünfruderiges Schiff",
+    "wrong_answers_ru": [
+      "Трёхрядный корабль",
+      "Четырёхрядный корабль",
+      "Шестирядный корабль"
+    ],
+    "wrong_answers_de": [
+      "Dreiruderiges Schiff",
+      "Vierruderiges Schiff",
+      "Sechsruderiges Schiff"
+    ],
+    "explanation_ru": "Квинкверема была римским военным кораблём с пятью рядами вёсел. Она была больше и мощнее триремы и использовалась как флагманский корабль. Квинкверема имела экипаж около 300 человек и была вооружена тараном и метательными машинами. Она была очень эффективна в морских сражениях.",
+    "explanation_de": "Die Quinquereme war ein römisches Kriegsschiff mit fünf Reihen von Rudern. Sie war größer und mächtiger als die Trireme und wurde als Flaggschiff verwendet. Die Quinquereme hatte eine Besatzung von etwa 300 Mann und war mit einem Rammsporn und Wurfmaschinen bewaffnet. Sie war sehr effektiv in Seeschlachten.",
+    "interesting_facts": [
+      {
+        "ru": "Квинкверема была одним из самых больших кораблей римского флота. Она использовалась в крупных морских сражениях и могла нести большое количество солдат. Римляне строили квинкверемы для борьбы с карфагенским флотом во время Пунических войн.",
+        "de": "Die Quinquereme war eines der größten Schiffe der römischen Flotte. Sie wurde in großen Seeschlachten verwendet und konnte eine große Anzahl von Soldaten tragen. Die Römer bauten Quinqueremen, um gegen die karthagische Flotte während der Punischen Kriege zu kämpfen."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "definition",
+    "period": "3rd century BCE",
+    "tags": [
+      "флот",
+      "корабли"
+    ]
+  },
+  {
+    "id": 499,
+    "question_ru": "Кто был богом источников?",
+    "question_de": "Wer war der Gott der Quellen?",
+    "correct_answer_ru": "Фонс",
+    "correct_answer_de": "Fons",
+    "wrong_answers_ru": [
+      "Нептун",
+      "Тритон",
+      "Наяды"
+    ],
+    "wrong_answers_de": [
+      "Neptun",
+      "Triton",
+      "Najaden"
+    ],
+    "explanation_ru": "Фонс был римским богом источников и проточной воды. Он был покровителем фонтанов, колодцев и источников. Фонс изображался как юноша с венком из тростника и сосудом с водой. Его праздник, Фонтаналии, отмечался 13 октября и включал обряды по освящению источников.",
+    "explanation_de": "Fons war der römische Gott der Quellen und fließenden Gewässer. Er war der Schutzpatron von Brunnen, Quellen und Wasserquellen. Fons wurde als Jüngling mit einem Schilfkranz und einem Wassergefäß dargestellt. Sein Fest, die Fontanalia, wurde am 13. Oktober gefeiert und umfasste Riten zur Weihe von Quellen.",
+    "interesting_facts": [
+      {
+        "ru": "Фонс был особенно почитаем в сельской местности, где источники были жизненно важны. Его культ подчёркивал важность чистой воды для жизни. Фонс ассоциировался с плодородием и здоровьем. Многие источники в Риме были посвящены Фонсу.",
+        "de": "Fons wurde besonders in ländlichen Gebieten verehrt, wo Quellen lebenswichtig waren. Sein Kult betonte die Bedeutung von sauberem Wasser für das Leben. Fons wurde mit Fruchtbarkeit und Gesundheit assoziiert. Viele Quellen in Rom waren Fons gewidmet."
+      }
+    ],
+    "difficulty": "hard",
+    "category": "Древний Рим",
+    "type": "mythology",
+    "period": "8th century BCE",
+    "tags": [
+      "боги",
+      "вода"
+    ]
+  },
+  {
+    "id": 500,
+    "question_ru": "В каком году Цезарь завоевал Галлию?",
+    "question_de": "In welchem Jahr eroberte Cäsar Gallien?",
+    "correct_answer_ru": "58-50 годы до н.э.",
+    "correct_answer_de": "58-50 v. Chr.",
+    "wrong_answers_ru": [
+      "60-52 годы до н.э.",
+      "55-48 годы до н.э.",
+      "59-51 годы до н.э."
+    ],
+    "wrong_answers_de": [
+      "60-52 v. Chr.",
+      "55-48 v. Chr.",
+      "59-51 v. Chr."
+    ],
+    "explanation_ru": "Юлий Цезарь завоевал Галлию в период с 58 по 50 год до н.э. во время Галльских войн. Цезарь провёл восемь лет в Галлии, покоряя различные племена и расширяя римские владения. Завоевание Галлии принесло Цезарю огромную славу, богатство и верную армию, что помогло ему в последующей гражданской войне.",
+    "explanation_de": "Julius Cäsar eroberte Gallien in der Zeit von 58 bis 50 v. Chr. während der Gallischen Kriege. Cäsar verbrachte acht Jahre in Gallien, unterwarf verschiedene Stämme und erweiterte die römischen Besitzungen. Die Eroberung Galliens brachte Cäsar enormen Ruhm, Reichtum und eine treue Armee ein, was ihm im nachfolgenden Bürgerkrieg half.",
+    "interesting_facts": [
+      {
+        "ru": "Завоевание Галлии было одним из величайших военных достижений Цезаря. Он описал свои кампании в 'Записках о Галльской войне', которые стали классикой военной литературы. Цезарь покорил сотни племён и расширил границы Рима до Рейна и Атлантики.",
+        "de": "Die Eroberung Galliens war eine der größten militärischen Leistungen Cäsars. Er beschrieb seine Feldzüge in den 'Kommentaren zum Gallischen Krieg', die zu Klassikern der Militärliteratur wurden. Cäsar unterwarf Hunderte von Stämmen und erweiterte die Grenzen Roms bis zum Rhein und zum Atlantik."
+      },
+      {
+        "ru": "Галльские войны принесли Цезарю огромную добычу и рабов, которые он использовал для финансирования своей политической карьеры. Завоевание Галлии также дало ему опытную и преданную армию, которая последовала за ним через Рубикон. Это стало основой его власти.",
+        "de": "Die Gallischen Kriege brachten Cäsar enorme Beute und Sklaven ein, die er zur Finanzierung seiner politischen Karriere verwendete. Die Eroberung Galliens gab ihm auch eine erfahrene und ergebene Armee, die ihm über den Rubicon folgte. Dies wurde zur Grundlage seiner Macht."
+      }
+    ],
+    "difficulty": "medium",
+    "category": "Древний Рим",
+    "type": "date",
+    "period": "58 BCE",
+    "tags": [
+      "завоевания",
+      "Галлия"
+    ]
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "id": 8176,
+    "question_de": "Welches Ereignis markierte 1848 den Beginn der modernen kommunistischen Bewegung?",
+    "question_ru": "Какое событие в 1848 году ознаменовало начало современного коммунистического движения?",
+    "correct_answer_de": "Die Veröffentlichung des Kommunistischen Manifests von Marx und Engels",
+    "correct_answer_ru": "Публикация «Коммунистического манифеста» Маркса и Энгельса",
+    "wrong_answers_de": [
+      "Die Gründung der Ersten Internationale in London",
+      "Der Ausbruch der Februarrevolution in Frankreich",
+      "Die Verabschiedung der Frankfurter Verfassung"
+    ],
+    "wrong_answers_ru": [
+      "Основание Первого интернационала в Лондоне",
+      "Начало Февральской революции во Франции",
+      "Принятие Франкфуртской конституции"
+    ],
+    "explanation_de": "Das Kommunistische Manifest erschien im Februar 1848 und rief das Proletariat zur Revolution auf. Es wurde zur Grundlage des wissenschaftlichen Sozialismus.",
+    "explanation_ru": "«Коммунистический манифест» вышел в феврале 1848 года и призвал пролетариат к революции. Он стал основой научного социализма.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1848 CE",
+    "tags": ["Marx", "Engels", "Kommunismus", "Manifest", "Arbeiterbewegung"],
+    "interesting_facts": [
+      {"de": "Das Manifest enthielt den berühmten Satz: 'Proletarier aller Länder, vereinigt euch!'", "ru": "Манифест содержал знаменитую фразу: «Пролетарии всех стран, соединяйтесь!»"},
+      {"de": "Zunächst wurde das Manifest kaum beachtet, erst nach 1870 gewann es große Bedeutung.", "ru": "Поначалу манифест почти не замечали — широкое значение он обрёл лишь после 1870 года."},
+      {"de": "Das Manifest wurde bis heute in über 100 Sprachen übersetzt.", "ru": "К сегодняшнему дню манифест переведён более чем на 100 языков."}
+    ]
+  },
+  {
+    "id": 8177,
+    "question_de": "Was verstand man im 19. Jahrhundert unter dem Begriff 'Sozialismus'?",
+    "question_ru": "Что понималось в XIX веке под термином «социализм»?",
+    "correct_answer_de": "Eine politische Bewegung, die für kollektives Eigentum an Produktionsmitteln eintrat",
+    "correct_answer_ru": "Политическое движение, выступавшее за коллективную собственность на средства производства",
+    "wrong_answers_de": [
+      "Eine Bewegung zur Stärkung des Adels gegen das Bürgertum",
+      "Eine religiöse Reform zur Verbesserung der Armenpflege",
+      "Ein Programm zur Förderung des Freihandels"
+    ],
+    "wrong_answers_ru": [
+      "Движение за усиление дворянства против буржуазии",
+      "Религиозная реформа для улучшения помощи бедным",
+      "Программа поддержки свободной торговли"
+    ],
+    "explanation_de": "Sozialisten des 19. Jahrhunderts kritisierten den Kapitalismus und forderten, dass Fabriken, Bergwerke und Eisenbahnen der Gesellschaft gehören sollten, nicht privaten Eigentümern.",
+    "explanation_ru": "Социалисты XIX века критиковали капитализм и требовали, чтобы фабрики, шахты и железные дороги принадлежали обществу, а не частным владельцам.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1840 CE",
+    "tags": ["Sozialismus", "Kapitalismus", "Arbeiterbewegung", "Kollektiveigentum"],
+    "interesting_facts": [
+      {"de": "Frühe Sozialisten wie Robert Owen gründeten Musterkommunen, um ihr Ideal zu demonstrieren.", "ru": "Ранние социалисты, такие как Роберт Оуэн, основывали образцовые общины, чтобы продемонстрировать свой идеал."},
+      {"de": "Der Begriff 'Sozialismus' tauchte erstmals um 1830 in britischen und französischen Texten auf.", "ru": "Термин «социализм» впервые появился около 1830 года в британских и французских текстах."},
+      {"de": "Es gab viele Varianten: utopischer, wissenschaftlicher und christlicher Sozialismus.", "ru": "Существовало много разновидностей: утопический, научный и христианский социализм."}
+    ]
+  },
+  {
+    "id": 8178,
+    "question_de": "Welche Konferenz im Jahr 1884/85 teilte den afrikanischen Kontinent unter europäischen Mächten auf?",
+    "question_ru": "Какая конференция в 1884/85 годах разделила Африканский континент между европейскими державами?",
+    "correct_answer_de": "Die Berliner Konferenz (Kongokonferenz)",
+    "correct_answer_ru": "Берлинская конференция (Конголезская конференция)",
+    "wrong_answers_de": [
+      "Der Wiener Kongress von 1815",
+      "Die Pariser Friedenskonferenz von 1856",
+      "Der Berliner Kongress von 1878"
+    ],
+    "wrong_answers_ru": [
+      "Венский конгресс 1815 года",
+      "Парижская мирная конференция 1856 года",
+      "Берлинский конгресс 1878 года"
+    ],
+    "explanation_de": "Auf der Berliner Konferenz (1884–85) unter Bismarck legten 14 europäische Staaten die Regeln für die Aufteilung Afrikas fest – ohne Beteiligung afrikanischer Vertreter.",
+    "explanation_ru": "На Берлинской конференции (1884–85) под руководством Бисмарка 14 европейских государств установили правила раздела Африки — без участия африканских представителей.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1884 CE",
+    "tags": ["Afrika", "Imperialismus", "Berliner Konferenz", "Kolonialismus", "Bismarck"],
+    "interesting_facts": [
+      {"de": "Die Konferenz zog willkürliche Grenzlinien, die ethnische und kulturelle Gruppen ignorierten.", "ru": "Конференция провела произвольные границы, игнорирующие этнические и культурные группы."},
+      {"de": "Kein einziger afrikanischer Vertreter war bei der Konferenz anwesend.", "ru": "Ни один африканский представитель не присутствовал на конференции."},
+      {"de": "Bis 1914 kontrollierten europäische Mächte ca. 90 % des afrikanischen Kontinents.", "ru": "К 1914 году европейские державы контролировали около 90% Африканского континента."}
+    ]
+  },
+  {
+    "id": 8179,
+    "question_de": "Was war der Hauptzweck des Deutschen Zollvereins (gegründet 1834)?",
+    "question_ru": "Какова была главная цель Германского таможенного союза (основан в 1834 году)?",
+    "correct_answer_de": "Die Abschaffung von Binnenzöllen zwischen deutschen Staaten zur Förderung des Handels",
+    "correct_answer_ru": "Отмена внутренних таможенных пошлин между германскими государствами для стимулирования торговли",
+    "wrong_answers_de": [
+      "Die militärische Vereinigung aller deutschen Staaten unter Preußen",
+      "Die Einführung einer gemeinsamen deutschen Währung",
+      "Der Schutz der deutschen Grenzen gegen Frankreich"
+    ],
+    "wrong_answers_ru": [
+      "Военное объединение всех германских государств под Пруссией",
+      "Введение единой германской валюты",
+      "Защита германских границ от Франции"
+    ],
+    "explanation_de": "Der Zollverein schuf einen einheitlichen Wirtschaftsraum und war ein wichtiger Schritt zur späteren politischen Einigung Deutschlands 1871.",
+    "explanation_ru": "Таможенный союз создал единое экономическое пространство и стал важным шагом к последующему политическому объединению Германии в 1871 году.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1834 CE",
+    "tags": ["Zollverein", "Deutschland", "Wirtschaft", "Handel", "Preußen"],
+    "interesting_facts": [
+      {"de": "Österreich war vom Zollverein ausgeschlossen, was Preußens Führungsrolle stärkte.", "ru": "Австрия была исключена из Таможенного союза, что укрепило лидирующую роль Пруссии."},
+      {"de": "Der Zollverein umfasste zunächst 18 Staaten mit 23 Millionen Einwohnern.", "ru": "Первоначально Таможенный союз объединял 18 государств с 23 миллионами жителей."},
+      {"de": "Historiker sehen den Zollverein als 'Wirtschaftliche Einigung vor politischer Einigung'.", "ru": "Историки рассматривают Таможенный союз как «экономическое объединение прежде политического»."}
+    ]
+  },
+  {
+    "id": 8180,
+    "question_de": "Welchen Begriff prägte Herbert Spencer für die Anwendung von Darwins Evolutionstheorie auf die Gesellschaft?",
+    "question_ru": "Какой термин ввёл Герберт Спенсер для применения теории эволюции Дарвина к обществу?",
+    "correct_answer_de": "Das 'Überleben des Tüchtigsten' (Survival of the Fittest)",
+    "correct_answer_ru": "«Выживание наиболее приспособленных» (Survival of the Fittest)",
+    "wrong_answers_de": [
+      "Den 'Kampf ums Dasein' (Struggle for Existence)",
+      "Die 'natürliche Auslese' (Natural Selection)",
+      "Die 'soziale Evolution' (Social Evolution)"
+    ],
+    "wrong_answers_ru": [
+      "«Борьбу за существование» (Struggle for Existence)",
+      "«Естественный отбор» (Natural Selection)",
+      "«Социальную эволюцию» (Social Evolution)"
+    ],
+    "explanation_de": "Spencer übertrug biologische Konzepte auf die Gesellschaft und argumentierte, dass soziale Ungleichheit natürlich und unvermeidlich sei. Dies nannte man Sozialdarwinismus.",
+    "explanation_ru": "Спенсер перенёс биологические концепции на общество и утверждал, что социальное неравенство естественно и неизбежно. Это называлось социальным дарвинизмом.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1870 CE",
+    "tags": ["Spencer", "Sozialdarwinismus", "Darwin", "Evolution", "Gesellschaft"],
+    "interesting_facts": [
+      {"de": "Darwin selbst lehnte die Anwendung seiner Theorie auf die Gesellschaft ab.", "ru": "Сам Дарвин отвергал применение своей теории к обществу."},
+      {"de": "Der Sozialdarwinismus wurde später zur ideologischen Rechtfertigung von Kolonialismus und Rassismus benutzt.", "ru": "Впоследствии социальный дарвинизм использовался как идеологическое оправдание колониализма и расизма."},
+      {"de": "Spencer veröffentlichte sein mehrbändiges Werk 'Synthetic Philosophy' zwischen 1862 und 1896.", "ru": "Спенсер публиковал своё многотомное «Синтетическое учение» с 1862 по 1896 год."}
+    ]
+  },
+  {
+    "id": 8181,
+    "question_de": "Wann und wo wurde die erste moderne Olympische Spiele der Neuzeit abgehalten?",
+    "question_ru": "Когда и где прошли первые современные Олимпийские игры нового времени?",
+    "correct_answer_de": "1896 in Athen, Griechenland",
+    "correct_answer_ru": "В 1896 году в Афинах, Греция",
+    "wrong_answers_de": [
+      "1900 in Paris, Frankreich",
+      "1892 in London, Großbritannien",
+      "1888 in Berlin, Deutschland"
+    ],
+    "wrong_answers_ru": [
+      "В 1900 году в Париже, Франция",
+      "В 1892 году в Лондоне, Великобритания",
+      "В 1888 году в Берлине, Германия"
+    ],
+    "explanation_de": "Pierre de Coubertin initiierte die Wiederbelebung der Olympischen Spiele. Die ersten modernen Olympischen Spiele fanden 1896 in Athen statt, mit 14 teilnehmenden Nationen.",
+    "explanation_ru": "Пьер де Кубертен инициировал возрождение Олимпийских игр. Первые современные Олимпийские игры прошли в 1896 году в Афинах с участием 14 стран.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1896 CE",
+    "tags": ["Olympische Spiele", "Athen", "Coubertin", "Sport", "Griechenland"],
+    "interesting_facts": [
+      {"de": "An den ersten modernen Olympischen Spielen nahmen 241 Athleten aus 14 Ländern teil.", "ru": "В первых современных Олимпийских играх участвовали 241 спортсмен из 14 стран."},
+      {"de": "Frauen durften erst bei den Spielen 1900 in Paris teilnehmen.", "ru": "Женщины получили право участвовать лишь на играх 1900 года в Париже."},
+      {"de": "Der Marathonlauf wurde zu Ehren des antiken Boten Pheidippides eingeführt.", "ru": "Марафонский бег был введён в честь древнего гонца Фидиппида."}
+    ]
+  },
+  {
+    "id": 8182,
+    "question_de": "Welche Erfindung von Gottlieb Daimler und Wilhelm Maybach im Jahr 1885 revolutionierte den Transportsektor?",
+    "question_ru": "Какое изобретение Готлиба Даймлера и Вильгельма Майбаха в 1885 году произвело революцию в транспортном секторе?",
+    "correct_answer_de": "Das erste Motorrad mit Benzinmotor (Reitwagen)",
+    "correct_answer_ru": "Первый мотоцикл с бензиновым двигателем (Reitwagen)",
+    "wrong_answers_de": [
+      "Das erste dampfbetriebene Automobil",
+      "Die elektrische Straßenbahn",
+      "Das Fahrrad mit Kettenantrieb"
+    ],
+    "wrong_answers_ru": [
+      "Первый паровой автомобиль",
+      "Электрический трамвай",
+      "Велосипед с цепным приводом"
+    ],
+    "explanation_de": "Daimler und Maybach entwickelten 1885 den ersten Hochgeschwindigkeitsbenzinmotor und bauten ihn in einen Holzrahmen ein – das erste Motorrad der Welt.",
+    "explanation_ru": "В 1885 году Даймлер и Майбах разработали первый высокоскоростной бензиновый двигатель и установили его в деревянную раму — первый мотоцикл в мире.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1885 CE",
+    "tags": ["Daimler", "Maybach", "Motorrad", "Motor", "Erfindung"],
+    "interesting_facts": [
+      {"de": "Im selben Jahr baute Carl Benz sein dreirädriges Patent-Motorwagen – das erste Auto.", "ru": "В том же году Карл Бенц создал свой трёхколёсный Patent-Motorwagen — первый автомобиль."},
+      {"de": "Daimler testete sein Motorrad, indem er damit auf einer Strecke von 3 km fuhr.", "ru": "Даймлер испытал свой мотоцикл, проехав на нём 3 км."},
+      {"de": "Der Daimler-Motor hatte eine Leistung von 0,5 PS und erreichte 12 km/h.", "ru": "Двигатель Даймлера имел мощность 0,5 л.с. и развивал скорость 12 км/ч."}
+    ]
+  },
+  {
+    "id": 8183,
+    "question_de": "Was war die Hauptidee des Liberalismus im 19. Jahrhundert?",
+    "question_ru": "В чём состояла главная идея либерализма XIX века?",
+    "correct_answer_de": "Die Freiheit des Individuums und die Begrenzung staatlicher Macht durch Verfassungen",
+    "correct_answer_ru": "Свобода личности и ограничение государственной власти конституциями",
+    "wrong_answers_de": [
+      "Die Stärkung von Monarchie und Adel gegen das Bürgertum",
+      "Die Verstaatlichung von Industrie und Handel",
+      "Die Einführung der allgemeinen Wehrpflicht"
+    ],
+    "wrong_answers_ru": [
+      "Усиление монархии и дворянства против буржуазии",
+      "Национализация промышленности и торговли",
+      "Введение всеобщей воинской обязанности"
+    ],
+    "explanation_de": "Liberale des 19. Jahrhunderts forderten bürgerliche Freiheiten, Pressefreiheit, Religionsfreiheit und repräsentative Regierungen. Philosophen wie John Stuart Mill prägten diese Bewegung.",
+    "explanation_ru": "Либералы XIX века требовали гражданских свобод, свободы прессы, свободы вероисповедания и представительных правительств. Эти взгляды формировали такие философы, как Джон Стюарт Милль.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1850 CE",
+    "tags": ["Liberalismus", "Freiheit", "Verfassung", "Mill", "Bürgertum"],
+    "interesting_facts": [
+      {"de": "Der Begriff 'liberal' stammt aus Spanien, wo eine liberale Partei 1812 eine Verfassung forderte.", "ru": "Термин «либеральный» пришёл из Испании, где либеральная партия в 1812 году потребовала конституцию."},
+      {"de": "Liberale unterstützten oft den Freihandel und lehnten staatliche Eingriffe in die Wirtschaft ab.", "ru": "Либералы, как правило, поддерживали свободную торговлю и отвергали государственное вмешательство в экономику."},
+      {"de": "Im späten 19. Jahrhundert spaltete sich der Liberalismus in klassischen und sozialen Liberalismus.", "ru": "В конце XIX века либерализм разделился на классический и социальный."}
+    ]
+  },
+  {
+    "id": 8184,
+    "question_de": "Was verstand man im 19. Jahrhundert unter dem 'Kulturkampf' in Deutschland?",
+    "question_ru": "Что понималось в XIX веке в Германии под «Культуркампфом»?",
+    "correct_answer_de": "Bismarcks politischer Kampf gegen den Einfluss der katholischen Kirche im Deutschen Reich",
+    "correct_answer_ru": "Политическая борьба Бисмарка против влияния католической церкви в Германской империи",
+    "wrong_answers_de": [
+      "Ein Streit zwischen deutschen Bundesstaaten über Bildungspolitik",
+      "Die Auseinandersetzung zwischen Konservativen und Sozialisten über Kultursubventionen",
+      "Die Kampagne zur Einführung der deutschen Sprache in Elsass-Lothringen"
+    ],
+    "wrong_answers_ru": [
+      "Спор между германскими федеральными землями о политике в области образования",
+      "Противостояние между консерваторами и социалистами за культурные субсидии",
+      "Кампания по введению немецкого языка в Эльзасе и Лотарингии"
+    ],
+    "explanation_de": "Bismarck führte von 1871–78 den Kulturkampf gegen die katholische Kirche, mit Gesetzen, die kirchliche Einrichtungen einschränkten. Letztendlich scheiterte er damit.",
+    "explanation_ru": "С 1871 по 1878 год Бисмарк вёл Культуркампф против католической церкви, принимая законы, ограничивавшие церковные учреждения. В конечном счёте он потерпел неудачу.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1871 CE",
+    "tags": ["Kulturkampf", "Bismarck", "Kirche", "Katholizismus", "Deutschland"],
+    "interesting_facts": [
+      {"de": "Der Begriff 'Kulturkampf' wurde vom Liberalen Rudolf Virchow in den politischen Diskurs eingeführt.", "ru": "Термин «Культуркампф» ввёл в политический дискурс либерал Рудольф Вирхов."},
+      {"de": "Bismarck musste sich letztendlich mit dem Papst versöhnen, um die Unterstützung der Zentrumspartei zu gewinnen.", "ru": "В конечном счёте Бисмарку пришлось примириться с папой, чтобы получить поддержку партии Центра."},
+      {"de": "Viele Priester wurden verhaftet oder ins Exil getrieben, während Bischöfe abgesetzt wurden.", "ru": "Многие священники были арестованы или высланы в изгнание, а епископы отстранены от должностей."}
+    ]
+  },
+  {
+    "id": 8185,
+    "question_de": "Welches Land führte 1893 als erstes der Welt das allgemeine Frauenwahlrecht ein?",
+    "question_ru": "Какая страна первой в мире ввела всеобщее избирательное право для женщин в 1893 году?",
+    "correct_answer_de": "Neuseeland",
+    "correct_answer_ru": "Новая Зеландия",
+    "wrong_answers_de": [
+      "Australien",
+      "Finnland",
+      "Norwegen"
+    ],
+    "wrong_answers_ru": [
+      "Австралия",
+      "Финляндия",
+      "Норвегия"
+    ],
+    "explanation_de": "Neuseeland gewährte 1893 als erstes Land der Welt Frauen das Wahlrecht. Maßgeblich daran beteiligt war die Aktivistin Kate Sheppard.",
+    "explanation_ru": "В 1893 году Новая Зеландия стала первой страной в мире, предоставившей женщинам право голоса. Значительную роль в этом сыграла активистка Кейт Шеппард.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1893 CE",
+    "tags": ["Frauenwahlrecht", "Neuseeland", "Suffragetten", "Kate Sheppard", "Gleichberechtigung"],
+    "interesting_facts": [
+      {"de": "Kate Sheppard sammelte Petitionen mit über 30.000 Unterschriften für das Frauenwahlrecht.", "ru": "Кейт Шеппард собрала петиции с более чем 30 000 подписями за право голоса для женщин."},
+      {"de": "Frauen durften in Neuseeland wählen, aber erst 1919 selbst kandidieren.", "ru": "В Новой Зеландии женщины получили право голосовать, но право баллотироваться — лишь в 1919 году."},
+      {"de": "Australien folgte 1902, Finnland 1906 und Norwegen 1913 mit dem Frauenwahlrecht.", "ru": "Австралия последовала в 1902 году, Финляндия — в 1906-м, Норвегия — в 1913-м."}
+    ]
+  },
+  {
+    "id": 8186,
+    "question_de": "Was war die politische Bedeutung des Dreikaiserbündnisses von 1873?",
+    "question_ru": "Каково было политическое значение Союза трёх императоров 1873 года?",
+    "correct_answer_de": "Es sollte die konservativen Monarchien Deutschlands, Österreichs und Russlands gegen revolutionäre Bewegungen einigen",
+    "correct_answer_ru": "Он должен был объединить консервативные монархии Германии, Австрии и России против революционных движений",
+    "wrong_answers_de": [
+      "Es war ein Militärbündnis zur gemeinsamen Verteidigung gegen Frankreich",
+      "Es regelte die gemeinsame Verwaltung des Balkans",
+      "Es schuf eine gemeinsame Zollunion zwischen den drei Reichen"
+    ],
+    "wrong_answers_ru": [
+      "Это был военный союз для совместной обороны против Франции",
+      "Он регулировал совместное управление Балканами",
+      "Он создал общий таможенный союз между тремя империями"
+    ],
+    "explanation_de": "Das Dreikaiserbündnis (Bismarck, 1873) vereinte Deutschland, Österreich-Ungarn und Russland ideologisch. Es scheiterte jedoch an den Rivalitäten auf dem Balkan.",
+    "explanation_ru": "Союз трёх императоров (Бисмарк, 1873) идеологически объединил Германию, Австро-Венгрию и Россию. Однако он потерпел крах из-за соперничества на Балканах.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1873 CE",
+    "tags": ["Dreikaiserbündnis", "Bismarck", "Außenpolitik", "Konservatismus", "Balkan"],
+    "interesting_facts": [
+      {"de": "Das Bündnis wurde 1881 erneuert, aber 1887 durch den russisch-österreichischen Konflikt aufgelöst.", "ru": "Союз был возобновлён в 1881 году, но распался в 1887-м из-за русско-австрийского конфликта."},
+      {"de": "Bismarck schloss danach den geheimen Rückversicherungsvertrag allein mit Russland.", "ru": "После этого Бисмарк заключил тайный Договор перестрахования отдельно с Россией."},
+      {"de": "Das Bündnis war Ausdruck der Angst der Monarchen vor dem sozialistischen Internationalismus.", "ru": "Союз выражал страх монархов перед социалистическим интернационализмом."}
+    ]
+  },
+  {
+    "id": 8187,
+    "question_de": "Wofür stand das Symbol der 'Marianne' in Frankreich seit der Revolution?",
+    "question_ru": "Что символизировала «Марианна» во Франции начиная с революции?",
+    "correct_answer_de": "Die französische Republik und ihre Werte: Freiheit, Gleichheit, Brüderlichkeit",
+    "correct_answer_ru": "Французскую республику и её ценности: свободу, равенство, братство",
+    "wrong_answers_de": [
+      "Die Herrschaft der Kirche über das französische Volk",
+      "Die Monarchie und das Haus Bourbon",
+      "Die militärische Stärke Frankreichs"
+    ],
+    "wrong_answers_ru": [
+      "Господство церкви над французским народом",
+      "Монархию и дом Бурбонов",
+      "Военную мощь Франции"
+    ],
+    "explanation_de": "Marianne ist das weibliche Nationalsymbol Frankreichs, das die republikanischen Werte Liberté, Égalité, Fraternité verkörpert. Im 19. Jahrhundert wurde sie auf Münzen und in Gemälden dargestellt.",
+    "explanation_ru": "Марианна — женский национальный символ Франции, воплощающий республиканские ценности Liberté, Égalité, Fraternité. В XIX веке её изображали на монетах и картинах.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1792 CE",
+    "tags": ["Marianne", "Frankreich", "Republik", "Nationalismus", "Symbol"],
+    "interesting_facts": [
+      {"de": "Eugène Delacroix' Gemälde 'Die Freiheit führt das Volk' (1830) zeigt Marianne als Revolutionssymbol.", "ru": "Картина Эжена Делакруа «Свобода, ведущая народ» (1830) изображает Марианну как символ революции."},
+      {"de": "Das Gesicht der Marianne auf Briefmarken und Münzen wurde von realen Frauen inspiriert.", "ru": "Лицо Марианны на марках и монетах вдохновлялось реальными женщинами."},
+      {"de": "Marianne trägt eine Jakobinermütze, ein Symbol der Freiheit seit der Antike.", "ru": "Марианна носит фригийский колпак — символ свободы с античных времён."}
+    ]
+  },
+  {
+    "id": 8188,
+    "question_de": "Was war die Bedeutung des Suezkanals (1869) für den Welthandel?",
+    "question_ru": "Каково было значение Суэцкого канала (1869) для мировой торговли?",
+    "correct_answer_de": "Er verkürzte den Seeweg zwischen Europa und Asien erheblich und machte die Umfahrung Afrikas überflüssig",
+    "correct_answer_ru": "Он значительно сократил морской путь между Европой и Азией, устранив необходимость огибать Африку",
+    "wrong_answers_de": [
+      "Er verband erstmals den Atlantik mit dem Pazifik",
+      "Er ermöglichte die Schifffahrt auf dem Nil durch ganz Ägypten",
+      "Er schuf eine direkte Verbindung zwischen dem Mittelmeer und dem Roten Meer für kleine Fischerboote"
+    ],
+    "wrong_answers_ru": [
+      "Он впервые соединил Атлантический и Тихий океаны",
+      "Он обеспечил судоходство по Нилу через весь Египет",
+      "Он создал прямое соединение между Средиземным и Красным морем для небольших рыболовных судов"
+    ],
+    "explanation_de": "Der Suezkanal, gebaut unter Ferdinand de Lesseps, reduzierte den Seeweg von England nach Indien um rund 7.000 km. Er revolutionierte den Welthandel und stärkte Großbritanniens Einfluss.",
+    "explanation_ru": "Суэцкий канал, построенный под руководством Фердинанда де Лессепса, сократил морской путь из Англии в Индию примерно на 7000 км. Он произвёл революцию в мировой торговле и укрепил влияние Великобритании.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1869 CE",
+    "tags": ["Suezkanal", "Ägypten", "Welthandel", "Großbritannien", "de Lesseps"],
+    "interesting_facts": [
+      {"de": "Großbritannien kaufte 1875 die ägyptischen Anteile am Kanal für 4 Millionen Pfund Sterling.", "ru": "В 1875 году Великобритания купила египетские акции канала за 4 миллиона фунтов стерлингов."},
+      {"de": "Beim Bau des Kanals kamen schätzungsweise 120.000 Arbeiter zum Einsatz.", "ru": "При строительстве канала было задействовано около 120 000 рабочих."},
+      {"de": "Der Kanal ist 193 km lang und verbindet Port Said am Mittelmeer mit Suez am Roten Meer.", "ru": "Канал имеет длину 193 км и соединяет Порт-Саид на Средиземном море с Суэцем на Красном море."}
+    ]
+  },
+  {
+    "id": 8189,
+    "question_de": "Was verstand man unter dem Begriff 'Nationalismus' im 19. Jahrhundert?",
+    "question_ru": "Что понималось под термином «национализм» в XIX веке?",
+    "correct_answer_de": "Die Überzeugung, dass jedes Volk das Recht auf einen eigenen Nationalstaat hat",
+    "correct_answer_ru": "Убеждение, что каждый народ имеет право на собственное национальное государство",
+    "wrong_answers_de": [
+      "Die Idee, dass alle Nationen unter einem gemeinsamen Kaiser vereint werden sollten",
+      "Die Lehre, dass wirtschaftliche Interessen die wichtigsten politischen Triebkräfte sind",
+      "Die Überzeugung, dass religiöse Werte die Grundlage jedes Staates sein sollen"
+    ],
+    "wrong_answers_ru": [
+      "Идея о том, что все нации должны объединиться под единым императором",
+      "Учение о том, что экономические интересы являются главными политическими движущими силами",
+      "Убеждение в том, что религиозные ценности должны составлять основу любого государства"
+    ],
+    "explanation_de": "Nationalismus verband Sprache, Kultur und Ethnizität mit dem Konzept des Staates. Er führte zu Einheitsbewegungen in Deutschland und Italien, aber auch zu Konflikten in Vielvölkerreichen.",
+    "explanation_ru": "Национализм связал язык, культуру и этническую принадлежность с концепцией государства. Он привёл к движениям за объединение в Германии и Италии, но также к конфликтам в многонациональных империях.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1840 CE",
+    "tags": ["Nationalismus", "Nationalstaat", "Europa", "Einheitsbewegung", "Identität"],
+    "interesting_facts": [
+      {"de": "Ernest Renan definierte 1882 die Nation als 'tägliches Plebiszit' des gemeinsamen Willens.", "ru": "Эрнест Ренан в 1882 году определил нацию как «ежедневный плебисцит» общей воли."},
+      {"de": "Der Nationalismus bedrohte das Habsburgerreich, das aus über zwölf Völkern bestand.", "ru": "Национализм угрожал Габсбургской империи, состоявшей из более чем двенадцати народов."},
+      {"de": "Nationalhymnen, Flaggen und Feiertage wurden im 19. Jahrhundert als nationale Symbole eingeführt.", "ru": "В XIX веке национальные гимны, флаги и праздники были введены как национальные символы."}
+    ]
+  },
+  {
+    "id": 8190,
+    "question_de": "Welche Rolle spielte die Fotografie nach ihrer Erfindung 1839 für die Gesellschaft des 19. Jahrhunderts?",
+    "question_ru": "Какую роль фотография после своего изобретения в 1839 году сыграла в обществе XIX века?",
+    "correct_answer_de": "Sie demokratisierte Porträts und veränderte die Kunst und Presse dauerhaft",
+    "correct_answer_ru": "Она демократизировала портреты и навсегда изменила искусство и прессу",
+    "wrong_answers_de": [
+      "Sie verdrängte sofort die Malerei und führte zum Ende der bildenden Kunst",
+      "Sie wurde hauptsächlich von Militärs für Geheimdienstzwecke eingesetzt",
+      "Sie hatte kaum gesellschaftliche Auswirkungen, da sie nur für Wissenschaftler zugänglich war"
+    ],
+    "wrong_answers_ru": [
+      "Она немедленно вытеснила живопись и привела к концу изобразительного искусства",
+      "Она использовалась главным образом военными в разведывательных целях",
+      "Она почти не оказала социального влияния, поскольку была доступна только учёным"
+    ],
+    "explanation_de": "Fotografie ermöglichte erstmals realistischen visuellen Dokumentarismus. Porträts, zuvor nur für Reiche erschwinglich, wurden für das Bürgertum zugänglich.",
+    "explanation_ru": "Фотография впервые сделала возможным реалистичный визуальный документализм. Портреты, прежде доступные только богатым, стали достижимы для буржуазии.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1839 CE",
+    "tags": ["Fotografie", "Daguerreotypie", "Gesellschaft", "Kunst", "Medien"],
+    "interesting_facts": [
+      {"de": "Louis Daguerre präsentierte 1839 sein Verfahren der Französischen Akademie der Wissenschaften.", "ru": "В 1839 году Луи Дагер представил своё изобретение Французской академии наук."},
+      {"de": "Kriegsfotos aus dem Amerikanischen Bürgerkrieg (1861–65) veränderten erstmals die öffentliche Wahrnehmung von Krieg.", "ru": "Военные снимки времён Гражданской войны в США (1861–65) впервые изменили общественное восприятие войны."},
+      {"de": "Erste Fotoagenturen entstanden in den 1880er Jahren und belieferten Zeitungen mit Bildern.", "ru": "Первые фотоагентства появились в 1880-х годах и снабжали газеты снимками."}
+    ]
+  },
+  {
+    "id": 8191,
+    "question_de": "Wer war Cavour und welche Rolle spielte er bei der Einigung Italiens?",
+    "question_ru": "Кто такой Кавур и какую роль он сыграл в объединении Италии?",
+    "correct_answer_de": "Camillo di Cavour war Ministerpräsident Piemonts und organisierte die diplomatische und militärische Einigung Italiens",
+    "correct_answer_ru": "Камилло ди Кавур был премьер-министром Пьемонта и организовал дипломатическое и военное объединение Италии",
+    "wrong_answers_de": [
+      "Cavour war ein revolutionärer General, der mit einer Guerillaarmee Süditalien befreite",
+      "Cavour war Papst und gewährte der Einigungsbewegung kirchlichen Segen",
+      "Cavour war österreichischer Diplomat, der den Rückzug Habsburgs aus Italien verhandelte"
+    ],
+    "wrong_answers_ru": [
+      "Кавур был революционным генералом, освободившим Южную Италию с помощью партизанской армии",
+      "Кавур был папой, благословившим движение за объединение",
+      "Кавур был австрийским дипломатом, договорившимся об уходе Габсбургов из Италии"
+    ],
+    "explanation_de": "Cavour (1810–1861) modernisierte Piemont, schloss Allianzen mit Frankreich und koordinierte die militärischen Aktionen Garibaldis, um Italien zu einigen.",
+    "explanation_ru": "Кавур (1810–1861) модернизировал Пьемонт, заключил союзы с Францией и координировал военные действия Гарибальди, чтобы объединить Италию.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1860 CE",
+    "tags": ["Cavour", "Piemont", "Risorgimento", "Italien", "Einigung"],
+    "interesting_facts": [
+      {"de": "Cavour nutzte die Niederlage Österreichs im Sardinischen Krieg 1859, um Norditalien zu gewinnen.", "ru": "Кавур воспользовался поражением Австрии в Сардинской войне 1859 года, чтобы присоединить Северную Италию."},
+      {"de": "Cavour starb 1861, kurz nach der Proklamation des Königreichs Italien, an einer Krankheit.", "ru": "Кавур скончался в 1861 году, вскоре после провозглашения Королевства Италия, от болезни."},
+      {"de": "Er soll gesagt haben: 'Wir haben Italien gemacht, jetzt müssen wir Italiener machen.'", "ru": "Ему приписывают слова: «Мы создали Италию, теперь нужно создать итальянцев»."}
+    ]
+  },
+  {
+    "id": 8192,
+    "question_de": "Was war das Ziel der Haager Friedenskonferenz von 1899?",
+    "question_ru": "Какова была цель Гаагской мирной конференции 1899 года?",
+    "correct_answer_de": "Die Schaffung von internationalen Regeln für die Kriegsführung und die Einrichtung eines Schiedsgerichts",
+    "correct_answer_ru": "Создание международных правил ведения войны и учреждение третейского суда",
+    "wrong_answers_de": [
+      "Die Gründung eines europäischen Militärbündnisses gegen das Osmanische Reich",
+      "Die Neuaufteilung der Kolonien in Afrika und Asien",
+      "Die Einführung einer gemeinsamen europäischen Währung"
+    ],
+    "wrong_answers_ru": [
+      "Создание европейского военного союза против Османской империи",
+      "Перераздел колоний в Африке и Азии",
+      "Введение общей европейской валюты"
+    ],
+    "explanation_de": "Die Haager Konvention 1899 legte erstmals internationale Kriegsregeln fest und gründete den Ständigen Schiedshof. Sie war Vorläuferin des Völkerbunds.",
+    "explanation_ru": "Гаагская конвенция 1899 года впервые установила международные правила войны и основала Постоянную палату третейского суда. Она стала предшественницей Лиги Наций.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1899 CE",
+    "tags": ["Haager Konferenz", "Völkerrecht", "Schiedsgericht", "Frieden", "Kriegsregeln"],
+    "interesting_facts": [
+      {"de": "26 Staaten nahmen an der ersten Haager Friedenskonferenz von 1899 teil.", "ru": "В первой Гаагской мирной конференции 1899 года приняли участие 26 государств."},
+      {"de": "Die Konferenz verbat unter anderem den Einsatz von Giftgas und Dumdum-Geschossen.", "ru": "Конференция запретила, в частности, применение отравляющих газов и пуль дум-дум."},
+      {"de": "Eine zweite Haager Konferenz folgte 1907, mit Beteiligung von 44 Staaten.", "ru": "Вторая Гаагская конференция последовала в 1907 году с участием 44 государств."}
+    ]
+  },
+  {
+    "id": 8193,
+    "question_de": "Welchen Einfluss hatte die Eisenbahn auf die Industrialisierung Europas?",
+    "question_ru": "Какое влияние оказала железная дорога на индустриализацию Европы?",
+    "correct_answer_de": "Sie ermöglichte den Massentransport von Gütern und Rohstoffen und kurbelte die Stahlindustrie an",
+    "correct_answer_ru": "Она сделала возможной массовую перевозку товаров и сырья и стимулировала металлургическую промышленность",
+    "wrong_answers_de": [
+      "Sie verlangsamte die Industrialisierung, da sie Arbeitskräfte von Fabriken abzog",
+      "Ihre Auswirkungen blieben auf Großstädte beschränkt und erreichten das Landleben nicht",
+      "Sie diente hauptsächlich dem Personentransport der Oberschicht"
+    ],
+    "wrong_answers_ru": [
+      "Она замедлила индустриализацию, поскольку отвлекала рабочую силу от фабрик",
+      "Её влияние ограничивалось крупными городами и не затрагивало сельскую жизнь",
+      "Она служила главным образом перевозке пассажиров из высшего общества"
+    ],
+    "explanation_de": "Die Eisenbahn schuf riesige Nachfrage nach Stahl, Kohle und Ingenieurleistungen, verband Märkte und ermöglichte die Entstehung nationaler Wirtschaftsräume.",
+    "explanation_ru": "Железная дорога создала огромный спрос на сталь, уголь и инженерные услуги, связала рынки и сделала возможным формирование национальных экономических пространств.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1840 CE",
+    "tags": ["Eisenbahn", "Industrialisierung", "Stahl", "Transport", "Wirtschaft"],
+    "interesting_facts": [
+      {"de": "Die erste deutsche Eisenbahn fuhr 1835 zwischen Nürnberg und Fürth – auf einer Strecke von 7 km.", "ru": "Первая немецкая железная дорога в 1835 году проехала между Нюрнбергом и Фюртом — на расстояние 7 км."},
+      {"de": "Bis 1870 hatte Europa ein Eisenbahnnetz von über 100.000 Kilometern.", "ru": "К 1870 году Европа располагала железнодорожной сетью протяжённостью свыше 100 000 км."},
+      {"de": "Eisenbahnen führten zur Standardisierung der Zeit – vor ihnen hatte jede Stadt ihre eigene Ortszeit.", "ru": "Железные дороги привели к стандартизации времени: до их появления у каждого города было своё местное время."}
+    ]
+  },
+  {
+    "id": 8194,
+    "question_de": "Was verstand man unter der 'Ostfrage' im 19. Jahrhundert?",
+    "question_ru": "Что понималось под «Восточным вопросом» в XIX веке?",
+    "correct_answer_de": "Der diplomatische Konflikt um das Erbe und die Nachfolge des zerfallenden Osmanischen Reiches",
+    "correct_answer_ru": "Дипломатический конфликт за наследство и преемство распадающейся Османской империи",
+    "wrong_answers_de": [
+      "Die Frage der Annexion Polens durch Preußen und Russland",
+      "Der Streit um die Grenzen zwischen Österreich und dem Deutschen Reich",
+      "Die Expansion Russlands nach Sibirien und in den Fernen Osten"
+    ],
+    "wrong_answers_ru": [
+      "Вопрос об аннексии Польши Пруссией и Россией",
+      "Спор о границах между Австрией и Германской империей",
+      "Экспансия России в Сибирь и на Дальний Восток"
+    ],
+    "explanation_de": "Die 'Orientalische Frage' beschäftigte europäische Großmächte, da der Zerfall des Osmanischen Reiches ein Machtvakuum schuf und Russland, Österreich und Großbritannien konkurrierten.",
+    "explanation_ru": "«Восточный вопрос» занимал европейские великие державы, поскольку распад Османской империи создавал вакуум власти, в который конкурировали Россия, Австрия и Великобритания.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1850 CE",
+    "tags": ["Ostfrage", "Osmanisches Reich", "Diplomatie", "Balkan", "Großmächte"],
+    "interesting_facts": [
+      {"de": "Zar Nikolaus I. bezeichnete das Osmanische Reich als 'den kranken Mann Europas'.", "ru": "Царь Николай I назвал Османскую империю «больным человеком Европы»."},
+      {"de": "Die Ostfrage führte zum Krimkrieg (1853–56) und dem Russisch-Türkischen Krieg (1877–78).", "ru": "Восточный вопрос привёл к Крымской войне (1853–56) и Русско-турецкой войне (1877–78)."},
+      {"de": "Der Berliner Kongress 1878 unter Bismarck versuchte, die Ostfrage vorübergehend zu lösen.", "ru": "Берлинский конгресс 1878 года под руководством Бисмарка попытался временно решить Восточный вопрос."}
+    ]
+  },
+  {
+    "id": 8195,
+    "question_de": "Welches Werk von Leo Tolstoi, erschienen 1869, gilt als eines der größten Romane der Weltliteratur?",
+    "question_ru": "Какое произведение Льва Толстого, вышедшее в 1869 году, считается одним из величайших романов мировой литературы?",
+    "correct_answer_de": "Krieg und Frieden",
+    "correct_answer_ru": "«Война и мир»",
+    "wrong_answers_de": [
+      "Anna Karenina",
+      "Auferstehung",
+      "Die Kosaken"
+    ],
+    "wrong_answers_ru": [
+      "«Анна Каренина»",
+      "«Воскресение»",
+      "«Казаки»"
+    ],
+    "explanation_de": "'Krieg und Frieden' (1865–69) beschreibt die napoleonischen Kriege aus Sicht mehrerer russischer Adelsfamilien und gilt als Meisterwerk des Realismus.",
+    "explanation_ru": "«Война и мир» (1865–69) описывает наполеоновские войны с точки зрения нескольких русских дворянских семей и считается шедевром реализма.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1869 CE",
+    "tags": ["Tolstoi", "Russland", "Roman", "Realismus", "Literatur"],
+    "interesting_facts": [
+      {"de": "Das Buch hat ca. 1.200 Seiten und über 580 Figuren.", "ru": "Книга насчитывает около 1200 страниц и более 580 персонажей."},
+      {"de": "Tolstoi selbst bezeichnete 'Krieg und Frieden' nicht als Roman, sondern als 'Buch'.", "ru": "Сам Толстой не называл «Войну и мир» романом, а «книгой»."},
+      {"de": "Das Werk wurde unmittelbar nach der Veröffentlichung in mehrere Sprachen übersetzt.", "ru": "Произведение было переведено на несколько языков сразу после публикации."}
+    ]
+  },
+  {
+    "id": 8196,
+    "question_de": "Was war die 'Pax Britannica' im 19. Jahrhundert?",
+    "question_ru": "Что представлял собой «Pax Britannica» в XIX веке?",
+    "correct_answer_de": "Eine Periode relativen Weltfriedens, die durch britische Seemacht und Handelsdominanz aufrechterhalten wurde",
+    "correct_answer_ru": "Период относительного мирового мира, поддерживавшегося британской морской мощью и торговым господством",
+    "wrong_answers_de": [
+      "Ein britisches Friedensprogramm für europäische Konflikte nach 1815",
+      "Die Phase des britischen Kolonialrückzugs aus Asien und Afrika",
+      "Eine Periode der britisch-französischen militärischen Allianz"
+    ],
+    "wrong_answers_ru": [
+      "Британская мирная программа для европейских конфликтов после 1815 года",
+      "Период британского колониального отступления из Азии и Африки",
+      "Период британско-французского военного союза"
+    ],
+    "explanation_de": "Die Pax Britannica (ca. 1815–1914) bezeichnet die Periode, in der die britische Royal Navy als weltgrößte Seemacht internationale Handelsrouten schützte und großen Kriegen weitgehend vorbeugte.",
+    "explanation_ru": "Pax Britannica (ок. 1815–1914) обозначает период, когда британский Королевский флот как крупнейшая морская держава мира охранял международные торговые пути и в значительной мере предотвращал крупные войны.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1815 CE",
+    "tags": ["Pax Britannica", "Großbritannien", "Seemacht", "Welthandel", "Imperialismus"],
+    "interesting_facts": [
+      {"de": "Die Royal Navy vernichtete 1807 ihre eigene Flotte in Kopenhagen, um sie Napoleon nicht zu überlassen.", "ru": "В 1807 году Королевский флот уничтожил флот в Копенгагене, чтобы не отдать его Наполеону."},
+      {"de": "Großbritanniens Flotte war zeitweise größer als die aller anderen Länder zusammen.", "ru": "Флот Великобритании в определённые периоды превосходил по размеру флоты всех остальных стран вместе взятых."},
+      {"de": "Die Pax Britannica endete faktisch mit dem Beginn des Ersten Weltkriegs 1914.", "ru": "Pax Britannica фактически завершилась с началом Первой мировой войны в 1914 году."}
+    ]
+  },
+  {
+    "id": 8197,
+    "question_de": "Welche sozialen Folgen hatte die Urbanisierung im 19. Jahrhundert in Europa?",
+    "question_ru": "Каковы были социальные последствия урбанизации в XIX веке в Европе?",
+    "correct_answer_de": "Überfüllte Slums, schlechte Hygiene und die Entstehung einer städtischen Arbeiterklasse",
+    "correct_answer_ru": "Переполненные трущобы, плохая гигиена и формирование городского рабочего класса",
+    "wrong_answers_de": [
+      "Steigende Lebenserwartung durch bessere Ernährung und medizinische Versorgung",
+      "Rückgang der Kriminalität durch geordnete Stadtplanung",
+      "Abwanderung der Bevölkerung aus den Städten in ländliche Gebiete"
+    ],
+    "wrong_answers_ru": [
+      "Рост продолжительности жизни благодаря улучшению питания и медицинской помощи",
+      "Снижение преступности благодаря упорядоченному городскому планированию",
+      "Отток населения из городов в сельскую местность"
+    ],
+    "explanation_de": "Industriestädte wie Manchester wuchsen rasant, ohne Infrastruktur. Arbeiterfamilien lebten in engen Mietkasernenmit Cholera und Typhus als häufigen Begleitern.",
+    "explanation_ru": "Промышленные города, такие как Манчестер, стремительно росли без инфраструктуры. Рабочие семьи жили в тесных доходных домах, холера и тиф были частыми спутниками.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1850 CE",
+    "tags": ["Urbanisierung", "Industrialisierung", "Slums", "Arbeiterklasse", "Hygiene"],
+    "interesting_facts": [
+      {"de": "London wuchs von ca. 1 Million Einwohnern 1800 auf über 6 Millionen bis 1900.", "ru": "Лондон вырос примерно с 1 миллиона жителей в 1800 году до более чем 6 миллионов к 1900 году."},
+      {"de": "Friedrich Engels beschrieb die Zustände in Manchester in seinem Buch 'Die Lage der arbeitenden Klasse in England' (1845).", "ru": "Фридрих Энгельс описал условия в Манчестере в своей книге «Положение рабочего класса в Англии» (1845)."},
+      {"de": "Städtische Cholera-Epidemien führten schließlich zur Einführung moderner Kanalisation.", "ru": "Городские эпидемии холеры в конечном счёте привели к созданию современной канализации."}
+    ]
+  },
+  {
+    "id": 8198,
+    "question_de": "Was war das Ziel der sozialistischen Internationale, gegründet 1864 in London?",
+    "question_ru": "Какова была цель социалистического Интернационала, основанного в 1864 году в Лондоне?",
+    "correct_answer_de": "Die internationale Zusammenarbeit der Arbeiterbewegungen aller Länder zur Verbesserung der Arbeitsbedingungen",
+    "correct_answer_ru": "Международное сотрудничество рабочих движений всех стран для улучшения условий труда",
+    "wrong_answers_de": [
+      "Die Gründung einer gemeinsamen sozialistischen Regierung in Europa",
+      "Die Koordinierung von Streiks gegen ausländische Unternehmen",
+      "Die Verbreitung der russischen Revolution auf Westeuropa"
+    ],
+    "wrong_answers_ru": [
+      "Создание общего социалистического правительства в Европе",
+      "Координация забастовок против иностранных предприятий",
+      "Распространение Русской революции на Западную Европу"
+    ],
+    "explanation_de": "Die Erste Internationale (Internationale Arbeiterassoziation) wurde 1864 in London gegründet, mit Marx als geistigem Kopf, um Arbeitern weltweit eine gemeinsame Plattform zu geben.",
+    "explanation_ru": "Первый интернационал (Международная ассоциация рабочих) был основан в 1864 году в Лондоне при идейном руководстве Маркса, чтобы дать рабочим всего мира общую платформу.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1864 CE",
+    "tags": ["Internationale", "Marx", "Arbeiterbewegung", "London", "Sozialismus"],
+    "interesting_facts": [
+      {"de": "Die Erste Internationale löste sich 1876 nach internen Konflikten zwischen Marx und Bakunin auf.", "ru": "Первый интернационал распался в 1876 году после внутренних конфликтов между Марксом и Бакуниным."},
+      {"de": "Die Zweite Internationale wurde 1889 gegründet und führte den 1. Mai als internationalen Arbeitertag ein.", "ru": "Второй интернационал был основан в 1889 году и учредил 1 мая как международный день труда."},
+      {"de": "Bakunin und seine Anarchisten wurden 1872 aus der Ersten Internationale ausgeschlossen.", "ru": "Бакунин и его анархисты были исключены из Первого интернационала в 1872 году."}
+    ]
+  },
+  {
+    "id": 8199,
+    "question_de": "Welche Bedeutung hatte die Erfindung der Dampfmaschine durch James Watt für die Industrie?",
+    "question_ru": "Какое значение имело изобретение паровой машины Джеймсом Уаттом для промышленности?",
+    "correct_answer_de": "Sie ermöglichte mechanische Arbeit unabhängig von Wind, Wasser und Muskelkraft",
+    "correct_answer_ru": "Она сделала возможным механический труд независимо от ветра, воды и мускульной силы",
+    "wrong_answers_de": [
+      "Sie verringerte den Energiebedarf der Industrie um die Hälfte",
+      "Sie machte die Kohleförderung erstmals möglich",
+      "Sie wurde hauptsächlich in der Landwirtschaft eingesetzt"
+    ],
+    "wrong_answers_ru": [
+      "Она вдвое сократила потребление энергии в промышленности",
+      "Она впервые сделала возможной добычу угля",
+      "Она использовалась главным образом в сельском хозяйстве"
+    ],
+    "explanation_de": "Watts verbesserte Dampfmaschine (1769/1782) konnte Rotationsbewegung erzeugen und wurde damit zur Grundlage von Fabriken, Eisenbahnen und Schiffen der Industriellen Revolution.",
+    "explanation_ru": "Усовершенствованная паровая машина Уатта (1769/1782) могла создавать вращательное движение и стала основой фабрик, железных дорог и кораблей промышленной революции.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1769 CE",
+    "tags": ["Dampfmaschine", "Watt", "Industrielle Revolution", "Energie", "Technik"],
+    "interesting_facts": [
+      {"de": "Watt führte die Einheit 'Pferdestärke' (PS) ein, um die Leistung seiner Maschinen zu vermarkten.", "ru": "Уатт ввёл единицу «лошадиная сила» для продвижения своих машин на рынок."},
+      {"de": "Die Einheit 'Watt' für elektrische Leistung wurde 1889 nach ihm benannt.", "ru": "Единица «ватт» для электрической мощности была названа в его честь в 1889 году."},
+      {"de": "Watts Dampfmaschine verbesserte die Energieeffizienz gegenüber früheren Modellen um den Faktor 4.", "ru": "Паровая машина Уатта превышала энергоэффективность ранних моделей в 4 раза."}
+    ]
+  },
+  {
+    "id": 8200,
+    "question_de": "Welche Rolle spielte die Zeitung im politischen Leben des 19. Jahrhunderts?",
+    "question_ru": "Какую роль играла газета в политической жизни XIX века?",
+    "correct_answer_de": "Sie wurde zum wichtigsten Medium der öffentlichen Meinungsbildung und politischen Mobilisierung",
+    "correct_answer_ru": "Она стала важнейшим средством формирования общественного мнения и политической мобилизации",
+    "wrong_answers_de": [
+      "Sie diente hauptsächlich der Unterhaltung des Adels mit Klatsch und Berichten über Hofbälle",
+      "Sie spielte kaum eine Rolle, da Analphabetismus verbreitet war",
+      "Sie wurde ausschließlich von der Regierung zur Propaganda genutzt"
+    ],
+    "wrong_answers_ru": [
+      "Она служила главным образом развлечению знати с помощью сплетен и репортажей о придворных балах",
+      "Она играла незначительную роль, поскольку была широко распространена неграмотность",
+      "Она использовалась исключительно правительством в пропагандистских целях"
+    ],
+    "explanation_de": "Mit steigender Alphabetisierung und Drucktechnik wurden Massenzeitungen wie 'The Times' (London) oder 'Le Figaro' (Paris) zu politischen Meinungsmachern im Bürgertum.",
+    "explanation_ru": "По мере роста грамотности и развития печатных технологий массовые газеты, такие как «The Times» (Лондон) или «Le Figaro» (Париж), стали политическими лидерами мнений для буржуазии.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1850 CE",
+    "tags": ["Zeitung", "Presse", "Öffentlichkeit", "Meinungsbildung", "Medien"],
+    "interesting_facts": [
+      {"de": "Die 'Penny Press' in den USA ab 1833 machte Zeitungen erstmals für breite Bevölkerungsschichten erschwinglich.", "ru": "«Пенни-пресс» в США с 1833 года впервые сделала газеты доступными для широких слоёв населения."},
+      {"de": "Politische Karikaturen in Zeitungen wie 'Punch' (London) prägte die öffentliche Meinung des 19. Jahrhunderts.", "ru": "Политические карикатуры в газетах, таких как «Punch» (Лондон), формировали общественное мнение XIX века."},
+      {"de": "Zeitungen spielten eine Schlüsselrolle bei der Verbreitung von Nachrichten über Revolutionen und Kriege.", "ru": "Газеты играли ключевую роль в распространении новостей о революциях и войнах."}
+    ]
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "id": 8226,
+    "question_de": "Was war die Bedeutung des Krieges zwischen Russland und dem Osmanischen Reich (1877–78)?",
+    "question_ru": "Каково было значение войны между Россией и Османской империей (1877–78)?",
+    "correct_answer_de": "Russland besiegte das Osmanische Reich und gewann Einfluss auf dem Balkan, was zum Berliner Kongress führte",
+    "correct_answer_ru": "Россия победила Османскую империю и получила влияние на Балканах, что привело к Берлинскому конгрессу",
+    "wrong_answers_de": [
+      "Das Osmanische Reich besiegte Russland und gewann die Kontrolle über den Bosporus",
+      "Der Krieg endete unentschieden und führte zur Teilung des Balkans zwischen beiden Mächten",
+      "Großbritannien intervenierte und verhinderte einen russischen Sieg durch Seemacht"
+    ],
+    "wrong_answers_ru": [
+      "Османская империя победила Россию и получила контроль над Босфором",
+      "Война закончилась вничью и привела к разделу Балкан между двумя державами",
+      "Великобритания вмешалась и морской силой предотвратила российскую победу"
+    ],
+    "explanation_de": "Im Russisch-Türkischen Krieg (1877–78) besiegte Russland das Osmanische Reich. Der Vertrag von San Stefano schuf ein Groß-Bulgarien unter russischem Einfluss, was Europa alarmierte.",
+    "explanation_ru": "В Русско-турецкой войне (1877–78) Россия разгромила Османскую империю. Сан-Стефанский договор создал Великую Болгарию под российским влиянием, что встревожило Европу.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1877 CE",
+    "tags": ["Russland", "Osmanisches Reich", "Balkan", "Berliner Kongress", "Diplomatie"],
+    "interesting_facts": [
+      {"de": "Der Berliner Kongress 1878 revidierte den Vertrag von San Stefano zugunsten Österreichs und Großbritanniens.", "ru": "Берлинский конгресс 1878 года пересмотрел Сан-Стефанский договор в пользу Австрии и Великобритании."},
+      {"de": "Serbien, Rumänien und Montenegro erlangten durch den Krieg ihre formelle Unabhängigkeit.", "ru": "Сербия, Румыния и Черногория получили формальную независимость в результате войны."},
+      {"de": "Der Krieg war der letzte große Kampf zwischen Russland und dem Osmanischen Reich.", "ru": "Война стала последним крупным столкновением между Россией и Османской империей."}
+    ]
+  },
+  {
+    "id": 8227,
+    "question_de": "Was war die Bedeutung der Werke von Heinrich Heine für die deutsche Literatur?",
+    "question_ru": "Каково было значение произведений Генриха Гейне для немецкой литературы?",
+    "correct_answer_de": "Er verband romantische Lyrik mit politischer Satire und kritisierte Nationalismus und Reaktion",
+    "correct_answer_ru": "Он соединил романтическую лирику с политической сатирой и критиковал национализм и реакцию",
+    "wrong_answers_de": [
+      "Er begründete den deutschen Naturalismus durch Beschreibung des Arbeiterelends",
+      "Er war Hauptvertreter des Biedermeier und schrieb hauptsächlich Heimatdichtung",
+      "Er übersetzte Shakespeare ins Deutsche und machte ihn für das breite Publikum zugänglich"
+    ],
+    "wrong_answers_ru": [
+      "Он основал немецкий натурализм, описывая страдания рабочих",
+      "Он был главным представителем бидермейера и писал главным образом краеведческую поэзию",
+      "Он перевёл Шекспира на немецкий язык и сделал его доступным для широкой публики"
+    ],
+    "explanation_de": "Heinrich Heine (1797–1856) schrieb das 'Buch der Lieder' (1827) und satirische Werke wie 'Deutschland. Ein Wintermärchen'. Er lebte als politischer Emigrant in Paris.",
+    "explanation_ru": "Генрих Гейне (1797–1856) написал «Книгу песен» (1827) и сатирические произведения, такие как «Германия. Зимняя сказка». Он жил в Париже как политический эмигрант.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1827 CE",
+    "tags": ["Heine", "Literatur", "Romantik", "Satire", "Deutschland"],
+    "interesting_facts": [
+      {"de": "Heine schrieb 1820: 'Dort, wo man Bücher verbrennt, verbrennt man am Ende auch Menschen.'", "ru": "В 1820 году Гейне написал: «Там, где сжигают книги, в конце концов сжигают и людей»."},
+      {"de": "Seine Gedichte wurden von Schumann, Schubert und Brahms vertont.", "ru": "Его стихи были положены на музыку Шуманом, Шубертом и Брамсом."},
+      {"de": "Seine Werke wurden 1933 von den Nationalsozialisten verbrannt – sein Satz hatte sich bewahrheitet.", "ru": "Его произведения были сожжены национал-социалистами в 1933 году — его слова оказались пророческими."}
+    ]
+  },
+  {
+    "id": 8228,
+    "question_de": "Was war die politische Bedeutung der Entscheidung von Mexiko, sich 1821 von Spanien zu trennen?",
+    "question_ru": "Каково было политическое значение отделения Мексики от Испании в 1821 году?",
+    "correct_answer_de": "Die Unabhängigkeit Mexikos war Teil einer Welle lateinamerikanischer Unabhängigkeitsrevolutionen gegen die spanische Kolonialherrschaft",
+    "correct_answer_ru": "Независимость Мексики стала частью волны латиноамериканских революций за независимость против испанского колониального господства",
+    "wrong_answers_de": [
+      "Mexiko erkämpfte sich die Unabhängigkeit durch eine siegreiche Seeschlacht gegen die spanische Armada",
+      "Die USA unterstützten militärisch die mexikanische Unabhängigkeit und erhielten dafür Texas als Entschädigung",
+      "Die mexikanische Unabhängigkeit wurde durch eine friedliche Abstimmung im spanischen Parlament gewährt"
+    ],
+    "wrong_answers_ru": [
+      "Мексика завоевала независимость победой в морском сражении против испанской армады",
+      "США оказали военную поддержку мексиканской независимости и получили в компенсацию Техас",
+      "Мексиканская независимость была дарована мирным голосованием в испанском парламенте"
+    ],
+    "explanation_de": "Die mexikanische Unabhängigkeit (1821) folgte einem elfjährigen Bürgerkrieg, beeinflusst von den Ideen der Aufklärung und der amerikanischen Unabhängigkeit. Agustín de Iturbide führte die letzte Phase.",
+    "explanation_ru": "Мексиканская независимость (1821) последовала за одиннадцатилетней гражданской войной под влиянием идей Просвещения и американской независимости. Последний этап возглавил Агустин де Итурбиде.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1821 CE",
+    "tags": ["Mexiko", "Lateinamerika", "Unabhängigkeit", "Spanien", "Kolonialismus"],
+    "interesting_facts": [
+      {"de": "Miguel Hidalgo rief 1810 mit seinem 'Grito de Dolores' zur Unabhängigkeit auf.", "ru": "В 1810 году Мигель Идальго призвал к независимости своим «Кличем из Долореса»."},
+      {"de": "Mexiko wurde zunächst eine konstitutionelle Monarchie unter Iturbide, dann eine Republik.", "ru": "Первоначально Мексика стала конституционной монархией под управлением Итурбиде, затем — республикой."},
+      {"de": "Die erste mexikanische Republik von 1824 orientierte sich stark an der amerikanischen Verfassung.", "ru": "Первая Мексиканская республика 1824 года в значительной мере ориентировалась на американскую конституцию."}
+    ]
+  },
+  {
+    "id": 8229,
+    "question_de": "Was war die Bedeutung des Positivismus als philosophische Strömung im 19. Jahrhundert?",
+    "question_ru": "Каково было значение позитивизма как философского течения в XIX веке?",
+    "correct_answer_de": "Die Überzeugung, dass nur empirisch beobachtbares Wissen gültig ist und Wissenschaft die Gesellschaft verbessern kann",
+    "correct_answer_ru": "Убеждение в том, что только эмпирически наблюдаемое знание является действительным и наука может улучшить общество",
+    "wrong_answers_de": [
+      "Eine religiöse Philosophie, die positives Denken und Optimismus als christliche Tugenden propagierte",
+      "Eine politische Bewegung, die Fortschritt durch Rückkehr zu traditionellen Werten anstrebte",
+      "Eine Kunstströmung, die realistische, positive Darstellungen der Gesellschaft forderte"
+    ],
+    "wrong_answers_ru": [
+      "Религиозная философия, пропагандировавшая позитивное мышление и оптимизм как христианские добродетели",
+      "Политическое движение, стремившееся к прогрессу через возврат к традиционным ценностям",
+      "Художественное течение, требовавшее реалистичных, позитивных изображений общества"
+    ],
+    "explanation_de": "Auguste Comte (1798–1857) begründete den Positivismus: Nur naturwissenschaftliche Methoden liefern echtes Wissen. Er beeinflusste Soziologie, Psychologie und das 19. Jahrhundert tiefgreifend.",
+    "explanation_ru": "Огюст Конт (1798–1857) основал позитивизм: только методы естественных наук дают подлинное знание. Он оказал глубокое влияние на социологию, психологию и XIX век.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1830 CE",
+    "tags": ["Positivismus", "Comte", "Philosophie", "Wissenschaft", "Soziologie"],
+    "interesting_facts": [
+      {"de": "Comte erfand auch den Begriff 'Soziologie' und gilt als Vater dieser Wissenschaft.", "ru": "Конт также изобрёл термин «социология» и считается отцом этой науки."},
+      {"de": "Herbert Spencer wandte positivistische Ideen auf die Evolutionstheorie an.", "ru": "Герберт Спенсер применял позитивистские идеи к теории эволюции."},
+      {"de": "Der Positivismus beeinflusste die Entwicklung der empirischen Psychologie und den Wiener Kreis im 20. Jahrhundert.", "ru": "Позитивизм повлиял на развитие эмпирической психологии и Венский кружок в XX веке."}
+    ]
+  },
+  {
+    "id": 8230,
+    "question_de": "Was war die Bedeutung der Opiumkriege (1839–42) für China?",
+    "question_ru": "Каково было значение Опиумных войн (1839–42) для Китая?",
+    "correct_answer_de": "China wurde militärisch besiegt und musste Handelskonzessionen machen, darunter Hongkong an Großbritannien abtreten",
+    "correct_answer_ru": "Китай потерпел военное поражение и был вынужден пойти на торговые уступки, в том числе уступить Гонконг Великобритании",
+    "wrong_answers_de": [
+      "China besiegte Großbritannien und sicherte sich das Monopol auf den Asienhandel",
+      "Die Kriege endeten unentschieden und führten zu einem gleichberechtigten Handelsvertrag",
+      "China verbot den Opiumhandel erfolgreich durch internationale Verträge"
+    ],
+    "wrong_answers_ru": [
+      "Китай победил Великобританию и обеспечил себе монополию на азиатскую торговлю",
+      "Войны закончились вничью и привели к равноправному торговому договору",
+      "Китай успешно запретил торговлю опиумом через международные договоры"
+    ],
+    "explanation_de": "Der Erste Opiumkrieg (1839–42) endete mit dem Vertrag von Nanjing: Hongkong wurde britisch, Häfen wurden geöffnet, China zahlte Reparationen. Beginn der 'Ungleichen Verträge'.",
+    "explanation_ru": "Первая Опиумная война (1839–42) завершилась Нанкинским договором: Гонконг стал британским, порты открылись, Китай выплатил репарации. Начало «неравноправных договоров».",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1839 CE",
+    "tags": ["Opiumkriege", "China", "Großbritannien", "Kolonialismus", "Hongkong"],
+    "interesting_facts": [
+      {"de": "Großbritannien exportierte Opium aus Britisch-Indien nach China, um das Handelsdefizit auszugleichen.", "ru": "Великобритания экспортировала опиум из Британской Индии в Китай, чтобы компенсировать торговый дефицит."},
+      {"de": "Chinas Kaiser Daoguang versuchte den Opiumhandel durch den Beamten Lin Zexu verbieten zu lassen.", "ru": "Китайский император Даогуан попытался запретить торговлю опиумом через чиновника Линь Цзэсюя."},
+      {"de": "Nach dem Zweiten Opiumkrieg (1856–60) musste China weitere Häfen öffnen und Reparationen zahlen.", "ru": "После Второй опиумной войны (1856–60) Китай был вынужден открыть новые порты и выплатить репарации."}
+    ]
+  },
+  {
+    "id": 8231,
+    "question_de": "Was war die Significance der Erfindung der Dynamit durch Alfred Nobel 1867?",
+    "question_ru": "Каково было значение изобретения динамита Альфредом Нобелем в 1867 году?",
+    "correct_answer_de": "Dynamit revolutionierte Bergbau, Bauwesen und Kriegsführung durch sichere Handhabung von Nitroglycerin",
+    "correct_answer_ru": "Динамит произвёл революцию в горном деле, строительстве и ведении войны благодаря безопасному обращению с нитроглицерином",
+    "wrong_answers_de": [
+      "Es wurde ausschließlich für militärische Zwecke entwickelt und war für die Industrie verboten",
+      "Nobel erfand damit die erste chemische Waffe, die internationale Ächtung fand",
+      "Dynamit war weniger mächtig als Schwarzpulver und fand daher nur begrenzte Verwendung"
+    ],
+    "wrong_answers_ru": [
+      "Оно было разработано исключительно для военных целей и запрещено для промышленности",
+      "Нобель изобрёл первое химическое оружие, получившее международное осуждение",
+      "Динамит был менее мощным, чем чёрный порох, и потому нашёл лишь ограниченное применение"
+    ],
+    "explanation_de": "Nobel stabilisierte das gefährliche Nitroglycerin mit Kieselgur. Dynamit ermöglichte den Bau von Eisenbahntunneln, Bergwerken und dem Panamakanal.",
+    "explanation_ru": "Нобель стабилизировал опасный нитроглицерин с помощью кизельгура. Динамит обеспечил строительство железнодорожных тоннелей, шахт и Панамского канала.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1867 CE",
+    "tags": ["Nobel", "Dynamit", "Erfindung", "Bergbau", "Technologie"],
+    "interesting_facts": [
+      {"de": "Nobel leitete 1888 aus einem Nachruf (irrtümlich über ihn) die Idee des Friedenspreises ab.", "ru": "В 1888 году Нобель почерпнул идею премии мира из некролога (ошибочно написанного о нём)."},
+      {"de": "Der Nobelpreis wurde aus dem riesigen Vermögen Nobels gestiftet, das er mit Dynamit verdient hatte.", "ru": "Нобелевская премия была учреждена из огромного состояния Нобеля, нажитого на динамите."},
+      {"de": "Nobel hielt über 350 Patente – er war einer der produktivsten Erfinder des 19. Jahrhunderts.", "ru": "Нобель держал более 350 патентов — он был одним из самых плодовитых изобретателей XIX века."}
+    ]
+  },
+  {
+    "id": 8232,
+    "question_de": "Was war die Bedeutung der Farbfotografie und anderer Bildmedien für die Kunst des späten 19. Jahrhunderts?",
+    "question_ru": "Каково было значение цветной фотографии и других визуальных медиа для искусства конца XIX века?",
+    "correct_answer_de": "Sie befreite die Malerei von der Aufgabe, die Realität abzubilden, und trieb Künstler zu abstrakteren Stilen",
+    "correct_answer_ru": "Она освободила живопись от задачи изображения реальности и подтолкнула художников к более абстрактным стилям",
+    "wrong_answers_de": [
+      "Fotografie ersetzte die Malerei vollständig und führte zum Ende traditioneller Kunst",
+      "Die Malerei reagierte, indem sie noch realistischer wurde, um mit der Fotografie zu konkurrieren",
+      "Sie hatte kaum Einfluss auf die Malerei, da Fotografien zu teuer für die breite Bevölkerung blieben"
+    ],
+    "wrong_answers_ru": [
+      "Фотография полностью вытеснила живопись и привела к концу традиционного искусства",
+      "Живопись отреагировала, став ещё более реалистичной, чтобы конкурировать с фотографией",
+      "Она почти не влияла на живопись, поскольку фотографии оставались слишком дорогими для широкой публики"
+    ],
+    "explanation_de": "Die Fotografie bedrohte die Porträt- und Dokumentationsrolle der Malerei. Künstler wandten sich dem Impressionismus, Expressionismus und später der Abstraktion zu, um etwas zu schaffen, was Fotografie nicht konnte.",
+    "explanation_ru": "Фотография угрожала портретной и документальной роли живописи. Художники обратились к импрессионизму, экспрессионизму и впоследствии к абстракции, чтобы создавать то, что фотография не могла.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1880 CE",
+    "tags": ["Fotografie", "Malerei", "Kunst", "Impressionismus", "Moderne"],
+    "interesting_facts": [
+      {"de": "Paul Cézanne soll gesagt haben: 'Ich will Poussin nach der Natur wiederholen' – statt die Natur zu kopieren.", "ru": "Говорят, Поль Сезанн говорил: «Я хочу переделать Пуссена по природе» — вместо того чтобы копировать природу."},
+      {"de": "Die impressionistischen Maler arbeiteten erstmals im Freien ('en plein air'), um Lichteffekte einzufangen.", "ru": "Художники-импрессионисты впервые работали на открытом воздухе («pленэр»), чтобы уловить световые эффекты."},
+      {"de": "James McNeill Whistler sagte: 'Kunst um der Kunst willen' – ein Schlachtruf gegen den Fotorealismus.", "ru": "Джеймс Эббот Макнейл Уистлер говорил: «Искусство ради искусства» — боевой клич против фотографического реализма."}
+    ]
+  },
+  {
+    "id": 8233,
+    "question_de": "Was war die 'Panslavische Propaganda' und wie beeinflusste sie die Balkanpolitik?",
+    "question_ru": "Что такое «панславянская пропаганда» и как она влияла на балканскую политику?",
+    "correct_answer_de": "Russlands politisches Werkzeug, um slawische Völker auf dem Balkan unter seinen Einfluss zu ziehen und osmanische Schwäche auszunutzen",
+    "correct_answer_ru": "Политический инструмент России для привлечения славянских народов Балкан под своё влияние и использования слабости Osmanской империи",
+    "wrong_answers_de": [
+      "Eine österreichische Initiative zur Einigung der slawischen Völker unter habsburgischer Herrschaft",
+      "Eine deutschen Propagandakampagne zur Abwehr des russischen Einflusses in Osteuropa",
+      "Ein Programm der orthodoxen Kirche zur religiösen Vereinigung aller slawischen Christen"
+    ],
+    "wrong_answers_ru": [
+      "Австрийская инициатива по объединению славянских народов под властью Габсбургов",
+      "Германская пропагандистская кампания против российского влияния в Восточной Европе",
+      "Программа православной церкви по религиозному объединению всех православных славян"
+    ],
+    "explanation_de": "Russlands Panslawismus war Außenpolitik verkleidet als Kulturpolitik: Unterstützung bulgarischer, serbischer und montenegrinischer Nationalisten, um Einfluss gegenüber dem Osmanischen Reich zu gewinnen.",
+    "explanation_ru": "Российский панславизм был внешней политикой, замаскированной под культурную: поддержка болгарских, сербских и черногорских националистов для получения влияния против Османской империи.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1870 CE",
+    "tags": ["Panslawismus", "Russland", "Balkan", "Osmanisches Reich", "Außenpolitik"],
+    "interesting_facts": [
+      {"de": "Die panslawische Ideologie war oft widersprüchlich – Polen und Tschechen misstrauten Russland trotz 'Slawensolidarität'.", "ru": "Панславянская идеология была часто противоречивой — поляки и чехи не доверяли России, несмотря на «славянскую солидарность»."},
+      {"de": "Russland unterstützte 1876 den serbischen Aufstand gegen die Osmanen und bereitete so den Krieg von 1877 vor.", "ru": "В 1876 году Россия поддержала сербское восстание против османов и тем самым готовила войну 1877 года."},
+      {"de": "Österreich-Ungarn sah den russischen Panslawismus als existenzielle Bedrohung für sein Vielvölkerreich.", "ru": "Австро-Венгрия рассматривала российский панславизм как экзистенциальную угрозу своей многонациональной империи."}
+    ]
+  },
+  {
+    "id": 8234,
+    "question_de": "Welche Rolle spielte Gustav Mahler in der europäischen Musikgeschichte um 1900?",
+    "question_ru": "Какую роль сыграл Густав Малер в европейской истории музыки около 1900 года?",
+    "correct_answer_de": "Er erweiterte die Symphonie auf ihre größtmögliche Form und bereitete den Übergang zur atonalen Musik vor",
+    "correct_answer_ru": "Он расширил симфонию до максимальной формы и подготовил переход к атональной музыке",
+    "wrong_answers_de": [
+      "Er begründete den Jazz als Verbindung europäischer und afrikanischer Musiktraditionen",
+      "Er reformierte die Oper im deutschsprachigen Raum durch Einführung des Leitmotor-Systems",
+      "Er komponierte ausschließlich Kirchenmusik und wirkte als Hofkapellmeister in Wien"
+    ],
+    "wrong_answers_ru": [
+      "Он основал джаз как соединение европейских и африканских музыкальных традиций",
+      "Он реформировал оперу в немецкоязычном пространстве, введя систему лейтмотивов",
+      "Он сочинял исключительно церковную музыку и служил придворным капельмейстером в Вене"
+    ],
+    "explanation_de": "Gustav Mahler (1860–1911) schrieb 9 vollendete Sinfonien, teils für riesige Orchester und Chöre. Seine Musik steht an der Grenze zwischen Romantik und Moderne.",
+    "explanation_ru": "Густав Малер (1860–1911) написал 9 завершённых симфоний, частично для огромных оркестров и хоров. Его музыка стоит на грани между романтизмом и современностью.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1890 CE",
+    "tags": ["Mahler", "Musik", "Symphonie", "Wien", "Romantik"],
+    "interesting_facts": [
+      {"de": "Mahlers Neunte Sinfonie galt lange als unglücksbringend – viele Komponisten starben nach ihrer Neunten.", "ru": "Девятая симфония Малера долгое время считалась несущей несчастье — многие композиторы умирали после своей девятой."},
+      {"de": "Mahler war Direktor der Wiener Staatsoper und gilt als einer der größten Dirigenten seiner Zeit.", "ru": "Малер был директором Венской государственной оперы и считается одним из величайших дирижёров своего времени."},
+      {"de": "Seine Schüler und Nachfolger Schönberg und Berg entwickelten die Zwölftonmusik (Atonalität).", "ru": "Его ученики и последователи Шёнберг и Берг развили двенадцатитоновую музыку (атональность)."}
+    ]
+  },
+  {
+    "id": 8235,
+    "question_de": "Was war die historische Bedeutung der Erfindung des Buchdrucks mit beweglichen Lettern für das 19. Jahrhundert?",
+    "question_ru": "Каково было историческое значение изобретения книгопечатания с подвижными литерами для XIX века?",
+    "correct_answer_de": "Der Buchdruck schuf die Grundlage für Massenalphabetisierung, Nationalismus und politische Mobilisierung im 19. Jahrhundert",
+    "correct_answer_ru": "Книгопечатание создало основу для массовой грамотности, национализма и политической мобилизации в XIX веке",
+    "wrong_answers_de": [
+      "Im 19. Jahrhundert wurde der Buchdruck durch die Telegraphie als Hauptmedium abgelöst",
+      "Buchdruckereien waren im 19. Jahrhundert ausschließlich in kirchlicher Hand",
+      "Der Buchdruck hatte kaum Einfluss auf das 19. Jahrhundert, da die meisten Menschen Analphabeten blieben"
+    ],
+    "wrong_answers_ru": [
+      "В XIX веке книгопечатание было вытеснено телеграфом как главным СМИ",
+      "Типографии в XIX веке находились исключительно в руках церкви",
+      "Книгопечатание почти не влияло на XIX век, поскольку большинство людей оставались неграмотными"
+    ],
+    "explanation_de": "Gutenbergs Erfindung (1450) ermöglichte die Massenpresse des 19. Jahrhunderts. Politische Flugschriften, Zeitungen und Romane wurden zur Grundlage von Nationalbewusstsein und politischen Bewegungen.",
+    "explanation_ru": "Изобретение Гутенберга (1450) сделало возможной массовую прессу XIX века. Политические памфлеты, газеты и романы стали основой национального самосознания и политических движений.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1800 CE",
+    "tags": ["Buchdruck", "Medien", "Alphabetisierung", "Nationalismus", "Öffentlichkeit"],
+    "interesting_facts": [
+      {"de": "Die Schnellpresse (1811) von Friedrich König ermöglichte den Massendruck von Zeitungen für breite Schichten.", "ru": "Скоропечатная машина (1811) Фридриха Кёнига сделала возможным массовый выпуск газет для широкой публики."},
+      {"de": "Der Linotyp-Satz (1886) von Ottmar Mergenthaler revolutionierte den Zeitungsdruck nochmals.", "ru": "Строкоотливная машина (1886) Оттмара Мергенталера вновь произвела революцию в газетном печатании."},
+      {"de": "Pamphlete wie Thomas Paines 'Common Sense' (1776) zeigten die politische Macht des Druckworts.", "ru": "Памфлеты, такие как «Здравый смысл» Томаса Пейна (1776), продемонстрировали политическую силу печатного слова."}
+    ]
+  },
+  {
+    "id": 8236,
+    "question_de": "Was war der wirtschaftliche Hintergrund der Massenauswanderung aus Europa in die USA im 19. Jahrhundert?",
+    "question_ru": "Каков был экономический фон массовой эмиграции из Европы в США в XIX веке?",
+    "correct_answer_de": "Landflucht, Hungersnöte, politische Unterdrückung und die Hoffnung auf wirtschaftlichen Aufstieg in der Neuen Welt",
+    "correct_answer_ru": "Уход из деревни, голод, политическое угнетение и надежда на экономический подъём в Новом Свете",
+    "wrong_answers_de": [
+      "Die USA zwangen europäische Länder durch Handelsverträge zur Entsendung von Arbeitskräften",
+      "Europäische Regierungen finanzierten die Auswanderung, um soziale Unruhen zu vermindern",
+      "Der Hauptgrund war religiöse Verfolgung, die alle Gruppen gleichmäßig betraf"
+    ],
+    "wrong_answers_ru": [
+      "США вынуждали европейские страны торговыми договорами к отправке рабочей силы",
+      "Европейские правительства финансировали эмиграцию, чтобы уменьшить социальную напряжённость",
+      "Главной причиной были религиозные преследования, одинаково затрагивавшие все группы"
+    ],
+    "explanation_de": "Über 35 Millionen Europäer emigrierten 1820–1920 in die USA. Push-Faktoren: Hunger (Irland), Armut (Süditalien), Pogrome (Ostjuden), politische Unterdrückung. Pull-Faktor: 'American Dream'.",
+    "explanation_ru": "Более 35 миллионов европейцев эмигрировали в США в 1820–1920 годах. Факторы выталкивания: голод (Ирландия), бедность (Южная Италия), погромы (восточные евреи), политическое угнетение. Фактор притяжения: «американская мечта».",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1850 CE",
+    "tags": ["Auswanderung", "USA", "Europa", "Immigration", "Wirtschaft"],
+    "interesting_facts": [
+      {"de": "Ellis Island in New York verarbeitete zwischen 1892 und 1954 über 12 Millionen Einwanderer.", "ru": "Остров Эллис в Нью-Йорке с 1892 по 1954 год принял более 12 миллионов иммигрантов."},
+      {"de": "Amerikanische Einwanderer prägten die Sprache, Küche und Kultur der USA grundlegend.", "ru": "Американские иммигранты коренным образом сформировали язык, кухню и культуру США."},
+      {"de": "Viele 'Kettenmigration': Nachbarn und Familienmitglieder folgten dem Vorreiter in dieselbe Stadt.", "ru": "Многие случаи «цепной миграции»: соседи и члены семьи следовали первопроходцу в тот же город."}
+    ]
+  },
+  {
+    "id": 8237,
+    "question_de": "Was war die Bedeutung des Sozialismus von Robert Owen für die Arbeiterbewegung?",
+    "question_ru": "Каково было значение социализма Роберта Оуэна для рабочего движения?",
+    "correct_answer_de": "Owen zeigte, dass bessere Arbeitsbedingungen und Bildung die Produktivität steigern, und inspirierte die Genossenschaftsbewegung",
+    "correct_answer_ru": "Оуэн показал, что лучшие условия труда и образование повышают производительность, и вдохновил кооперативное движение",
+    "wrong_answers_de": [
+      "Owen gründete die erste kommunistische Partei Großbritanniens und propagierte Klassenkampf",
+      "Er erkämpfte das Frauenwahlrecht durch Fabrikstreiks in Wales",
+      "Er führte die erste Sozialversicherung in Großbritannien ein"
+    ],
+    "wrong_answers_ru": [
+      "Оуэн основал первую коммунистическую партию Великобритании и пропагандировал классовую борьбу",
+      "Он добился избирательного права для женщин через фабричные забастовки в Уэльсе",
+      "Он ввёл первое социальное страхование в Великобритании"
+    ],
+    "explanation_de": "Robert Owen (1771–1858) verbesserte als Fabrikant in New Lanark die Lebensbedingungen seiner Arbeiter dramatisch. Er ist Vater des Genossenschaftswesens und der frühsozialistische 'utopische Sozialist'.",
+    "explanation_ru": "Роберт Оуэн (1771–1858) как фабрикант в Нью-Ланарке резко улучшил условия жизни своих рабочих. Он является отцом кооперативного движения и ранним социалистом — «утопическим социалистом».",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1820 CE",
+    "tags": ["Owen", "Sozialismus", "Genossenschaft", "Fabrik", "Arbeiterbewegung"],
+    "interesting_facts": [
+      {"de": "Owen gründete 1825 in Indiana, USA, die Mustersiedlung 'New Harmony', die aber scheiterte.", "ru": "В 1825 году Оуэн основал в Индиане, США, образцовое поселение «Нью-Хармони», которое, однако, потерпело неудачу."},
+      {"de": "Owens Fabrik in New Lanark ist heute UNESCO-Weltkulturerbe.", "ru": "Фабрика Оуэна в Нью-Ланарке сегодня является объектом Всемирного культурного наследия ЮНЕСКО."},
+      {"de": "Owen argumentierte, dass der Charakter des Menschen von seiner Umwelt geformt wird – keine Erbsünde.", "ru": "Оуэн утверждал, что характер человека формируется его окружением — никакого первородного греха."}
+    ]
+  },
+  {
+    "id": 8238,
+    "question_de": "Was war die Bedeutung der Gründung der Sozialistischen Partei Deutschlands (SPD) 1875?",
+    "question_ru": "Каково было значение основания Социал-демократической партии Германии (СДПГ) в 1875 году?",
+    "correct_answer_de": "Die erste Massenpartei der Arbeiterbewegung in Deutschland, die demokratische und sozialistische Ziele verband",
+    "correct_answer_ru": "Первая массовая партия рабочего движения в Германии, объединившая демократические и социалистические цели",
+    "wrong_answers_de": [
+      "Die erste kommunistische Partei, die nach dem Vorbild der russischen Bolschewiken gegründet wurde",
+      "Eine Partei, die ausschließlich die Interessen von Handwerkern und Kleinhändlern vertrat",
+      "Eine christliche Partei, die soziale Gerechtigkeit aus religiöser Überzeugung anstrebte"
+    ],
+    "wrong_answers_ru": [
+      "Первая коммунистическая партия, основанная по образцу российских большевиков",
+      "Партия, представлявшая исключительно интересы ремесленников и мелких торговцев",
+      "Христианская партия, стремившаяся к социальной справедливости из религиозных убеждений"
+    ],
+    "explanation_de": "Die SPD entstand 1875 aus dem Zusammenschluss des ADAV (Lassalle) und der SDAP (Marx-Anhänger). Bismarck verbat sie 1878–90 durch das Sozialistengesetz – vergeblich.",
+    "explanation_ru": "СДПГ возникла в 1875 году из слияния АДАВ (Лассаль) и СДПГ (сторонники Маркса). Бисмарк запретил её в 1878–90 годах Законом о социалистах — безуспешно.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1875 CE",
+    "tags": ["SPD", "Deutschland", "Arbeiterbewegung", "Sozialismus", "Bismarck"],
+    "interesting_facts": [
+      {"de": "Das Sozialistengesetz 1878 verbat die SPD, die trotzdem weiter wuchs und 1890 stärkste Partei wurde.", "ru": "Закон о социалистах 1878 года запретил СДПГ, которая тем не менее продолжала расти и в 1890 году стала сильнейшей партией."},
+      {"de": "Die SPD wurde 1912 zur stärksten Partei im Deutschen Reichstag mit 34 % der Stimmen.", "ru": "В 1912 году СДПГ стала сильнейшей партией в рейхстаге с 34% голосов."},
+      {"de": "Die SPD wurde am 4. August 1914 kritisiert, weil sie den Kriegskrediten für den Ersten Weltkrieg zustimmte.", "ru": "4 августа 1914 года СДПГ подверглась критике за голосование за военные кредиты Первой мировой войны."}
+    ]
+  },
+  {
+    "id": 8239,
+    "question_de": "Was war die historische Bedeutung der 'Neue Imperialismus' genannten Phase ab 1870?",
+    "question_ru": "Каково было историческое значение периода, называемого «Новым империализмом», начавшегося в 1870-х годах?",
+    "correct_answer_de": "Eine Phase beschleunigter europäischer Kolonialexpansion in Afrika und Asien, getrieben von wirtschaftlichen und strategischen Interessen",
+    "correct_answer_ru": "Период ускоренной европейской колониальной экспансии в Африке и Азии, движимой экономическими и стратегическими интересами",
+    "wrong_answers_de": [
+      "Eine Periode, in der Kolonien freiwillig nach politischer Unabhängigkeit strebten",
+      "Eine Phase der wirtschaftlichen Zusammenarbeit zwischen europäischen und asiatischen Ländern",
+      "Ein neues Kolonialmodell, das auf Sklaverei verzichtete und stattdessen freien Handel förderte"
+    ],
+    "wrong_answers_ru": [
+      "Период, когда колонии добровольно стремились к политической независимости",
+      "Фаза экономического сотрудничества между европейскими и азиатскими странами",
+      "Новая колониальная модель, отказавшаяся от рабства и поощрявшая свободную торговлю"
+    ],
+    "explanation_de": "Der 'Neue Imperialismus' (1870–1914) war durch Rivalitäten zwischen Großmächten und industriellen Interessen (Rohstoffe, Märkte) motiviert. Bis 1914 kontrollierten Europäer 84 % der Welt.",
+    "explanation_ru": "«Новый империализм» (1870–1914) был мотивирован соперничеством великих держав и промышленными интересами (сырьё, рынки). К 1914 году европейцы контролировали 84% мира.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1870 CE",
+    "tags": ["Imperialismus", "Kolonialismus", "Europa", "Afrika", "Asien"],
+    "interesting_facts": [
+      {"de": "John A. Hobson analysierte 1902 in 'Imperialism' den wirtschaftlichen Antrieb hinter der Kolonialexpansion.", "ru": "Джон А. Гобсон в 1902 году в «Империализме» проанализировал экономические движущие силы колониальной экспансии."},
+      {"de": "Lenin baute auf Hobsons Analyse auf und bezeichnete Imperialismus als 'höchstes Stadium des Kapitalismus'.", "ru": "Ленин опирался на анализ Гобсона и называл империализм «высшей стадией капитализма»."},
+      {"de": "Der Wettlauf um Kolonien trug direkt zu den Spannungen bei, die zum Ersten Weltkrieg führten.", "ru": "Борьба за колонии непосредственно способствовала напряжённости, приведшей к Первой мировой войне."}
+    ]
+  },
+  {
+    "id": 8240,
+    "question_de": "Was war die Bedeutung des Baus des Panamakanals (1904–1914)?",
+    "question_ru": "Каково было значение строительства Панамского канала (1904–1914)?",
+    "correct_answer_de": "Er verband Atlantik und Pazifik, revolutionierte den Welthandel und demonstrierte die globale Macht der USA",
+    "correct_answer_ru": "Он соединил Атлантический и Тихий океаны, революционизировал мировую торговлю и продемонстрировал глобальную мощь США",
+    "wrong_answers_de": [
+      "Er wurde von Frankreich gebaut und ermöglichte erstmals die Umfahrung Südamerikas",
+      "Er war hauptsächlich ein militärisches Projekt zum Schutz US-amerikanischer Interessen in Lateinamerika",
+      "Er wurde unter britischer Aufsicht gebaut und war bis 1999 in britischem Besitz"
+    ],
+    "wrong_answers_ru": [
+      "Он был построен Францией и впервые позволил обогнуть Южную Америку",
+      "Он был главным образом военным проектом для защиты американских интересов в Латинской Америке",
+      "Он строился под британским руководством и до 1999 года находился в британской собственности"
+    ],
+    "explanation_de": "Frankreich scheiterte beim Versuch (1880–89). Die USA übernahmen den Bau unter Roosevelt: Gelbe Fieber wurde durch Sanitärmaßnahmen besiegt; 1914 wurde der 77 km lange Kanal eröffnet.",
+    "explanation_ru": "Франция потерпела неудачу в попытке строительства (1880–89). США при Рузвельте взяли стройку на себя: жёлтая лихорадка была побеждена санитарными мерами; в 1914 году был открыт 77-километровый канал.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1914 CE",
+    "tags": ["Panamakanal", "USA", "Welthandel", "Roosevelt", "Technik"],
+    "interesting_facts": [
+      {"de": "Beim Bau starben schätzungsweise 5.600 Arbeiter, hauptsächlich durch Malaria und Gelbfieber.", "ru": "В ходе строительства погибло около 5600 рабочих, главным образом от малярии и жёлтой лихорадки."},
+      {"de": "USA unterstützten die panamesische Unabhängigkeit von Kolumbien (1903), um Kanalrechte zu sichern.", "ru": "США поддержали панамскую независимость от Колумбии (1903), чтобы обеспечить права на канал."},
+      {"de": "Panama übernahm 1999 die Kontrolle über den Kanal – 85 Jahre nach seiner Eröffnung.", "ru": "Панама взяла под контроль канал в 1999 году — через 85 лет после его открытия."}
+    ]
+  },
+  {
+    "id": 8241,
+    "question_de": "Was war die historische Bedeutung der Französischen Revolution für das 19. Jahrhundert?",
+    "question_ru": "Каково было историческое значение Французской революции для XIX века?",
+    "correct_answer_de": "Sie verbreitete Ideen von Freiheit, Gleichheit und Volkssouveränität und inspirierte Revolutionen und Reformen in ganz Europa",
+    "correct_answer_ru": "Она распространила идеи свободы, равенства и народного суверенитета и вдохновила революции и реформы по всей Европе",
+    "wrong_answers_de": [
+      "Sie führte zur dauerhaften Demokratisierung Frankreichs, das seitdem keine Monarchie mehr hatte",
+      "Ihre Wirkung blieb auf Frankreich beschränkt und hatte kaum Einfluss auf andere europäische Länder",
+      "Sie zeigte, dass Revolutionen scheitern, und stärkte die konservativen Monarchien Europas"
+    ],
+    "wrong_answers_ru": [
+      "Она привела к постоянной демократизации Франции, которая с тех пор не имела монархии",
+      "Её влияние ограничивалось Францией и почти не затрагивало другие европейские страны",
+      "Она показала, что революции терпят поражение, и укрепила консервативные монархии Европы"
+    ],
+    "explanation_de": "Die Französische Revolution (1789) verbreitete durch Napoleon die Ideen von Liberté, Égalité, Fraternité in Europa. Sie inspirierte die Revolutionen von 1830, 1848 und nationale Einheitsbewegungen.",
+    "explanation_ru": "Французская революция (1789) через Наполеона распространила по Европе идеи Liberté, Égalité, Fraternité. Она вдохновила революции 1830, 1848 годов и национальные движения за объединение.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1789 CE",
+    "tags": ["Französische Revolution", "Freiheit", "Nationalismus", "Demokratie", "Europa"],
+    "interesting_facts": [
+      {"de": "Napoleons Bürgerliche Gesetzbuch (Code Civil, 1804) beeinflusste die Rechtssysteme vieler Länder.", "ru": "Гражданский кодекс Наполеона (Code Civil, 1804) повлиял на правовые системы многих стран."},
+      {"de": "Die Guillotine, Symbol der Revolution, kostete u.a. Marie Antoinette und Robespierre das Leben.", "ru": "Гильотина, символ революции, унесла жизни в том числе Марии Антуанетты и Робеспьера."},
+      {"de": "Edmund Burkes 'Reflections on the Revolution in France' (1790) war die erste konservative Antwort auf die Revolution.", "ru": "«Размышления о революции во Франции» Эдмунда Бёрка (1790) стали первым консервативным ответом на революцию."}
+    ]
+  },
+  {
+    "id": 8242,
+    "question_de": "Was war die Bedeutung des Versailler Friedensvertrages von 1783 für Nordamerika?",
+    "question_ru": "Каково было значение Парижского мирного договора 1783 года для Северной Америки?",
+    "correct_answer_de": "Er erkannte die Unabhängigkeit der USA an und übertrug Großritanniens Gebiete östlich des Mississippi an die neuen Vereinigten Staaten",
+    "correct_answer_ru": "Он признал независимость США и передал британские территории к востоку от Миссисипи новым Соединённым Штатам",
+    "wrong_answers_de": [
+      "Er regelte die Aufteilung Kanadas zwischen Frankreich und Großbritannien",
+      "Er verpflichtete die USA zur Zahlung von Kriegsentschädigungen an Großbritannien",
+      "Er gründete das britisch-amerikanische Sonderverhältnis und gemeinsame Handelszone"
+    ],
+    "wrong_answers_ru": [
+      "Он регулировал раздел Канады между Францией и Великобританией",
+      "Он обязывал США выплачивать военные репарации Великобритании",
+      "Он основал британско-американские «особые отношения» и общую торговую зону"
+    ],
+    "explanation_de": "Der Frieden von Paris (1783) beendete den amerikanischen Unabhängigkeitskrieg. Großbritannien erkannte die USA an und überließ das Land bis zum Mississippi.",
+    "explanation_ru": "Парижский мир (1783) завершил Войну за независимость США. Великобритания признала США и уступила земли до Миссисипи.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1783 CE",
+    "tags": ["Amerikanische Unabhängigkeit", "Großbritannien", "USA", "Territorium", "Frieden"],
+    "interesting_facts": [
+      {"de": "Frankreich, das die USA im Unabhängigkeitskrieg unterstützt hatte, erhielt kaum Kompensation im Friedensvertrag.", "ru": "Франция, поддержавшая США в войне за независимость, почти не получила компенсации по мирному договору."},
+      {"de": "Der Vertrag ließ Kanada bei Großbritannien – trotz Versuchen, es den USA anzuschließen.", "ru": "Договор оставил Канаду у Великобритании — несмотря на попытки присоединить её к США."},
+      {"de": "Benjamin Franklin war der wichtigste amerikanische Diplomat bei den Pariser Friedensverhandlungen.", "ru": "Бенджамин Франклин был главным американским дипломатом на Парижских мирных переговорах."}
+    ]
+  },
+  {
+    "id": 8243,
+    "question_de": "Was war die Bedeutung der Arbeit des Soziologen Émile Durkheim für das Verständnis der Gesellschaft?",
+    "question_ru": "Каково было значение трудов социолога Эмиля Дюркгейма для понимания общества?",
+    "correct_answer_de": "Er zeigte, dass gesellschaftliche Phänomene wie Selbstmord durch soziale Strukturen, nicht nur individuelle Faktoren erklärbar sind",
+    "correct_answer_ru": "Он показал, что общественные явления, такие как самоубийство, объяснимы социальными структурами, а не только индивидуальными факторами",
+    "wrong_answers_de": [
+      "Er begründete die Psychoanalyse als wissenschaftliche Methode zur Erforschung des Unbewussten",
+      "Er entwickelte die Evolutionstheorie auf soziale Gruppen und Kulturen an",
+      "Er bewies, dass wirtschaftliche Interessen alle gesellschaftlichen Phänomene bestimmen"
+    ],
+    "wrong_answers_ru": [
+      "Он основал психоанализ как научный метод исследования бессознательного",
+      "Он применил теорию эволюции к социальным группам и культурам",
+      "Он доказал, что экономические интересы определяют все общественные явления"
+    ],
+    "explanation_de": "Émile Durkheim (1858–1917) gilt als Begründer der modernen Soziologie. Sein Werk 'Über Selbstmord' (1897) zeigte, dass Suizid von sozialer Integration abhängt, nicht nur von individuellen Gründen.",
+    "explanation_ru": "Эмиль Дюркгейм (1858–1917) считается основателем современной социологии. Его труд «О самоубийстве» (1897) показал, что суицид зависит от социальной интеграции, а не только от индивидуальных причин.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1895 CE",
+    "tags": ["Durkheim", "Soziologie", "Gesellschaft", "Wissenschaft", "Moderne"],
+    "interesting_facts": [
+      {"de": "Durkheim unterschied zwischen 'mechanischer' Solidarität (traditionell) und 'organischer' Solidarität (modern).", "ru": "Дюркгейм различал «механическую» солидарность (традиционную) и «органическую» солидарность (современную)."},
+      {"de": "Er führte den Begriff 'Anomie' ein für den Zustand sozialer Normlosigkeit.", "ru": "Он ввёл понятие «аномия» для состояния социальной нормативной безнормности."},
+      {"de": "Durkheims Schüler Marcel Mauss entwickelte die Anthropologie der Gabe weiter.", "ru": "Ученик Дюркгейма Марсель Мосс развил антропологию дара."}
+    ]
+  },
+  {
+    "id": 8244,
+    "question_de": "Was war die Rolle der Freimaurerei im politischen Leben des 18./19. Jahrhunderts?",
+    "question_ru": "Какова была роль масонства в политической жизни XVIII–XIX веков?",
+    "correct_answer_de": "Eine geheime Bruderschaft, die aufklärerische Ideen verbreitete und viele Revolutionäre und Reformer verband",
+    "correct_answer_ru": "Тайное братство, распространявшее просветительские идеи и объединявшее многих революционеров и реформаторов",
+    "wrong_answers_de": [
+      "Eine religiöse Organisation, die zur Bekehrung Europas zum Protestantismus beitrug",
+      "Eine Handwerkergilde, die das Bauwesen in Europa kontrollierte",
+      "Eine staatliche Institution zur Überwachung von Handel und Finanzen"
+    ],
+    "wrong_answers_ru": [
+      "Религиозная организация, способствовавшая обращению Европы в протестантизм",
+      "Ремесленный цех, контролировавший строительное дело в Европе",
+      "Государственный институт для надзора за торговлей и финансами"
+    ],
+    "explanation_de": "Die Freimaurer verbreiteten seit dem 18. Jahrhundert Aufklärungsideen: Vernunft, Toleranz, Brüderlichkeit. Mitglieder: Mozart, Voltaire, Benjamin Franklin, Washington, Bolívar.",
+    "explanation_ru": "Масоны с XVIII века распространяли идеи Просвещения: разум, терпимость, братство. Членами были Моцарт, Вольтер, Бенджамин Франклин, Вашингтон, Боливар.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1789 CE",
+    "tags": ["Freimaurerei", "Aufklärung", "Geheimgesellschaft", "Revolution", "Europa"],
+    "interesting_facts": [
+      {"de": "Die Erste Wiener Loge 'Zur wahren Eintracht' hatte Mozart als Mitglied.", "ru": "Первая венская ложа «К истинному единству» имела Моцарта в качестве члена."},
+      {"de": "In manchen katholischen Ländern war die Mitgliedschaft in der Freimaurerei verboten.", "ru": "В ряде католических стран членство в масонской ложе было запрещено."},
+      {"de": "Freimaurer wurden von Verschwörungstheoretikern für die Französische Revolution verantwortlich gemacht.", "ru": "Масонов сторонники теорий заговора обвиняли в организации Французской революции."}
+    ]
+  },
+  {
+    "id": 8245,
+    "question_de": "Was war die historische Bedeutung des Buches 'Uncle Tom's Cabin' (1852) von Harriet Beecher Stowe?",
+    "question_ru": "Каково было историческое значение книги «Хижина дяди Тома» (1852) Гарриет Бичер-Стоу?",
+    "correct_answer_de": "Es popularisierte den Abolitionismus in den USA und Europa und veränderte die öffentliche Meinung zur Sklaverei massiv",
+    "correct_answer_ru": "Она популяризировала аболиционизм в США и Европе и кардинально изменила общественное мнение о рабстве",
+    "wrong_answers_de": [
+      "Es war ein Reisebericht über das Leben versklavter Menschen in Südamerika",
+      "Es löste unmittelbar den Amerikanischen Bürgerkrieg aus",
+      "Es war hauptsächlich ein religiöses Werk über christliche Nächstenliebe"
+    ],
+    "wrong_answers_ru": [
+      "Это был путевой дневник о жизни порабощённых людей в Южной Америке",
+      "Она непосредственно вызвала Гражданскую войну в США",
+      "Это было главным образом религиозное произведение о христианской любви к ближнему"
+    ],
+    "explanation_de": "Stowes Roman schilderte eindringlich das Leiden versklavter Menschen. Es wurde zum meistverkauften Roman des 19. Jahrhunderts (nach der Bibel) und stärkte die Abolitionsbewegung enorm.",
+    "explanation_ru": "Роман Стоу ярко описывал страдания порабощённых людей. Он стал самым продаваемым романом XIX века (после Библии) и огромно укрепил аболиционистское движение.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1852 CE",
+    "tags": ["Uncle Tom's Cabin", "Abolitionismus", "USA", "Sklaverei", "Literatur"],
+    "interesting_facts": [
+      {"de": "Lincoln soll Stowe bei einer Begegnung gesagt haben: 'So, das ist die kleine Frau, die diesen großen Krieg geschrieben hat.'", "ru": "По легенде, Линкольн при встрече со Стоу сказал: «Так вот маленькая женщина, которая написала такую большую войну»."},
+      {"de": "Das Buch wurde in über 40 Sprachen übersetzt und millionenfach gedruckt.", "ru": "Книга была переведена более чем на 40 языков и напечатана миллионными тиражами."},
+      {"de": "Kritiker im Süden der USA versuchten, das Buch durch Gegendarstellungen wie 'Anti-Tom-Bücher' zu entkräften.", "ru": "Критики с Юга США пытались опровергнуть книгу контрнарративами — «антитомовскими книгами»."}
+    ]
+  },
+  {
+    "id": 8246,
+    "question_de": "Was war die Bedeutung des Aufbaus der modernen Polizei in Großbritannien (1829)?",
+    "question_ru": "Каково было значение создания современной полиции в Великобритании (1829)?",
+    "correct_answer_de": "Sir Robert Peel gründete die Metropolitan Police in London als erste professionelle Strafverfolgungsbehörde",
+    "correct_answer_ru": "Сэр Роберт Пил основал Столичную полицию в Лондоне как первый профессиональный орган уголовного преследования",
+    "wrong_answers_de": [
+      "Eine Geheimpolizei nach dem Vorbild der französischen Sûreté wurde in ganz Großbritannien eingeführt",
+      "Die Stadtpolizei wurde als Militäreinheit zur Niederschlagung von Arbeiterunruhen gegründet",
+      "Sheriffs übertrugen ihre Aufgaben an private Detektivbüros wie Pinkerton"
+    ],
+    "wrong_answers_ru": [
+      "Тайная полиция по образцу французской Сюртэ была введена по всей Великобритании",
+      "Городская полиция была основана как воинское подразделение для подавления рабочих волнений",
+      "Шерифы передали свои функции частным сыскным бюро, таким как Пинкертон"
+    ],
+    "explanation_de": "Robert Peel gründete 1829 die Metropolitan Police Act. 'Bobbies' (nach Peel) patrouillierten in Zivil, sollten präventiv wirken und keine Militäreinheit sein.",
+    "explanation_ru": "Роберт Пил основал в 1829 году Столичную полицию. «Бобби» (в честь Пила) патрулировали в гражданской одежде, должны были действовать превентивно и не быть военным подразделением.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1829 CE",
+    "tags": ["Polizei", "Peel", "London", "Strafverfolgung", "Reform"],
+    "interesting_facts": [
+      {"de": "Peels 'neun Grundsätze der Polizeiarbeit' gelten bis heute als Grundlage moderner Polizeiarbeit.", "ru": "«Девять принципов полицейской деятельности» Пила по сей день считаются основой современного полицейского дела."},
+      {"de": "Der Spitzname 'Bobby' und 'Peeler' für Polizisten stammt von Robert Peels Namen.", "ru": "Прозвища «бобби» и «пилер» для полицейских происходят от имени Роберта Пила."},
+      {"de": "Frühe Polizisten trugen blaue Uniformen, um sie klar vom roten Rock der Armee zu unterscheiden.", "ru": "Первые полицейские носили синюю форму, чтобы чётко отличаться от красных мундиров армии."}
+    ]
+  },
+  {
+    "id": 8247,
+    "question_de": "Was war die Bedeutung der Entdeckung der Röntgenstrahlen (1895) durch Wilhelm Röntgen?",
+    "question_ru": "Каково было значение открытия рентгеновских лучей (1895) Вильгельмом Рентгеном?",
+    "correct_answer_de": "Sie ermöglichten erstmals die Betrachtung des Körperinnern ohne Operation und revolutionierten die Medizin",
+    "correct_answer_ru": "Они впервые позволили видеть внутренние органы без операции и революционизировали медицину",
+    "wrong_answers_de": [
+      "Sie führten direkt zur Entdeckung der Radioaktivität und der Atombombe",
+      "Sie wurden hauptsächlich für die Kommunikation über große Entfernungen genutzt",
+      "Sie ermöglichten die Entstehung der Farbfotografie"
+    ],
+    "wrong_answers_ru": [
+      "Они непосредственно привели к открытию радиоактивности и атомной бомбе",
+      "Они использовались главным образом для связи на большие расстояния",
+      "Они сделали возможным возникновение цветной фотографии"
+    ],
+    "explanation_de": "Röntgen entdeckte 1895 elektromagnetische Strahlen, die Weichgewebe durchdringen, aber an Knochen absorbiert werden. Das erste Röntgenbild zeigte die Hand seiner Frau. 1901 erhielt er den ersten Physik-Nobelpreis.",
+    "explanation_ru": "Рентген в 1895 году открыл электромагнитное излучение, проникающее сквозь мягкие ткани, но поглощаемое костями. Первый рентгеновский снимок показал руку его жены. В 1901 году он получил первую Нобелевскую премию по физике.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1895 CE",
+    "tags": ["Röntgen", "Medizin", "Strahlen", "Physik", "Erfindung"],
+    "interesting_facts": [
+      {"de": "Röntgen nannte seine Entdeckung 'X-Strahlen', weil er ihre Natur noch nicht kannte.", "ru": "Рентген назвал своё открытие «Х-лучами», поскольку ещё не знал их природы."},
+      {"de": "Marie Curie entwickelte mobile Röntgengeräte für den Ersten Weltkrieg ('Petites Curies').", "ru": "Мари Кюри разработала мобильные рентгеновские аппараты для Первой мировой войны («маленькие кюри»)."},
+      {"de": "Röntgen lehnte ein Patent ab und machte seine Entdeckung frei verfügbar.", "ru": "Рентген отказался от патента и сделал своё открытие свободно доступным."}
+    ]
+  },
+  {
+    "id": 8248,
+    "question_de": "Was war die kulturhistorische Bedeutung der Weltausstellung in Paris 1900?",
+    "question_ru": "Каково было культурно-историческое значение Всемирной выставки в Париже 1900 года?",
+    "correct_answer_de": "Sie zeigte den Höhepunkt der Belle Époque, elektrische Innovationen und den Optimismus der industriellen Moderne",
+    "correct_answer_ru": "Она продемонстрировала пик Прекрасной эпохи, электрические инновации и оптимизм индустриальной современности",
+    "wrong_answers_de": [
+      "Sie war die erste Weltausstellung und zeigte zum ersten Mal industrielle Produkte",
+      "Sie diente hauptsächlich als politisches Forum für die europäische Zusammenarbeit",
+      "Sie markierte den Beginn des Ersten Weltkriegs und wurde deshalb abrupt beendet"
+    ],
+    "wrong_answers_ru": [
+      "Она была первой Всемирной выставкой и впервые демонстрировала промышленные изделия",
+      "Она служила главным образом политическим форумом для европейского сотрудничества",
+      "Она ознаменовала начало Первой мировой войны и потому была резко прервана"
+    ],
+    "explanation_de": "Die Expo 1900 in Paris empfing 50 Millionen Besucher. Sie zeigte elektrisches Licht, Diesel-Motoren, Telefonzentralen und den Eiffelturm. Sie symbolisierte das Europa vor dem Ersten Weltkrieg.",
+    "explanation_ru": "Выставка 1900 года в Париже приняла 50 миллионов посетителей. Она демонстрировала электрическое освещение, дизельные двигатели, телефонные станции и Эйфелеву башню. Она символизировала Европу до Первой мировой войны.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1900 CE",
+    "tags": ["Weltausstellung", "Paris", "Belle Époque", "Technologie", "Moderne"],
+    "interesting_facts": [
+      {"de": "Der Eiffelturm wurde zur Expo 1889 gebaut und sollte ursprünglich danach wieder abgerissen werden.", "ru": "Эйфелева башня была построена к выставке 1889 года и первоначально должна была быть снесена после неё."},
+      {"de": "Die Expo 1900 war die erste, bei der Film vorgeführt wurde.", "ru": "Выставка 1900 года была первой, на которой демонстрировалось кино."},
+      {"de": "Rudolf Diesel stellte auf der Expo seinen Motor vor, der mit Erdnussöl betrieben wurde.", "ru": "Рудольф Дизель представил на выставке свой двигатель, работавший на арахисовом масле."}
+    ]
+  },
+  {
+    "id": 8249,
+    "question_de": "Was war die Bedeutung der ersten modernen Olympischen Spiele von 1896 für den Sport?",
+    "question_ru": "Каково было значение первых современных Олимпийских игр 1896 года для спорта?",
+    "correct_answer_de": "Sie schufen eine internationale Plattform für friedlichen sportlichen Wettbewerb zwischen Nationen",
+    "correct_answer_ru": "Они создали международную платформу для мирного спортивного соревнования между нациями",
+    "wrong_answers_de": [
+      "Sie zeigten, dass Sport kein politisches Instrument sein kann",
+      "Sie schufen das erste einheitliche Regelwerk für alle olympischen Sportarten",
+      "Sie führten zur sofortigen Verbreitung aller olympischen Sportarten in allen teilnehmenden Ländern"
+    ],
+    "wrong_answers_ru": [
+      "Они показали, что спорт не может быть политическим инструментом",
+      "Они создали первый единый свод правил для всех олимпийских видов спорта",
+      "Они привели к немедленному распространению всех олимпийских видов спорта во всех участвующих странах"
+    ],
+    "explanation_de": "Die ersten modernen Olympischen Spiele (Athen 1896) enthielten 9 Sportarten, 43 Wettbewerbe und 241 Athleten aus 14 Nationen. Sie waren eine Idee Couperin de Coubertins zur Völkerverständigung.",
+    "explanation_ru": "Первые современные Олимпийские игры (Афины, 1896) включали 9 видов спорта, 43 соревнования и 241 спортсмена из 14 стран. Идея принадлежала Пьеру де Кубертену для сближения народов.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1896 CE",
+    "tags": ["Olympische Spiele", "Sport", "Coubertin", "International", "Frieden"],
+    "interesting_facts": [
+      {"de": "Nur Männer nahmen an den ersten Spielen teil; Frauen wurden erstmals 1900 in Paris zugelassen.", "ru": "В первых играх участвовали только мужчины; женщины были допущены впервые в 1900 году в Париже."},
+      {"de": "Das griechische Siegertrium hielt alle vier Jahre bis zum Ausbruch des Ersten Weltkriegs an.", "ru": "Олимпийский триумф Греции продолжался каждые четыре года вплоть до начала Первой мировой войны."},
+      {"de": "Der Marathonlauf hatte keine feste Länge bis 1908, als er auf 42,195 km festgelegt wurde.", "ru": "Марафонский бег не имел фиксированной длины до 1908 года, когда она была установлена в 42,195 км."}
+    ]
+  },
+  {
+    "id": 8250,
+    "question_de": "Was war die Bedeutung der Schriften von John Stuart Mill für den Liberalismus und die Frauenrechte?",
+    "question_ru": "Каково было значение трудов Джона Стюарта Милля для либерализма и прав женщин?",
+    "correct_answer_de": "Mill verteidigte individuelle Freiheit und Meinungsfreiheit und war Mitstreiter für Frauenrechte und Frauenwahlrecht",
+    "correct_answer_ru": "Милль защищал индивидуальную свободу и свободу мнений, а также был союзником в борьбе за права женщин и их избирательное право",
+    "wrong_answers_de": [
+      "Er entwickelte die marxistische Kritik des Kapitalismus und forderte Verstaatlichung",
+      "Er begründete den Konservatismus und warnte vor den Gefahren des Liberalismus",
+      "Er schrieb ausschließlich über Wirtschaftstheorie und hatte keinen Einfluss auf politische Rechte"
+    ],
+    "wrong_answers_ru": [
+      "Он разработал марксистскую критику капитализма и требовал национализации",
+      "Он основал консерватизм и предостерегал от опасностей либерализма",
+      "Он писал исключительно об экономической теории и не оказал влияния на политические права"
+    ],
+    "explanation_de": "John Stuart Mill (1806–1873) schrieb 'On Liberty' (1859) und 'The Subjection of Women' (1869). Er war Parlamentsmitglied und stellte als erster einen Antrag auf Frauenwahlrecht im britischen Parlament.",
+    "explanation_ru": "Джон Стюарт Милль (1806–1873) написал «О свободе» (1859) и «Подчинение женщин» (1869). Он был членом парламента и первым внёс предложение об избирательном праве для женщин в британском парламенте.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1859 CE",
+    "tags": ["Mill", "Liberalismus", "Frauenrechte", "Freiheit", "Philosophie"],
+    "interesting_facts": [
+      {"de": "Mills Vater James Mill war ebenfalls Philosoph und Ökonom – Sohn und Vater pflegten intensiven intellektuellen Austausch.", "ru": "Отец Милля Джеймс Милль также был философом и экономистом — отец и сын вели интенсивный интеллектуальный диалог."},
+      {"de": "Mill war 35 Jahre lang für die East India Company tätig, während er seine philosophischen Werke schrieb.", "ru": "Милль 35 лет работал в Ост-Индской компании, одновременно создавая свои философские труды."},
+      {"de": "Sein Konzept des 'Utilitarismus' besagt, dass Handlungen dann gut sind, wenn sie das Glück maximieren.", "ru": "Его концепция «утилитаризма» гласит, что действия хороши, когда они максимизируют счастье."}
+    ]
+  }
+]

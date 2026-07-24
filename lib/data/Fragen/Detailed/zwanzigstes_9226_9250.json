@@ -1,0 +1,727 @@
+[
+  {
+    "id": 9226,
+    "question_de": "Was war die Bedeutung der Mondlandung für die Wissenschaft und die Erforschung des Weltalls?",
+    "question_ru": "Каково было значение высадки на Луну для науки и исследования космоса?",
+    "correct_answer_de": "Apollo 11 bewies, dass Menschen den Weltraum bereisen und auf anderen Himmelskörpern überleben können, und lieferte wertvolle wissenschaftliche Erkenntnisse",
+    "correct_answer_ru": "«Аполлон-11» доказал, что люди могут совершать путешествия в космос и выживать на других небесных телах, и дал ценные научные знания",
+    "wrong_answers_de": [
+      "Die Mondlandung brachte keine wissenschaftlichen Erkenntnisse, da alle Proben verloren gingen",
+      "Neil Armstrong landete allein, ohne Begleitung eines zweiten Astronauten",
+      "Die Mondmission dauerte nur 2 Stunden und endete aufgrund technischer Probleme vorzeitig"
+    ],
+    "wrong_answers_ru": [
+      "Высадка на Луну не принесла научных знаний, так как все образцы были потеряны",
+      "Нил Армстронг высадился один, без сопровождения второго астронавта",
+      "Лунная миссия длилась всего 2 часа и досрочно завершилась из-за технических проблем"
+    ],
+    "explanation_de": "Apollo 11 (1969): 382 kg Mondgestein wurden gesammelt. Mondseismometer, Laserreflektor und Solarwindmessung. Heute wissen wir: Der Mond entstand durch einen Einschlag vor 4,5 Mrd. Jahren.",
+    "explanation_ru": "«Аполлон-11» (1969): было собрано 382 кг лунных пород. Лунный сейсмометр, лазерный отражатель и измерение солнечного ветра. Сегодня известно: Луна образовалась в результате столкновения 4,5 млрд лет назад.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1969 CE",
+    "tags": ["Mondlandung", "Apollo 11", "Raumfahrt", "Wissenschaft", "NASA"],
+    "interesting_facts": [
+      {"de": "Die Mondsteine halfen Geologen, die Entstehungsgeschichte des Sonnensystems zu rekonstruieren.", "ru": "Лунные камни помогли геологам реконструировать историю формирования Солнечной системы."},
+      {"de": "Ein Laserreflektor auf dem Mond ermöglicht noch heute die genaue Messung des Mondabstands.", "ru": "Лазерный отражатель на Луне позволяет по сей день точно измерять расстояние до Луны."},
+      {"de": "Insgesamt 12 Menschen betraten den Mond – alle beim Apollo-Programm zwischen 1969 und 1972.", "ru": "В общей сложности 12 человек ступали на Луну — все в рамках программы «Аполлон» с 1969 по 1972 год."}
+    ]
+  },
+  {
+    "id": 9227,
+    "question_de": "Was war die Bedeutung des Ersten Weltkriegs für die Entstehung des modernen Nahen Ostens?",
+    "question_ru": "Каково было значение Первой мировой войны для формирования современного Ближнего Востока?",
+    "correct_answer_de": "Das Sykes-Picot-Abkommen und der Zerfall des Osmanischen Reichs schufen künstliche Staatsgrenzen, die bis heute Konflikte verursachen",
+    "correct_answer_ru": "Соглашение Сайкса–Пико и распад Османской империи создали искусственные государственные границы, порождающие конфликты по сей день",
+    "wrong_answers_de": [
+      "Der Erste Weltkrieg stärkte das Osmanische Reich und verlängerte seine Herrschaft im Nahen Osten",
+      "Die arabischen Staaten erhielten nach WW1 vollständige Selbstbestimmung ohne europäische Einmischung",
+      "Sykes-Picot war ein Handelsabkommen zwischen Großbritannien und Frankreich"
+    ],
+    "wrong_answers_ru": [
+      "Первая мировая война укрепила Османскую империю и продлила её господство на Ближнем Востоке",
+      "Арабские государства получили после Первой мировой полное самоопределение без европейского вмешательства",
+      "Соглашение Сайкса–Пико было торговым договором между Великобританией и Францией"
+    ],
+    "explanation_de": "Sykes-Picot (1916): Geheimabkommen teilte ottomanische Gebiete zwischen UK und Frankreich. Balfour-Deklaration (1917) versprach eine jüdische Heimstätte. Irak, Syrien, Libanon, Palästina entstanden.",
+    "explanation_ru": "Соглашение Сайкса–Пико (1916): секретное соглашение разделило османские территории между Великобританией и Францией. Декларация Бальфура (1917) обещала еврейский национальный очаг. Возникли Ирак, Сирия, Ливан, Палестина.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1916 CE",
+    "tags": ["Sykes-Picot", "Osmanisches Reich", "Naher Osten", "Kolonialismus", "Grenzen"],
+    "interesting_facts": [
+      {"de": "Der Aufstand des arabischen Scherifaten (TE Lawrence, 'Lawrence von Arabien') wurde mit falschen Versprechen unterstützt.", "ru": "Арабское восстание (ТЕ Лоуренс, «Лоуренс Аравийский») поддерживалось ложными обещаниями."},
+      {"de": "Die gerade Grenze zwischen Jordanien und Saudi-Arabien ist buchstäblich mit einem Lineal gezogen.", "ru": "Прямая граница между Иорданией и Саудовской Аравией буквально проведена по линейке."},
+      {"de": "Viele Konflikte im heutigen Irak, Syrien und Libanon haben ihre Wurzeln in Sykes-Picot.", "ru": "Многие современные конфликты в Ираке, Сирии и Ливане уходят корнями в соглашение Сайкса–Пико."}
+    ]
+  },
+  {
+    "id": 9228,
+    "question_de": "Was war die Bedeutung des Ersten Golfkrieges (1980–88) zwischen Iran und Irak?",
+    "question_ru": "Каково было значение Первой войны в Персидском заливе (1980–88) между Ираном и Ираком?",
+    "correct_answer_de": "Saddam Husseins Invasion des Iran führte zu einem achtjährigen Abnutzungskrieg mit bis zu einer Million Toten und dem Einsatz von Chemiewaffen",
+    "correct_answer_ru": "Вторжение Саддама Хусейна в Иран привело к восьмилетней войне на истощение с до миллиона погибших и применением химического оружия",
+    "wrong_answers_de": [
+      "Der Krieg endete mit einem klaren Sieg des Iran und der Annexion des Irak",
+      "Die USA intervenierten militärisch zugunsten des Iran",
+      "Der Krieg dauerte nur sechs Monate und endete durch UN-Vermittlung"
+    ],
+    "wrong_answers_ru": [
+      "Война завершилась явной победой Ирана и аннексией Ирака",
+      "США военным путём вмешались на стороне Ирана",
+      "Война продолжалась лишь шесть месяцев и завершилась при посредничестве ООН"
+    ],
+    "explanation_de": "Saddam überfiel den Iran 1980 in der Hoffnung, die Islamische Revolution zu nutzen. Irak wurde von USA, Sowjetunion und Golfstaaten unterstützt. Chemiewaffen gegen Kurden (Halabja, 1988).",
+    "explanation_ru": "Саддам напал на Иран в 1980 году, стремясь использовать Исламскую революцию. Ирак поддерживали США, СССР и государства Залива. Химическое оружие применялось против курдов (Халабджа, 1988).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1980 CE",
+    "tags": ["Iran-Irak-Krieg", "Saddam", "Chemiewaffen", "Naher Osten", "Golfkrieg"],
+    "interesting_facts": [
+      {"de": "Der Krieg endete 1988 mit einem Waffenstillstand – ohne Geländegewinne für eine Seite.", "ru": "Война завершилась в 1988 году перемирием — без территориальных приобретений для любой из сторон."},
+      {"de": "Der Halabja-Angriff (1988) mit Senfgas und Nervengas tötete 3.000–5.000 Kurden.", "ru": "Атака на Халабджу (1988) с применением горчичного газа и нервно-паралитических веществ убила 3 000–5 000 курдов."},
+      {"de": "Die USA stellten Saddam Geheimdienstinformationen zur Verfügung, die er gegen Iran nutzte.", "ru": "США предоставили Саддаму разведывательные данные, которые он использовал против Ирана."}
+    ]
+  },
+  {
+    "id": 9229,
+    "question_de": "Was war die historische Bedeutung des Aufstiegs Chinas zur Weltmacht im 21. Jahrhundert?",
+    "question_ru": "Каково было историческое значение подъёма Китая как мировой державы в XXI веке?",
+    "correct_answer_de": "Chinas wirtschaftliches Wachstum nach den Deng-Reformen machte es zur zweitgrößten Volkswirtschaft und herausfordernden Weltmacht gegenüber den USA",
+    "correct_answer_ru": "Экономический рост Китая после реформ Дэна сделал его второй по величине экономикой и бросающей вызов мировой державой по отношению к США",
+    "wrong_answers_de": [
+      "China wurde durch Militärkonquesten zur Weltmacht, nicht durch wirtschaftliches Wachstum",
+      "China war bereits seit dem Zweiten Weltkrieg die größte Volkswirtschaft der Welt",
+      "Chinas Aufstieg ging ausschließlich auf westliche Entwicklungshilfe zurück"
+    ],
+    "wrong_answers_ru": [
+      "Китай стал мировой державой путём военных завоеваний, а не экономического роста",
+      "Китай был крупнейшей экономикой мира ещё со времён Второй мировой войны",
+      "Подъём Китая был обусловлен исключительно западной помощью в целях развития"
+    ],
+    "explanation_de": "Deng Xiaopings 'Sozialismus mit chinesischen Merkmalen' (ab 1978): Sonderwirtschaftszonen, Marktöffnung. China überholte Japan 2010 als zweitgrößte Wirtschaft. Xi Jinping ab 2012: autoritärer Kurs.",
+    "explanation_ru": "«Социализм с китайской спецификой» Дэн Сяопина (с 1978): особые экономические зоны, открытие рынка. Китай в 2010 году обогнал Японию как вторую по величине экономику. Си Цзиньпин с 2012 года: авторитарный курс.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "2000 CE",
+    "tags": ["China", "Weltmacht", "Deng Xiaoping", "Wirtschaft", "USA"],
+    "interesting_facts": [
+      {"de": "China hat in 40 Jahren 800 Millionen Menschen aus extremer Armut befreit – historisch beispiellos.", "ru": "За 40 лет Китай вывел 800 миллионов человек из крайней нищеты — исторически беспрецедентно."},
+      {"de": "Die Belt and Road Initiative (BRI, ab 2013) investiert Billionen in Infrastruktur weltweit.", "ru": "Инициатива «Пояс и путь» (с 2013 года) инвестирует триллионы в инфраструктуру по всему миру."},
+      {"de": "China ist seit 2020 der größte CO₂-Emittent der Welt – und auch der größte Investor in erneuerbare Energien.", "ru": "Китай с 2020 года является крупнейшим мировым эмитентом CO₂ — и одновременно крупнейшим инвестором в возобновляемые источники энергии."}
+    ]
+  },
+  {
+    "id": 9230,
+    "question_de": "Was war die Bedeutung der Menschenrechtsbewegung im 20. Jahrhundert?",
+    "question_ru": "Каково было значение движения за права человека в XX веке?",
+    "correct_answer_de": "Die Allgemeine Erklärung der Menschenrechte (1948) und Bürgerrechtsbewegungen weltweit schufen einen universellen Rechtsrahmen gegen staatliche Willkür",
+    "correct_answer_ru": "Всеобщая декларация прав человека (1948) и движения за гражданские права по всему миру создали универсальную правовую базу против государственного произвола",
+    "wrong_answers_de": [
+      "Die Menschenrechtsbewegung war ausschließlich auf die USA und den Kampf der Afroamerikaner beschränkt",
+      "Menschenrechte wurden erst nach 2000 durch die UN anerkannt",
+      "Die Bewegung forderte ausschließlich wirtschaftliche, nicht politische Rechte"
+    ],
+    "wrong_answers_ru": [
+      "Движение за права человека было ограничено исключительно США и борьбой афроамериканцев",
+      "Права человека были признаны ООН лишь после 2000 года",
+      "Движение требовало исключительно экономических, а не политических прав"
+    ],
+    "explanation_de": "Eleanor Roosevelt koordinierte die Allgemeine Erklärung (1948). Amnesty International (1961), Human Rights Watch (1978) wurden gegründet. Folterverbote, Asylrecht, Frauenrechte wurden international verankert.",
+    "explanation_ru": "Элеонора Рузвельт координировала создание Всеобщей декларации (1948). Были основаны Amnesty International (1961) и Human Rights Watch (1978). Запрет пыток, право убежища, права женщин были закреплены на международном уровне.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1948 CE",
+    "tags": ["Menschenrechte", "UN", "Eleanor Roosevelt", "Amnesty", "Bürgerrechte"],
+    "interesting_facts": [
+      {"de": "Die AEMR hat keine direkte Rechtskraft, aber sie prägt internationale Verträge und Gerichtsurteile.", "ru": "ВДПЧ не имеет прямой правовой силы, но формирует международные договоры и судебные решения."},
+      {"de": "Artikel 1: 'Alle Menschen sind frei und gleich an Würde und Rechten geboren.'", "ru": "Статья 1: «Все люди рождаются свободными и равными в своём достоинстве и правах»."},
+      {"de": "René Cassin erhielt 1968 den Friedensnobelpreis für seinen Beitrag zur AEMR.", "ru": "Рене Кассен получил Нобелевскую премию мира в 1968 году за вклад в создание ВДПЧ."}
+    ]
+  },
+  {
+    "id": 9231,
+    "question_de": "Was war die Bedeutung der Entdeckung des Ozonlochs und das Montreal-Protokoll (1987)?",
+    "question_ru": "Каково было значение открытия озонной дыры и Монреальского протокола (1987)?",
+    "correct_answer_de": "Das Montreal-Protokoll verbot FCKW-Gase, die die Ozonschicht zerstörten – eines der erfolgreichsten internationalen Umweltabkommen der Geschichte",
+    "correct_answer_ru": "Монреальский протокол запретил фреоны, разрушавшие озоновый слой — одно из самых успешных международных экологических соглашений в истории",
+    "wrong_answers_de": [
+      "Das Ozonloch wurde durch Kernkraftwerke verursacht und durch Abschalten geschlossen",
+      "Das Montreal-Protokoll wurde nie umgesetzt, da Industrie erfolgreich lobbyierte",
+      "Die Ozonschicht regenerierte sich von selbst ohne menschliches Eingreifen"
+    ],
+    "wrong_answers_ru": [
+      "Озонная дыра была вызвана атомными электростанциями и закрылась после их отключения",
+      "Монреальский протокол так и не был выполнен, поскольку промышленность успешно лоббировала против него",
+      "Озоновый слой восстановился самостоятельно без вмешательства человека"
+    ],
+    "explanation_de": "Rowland und Molina (Nobelpreis 1995) entdeckten 1974 den FCKW-Ozon-Mechanismus. 1985 Ozonloch über Antarktis entdeckt. Das Protokoll wurde von allen 197 UN-Staaten ratifiziert.",
+    "explanation_ru": "Роуленд и Молина (Нобелевская премия 1995) открыли в 1974 году механизм разрушения озона фреонами. В 1985 году обнаружена озонная дыра над Антарктидой. Протокол был ратифицирован всеми 197 государствами ООН.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1987 CE",
+    "tags": ["Ozonloch", "Montreal-Protokoll", "FCKW", "Umwelt", "Klimaschutz"],
+    "interesting_facts": [
+      {"de": "Das Montreal-Protokoll ist das erste UN-Abkommen, das von allen Mitgliedstaaten universell ratifiziert wurde.", "ru": "Монреальский протокол — первое соглашение ООН, ратифицированное всеми государствами-членами."},
+      {"de": "Die Ozonschicht erholt sich: Sie könnte bis 2060–2070 vollständig regeneriert sein.", "ru": "Озоновый слой восстанавливается: к 2060–2070 годам он может полностью регенерироваться."},
+      {"de": "FCKW wurden in Kühlschränken und Spraydosen eingesetzt – scheinbar harmlose Alltagsprodukte.", "ru": "Фреоны применялись в холодильниках и аэрозолях — казалось бы, безобидных предметах быта."}
+    ]
+  },
+  {
+    "id": 9232,
+    "question_de": "Was war die Bedeutung der Unabhängigkeit Indiens (1947) und der Teilung in Indien und Pakistan?",
+    "question_ru": "Каково было значение независимости Индии (1947) и её раздела на Индию и Пакистан?",
+    "correct_answer_de": "Britisch-Indien wurde in Indien und Pakistan geteilt, was Massenvertreibungen mit über einer Million Toten und anhaltende Konflikte über Kaschmir auslöste",
+    "correct_answer_ru": "Британская Индия была разделена на Индию и Пакистан, что вызвало массовые перемещения населения с более чем миллионом погибших и продолжающиеся конфликты из-за Кашмира",
+    "wrong_answers_de": [
+      "Indien und Pakistan einigten sich friedlich auf die Teilung ohne Gewalt",
+      "Großbritannien blieb nach 1947 als Schutzmacht in Indien präsent",
+      "Die Teilung führte zu einem stabilen Frieden zwischen Indien und Pakistan"
+    ],
+    "wrong_answers_ru": [
+      "Индия и Пакистан мирно договорились о разделе без насилия",
+      "Великобритания после 1947 года оставалась в Индии в качестве державы-покровителя",
+      "Раздел привёл к стабильному миру между Индией и Пакистаном"
+    ],
+    "explanation_de": "Der 'Partition' (August 1947): Nehru (Indien) und Jinnah (Pakistan) führten die neuen Staaten. 12–15 Millionen Menschen wurden vertrieben; 200.000–2 Millionen starben. Kaschmir bleibt umstritten.",
+    "explanation_ru": "«Раздел» (август 1947): Неру (Индия) и Джинна (Пакистан) возглавили новые государства. 12–15 миллионов человек были перемещены; погибло 200 000–2 миллиона. Кашмир остаётся спорным.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1947 CE",
+    "tags": ["Indien", "Pakistan", "Unabhängigkeit", "Partition", "Kaschmir"],
+    "interesting_facts": [
+      {"de": "Gandhi wurde 1948 von einem Hindu-Extremisten ermordet, dem die Teilung zu weich war.", "ru": "Ганди был убит в 1948 году индуистским экстремистом, считавшим раздел слишком мягким."},
+      {"de": "Indien und Pakistan haben seitdem drei Kriege geführt (1947, 1965, 1971) und beide besitzen Atomwaffen.", "ru": "С тех пор Индия и Пакистан провели три войны (1947, 1965, 1971) и оба обладают ядерным оружием."},
+      {"de": "Cyril Radcliffe zeichnete die Grenze in 5 Wochen – ohne je in Indien gewesen zu sein.", "ru": "Сирил Рэдклифф провёл границу за 5 недель — ни разу не побывав в Индии."}
+    ]
+  },
+  {
+    "id": 9233,
+    "question_de": "Was war die Bedeutung des Nürnberger Tribunals (1945–46) für das Völkerrecht?",
+    "question_ru": "Каково было значение Нюрнбергского трибунала (1945–46) для международного права?",
+    "correct_answer_de": "Nürnberg begründete das Prinzip der individuellen Verantwortlichkeit für Kriegsverbrechen und Verbrechen gegen die Menschlichkeit und schuf Präzedenzfälle für spätere Tribunale",
+    "correct_answer_ru": "Нюрнберг утвердил принцип индивидуальной ответственности за военные преступления и преступления против человечности и создал прецеденты для последующих трибуналов",
+    "wrong_answers_de": [
+      "Nürnberg war ein deutsches Gericht, das von deutschen Richtern geführt wurde",
+      "Alle Angeklagten in Nürnberg wurden zum Tode verurteilt",
+      "Das Tribunal hatte keine Wirkung auf das internationale Recht"
+    ],
+    "wrong_answers_ru": [
+      "Нюрнберг был немецким судом под руководством немецких судей",
+      "Все обвиняемые в Нюрнберге были приговорены к смертной казни",
+      "Трибунал не имел никакого влияния на международное право"
+    ],
+    "explanation_de": "Vier Mächte (USA, UK, UdSSR, Frankreich) richteten 24 NS-Hauptverbrecher. 12 Todesurteile, 7 Gefängnisstrafen, 3 Freisprüche. Grundsatz: 'Befehl ist Befehl' gilt nicht als Entschuldigung.",
+    "explanation_ru": "Четыре державы (США, Великобритания, СССР, Франция) судили 24 главных нацистских преступника. 12 смертных приговоров, 7 тюремных сроков, 3 оправдания. Принцип: «Приказ есть приказ» не является оправданием.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1946 CE",
+    "tags": ["Nürnberg", "Kriegsverbrechen", "Völkerrecht", "Holocaust", "Verantwortlichkeit"],
+    "interesting_facts": [
+      {"de": "Hermann Göring schluckte kurz vor seiner Hinrichtung eine Zyankali-Kapsel.", "ru": "Герман Геринг незадолго до казни проглотил капсулу с цианидом."},
+      {"de": "Die Nürnberger Prinzipien wurden 1950 von der UN-Völkerrechtskommission kodifiziert.", "ru": "Нюрнбергские принципы были кодифицированы Комиссией ООН по международному праву в 1950 году."},
+      {"de": "Nürnberg inspirierte später Tribunale für Ex-Jugoslawien, Ruanda und den ICC.", "ru": "Нюрнберг вдохновил последующие трибуналы по бывшей Югославии, Руанде и МУС."}
+    ]
+  },
+  {
+    "id": 9234,
+    "question_de": "Was war die Bedeutung der sozialen Medien für die politische Kommunikation im 21. Jahrhundert?",
+    "question_ru": "Каково было значение социальных сетей для политической коммуникации в XXI веке?",
+    "correct_answer_de": "Soziale Medien demokratisierten Informationsverteilung, ermöglichten Bürgermobilisierung, förderten aber auch Desinformation und politische Polarisierung",
+    "correct_answer_ru": "Социальные сети демократизировали распространение информации, обеспечили мобилизацию граждан, но также способствовали дезинформации и политической поляризации",
+    "wrong_answers_de": [
+      "Soziale Medien wurden von Regierungen eingeführt, um Bürger besser zu überwachen",
+      "Politische Parteien boykottierten anfangs soziale Medien als undemokratisch",
+      "Soziale Medien haben keinen Einfluss auf politische Meinungen"
+    ],
+    "wrong_answers_ru": [
+      "Социальные сети были введены правительствами для лучшего наблюдения за гражданами",
+      "Политические партии поначалу бойкотировали социальные сети как недемократические",
+      "Социальные сети не влияют на политические взгляды"
+    ],
+    "explanation_de": "Twitter/X revolutionierte politische Kommunikation (Obama 2008, Trump 2016). Der Arabische Frühling nutzte Facebook. 'Fake News' und Cambridge Analytica zeigten Schattenseiten.",
+    "explanation_ru": "Twitter/X революционизировал политическую коммуникацию (Обама 2008, Трамп 2016). Арабская весна использовала Facebook. «Фейковые новости» и Cambridge Analytica показали тёмную сторону.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "2008 CE",
+    "tags": ["Soziale Medien", "Demokratie", "Desinformation", "Twitter", "Polarisierung"],
+    "interesting_facts": [
+      {"de": "Cambridge Analytica nutzte Daten von 87 Millionen Facebook-Nutzern für politische Mikrotargeting.", "ru": "Cambridge Analytica использовала данные 87 миллионов пользователей Facebook для политического микротаргетинга."},
+      {"de": "Elon Musk kaufte Twitter 2022 für 44 Milliarden Dollar und benannte es in X um.", "ru": "Илон Маск купил Twitter в 2022 году за 44 миллиарда долларов и переименовал его в X."},
+      {"de": "Über 4 Milliarden Menschen nutzen täglich soziale Medien – mehr als die Hälfte der Weltbevölkerung.", "ru": "Более 4 миллиардов человек ежедневно пользуются социальными сетями — больше половины населения мира."}
+    ]
+  },
+  {
+    "id": 9235,
+    "question_de": "Was war die Bedeutung der Kubakrise (1962) für die Nuklearpolitik?",
+    "question_ru": "Каково было значение Карибского кризиса (1962) для ядерной политики?",
+    "correct_answer_de": "Die dreizehntägige Konfrontation zwischen USA und UdSSR brachte die Welt dem Nuklearkrieg am nächsten und führte zum direkten 'Hotline'-Kommunikationskanal zwischen Washington und Moskau",
+    "correct_answer_ru": "Тринадцатидневное противостояние США и СССР поставило мир на порог ядерной войны и привело к созданию прямой «горячей линии» между Вашингтоном и Москвой",
+    "wrong_answers_de": [
+      "Die Kubakrise endete damit, dass die USA Kuba militärisch invasierten",
+      "Die Sowjetunion gewann die Krise und behielt ihre Raketen auf Kuba",
+      "Kennedy und Chruschtschow trafen sich persönlich auf Kuba zur Verhandlung"
+    ],
+    "wrong_answers_ru": [
+      "Карибский кризис завершился военным вторжением США на Кубу",
+      "Советский Союз выиграл кризис и сохранил ракеты на Кубе",
+      "Кеннеди и Хрущёв лично встретились на Кубе для переговоров"
+    ],
+    "explanation_de": "Oktober 1962: UdSSR stationierte Raketen auf Kuba. USA verhängte Blockade. Geheim: USA zogen auch Raketen aus der Türkei ab. Geheimer Austausch zwischen ExComm-Mitglied und Sowjet-Diplomat.",
+    "explanation_ru": "Октябрь 1962: СССР разместил ракеты на Кубе. США ввели блокаду. Тайно: США также вывели ракеты из Турции. Тайный обмен между членом ExComm и советским дипломатом.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1962 CE",
+    "tags": ["Kubakrise", "Atomwaffen", "Kennedy", "Chruschtschow", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Der sowjetische U-Boot-Kommandant Vasili Arkhipov verhinderte durch sein Veto einen Atomtorpedo-Angriff.", "ru": "Командир советской подводной лодки Василий Архипов предотвратил своим вето атаку ядерной торпедой."},
+      {"de": "Die 'Rote Telefon'-Hotline wurde 1963 eingerichtet – tatsächlich war es ein Telexgerät.", "ru": "«Красный телефон» — горячая линия — была установлена в 1963 году; на самом деле это был телетайп."},
+      {"de": "Präsident Kennedy lebte die geheime Einigung mit, die Türkei-Raketen zurückzuziehen – ohne Öffentlichkeit.", "ru": "Президент Кеннеди исполнил тайное соглашение о выводе ракет из Турции — без огласки."}
+    ]
+  },
+  {
+    "id": 9236,
+    "question_de": "Was war die Bedeutung der Entdeckung des Penicillins für die moderne Medizin?",
+    "question_ru": "Каково было значение открытия пенициллина для современной медицины?",
+    "correct_answer_de": "Fleming entdeckte 1928 Penicillin; Florey und Chain entwickelten es zur Massenproduktion – das erste Antibiotikum rettete Millionen von Menschenleben",
+    "correct_answer_ru": "Флеминг открыл пенициллин в 1928 году; Флори и Чейн разработали его массовое производство — первый антибиотик спас миллионы жизней",
+    "wrong_answers_de": [
+      "Penicillin wurde von Marie Curie als Nebenprodukt ihrer Radiumforschung entdeckt",
+      "Penicillin ist gegen alle Bakterien wirksam, auch gegen resistente Stämme",
+      "Das Penicillin wurde direkt nach seiner Entdeckung sofort für alle zugänglich gemacht"
+    ],
+    "wrong_answers_ru": [
+      "Пенициллин был открыт Марией Кюри как побочный продукт её исследований радия",
+      "Пенициллин эффективен против всех бактерий, в том числе резистентных штаммов",
+      "Пенициллин был немедленно доступен всем сразу после его открытия"
+    ],
+    "explanation_de": "Fleming beobachtete 1928, dass Schimmel (Penicillium notatum) Bakterien abtötete. Florey und Chain entwickelten 1940–41 den Wirkstoff. Nobelpreis 1945. Rettete WW2-Verwundete.",
+    "explanation_ru": "В 1928 году Флеминг заметил, что плесень (Penicillium notatum) убивает бактерии. В 1940–41 годах Флори и Чейн разработали действующее вещество. Нобелевская премия 1945. Спасло раненых Второй мировой.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1928 CE",
+    "tags": ["Penicillin", "Fleming", "Antibiotikum", "Medizin", "Bakterien"],
+    "interesting_facts": [
+      {"de": "Fleming ließ eine Petri-Schale offen – aus Versehen entstand die wichtigste medizinische Entdeckung des 20. Jh.", "ru": "Флеминг оставил чашку Петри открытой — случайно произошло важнейшее медицинское открытие XX века."},
+      {"de": "Antibiotikaresistenz ist heute eine der größten globalen Gesundheitsbedrohungen.", "ru": "Устойчивость к антибиотикам сегодня является одной из крупнейших глобальных угроз здоровью."},
+      {"de": "Die industrielle Produktion begann erst 1943 – rechtzeitig für die Normandie-Landung 1944.", "ru": "Промышленное производство началось лишь в 1943 году — вовремя для Нормандской высадки 1944-го."}
+    ]
+  },
+  {
+    "id": 9237,
+    "question_de": "Was war die Bedeutung der Frauenbewegung im 20. Jahrhundert für die Gesellschaft?",
+    "question_ru": "Каково было значение женского движения XX века для общества?",
+    "correct_answer_de": "Feministische Bewegungen erkämpften Wahlrecht, Gleichstellung am Arbeitsplatz und reproduktive Rechte und veränderten die Rolle der Frau in westlichen Gesellschaften",
+    "correct_answer_ru": "Феминистские движения завоевали право голоса, равноправие на рабочем месте и репродуктивные права и изменили роль женщины в западных обществах",
+    "wrong_answers_de": [
+      "Die Frauenbewegung beschränkte sich auf das Thema Wahlrecht und ignorierte Arbeitsrechte",
+      "Frauen erhielten das Wahlrecht weltweit durch einen UN-Beschluss von 1920",
+      "Die Frauenbewegung war ausschließlich ein US-amerikanisches Phänomen"
+    ],
+    "wrong_answers_ru": [
+      "Женское движение ограничивалось темой избирательных прав и игнорировало трудовые права",
+      "Женщины получили право голоса во всём мире по решению ООН 1920 года",
+      "Женское движение было исключительно американским явлением"
+    ],
+    "explanation_de": "Erste Welle: Suffragetten (UK, USA, Anfang 20. Jh.). Zweite Welle (1960–80): Simone de Beauvoir, Betty Friedan, Equal Pay, Abtreibungsrecht. Dritte Welle (ab 1990): Intersektionalität.",
+    "explanation_ru": "Первая волна: суфражистки (Великобритания, США, начало XX в.). Вторая волна (1960–80): Симона де Бовуар, Бетти Фридан, равная оплата, право на аборт. Третья волна (с 1990): интерсекциональность.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1960 CE",
+    "tags": ["Frauenbewegung", "Feminismus", "Gleichstellung", "Suffragetten", "Rechte"],
+    "interesting_facts": [
+      {"de": "Simone de Beauvoirs 'Das andere Geschlecht' (1949) gilt als Manifest des modernen Feminismus.", "ru": "«Второй пол» Симоны де Бовуар (1949) считается манифестом современного феминизма."},
+      {"de": "Sadie Tanner Mossell Alexander war 1921 die erste Afroamerikanerin mit Wirtschaftsdoktorat – aber durfte keine Stelle bei ihrer Uni finden.", "ru": "Сейди Таннер Моссел Александер в 1921 году получила первую учёную степень доктора экономики среди афроамериканок — но не смогла найти место на своём факультете."},
+      {"de": "#MeToo (2017) wurde zur vierten Welle des Feminismus, die globale Wirkung hatte.", "ru": "#MeToo (2017) стало четвёртой волной феминизма, имевшей глобальный эффект."}
+    ]
+  },
+  {
+    "id": 9238,
+    "question_de": "Was war die Bedeutung der Olympischen Spiele als globales Phänomen im 20. Jahrhundert?",
+    "question_ru": "Каково было значение Олимпийских игр как глобального явления в XX веке?",
+    "correct_answer_de": "Die Olympischen Spiele wurden zu einem Schauplatz globaler Politik, vom Nazi-Boykott 1936 bis zu den Moskauer (1980) und Los-Angeles-Boykotten (1984)",
+    "correct_answer_ru": "Олимпийские игры превратились в арену глобальной политики — от нацистских игр 1936 года до бойкотов Москвы (1980) и Лос-Анджелеса (1984)",
+    "wrong_answers_de": [
+      "Die Olympischen Spiele blieben stets völlig unpolitisch dank IOC-Regeln",
+      "Die Sowjetunion gewann alle Olympischen Spiele von 1952 bis 1988",
+      "Die Spiele wurden im 20. Jahrhundert wegen mangelnden Interesses zweimal dauerhaft abgesagt"
+    ],
+    "wrong_answers_ru": [
+      "Олимпийские игры всегда оставались абсолютно аполитичными благодаря правилам МОК",
+      "СССР выигрывал все Олимпийские игры с 1952 по 1988 год",
+      "Игры в XX веке дважды были навсегда отменены из-за недостаточного интереса"
+    ],
+    "explanation_de": "Berlin 1936: Hitlers Propagandaspiele; Jesse Owens widerlegte Rassenüberlegenheit. München 1972: PLO-Anschlag. Moskau 1980: US-Boykott. LA 1984: Ostblock-Boykott.",
+    "explanation_ru": "Берлин 1936: пропагандистские игры Гитлера; Джесси Оуэнс опроверг расовое превосходство. Мюнхен 1972: теракт ООП. Москва 1980: бойкот США. ЛА 1984: бойкот Восточного блока.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1936 CE",
+    "tags": ["Olympische Spiele", "Politik", "Boykott", "Sport", "Berlin"],
+    "interesting_facts": [
+      {"de": "Jesse Owens gewann 1936 vier Goldmedaillen – zu Hitlers Entsetzen.", "ru": "Джесси Оуэнс в 1936 году завоевал четыре золотые медали — к ужасу Гитлера."},
+      {"de": "Der Olympische Friede ('Ekecheiria') wird seit 1993 vor jedem Spiel durch UN-Resolution erneuert.", "ru": "Олимпийский мир («экехерия») с 1993 года возобновляется перед каждыми играми резолюцией ООН."},
+      {"de": "Muhammad Ali entzündete die Fackel bei Atlanta 1996 – ein emotionaler Höhepunkt.", "ru": "Мухаммед Али зажёг факел на Играх в Атланте в 1996 году — эмоциональный апогей."}
+    ]
+  },
+  {
+    "id": 9239,
+    "question_de": "Was war die Bedeutung des Warschauer Paktes für den Ostblock (1955–91)?",
+    "question_ru": "Каково было значение Варшавского договора для Восточного блока (1955–91)?",
+    "correct_answer_de": "Der Warschauer Pakt war das sowjetische Gegengewicht zur NATO und ermöglichte Moskau, Truppen in Mitgliedsstaaten zu stationieren und Aufstände niederzuschlagen",
+    "correct_answer_ru": "Варшавский договор был советским противовесом НАТО и позволял Москве размещать войска в государствах-членах и подавлять восстания",
+    "wrong_answers_de": [
+      "Der Warschauer Pakt war eine freiwillige Allianz osteuropäischer Staaten ohne sowjetische Dominanz",
+      "Jugoslawien und Rumänien waren die dominanten Mitglieder des Paktes",
+      "Der Warschauer Pakt umfasste auch China und Nordkorea"
+    ],
+    "wrong_answers_ru": [
+      "Варшавский договор был добровольным союзом восточноевропейских государств без советского доминирования",
+      "Югославия и Румыния были доминирующими членами договора",
+      "Варшавский договор включал также Китай и Северную Корею"
+    ],
+    "explanation_de": "Gegründet 1955 als Reaktion auf die NATO-Aufnahme Westdeutschlands. 1956 Ungarn-Intervention, 1968 Tschechoslowakei (Breschnew-Doktrin). Aufgelöst 1. Juli 1991.",
+    "explanation_ru": "Основан в 1955 году как ответ на вступление Западной Германии в НАТО. Интервенция в Венгрии 1956 года, в Чехословакии 1968 года (доктрина Брежнева). Распущен 1 июля 1991 года.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1955 CE",
+    "tags": ["Warschauer Pakt", "Sowjetunion", "Ostblock", "NATO", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Rumänien war Mitglied, aber widersetzte sich oft sowjetischen Direktiven – ein ungewöhnlicher Sonderfall.", "ru": "Румыния была членом, но нередко противилась советским директивам — необычный особый случай."},
+      {"de": "Albanien verließ den Pakt 1968 nach der Invasion der Tschechoslowakei.", "ru": "Албания покинула договор в 1968 году после вторжения в Чехословакию."},
+      {"de": "Die Breschnew-Doktrin erlaubte der UdSSR, sozialistische Errungenschaften in jedem Land zu 'verteidigen'.", "ru": "Доктрина Брежнева разрешала СССР «защищать» социалистические завоевания в любой стране."}
+    ]
+  },
+  {
+    "id": 9240,
+    "question_de": "Was war die Bedeutung des Vietnamkrieges für die US-Außenpolitik langfristig?",
+    "question_ru": "Каково было долгосрочное значение Вьетнамской войны для внешней политики США?",
+    "correct_answer_de": "Die traumatische Niederlage schuf das 'Vietnam-Syndrom': eine generationenlange Zurückhaltung der USA bei Bodentruppeneinsätzen in fremden Ländern",
+    "correct_answer_ru": "Травматическое поражение породило «вьетнамский синдром»: долгосрочную сдержанность США при направлении сухопутных войск в чужие страны",
+    "wrong_answers_de": [
+      "Die USA lernten aus Vietnam und wurden im Kalten Krieg aggressiver",
+      "Das Vietnam-Syndrom führte zur Abschaffung des US-Militärs",
+      "Der Vietnam-Krieg stärkte das Vertrauen der Bevölkerung in die US-Regierung"
+    ],
+    "wrong_answers_ru": [
+      "США извлекли уроки из Вьетнама и стали более агрессивными в холодной войне",
+      "Вьетнамский синдром привёл к упразднению американских вооружённых сил",
+      "Война во Вьетнаме укрепила доверие населения к правительству США"
+    ],
+    "explanation_de": "58.000 US-Soldaten starben; 2–3 Millionen Vietnamesen. Ergebnis: War Powers Act (1973), kein Vertrauen in Regierung, Veteranen-PTSD, Ende der Wehrpflicht (1973). Reagan überwand es durch Grenada (1983).",
+    "explanation_ru": "Погибли 58 000 американских солдат и 2–3 миллиона вьетнамцев. Итог: Закон о военных полномочиях (1973), недоверие к правительству, посттравматический синдром у ветеранов, конец призыва (1973). Рейган преодолел это через Гренаду (1983).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1975 CE",
+    "tags": ["Vietnam", "USA", "Außenpolitik", "Vietnam-Syndrom", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Das Pentagon-Papier (veröffentlicht 1971) enthüllte, dass die US-Regierung über die Aussichtslosigkeit des Krieges log.", "ru": "Документы Пентагона (опубликованы в 1971) раскрыли, что правительство США лгало о безнадёжности войны."},
+      {"de": "Jane Fonda besuchte 1972 Hanoi und wurde dafür jahrzehntelang verteufelt ('Hanoi Jane').", "ru": "Джейн Фонда в 1972 году посетила Ханой и десятилетиями подвергалась осуждению («Ханойская Джейн»)."},
+      {"de": "Vietnam ist heute ein sozialistischer Staat, aber auch ein Wirtschaftspartner der USA.", "ru": "Вьетнам сегодня является социалистическим государством, но и экономическим партнёром США."}
+    ]
+  },
+  {
+    "id": 9241,
+    "question_de": "Was war die Bedeutung der genetischen Revolution durch CRISPR-Technologie?",
+    "question_ru": "Каково было значение генетической революции, обусловленной технологией CRISPR?",
+    "correct_answer_de": "CRISPR-Cas9 ermöglichte präzises Editieren des Erbguts und revolutionierte Medizin, Landwirtschaft und Biotechnologie mit ethischen Fragen",
+    "correct_answer_ru": "CRISPR-Cas9 обеспечила точное редактирование генома и революционизировала медицину, сельское хозяйство и биотехнологию, поставив этические вопросы",
+    "wrong_answers_de": [
+      "CRISPR wurde in den 1960ern entdeckt, aber erst 2020 medizinisch eingesetzt",
+      "CRISPR kann nur tierisches, kein menschliches Erbgut verändern",
+      "CRISPR wurde von Pharmaunternehmen für kosmetische Anwendungen entwickelt"
+    ],
+    "wrong_answers_ru": [
+      "CRISPR была открыта в 1960-х годах, но применена в медицине лишь в 2020 году",
+      "CRISPR может изменять только животный, но не человеческий геном",
+      "CRISPR была разработана фармацевтическими компаниями для косметических применений"
+    ],
+    "explanation_de": "Doudna und Charpentier entwickelten CRISPR-Cas9 (Nobelpreis 2020). Erster genediterter Mensch: chinesischer Forscher He Jiankui (2018, Skandal). Erste Genedit-Therapie (Sickle Cell): FDA 2023.",
+    "explanation_ru": "Даудна и Шарпантье разработали CRISPR-Cas9 (Нобелевская премия 2020). Первый генно-отредактированный человек: китайский исследователь Хэ Цзянькуй (2018, скандал). Первая генно-редакционная терапия (серповидно-клеточная анемия): FDA 2023.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2012 CE",
+    "tags": ["CRISPR", "Gentechnik", "DNA", "Biotechnologie", "Medizin"],
+    "interesting_facts": [
+      {"de": "He Jiankuis CRISPR-Babys (2018) wurden weltweit als ethischer Verstoß verurteilt.", "ru": "CRISPR-дети Хэ Цзянькуя (2018) были осуждены во всём мире как этическое нарушение."},
+      {"de": "CRISPR wird zur Bekämpfung von Erbkrankheiten, Krebs und sogar Malaria eingesetzt.", "ru": "CRISPR применяется для борьбы с наследственными болезнями, раком и даже малярией."},
+      {"de": "Die Technologie wurde zunächst in Immunsystemen von Bakterien entdeckt.", "ru": "Технология была первоначально обнаружена в иммунных системах бактерий."}
+    ]
+  },
+  {
+    "id": 9242,
+    "question_de": "Was war die Bedeutung des Kalten Krieges für die Dritte Welt?",
+    "question_ru": "Каково было значение холодной войны для третьего мира?",
+    "correct_answer_de": "USA und UdSSR finanzierten und bewaffneten Stellvertreterregime weltweit, was in Ländern wie Vietnam, Angola, Mosambik und Nicaragua zu verheerenden Stellvertreterkriegen führte",
+    "correct_answer_ru": "США и СССР финансировали и вооружали марионеточные режимы по всему миру, что привело к опустошительным войнам по доверенности в таких странах, как Вьетнам, Ангола, Мозамбик и Никарагуа",
+    "wrong_answers_de": [
+      "Die Dritte Welt blieb vom Kalten Krieg unberührt, da beide Supermächte sie ignorierten",
+      "Die Sowjetunion gewann alle Stellvertreterkriege in der Dritten Welt",
+      "Die USA unterstützten nur Demokratien, nie autoritäre Regime"
+    ],
+    "wrong_answers_ru": [
+      "Третий мир оставался незатронутым холодной войной, поскольку обе сверхдержавы игнорировали его",
+      "СССР выиграл все войны-опосредованные в третьем мире",
+      "США поддерживали только демократии, но не авторитарные режимы"
+    ],
+    "explanation_de": "Die CIA stürzte Regierungen (Iran 1953, Guatemala 1954, Chile 1973). Die UdSSR unterstützte Angola, Äthiopien, Kuba. Schäden: Millionen Tote, zerstörte Infrastruktur.",
+    "explanation_ru": "ЦРУ свергало правительства (Иран 1953, Гватемала 1954, Чили 1973). СССР поддерживал Анголу, Эфиопию, Кубу. Ущерб: миллионы погибших, разрушенная инфраструктура.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1960 CE",
+    "tags": ["Kalter Krieg", "Dritte Welt", "Stellvertreterkrieg", "CIA", "Sowjetunion"],
+    "interesting_facts": [
+      {"de": "Die USA unterstützten Saddam Hussein im Iran-Irak-Krieg – später war er ihr Feind.", "ru": "США поддерживали Саддама Хусейна в Ирано-иракской войне — впоследствии он стал их врагом."},
+      {"de": "Die USA trainierten die Mudschaheddin in Afghanistan gegen die Sowjets – manche wurden zu Al-Qaida.", "ru": "США обучали моджахедов в Афганистане против советских войск — некоторые из них стали «Аль-Каидой»."},
+      {"de": "Angola führte einen Bürgerkrieg bis 2002, der durch CIA-MPLA und Sowjet-UNITA-Proxies befeuert wurde.", "ru": "Ангола вела гражданскую войну до 2002 года, разжигавшуюся марионетками ЦРУ-МПЛА и советского УНИТА."}
+    ]
+  },
+  {
+    "id": 9243,
+    "question_de": "Was war die Bedeutung des russischen Angriffskriegs auf die Ukraine (2022)?",
+    "question_ru": "Каково было значение российского агрессивного вторжения в Украину (2022)?",
+    "correct_answer_de": "Russlands großangelegte Invasion brach die europäische Sicherheitsordnung, revitalisierte die NATO und löste eine humanitäre Krise mit Millionen Flüchtlingen aus",
+    "correct_answer_ru": "Крупномасштабное вторжение России нарушило европейский порядок безопасности, возродило НАТО и вызвало гуманитарный кризис с миллионами беженцев",
+    "wrong_answers_de": [
+      "Russland erreichte alle seine Kriegsziele innerhalb von drei Monaten",
+      "Die NATO intervenierte militärisch direkt auf Seiten der Ukraine",
+      "Die UN verurteilte die Invasion einstimmig und verhängte Sanktionen"
+    ],
+    "wrong_answers_ru": [
+      "Россия достигла всех своих военных целей в течение трёх месяцев",
+      "НАТО непосредственно вмешалось военным путём на стороне Украины",
+      "ООН единогласно осудила вторжение и ввела санкции"
+    ],
+    "explanation_de": "24. Februar 2022: Russland griff mit 190.000 Soldaten an. Kiew fiel nicht. Westen lieferte Waffen. Schweden und Finnland traten der NATO bei. Laut UNO über 10.000 zivile Tote (2024).",
+    "explanation_ru": "24 февраля 2022 года: Россия атаковала силами 190 000 солдат. Киев не пал. Запад поставлял оружие. Швеция и Финляндия вступили в НАТО. По данным ООН, более 10 000 мирных жертв (2024).",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2022 CE",
+    "tags": ["Ukraine", "Russland", "Krieg", "NATO", "Europa"],
+    "interesting_facts": [
+      {"de": "Russlands Angriff brachte die EU dazu, erstmals Waffen an ein Kriegsland zu liefern.", "ru": "Российская агрессия побудила ЕС впервые поставить оружие воюющей стране."},
+      {"de": "Finnland und Schweden gaben ihre jahrzehntelange Neutralität auf und traten 2023/24 der NATO bei.", "ru": "Финляндия и Швеция отказались от многолетнего нейтралитета и вступили в НАТО в 2023/24 году."},
+      {"de": "Der ICC erließ 2023 einen Haftbefehl gegen Putin wegen Deportation ukrainischer Kinder.", "ru": "МУС в 2023 году выдал ордер на арест Путина за депортацию украинских детей."}
+    ]
+  },
+  {
+    "id": 9244,
+    "question_de": "Was war die Bedeutung des Holocausts für das jüdische Volk und die Weltgesellschaft?",
+    "question_ru": "Каково было значение Холокоста для еврейского народа и мирового общества?",
+    "correct_answer_de": "Der systematische Mord an sechs Millionen Juden durch Nazi-Deutschland führte zur Gründung Israels, zur Allgemeinen Menschenrechtserklärung und zur internationalen Strafverfolgung",
+    "correct_answer_ru": "Систематическое уничтожение шести миллионов евреев нацистской Германией привело к основанию Израиля, принятию Всеобщей декларации прав человека и международному уголовному преследованию",
+    "wrong_answers_de": [
+      "Der Holocaust wurde erst nach dem Zweiten Weltkrieg entdeckt und war damals unbekannt",
+      "Die internationale Gemeinschaft intervenierte rechtzeitig und rettete die Mehrheit der Opfer",
+      "Der Holocaust betraf ausschließlich deutsche Juden, nicht Juden anderer Nationalitäten"
+    ],
+    "wrong_answers_ru": [
+      "Холокост был открыт лишь после Второй мировой войны и до этого был неизвестен",
+      "Международное сообщество вмешалось вовремя и спасло большинство жертв",
+      "Холокост затронул исключительно немецких евреев, а не евреев других национальностей"
+    ],
+    "explanation_de": "Die 'Endlösung' wurde 1942 auf der Wannsee-Konferenz koordiniert. Auschwitz, Treblinka, Sobibor u.a. töteten systematisch. Die Shoa ist das größte dokumentierte Genozid der Geschichte.",
+    "explanation_ru": "«Окончательное решение» было скоординировано в 1942 году на Ванзейской конференции. Освенцим, Треблинка, Собибор и другие лагеря систематически уничтожали людей. Шоа является крупнейшим задокументированным геноцидом в истории.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1945 CE",
+    "tags": ["Holocaust", "Shoa", "Nazi-Deutschland", "Israel", "Menschenrechte"],
+    "interesting_facts": [
+      {"de": "2/3 aller europäischen Juden wurden ermordet – eine unvorstellbare Zahl.", "ru": "2/3 всех европейских евреев были уничтожены — невообразимое число."},
+      {"de": "Yad Vashem in Jerusalem dokumentiert Namen und Schicksale von Millionen Opfern.", "ru": "Яд ва-Шем в Иерусалиме документирует имена и судьбы миллионов жертв."},
+      {"de": "Der 27. Januar (Befreiung Auschwitz 1945) ist internationaler Holocaustgedenktag.", "ru": "27 января (освобождение Освенцима в 1945 году) является международным днём памяти жертв Холокоста."}
+    ]
+  },
+  {
+    "id": 9245,
+    "question_de": "Was war die Bedeutung des Weltraumteleskops Hubble für die Astronomie?",
+    "question_ru": "Каково было значение космического телескопа Хаббл для астрономии?",
+    "correct_answer_de": "Hubble lieferte seit 1990 scharfe Bilder aus dem All, die Erkenntnisse über das Alter des Universums, dunkle Materie und entfernte Galaxien revolutionierten",
+    "correct_answer_ru": "Хаббл с 1990 года предоставлял чёткие снимки из космоса, революционизировавшие знания о возрасте Вселенной, тёмной материи и далёких галактиках",
+    "wrong_answers_de": [
+      "Hubble wurde von der ESA, nicht der NASA, entwickelt",
+      "Das Teleskop konnte nur Sterne in unserer Galaxie fotografieren",
+      "Hubble wurde nach dem ersten Einsatz 1990 aufgrund technischer Fehler verschrottet"
+    ],
+    "wrong_answers_ru": [
+      "Хаббл был разработан ЕКА, а не НАСА",
+      "Телескоп мог фотографировать только звёзды в нашей галактике",
+      "Хаббл был списан после первого применения в 1990 году из-за технических неисправностей"
+    ],
+    "explanation_de": "Hubble (1990): Spiegel anfangs fehlerhaft – Shuttle-Mission korrigierte 1993. Erkenntnisse: Universum ist 13,8 Mrd. Jahre alt; beschleunigte Expansion (dunkle Energie). Ersetzt durch JWST (2022).",
+    "explanation_ru": "Хаббл (1990): зеркало поначалу было дефектным — миссия шаттла исправила его в 1993 году. Открытия: Вселенной 13,8 млрд лет; ускоренное расширение (тёмная энергия). Заменён телескопом Джеймса Уэбба (2022).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1990 CE",
+    "tags": ["Hubble", "Astronomie", "Weltraumteleskop", "NASA", "Universum"],
+    "interesting_facts": [
+      {"de": "Das Hubble Deep Field (1995) zeigte 3.000 Galaxien in einem winzigen Himmelsausschnitt.", "ru": "Hubble Deep Field (1995) показал 3 000 галактик в крошечном участке неба."},
+      {"de": "Hubble wurde nach dem Astronomen Edwin Hubble benannt, der die Expansion des Universums entdeckte.", "ru": "Хаббл был назван в честь астронома Эдвина Хаббла, открывшего расширение Вселенной."},
+      {"de": "Das James-Webb-Teleskop (2022) kann noch weiter zurück in die Zeit blicken als Hubble.", "ru": "Телескоп Джеймса Уэбба (2022) может заглядывать ещё дальше в прошлое, чем Хаббл."}
+    ]
+  },
+  {
+    "id": 9246,
+    "question_de": "Was war die Bedeutung der Bürgerrechtsbewegung in den USA für die amerikanische Demokratie?",
+    "question_ru": "Каково было значение движения за гражданские права в США для американской демократии?",
+    "correct_answer_de": "Die Bewegung unter Martin Luther King erreichte den Civil Rights Act (1964) und Voting Rights Act (1965), die gesetzliche Diskriminierung von Afroamerikanern abschafften",
+    "correct_answer_ru": "Движение под руководством Мартина Лютера Кинга добилось принятия Закона о гражданских правах (1964) и Закона об избирательных правах (1965), отменивших законодательную дискриминацию афроамериканцев",
+    "wrong_answers_de": [
+      "Die Bürgerrechtsbewegung erreichte ihre Ziele ausschließlich durch bewaffneten Widerstand",
+      "Martin Luther King lehnte gewaltlosen Widerstand ab und befürwortete Terroranschläge",
+      "Die Rassentrennung in den USA endete durch einen Beschluss des US-Senats 1952"
+    ],
+    "wrong_answers_ru": [
+      "Движение за гражданские права достигло своих целей исключительно путём вооружённого сопротивления",
+      "Мартин Лютер Кинг отверг ненасильственное сопротивление и поддерживал террористические акции",
+      "Расовая сегрегация в США завершилась по решению Сената США в 1952 году"
+    ],
+    "explanation_de": "Rosa Parks (1955), Montgomery Bus Boycott, Sit-ins, Freedom Riders, March on Washington (1963). Kings 'I Have a Dream'. LBJ unterzeichnete die Gesetze. King ermordet 1968.",
+    "explanation_ru": "Роза Паркс (1955), бойкот автобусов в Монтгомери, сит-ины, рейды свободы, марш на Вашингтон (1963). «У меня есть мечта» Кинга. LBJ подписал законы. Кинг убит в 1968 году.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1964 CE",
+    "tags": ["Bürgerrechte", "King", "USA", "Rassismus", "Civil Rights Act"],
+    "interesting_facts": [
+      {"de": "Barack Obama wurde 2008 als erster Afroamerikaner zum US-Präsidenten gewählt.", "ru": "Барак Обама в 2008 году стал первым афроамериканцем, избранным президентом США."},
+      {"de": "Die Bewegung inspirierte Nelson Mandela und andere Bürgerrechtskämpfer weltweit.", "ru": "Движение вдохновило Нельсона Манделу и других борцов за гражданские права по всему миру."},
+      {"de": "FBI-Chef Hoover überwachte King jahrelang und versuchte ihn zu erpressen.", "ru": "Директор ФБР Гувер годами следил за Кингом и пытался его шантажировать."}
+    ]
+  },
+  {
+    "id": 9247,
+    "question_de": "Was war die Bedeutung des ersten erfolgreichen Herzens-Transplantations (1967)?",
+    "question_ru": "Каково было значение первой успешной пересадки сердца (1967)?",
+    "correct_answer_de": "Christiaan Barnards Operation in Kapstadt bewies, dass Organtransplantation möglich ist, und eröffnete eine neue Ära der Transplantationsmedizin",
+    "correct_answer_ru": "Операция Кристиана Барнарда в Кейптауне доказала возможность трансплантации органов и открыла новую эру трансплантационной медицины",
+    "wrong_answers_de": [
+      "Die erste Herztransplantation wurde in den USA unter Teilnahme des Astronauten Neil Armstrong durchgeführt",
+      "Der erste Patient lebte über 20 Jahre nach der Transplantation",
+      "Die Operation war ein Misserfolg und setzte die Forschung um Jahrzehnte zurück"
+    ],
+    "wrong_answers_ru": [
+      "Первая пересадка сердца была проведена в США с участием астронавта Нила Армстронга",
+      "Первый пациент прожил более 20 лет после трансплантации",
+      "Операция провалилась и отбросила исследования назад на десятилетия"
+    ],
+    "explanation_de": "Barnard transplantierte das Herz von Louis Washkansky am 3. Dezember 1967 in Kapstadt. Washkansky lebte 18 Tage. Immunsuppressiva ermöglichten später Langzeitüberleben. Heute: 5.000+ Herztransplantationen/Jahr weltweit.",
+    "explanation_ru": "3 декабря 1967 года Барнард пересадил сердце Луису Вашканскому в Кейптауне. Вашканский прожил 18 дней. Иммунодепрессанты позднее обеспечили долгосрочное выживание. Сегодня: 5 000+ пересадок сердца в год во всём мире.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1967 CE",
+    "tags": ["Herztransplantation", "Barnard", "Medizin", "Chirurgie", "Kapstadt"],
+    "interesting_facts": [
+      {"de": "Barnard wurde weltweit gefeiert – Südafrika nutzte den Erfolg um das Apartheid-Regime aufzuwerten.", "ru": "Барнард был прославлен во всём мире — Южная Африка использовала успех для поддержки режима апартеида."},
+      {"de": "Das größte Hindernis war das Immunsystem: Es verwirft fremde Organe – gelöst durch Cyclosporin (1976).", "ru": "Главным препятствием была иммунная система: она отвергает чужеродные органы — решено с помощью циклоспорина (1976)."},
+      {"de": "Kunstherzen können heute das biologische Herz temporär oder dauerhaft ersetzen.", "ru": "Искусственные сердца сегодня могут временно или постоянно заменять биологическое сердце."}
+    ]
+  },
+  {
+    "id": 9248,
+    "question_de": "Was war die Bedeutung der Gründung der OPEC (1960) für die Weltpolitik?",
+    "question_ru": "Каково было значение создания ОПЕК (1960) для мировой политики?",
+    "correct_answer_de": "Die OPEC gab Öl fördernden Entwicklungsländern Kontrolle über ihre Ressourcen und Preisstabilität gegenüber westlichen Ölkonzernen",
+    "correct_answer_ru": "ОПЕК дала нефтедобывающим развивающимся странам контроль над ресурсами и стабильность цен в противовес западным нефтяным концернам",
+    "wrong_answers_de": [
+      "Die OPEC wurde von westlichen Ölkonzernen gegründet, um die Preise zu kontrollieren",
+      "Die OPEC schließt ausschließlich arabische Länder ein",
+      "Die OPEC wurde nach dem Zweiten Weltkrieg von den USA gegründet"
+    ],
+    "wrong_answers_ru": [
+      "ОПЕК была основана западными нефтяными концернами для контроля над ценами",
+      "ОПЕК включает исключительно арабские страны",
+      "ОПЕК была основана США после Второй мировой войны"
+    ],
+    "explanation_de": "OPEC (1960): Venezuela, Saudi-Arabien, Iran, Irak, Kuwait als Gründer. Ölboykott 1973 verfünffachte die Preise. Heute hat die OPEC+ auch Russland als Mitglied.",
+    "explanation_ru": "ОПЕК (1960): основатели — Венесуэла, Саудовская Аравия, Иран, Ирак, Кувейт. Нефтяное эмбарго 1973 года пятикратно повысило цены. Сегодня ОПЕК+ включает также Россию.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1960 CE",
+    "tags": ["OPEC", "Öl", "Energiepolitik", "Entwicklungsländer", "Arabien"],
+    "interesting_facts": [
+      {"de": "Venezuela ist das Land mit den größten Ölreserven der Welt – trotzdem arm.", "ru": "Венесуэла — страна с крупнейшими нефтяными запасами в мире — тем не менее бедная."},
+      {"de": "Die Energiewende zielt darauf ab, die geopolitische Macht der OPEC zu brechen.", "ru": "Энергетический переход направлен на разрушение геополитической власти ОПЕК."},
+      {"de": "Saudi-Aramco ist das wertvollste Unternehmen der Welt nach Börsenwert (2022).", "ru": "Saudi Aramco является наиболее ценной компанией в мире по рыночной капитализации (2022)."}
+    ]
+  },
+  {
+    "id": 9249,
+    "question_de": "Was war die Bedeutung des Konflikts in Nordirland (The Troubles, 1968–98)?",
+    "question_ru": "Каково было значение конфликта в Северной Ирландии («смута», 1968–98)?",
+    "correct_answer_de": "Der dreißigjährige ethno-religiöse Konflikt zwischen Unionisten und Republikanern endete mit dem Karfreitagsabkommen als Modell für Friedensverhandlungen",
+    "correct_answer_ru": "Тридцатилетний этно-религиозный конфликт между юнионистами и республиканцами завершился Соглашением Страстной пятницы как образцом мирных переговоров",
+    "wrong_answers_de": [
+      "Der Konflikt endete durch eine britische Militäroperation, die die IRA vernichtete",
+      "Nordirland erklärte nach dem Konflikt die Unabhängigkeit von Großbritannien",
+      "Der Konflikt war ausschließlich religiöser Natur ohne politische Dimensionen"
+    ],
+    "wrong_answers_ru": [
+      "Конфликт завершился британской военной операцией, уничтожившей ИРА",
+      "После конфликта Северная Ирландия провозгласила независимость от Великобритании",
+      "Конфликт был сугубо религиозным без политических измерений"
+    ],
+    "explanation_de": "3.500 Tote in 30 Jahren. IRA kämpfte für Vereinigung mit Irland; Loyalisten für Verbleib bei UK. Karfreitagsabkommen (1998) schuf Machtteilung. Bill Clinton spielte Schlüsselrolle.",
+    "explanation_ru": "3 500 погибших за 30 лет. ИРА воевала за объединение с Ирландией; лоялисты — за пребывание в составе Великобритании. Соглашение Страстной пятницы (1998) создало систему разделения власти. Билл Клинтон сыграл ключевую роль.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1998 CE",
+    "tags": ["Nordirland", "IRA", "The Troubles", "Karfreitagsabkommen", "Friedensprozess"],
+    "interesting_facts": [
+      {"de": "Bloody Sunday (1972): britische Soldaten erschossen 14 unbewaffnete Demonstranten – ein Wendepunkt.", "ru": "Кровавое воскресенье (1972): британские солдаты застрелили 14 безоружных демонстрантов — переломный момент."},
+      {"de": "George Mitchell, US-Senator, leitete die Verhandlungen jahrelang zum Karfreitagsabkommen.", "ru": "Джордж Митчелл, сенатор США, годами вёл переговоры, приведшие к Соглашению Страстной пятницы."},
+      {"de": "Brexit schuf neue Spannungen, da die nordirische Grenzfrage wieder relevant wurde.", "ru": "Brexit создал новую напряжённость, поскольку вопрос северо-ирландской границы вновь стал актуальным."}
+    ]
+  },
+  {
+    "id": 9250,
+    "question_de": "Was war die Bedeutung des Aufstiegs der KI-Technologie im frühen 21. Jahrhundert?",
+    "question_ru": "Каково было значение подъёма технологий искусственного интеллекта в начале XXI века?",
+    "correct_answer_de": "Maschinelles Lernen und neuronale Netzwerke revolutionierten Medizin, Bildverarbeitung und Sprachverarbeitung und schufen neue ethische Herausforderungen",
+    "correct_answer_ru": "Машинное обучение и нейронные сети революционизировали медицину, обработку изображений и речи и создали новые этические вызовы",
+    "wrong_answers_de": [
+      "KI wurde ausschließlich für militärische Waffensysteme entwickelt",
+      "Künstliche Intelligenz übertrifft seit 2010 Menschen in allen Bereichen",
+      "KI-Entwicklung war ein staatliches Monopol der USA und wurde geheim gehalten"
+    ],
+    "wrong_answers_ru": [
+      "ИИ разрабатывался исключительно для военных систем вооружений",
+      "Искусственный интеллект с 2010 года превосходит людей во всех областях",
+      "Разработка ИИ была государственной монополией США и держалась в тайне"
+    ],
+    "explanation_de": "AlphaGo schlug 2016 den weltbesten Go-Spieler. GPT-3 (2020) zeigte menschähnliche Texterzeugung. ChatGPT (2022) wurde viral. Fragen: Jobverlust, Deepfakes, KI-Waffen, Kontrolle.",
+    "explanation_ru": "AlphaGo в 2016 году победил лучшего в мире игрока в го. GPT-3 (2020) продемонстрировал человекоподобную генерацию текста. ChatGPT (2022) стал вирусным. Вопросы: потеря рабочих мест, дипфейки, ИИ-оружие, контроль.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "2020 CE",
+    "tags": ["KI", "Künstliche Intelligenz", "Technologie", "Ethik", "Maschinelles Lernen"],
+    "interesting_facts": [
+      {"de": "Geoffrey Hinton, 'Godfather of AI', verließ 2023 Google und warnte vor KI-Risiken.", "ru": "Джеффри Хинтон, «крёстный отец ИИ», в 2023 году покинул Google и предупредил об опасностях ИИ."},
+      {"de": "GPT-4 bestand 2023 den US-Anwaltsexamen besser als 90% der menschlichen Kandidaten.", "ru": "В 2023 году GPT-4 сдал американский адвокатский экзамен лучше, чем 90% кандидатов-людей."},
+      {"de": "Die EU verabschiedete 2024 das weltweit erste umfassende KI-Regulierungsgesetz.", "ru": "В 2024 году ЕС принял первый в мире всеобъемлющий закон о регулировании ИИ."}
+    ]
+  }
+]

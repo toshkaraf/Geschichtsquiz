@@ -1,0 +1,752 @@
+[
+  {
+    "id": 8076,
+    "question_de": "Was war die Post-Impressionismus und welche Künstler gehörten dazu?",
+    "question_ru": "Что такое постимпрессионизм и какие художники к нему относились?",
+    "correct_answer_de": "Kunstströmung nach dem Impressionismus – Van Gogh, Cézanne, Gauguin, Seurat: mehr Struktur, Farbe und Symbolismus",
+    "correct_answer_ru": "Художественное течение после импрессионизма — Ван Гог, Сезанн, Гоген, Сёра: больше структуры, цвета и символизма",
+    "wrong_answers_de": ["Eine politische Kunstbewegung gegen den Impressionismus in England", "Der Stil, der dem Expressionismus in Deutschland folgte", "Eine Weiterentwicklung des Realismus, die industrielle Motive darstellt"],
+    "wrong_answers_ru": ["Политическое художественное движение против импрессионизма в Англии", "Стиль, последовавший за экспрессионизмом в Германии", "Развитие реализма, изображающее промышленные мотивы"],
+    "explanation_de": "Cézanne zerlegte Objekte in geometrische Formen (Vorläufer des Kubismus). Van Gogh malte mit dramatischen Pinselstrichen und intensiver Farbe ('Sternennacht'). Gauguin floh nach Tahiti für primitive Authentizität. Seurat entwickelte den Pointillismus.",
+    "explanation_ru": "Сезанн разбивал объекты на геометрические формы (предшественник кубизма). Ван Гог писал драматическими мазками с интенсивным цветом («Звёздная ночь»). Гоген бежал на Таити в поисках первобытной подлинности. Сёра разработал пуантилизм.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1890 CE",
+    "tags": ["Kunst", "Frankreich"],
+    "interesting_facts": [
+      {
+        "de": "Van Gogh verkaufte zu Lebzeiten nur ein Gemälde. 'Sternennacht' (1889) ist heute unbezahlbar.",
+        "ru": "При жизни Ван Гог продал лишь одну картину. «Звёздная ночь» (1889) сегодня бесценна."
+      },
+      {
+        "de": "Gauguin war Börsenmakler und aufgab alles – Frau, Kinder, Job – für die Malerei in der Südsee.",
+        "ru": "Гоген был биржевым маклером и бросил всё — жену, детей, работу — ради живописи на островах Южных морей."
+      },
+      {
+        "de": "Cézanne beeinflusste Picasso und den Kubismus mehr als alle anderen Maler.",
+        "ru": "Сезанн повлиял на Пикассо и кубизм больше, чем все остальные живописцы."
+      }
+    ]
+  },
+  {
+    "id": 8077,
+    "question_de": "Was war die Argentinische Wirtschaft im 19. Jahrhundert (Weizenexport)?",
+    "question_ru": "Что такое аргентинская экономика XIX века (экспорт пшеницы)?",
+    "correct_answer_de": "Argentinien wurde durch Rinder- und Weizenexporte reich – eine der reichsten Nationen der Welt um 1900",
+    "correct_answer_ru": "Аргентина разбогатела благодаря экспорту говядины и пшеницы — одна из богатейших стран мира около 1900 года",
+    "wrong_answers_de": ["Argentinien blieb im 19. Jahrhundert arm und industriell rückständig bis 1930", "Argentiniens Reichtum kam aus Silberminen in den Anden im 19. Jahrhundert", "Argentinien exportierte hauptsächlich Baumwolle nach England im 19. Jahrhundert"],
+    "wrong_answers_ru": ["Аргентина в XIX веке оставалась бедной и промышленно отсталой до 1930 года", "Богатство Аргентины в XIX веке происходило из серебряных рудников в Андах", "Аргентина в основном экспортировала хлопок в Англию в XIX веке"],
+    "explanation_de": "Die Pampa ermöglichte Massenweidewirtschaft. Kühlschiffe ab 1877 ermöglichten Fleischexport nach Europa. Millionen europäischer Einwanderer kamen (Italiener, Spanier, Deutschen). Um 1900 war Buenos Aires die reichste Stadt Südamerikas.",
+    "explanation_ru": "Пампа позволяла массовое скотоводство. Рефрижераторные суда с 1877 года сделали возможным экспорт мяса в Европу. Приехали миллионы европейских иммигрантов (итальянцы, испанцы, немцы). Около 1900 года Буэнос-Айрес был богатейшим городом Южной Америки.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1890 CE",
+    "tags": ["Wirtschaft", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Argentinien hatte 1900 das siebt-höchste Pro-Kopf-Einkommen der Welt – vor Frankreich und Deutschland.",
+        "ru": "В 1900 году Аргентина занимала 7-е место в мире по доходу на душу населения — перед Францией и Германией."
+      },
+      {
+        "de": "Der Tango entstand in den Einwanderervierteln Buenos Aires – aus Mischung afrikanischer, europäischer und indianischer Musik.",
+        "ru": "Танго возникло в иммигрантских кварталах Буэнос-Айреса — из смеси африканской, европейской и индейской музыки."
+      },
+      {
+        "de": "Argentiniens wirtschaftlicher Niedergang im 20. Jh. durch Militärdiktaturen ist eine der größten Tragödien Lateinamerikas.",
+        "ru": "Экономический упадок Аргентины в XX веке из-за военных диктатур — одна из величайших трагедий Латинской Америки."
+      }
+    ]
+  },
+  {
+    "id": 8078,
+    "question_de": "Was war die Entstehung der Massenzeitung im 19. Jahrhundert?",
+    "question_ru": "Что такое возникновение массовой газеты в XIX веке?",
+    "correct_answer_de": "Dampfdruck und Rotationsmaschinen ermöglichten günstige Massenauflagen – Öffentliche Meinung entstand",
+    "correct_answer_ru": "Паровая печать и ротационные машины сделали возможными дешёвые массовые тиражи — возникло общественное мнение",
+    "wrong_answers_de": ["Das Fernsehen und Radio verdrängte ab 1850 die Zeitung als Massenmedium", "Der Telegraph ermöglichte erstmals Zeitungen mit Nachrichten aus anderen Städten", "Gutenbergs Druckerpresse schuf 1450 die erste Massenzeitung in Deutschland"],
+    "wrong_answers_ru": ["Телевидение и радио с 1850 года вытеснили газету как массовое средство информации", "Телеграф впервые позволил газетам публиковать новости из других городов", "Печатный станок Гутенберга в 1450 году создал первую массовую газету в Германии"],
+    "explanation_de": "Die 'Penny Press' (1830er USA) kostete nur 1 Cent – für Arbeiter erschwinglich. Die Times (London) hatte 1850 eine Dampfpresse. Pulitzer und Hearst rivalisierten mit dem 'Yellow Journalism'. Massenmedien formten die öffentliche Meinung.",
+    "explanation_ru": "«Пенни-пресс» (1830-е США) стоила всего 1 цент — по карману рабочим. «Таймс» (Лондон) в 1850 году имела паровой пресс. Пулитцер и Хёрст соперничали в «жёлтой журналистике». Массовые СМИ формировали общественное мнение.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1860 CE",
+    "tags": ["Kultur", "Amerika", "England"],
+    "interesting_facts": [
+      {
+        "de": "Joseph Pulitzer gründete den Pulitzer Prize – den wichtigsten Journalismuspreis der Welt.",
+        "ru": "Джозеф Пулитцер основал Пулитцеровскую премию — самую важную журналистскую премию в мире."
+      },
+      {
+        "de": "Die New York Times wurde 1851 gegründet – und kämpfte gegen den sensationellen 'Yellow Journalism'.",
+        "ru": "New York Times основана в 1851 году — и боролась против сенсационной «жёлтой журналистики»."
+      },
+      {
+        "de": "Marx und Engels schrieben für Zeitungen – Engels war Korrespondent für die New York Tribune.",
+        "ru": "Маркс и Энгельс писали для газет — Энгельс был корреспондентом New York Tribune."
+      }
+    ]
+  },
+  {
+    "id": 8079,
+    "question_de": "Was war die Erste Genfer Konvention (1864) und was regelte sie?",
+    "question_ru": "Что такое Первая Женевская конвенция (1864) и что она регулировала?",
+    "correct_answer_de": "Das erste internationale Abkommen zum Schutz verwundeter Soldaten – Grundlage des Roten Kreuzes",
+    "correct_answer_ru": "Первое международное соглашение о защите раненых солдат — основа Красного Креста",
+    "wrong_answers_de": ["Ein Vertrag zur Abschaffung von Kriegsgefangenen im Deutsch-Französischen Krieg", "Eine Konvention zum Verbot von Giftgas und chemischen Waffen im 19. Jahrhundert", "Ein Abkommen zwischen der Schweiz und Frankreich über neutrale Kriegszonen"],
+    "wrong_answers_ru": ["Договор об отмене военнопленных в Франко-прусской войне", "Конвенция о запрете отравляющих газов и химического оружия в XIX веке", "Соглашение между Швейцарией и Францией о нейтральных военных зонах"],
+    "explanation_de": "Henri Dunant erlebte 1859 die Schlacht von Solferino – Tausende lagen verwundet. Er gründete 1863 das Rote Kreuz und initiierte die Genfer Konvention 1864. Das Rote Kreuz-Symbol ist umgekehrte Schweizer Flagge (Ehrung Dunants).",
+    "explanation_ru": "Анри Дюнан стал свидетелем битвы при Сольферино в 1859 году — тысячи лежали ранеными. В 1863 году он основал Красный Крест и инициировал Женевскую конвенцию 1864 года. Символ Красного Креста — перевёрнутый швейцарский флаг (в честь Дюнана).",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1864 CE",
+    "tags": ["Gesellschaft", "Recht"],
+    "interesting_facts": [
+      {
+        "de": "Dunant verlor sein Vermögen und lebte arm – als er 1901 den ersten Friedensnobelpreis erhielt, lebte er in einem Armenheim.",
+        "ru": "Дюнан потерял состояние и жил в бедности — когда в 1901 году он получил первую Нобелевскую премию мира, он жил в доме призрения."
+      },
+      {
+        "de": "Das Muslimische Äquivalent ist der Rote Halbmond – in islamischen Ländern benutzt.",
+        "ru": "Мусульманский эквивалент — Красный Полумесяц, используемый в исламских странах."
+      },
+      {
+        "de": "In Israel ist es der Rote Davidstern (Magen David Adom) – seit 2006 international anerkannt.",
+        "ru": "В Израиле это Красная Звезда Давида (Маген Давид Адом) — признанная международно с 2006 года."
+      }
+    ]
+  },
+  {
+    "id": 8080,
+    "question_de": "Was war der Anarchismus als politische Bewegung im 19. Jahrhundert?",
+    "question_ru": "Что такое анархизм как политическое движение в XIX веке?",
+    "correct_answer_de": "Eine politische Theorie gegen jede staatliche Herrschaft – Bakunin und Kropotkin als Hauptvertreter",
+    "correct_answer_ru": "Политическая теория против любой государlichen власти — Бакунин и Кропоткин как главные представители",
+    "wrong_answers_de": ["Eine Bewegung für maximale staatliche Kontrolle über die Wirtschaft", "Ein nihilistisches Konzept, das alle moralischen Werte ablehnte", "Eine liberale Demokratiebewegung für minimale Regierung und freie Märkte"],
+    "wrong_answers_ru": ["Движение за максимальный государственный контроль над экономикой", "Нигилистическая концепция, отвергавшая все моральные ценности", "Либерально-демократическое движение за минимальное правительство и свободные рынки"],
+    "explanation_de": "Michail Bakunin (Russland) kämpfte gegen Marx in der 1. Internationale. Peter Kropotkin entwickelte den kommunistischen Anarchismus. Anarchisten glauben: Staaten erzeugen Unterdrückung – ohne Staat würden Menschen kooperieren. Terroristische Aktionen (Fürstenmorde) schadeten der Bewegung.",
+    "explanation_ru": "Михаил Бакунин (Россия) боролся против Маркса в 1-м Интернационале. Пётр Кропоткин разработал коммунистический анархизм. Анархисты считают: государства порождают угнетение — без государства люди будут сотрудничать. Террористические акты (убийства монархов) навредили движению.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1870 CE",
+    "tags": ["Politik", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Bakunin und Marx hassten sich herzlich – ihre Debatte über Strategie zerstörte die 1. Internationale.",
+        "ru": "Бакунин и Маркс искренне ненавидели друг друга — их дебаты о стратегии уничтожили 1-й Интернационал."
+      },
+      {
+        "de": "Anarchisten ermordeten Zar Alexander II. (1881), Präsident Carnot (1894), Kaiserin Sisi (1898) und Präsident McKinley (1901).",
+        "ru": "Анархисты убили царя Александра II (1881), президента Карно (1894), императрицу Сисси (1898) и президента Маккинли (1901)."
+      },
+      {
+        "de": "Kropotkin war Fürst und Naturwissenschaftler – er gab seinen Titel auf für den Anarchismus.",
+        "ru": "Кропоткин был князем и учёным-натуралистом — он отказался от своего титула ради анархизма."
+      }
+    ]
+  },
+  {
+    "id": 8081,
+    "question_de": "Was war die Erfindung des Automobils und wer baute das erste?",
+    "question_ru": "Что такое изобретение автомобиля и кто построил первый?",
+    "correct_answer_de": "Carl Benz baute 1885 das erste Patent-Motorwagen – Gottlieb Daimler entwickelte zeitgleich einen Motor",
+    "correct_answer_ru": "Карл Бенц построил в 1885 году первый патентованный автомобиль — Готлиб Даймлер одновременно разработал двигатель",
+    "wrong_answers_de": ["Henry Ford erfand 1895 das erste Automobil in Detroit", "Nikolaus Otto erfand das erste Auto 1876 zusammen mit der Dampfmaschine", "Die Franzosen Peugeot und Renault bauten 1880 das erste Automobil in Paris"],
+    "wrong_answers_ru": ["Генри Форд изобрёл первый автомобиль в Детройте в 1895 году", "Николаус Отто изобрёл первый автомобиль в 1876 году вместе с паровой машиной", "Французы Пежо и Рено построили первый автомобиль в Париже в 1880 году"],
+    "explanation_de": "Carl Benz (Mannheim) baute 1885 den ersten motorisierten Wagen mit Verbrennungsmotor. Seine Frau Bertha unternahm 1888 die erste Überlandfahrt (104 km). Henry Ford führte 1913 das Fließband ein und machte Autos erschwinglich.",
+    "explanation_ru": "Карл Бенц (Мангейм) построил в 1885 году первый моторный экипаж с двигателем внутреннего сгорания. Его жена Берта в 1888 году совершила первую поездку между городами (104 км). Генри Форд в 1913 году ввёл конвейер и сделал автомобили доступными.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1885 CE",
+    "tags": ["Erfindungen", "Deutschland"],
+    "interesting_facts": [
+      {
+        "de": "Bertha Benz heiratete den Erfinder als erste Frau, die ihn glaubte – und finanzierte seine Forschung mit ihrer Mitgift.",
+        "ru": "Берта Бенц вышла замуж за изобретателя как первая женщина, поверившая в него — и финансировала его исследования своим приданым."
+      },
+      {
+        "de": "Das erste Auto fuhr 16 km/h – und wurde von Fußgängern überholt.",
+        "ru": "Первый автомобиль ехал со скоростью 16 км/ч — и его обгоняли пешеходы."
+      },
+      {
+        "de": "1900 gab es mehr Elektroautos als Benziner – der Elektroantrieb verlor erst durch die Entdeckung billiger Ölquellen.",
+        "ru": "В 1900 году электромобилей было больше, чем бензиновых — электропривод проиграл лишь после открытия дешёвых нефтяных источников."
+      }
+    ]
+  },
+  {
+    "id": 8082,
+    "question_de": "Was war die Russische Expansion in Zentralasien im 19. Jahrhundert?",
+    "question_ru": "Что такое российская экспансия в Центральную Азию в XIX веке?",
+    "correct_answer_de": "Russland eroberte zwischen 1860 und 1895 Usbekistan, Kasachstan, Turkmenistan – 'Great Game' gegen England",
+    "correct_answer_ru": "Россия завоевала в 1860–1895 годах Узбекистан, Казахстан, Туркменистан — «Большая игра» против Англии",
+    "wrong_answers_de": ["Russland kolonisierte Indien und Afghanistan im 19. Jahrhundert als Alternative zu England", "Die Expansion Russlands in Zentralasien fand erst nach dem Ersten Weltkrieg statt", "Russland tauschte Zentralasien mit China gegen Sibirien-Zugeständnisse"],
+    "wrong_answers_ru": ["Россия колонизировала Индию и Афганистан в XIX веке как альтернативу Англии", "Экспансия России в Центральную Азию произошла лишь после Первой мировой войны", "Россия обменяла Центральную Азию с Китаем на уступки в Сибири"],
+    "explanation_de": "Das 'Great Game' war die Rivalität zwischen dem Russischen und Britischen Empire in Zentralasien. England schützte Indien. Russland wollte Zugang zum Indischen Ozean. Beide Mächte einigten sich 1907 auf Einflusszonen (Anglo-Russisches Abkommen).",
+    "explanation_ru": "«Большая игра» — соперничество между Российской и Британской империями в Центральной Азии. Англия защищала Индию. Россия хотела выхода к Индийскому океану. Обе державы договорились в 1907 году о сферах влияния (Англо-российское соглашение).",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1875 CE",
+    "tags": ["Politik", "Krieg"],
+    "interesting_facts": [
+      {
+        "de": "Kipling schrieb 'Kim' (1901) – einen Abenteuerroman über das Great Game in Britisch-Indien.",
+        "ru": "Киплинг написал «Ким» (1901) — приключенческий роман о «Большой игре» в Британской Индии."
+      },
+      {
+        "de": "Afghanistan wurde zweimal zum Schlachtfeld – Russland und England kämpften jeweils Stellvertreterkriege.",
+        "ru": "Афганистан дважды стал полем сражений — Россия и Англия вели там войны по доверенности."
+      },
+      {
+        "de": "Die zentralasiatischen Völker waren nie gefragt – wessen Herrschaft sie wollten.",
+        "ru": "Народы Центральной Азии никогда не спрашивали, чьей власти они хотят."
+      }
+    ]
+  },
+  {
+    "id": 8083,
+    "question_de": "Was war der Realismus in der Oper (Verismo) im späten 19. Jahrhundert?",
+    "question_ru": "Что такое реализм в опере (веризм) в конце XIX века?",
+    "correct_answer_de": "Ein italienischer Opernstil, der einfache Menschen statt Götter und Könige darstellt – Puccini, Mascagni, Leoncavallo",
+    "correct_answer_ru": "Итальянский оперный стиль, изображающий простых людей вместо богов и королей — Пуччини, Масканьи, Леонкавалло",
+    "wrong_answers_de": ["Ein Operkonzept, das antike griechische Dramen neu vertonte", "Richard Wagners revolutionäre Kompositionstechnik des Leitmotivs", "Giuseppe Verdis dramatischer Stil aus der Mitte des 19. Jahrhunderts"],
+    "wrong_answers_ru": ["Оперная концепция, создававшая новые партитуры для античных греческих драм", "Революционная техника лейтмотива Рихарда Вагнера", "Драматический стиль Джузеппе Верди середины XIX века"],
+    "explanation_de": "Giacomo Puccinis 'La Bohème', 'Tosca', 'Madama Butterfly' zeigen einfache Menschen in realen Konflikten. Pietro Mascagnis 'Cavalleria Rusticana' (1890) gilt als Gründungswerk des Verismo. Leoncavallos 'I Pagliacci' (1892) – beide werden oft zusammen gespielt.",
+    "explanation_ru": "«Богема», «Тоска», «Мадам Баттерфляй» Джакомо Пуччини показывают простых людей в реальных конфликтах. «Сельская честь» Пьетро Масканьи (1890) считается основополагающим произведением веризма. «Паяцы» Леонкавалло (1892) — часто исполняются вместе.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1892 CE",
+    "tags": ["Kunst", "Kultur", "Italien"],
+    "interesting_facts": [
+      {
+        "de": "'Nessun Dorma' aus Puccinis Turandot (1926) wurde durch Pavarotti bei der WM 1990 weltberühmt.",
+        "ru": "«Nessun Dorma» из «Турандот» Пуччини (1926) стала всемирно известной благодаря Паваротти на ЧМ 1990 года."
+      },
+      {
+        "de": "Mascagni schrieb nur 1 Meisterwerk – den Rest seines Lebens lebte er im Schatten von 'Cavalleria Rusticana'.",
+        "ru": "Масканьи написал лишь 1 шедевр — остаток жизни он прожил в тени «Сельской чести»."
+      },
+      {
+        "de": "Puccini starb 1924 an einem Kehlkopfkarzinom, bevor Turandot fertig war – Alfano vollendete sie.",
+        "ru": "Пуччини умер в 1924 году от рака гортани, не завершив «Турандот» — Альфано дописал её."
+      }
+    ]
+  },
+  {
+    "id": 8084,
+    "question_de": "Was war das Ende des Osmanischen Reiches im 19. Jahrhundert?",
+    "question_ru": "Что такое упадок Османской империи в XIX веке?",
+    "correct_answer_de": "Das 'kranke Bett von Europa' verlor Territorien durch Nationalismen und Kriege – endete 1922",
+    "correct_answer_ru": "«Больной человек Европы» терял территории из-за национализмов и войн — прекратило существование в 1922 году",
+    "wrong_answers_de": ["Das Osmanische Reich expandierte im 19. Jahrhundert nach Afrika und Asien", "Das Osmanische Reich wurde 1856 nach dem Krimkrieg durch Russland annektiert", "Das Osmanische Reich reformierte sich erfolgreich und besteht noch heute als Türkei"],
+    "wrong_answers_ru": ["Османская империя в XIX веке расширялась в Африку и Азию", "Османская империя была аннексирована Россией после Крымской войны в 1856 году", "Османская империя успешно реформировалась и существует по сей день как Турция"],
+    "explanation_de": "Nationalismen der Balkanvölker (Griechen, Bulgaren, Serben, Rumänen) schwächten das Reich. Russland drängte südwärts. 'Tanzimat'-Reformen (1839–1876) kamen zu spät. Der Erste Weltkrieg brachte den Zusammenbruch. 1922 gründete Atatürk die moderne Türkei.",
+    "explanation_ru": "Национализм балканских народов (греков, болгар, сербов, румын) ослаблял империю. Россия давила на юг. Реформы «Танзимат» (1839–1876) запоздали. Первая мировая война привела к краху. В 1922 году Ататюрк основал современную Турцию.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1880 CE",
+    "tags": ["Politik", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Der Ausdruck 'Kranker Mann Europas' (sick man of Europe) stammt von Zar Nikolaus I. (1853).",
+        "ru": "Выражение «больной человек Европы» принадлежит царю Николаю I (1853)."
+      },
+      {
+        "de": "Der armenische Genozid (1915–1916) unter osmanischer Herrschaft tötete 1–1,5 Millionen Armenier.",
+        "ru": "Геноцид армян (1915–1916) при османском владычестве унёс жизни 1–1,5 миллиона армян."
+      },
+      {
+        "de": "Atatürk modernisierte die Türkei: Arabische Schrift ersetzt durch Lateinschrift, Fez verboten, Frauen wählen ab 1934.",
+        "ru": "Ататюрк модернизировал Турцию: арабское письмо заменено латиницей, феска запрещена, женщины голосуют с 1934 года."
+      }
+    ]
+  },
+  {
+    "id": 8085,
+    "question_de": "Was war der Erste Balkankrieg (1912/13) und seine Bedeutung?",
+    "question_ru": "Что такое Первая Балканская война (1912/13) и её значение?",
+    "correct_answer_de": "Balkanstaaten (Serbien, Bulgarien, Griechenland, Montenegro) besiegten das Osmanische Reich und vertrieben es aus Europa",
+    "correct_answer_ru": "Балканские государства (Сербия, Болгария, Греция, Черногория) победили Османскую империю и вытеснили её из Европы",
+    "wrong_answers_de": ["Ein Krieg zwischen Österreich und Serbien, der zum Ersten Weltkrieg führte", "Ein Aufstand der Mazedonier und Albaner gegen osmanische Herrschaft", "Ein Konflikt zwischen der Türkei und Griechenland um die Ägäis-Inseln"],
+    "wrong_answers_ru": ["Война между Австрией и Сербией, приведшая к Первой мировой войне", "Восстание македонцев и албанцев против османского владычества", "Конфликт между Турцией и Грецией из-за островов Эгейского моря"],
+    "explanation_de": "Der Balkanbund (Serbien, Bulgarien, Griechenland, Montenegro) besiegte das Osmanische Reich. Osmanisches Europa verlor fast alle Gebiete. Zweiter Balkankrieg (1913): Bulgaren vs. ihre ehemaligen Verbündeten. Serbien wuchs – was Österreich beunruhigte.",
+    "explanation_ru": "Балканский союз (Сербия, Болгария, Греция, Черногория) победил Османскую империю. Османская Европа потеряла почти все территории. Вторая Балканская война (1913): Болгария против бывших союзников. Сербия выросла — что обеспокоило Австрию.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1912 CE",
+    "tags": ["Krieg", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Die Balkankriege töteten 125.000 Soldaten und 400.000 Zivilisten – ein Vorgeschmack auf 1914.",
+        "ru": "Балканские войны унесли 125 000 солдат и 400 000 мирных жителей — предвкушение 1914 года."
+      },
+      {
+        "de": "Das Osmanische Reich verlor 83 % seines europäischen Territoriums in den Balkankriegen.",
+        "ru": "Османская империя потеряла 83% своей европейской территории в Балканских войнах."
+      },
+      {
+        "de": "Bulgarien wechselte 1913 die Seiten – aus Unzufriedenheit über die Teilung Mazedoniens.",
+        "ru": "Болгария в 1913 году сменила сторону — из-за недовольства разделом Македонии."
+      }
+    ]
+  },
+  {
+    "id": 8086,
+    "question_de": "Was war Max Plancks Quantentheorie (1900)?",
+    "question_ru": "Что такое квантовая теория Макса Планка (1900)?",
+    "correct_answer_de": "Planck entdeckte, dass Energie in diskreten Paketen (Quanten) abgestrahlt wird – Beginn der Quantenphysik",
+    "correct_answer_ru": "Планк открыл, что энергия излучается дискретными порциями (квантами) — начало квантовой физики",
+    "wrong_answers_de": ["Planck bewies, dass Atome teilbar sind – was Einstein zur Relativitätstheorie führte", "Planck entwickelte die Wellentheorie des Lichts als Alternative zu Newtons Teilchentheorie", "Planck entdeckte das Elektron und seine Bahnbewegungen um den Atomkern"],
+    "wrong_answers_ru": ["Планк доказал, что атомы делимы — что привело Эйнштейна к теории относительности", "Планк разработал волновую теорию света как альтернативу корпускулярной теории Ньютона", "Планк открыл электрон и его движение по орбитам вокруг ядра атома"],
+    "explanation_de": "Planck löste das 'Schwarzkörperproblem': Wärmestrahlung ließ sich klassisch nicht erklären. Er führte die Quantenhypothese ein (Wirkungsquantum h). Einstein nutzte dies für den Photoeffekt (1905). Quantenmechanik wurde zur Revolution der Physik im 20. Jh.",
+    "explanation_ru": "Планк решил «проблему чёрного тела»: тепловое излучение не поддавалось классическому объяснению. Он ввёл квантовую гипотезу (квант действия h). Эйнштейн использовал это для фотоэффекта (1905). Квантовая механика стала революцией физики в XX веке.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1900 CE",
+    "tags": ["Wissenschaft", "Deutschland"],
+    "interesting_facts": [
+      {
+        "de": "Planck selbst glaubte zunächst nicht an die Quantenhypothese – er nannte sie eine 'Verlegenheitsannahme'.",
+        "ru": "Сам Планк поначалу не верил в квантовую гипотезу — он называл её «вынужденным допущением»."
+      },
+      {
+        "de": "Das Plancksche Wirkungsquantum h = 6,626 × 10⁻³⁴ J·s – eine der fundamentalsten Konstanten der Physik.",
+        "ru": "Постоянная Планка h = 6,626 × 10⁻³⁴ Дж·с — одна из фундаментальнейших констант физики."
+      },
+      {
+        "de": "Planck erhielt 1918 den Nobelpreis – und lebte bis 1947, um die Quantenmechanik entfalten zu sehen.",
+        "ru": "Планк получил Нобелевскую премию в 1918 году — и дожил до 1947 года, чтобы увидеть расцвет квантовой механики."
+      }
+    ]
+  },
+  {
+    "id": 8087,
+    "question_de": "Was war die Entdeckung der Elektromagnetismus (Maxwell, 1864)?",
+    "question_ru": "Что такое открытие электромагнетизма (Максвелл, 1864)?",
+    "correct_answer_de": "James Clerk Maxwell vereinte Elektrizität und Magnetismus in 4 Gleichungen – und sagte Radiowellen vorher",
+    "correct_answer_ru": "Джеймс Клерк Максвелл объединил электричество и магнетизм в 4 уравнениях — и предсказал радиоволны",
+    "wrong_answers_de": ["Michael Faraday entwickelte 1864 die Theorie der elektromagnetischen Induktion", "Heinrich Hertz entdeckte den Elektromagnetismus als Einheit durch Experimente", "Thomas Edison vereinte Elektrizität und Magnetismus in der Glühlampentechnik"],
+    "wrong_answers_ru": ["Майкл Фарадей в 1864 году разработал теорию электромагнитной индукции", "Генрих Герц открыл электромагнетизм как единство через эксперименты", "Томас Эдисон объединил электричество и магнетизм в технике лампы накаливания"],
+    "explanation_de": "Maxwells Gleichungen (1864) beschreiben, wie elektrische und magnetische Felder sich gegenseitig erzeugen und als Wellen ausbreiten. Lichtgeschwindigkeit aus Gleichungen errechnet. Heinrich Hertz bewies 1888 Radiowellen experimentell. Grundlage von Telegrafie, Radio, Mobilfunk.",
+    "explanation_ru": "Уравнения Максвелла (1864) описывают, как электрические и магнитные поля порождают друг друга и распространяются как волны. Скорость света вычислена из уравнений. Генрих Герц доказал радиоволны экспериментально в 1888 году. Основа телеграфии, радио, мобильной связи.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1864 CE",
+    "tags": ["Wissenschaft", "England"],
+    "interesting_facts": [
+      {
+        "de": "Einstein nannte Maxwells Gleichungen die 'größte Veränderung in der Physik seit Newton'.",
+        "ru": "Эйнштейн назвал уравнения Максвелла «величайшим изменением в физике со времён Ньютона»."
+      },
+      {
+        "de": "Maxwells erste Farbfotografie (1861) zeigte ein kariertes Band – als Beweis seiner Farbtheorie.",
+        "ru": "Первая цветная фотография Максвелла (1861) изображала клетчатую ленту — как доказательство его теории цвета."
+      },
+      {
+        "de": "Guglielmo Marconi nutzte Maxwells Theorie 1901, um das erste transatlantische Radio-Signal zu senden.",
+        "ru": "Гульельмо Маркони использовал теорию Максвелла в 1901 году, чтобы отправить первый трансатлантический радиосигнал."
+      }
+    ]
+  },
+  {
+    "id": 8088,
+    "question_de": "Was war der Aufstieg der USA zur Weltmacht im 19. Jahrhundert?",
+    "question_ru": "Что такое возвышение США как мировой державы в XIX веке?",
+    "correct_answer_de": "Die USA wuchsen durch Westexpansion, Industrialisierung und Einwanderung zur größten Wirtschaftsmacht der Welt",
+    "correct_answer_ru": "США выросли через западную экспансию, индустриализацию и иммиграцию в крупнейшую экономическую державу мира",
+    "wrong_answers_de": ["Die USA wurden 1898 durch den Spanisch-Amerikanischen Krieg zur ersten Militärmacht der Welt", "Die USA überholten England wirtschaftlich erst nach dem Ersten Weltkrieg 1920", "Die USA wuchsen hauptsächlich durch Kolonialisierung Lateinamerikas und der Karibik"],
+    "wrong_answers_ru": ["США стали первой военной державой мира в 1898 году после Испано-американской войны", "США обогнали Англию экономически лишь после Первой мировой войны в 1920 году", "США выросли главным образом через колонизацию Латинской Америки и Карибского бассейна"],
+    "explanation_de": "Louisiana Purchase (1803), Texas (1845), Mexikokrieg, Oregon. Bürgerkrieg. Goldrausch 1849. Transkontinentale Eisenbahn 1869. 1870–1900: Industrialisierung, Carnegie (Stahl), Rockefeller (Öl), Morgan (Banken). 1890: USA größte Wirtschaftsmacht.",
+    "explanation_ru": "Покупка Луизианы (1803), Техас (1845), Мексиканская война, Орегон. Гражданская война. Золотая лихорадка 1849 года. Трансконтинентальная железная дорога 1869 года. 1870–1900: индустриализация, Карнеги (сталь), Рокфеллер (нефть), Морган (банки). 1890 год: США — крупнейшая экономическая держава.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1890 CE",
+    "tags": ["Wirtschaft", "Amerika", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "John D. Rockefellers Standard Oil kontrollierte 1880 über 90 % der US-Ölraffinerien.",
+        "ru": "Standard Oil Джона Д. Рокфеллера в 1880 году контролировала более 90% нефтеперерабатывающих заводов США."
+      },
+      {
+        "de": "Andrew Carnegie, Einwanderer aus Schottland, wurde zum reichsten Mann der Welt – und spendete sein Vermögen.",
+        "ru": "Эндрю Карнеги, иммигрант из Шотландии, стал богатейшим человеком в мире — и пожертвовал своё состояние."
+      },
+      {
+        "de": "Die Statue of Liberty (1886) war ein Geschenk Frankreichs – Symbol der amerikanischen Freiheit.",
+        "ru": "Статуя Свободы (1886) была подарком Франции — символом американской свободы."
+      }
+    ]
+  },
+  {
+    "id": 8089,
+    "question_de": "Was war die erste Olympische Spiele der Moderne (1896)?",
+    "question_ru": "Что такое первые Олимпийские игры современности (1896)?",
+    "correct_answer_de": "Pierre de Coubertin begründete die modernen Olympischen Spiele 1896 in Athen – 14 Nationen, 241 Athleten",
+    "correct_answer_ru": "Пьер де Кубертен основал современные Олимпийские игры в 1896 году в Афинах — 14 наций, 241 атлет",
+    "wrong_answers_de": ["Die ersten modernen Olympischen Spiele fanden 1900 in Paris während der Weltausstellung statt", "England revitalisierte die Olympischen Spiele 1896 in London nach griechischem Vorbild", "Die modernen Olympischen Spiele begannen 1888 in Deutschland als Turnfest"],
+    "wrong_answers_ru": ["Первые современные Олимпийские игры прошли в 1900 году в Париже во время Всемирной выставки", "Англия возродила Олимпийские игры в 1896 году в Лондоне по греческому образцу", "Современные Олимпийские игры начались в 1888 году в Германии как турнир по гимнастике"],
+    "explanation_de": "Pierre de Coubertin träumte von Völkerverständigung durch Sport. 1896 in Athen: 241 Athleten aus 14 Ländern, nur Männer. Nur Amateure, keine Frauen. Spiro Louis gewann Marathon. Deutschland nahm Medaillenranking an (das gab es damals gar nicht).",
+    "explanation_ru": "Пьер де Кубертен мечтал о взаимопонимании народов через спорт. 1896 год в Афинах: 241 атлет из 14 стран, только мужчины. Только любители, без женщин. Спирос Луис выиграл марафон. Германия приняла медальный зачёт (которого тогда и не было).",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1896 CE",
+    "tags": ["Kultur", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Die Olympischen Ringe (5 Farben) wurden erst 1912 von Coubertin designt – nicht 1896.",
+        "ru": "Олимпийские кольца (5 цветов) были разработаны Кубертеном лишь в 1912 году — не в 1896-м."
+      },
+      {
+        "de": "Frauen nahmen erstmals 1900 in Paris teil – an Tennis und Golf.",
+        "ru": "Женщины впервые приняли участие в 1900 году в Париже — в теннисе и гольфе."
+      },
+      {
+        "de": "Der Marathonlauf wurde zu Ehren des antiken Soldaten Pheidippides eingeführt – eine Legende.",
+        "ru": "Марафонский бег был введён в честь античного воина Фидиппида — легенда."
+      }
+    ]
+  },
+  {
+    "id": 8090,
+    "question_de": "Was war der Aufstand der Hereros in Deutsch-Südwestafrika (1904–1908)?",
+    "question_ru": "Что такое восстание гереро в Германской Юго-Западной Африке (1904–1908)?",
+    "correct_answer_de": "Der erste Genozid des 20. Jahrhunderts – Deutschland vernichtete 80 % der Herero-Population systematisch",
+    "correct_answer_ru": "Первый геноцид XX века — Германия систематически уничтожила 80% населения гереро",
+    "wrong_answers_de": ["Ein Aufstand von Buren gegen die deutsche Kolonialherrschaft in Namibia", "Ein Stammeskrieg zwischen Herero und Nama, in dem Deutschland vermittelte", "Eine gescheiterte Rebellion von Missionaren gegen koloniale Wirtschaftsausbeutung"],
+    "wrong_answers_ru": ["Восстание буров против германского колониального владычества в Намибии", "Племенная война между гереро и нама, в которой Германия выступила посредником", "Провалившийся бунт миссионеров против колониальной экономической эксплуатации"],
+    "explanation_de": "Herero-Aufstand gegen Landraub. General Lothar von Trotha erließ Vernichtungsbefehl (Befehl 'Herero müssen das Land verlassen oder sterben'). Brunnen vergiftet, Herero in Wüste getrieben. 60.000–80.000 von 80.000 Herero starben. Deutschland anerkannte Genozid erst 2021.",
+    "explanation_ru": "Восстание гереро против захвата земли. Генерал Лотар фон Трота издал приказ об уничтожении («приказ: гереро должны покинуть землю или умереть»). Колодцы были отравлены, гереро выгнаны в пустыню. Погибли 60 000–80 000 из 80 000 гереро. Германия признала геноцид лишь в 2021 году.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1905 CE",
+    "tags": ["Afrika", "Deutschland", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Die Konzentrationslager der Deutschen in Namibia wurden später von den Nazis als 'Vorbild' zitiert.",
+        "ru": "Немецкие концентрационные лагеря в Намибии впоследствии цитировались нацистами как «образец»."
+      },
+      {
+        "de": "Schädel der Herero wurden nach Deutschland zur 'wissenschaftlichen Forschung' gebracht und erst 2011 zurückgegeben.",
+        "ru": "Черепа гереро были вывезены в Германию для «научных исследований» и возвращены лишь в 2011 году."
+      },
+      {
+        "de": "Namibia (damals Deutsch-Südwestafrika) war die einzige deutsche Kolonie mit bedeutender weißer Siedlerbevölkerung.",
+        "ru": "Намибия (тогда Германская Юго-Западная Африка) была единственной немецкой колонией со значительным белым населением."
+      }
+    ]
+  },
+  {
+    "id": 8091,
+    "question_de": "Was war das Eisenbahnnetz in Europa und seine wirtschaftliche Bedeutung?",
+    "question_ru": "Что такое железнодорожная сеть в Европе и её экономическое значение?",
+    "correct_answer_de": "Europäische Eisenbahnen (ab 1830) vernetzten Märkte, ermöglichten Massentransport und beschleunigten Industrialisierung",
+    "correct_answer_ru": "Европейские железные дороги (с 1830-х) объединили рынки, обеспечили массовые перевозки и ускорили индустриализацию",
+    "wrong_answers_de": ["Eisenbahnen wurden in Europa erst nach 1870 gebaut – als Deutschland Frankreich besiegte", "Kanäle und Flüsse ersetzten bis 1900 die Eisenbahn als Gütertransportweg", "Die ersten europäischen Eisenbahnen dienten ausschließlich dem Militärtransport"],
+    "wrong_answers_ru": ["Железные дороги в Европе строились лишь после 1870 года — когда Германия победила Францию", "До 1900 года каналы и реки заменяли железные дороги как путь для грузовых перевозок", "Первые европейские железные дороги служили исключительно военным перевозкам"],
+    "explanation_de": "Erste Eisenbahn: 1825 Stockton–Darlington (England). 1850: 15.000 km in Europa. 1880: 100.000 km. Preußen nutzte Eisenbahn für Kriegsmobilisierung (1866, 1870). Eisenbahn machte Kohle und Stahl billig. Städte wuchsen. Tourismus entstand.",
+    "explanation_ru": "Первая железная дорога: 1825 год, Стоктон–Дарлингтон (Англия). 1850 год: 15 000 км в Европе. 1880 год: 100 000 км. Пруссия использовала железную дорогу для военной мобилизации (1866, 1870). Железные дороги удешевили уголь и сталь. Выросли города. Возник туризм.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1860 CE",
+    "tags": ["Wirtschaft", "England", "Erfindungen"],
+    "interesting_facts": [
+      {
+        "de": "Die preußische Kriegsmobilmachung 1870 war 10-mal schneller als die französische – dank Eisenbahn.",
+        "ru": "Прусская военная мобилизация в 1870 году была в 10 раз быстрее французской — благодаря железным дорогам."
+      },
+      {
+        "de": "George Stephensons Locomotion (1825) fuhr 15 km/h – vergleichbar mit einem laufenden Pferd.",
+        "ru": "«Локомоушн» Джорджа Стефенсона (1825) ехал 15 км/ч — сравнимо с бегущей лошадью."
+      },
+      {
+        "de": "In Deutschland ließ Bismarck absichtlich Eisenbahnen bis zu den Grenzen bauen – für strategische Mobilisierung.",
+        "ru": "В Германии Бисмарк намеренно строил железные дороги вплоть до границ — для стратегической мобилизации."
+      }
+    ]
+  },
+  {
+    "id": 8092,
+    "question_de": "Was war die Entstehung der modernen Polizei im 19. Jahrhundert?",
+    "question_ru": "Что такое возникновение современной полиции в XIX веке?",
+    "correct_answer_de": "Die erste moderne Polizei wurde 1829 in London von Sir Robert Peel gegründet – 'Bobbies' nach ihm benannt",
+    "correct_answer_ru": "Первая современная полиция была основана в 1829 году в Лондоне сэром Робертом Пилем — «Бобби» названы в его честь",
+    "wrong_answers_de": ["Preußen gründete 1815 die erste uniformierte Polizei Europas nach Napoleon", "Frankreich hatte seit Napoleon 1800 die erste moderne Polizei der Welt", "Die USA gründeten 1776 die erste Demokratische Polizei als Teil der Verfassung"],
+    "wrong_answers_ru": ["Пруссия в 1815 году основала первую форменную полицию Европы после Наполеона", "Франция с 1800 года при Наполеоне имела первую современную полицию в мире", "США основали в 1776 году первую демократическую полицию как часть конституции"],
+    "explanation_de": "Sir Robert Peel gründete die Metropolitan Police. Peels 'Grundsätze der Polizeiarbeit': Polizei dient der Gemeinschaft, nicht der Regierung. Polizisten sollten Respekt nicht durch Gewalt, sondern durch Verhalten gewinnen. Vorbild für die Welt.",
+    "explanation_ru": "Сэр Роберт Пил основал Столичную полицию. «Принципы полицейской работы» Пила: полиция служит общине, а не правительству. Полицейские должны завоёвывать уважение не силой, а поведением. Образец для всего мира.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1829 CE",
+    "tags": ["Gesellschaft", "England"],
+    "interesting_facts": [
+      {
+        "de": "Die ersten Londoner Polizisten trugen keine Uniform mit Waffe – um sie von Militär zu unterscheiden.",
+        "ru": "Первые лондонские полицейские не носили оружия — чтобы отличаться от военных."
+      },
+      {
+        "de": "Sherlock Holmes (Arthur Conan Doyle, ab 1887) spiegelte die damalige Faszination für Verbrechensaufklärung.",
+        "ru": "Шерлок Холмс (Артур Конан Дойл, с 1887 года) отражал тогдашнее восхищение раскрытием преступлений."
+      },
+      {
+        "de": "Der Begriff 'Bobby' lebt im britischen Slang bis heute – als sympathische Bezeichnung für Polizisten.",
+        "ru": "Слово «бобби» живёт в британском сленге по сей день — как ласковое название полицейских."
+      }
+    ]
+  },
+  {
+    "id": 8093,
+    "question_de": "Was war der Symbolismus in der Kunst und Dichtung des späten 19. Jahrhunderts?",
+    "question_ru": "Что такое символизм в искусстве и поэзии конца XIX века?",
+    "correct_answer_de": "Eine künstlerische Bewegung – Ideen und Gefühle durch Symbole statt direkte Darstellung ausgedrückt; Baudelaire, Mallarmé",
+    "correct_answer_ru": "Художественное движение — идеи и чувства выражались символами, а не прямым изображением; Бодлер, Малларме",
+    "wrong_answers_de": ["Ein politisches Kunstprogramm für sozialistische Symbolik in Arbeiterkunst", "Eine wissenschaftliche Theorie über die Wirkung von Farbsymbolen auf das Unterbewusstsein", "Eine religiöse Kunstbewegung, die christliche Symbole in der modernen Malerei verwendete"],
+    "wrong_answers_ru": ["Политическая художественная программа для социалистической символики в рабочем искусстве", "Научная теория о воздействии цветовых символов на подсознание", "Религиозное художественное движение, использовавшее христианские символы в современной живописи"],
+    "explanation_de": "Charles Baudelaire ('Les Fleurs du Mal', 1857) ist Vorläufer. Symbolisten wie Mallarmé, Verlaine, Rimbaud schrieben undurchsichtig – die Bedeutung muss gefühlt, nicht verstanden werden. Gustav Moreau und Gustave Klimt in der Malerei.",
+    "explanation_ru": "Шарль Бодлер («Цветы зла», 1857) — предтеча. Символисты, такие как Малларме, Верлен, Рембо, писали непрозрачно — смысл нужно чувствовать, а не понимать. В живописи — Гюстав Моро и Густав Климт.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1885 CE",
+    "tags": ["Kunst", "Kultur", "Frankreich"],
+    "interesting_facts": [
+      {
+        "de": "Arthur Rimbaud schrieb seine gesamten Werke zwischen 15 und 19 Jahren – dann hörte er auf und wurde Händler.",
+        "ru": "Артюр Рембо написал все свои произведения в возрасте от 15 до 19 лет — затем прекратил и стал торговцем."
+      },
+      {
+        "de": "Baudelaires 'Les Fleurs du Mal' wurde in Frankreich verboten – 6 Gedichte mussten getilgt werden.",
+        "ru": "«Цветы зла» Бодлера были запрещены во Франции — 6 стихотворений должны были быть изъяты."
+      },
+      {
+        "de": "Klimts 'Der Kuss' (1907/08) ist ein Meisterwerk der Jugendstil-Symbolik – inspiriert von byzantinischem Gold.",
+        "ru": "«Поцелуй» Климта (1907/08) — шедевр символики ар-нуво, вдохновлённый византийским золотом."
+      }
+    ]
+  },
+  {
+    "id": 8094,
+    "question_de": "Was war das Ende der Frontier in den USA (1890)?",
+    "question_ru": "Что такое конец «фронтира» в США (1890)?",
+    "correct_answer_de": "Der US-Zensus erklärte 1890 die Besiedlung des Westens für abgeschlossen – Ende der Expansion und der Indianerkriege",
+    "correct_answer_ru": "Перепись США 1890 года объявила освоение Запада завершённым — конец экспансии и войн с индейцами",
+    "wrong_answers_de": ["Das Ende der Frontier 1890 bedeutete, dass die USA nach Übersee expandieren mussten", "Die Frontier wurde 1869 mit der Transkontinentalen Eisenbahn als geschlossen erklärt", "Der Goldrausch von 1849 markierte das Ende der Frontier durch komplette Besiedlung Kaliforniens"],
+    "wrong_answers_ru": ["Конец «фронтира» в 1890 году означал, что США должны расширяться за море", "«Фронтир» был объявлен закрытым в 1869 году с завершением трансконтинентальной железной дороги", "Золотая лихорадка 1849 года ознаменовала конец «фронтира» из-за полного освоения Калифорнии"],
+    "explanation_de": "Der Historiker Frederick Jackson Turner beschrieb 1893 die Frontier als prägend für die amerikanische Demokratie und Identität. 1890: Wounded Knee Massacre – letzter größerer Indianerkrieg. Alle Staaten bis Pazifik besiedelt. USA suchten nun externe Expansion.",
+    "explanation_ru": "Историк Фредерик Джексон Тёрнер в 1893 году описал «фронтир» как формирующий американскую демократию и идентичность. 1890 год: резня у Вундед-Ни — последняя крупная индейская война. Все штаты вплоть до Тихого океана освоены. США начали искать внешнюю экспансию.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1890 CE",
+    "tags": ["Amerika", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Das Wounded-Knee-Massaker 1890: 300 unbewaffnete Lakota-Indianer von US-Kavallerie erschossen.",
+        "ru": "Резня у Вундед-Ни в 1890 году: 300 безоружных индейцев лакота были расстреляны американской кавалерией."
+      },
+      {
+        "de": "Turner-Thesis beeinflusste die amerikanische Außenpolitik: Expansion als Schicksal.",
+        "ru": "Тезис Тёрнера повлиял на американскую внешнюю политику: экспансия как судьба."
+      },
+      {
+        "de": "Sitting Bull und Chief Joseph kämpften vergeblich für die Rechte der Ureinwohner.",
+        "ru": "Сидящий Бык и вождь Джозеф тщетно боролись за права коренных народов."
+      }
+    ]
+  },
+  {
+    "id": 8095,
+    "question_de": "Was war die Kulturkampf unter Bismarck (1871–1878)?",
+    "question_ru": "Что такое Культуркампф при Бисмарке (1871–1878)?",
+    "correct_answer_de": "Bismarcks Kampf gegen den Einfluss der katholischen Kirche in Deutschland – Jesuiten verbannt, Zivilehe eingeführt",
+    "correct_answer_ru": "Борьба Бисмарка против влияния католической церкви в Германии — иезуиты изгнаны, введён гражданский брак",
+    "wrong_answers_de": ["Ein Streit über Schulbücher und Lehrpläne zwischen Preußen und Bayern", "Bismarcks Kampf für die kulturelle Überlegenheit der deutschen Sprache gegen Frankreich", "Eine antijüdische Kampagne Bismarcks zur Stärkung des Protestantismus"],
+    "wrong_answers_ru": ["Спор об учебниках и учебных программах между Пруссией и Баварией", "Борьба Бисмарка за культурное превосходство немецкого языка над французским", "Антиеврейская кампания Бисмарка по укреплению протестантизма"],
+    "explanation_de": "Bismarck fürchtete den Einfluss des Vatikans auf die deutschen Katholiken (1/3 der Bevölkerung). Er verbot Jesuitenorden, verstaatlichte Schulen, führte Zivilehe ein. Der Kulturkampf scheiterte – die Zentrumspartei (Katholiken) wurde stärker. Bismarck einigte sich mit dem Vatikan.",
+    "explanation_ru": "Бисмарк опасался влияния Ватикана на немецких католиков (1/3 населения). Он запретил орден иезуитов, огосударствил школы, ввёл гражданский брак. Культуркампф провалился — Партия центра (католики) стала сильнее. Бисмарк договорился с Ватиканом.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1875 CE",
+    "tags": ["Deutschland", "Politik", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Der Begriff 'Kulturkampf' prägte den deutschen politischen Wortschatz – wird heute noch benutzt.",
+        "ru": "Термин «Культуркампф» вошёл в немецкий политический словарь — и используется по сей день."
+      },
+      {
+        "de": "Die Zivilehe ist eine Erfindung Bismarcks – und besteht in Deutschland noch heute.",
+        "ru": "Гражданский брак — изобретение Бисмарка, существующее в Германии по сей день."
+      },
+      {
+        "de": "Papst Pius IX. und Bismarck teilten die Abneigung gegen liberale Demokratie – aber konkurrierten um Macht über Herzen.",
+        "ru": "Папа Пий IX и Бисмарк разделяли неприязнь к либеральной демократии — но соперничали за власть над умами."
+      }
+    ]
+  },
+  {
+    "id": 8096,
+    "question_de": "Was war der Darwinismus in der Gesellschaft (Eugenik) im späten 19. Jahrhundert?",
+    "question_ru": "Что такое дарвинизм в обществе (евгеника) в конце XIX века?",
+    "correct_answer_de": "Eugenik (Francis Galton, 1883) wollte durch gezielte Fortpflanzung die menschliche Rasse 'verbessern'",
+    "correct_answer_ru": "Евгеника (Фрэнсис Гальтон, 1883) стремилась «улучшить» человеческую расу целенаправленным размножением",
+    "wrong_answers_de": ["Eine medizinische Bewegung zur Bekämpfung erblicher Krankheiten durch Impfung", "Ein Darwin-Schüler, der Tiere und Pflanzen für die Landwirtschaft genetisch verbesserte", "Ein sozialistisches Programm zur Gleichheit aller Menschen durch gleiche Bildung"],
+    "wrong_answers_ru": ["Медицинское движение по борьбе с наследственными болезнями через вакцинацию", "Ученик Дарвина, генетически улучшавший животных и растения для сельского хозяйства", "Социалистическая программа равенства всех людей через равное образование"],
+    "explanation_de": "Francis Galton (Darwins Cousin) wollte Intelligenz und Gesundheit durch selektive Fortpflanzung fördern. In den USA wurden Zwangssterilisierungen (60.000 Menschen) durchgeführt. Die Nazis radikalisierten Eugenik zum Genozid. Heute als pseudowissenschaftlich und verbrecherisch abgelehnt.",
+    "explanation_ru": "Фрэнсис Гальтон (кузен Дарвина) хотел поощрять интеллект и здоровье через избирательное размножение. В США проводились принудительные стерилизации (60 000 человек). Нацисты радикализировали евгенику до геноцида. Сегодня отвергается как псевдонаука и преступление.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1885 CE",
+    "tags": ["Wissenschaft", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Eugenik war in der Öffentlichkeit ein respektiertes Feld – George Bernard Shaw, H.G. Wells, Winston Churchill unterstützten es.",
+        "ru": "Евгеника была уважаемой областью — Джордж Бернард Шоу, Г.Дж. Уэллс, Уинстон Черчилль её поддерживали."
+      },
+      {
+        "de": "USA waren in Zwangssterilisierungen Vorreiter – die Nazis zitierten amerikanische Gesetze als Vorbild.",
+        "ru": "США были пионерами принудительной стерилизации — нацисты ссылались на американские законы как образец."
+      },
+      {
+        "de": "Das Wort 'Eugenik' kommt vom Griechischen 'eu' (gut) und 'genos' (Geburt) – klingt harmlos, war aber fatal.",
+        "ru": "Слово «евгеника» происходит от греч. «eu» (хороший) и «genos» (рождение) — звучит безобидно, но оказалось роковым."
+      }
+    ]
+  },
+  {
+    "id": 8097,
+    "question_de": "Was war der Positivismus von Auguste Comte?",
+    "question_ru": "Что такое позитивизм Огюста Конта?",
+    "correct_answer_de": "Comtes Philosophie (1830er): Nur durch empirische Beobachtung gelangt man zu wahrem Wissen – Grundlage der Sozialwissenschaften",
+    "correct_answer_ru": "Философия Конта (1830-е): только через эмпирическое наблюдение можно получить истинное знание — основа социальных наук",
+    "wrong_answers_de": ["Eine optimistische Lebensphilosophie, die das Gute im Menschen betonte", "Eine religiöse Bewegung, die Wissenschaft und Glaube versöhnen wollte", "Eine politische Theorie, die positive Staatsintervention in der Wirtschaft befürwortete"],
+    "wrong_answers_ru": ["Оптимистическая жизненная философия, подчёркивавшая добро в человеке", "Религиозное движение, стремившееся примирить науку и веру", "Политическая теория, отстаивавшая позитивное государственное вмешательство в экономику"],
+    "explanation_de": "Auguste Comte (1798–1857) entwickelte die Soziologie als Wissenschaft. Drei Stadien der Menschheit: theologisch → metaphysisch → positiv (wissenschaftlich). Nur empirisches Wissen zählt. Beeinflusste John Stuart Mill, Herbert Spencer und die Entwicklung der Sozialwissenschaften.",
+    "explanation_ru": "Огюст Конт (1798–1857) разработал социологию как науку. Три стадии человечества: теологическая → метафизическая → позитивная (научная). Значимо только эмпирическое знание. Повлиял на Джона Стюарта Милля, Герберта Спенсера и развитие социальных наук.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1840 CE",
+    "tags": ["Philosophie", "Frankreich"],
+    "interesting_facts": [
+      {
+        "de": "Comte gründete eine 'Religion der Menschheit' mit Heiligen der Wissenschaft – als Ersatz für das Christentum.",
+        "ru": "Конт основал «Религию Человечества» со святыми науки — как замену христианству."
+      },
+      {
+        "de": "Die Soziologie als Disziplin geht auf Comte zurück – er prägte auch den Begriff.",
+        "ru": "Социология как дисциплина восходит к Конту — он также ввёл этот термин."
+      },
+      {
+        "de": "Comtes Lebensgefährtin Clotilde de Vaux starb früh – er widmete ihr sein spätes Werk religiös-romantisch.",
+        "ru": "Подруга жизни Конта Клотильда де Во рано умерла — он посвятил ей своё позднее творчество в религиозно-романтическом духе."
+      }
+    ]
+  },
+  {
+    "id": 8098,
+    "question_de": "Was war die industrielle Kinderarbeit im 19. Jahrhundert und wie wurde sie bekämpft?",
+    "question_ru": "Что такое промышленный детский труд в XIX веке и как с ним боролись?",
+    "correct_answer_de": "Kinder ab 5 Jahren arbeiteten in Fabriken und Minen – Gesetze verboten es schrittweise ab 1830er in England",
+    "correct_answer_ru": "Дети с 5 лет работали на фабриках и в шахтах — законы постепенно запрещали это с 1830-х в Англии",
+    "wrong_answers_de": ["Kinderarbeit war im 19. Jahrhundert selten und beschränkte sich auf Landwirtschaft", "Die Kirche verbot Kinderarbeit in Europa 1800 durch päpstliches Dekret", "Kinderarbeit wurde in England 1800 durch die erste Fabrikgesetzgebung völlig verboten"],
+    "wrong_answers_ru": ["Детский труд в XIX веке был редкостью и ограничивался сельским хозяйством", "Церковь запретила детский труд в Европе в 1800 году папским декретом", "Детский труд был полностью запрещён в Англии в 1800 году первым фабричным законодательством"],
+    "explanation_de": "In englischen Kohlenminen arbeiteten Kinder als 'Grubenhunde' – zogen Kohlekörbe. Factory Acts: 1833 verbot Kinder unter 9 in Textilfabriken, 1842 Frauen und Kinder unter 10 in Kohleminen. 1880 Pflichtschule machte Kinderarbeit tagsüber schwieriger.",
+    "explanation_ru": "В английских угольных шахтах дети работали «шахтными собаками» — тянули корзины с углём. Законы о фабриках: 1833 год запрет детей до 9 лет на текстильных фабриках, 1842 год — женщин и детей до 10 лет в угольных шахтах. В 1880 году обязательное школьное обучение затруднило дневной детский труд.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1840 CE",
+    "tags": ["Gesellschaft", "England"],
+    "interesting_facts": [
+      {
+        "de": "Dickens arbeitete selbst als Kind in einer Schuhwichsefabrik – und schrieb 'Oliver Twist' aus eigener Erfahrung.",
+        "ru": "Диккенс сам в детстве работал на фабрике ваксы для обуви — и написал «Оливера Твиста» из собственного опыта."
+      },
+      {
+        "de": "In US-amerikanischen Baumwollfeldern arbeiteten noch 1900 über 1 Million Kinder.",
+        "ru": "На хлопковых полях США ещё в 1900 году работало более 1 миллиона детей."
+      },
+      {
+        "de": "Lord Shaftesbury kämpfte 40 Jahre im britischen Parlament für Kinderarbeitsgesetze.",
+        "ru": "Лорд Шафтсбери 40 лет боролся в британском парламенте за законы о детском труде."
+      }
+    ]
+  },
+  {
+    "id": 8099,
+    "question_de": "Was war die Entstehung der Sozialdemokratie im 19. Jahrhundert?",
+    "question_ru": "Что такое возникновение социал-демократии в XIX веке?",
+    "correct_answer_de": "Sozialdemokratische Parteien entstanden in den 1860–1880ern – Ziel: Arbeiterrechte durch parlamentarische Mittel statt Revolution",
+    "correct_answer_ru": "Социал-демократические партии возникли в 1860–1880-х годах — цель: права рабочих парламентскими средствами, а не революцией",
+    "wrong_answers_de": ["Sozialdemokraten waren eine Abspaltung der konservativen Parteien für soziale Reformen", "Sozialdemokratie entstand durch Bismarcks Sozialgesetze als politische Bewegung", "Karl Marx gründete die erste sozialdemokratische Partei 1848 nach dem Manifest"],
+    "wrong_answers_ru": ["Социал-демократы были отколовшейся частью консервативных партий для социальных реформ", "Социал-демократия возникла через социальные законы Бисмарка как политическое движение", "Карл Маркс основал первую социал-демократическую партию в 1848 году после манифеста"],
+    "explanation_de": "SPD (Deutschland, 1863/69 gegründet): Lassalle und Bebel. Ziel: Verbesserung der Lage der Arbeiter durch Wahlen. Bismarck verbot SPD 1878–90, aber sie wuchs. 1912: stärkste Partei im Reichstag. Labour Party (England, 1900). Die Sozialdemokratie wurde eine der wichtigsten politischen Kräfte.",
+    "explanation_ru": "СДПГ (Германия, основана в 1863/69): Лассаль и Бебель. Цель: улучшение положения рабочих через выборы. Бисмарк запретил СДПГ в 1878–90 годах, но она росла. 1912 год: сильнейшая партия в рейхстаге. Лейбористская партия (Англия, 1900). Социал-демократия стала одной из важнейших политических сил.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1875 CE",
+    "tags": ["Politik", "Deutschland"],
+    "interesting_facts": [
+      {
+        "de": "Die SPD war bis 1933 verboten (Nazi) – und wurde 1945 als erste Partei wiedergegründet.",
+        "ru": "СДПГ была запрещена до 1933 года (нацисты) — и была основана вновь в 1945-м как первая партия."
+      },
+      {
+        "de": "Eduard Bernstein führte den 'Revisionismus' ein: Sozialismus durch Evolution, nicht Revolution.",
+        "ru": "Эдуард Бернштейн ввёл «ревизионизм»: социализм через эволюцию, а не революцию."
+      },
+      {
+        "de": "Die SPD lehnte 1914 die Kriegskredite zuerst nicht ab – was ihre internationale Reputation zerstörte.",
+        "ru": "СДПГ в 1914 году поначалу не отвергла военные кредиты — что разрушило её международную репутацию."
+      }
+    ]
+  },
+  {
+    "id": 8100,
+    "question_de": "Was war die Entstehung des modernen Sports und der Sportkultur im 19. Jahrhundert?",
+    "question_ru": "Что такое возникновение современного спорта и спортивной культуры в XIX веке?",
+    "correct_answer_de": "In England entstanden Fußball (1863), Rugby, Cricket, Tennis mit festen Regeln – Sport wurde zur Massenbewegung",
+    "correct_answer_ru": "В Англии возникли футбол (1863), регби, крикет, теннис с чёткими правилами — спорт стал массовым движением",
+    "wrong_answers_de": ["Die ersten modernen Sportverbände entstanden in Deutschland durch das Turnwesen Friedrich Jahns", "Baseball und American Football entstanden in England und wurden von Amerika übernommen", "Der moderne Sport entstand durch die Olympischen Spiele 1896 in Athen als Ursprung"],
+    "wrong_answers_ru": ["Первые современные спортивные федерации возникли в Германии через гимнастику Фридриха Яна", "Бейсбол и американский футбол возникли в Англии и были переняты Америкой", "Современный спорт возник через Олимпийские игры 1896 года в Афинах как истоке"],
+    "explanation_de": "1863: Football Association (England) gründete modernes Fußball. Rugby trennte sich ab. Wimbledon-Tennis (1877). County Cricket. Englische Public Schools exportierten Sports. Turnvater Jahn in Deutschland. Sport wurde Nationalprestige und Arbeiterfreizeitgestaltung.",
+    "explanation_ru": "1863 год: Футбольная ассоциация (Англия) основала современный футбол. Регби отделился. Уимблдонский теннис (1877). Крикет в округах. Английские частные школы экспортировали виды спорта. «Отец гимнастики» Ян в Германии. Спорт стал национальным престижем и досугом рабочих.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1875 CE",
+    "tags": ["Kultur", "England", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Das erste Fußballspiel mit schriftlichen Regeln (1863) war eine Reaktion auf tödliche Spiele ohne Regeln.",
+        "ru": "Первый футбольный матч с письменными правилами (1863) стал реакцией на смертоносные игры без правил."
+      },
+      {
+        "de": "Baseball wurde erst Mitte des 19. Jahrhunderts systematisiert – obwohl es Vorläufer in England gab.",
+        "ru": "Бейсбол был систематизирован лишь в середине XIX века — хотя предшественники существовали в Англии."
+      },
+      {
+        "de": "Turner-Vater Jahn gründete die Turnbewegung 1811 in Berlin – mit nationalistisch-patriotischem Hintergrund.",
+        "ru": "«Отец гимнастики» Ян основал гимнастическое движение в 1811 году в Берлине — с националистически-патриотическим подтекстом."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1929 @@
+[
+  {
+    "id": 7001,
+    "question_de": "In welchem Jahrhundert gilt traditionell der Beginn der Frühen Neuzeit in Europa?",
+    "question_ru": "В каком веке традиционно считается начало эпохи Раннего Нового времени в Европе?",
+    "correct_answer_de": "16. Jh.",
+    "correct_answer_ru": "XVIв.",
+    "wrong_answers_de": [
+      "10. Jh.",
+      "14. Jh.",
+      "19. Jh."
+    ],
+    "wrong_answers_ru": [
+      "Xв.",
+      "XIVв.",
+      "XIXв."
+    ],
+    "explanation_de": "Das 16. Jahrhundert gilt als Beginn der Frühen Neuzeit, als große politische und religiöse Umbrüche Europa prägten.",
+    "explanation_ru": "XVI век считается началом эпохи Раннего Нового времени, когда происходили крупные политические и религиозные изменения. В это время началась Реформация и распространилось книгопечатание.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1550 CE",
+    "tags": [
+      "Frühe Neuzeit",
+      "Epochen"
+    ],
+    "interesting_facts": [
+      {
+        "de": "In dieser Zeit beginnt die Reformation und breitet sich der Buchdruck aus.",
+        "ru": "В это время началась Реформация и распространилось книгопечатание."
+      },
+      {
+        "de": "Viele Staaten gehen zu stärker zentralisierter Herrschaft über.",
+        "ru": "Многие государства перешли к более централизованной системе правления."
+      },
+      {
+        "de": "Die Epoche eröffnet neue Handelswege und maritime Expeditionen.",
+        "ru": "Эпоха открыла новые торговые пути и морские экспедиции."
+      }
+    ]
+  },
+  {
+    "id": 7002,
+    "question_de": "Welches Ereignis des Jahres 1517 gilt als Beginn der Reformation in Europa?",
+    "question_ru": "Какое событие 1517 года считается началом Реформации в Европе?",
+    "correct_answer_de": "Veröffentlichung der 95 Thesen Luthers",
+    "correct_answer_ru": "Публикация 95 тезисов Лютера",
+    "wrong_answers_de": [
+      "Kreuzzug nach Jerusalem",
+      "Fall Konstantinopels",
+      "Entdeckung Amerikas"
+    ],
+    "wrong_answers_ru": [
+      "Крестовый поход в Иерусалим",
+      "Падение Константинополя",
+      "Открытие Америки"
+    ],
+    "explanation_de": "Martin Luther veröffentlichte 1517 seine 95 Thesen gegen den Ablasshandel – der Ausgangspunkt der protestantischen Reformation.",
+    "explanation_ru": "Мартин Лютер опубликовал в 1517 году 95 тезисов против торговли индульгенциями, что стало началом протестантской Реформации.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1517 CE",
+    "tags": [
+      "Reformation",
+      "Luther"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Ereignis führte zum Bruch innerhalb der katholischen Kirche.",
+        "ru": "Это событие привело к расколу внутри католической церкви."
+      },
+      {
+        "de": "Die Reformation veränderte die religiöse Landkarte Europas grundlegend.",
+        "ru": "Реформация коренным образом изменила религиозную карту Европы."
+      },
+      {
+        "de": "Der Buchdruck half, Luthers Schriften schnell zu verbreiten.",
+        "ru": "Книгопечатание помогло быстро распространить сочинения Лютера."
+      }
+    ]
+  },
+  {
+    "id": 7003,
+    "question_de": "Welcher Krieg von 1562–1598 in Frankreich war mit religiösen Konflikten zwischen Katholiken und Protestanten verbunden?",
+    "question_ru": "Какая война 1562–1598 гг. во Франции была связана с религиозными конфликтами между католиками и протестантами?",
+    "correct_answer_de": "Hugenottenkriege",
+    "correct_answer_ru": "Гугенотские войны",
+    "wrong_answers_de": [
+      "Hundertjähriger Krieg",
+      "Rosenkriege",
+      "Dreißigjähriger Krieg"
+    ],
+    "wrong_answers_ru": [
+      "Столетняя война",
+      "Война Алой и Белой розы",
+      "Тридцатилетняя война"
+    ],
+    "explanation_de": "Die Hugenottenkriege (französische Religionskriege) wurden zwischen Katholiken und protestantischen Hugenotten ausgetragen.",
+    "explanation_ru": "Гугенотские войны (французские религиозные войны) велись между католиками и протестантами-гугенотами. Войны сопровождались массовыми убийствами. Нантский эдикт 1598 года положил им конец.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1580 CE",
+    "tags": [
+      "Frankreich",
+      "Religion"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Kriege gingen mit Massakern und Plünderungen einher.",
+        "ru": "Войны сопровождались массовыми убийствами и грабежами."
+      },
+      {
+        "de": "Am Ende erhielten die Hugenotten teilweise religiöse Freiheit.",
+        "ru": "В конце гугеноты получили частичную религиозную свободу."
+      },
+      {
+        "de": "Der Edikt von Nantes von 1598 beendete die offiziellen Religionskriege.",
+        "ru": "Нантский эдикт 1598 года официально завершил религиозные войны."
+      }
+    ]
+  },
+  {
+    "id": 7004,
+    "question_de": "In welchem Jahr erreichte Christoph Kolumbus Amerika und eröffnete einen neuen Handelsweg zwischen Europa und der Neuen Welt?",
+    "question_ru": "В каком году Христофор Колумб достиг Америки, открыв новый торговый путь между Европой и Новым Светом?",
+    "correct_answer_de": "1492",
+    "correct_answer_ru": "1492",
+    "wrong_answers_de": [
+      "1500",
+      "1498",
+      "1510"
+    ],
+    "wrong_answers_ru": [
+      "1500",
+      "1498",
+      "1510"
+    ],
+    "explanation_de": "Kolumbus erreichte 1492 Amerika und leitete die europäische Erschließung der Neuen Welt ein.",
+    "explanation_ru": "Колумб достиг Америки в 1492 году, положив начало европейскому освоению Нового Света.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1492 CE",
+    "tags": [
+      "Kolonialismus",
+      "Entdeckungen"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Ereignis veränderte Handelskarten und geografisches Wissen.",
+        "ru": "Это событие изменило торговые карты и географические знания."
+      },
+      {
+        "de": "Europa gewann Zugang zu neuen Ressourcen und Kulturen.",
+        "ru": "Европа получила доступ к новым ресурсам и культурам."
+      },
+      {
+        "de": "Die Expedition war vom spanischen Königshaus finanziert worden.",
+        "ru": "Экспедиция была профинансирована испанским королевским домом."
+      }
+    ]
+  },
+  {
+    "id": 7005,
+    "question_de": "Welche Macht begann im 16. Jahrhundert als erste die groß angelegte Kolonisierung Amerikas?",
+    "question_ru": "Какая держава первой начала масштабную колонизацию Америки в XVI веке?",
+    "correct_answer_de": "Spanien",
+    "correct_answer_ru": "Испания",
+    "wrong_answers_de": [
+      "Frankreich",
+      "Portugal",
+      "England"
+    ],
+    "wrong_answers_ru": [
+      "Франция",
+      "Португалия",
+      "Англия"
+    ],
+    "explanation_de": "Spanien begann im 16. Jahrhundert die erste groß angelegte Kolonisierung Amerikas nach der Eroberung Mexikos und Perus.",
+    "explanation_ru": "Испания первой начала масштабную колонизацию Америки в XVI веке после завоевания Мексики и Перу.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1550 CE",
+    "tags": [
+      "Spanien",
+      "Kolonialismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Spanische Kolonien lieferten Gold und Silber nach Europa.",
+        "ru": "Испанские колонии поставляли золото и серебро в Европу."
+      },
+      {
+        "de": "Die Kolonisierung ging mit der Zerstörung einheimischer Kulturen einher.",
+        "ru": "Колонизация сопровождалась уничтожением местных культур."
+      },
+      {
+        "de": "Die spanische Kirche war eng in die Kolonialherrschaft eingebunden.",
+        "ru": "Испанская церковь была тесно связана с колониальным управлением."
+      }
+    ]
+  },
+  {
+    "id": 7006,
+    "question_de": "Welches Ereignis von 1555 teilte in Europa offiziell die Christenheit in Katholiken und Protestanten?",
+    "question_ru": "Какое событие 1555 года официально разделило христианство в Европе на католиков и протестантов?",
+    "correct_answer_de": "Augsburger Religionsfrieden",
+    "correct_answer_ru": "Аугсбургский религиозный мир",
+    "wrong_answers_de": [
+      "Edikt von Nantes",
+      "Wormser Reichstag",
+      "Tridentinisches Konzil"
+    ],
+    "wrong_answers_ru": [
+      "Нантский эдикт",
+      "Вормсский рейхстаг",
+      "Тридентский собор"
+    ],
+    "explanation_de": "Der Augsburger Religionsfrieden von 1555 legte in Deutschland die religiöse Teilung zwischen Katholiken und Protestanten fest.",
+    "explanation_ru": "Аугсбургский мир 1555 года закрепил религиозное разделение между католиками и протестантами в Германии. Каждый князь мог выбирать веру для своих земель.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1555 CE",
+    "tags": [
+      "Reformation",
+      "Deutschland"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Jeder Fürst durfte die Konfession seiner Untertanen bestimmen.",
+        "ru": "Каждый князь имел право определять вероисповедание своих подданных."
+      },
+      {
+        "de": "Der Frieden wurde zur wichtigen Grundlage religiöser Kompromisse.",
+        "ru": "Мир стал важной основой религиозных компромиссов в Европе."
+      },
+      {
+        "de": "Er schwächte den Einfluss der katholischen Kirche in Nordeuropa.",
+        "ru": "Он ослабил влияние католической церкви в Северной Европе."
+      }
+    ]
+  },
+  {
+    "id": 7007,
+    "question_de": "In welchem Jahrhundert begann die Epoche der großen geografischen Entdeckungen?",
+    "question_ru": "В каком веке началась эпоха Великих географических открытий?",
+    "correct_answer_de": "15. Jh.",
+    "correct_answer_ru": "XV",
+    "wrong_answers_de": [
+      "16. Jh.",
+      "14. Jh.",
+      "17. Jh."
+    ],
+    "wrong_answers_ru": [
+      "XVI",
+      "XIV",
+      "XVII"
+    ],
+    "explanation_de": "Die großen geografischen Entdeckungen begannen im 15. Jahrhundert mit Expeditionen Portugals und Spaniens.",
+    "explanation_ru": "Эпоха Великих географических открытий началась в XV веке с экспедиций португальцев и испанцев.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1475 CE",
+    "tags": [
+      "Entdeckungen",
+      "Seefahrt"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Portugal erschloss den Seeweg nach Indien um Afrika.",
+        "ru": "Португалия открыла морской путь в Индию вокруг Африки."
+      },
+      {
+        "de": "Spanien entdeckte Amerika und die Philippinen.",
+        "ru": "Испания открыла Америку и Филиппины."
+      },
+      {
+        "de": "Die Entdeckungen führten zu globalem Handel und Kolonisierung.",
+        "ru": "Открытия привели к глобальной торговле и колонизации."
+      }
+    ]
+  },
+  {
+    "id": 7008,
+    "question_de": "Welches Land eröffnete als erstes den Seeweg nach Indien um Afrika?",
+    "question_ru": "Какая страна первой открыла морской путь в Индию вокруг Африки?",
+    "correct_answer_de": "Portugal",
+    "correct_answer_ru": "Португалия",
+    "wrong_answers_de": [
+      "Spanien",
+      "Frankreich",
+      "England"
+    ],
+    "wrong_answers_ru": [
+      "Испания",
+      "Франция",
+      "Англия"
+    ],
+    "explanation_de": "Portugal eröffnete Ende des 15. Jahrhunderts den Seeweg nach Indien um Afrika.",
+    "explanation_ru": "Португалия открыла морской путь в Индию вокруг Африки в конце XV века. Васко да Гама достиг Индии в 1498 году.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1498 CE",
+    "tags": [
+      "Portugal",
+      "Indien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Vasco da Gama erreichte Indien 1498.",
+        "ru": "Васко да Гама достиг Индии в 1498 году."
+      },
+      {
+        "de": "Der Weg ermöglichte portugiesische Kontrolle über den Gewürzhandel.",
+        "ru": "Этот путь позволил Португалии контролировать торговлю пряностями."
+      },
+      {
+        "de": "Portugal baute Kolonien in Indien und Afrika auf.",
+        "ru": "Португалия создала колонии в Индии и Африке."
+      }
+    ]
+  },
+  {
+    "id": 7009,
+    "question_de": "Welches Kulturphänomen des 15.–16. Jahrhunderts in Europa ist mit der Wiederbelebung antiker Ideen und der Kunstentwicklung verbunden?",
+    "question_ru": "Какой культурный феномен XV–XVI веков в Европе связан с возрождением античных идей и развитием искусства?",
+    "correct_answer_de": "Renaissance",
+    "correct_answer_ru": "Ренессанс",
+    "wrong_answers_de": [
+      "Reformation",
+      "Barock",
+      "Scholastik"
+    ],
+    "wrong_answers_ru": [
+      "Реформация",
+      "Барокко",
+      "Схоластика"
+    ],
+    "explanation_de": "Die Renaissance verband die Wiederbelebung antiker Ideen mit einem Höhepunkt der Kunst und Wissenschaft.",
+    "explanation_ru": "Ренессанс (Возрождение) связан с возрождением античных идей и расцветом искусства и науки. В эту эпоху творили Леонардо да Винчи, Микеланджело и Рафаэль.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1550 CE",
+    "tags": [
+      "Renaissance",
+      "Kultur"
+    ],
+    "interesting_facts": [
+      {
+        "de": "In dieser Zeit wirkten Leonardo da Vinci, Michelangelo und Raffael.",
+        "ru": "В эту эпоху творили Леонардо да Винчи, Микеланджело и Рафаэль."
+      },
+      {
+        "de": "Fürstenhöfe förderten Kunst und Wissenschaft gleichermaßen.",
+        "ru": "Княжеские дворы одинаково поддерживали искусство и науку."
+      },
+      {
+        "de": "Die Renaissance prägte auch Architektur und Literatur.",
+        "ru": "Ренессанс повлиял также на архитектуру и литературу."
+      }
+    ]
+  },
+  {
+    "id": 7010,
+    "question_de": "Welcher spanische Herrscher des 16. Jahrhunderts kontrollierte riesige Gebiete in Europa und Amerika?",
+    "question_ru": "Какой правитель Испании в XVI веке контролировал огромные территории в Европе и Америке?",
+    "correct_answer_de": "Philipp II.",
+    "correct_answer_ru": "Филипп II",
+    "wrong_answers_de": [
+      "Karl I.",
+      "Isabella I.",
+      "Ferdinand II."
+    ],
+    "wrong_answers_ru": [
+      "Карл I",
+      "Изабелла I",
+      "Фердинанд II"
+    ],
+    "explanation_de": "Philipp II. von Spanien beherrschte ein Weltreich mit Spanien, den Niederlanden und Kolonien in der Neuen Welt.",
+    "explanation_ru": "Филипп II Испанский управлял мировой империей, включавшей Испанию, Нидерланды и колонии в Новом Свете.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1580 CE",
+    "tags": [
+      "Spanien",
+      "Monarchie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Er kämpfte gegen Protestanten und stützte die katholische Kirche.",
+        "ru": "Он боролся с протестантами и поддерживал католическую церковь."
+      },
+      {
+        "de": "Sein Reich galt als eine der größten Monarchien Europas.",
+        "ru": "Его держава считалась одной из крупнейших монархий Европы."
+      },
+      {
+        "de": "Philipp II. regierte von 1556 bis 1598.",
+        "ru": "Филипп II правил с 1556 по 1598 год."
+      }
+    ]
+  },
+  {
+    "id": 7011,
+    "question_de": "Welches Ereignis von 1588 wurde zum Wendepunkt im Kampf zwischen England und Spanien?",
+    "question_ru": "Какое событие 1588 года стало переломным моментом в борьбе между Англией и Испанией?",
+    "correct_answer_de": "Niederlage der Spanischen Armada",
+    "correct_answer_ru": "Поражение Испанской Армады",
+    "wrong_answers_de": [
+      "Fall Konstantinopels",
+      "Entdeckung Amerikas",
+      "Augsburger Religionsfrieden"
+    ],
+    "wrong_answers_ru": [
+      "Падение Константинополя",
+      "Открытие Америки",
+      "Аугсбургский мир"
+    ],
+    "explanation_de": "1588 wurde die Spanische Armada von englischen Schiffen in der Kanalregion geschlagen.",
+    "explanation_ru": "В 1588 году Испанская Армада потерпела поражение от английского флота в Ла-Манше. Это ослабило морское господство Испании.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1588 CE",
+    "tags": [
+      "England",
+      "Spanien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Ereignis schwächte Spaniens Einfluss in Nordeuropa.",
+        "ru": "Это событие ослабило влияние Испании в Северной Европе."
+      },
+      {
+        "de": "England baute daraufhin seine Seemacht weiter aus.",
+        "ru": "После этого Англия продолжила наращивать свою морскую мощь."
+      },
+      {
+        "de": "Der Sieg war ein Schritt zur späteren britischen Vorherrschaft zur See.",
+        "ru": "Победа стала шагом к последующему британскому господству на море."
+      }
+    ]
+  },
+  {
+    "id": 7012,
+    "question_de": "Welches Instrument ermöglichte die Massenverbreitung von Luthers Ideen in ganz Europa?",
+    "question_ru": "Какое изобретение позволило массово распространить идеи Лютера по всей Европе?",
+    "correct_answer_de": "Der Buchdruck (Gutenbergs Druckerpresse)",
+    "correct_answer_ru": "Книгопечатание (печатный станок Гутенберга)",
+    "wrong_answers_de": [
+      "Das Fernrohr",
+      "Die Post",
+      "Das Schießpulver"
+    ],
+    "wrong_answers_ru": [
+      "Телескоп",
+      "Почтовая служба",
+      "Порох"
+    ],
+    "explanation_de": "Johannes Gutenberg erfand um 1450 den Buchdruck mit beweglichen Lettern. Luthers Schriften wurden damit in wenigen Wochen in ganz Europa verbreitet.",
+    "explanation_ru": "Иоганн Гутенберг около 1450 года изобрёл книгопечатание с наборным шрифтом. Сочинения Лютера благодаря этому за несколько недель распространились по всей Европе.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1517 CE",
+    "tags": [
+      "Buchdruck",
+      "Reformation"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Vor dem Buchdruck musste jedes Buch von Hand abgeschrieben werden.",
+        "ru": "До появления книгопечатания каждую книгу приходилось переписывать вручную."
+      },
+      {
+        "de": "Luthers 95 Thesen verbreiteten sich innerhalb von zwei Wochen über ganz Deutschland.",
+        "ru": "95 тезисов Лютера распространились по всей Германии в течение двух недель."
+      },
+      {
+        "de": "Der Buchdruck gilt als eine der folgenreichsten Erfindungen der Menschheitsgeschichte.",
+        "ru": "Книгопечатание считается одним из самых важных изобретений в истории человечества."
+      }
+    ]
+  },
+  {
+    "id": 7013,
+    "question_de": "Welche Macht wurde im 17. Jahrhundert zum Hauptrivalen Englands in Seefahrt und Kolonisation?",
+    "question_ru": "Какая держава в XVII веке стала главным соперником Англии в мореплавании и колонизации?",
+    "correct_answer_de": "Niederlande",
+    "correct_answer_ru": "Нидерланды",
+    "wrong_answers_de": [
+      "Frankreich",
+      "Spanien",
+      "Portugal"
+    ],
+    "wrong_answers_ru": [
+      "Франция",
+      "Испания",
+      "Португалия"
+    ],
+    "explanation_de": "Die Niederlande wurden im 17. Jahrhundert zum wichtigsten Rivalen Englands in Seefahrt und Kolonisation.",
+    "explanation_ru": "Нидерланды в XVII веке стали главным соперником Англии в мореплавании и колонизации. Конкуренция привела к нескольким англо-голландским войнам.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1650 CE",
+    "tags": [
+      "Niederlande",
+      "Kolonialismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Sie kontrollierten den Gewürzhandel und ein koloniales Netzwerk.",
+        "ru": "Нидерланды контролировали торговлю пряностями и колониальную сеть."
+      },
+      {
+        "de": "Niederländische Kolonien entstanden in Asien und Amerika.",
+        "ru": "Голландские колонии появились в Азии и Америке."
+      },
+      {
+        "de": "Die Rivalität führte zu mehreren Seekriegen.",
+        "ru": "Соперничество привело к нескольким морским войнам."
+      }
+    ]
+  },
+  {
+    "id": 7014,
+    "question_de": "Welcher Krieg von 1689–1697 in Europa war mit dem Kampf zwischen England und Frankreich um Kolonialherrschaft verbunden?",
+    "question_ru": "Какая война 1689–1697 гг. в Европе была связана с борьбой между Англией и Францией за колониальное господство?",
+    "correct_answer_de": "Pfälzischer Erbfolgekrieg",
+    "correct_answer_ru": "Война Аугсбургской лиги",
+    "wrong_answers_de": [
+      "Dreißigjähriger Krieg",
+      "Siebenjähriger Krieg",
+      "Spanischer Erbfolgekrieg"
+    ],
+    "wrong_answers_ru": [
+      "Тридцатилетняя война",
+      "Семилетняя война",
+      "Война за испанское наследство"
+    ],
+    "explanation_de": "Der Pfälzische Erbfolgekrieg wurde zwischen England, den Niederlanden und Frankreich um Einfluss in Europa und den Kolonien geführt.",
+    "explanation_ru": "Война Аугсбургской лиги велась между Англией, Нидерландами и Францией за влияние в Европе и колониях.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1693 CE",
+    "tags": [
+      "Kriege",
+      "Kolonialismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Konflikt führte zu neuen Grenzziehungen in Europa.",
+        "ru": "Конфликт привёл к новому разграничению границ в Европе."
+      },
+      {
+        "de": "England stärkte seine Position in Nordamerika.",
+        "ru": "Англия укрепила свои позиции в Северной Америке."
+      },
+      {
+        "de": "Der Krieg war Teil der langen anglo-französischen Rivalität.",
+        "ru": "Война была частью длительного англо-французского соперничества."
+      }
+    ]
+  },
+  {
+    "id": 7015,
+    "question_de": "Welche Macht gründete im 17. Jahrhundert die VOC und kontrollierte den Gewürzhandel in Asien?",
+    "question_ru": "Какая держава в XVII веке основала торговую компанию VOC и контролировала торговлю пряностями в Азии?",
+    "correct_answer_de": "Niederlande",
+    "correct_answer_ru": "Нидерланды",
+    "wrong_answers_de": [
+      "Spanien",
+      "Portugal",
+      "Frankreich"
+    ],
+    "wrong_answers_ru": [
+      "Испания",
+      "Португалия",
+      "Франция"
+    ],
+    "explanation_de": "Die Niederlande gründeten die Ostindien-Kompanie (VOC), die den asiatischen Gewürzhandel dominierte.",
+    "explanation_ru": "Нидерланды основали Ост-Индскую компанию (VOC), которая доминировала в азиатской торговле пряностями.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1650 CE",
+    "tags": [
+      "VOC",
+      "Handel"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die VOC gilt als eine der ersten Aktiengesellschaften der Welt.",
+        "ru": "VOC считается одной из первых акционерных компаний в мире."
+      },
+      {
+        "de": "Niederländische Kolonien entstanden in Indien und Indonesien.",
+        "ru": "Голландские колонии появились в Индии и Индонезии."
+      },
+      {
+        "de": "Der Gewürzhandel brachte enorme Gewinne.",
+        "ru": "Торговля пряностями приносила огромные прибыли."
+      }
+    ]
+  },
+  {
+    "id": 7016,
+    "question_de": "In welchem Jahrhundert begann in Europa die Epoche des Absolutismus?",
+    "question_ru": "В каком веке в Европе началась эпоха абсолютизма?",
+    "correct_answer_de": "17. Jh.",
+    "correct_answer_ru": "XVII",
+    "wrong_answers_de": [
+      "15. Jh.",
+      "16. Jh.",
+      "18. Jh."
+    ],
+    "wrong_answers_ru": [
+      "XV",
+      "XVI",
+      "XVIII"
+    ],
+    "explanation_de": "Der Absolutismus begann im 17. Jahrhundert mit der Stärkung der königlichen Macht in vielen Staaten.",
+    "explanation_ru": "Эпоха абсолютизма в Европе началась в XVII веке с усилением королевской власти во многих государствах.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1650 CE",
+    "tags": [
+      "Absolutismus",
+      "Monarchie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Monarchen konzentrierten politische Entscheidungen auf sich.",
+        "ru": "Монархи сосредоточили все политические решения в своих руках."
+      },
+      {
+        "de": "Der Absolutismus wurde in mehreren Ländern zur Herrschaftsform.",
+        "ru": "Абсолютизм стал формой правления в нескольких странах."
+      },
+      {
+        "de": "Er förderte die Zentralisierung der Staaten.",
+        "ru": "Он способствовал централизации государств."
+      }
+    ]
+  },
+  {
+    "id": 7017,
+    "question_de": "Welcher französische Herrscher des 17. Jahrhunderts galt als „Sonnenkönig” und schuf eine der mächtigsten Monarchien Europas?",
+    "question_ru": "Какой французский правитель XVII века носил прозвище «Король-Солнце» и создал одну из мощнейших монархий Европы?",
+    "correct_answer_de": "Ludwig XIV.",
+    "correct_answer_ru": "Людовик XIV",
+    "wrong_answers_de": [
+      "Ludwig XIII.",
+      "Ludwig XV.",
+      "Heinrich IV."
+    ],
+    "wrong_answers_ru": [
+      "Людовик XIII",
+      "Людовик XV",
+      "Генрих IV"
+    ],
+    "explanation_de": "Ludwig XIV., der „Sonnenkönig”, baute eine der mächtigsten Monarchien Europas und ein System des Absolutismus auf.",
+    "explanation_ru": "Людовик XIV, известный как «Король-Солнце», выстроил одну из мощнейших монархий Европы и систему абсолютизма.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1680 CE",
+    "tags": [
+      "Frankreich",
+      "Absolutismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Er konzentrierte die Staatsmacht am Hof von Versailles.",
+        "ru": "Он сосредоточил государственную власть при дворе в Версале."
+      },
+      {
+        "de": "Seine Regierung prägte Frankreich über ein halbes Jahrhundert.",
+        "ru": "Его правление определяло облик Франции более полувека."
+      },
+      {
+        "de": "Ludwig XIV. regierte von 1643 bis 1715.",
+        "ru": "Людовик XIV правил с 1643 по 1715 год."
+      }
+    ]
+  },
+  {
+    "id": 7018,
+    "question_de": "Welcher Krieg von 1701–1714 in Europa drehte sich um die spanische Thronfolge?",
+    "question_ru": "Какая война 1701–1714 гг. в Европе велась из-за спора о наследовании испанского престола?",
+    "correct_answer_de": "Spanischer Erbfolgekrieg",
+    "correct_answer_ru": "Война за испанское наследство",
+    "wrong_answers_de": [
+      "Dreißigjähriger Krieg",
+      "Siebenjähriger Krieg",
+      "Pfälzischer Erbfolgekrieg"
+    ],
+    "wrong_answers_ru": [
+      "Тридцатилетняя война",
+      "Семилетняя война",
+      "Война Аугсбургской лиги"
+    ],
+    "explanation_de": "Der Spanische Erbfolgekrieg wurde zwischen europäischen Mächten um den Einfluss auf Spanien ausgetragen.",
+    "explanation_ru": "Война за испанское наследство велась между европейскими державами за контроль над Испанией и её империей.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1707 CE",
+    "tags": [
+      "Kriege",
+      "Spanien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Konflikt veränderte die Machtverhältnisse in Europa.",
+        "ru": "Конфликт изменил баланс сил в Европе."
+      },
+      {
+        "de": "England und die Niederlande gewannen an Stärke.",
+        "ru": "Англия и Нидерланды вышли из войны усиленными."
+      },
+      {
+        "de": "Der Krieg war Teil der Rivalität um die europäische Hegemonie.",
+        "ru": "Война была частью борьбы за европейскую гегемонию."
+      }
+    ]
+  },
+  {
+    "id": 7019,
+    "question_de": "Welches Ereignis des Jahres 1453 gilt als eines der Daten, das den Beginn der Frühen Neuzeit markiert?",
+    "question_ru": "Какое событие 1453 года считается одной из дат, знаменующих начало Раннего Нового времени?",
+    "correct_answer_de": "Fall Konstantinopels",
+    "correct_answer_ru": "Падение Константинополя",
+    "wrong_answers_de": [
+      "Entdeckung Amerikas",
+      "Beginn der Reformation",
+      "Westfälischer Frieden"
+    ],
+    "wrong_answers_ru": [
+      "Открытие Америки",
+      "Начало Реформации",
+      "Вестфальский мир"
+    ],
+    "explanation_de": "Der Fall Konstantinopels 1453 unter Sultan Mehmed II. beendete das Byzantinische Reich und gilt als einer der Startpunkte der Frühen Neuzeit.",
+    "explanation_ru": "Падение Константинополя в 1453 году под ударом султана Мехмеда II положило конец Византийской империи и считается одной из отправных точек Раннего Нового времени.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1453 CE",
+    "tags": [
+      "Osmanisches Reich",
+      "Byzanz"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Sultan Mehmed II. ließ die Hagia Sophia in eine Moschee umwandeln.",
+        "ru": "Султан Мехмед II превратил собор Святой Софии в мечеть."
+      },
+      {
+        "de": "Der Fall Konstantinopels vertrieb viele griechische Gelehrte nach Westeuropa – sie brachten antikes Wissen mit.",
+        "ru": "Падение Константинополя вынудило многих греческих учёных бежать на Запад — они принесли с собой античные знания."
+      },
+      {
+        "de": "Die Osmanen nutzten riesige Kanonen, die bis dahin unbekannter Feuerkraft waren.",
+        "ru": "Османы применяли огромные пушки невиданной прежде разрушительной силы."
+      }
+    ]
+  },
+  {
+    "id": 7020,
+    "question_de": "Welche Frau führte im 15. Jahrhundert das französische Heer an und half, England aus Frankreich zu vertreiben?",
+    "question_ru": "Какая женщина в XV веке возглавила французское войско и помогла вытеснить англичан из Франции?",
+    "correct_answer_de": "Jeanne d'Arc (Johanna von Orléans)",
+    "correct_answer_ru": "Жанна д'Арк (Орлеанская дева)",
+    "wrong_answers_de": [
+      "Maria Stuart",
+      "Katharina von Medici",
+      "Isabella von Kastilien"
+    ],
+    "wrong_answers_ru": [
+      "Мария Стюарт",
+      "Екатерина Медичи",
+      "Изабелла Кастильская"
+    ],
+    "explanation_de": "Jeanne d'Arc führte das französische Heer im Hundertjährigen Krieg an und befreite Orléans von der englischen Belagerung.",
+    "explanation_ru": "Жанна д'Арк возглавила французское войско в Столетней войне и сняла английскую осаду с Орлеана.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1450 CE",
+    "tags": [
+      "Frankreich",
+      "Persönlichkeiten"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Jeanne d'Arc behauptete, Stimmen von Heiligen zu hören, die ihr befahlen, Frankreich zu retten.",
+        "ru": "Жанна д'Арк утверждала, что слышит голоса святых, приказывающих ей спасти Францию."
+      },
+      {
+        "de": "Sie wurde 1431 in Rouen als Ketzerin verbrannt – im Alter von etwa 19 Jahren.",
+        "ru": "В 1431 году она была сожжена в Руане как еретичка — ей было около 19 лет."
+      },
+      {
+        "de": "Papst Benedikt XV. sprach sie 1920 heilig; heute ist sie die Nationalheilige Frankreichs.",
+        "ru": "Папа Бенедикт XV канонизировал её в 1920 году; сегодня она является покровительницей Франции."
+      }
+    ]
+  },
+  {
+    "id": 7021,
+    "question_de": "Welcher spanische Conquistador eroberte 1521 das Aztekenreich und gründete an der Stelle der Hauptstadt Mexiko-Stadt?",
+    "question_ru": "Какой испанский конкистадор завоевал империю ацтеков в 1521 году и основал Мехико на месте их столицы?",
+    "correct_answer_de": "Hernán Cortés",
+    "correct_answer_ru": "Эрнан Кортес",
+    "wrong_answers_de": [
+      "Francisco Pizarro",
+      "Amerigo Vespucci",
+      "Vasco Núñez de Balboa"
+    ],
+    "wrong_answers_ru": [
+      "Франсиско Писарро",
+      "Америго Веспуччи",
+      "Васко Нуньес де Бальбоа"
+    ],
+    "explanation_de": "Hernán Cortés zerstörte mit wenigen hundert Soldaten das mächtige Aztekenreich und gründete auf den Ruinen der Hauptstadt Tenochtitlan das heutige Mexiko-Stadt.",
+    "explanation_ru": "Эрнан Кортес с несколькими сотнями солдат уничтожил могущественную империю ацтеков и основал на руинах столицы Теночтитлан нынешний Мехико.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1521 CE",
+    "tags": [
+      "Spanien",
+      "Kolonialismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Aztekenherrscher Montezuma II. empfing Cortés zunächst als Gottheit – ein folgenschwerer Irrtum.",
+        "ru": "Вождь ацтеков Монтесума II поначалу принял Кортеса за бога — роковая ошибка."
+      },
+      {
+        "de": "Europäische Seuchen wie Pocken töteten mehr Azteken als spanische Schwerter.",
+        "ru": "Европейские болезни вроде оспы убили больше ацтеков, чем испанские мечи."
+      },
+      {
+        "de": "Cortés zerstörte Tenochtitlan – eine Stadt, die größer war als die meisten europäischen Metropolen der Zeit.",
+        "ru": "Кортес разрушил Теночтитлан — город, который был крупнее большинства европейских столиц того времени."
+      }
+    ]
+  },
+  {
+    "id": 7022,
+    "question_de": "Welche Bewegung innerhalb der Kirche versuchte im 16. Jahrhundert, auf die Reformation zu antworten und die Kirche zu erneuern?",
+    "question_ru": "Какое движение внутри церкви в XVI веке пыталось ответить на Реформацию и обновить церковь?",
+    "correct_answer_de": "Gegenreformation",
+    "correct_answer_ru": "Контрреформация",
+    "wrong_answers_de": [
+      "Humanismus",
+      "Pietismus",
+      "Aufklärung"
+    ],
+    "wrong_answers_ru": [
+      "Гуманизм",
+      "Пиетизм",
+      "Просвещение"
+    ],
+    "explanation_de": "Die Gegenreformation war die Antwort der katholischen Kirche auf die Reformation – mit dem Konzil von Trient und dem Jesuitenorden als wichtigsten Instrumenten.",
+    "explanation_ru": "Контрреформация — ответ католической церкви на Реформацию. Главными инструментами стали Тридентский собор и орден иезуитов.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1563 CE",
+    "tags": [
+      "Reformation",
+      "Kirche"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Konzil von Trient (1545–1563) erneuerte die Kirchendisziplin und legte Glaubenssätze fest.",
+        "ru": "Тридентский собор (1545–1563) обновил церковную дисциплину и закрепил догматы веры."
+      },
+      {
+        "de": "Der Jesuitenorden wurde von Ignatius von Loyola gegründet und diente als Hauptinstrument der Gegenreformation.",
+        "ru": "Орден иезуитов, основанный Игнатием Лойолой, стал главным орудием Контрреформации."
+      },
+      {
+        "de": "Die Gegenreformation führte zur Rückkehr vieler Gebiete zum Katholizismus, besonders in Polen und Böhmen.",
+        "ru": "Контрреформация вернула многие территории в лоно католицизма, особенно в Польше и Богемии."
+      }
+    ]
+  },
+  {
+    "id": 7023,
+    "question_de": "Welcher Krieg von 1618–1648 war der größte religiöse und politische Konflikt der Frühen Neuzeit in Europa?",
+    "question_ru": "Какая война 1618–1648 гг. стала крупнейшим религиозным и политическим конфликтом Раннего Нового времени в Европе?",
+    "correct_answer_de": "Dreißigjähriger Krieg",
+    "correct_answer_ru": "Тридцатилетняя война",
+    "wrong_answers_de": [
+      "Hundertjähriger Krieg",
+      "Siebenjähriger Krieg",
+      "Spanischer Erbfolgekrieg"
+    ],
+    "wrong_answers_ru": [
+      "Столетняя война",
+      "Семилетняя война",
+      "Война за испанское наследство"
+    ],
+    "explanation_de": "Der Dreißigjährige Krieg zwischen Katholiken und Protestanten verwüstete große Teile Mitteleuropas.",
+    "explanation_ru": "Тридцатилетняя война между католиками и протестантами опустошила значительную часть Центральной Европы. Она завершилась Вестфальским миром 1648 года.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1633 CE",
+    "tags": [
+      "Dreißigjähriger Krieg",
+      "Deutschland"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Er endete mit dem Westfälischen Frieden von 1648.",
+        "ru": "Война завершилась Вестфальским миром 1648 года."
+      },
+      {
+        "de": "Der Krieg veränderte die politische Landkarte Europas.",
+        "ru": "Война изменила политическую карту Европы."
+      },
+      {
+        "de": "Viele europäische Mächte waren direkt beteiligt.",
+        "ru": "В войне непосредственно участвовали многие европейские державы."
+      }
+    ]
+  },
+  {
+    "id": 7024,
+    "question_de": "Welcher Frieden von 1648 beendete den Dreißigjährigen Krieg und festigte die religiöse Teilung Europas?",
+    "question_ru": "Какой мир 1648 года положил конец Тридцатилетней войне и закрепил религиозное разделение Европы?",
+    "correct_answer_de": "Westfälischer Frieden",
+    "correct_answer_ru": "Вестфальский мир",
+    "wrong_answers_de": [
+      "Augsburger Religionsfrieden",
+      "Edikt von Nantes",
+      "Friede von Paris"
+    ],
+    "wrong_answers_ru": [
+      "Аугсбургский мир",
+      "Нантский эдикт",
+      "Парижский мир"
+    ],
+    "explanation_de": "Der Westfälische Frieden von 1648 beendete den Dreißigjährigen Krieg und bestätigte religiöse und politische Souveränität vieler Staaten.",
+    "explanation_ru": "Вестфальский мир 1648 года закрепил религиозное разделение и политический суверенитет многих государств. Он стал основой современного международного права.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1648 CE",
+    "tags": [
+      "Westfälischer Frieden",
+      "Frieden"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Er gilt als Grundlage des modernen Völkerrechts.",
+        "ru": "Он считается основой современного международного права."
+      },
+      {
+        "de": "Der Frieden schwächte die politische Rolle der katholischen Kirche.",
+        "ru": "Мир ослабил политическую роль католической церкви."
+      },
+      {
+        "de": "Das westfälische System prägte das europäische Staatensystem.",
+        "ru": "Вестфальская система определила облик европейского государственного устройства."
+      }
+    ]
+  },
+  {
+    "id": 7025,
+    "question_de": "Welche Revolution von 1642–1651 in England führte zur Republik und zur Hinrichtung des Königs?",
+    "question_ru": "Какая революция 1642–1651 гг. в Англии привела к провозглашению республики и казни короля?",
+    "correct_answer_de": "Englische Revolution",
+    "correct_answer_ru": "Английская революция",
+    "wrong_answers_de": [
+      "Glorreiche Revolution",
+      "Französische Revolution",
+      "Amerikanische Revolution"
+    ],
+    "wrong_answers_ru": [
+      "Славная революция",
+      "Французская революция",
+      "Американская революция"
+    ],
+    "explanation_de": "Die Englische Revolution führte zur Hinrichtung König Karls I. und zur kurzzeitigen Republik unter Oliver Cromwell.",
+    "explanation_ru": "Английская революция привела к казни короля Карла I и кратковременной республике под руководством Оливера Кромвеля.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1646 CE",
+    "tags": [
+      "England",
+      "Revolution"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Konflikt wurde zwischen Parlament und Krone ausgetragen.",
+        "ru": "Конфликт разгорелся между парламентом и королевской властью."
+      },
+      {
+        "de": "Oliver Cromwell wurde zum führenden Republikaner.",
+        "ru": "Оливер Кромвель стал главой республики."
+      },
+      {
+        "de": "Die Revolution veränderte das politische System Englands dauerhaft.",
+        "ru": "Революция навсегда изменила политическую систему Англии."
+      }
+    ]
+  },
+  {
+    "id": 7026,
+    "question_de": "Was bezeichnet die sogenannte „Tulpenmanie” in den Niederlanden im 17. Jahrhundert?",
+    "question_ru": "Что такое «тюльпаномания» в Нидерландах XVII века?",
+    "correct_answer_de": "Eine Spekulationsblase um Tulpenzwiebeln",
+    "correct_answer_ru": "Спекулятивный пузырь вокруг луковиц тюльпанов",
+    "wrong_answers_de": [
+      "Ein Gartenbautrend am Königshof",
+      "Eine Kunstmode in Rembrandts Zeit",
+      "Ein Handelsprogramm der VOC"
+    ],
+    "wrong_answers_ru": [
+      "Садоводческая мода при королевском дворе",
+      "Художественная мода эпохи Рембрандта",
+      "Торговая программа компании VOC"
+    ],
+    "explanation_de": "Die Tulpenmanie von 1637 gilt als erste Spekulationsblase der Geschichte: Tulpenzwiebeln wurden zu enormen Preisen gehandelt, bis der Markt zusammenbrach.",
+    "explanation_ru": "Тюльпаномания 1637 года считается первым спекулятивным пузырём в истории: луковицы тюльпанов торговались по огромным ценам, пока рынок не рухнул.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1637 CE",
+    "tags": [
+      "Niederlande",
+      "Wirtschaft"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Auf dem Höhepunkt kostete eine einzige seltene Tulpenzwiebel so viel wie ein Haus in Amsterdam.",
+        "ru": "На пике ажиотажа одна редкая луковица тюльпана стоила столько же, сколько дом в Амстердаме."
+      },
+      {
+        "de": "Im Februar 1637 brachen die Preise innerhalb weniger Tage völlig zusammen.",
+        "ru": "В феврале 1637 года цены рухнули в течение нескольких дней."
+      },
+      {
+        "de": "Die Tulpe kam ursprünglich aus dem Osmanischen Reich – ihr Name stammt vom türkischen Wort für Turban.",
+        "ru": "Тюльпан пришёл из Османской империи — его название происходит от турецкого слова «тюрбан»."
+      }
+    ]
+  },
+  {
+    "id": 7027,
+    "question_de": "Welche Revolution von 1789 in Europa wurde zum Symbol des Kampfes für Freiheit und Gleichheit?",
+    "question_ru": "Какая революция 1789 года в Европе стала символом борьбы за свободу и равенство?",
+    "correct_answer_de": "Französische Revolution",
+    "correct_answer_ru": "Французская революция",
+    "wrong_answers_de": [
+      "Englische Revolution",
+      "Glorreiche Revolution",
+      "Amerikanische Revolution"
+    ],
+    "wrong_answers_ru": [
+      "Английская революция",
+      "Славная революция",
+      "Американская революция"
+    ],
+    "explanation_de": "Die Französische Revolution von 1789 wurde zum Symbol für Freiheit, Gleichheit und Brüderlichkeit.",
+    "explanation_ru": "Французская революция 1789 года стала символом борьбы за свободу, равенство и братство. Она привела к падению монархии и провозглашению республики.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1789 CE",
+    "tags": [
+      "Französische Revolution",
+      "Revolution"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Sie führte zum Sturz der Monarchie und zur Republik.",
+        "ru": "Она привела к свержению монархии и провозглашению республики."
+      },
+      {
+        "de": "Die Revolution veränderte die politische Landkarte Europas.",
+        "ru": "Революция изменила политическую карту Европы."
+      },
+      {
+        "de": "Ihre Ideen wirkten weit über Frankreich hinaus.",
+        "ru": "Её идеи оказали влияние далеко за пределами Франции."
+      }
+    ]
+  },
+  {
+    "id": 7028,
+    "question_de": "Welcher Orden wurde 1534 gegründet und wurde zum wichtigsten Werkzeug der Gegenreformation?",
+    "question_ru": "Какой орден был основан в 1534 году и стал главным орудием Контрреформации?",
+    "correct_answer_de": "Jesuitenorden (Gesellschaft Jesu)",
+    "correct_answer_ru": "Орден иезуитов (Общество Иисуса)",
+    "wrong_answers_de": [
+      "Dominikaner",
+      "Franziskaner",
+      "Benediktiner"
+    ],
+    "wrong_answers_ru": [
+      "Доминиканцы",
+      "Францисканцы",
+      "Бенедиктинцы"
+    ],
+    "explanation_de": "Der Jesuitenorden wurde von Ignatius von Loyola gegründet und spielte eine zentrale Rolle in der Gegenreformation durch Bildung und Mission.",
+    "explanation_ru": "Орден иезуитов основал Игнатий Лойола. Он сыграл центральную роль в Контрреформации через образование и миссионерскую деятельность.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1550 CE",
+    "tags": [
+      "Kirche",
+      "Gegenreformation"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Jesuiten gründeten Hunderte von Schulen und Universitäten in Europa und den Kolonien.",
+        "ru": "Иезуиты основали сотни школ и университетов в Европе и колониях."
+      },
+      {
+        "de": "Ignatius von Loyola war ursprünglich Soldat und entwickelte seinen Orden nach militärischem Vorbild.",
+        "ru": "Игнатий Лойола был в прошлом солдатом и выстроил свой орден по военному образцу."
+      },
+      {
+        "de": "Jesuiten missionierten bis nach Japan, China und in die Neue Welt.",
+        "ru": "Иезуиты вели миссионерскую работу вплоть до Японии, Китая и Нового Света."
+      }
+    ]
+  },
+  {
+    "id": 7029,
+    "question_de": "Welcher Habsburger Kaiser regierte im 16. Jahrhundert gleichzeitig über Spanien, die Niederlande und das Heilige Römische Reich?",
+    "question_ru": "Какой монарх из династии Габсбургов правил в XVI веке одновременно Испанией, Нидерландами и Священной Римской империей?",
+    "correct_answer_de": "Karl V.",
+    "correct_answer_ru": "Карл V",
+    "wrong_answers_de": [
+      "Ferdinand II.",
+      "Philipp II.",
+      "Maximilian I."
+    ],
+    "wrong_answers_ru": [
+      "Фердинанд II",
+      "Филипп II",
+      "Максимилиан I"
+    ],
+    "explanation_de": "Karl V. herrschte über ein riesiges Reich, das Europa, Amerika und Teile Asiens umfasste.",
+    "explanation_ru": "Карл V управлял огромной империей, охватывавшей Европу, Америку и часть Азии.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1530 CE",
+    "tags": [
+      "Habsburger",
+      "Deutschland"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Karl V. traf Martin Luther persönlich auf dem Reichstag zu Worms (1521) und forderte ihn auf, seine Thesen zu widerrufen.",
+        "ru": "Карл V лично встретился с Мартином Лютером на Вормсском рейхстаге (1521) и потребовал отречься от своих тезисов."
+      },
+      {
+        "de": "Auf dem Höhepunkt seiner Herrschaft kontrollierte Karl V. mehr Länder als jeder europäische König vor ihm.",
+        "ru": "На вершине своего могущества Карл V контролировал больше стран, чем любой европейский монарх до него."
+      },
+      {
+        "de": "1556 dankte Karl V. ab – einer der wenigen Kaiser, der freiwillig auf seine Macht verzichtete.",
+        "ru": "В 1556 году Карл V отрёкся от престола — один из редких монархов, добровольно отказавшихся от власти."
+      }
+    ]
+  },
+  {
+    "id": 7030,
+    "question_de": "In welchem Jahrhundert begannen die Napoleonischen Kriege in Europa?",
+    "question_ru": "В каком веке началась эпоха наполеоновских войн в Европе?",
+    "correct_answer_de": "19. Jh.",
+    "correct_answer_ru": "XIX",
+    "wrong_answers_de": [
+      "17. Jh.",
+      "18. Jh.",
+      "20. Jh."
+    ],
+    "wrong_answers_ru": [
+      "XVII",
+      "XVIII",
+      "XX"
+    ],
+    "explanation_de": "Die Napoleonischen Kriege begannen im 19. Jahrhundert mit dem Aufstieg Napoleons Bonaparte.",
+    "explanation_ru": "Наполеоновские войны начались в XIX веке с возвышением Наполеона Бонапарта. Франция воевала против европейских коалиций.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1803 CE",
+    "tags": [
+      "Napoleon",
+      "Kriege"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Frankreich kämpfte gegen Koalitionen europäischer Mächte.",
+        "ru": "Франция воевала против коалиций европейских держав."
+      },
+      {
+        "de": "Die Kriege veränderten Grenzen und Herrschaftsstrukturen.",
+        "ru": "Войны изменили границы и политические структуры Европы."
+      },
+      {
+        "de": "Napoleon errichtete kurzzeitig ein Großreich in Europa.",
+        "ru": "Наполеон на короткое время создал обширную империю в Европе."
+      }
+    ]
+  },
+  {
+    "id": 7031,
+    "question_de": "Welcher preußische König des 18. Jahrhunderts gilt als Beispiel des „aufgeklärten Absolutismus”?",
+    "question_ru": "Какой прусский король XVIII века считается образцом «просвещённого абсолютизма»?",
+    "correct_answer_de": "Friedrich II. (Friedrich der Große)",
+    "correct_answer_ru": "Фридрих II (Фридрих Великий)",
+    "wrong_answers_de": [
+      "Friedrich Wilhelm I.",
+      "Joseph II.",
+      "Ludwig XIV."
+    ],
+    "wrong_answers_ru": [
+      "Фридрих Вильгельм I",
+      "Иосиф II",
+      "Людовик XIV"
+    ],
+    "explanation_de": "Friedrich der Große verband absolute Herrschaft mit Aufklärungsideen: Er schaffte die Folter ab, gewährte Religionsfreiheit und förderte Wissenschaft und Künste.",
+    "explanation_ru": "Фридрих Великий сочетал абсолютную власть с идеями Просвещения: он отменил пытки, ввёл веротерпимость и поддерживал науку и искусство.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1760 CE",
+    "tags": [
+      "Preußen",
+      "Aufklärung"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Friedrich der Große schaffte in Preußen die Folter ab und gewährte Religionsfreiheit.",
+        "ru": "Фридрих Великий отменил в Пруссии пытки и ввёл свободу вероисповедания."
+      },
+      {
+        "de": "Er führte einen persönlichen Briefwechsel mit dem Philosophen Voltaire und lud ihn an seinen Hof ein.",
+        "ru": "Он лично переписывался с философом Вольтером и пригласил его к своему двору."
+      },
+      {
+        "de": "Trotz seiner Aufklärungsideale führte Friedrich II. den Siebenjährigen Krieg – und verlor fast alles, bevor er siegte.",
+        "ru": "Несмотря на просветительские идеалы, Фридрих II вёл Семилетнюю войну — и едва не потерял всё перед финальной победой."
+      }
+    ]
+  },
+  {
+    "id": 7032,
+    "question_de": "Welcher Krieg von 1775–1783 in Nordamerika führte zur Unabhängigkeit der USA?",
+    "question_ru": "Какая война 1775–1783 гг. в Северной Америке привела к независимости США?",
+    "correct_answer_de": "Amerikanischer Unabhängigkeitskrieg",
+    "correct_answer_ru": "Война за независимость США",
+    "wrong_answers_de": [
+      "Englische Revolution",
+      "Französische Revolution",
+      "Siebenjähriger Krieg"
+    ],
+    "wrong_answers_ru": [
+      "Английская революция",
+      "Французская революция",
+      "Семилетняя война"
+    ],
+    "explanation_de": "Der Amerikanische Unabhängigkeitskrieg führte zur Gründung der Vereinigten Staaten als souveräner Staat.",
+    "explanation_ru": "Война за независимость привела к образованию Соединённых Штатов как суверенного государства.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1779 CE",
+    "tags": [
+      "USA",
+      "Unabhängigkeit"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Konflikt wurde zwischen den amerikanischen Kolonien und Großbritannien ausgetragen.",
+        "ru": "Конфликт развернулся между американскими колониями и Великобританией."
+      },
+      {
+        "de": "1783 wurde die Unabhängigkeit der USA offiziell anerkannt.",
+        "ru": "В 1783 году независимость США была официально признана."
+      },
+      {
+        "de": "Frankreich unterstützte die amerikanischen Kolonisten gegen England.",
+        "ru": "Франция поддерживала американских колонистов против Англии."
+      }
+    ]
+  },
+  {
+    "id": 7033,
+    "question_de": "Welcher spanische Conquistador besiegte 1532 das Inkareich in Südamerika?",
+    "question_ru": "Какой испанский конкистадор разгромил империю инков в Южной Америке в 1532 году?",
+    "correct_answer_de": "Francisco Pizarro",
+    "correct_answer_ru": "Франсиско Писарро",
+    "wrong_answers_de": [
+      "Hernán Cortés",
+      "Diego de Almagro",
+      "Amerigo Vespucci"
+    ],
+    "wrong_answers_ru": [
+      "Эрнан Кортес",
+      "Диего де Альмагро",
+      "Америго Веспуччи"
+    ],
+    "explanation_de": "Francisco Pizarro besiegte mit nur 180 Soldaten das riesige Inkareich und legte damit den Grundstein für die spanische Herrschaft in Südamerika.",
+    "explanation_ru": "Франсиско Писарро всего со 180 солдатами разгромил огромную империю инков, заложив основу испанского господства в Южной Америке.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1532 CE",
+    "tags": [
+      "Spanien",
+      "Kolonialismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Pizarro nahm den Inkakönig Atahualpa gefangen und ließ ihn trotz eines gigantischen Lösegelds hinrichten.",
+        "ru": "Писарро захватил вождя инков Атауальпу и казнил его, несмотря на колоссальный выкуп."
+      },
+      {
+        "de": "Das Inkareich war das größte Imperium Südamerikas und erstreckte sich über 4.000 Kilometer Küste.",
+        "ru": "Империя инков была крупнейшей в Южной Америке и протянулась на 4000 километров вдоль побережья."
+      },
+      {
+        "de": "Pizarro hatte nur 180 Mann – gegenüber einem Inkaheer von Tausenden.",
+        "ru": "У Писарро было лишь 180 человек против многотысячного войска инков."
+      }
+    ]
+  },
+  {
+    "id": 7034,
+    "question_de": "In welchem Jahrhundert begann in Europa die Industrielle Revolution?",
+    "question_ru": "В каком веке в Европе началась промышленная революция?",
+    "correct_answer_de": "18. Jh.",
+    "correct_answer_ru": "XVIII",
+    "wrong_answers_de": [
+      "17. Jh.",
+      "19. Jh.",
+      "20. Jh."
+    ],
+    "wrong_answers_ru": [
+      "XVII",
+      "XIX",
+      "XX"
+    ],
+    "explanation_de": "Die Industrielle Revolution begann im 18. Jahrhundert in England mit Maschinenbau und Fabrikproduktion.",
+    "explanation_ru": "Промышленная революция началась в XVIII веке в Англии с развитием машиностроения и фабричного производства.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1760 CE",
+    "tags": [
+      "Industrielle Revolution",
+      "Wirtschaft"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Sie veränderte Wirtschaft und Gesellschaft grundlegend.",
+        "ru": "Она коренным образом изменила экономику и общество."
+      },
+      {
+        "de": "Neue Technologien steigerten die Produktion stark.",
+        "ru": "Новые технологии резко увеличили объём производства."
+      },
+      {
+        "de": "Die Revolution legte Grundlagen des modernen Kapitalismus.",
+        "ru": "Революция заложила основы современного капитализма."
+      }
+    ]
+  },
+  {
+    "id": 7035,
+    "question_de": "Welcher Wissenschaftler stellte im 16. Jahrhundert das heliozentrische Weltbild auf – die Sonne im Mittelpunkt des Sonnensystems?",
+    "question_ru": "Какой учёный в XVI веке разработал гелиоцентрическую систему мира — с Солнцем в центре?",
+    "correct_answer_de": "Nikolaus Kopernikus",
+    "correct_answer_ru": "Николай Коперник",
+    "wrong_answers_de": [
+      "Galileo Galilei",
+      "Tycho Brahe",
+      "Johannes Kepler"
+    ],
+    "wrong_answers_ru": [
+      "Галилео Галилей",
+      "Тихо Браге",
+      "Иоганн Кеплер"
+    ],
+    "explanation_de": "Nikolaus Kopernikus entwickelte das heliozentrische Modell, das die Erde um die Sonne kreisen lässt – und nicht umgekehrt.",
+    "explanation_ru": "Николай Коперник разработал гелиоцентрическую модель, согласно которой Земля вращается вокруг Солнца, а не наоборот.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1543 CE",
+    "tags": [
+      "Wissenschaft",
+      "Astronomie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Kopernikus veröffentlichte sein Hauptwerk „De revolutionibus” erst kurz vor seinem Tod im Jahr 1543.",
+        "ru": "Коперник опубликовал свой главный труд «De revolutionibus» лишь незадолго до смерти в 1543 году."
+      },
+      {
+        "de": "Die Kirche setzte das Buch fast 200 Jahre lang auf den Index der verbotenen Schriften.",
+        "ru": "Церковь внесла эту книгу в список запрещённых сочинений почти на 200 лет."
+      },
+      {
+        "de": "Sein Modell widersprach der antiken Lehre des Ptolemäus, die über 1.400 Jahre als wahr gegolten hatte.",
+        "ru": "Его модель противоречила античному учению Птолемея, считавшемуся истинным более 1400 лет."
+      }
+    ]
+  },
+  {
+    "id": 7036,
+    "question_de": "Welche bedeutende Seeschlacht von 1571 stoppte die osmanische Expansion im Mittelmeer?",
+    "question_ru": "Какое знаменитое морское сражение 1571 года остановило osmanское продвижение в Средиземноморье?",
+    "correct_answer_de": "Seeschlacht von Lepanto",
+    "correct_answer_ru": "Битва при Лепанто",
+    "wrong_answers_de": [
+      "Seeschlacht von Trafalgar",
+      "Niederlage der Spanischen Armada",
+      "Seeschlacht bei Salamis"
+    ],
+    "wrong_answers_ru": [
+      "Битва при Трафальгаре",
+      "Разгром Испанской Армады",
+      "Саламинское сражение"
+    ],
+    "explanation_de": "Bei Lepanto besiegte die Heilige Liga aus Spanien, Venedig und dem Kirchenstaat eine riesige osmanische Flotte.",
+    "explanation_ru": "При Лепанто Священная лига в составе Испании, Венеции и Папского государства разгромила огромный османский флот.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1571 CE",
+    "tags": [
+      "Osmanisches Reich",
+      "Kriege"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Miguel de Cervantes, der Autor von Don Quijote, kämpfte bei Lepanto mit und verlor dabei die Funktion seiner linken Hand.",
+        "ru": "Мигель де Сервантес, автор «Дон Кихота», сражался при Лепанто и потерял подвижность левой руки."
+      },
+      {
+        "de": "Es war eine der letzten großen Schlachten, in denen Ruderschiffe (Galeeren) die entscheidende Rolle spielten.",
+        "ru": "Это было одно из последних крупных сражений, в котором решающую роль сыграли гребные суда — галеры."
+      },
+      {
+        "de": "Die Heilige Liga hatte rund 200 Schiffe – die Osmanen über 250.",
+        "ru": "Священная лига располагала около 200 кораблями — у османов было более 250."
+      }
+    ]
+  },
+  {
+    "id": 7037,
+    "question_de": "Welche Macht schuf im 18. Jahrhundert ein großes Kolonialreich in Afrika und Asien?",
+    "question_ru": "Какая держава в XVIII веке создала обширную колониальную империю в Африке и Азии?",
+    "correct_answer_de": "England",
+    "correct_answer_ru": "Англия",
+    "wrong_answers_de": [
+      "Spanien",
+      "Portugal",
+      "Frankreich"
+    ],
+    "wrong_answers_ru": [
+      "Испания",
+      "Португалия",
+      "Франция"
+    ],
+    "explanation_de": "England baute im 18. Jahrhundert ein Kolonialreich in Afrika und Asien auf.",
+    "explanation_ru": "Англия в XVIII веке выстроила обширную колониальную империю в Африке и Азии.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1750 CE",
+    "tags": [
+      "England",
+      "Kolonialismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die East India Company (EIC) kontrollierte den Handel in Indien.",
+        "ru": "Ост-Индская компания (EIC) контролировала торговлю в Индии."
+      },
+      {
+        "de": "England gründete Kolonien in Afrika und Australien.",
+        "ru": "Англия основала колонии в Африке и Австралии."
+      },
+      {
+        "de": "Das Reich wurde zu einer der mächtigsten der Welt.",
+        "ru": "Империя стала одной из мощнейших в мире."
+      }
+    ]
+  },
+  {
+    "id": 7038,
+    "question_de": "Was geschah am 14. Juli 1789, das heute als Nationalfeiertag in Frankreich gefeiert wird?",
+    "question_ru": "Что произошло 14 июля 1789 года, что сегодня отмечается как национальный праздник Франции?",
+    "correct_answer_de": "Sturm auf die Bastille",
+    "correct_answer_ru": "Штурм Бастилии",
+    "wrong_answers_de": [
+      "Hinrichtung des Königs",
+      "Ausrufung der Ersten Republik",
+      "Verabschiedung der Erklärung der Menschenrechte"
+    ],
+    "wrong_answers_ru": [
+      "Казнь короля",
+      "Провозглашение Первой республики",
+      "Принятие Декларации прав человека"
+    ],
+    "explanation_de": "Der Sturm auf die Bastille am 14. Juli 1789 gilt als Symbol des Beginns der Französischen Revolution.",
+    "explanation_ru": "Штурм Бастилии 14 июля 1789 года считается символом начала Французской революции.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1789 CE",
+    "tags": [
+      "Französische Revolution",
+      "Frankreich"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Bastille galt als Symbol des königlichen Despotismus – dabei saßen am Tag des Sturms nur sieben Gefangene darin.",
+        "ru": "Бастилия считалась символом королевского деспотизма — однако в день штурма в ней находилось всего семь заключённых."
+      },
+      {
+        "de": "Der 14. Juli ist bis heute der französische Nationalfeiertag.",
+        "ru": "14 июля по сей день является национальным праздником Франции."
+      },
+      {
+        "de": "Nach dem Sturm wurde die Bastille innerhalb weniger Monate völlig abgerissen.",
+        "ru": "После штурма Бастилия была полностью снесена в течение нескольких месяцев."
+      }
+    ]
+  },
+  {
+    "id": 7039,
+    "question_de": "Welcher britische Seefahrer erkundete im 18. Jahrhundert Australien, Neuseeland und die Südseeinseln?",
+    "question_ru": "Какой британский мореплаватель в XVIII веке исследовал Австралию, Новую Зеландию и острова Тихого океана?",
+    "correct_answer_de": "James Cook",
+    "correct_answer_ru": "Джеймс Кук",
+    "wrong_answers_de": [
+      "Francis Drake",
+      "Walter Raleigh",
+      "Henry Hudson"
+    ],
+    "wrong_answers_ru": [
+      "Фрэнсис Дрейк",
+      "Уолтер Рэли",
+      "Генри Гудзон"
+    ],
+    "explanation_de": "James Cook führte drei große Weltreisen durch und erstellte genaue Karten der Südsee und Australiens.",
+    "explanation_ru": "Джеймс Кук совершил три кругосветных экспедиции и составил точные карты Тихого океана и Австралии.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1770 CE",
+    "tags": [
+      "England",
+      "Entdeckungen"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Cook war der erste Europäer, der die Ostküste Australiens kartierte und für England beanspruchte.",
+        "ru": "Кук был первым европейцем, который нанёс на карту восточное побережье Австралии и объявил его собственностью Англии."
+      },
+      {
+        "de": "Er wurde 1779 auf Hawaii bei einem Streit mit Einheimischen getötet.",
+        "ru": "В 1779 году он был убит на Гавайях во время конфликта с местными жителями."
+      },
+      {
+        "de": "Cook führte insgesamt drei große Weltreisen durch und erstellte genaue Seekarten der Südsee.",
+        "ru": "Кук совершил в общей сложности три большие кругосветные экспедиции и составил точные морские карты Южных морей."
+      }
+    ]
+  },
+  {
+    "id": 7040,
+    "question_de": "In welchem Jahrhundert begann in Europa die Epoche der Aufklärung?",
+    "question_ru": "В каком веке в Европе началась эпоха Просвещения?",
+    "correct_answer_de": "18. Jh.",
+    "correct_answer_ru": "XVIII",
+    "wrong_answers_de": [
+      "16. Jh.",
+      "17. Jh.",
+      "19. Jh."
+    ],
+    "wrong_answers_ru": [
+      "XVI",
+      "XVII",
+      "XIX"
+    ],
+    "explanation_de": "Die Aufklärung begann im 18. Jahrhundert und verband Rationalismus, Wissenschaft und Kritik an traditioneller Autorität.",
+    "explanation_ru": "Эпоха Просвещения началась в XVIII веке и соединила рационализм, науку и критику традиционных авторитетов.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1750 CE",
+    "tags": [
+      "Aufklärung",
+      "Philosophie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Aufklärer wie Voltaire und Kant prägten die Epoche.",
+        "ru": "Такие мыслители, как Вольтер и Кант, определили облик эпохи."
+      },
+      {
+        "de": "Bildung und Wissenschaft gewannen an Bedeutung.",
+        "ru": "Образование и наука приобрели особое значение."
+      },
+      {
+        "de": "Aufklärungsideen beeinflussten die Französische Revolution.",
+        "ru": "Идеи Просвещения повлияли на Французскую революцию."
+      }
+    ]
+  },
+  {
+    "id": 7041,
+    "question_de": "Welcher Krieg von 1756–1763 wurde in Europa zum globalen Konflikt zwischen den Großmächten?",
+    "question_ru": "Какая война 1756–1763 гг. стала в Европе глобальным конфликтом между великими державами?",
+    "correct_answer_de": "Siebenjähriger Krieg",
+    "correct_answer_ru": "Семилетняя война",
+    "wrong_answers_de": [
+      "Dreißigjähriger Krieg",
+      "Spanischer Erbfolgekrieg",
+      "Napoleonische Kriege"
+    ],
+    "wrong_answers_ru": [
+      "Тридцатилетняя война",
+      "Война за испанское наследство",
+      "Наполеоновские войны"
+    ],
+    "explanation_de": "Der Siebenjährige Krieg wurde zwischen europäischen Mächten ausgetragen und erstreckte sich auch auf Amerika und Asien.",
+    "explanation_ru": "Семилетняя война велась между европейскими державами и охватила Европу, Америку и Азию.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1759 CE",
+    "tags": [
+      "Siebenjähriger Krieg",
+      "Kriege"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Krieg führte zur Neuverteilung von Kolonien.",
+        "ru": "Война привела к перераспределению колоний."
+      },
+      {
+        "de": "England gewann bedeutende Gebiete in Nordamerika.",
+        "ru": "Англия получила обширные территории в Северной Америке."
+      },
+      {
+        "de": "Er gilt als erster „Weltkrieg” der Neuzeit.",
+        "ru": "Он считается первой «мировой войной» Нового времени."
+      }
+    ]
+  },
+  {
+    "id": 7042,
+    "question_de": "Welche Macht wurde im 18. Jahrhundert zum Hauptrivalen Englands in Kolonialhandel und Kriegen?",
+    "question_ru": "Какая держава в XVIII веке стала главным соперником Англии в колониальной торговле и войнах?",
+    "correct_answer_de": "Frankreich",
+    "correct_answer_ru": "Франция",
+    "wrong_answers_de": [
+      "Spanien",
+      "Portugal",
+      "Niederlande"
+    ],
+    "wrong_answers_ru": [
+      "Испания",
+      "Португалия",
+      "Нидерланды"
+    ],
+    "explanation_de": "Frankreich wurde im 18. Jahrhundert zum wichtigsten Rivalen Englands in Kolonialhandel und Seekriegen.",
+    "explanation_ru": "Франция в XVIII веке стала главным соперником Англии в колониальной торговле и морских войнах.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1750 CE",
+    "tags": [
+      "Frankreich",
+      "England"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Beide Mächte kämpften um Kolonien in Amerika und Asien.",
+        "ru": "Обе державы воевали за колонии в Америке и Азии."
+      },
+      {
+        "de": "Frankreich verlor viele Kolonien in den Kriegen.",
+        "ru": "Франция потеряла многие колонии в ходе этих войн."
+      },
+      {
+        "de": "Die Rivalität prägte die europäische Politik des Jahrhunderts.",
+        "ru": "Соперничество определяло европейскую политику на протяжении всего века."
+      }
+    ]
+  },
+  {
+    "id": 7043,
+    "question_de": "Welche Revolution von 1688 in England beschränkte die Königsmacht und stärkte das Parlament?",
+    "question_ru": "Какая революция 1688 года в Англии ограничила власть монарха и укрепила парламент?",
+    "correct_answer_de": "Glorreiche Revolution",
+    "correct_answer_ru": "Славная революция",
+    "wrong_answers_de": [
+      "Englische Revolution",
+      "Französische Revolution",
+      "Amerikanische Revolution"
+    ],
+    "wrong_answers_ru": [
+      "Английская революция",
+      "Французская революция",
+      "Американская революция"
+    ],
+    "explanation_de": "Die Glorreiche Revolution von 1688 machte die englische Monarchie konstitutionell und stärkte das Parlament.",
+    "explanation_ru": "Славная революция 1688 года превратила английскую монархию в конституционную и укрепила парламент.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1688 CE",
+    "tags": [
+      "England",
+      "Parlament"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Monarchie wurde nicht absolut, sondern verfassungsgebunden.",
+        "ru": "Монархия стала не абсолютной, а конституционной."
+      },
+      {
+        "de": "Wilhelm von Oranien und Maria II. übernahmen die Krone.",
+        "ru": "Вильгельм Оранский и Мария II заняли английский престол."
+      },
+      {
+        "de": "Die Revolution legte Grundlagen der modernen Demokratie.",
+        "ru": "Революция заложила основы современной демократии."
+      }
+    ]
+  },
+  {
+    "id": 7044,
+    "question_de": "Welche Macht gründete im 17. Jahrhundert die East India Company (EIC) und kontrollierte den Handel in Indien?",
+    "question_ru": "Какая держава в XVII веке основала Ост-Индскую компанию (EIC) и контролировала торговлю в Индии?",
+    "correct_answer_de": "England",
+    "correct_answer_ru": "Англия",
+    "wrong_answers_de": [
+      "Spanien",
+      "Portugal",
+      "Frankreich"
+    ],
+    "wrong_answers_ru": [
+      "Испания",
+      "Португалия",
+      "Франция"
+    ],
+    "explanation_de": "England gründete die East India Company, die den Handel in Indien dominierte.",
+    "explanation_ru": "Англия основала Ост-Индскую компанию, которая доминировала в торговле с Индией.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1650 CE",
+    "tags": [
+      "England",
+      "Indien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die EIC wurde zur Basis des britischen Kolonialreichs.",
+        "ru": "EIC стала основой британской колониальной империи."
+      },
+      {
+        "de": "Sie kontrollierte Gewürze, Textilien und Rohstoffe.",
+        "ru": "Компания контролировала торговлю пряностями, тканями и сырьём."
+      },
+      {
+        "de": "Die Kompanie übte politische Macht in Indien aus.",
+        "ru": "Компания осуществляла политическую власть в Индии."
+      }
+    ]
+  },
+  {
+    "id": 7045,
+    "question_de": "In welchem Jahrhundert begann in Europa die Epoche des Kolonialismus?",
+    "question_ru": "В каком веке в Европе началась эпоха колониализма?",
+    "correct_answer_de": "15. Jh.",
+    "correct_answer_ru": "XV",
+    "wrong_answers_de": [
+      "16. Jh.",
+      "10. Jh.",
+      "17. Jh."
+    ],
+    "wrong_answers_ru": [
+      "XVI",
+      "X",
+      "XVII"
+    ],
+    "explanation_de": "Der europäische Kolonialismus begann im 15. Jahrhundert mit neuen Seewegen und Kolonien.",
+    "explanation_ru": "Европейский колониализм начался в XV веке с открытием новых морских путей и основанием колоний.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1475 CE",
+    "tags": [
+      "Kolonialismus",
+      "Epochen"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Portugal und Spanien kolonisierten Afrika und Amerika.",
+        "ru": "Португалия и Испания колонизировали Африку и Америку."
+      },
+      {
+        "de": "Kolonialismus veränderte Ressourcen- und Bevölkerungsströme.",
+        "ru": "Колониализм изменил потоки ресурсов и людей по всему миру."
+      },
+      {
+        "de": "Die Kolonisierung veränderte die Weltwirtschaft nachhaltig.",
+        "ru": "Колонизация навсегда изменила мировую экономику."
+      }
+    ]
+  },
+  {
+    "id": 7046,
+    "question_de": "Was versteht man unter dem Begriff „Merkantilismus” in der Wirtschaftspolitik der Frühen Neuzeit?",
+    "question_ru": "Что понимается под термином «меркантилизм» в экономической политике Раннего Нового времени?",
+    "correct_answer_de": "Staatliche Förderung des Exports und Ansammlung von Edelmetallen",
+    "correct_answer_ru": "Государственное поощрение экспорта и накопление драгоценных металлов",
+    "wrong_answers_de": [
+      "Freier Handel ohne staatliche Eingriffe",
+      "Verteilung des Landes an Bauern",
+      "Kirchliche Kontrolle der Wirtschaft"
+    ],
+    "wrong_answers_ru": [
+      "Свободная торговля без государственного вмешательства",
+      "Распределение земли среди крестьян",
+      "Церковный контроль над экономикой"
+    ],
+    "explanation_de": "Merkantilismus war die vorherrschende Wirtschaftspolitik der Frühen Neuzeit: Staaten förderten Exporte, begrenzten Importe und sammelten Edelmetalle an.",
+    "explanation_ru": "Меркантилизм — господствующая экономическая политика Раннего Нового времени: государства поощряли экспорт, ограничивали импорт и накапливали драгоценные металлы.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1650 CE",
+    "tags": [
+      "Wirtschaft",
+      "Handelspolitik"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Ludwig XIV. und sein Minister Colbert machten Frankreich zum Vorbild merkantilistischer Politik.",
+        "ru": "Людовик XIV и его министр Кольбер превратили Францию в образец меркантилистской политики."
+      },
+      {
+        "de": "Kolonien galten als Rohstofflieferanten für das Mutterland – und als geschlossene Absatzmärkte.",
+        "ru": "Колонии рассматривались как поставщики сырья для метрополии и как закрытые рынки сбыта."
+      },
+      {
+        "de": "Der Merkantilismus wurde im 18. Jahrhundert durch Adam Smiths Ideen des freien Marktes herausgefordert.",
+        "ru": "В XVIII веке меркантилизм был оспорен идеями Адама Смита о свободном рынке."
+      }
+    ]
+  },
+  {
+    "id": 7047,
+    "question_de": "Welcher Krieg von 1740–1748 in Europa drehte sich um die österreichische Thronfolge?",
+    "question_ru": "Какая война 1740–1748 гг. в Европе велась из-за спора о наследовании австрийского престола?",
+    "correct_answer_de": "Österreichischer Erbfolgekrieg",
+    "correct_answer_ru": "Война за австрийское наследство",
+    "wrong_answers_de": [
+      "Dreißigjähriger Krieg",
+      "Siebenjähriger Krieg",
+      "Spanischer Erbfolgekrieg"
+    ],
+    "wrong_answers_ru": [
+      "Тридцатилетняя война",
+      "Семилетняя война",
+      "Война за испанское наследство"
+    ],
+    "explanation_de": "Der Österreichische Erbfolgekrieg wurde zwischen europäischen Mächten um Einfluss auf Österreich geführt.",
+    "explanation_ru": "Война за австрийское наследство велась между европейскими державами за влияние над Австрией.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1744 CE",
+    "tags": [
+      "Österreich",
+      "Kriege"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Konflikt veränderte Machtverhältnisse in Europa.",
+        "ru": "Конфликт изменил расстановку сил в Европе."
+      },
+      {
+        "de": "Maria Theresia verteidigte erfolgreich ihren Anspruch auf den Habsburger Thron.",
+        "ru": "Мария Терезия успешно отстояла своё право на габсбургский престол."
+      },
+      {
+        "de": "Der Krieg war Teil der Rivalität um die Hegemonie und führte direkt zum Siebenjährigen Krieg.",
+        "ru": "Война была частью борьбы за гегемонию и непосредственно привела к Семилетней войне."
+      }
+    ]
+  }
+]

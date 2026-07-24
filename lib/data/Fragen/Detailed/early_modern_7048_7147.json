@@ -1,0 +1,4119 @@
+[
+  {
+    "id": 7048,
+    "question_de": "Wer führte 1519–1522 die erste Weltumsegelung durch, auch wenn er selbst sie nicht überlebte?",
+    "question_ru": "Кто в 1519–1522 гг. возглавил первое кругосветное плавание, хотя и не пережил его?",
+    "correct_answer_de": "Ferdinand Magellan",
+    "correct_answer_ru": "Фернан Магеллан",
+    "wrong_answers_de": [
+      "Vasco da Gama",
+      "Francis Drake",
+      "James Cook"
+    ],
+    "wrong_answers_ru": [
+      "Васко да Гама",
+      "Фрэнсис Дрейк",
+      "Джеймс Кук"
+    ],
+    "explanation_de": "Ferdinand Magellan startete die erste Weltumsegelung, wurde aber auf den Philippinen getötet. Sein Offizier Elcano brachte das letzte Schiff nach Spanien zurück.",
+    "explanation_ru": "Фернан Магеллан начал первое кругосветное плавание, но был убит на Филиппинах. Его офицер Элькано довёл последний корабль до Испании.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1520 CE",
+    "tags": [
+      "Entdeckungen",
+      "Seefahrt"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Von 270 Mann der Besatzung kehrten nur 18 nach Spanien zurück.",
+        "ru": "Из 270 членов экипажа в Испанию вернулись лишь 18 человек."
+      },
+      {
+        "de": "Magellan bewies als Erster praktisch, dass die Erde eine Kugel ist.",
+        "ru": "Магеллан первым практически доказал, что Земля является шаром."
+      },
+      {
+        "de": "Die Reise dauerte drei Jahre und umrundete den gesamten Globus.",
+        "ru": "Путешествие длилось три года и охватило весь земной шар."
+      }
+    ]
+  },
+  {
+    "id": 7049,
+    "question_de": "Welcher Reformator machte Genf im 16. Jahrhundert zu einem Zentrum des Protestantismus?",
+    "question_ru": "Какой реформатор превратил Женеву в XVI веке в центр протестантизма?",
+    "correct_answer_de": "Johannes Calvin",
+    "correct_answer_ru": "Жан Кальвин",
+    "wrong_answers_de": [
+      "Huldrych Zwingli",
+      "Martin Luther",
+      "Thomas Müntzer"
+    ],
+    "wrong_answers_ru": [
+      "Ульрих Цвингли",
+      "Мартин Лютер",
+      "Томас Мюнцер"
+    ],
+    "explanation_de": "Johannes Calvin verwandelte Genf in eine protestantische Musterstadt mit strenger Kirchenzucht und Bibelauslegung.",
+    "explanation_ru": "Жан Кальвин превратил Женеву в образцовый протестантский город со строгой церковной дисциплиной.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1550 CE",
+    "tags": [
+      "Reformation",
+      "Schweiz"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Calvin lehrte die Prädestination: Gott hat schon vor der Geburt bestimmt, wer gerettet wird.",
+        "ru": "Кальвин учил о предопределении: Бог ещё до рождения определил, кто будет спасён."
+      },
+      {
+        "de": "In Genf waren Tanz, Glücksspiel und bunte Kleidung verboten.",
+        "ru": "В Женеве были запрещены танцы, азартные игры и яркая одежда."
+      },
+      {
+        "de": "Der Calvinismus verbreitete sich in den Niederlanden, Schottland und Teilen Deutschlands.",
+        "ru": "Кальвинизм распространился в Нидерландах, Шотландии и части Германии."
+      }
+    ]
+  },
+  {
+    "id": 7050,
+    "question_de": "Warum trennte sich König Heinrich VIII. von England im Jahr 1534 von der katholischen Kirche?",
+    "question_ru": "Почему король Генрих VIII Английский в 1534 году отделился от католической церкви?",
+    "correct_answer_de": "Der Papst verweigerte die Scheidung von seiner ersten Frau",
+    "correct_answer_ru": "Папа отказал ему в разводе с первой женой",
+    "wrong_answers_de": [
+      "Er wollte Lutheraner werden",
+      "Er wollte Kirchengüter beschlagnahmen",
+      "Er wurde vom Papst exkommuniziert"
+    ],
+    "wrong_answers_ru": [
+      "Он хотел стать лютеранином",
+      "Он хотел конфисковать церковное имущество",
+      "Он был отлучён папой"
+    ],
+    "explanation_de": "Heinrich VIII. wollte die Ehe mit Katharina von Aragon annullieren. Als der Papst das verweigerte, gründete er die anglikanische Kirche mit sich selbst als Oberhaupt.",
+    "explanation_ru": "Генрих VIII хотел аннулировать брак с Екатериной Арагонской. Когда папа отказал, он основал Англиканскую церковь и сам стал её главой.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1534 CE",
+    "tags": [
+      "England",
+      "Reformation"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Heinrich VIII. war insgesamt sechsmal verheiratet.",
+        "ru": "Генрих VIII был женат в общей сложности шесть раз."
+      },
+      {
+        "de": "Zwei seiner Frauen wurden hingerichtet, darunter Anne Boleyn.",
+        "ru": "Двое из его жён были казнены, в том числе Анна Болейн."
+      },
+      {
+        "de": "Er ließ Hunderte von Klöstern auflösen und deren Vermögen einziehen.",
+        "ru": "Он распустил сотни монастырей и конфисковал их имущество."
+      }
+    ]
+  },
+  {
+    "id": 7051,
+    "question_de": "In welchem Jahrhundert erreichten die Hexenverfolgungen in Europa ihren Höhepunkt?",
+    "question_ru": "В каком веке преследования ведьм в Европе достигли своего пика?",
+    "correct_answer_de": "17. Jh.",
+    "correct_answer_ru": "XVII",
+    "wrong_answers_de": [
+      "13. Jh.",
+      "15. Jh.",
+      "19. Jh."
+    ],
+    "wrong_answers_ru": [
+      "XIII",
+      "XV",
+      "XIX"
+    ],
+    "explanation_de": "Die Hexenverfolgungen erreichten zwischen 1580 und 1680 ihren Höhepunkt, besonders in deutschen Territorien.",
+    "explanation_ru": "Преследования ведьм достигли пика между 1580 и 1680 годами, особенно на германских территориях.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1630 CE",
+    "tags": [
+      "Gesellschaft",
+      "Religion"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Historiker schätzen, dass zwischen 40 000 und 60 000 Menschen als Hexen hingerichtet wurden.",
+        "ru": "Историки оценивают число казнённых как ведьм в 40 000–60 000 человек."
+      },
+      {
+        "de": "Etwa 75–80 % der Hingerichteten waren Frauen.",
+        "ru": "Около 75–80 % казнённых составляли женщины."
+      },
+      {
+        "de": "Das Handbuch 'Malleus Maleficarum' (1487) lieferte die theologische Grundlage für Hexenprozesse.",
+        "ru": "Руководство «Молот ведьм» (1487) заложило богословскую основу для судебных процессов над ведьмами."
+      }
+    ]
+  },
+  {
+    "id": 7052,
+    "question_de": "Warum wurde Galileo Galilei 1633 von der Inquisition verurteilt?",
+    "question_ru": "Почему Галилео Галилей был осуждён инквизицией в 1633 году?",
+    "correct_answer_de": "Er verteidigte das heliozentrische Weltbild",
+    "correct_answer_ru": "Он защищал гелиоцентрическую систему мира",
+    "wrong_answers_de": [
+      "Er erfand eine Waffe",
+      "Er leugnete die Bibel",
+      "Er praktizierte Alchemie"
+    ],
+    "wrong_answers_ru": [
+      "Он изобрёл оружие",
+      "Он отрицал Библию",
+      "Он занимался алхимией"
+    ],
+    "explanation_de": "Galilei verteidigte die Lehre des Kopernikus, dass die Erde sich um die Sonne dreht, und wurde dafür vom Kirchengericht verurteilt.",
+    "explanation_ru": "Галилей отстаивал учение Коперника о вращении Земли вокруг Солнца и был за это осуждён церковным судом.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1633 CE",
+    "tags": [
+      "Wissenschaft",
+      "Kirche"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Galilei stand unter Hausarrest bis zu seinem Tod 1642.",
+        "ru": "Галилей находился под домашним арестом вплоть до своей смерти в 1642 году."
+      },
+      {
+        "de": "Er verbesserte das Teleskop und entdeckte vier Monde des Jupiters.",
+        "ru": "Он усовершенствовал телескоп и открыл четыре спутника Юпитера."
+      },
+      {
+        "de": "Die Kirche rehabilitierte Galilei offiziell erst 1992.",
+        "ru": "Церковь официально реабилитировала Галилея лишь в 1992 году."
+      }
+    ]
+  },
+  {
+    "id": 7053,
+    "question_de": "Welcher Astronom entdeckte Anfang des 17. Jahrhunderts die Gesetze der Planetenbewegung?",
+    "question_ru": "Какой астроном в начале XVII века открыл законы движения планет?",
+    "correct_answer_de": "Johannes Kepler",
+    "correct_answer_ru": "Иоганн Кеплер",
+    "wrong_answers_de": [
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "wrong_answers_ru": [
+      "Тихо Браге",
+      "Галилео Галилей",
+      "Исаак Ньютон"
+    ],
+    "explanation_de": "Johannes Kepler formulierte drei Gesetze, die die elliptischen Bahnen der Planeten um die Sonne beschreiben.",
+    "explanation_ru": "Иоганн Кеплер сформулировал три закона, описывающих эллиптические орбиты планет вокруг Солнца.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1610 CE",
+    "tags": [
+      "Wissenschaft",
+      "Astronomie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Keplers erstes Gesetz besagt, dass Planeten auf Ellipsen um die Sonne kreisen, nicht auf Kreisen.",
+        "ru": "Первый закон Кеплера гласит, что планеты движутся по эллипсам вокруг Солнца, а не по окружностям."
+      },
+      {
+        "de": "Er arbeitete mit den genauen Beobachtungsdaten von Tycho Brahe.",
+        "ru": "Он работал с точными наблюдательными данными Тихо Браге."
+      },
+      {
+        "de": "Isaac Newton nutzte Keplers Gesetze später als Grundlage für seine Gravitationstheorie.",
+        "ru": "Исаак Ньютон позднее использовал законы Кеплера как основу своей теории гравитации."
+      }
+    ]
+  },
+  {
+    "id": 7054,
+    "question_de": "Welches Werk von Isaac Newton (1687) legte die Grundlagen der klassischen Mechanik und der Gravitationstheorie?",
+    "question_ru": "Какой труд Исаака Ньютона (1687) заложил основы классической механики и теории гравитации?",
+    "correct_answer_de": "Principia Mathematica",
+    "correct_answer_ru": "«Начала» (Principia Mathematica)",
+    "wrong_answers_de": [
+      "Opticks",
+      "De revolutionibus",
+      "Novum Organum"
+    ],
+    "wrong_answers_ru": [
+      "«Оптика»",
+      "«De revolutionibus»",
+      "«Новый Органон»"
+    ],
+    "explanation_de": "Newtons „Principia Mathematica\" beschrieb die Gesetze der Bewegung und die universelle Gravitation.",
+    "explanation_ru": "«Начала» Ньютона описывали законы движения и всеобщее тяготение.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1687 CE",
+    "tags": [
+      "Wissenschaft",
+      "Physik"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Newton formulierte das Gesetz der universellen Gravitation: Alle Körper ziehen sich gegenseitig an.",
+        "ru": "Ньютон сформулировал закон всемирного тяготения: все тела притягивают друг друга."
+      },
+      {
+        "de": "Die Legende vom Apfel, der Newton auf die Idee der Schwerkraft brachte, ist wahrscheinlich eine Vereinfachung.",
+        "ru": "Легенда о яблоке, натолкнувшем Ньютона на идею тяготения, вероятно, является упрощением."
+      },
+      {
+        "de": "Newton war auch Alchemist und schrieb mehr über Theologie als über Physik.",
+        "ru": "Ньютон был также алхимиком и написал по богословию больше, чем по физике."
+      }
+    ]
+  },
+  {
+    "id": 7055,
+    "question_de": "Welcher Philosoph prägte den Satz „Cogito, ergo sum\" – „Ich denke, also bin ich\"?",
+    "question_ru": "Какой философ произнёс знаменитую фразу «Cogito, ergo sum» — «Я мыслю, следовательно, я существую»?",
+    "correct_answer_de": "René Descartes",
+    "correct_answer_ru": "Рене Декарт",
+    "wrong_answers_de": [
+      "John Locke",
+      "Baruch Spinoza",
+      "Gottfried Leibniz"
+    ],
+    "wrong_answers_ru": [
+      "Джон Локк",
+      "Барух Спиноза",
+      "Готфрид Лейбниц"
+    ],
+    "explanation_de": "René Descartes stellte alles Wissen in Frage und fand im eigenen Denken den einzigen sicheren Beweis der Existenz.",
+    "explanation_ru": "Рене Декарт подверг сомнению все знания и нашёл в собственном мышлении единственное надёжное доказательство существования.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1640 CE",
+    "tags": [
+      "Philosophie",
+      "Aufklärung"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Descartes trennte streng zwischen Körper und Geist – das nennt man „kartesischen Dualismus\".",
+        "ru": "Декарт строго разделял тело и разум — это называется «картезианским дуализмом»."
+      },
+      {
+        "de": "Er entwickelte auch das kartesische Koordinatensystem, das heute noch in der Mathematik genutzt wird.",
+        "ru": "Он также разработал декартову систему координат, которая используется в математике по сей день."
+      },
+      {
+        "de": "Descartes lebte lange in den Niederlanden, weil er dort freier denken und publizieren konnte.",
+        "ru": "Декарт долгое время жил в Нидерландах, где мог свободнее думать и публиковаться."
+      }
+    ]
+  },
+  {
+    "id": 7056,
+    "question_de": "Welcher englische Philosoph des 17. Jahrhunderts begründete die Theorie der natürlichen Rechte und der Gewaltenteilung?",
+    "question_ru": "Какой английский философ XVII века обосновал теорию естественных прав и разделения властей?",
+    "correct_answer_de": "John Locke",
+    "correct_answer_ru": "Джон Локк",
+    "wrong_answers_de": [
+      "Thomas Hobbes",
+      "Francis Bacon",
+      "David Hume"
+    ],
+    "wrong_answers_ru": [
+      "Томас Гоббс",
+      "Фрэнсис Бэкон",
+      "Дэвид Юм"
+    ],
+    "explanation_de": "John Locke lehrte, dass Menschen von Natur aus Rechte auf Leben, Freiheit und Eigentum haben, und beeinflusste die amerikanische Unabhängigkeitserklärung.",
+    "explanation_ru": "Джон Локк учил, что люди от природы обладают правами на жизнь, свободу и собственность, и повлиял на американскую Декларацию независимости.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1690 CE",
+    "tags": [
+      "Philosophie",
+      "Politik"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Locke glaubte, ein neugeborenes Kind sei wie ein leeres Blatt Papier – alle Ideen kommen aus Erfahrung.",
+        "ru": "Локк считал, что новорождённый ребёнок — как чистый лист бумаги: все идеи возникают из опыта."
+      },
+      {
+        "de": "Seine Ideen flossen direkt in die amerikanische Verfassung und die Unabhängigkeitserklärung ein.",
+        "ru": "Его идеи непосредственно вошли в американскую конституцию и Декларацию независимости."
+      },
+      {
+        "de": "Locke war auch Arzt und arbeitete als Sekretär für den Earl of Shaftesbury.",
+        "ru": "Локк был также врачом и работал секретарём у графа Шефтсбери."
+      }
+    ]
+  },
+  {
+    "id": 7057,
+    "question_de": "Welcher englische Philosoph beschrieb im Werk „Leviathan\" (1651) den Staat als notwendiges Übel gegen den Naturzustand?",
+    "question_ru": "Какой английский философ в труде «Левиафан» (1651) описал государство как необходимое зло против естественного состояния?",
+    "correct_answer_de": "Thomas Hobbes",
+    "correct_answer_ru": "Томас Гоббс",
+    "wrong_answers_de": [
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Montesquieu"
+    ],
+    "wrong_answers_ru": [
+      "Джон Локк",
+      "Жан-Жак Руссо",
+      "Монтескьё"
+    ],
+    "explanation_de": "Thomas Hobbes beschrieb das Leben ohne Staat als „solitary, poor, nasty, brutish, and short\" und forderte einen starken Souverän.",
+    "explanation_ru": "Томас Гоббс описал жизнь без государства как «одинокую, бедную, отвратительную, жестокую и короткую» и требовал сильного суверена.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1651 CE",
+    "tags": [
+      "Philosophie",
+      "Politik"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Hobbes schrieb den Leviathan während des englischen Bürgerkriegs im Exil in Frankreich.",
+        "ru": "Гоббс написал «Левиафан» во время английской гражданской войны, находясь в эмиграции во Франции."
+      },
+      {
+        "de": "Der Titel „Leviathan\" kommt aus der Bibel – ein mächtiges Seeungeheuer symbolisiert den Staat.",
+        "ru": "Название «Левиафан» взято из Библии — мощное морское чудовище символизирует государство."
+      },
+      {
+        "de": "Im Gegensatz zu Locke glaubte Hobbes, Menschen seien von Natur aus egoistisch und böse.",
+        "ru": "В отличие от Локка, Гоббс считал, что люди по природе эгоистичны и злы."
+      }
+    ]
+  },
+  {
+    "id": 7058,
+    "question_de": "Welcher Philosoph der Aufklärung schrieb „Der Gesellschaftsvertrag\" und beeinflusste die Französische Revolution?",
+    "question_ru": "Какой философ Просвещения написал «Общественный договор» и повлиял на Французскую революцию?",
+    "correct_answer_de": "Jean-Jacques Rousseau",
+    "correct_answer_ru": "Жан-Жак Руссо",
+    "wrong_answers_de": [
+      "Voltaire",
+      "Denis Diderot",
+      "Montesquieu"
+    ],
+    "wrong_answers_ru": [
+      "Вольтер",
+      "Дени Дидро",
+      "Монтескьё"
+    ],
+    "explanation_de": "Rousseau lehrte, dass politische Autorität vom Willen des Volkes ausgeht – eine Idee, die die Revolutionäre von 1789 begeisterte.",
+    "explanation_ru": "Руссо учил, что политическая власть исходит из воли народа — идея, воодушевившая революционеров 1789 года.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1762 CE",
+    "tags": [
+      "Philosophie",
+      "Aufklärung"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Rousseau glaubte, der Mensch sei von Natur aus gut – die Gesellschaft mache ihn schlecht.",
+        "ru": "Руссо считал, что человек по природе добр — общество его портит."
+      },
+      {
+        "de": "Er gab alle seine fünf Kinder in ein Waisenhaus – ein Widerspruch zu seinen Erziehungstheorien.",
+        "ru": "Он отдал всех пятерых детей в приют — что противоречит его педагогическим теориям."
+      },
+      {
+        "de": "Robespierres Terrorherrschaft berief sich auf Rousseaus Begriff des „Gemeinwillens\".",
+        "ru": "Террористическое правление Робеспьера опиралось на концепцию Руссо о «общей воле»."
+      }
+    ]
+  },
+  {
+    "id": 7059,
+    "question_de": "Welcher französische Philosoph entwickelte in „Vom Geist der Gesetze\" (1748) das Prinzip der Gewaltenteilung?",
+    "question_ru": "Какой французский философ разработал в труде «О духе законов» (1748) принцип разделения властей?",
+    "correct_answer_de": "Montesquieu",
+    "correct_answer_ru": "Монтескьё",
+    "wrong_answers_de": [
+      "Voltaire",
+      "Rousseau",
+      "Locke"
+    ],
+    "wrong_answers_ru": [
+      "Вольтер",
+      "Руссо",
+      "Локк"
+    ],
+    "explanation_de": "Montesquieu forderte die Trennung von gesetzgebender, ausführender und richterlicher Gewalt, um Machtmissbrauch zu verhindern.",
+    "explanation_ru": "Монтескьё требовал разделения законодательной, исполнительной и судебной власти для предотвращения злоупотреблений.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1748 CE",
+    "tags": [
+      "Philosophie",
+      "Aufklärung"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Prinzip der Gewaltenteilung ist heute die Grundlage fast aller demokratischen Verfassungen.",
+        "ru": "Принцип разделения властей сегодня лежит в основе почти всех демократических конституций."
+      },
+      {
+        "de": "Montesquieu reiste durch Europa und bewunderte das englische Verfassungssystem.",
+        "ru": "Монтескьё путешествовал по Европе и восхищался английской конституционной системой."
+      },
+      {
+        "de": "„Vom Geist der Gesetze\" wurde sofort auf den Index der verbotenen Bücher der Kirche gesetzt.",
+        "ru": "«О духе законов» был немедленно внесён в церковный список запрещённых книг."
+      }
+    ]
+  },
+  {
+    "id": 7060,
+    "question_de": "In welcher Stadt und in welchem berühmten Theater führte William Shakespeare seine Stücke auf?",
+    "question_ru": "В каком городе и каком знаменитом театре Уильям Шекспир ставил свои пьесы?",
+    "correct_answer_de": "London – Globe Theatre",
+    "correct_answer_ru": "Лондон — театр «Глобус»",
+    "wrong_answers_de": [
+      "Paris – Comédie-Française",
+      "Wien – Burgtheater",
+      "Florenz – Teatro Medici"
+    ],
+    "wrong_answers_ru": [
+      "Париж — «Комеди Франсез»",
+      "Вена — Бургтеатр",
+      "Флоренция — Театр Медичи"
+    ],
+    "explanation_de": "Shakespeare schrieb und spielte am Globe Theatre in London, das 1599 eröffnet wurde.",
+    "explanation_ru": "Шекспир писал и играл в лондонском театре «Глобус», открытом в 1599 году.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1600 CE",
+    "tags": [
+      "Kultur",
+      "England"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Globe Theatre fasste bis zu 3.000 Zuschauer, die meisten standen im Freien.",
+        "ru": "Театр «Глобус» вмещал до 3000 зрителей, большинство из которых стояли под открытым небом."
+      },
+      {
+        "de": "1613 brannte das Globe Theatre ab, als bei einer Aufführung von Heinrich VIII. Kanonendonner die Rietkrone entzündete.",
+        "ru": "В 1613 году «Глобус» сгорел — во время постановки «Генриха VIII» пушечный залп поджёг соломенную крышу."
+      },
+      {
+        "de": "Shakespeare schrieb etwa 37 Theaterstücke, darunter Hamlet, Othello und Romeo und Julia.",
+        "ru": "Шекспир написал около 37 пьес, в том числе «Гамлет», «Отелло» и «Ромео и Джульетта»."
+      }
+    ]
+  },
+  {
+    "id": 7061,
+    "question_de": "Welcher spanische Autor schrieb mit „Don Quijote\" (1605) einen der ersten und wichtigsten Romane der Weltliteratur?",
+    "question_ru": "Какой испанский автор написал «Дон Кихота» (1605) — один из первых и важнейших романов мировой литературы?",
+    "correct_answer_de": "Miguel de Cervantes",
+    "correct_answer_ru": "Мигель де Сервантес",
+    "wrong_answers_de": [
+      "Lope de Vega",
+      "Francisco de Quevedo",
+      "Calderón de la Barca"
+    ],
+    "wrong_answers_ru": [
+      "Лопе де Вега",
+      "Франсиско де Кеведо",
+      "Кальдерон де ла Барка"
+    ],
+    "explanation_de": "Cervantes' „Don Quijote\" gilt als der erste moderne Roman und erzählt die Geschichte eines Ritters, der Romane für die Wirklichkeit hält.",
+    "explanation_ru": "«Дон Кихот» Сервантеса считается первым современным романом и рассказывает о рыцаре, принимающем романы за действительность.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1605 CE",
+    "tags": [
+      "Kultur",
+      "Spanien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Cervantes schrieb den Don Quijote teilweise im Gefängnis.",
+        "ru": "Сервантес писал «Дон Кихота» частично в тюрьме."
+      },
+      {
+        "de": "Don Quijote ist nach der Bibel das meistübersetzte Buch der Welt.",
+        "ru": "«Дон Кихот» — самая переводимая книга в мире после Библии."
+      },
+      {
+        "de": "Cervantes verlor bei der Seeschlacht von Lepanto die Funktion seiner linken Hand.",
+        "ru": "Сервантес потерял подвижность левой руки в морском сражении при Лепанто."
+      }
+    ]
+  },
+  {
+    "id": 7062,
+    "question_de": "Welcher deutsche Künstler der Renaissance war bekannt für seine Selbstporträts und Kupferstiche?",
+    "question_ru": "Какой немецкий художник эпохи Возрождения прославился автопортретами и гравюрами на меди?",
+    "correct_answer_de": "Albrecht Dürer",
+    "correct_answer_ru": "Альбрехт Дюрер",
+    "wrong_answers_de": [
+      "Lucas Cranach",
+      "Hans Holbein",
+      "Matthias Grünewald"
+    ],
+    "wrong_answers_ru": [
+      "Лукас Кранах",
+      "Ганс Гольбейн",
+      "Матиас Грюневальд"
+    ],
+    "explanation_de": "Albrecht Dürer aus Nürnberg war der bedeutendste deutsche Künstler der Renaissance und revolutionierte den Kupferstich.",
+    "explanation_ru": "Альбрехт Дюрер из Нюрнберга был крупнейшим немецким художником эпохи Возрождения и произвёл революцию в гравюре на меди.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1510 CE",
+    "tags": [
+      "Kunst",
+      "Deutschland"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Dürer malte eines der frühesten bekannten Selbstporträts der Kunstgeschichte.",
+        "ru": "Дюрер создал один из самых ранних известных автопортретов в истории искусства."
+      },
+      {
+        "de": "Er reiste zweimal nach Italien, um die Renaissance-Maltechnik zu studieren.",
+        "ru": "Он дважды ездил в Италию, чтобы изучить технику живописи Возрождения."
+      },
+      {
+        "de": "Sein Kupferstich „Melencolia I\" gilt bis heute als eines der rätselhaftesten Kunstwerke der Geschichte.",
+        "ru": "Его гравюра «Меланхолия I» по сей день считается одним из самых загадочных произведений искусства."
+      }
+    ]
+  },
+  {
+    "id": 7063,
+    "question_de": "Welcher deutsche Komponist des Barock gilt als einer der größten Meister der Kirchenmusik?",
+    "question_ru": "Какой немецкий композитор эпохи барокко считается одним из величайших мастеров церковной музыки?",
+    "correct_answer_de": "Johann Sebastian Bach",
+    "correct_answer_ru": "Иоганн Себастьян Бах",
+    "wrong_answers_de": [
+      "Georg Friedrich Händel",
+      "Antonio Vivaldi",
+      "Henry Purcell"
+    ],
+    "wrong_answers_ru": [
+      "Георг Фридрих Гендель",
+      "Антонио Вивальди",
+      "Генри Пёрселл"
+    ],
+    "explanation_de": "Johann Sebastian Bach komponierte über 1.000 Werke und gilt als Höhepunkt der Barockmusik.",
+    "explanation_ru": "Иоганн Себастьян Бах сочинил более 1000 произведений и считается вершиной барочной музыки.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1720 CE",
+    "tags": [
+      "Musik",
+      "Barock"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Bach hatte 20 Kinder – mehrere davon wurden ebenfalls berühmte Komponisten.",
+        "ru": "У Баха было 20 детей — некоторые из них тоже стали знаменитыми композиторами."
+      },
+      {
+        "de": "Zu seinen Lebzeiten war Bach vor allem als Organist berühmt, nicht als Komponist.",
+        "ru": "При жизни Бах был знаменит прежде всего как органист, а не как композитор."
+      },
+      {
+        "de": "Das Wohltemperierte Klavier enthält Präludien und Fugen in allen 24 Dur- und Moll-Tonarten.",
+        "ru": "«Хорошо темперированный клавир» содержит прелюдии и фуги во всех 24 мажорных и минорных тональностях."
+      }
+    ]
+  },
+  {
+    "id": 7064,
+    "question_de": "Welcher Stil in Kunst und Architektur folgte auf die Renaissance und war gekennzeichnet durch Dramatik und Prunk?",
+    "question_ru": "Какой стиль в искусстве и архитектуре пришёл на смену Ренессансу и отличался драматизмом и пышностью?",
+    "correct_answer_de": "Barock",
+    "correct_answer_ru": "Барокко",
+    "wrong_answers_de": [
+      "Rokoko",
+      "Klassizismus",
+      "Gotik"
+    ],
+    "wrong_answers_ru": [
+      "Рококо",
+      "Классицизм",
+      "Готика"
+    ],
+    "explanation_de": "Der Barock (ca. 1600–1750) zeichnete sich durch dramatische Kontraste, reich verzierte Kirchen und absolute Monarchenpaläste aus.",
+    "explanation_ru": "Барокко (ок. 1600–1750) отличалось драматическими контрастами, богато украшенными церквями и дворцами абсолютных монархов.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1680 CE",
+    "tags": [
+      "Kunst",
+      "Architektur"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Gegenreformation nutzte den Barockstil, um Gläubige durch überwältigende Kirchenräume zu beeindrucken.",
+        "ru": "Контрреформация использовала стиль барокко, чтобы поражать верующих грандиозными церковными интерьерами."
+      },
+      {
+        "de": "Das Wort „Barock\" kommt vom portugiesischen „barroco\" und bedeutet ursprünglich „unregelmäßige Perle\".",
+        "ru": "Слово «барокко» происходит от португальского «barroco» и первоначально означало «неправильная жемчужина»."
+      },
+      {
+        "de": "Versailles, der Petersdom in Rom und viele Wiener Kirchen sind Meisterwerke des Barockstils.",
+        "ru": "Версаль, собор Святого Петра в Риме и многие венские церкви — шедевры барочного стиля."
+      }
+    ]
+  },
+  {
+    "id": 7065,
+    "question_de": "Welcher französische König ließ den Palast von Versailles bauen, um den Adel unter Kontrolle zu halten?",
+    "question_ru": "Какой французский король построил Версальский дворец, чтобы держать дворянство под контролем?",
+    "correct_answer_de": "Ludwig XIV.",
+    "correct_answer_ru": "Людовик XIV",
+    "wrong_answers_de": [
+      "Ludwig XIII.",
+      "Ludwig XV.",
+      "Napoleon I."
+    ],
+    "wrong_answers_ru": [
+      "Людовик XIII",
+      "Людовик XV",
+      "Наполеон I"
+    ],
+    "explanation_de": "Ludwig XIV. ließ Versailles ausbauen und zwang den Hochadel, am Hof zu leben – so konnte er ihn beaufsichtigen.",
+    "explanation_ru": "Людовик XIV расширил Версаль и вынудил высшую знать жить при дворе — так он мог держать её под надзором.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1680 CE",
+    "tags": [
+      "Frankreich",
+      "Architektur"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Im Schloss Versailles lebten zeitweise bis zu 20.000 Menschen.",
+        "ru": "В Версальском дворце одновременно жили до 20 000 человек."
+      },
+      {
+        "de": "Der Spiegelsaal von Versailles hat 357 Spiegel und 20.000 Kerzen.",
+        "ru": "В Зеркальном зале Версаля 357 зеркал и 20 000 свечей."
+      },
+      {
+        "de": "Versailles hatte zunächst keine Toiletten – Adlige benutzten Stühle mit Öffnungen oder die Flure.",
+        "ru": "В Версале поначалу не было туалетов — знать пользовалась стульями с отверстиями или коридорами."
+      }
+    ]
+  },
+  {
+    "id": 7066,
+    "question_de": "Welche Bankiersfamilie aus Augsburg finanzierte im 16. Jahrhundert Kaiser Karl V. und kontrollierte Teile des europäischen Handels?",
+    "question_ru": "Какая банкирская семья из Аугсбурга в XVI веке финансировала императора Карла V и контролировала часть европейской торговли?",
+    "correct_answer_de": "Die Fugger",
+    "correct_answer_ru": "Фуггеры",
+    "wrong_answers_de": [
+      "Die Medici",
+      "Die Rothschild",
+      "Die Bardi"
+    ],
+    "wrong_answers_ru": [
+      "Медичи",
+      "Ротшильды",
+      "Барди"
+    ],
+    "explanation_de": "Die Fugger aus Augsburg waren die mächtigste Bankiersfamilie Europas und finanzierten Könige und Kaiser.",
+    "explanation_ru": "Фуггеры из Аугсбурга были самой влиятельной банкирской семьёй Европы и финансировали королей и императоров.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1530 CE",
+    "tags": [
+      "Wirtschaft",
+      "Deutschland"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Jakob Fugger der Reiche galt als reichster Mensch aller Zeiten in der vormodernen Welt.",
+        "ru": "Якоб Фуггер Богатый считается богатейшим человеком всех времён в домодерном мире."
+      },
+      {
+        "de": "Die Fugger besaßen Silber- und Kupferminen in Tirol, Spanien und Ungarn.",
+        "ru": "Фуггеры владели серебряными и медными рудниками в Тироле, Испании и Венгрии."
+      },
+      {
+        "de": "Jakob Fugger finanzierte die Wahl Karls V. zum Kaiser – und schrieb ihm später Briefe, die Rückzahlung fordernd.",
+        "ru": "Якоб Фуггер финансировал избрание Карла V императором — и позднее писал ему письма с требованием вернуть долг."
+      }
+    ]
+  },
+  {
+    "id": 7067,
+    "question_de": "Welche Stadt gründete 1602 die erste Börse der Welt, an der Aktien der VOC gehandelt wurden?",
+    "question_ru": "В каком городе в 1602 году была основана первая в мире фондовая биржа, где торговали акциями VOC?",
+    "correct_answer_de": "Amsterdam",
+    "correct_answer_ru": "Амстердам",
+    "wrong_answers_de": [
+      "London",
+      "Venedig",
+      "Antwerpen"
+    ],
+    "wrong_answers_ru": [
+      "Лондон",
+      "Венеция",
+      "Антверпен"
+    ],
+    "explanation_de": "Die Amsterdamer Börse war die erste Wertpapierbörse der Welt und ermöglichte den Handel mit VOC-Aktien.",
+    "explanation_ru": "Амстердамская биржа была первой фондовой биржей в мире и позволяла торговать акциями VOC.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1602 CE",
+    "tags": [
+      "Wirtschaft",
+      "Niederlande"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Zum ersten Mal in der Geschichte konnten Bürger Anteile an einem Unternehmen kaufen und verkaufen.",
+        "ru": "Впервые в истории граждане могли покупать и продавать доли в компании."
+      },
+      {
+        "de": "An der Amsterdamer Börse entstand auch der erste spekulative Crash der Geschichte – die Tulpenmanie.",
+        "ru": "На Амстердамской бирже произошёл и первый спекулятивный крах в истории — тюльпаномания."
+      },
+      {
+        "de": "Das System der Aktiengesellschaft gilt als eine der folgenreichsten Erfindungen des Kapitalismus.",
+        "ru": "Система акционерного общества считается одним из важнейших изобретений капитализма."
+      }
+    ]
+  },
+  {
+    "id": 7068,
+    "question_de": "Was versteht man unter dem „Dreieckshandel\" zwischen Europa, Afrika und Amerika?",
+    "question_ru": "Что понимается под «треугольной торговлей» между Европой, Африкой и Америкой?",
+    "correct_answer_de": "Den Handel mit europäischen Waren, afrikanischen Sklaven und amerikanischen Rohstoffen",
+    "correct_answer_ru": "Торговля европейскими товарами, африканскими рабами и американским сырьём",
+    "wrong_answers_de": [
+      "Den Gewürzhandel zwischen drei Kontinenten",
+      "Die Schifffahrtsroute um die Welt",
+      "Den Tausch von Gold und Silber"
+    ],
+    "wrong_answers_ru": [
+      "Торговля пряностями между тремя континентами",
+      "Маршрут кругосветного плавания",
+      "Обмен золотом и серебром"
+    ],
+    "explanation_de": "Im Dreieckshandel wurden europäische Waren nach Afrika gebracht, Sklaven nach Amerika verschifft und amerikanische Rohstoffe nach Europa exportiert.",
+    "explanation_ru": "В рамках треугольной торговли европейские товары везли в Африку, рабов — в Америку, а американское сырьё — в Европу.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1700 CE",
+    "tags": [
+      "Sklaverei",
+      "Handel"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Zwischen dem 16. und 19. Jahrhundert wurden schätzungsweise 12 Millionen Afrikaner versklavt und nach Amerika verschifft.",
+        "ru": "С XVI по XIX век около 12 миллионов африканцев были обращены в рабство и отправлены в Америку."
+      },
+      {
+        "de": "Etwa 1,5 Millionen Sklaven starben bereits während der Überfahrt durch unmenschliche Bedingungen.",
+        "ru": "Около 1,5 миллиона рабов погибли уже во время переправы из-за бесчеловечных условий."
+      },
+      {
+        "de": "Großbritannien schaffte den Sklavenhandel 1807 ab – die Sklaverei in den Kolonien erst 1833.",
+        "ru": "Великобритания отменила работорговлю в 1807 году — само рабство в колониях — лишь в 1833 году."
+      }
+    ]
+  },
+  {
+    "id": 7069,
+    "question_de": "Welche Nahrungspflanze aus Amerika wurde nach Europa gebracht und rettete später Millionen Menschen vor dem Hungertod?",
+    "question_ru": "Какое съедобное растение из Америки было привезено в Европу и впоследствии спасло миллионы людей от голода?",
+    "correct_answer_de": "Kartoffel",
+    "correct_answer_ru": "Картофель",
+    "wrong_answers_de": [
+      "Weizen",
+      "Reis",
+      "Rübe"
+    ],
+    "wrong_answers_ru": [
+      "Пшеница",
+      "Рис",
+      "Репа"
+    ],
+    "explanation_de": "Die Kartoffel kam aus Südamerika nach Europa und wurde zum wichtigsten Grundnahrungsmittel für arme Bevölkerungsschichten.",
+    "explanation_ru": "Картофель был привезён из Южной Америки в Европу и стал важнейшим продуктом питания для бедных слоёв населения.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1570 CE",
+    "tags": [
+      "Kolonialismus",
+      "Gesellschaft"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Friedrich der Große befahl preußischen Bauern, Kartoffeln anzupflanzen – manche weigerten sich zuerst.",
+        "ru": "Фридрих Великий приказал прусским крестьянам сажать картофель — некоторые поначалу отказывались."
+      },
+      {
+        "de": "Die Kartoffel stammt aus den Anden und wurde von den Inkas seit Jahrtausenden angebaut.",
+        "ru": "Картофель родом из Анд и выращивается народами инков на протяжении тысячелетий."
+      },
+      {
+        "de": "Die irische Hungersnot von 1845–1852 entstand, weil die Bevölkerung fast ausschließlich von Kartoffeln lebte.",
+        "ru": "Ирландский голод 1845–1852 годов произошёл потому, что население питалось почти исключительно картофелем."
+      }
+    ]
+  },
+  {
+    "id": 7070,
+    "question_de": "Welcher russische Zar des 16. Jahrhunderts war der erste, der offiziell den Titel „Zar\" trug und für seine Grausamkeit bekannt war?",
+    "question_ru": "Какой русский царь XVI века первым официально носил титул «царь» и был известен своей жестокостью?",
+    "correct_answer_de": "Iwan der Schreckliche",
+    "correct_answer_ru": "Иван Грозный",
+    "wrong_answers_de": [
+      "Peter der Große",
+      "Boris Godunow",
+      "Iwan III."
+    ],
+    "wrong_answers_ru": [
+      "Пётр Великий",
+      "Борис Годунов",
+      "Иван III"
+    ],
+    "explanation_de": "Iwan IV. (der Schreckliche) war der erste offizielle Zar Russlands und regierte mit extremer Gewalt.",
+    "explanation_ru": "Иван IV (Грозный) был первым официальным царём России и правил с крайней жестокостью.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1560 CE",
+    "tags": [
+      "Russland",
+      "Monarchie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Iwan der Schreckliche erschlug in einem Wutanfall seinen eigenen Sohn mit einem Stab.",
+        "ru": "Иван Грозный в приступе ярости убил посохом собственного сына."
+      },
+      {
+        "de": "Er gründete die Opritschnina – eine Terrorpolizei, die Verräter verfolgte und hinrichtete.",
+        "ru": "Он создал опричнину — тайную полицию, которая преследовала и казнила предполагаемых изменников."
+      },
+      {
+        "de": "Unter Iwan IV. begann Russland seine Expansion nach Sibirien.",
+        "ru": "При Иване IV Россия начала экспансию в Сибирь."
+      }
+    ]
+  },
+  {
+    "id": 7071,
+    "question_de": "Welcher russische Herrscher modernisierte Russland nach westeuropäischem Vorbild und gründete eine neue Hauptstadt?",
+    "question_ru": "Какой русский правитель модернизировал Россию по западноевропейскому образцу и основал новую столицу?",
+    "correct_answer_de": "Peter der Große",
+    "correct_answer_ru": "Пётр Великий",
+    "wrong_answers_de": [
+      "Iwan der Schreckliche",
+      "Katharina die Große",
+      "Alexei I."
+    ],
+    "wrong_answers_ru": [
+      "Иван Грозный",
+      "Екатерина Великая",
+      "Алексей I"
+    ],
+    "explanation_de": "Peter der Große (1672–1725) reformierte Russland nach westlichem Vorbild und gründete Sankt Petersburg als neue Hauptstadt.",
+    "explanation_ru": "Пётр Великий (1672–1725) реформировал Россию по западному образцу и основал Санкт-Петербург как новую столицу.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1700 CE",
+    "tags": [
+      "Russland",
+      "Modernisierung"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Peter der Große reiste inkognito als Zimmermann durch Westeuropa, um Handwerk und Technik zu lernen.",
+        "ru": "Пётр Великий путешествовал инкогнито по Западной Европе как плотник, чтобы изучить ремёсла и технику."
+      },
+      {
+        "de": "Er führte eine Steuer auf Bärte ein, um russische Männer dazu zu bringen, sich zu rasieren.",
+        "ru": "Он ввёл налог на бороды, чтобы вынудить русских мужчин бриться."
+      },
+      {
+        "de": "Sankt Petersburg wurde auf Sumpfland gebaut – Tausende von Arbeitern starben beim Bau.",
+        "ru": "Санкт-Петербург был построен на болотистой местности — тысячи рабочих погибли при строительстве."
+      }
+    ]
+  },
+  {
+    "id": 7072,
+    "question_de": "Welche russische Kaiserin des 18. Jahrhunderts gilt als Beispiel eines aufgeklärten Absolutismus und erweiterte das russische Reich?",
+    "question_ru": "Какая российская императрица XVIII века считается примером просвещённого абсолютизма и расширила Российскую империю?",
+    "correct_answer_de": "Katharina die Große",
+    "correct_answer_ru": "Екатерина Великая",
+    "wrong_answers_de": [
+      "Anna Iwanowna",
+      "Elisaweta Petrowna",
+      "Sophie von Anhalt"
+    ],
+    "wrong_answers_ru": [
+      "Анна Иоанновна",
+      "Елизавета Петровна",
+      "Екатерина I"
+    ],
+    "explanation_de": "Katharina II. (die Große) regierte Russland von 1762 bis 1796 und machte es zur Großmacht.",
+    "explanation_ru": "Екатерина II (Великая) правила Россией с 1762 по 1796 год и превратила её в великую державу.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1775 CE",
+    "tags": [
+      "Russland",
+      "Aufklärung"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Katharina die Große war gebürtige Deutsche – sie hieß Sophie von Anhalt-Zerbst.",
+        "ru": "Екатерина Великая была немкой по происхождению — её звали Софья Августа Фредерика Ангальт-Цербстская."
+      },
+      {
+        "de": "Sie korrespondierte mit Voltaire und Diderot und lud Diderot nach Sankt Petersburg ein.",
+        "ru": "Она переписывалась с Вольтером и Дидро и пригласила Дидро в Санкт-Петербург."
+      },
+      {
+        "de": "Katharina annektierte die Krim und Teile Polens – sie erweiterte das russische Reich erheblich.",
+        "ru": "Екатерина аннексировала Крым и части Польши, значительно расширив Российскую империю."
+      }
+    ]
+  },
+  {
+    "id": 7073,
+    "question_de": "Welcher osmanische Sultan regierte im 16. Jahrhundert auf dem Höhepunkt der osmanischen Macht und wird im Westen „der Prächtige\" genannt?",
+    "question_ru": "Какой османский султан правил в XVI веке на вершине могущества Османской империи и именуется на Западе «Великолепным»?",
+    "correct_answer_de": "Süleyman I. (der Prächtige)",
+    "correct_answer_ru": "Сулейман I (Великолепный)",
+    "wrong_answers_de": [
+      "Mehmed II.",
+      "Selim I.",
+      "Murad III."
+    ],
+    "wrong_answers_ru": [
+      "Мехмед II",
+      "Селим I",
+      "Мурад III"
+    ],
+    "explanation_de": "Süleyman I. regierte von 1520 bis 1566 und führte das Osmanische Reich auf seinen territorialen Höhepunkt.",
+    "explanation_ru": "Сулейман I правил с 1520 по 1566 год и привёл Османскую империю к её территориальному пику.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1540 CE",
+    "tags": [
+      "Osmanisches Reich",
+      "Monarchie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Seine osmanischen Untertanen nannten ihn „Kanuni\" – den Gesetzgeber – wegen seiner Rechtsreformen.",
+        "ru": "Его османские подданные называли его «Кануни» — Законодатель — за проведённые правовые реформы."
+      },
+      {
+        "de": "Süleyman belagerte Wien 1529, konnte die Stadt aber nicht einnehmen.",
+        "ru": "Сулейман осаждал Вену в 1529 году, но так и не смог её захватить."
+      },
+      {
+        "de": "Er war auch Dichter und schrieb unter dem Pseudonym „Muhibbi\" persische und türkische Gedichte.",
+        "ru": "Он также был поэтом и писал персидские и турецкие стихи под псевдонимом «Мухибби»."
+      }
+    ]
+  },
+  {
+    "id": 7074,
+    "question_de": "Welches Ereignis von 1683 stoppte den letzten großen osmanischen Vorstoß nach Westeuropa?",
+    "question_ru": "Какое событие 1683 года остановило последний крупный османский поход на Западную Европу?",
+    "correct_answer_de": "Die Zweite Belagerung Wiens",
+    "correct_answer_ru": "Вторая осада Вены",
+    "wrong_answers_de": [
+      "Die Seeschlacht von Lepanto",
+      "Die Belagerung von Konstantinopel",
+      "Die Schlacht auf dem Amselfeld"
+    ],
+    "wrong_answers_ru": [
+      "Морское сражение при Лепанто",
+      "Осада Константинополя",
+      "Битва на Косовом поле"
+    ],
+    "explanation_de": "1683 belagerten osmanische Truppen Wien, wurden aber durch ein Entsatzheer unter König Johann III. Sobieski von Polen geschlagen.",
+    "explanation_ru": "В 1683 году османские войска осаждали Вену, но были разбиты войском под командованием польского короля Яна III Собеского.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1683 CE",
+    "tags": [
+      "Osmanisches Reich",
+      "Österreich"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die polnische Kavallerie – die Geflügelten Husaren – war entscheidend für den Sieg.",
+        "ru": "Польская кавалерия — крылатые гусары — сыграла решающую роль в победе."
+      },
+      {
+        "de": "Nach der Belagerung begann der langsame Rückzug der Osmanen aus Mitteleuropa.",
+        "ru": "После осады начался медленный отход османов из Центральной Европы."
+      },
+      {
+        "de": "Der Legende nach brachten polnische Soldaten Kaffeesäcke aus dem osmanischen Lager mit – so soll der Kaffee nach Wien gekommen sein.",
+        "ru": "По легенде, польские солдаты захватили в османском лагере мешки с кофе — так кофе якобы попал в Вену."
+      }
+    ]
+  },
+  {
+    "id": 7075,
+    "question_de": "Welches Land erkämpfte sich in einem 80-jährigen Krieg (1568–1648) seine Unabhängigkeit von Spanien?",
+    "question_ru": "Какая страна завоевала свою независимость от Испании в ходе 80-летней войны (1568–1648)?",
+    "correct_answer_de": "Niederlande",
+    "correct_answer_ru": "Нидерланды",
+    "wrong_answers_de": [
+      "Portugal",
+      "Belgien",
+      "Schweiz"
+    ],
+    "wrong_answers_ru": [
+      "Португалия",
+      "Бельгия",
+      "Швейцария"
+    ],
+    "explanation_de": "Die Niederlande kämpften 80 Jahre lang gegen die spanische Herrschaft und erlangten ihre Unabhängigkeit mit dem Westfälischen Frieden.",
+    "explanation_ru": "Нидерланды воевали 80 лет против испанского владычества и получили независимость по Вестфальскому миру.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1600 CE",
+    "tags": [
+      "Niederlande",
+      "Spanien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Aufstand begann 1568 unter Wilhelm von Oranien als Reaktion auf die spanische Unterdrückung.",
+        "ru": "Восстание началось в 1568 году под руководством Вильгельма Оранского в ответ на испанские репрессии."
+      },
+      {
+        "de": "Der Herzog von Alba ließ als spanischer Statthalter Tausende von Aufständischen hinrichten.",
+        "ru": "Герцог Альба как испанский наместник казнил тысячи повстанцев."
+      },
+      {
+        "de": "Die sieben nördlichen Provinzen wurden zur Republik der Vereinigten Niederlande, während der Süden bei Spanien blieb.",
+        "ru": "Семь северных провинций образовали Республику Соединённых провинций, тогда как юг остался под Испанией."
+      }
+    ]
+  },
+  {
+    "id": 7076,
+    "question_de": "Was war die Bartholomäusnacht und wann fand sie statt?",
+    "question_ru": "Что такое Варфоломеевская ночь и когда она произошла?",
+    "correct_answer_de": "Das Massaker an Hugenotten in Paris im Jahr 1572",
+    "correct_answer_ru": "Массовое убийство гугенотов в Париже в 1572 году",
+    "wrong_answers_de": [
+      "Die Hinrichtung von Hexen in Frankreich 1580",
+      "Ein Aufstand der Pariser Bürger 1560",
+      "Die Ermordung eines französischen Königs 1589"
+    ],
+    "wrong_answers_ru": [
+      "Казнь ведьм во Франции в 1580 году",
+      "Восстание парижских граждан в 1560 году",
+      "Убийство французского короля в 1589 году"
+    ],
+    "explanation_de": "In der Bartholomäusnacht (23./24. August 1572) wurden in Paris und anderen französischen Städten Tausende Hugenotten ermordet.",
+    "explanation_ru": "В Варфоломеевскую ночь (23–24 августа 1572 года) в Париже и других французских городах были убиты тысячи гугенотов.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1572 CE",
+    "tags": [
+      "Frankreich",
+      "Religion"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Schätzungen zufolge wurden in wenigen Tagen 5.000 bis 30.000 Hugenotten getötet.",
+        "ru": "По оценкам, за несколько дней было убито от 5 000 до 30 000 гугенотов."
+      },
+      {
+        "de": "Der Auslöser war die Hochzeit von Heinrich von Navarra mit Margarete von Valois – viele Hugenotten waren zur Feier nach Paris gereist.",
+        "ru": "Поводом послужила свадьба Генриха Наваррского с Маргаритой Валуа — многие гугеноты прибыли в Париж на торжество."
+      },
+      {
+        "de": "Papst Gregor XIII. ließ in Rom Glocken läuten und ein Fresko malen, um das Massaker zu feiern.",
+        "ru": "Папа Григорий XIII приказал в Риме звонить в колокола и написать фреску в честь этой резни."
+      }
+    ]
+  },
+  {
+    "id": 7077,
+    "question_de": "Was tat Ludwig XIV. im Jahr 1685, das Hunderttausende Protestanten zur Flucht aus Frankreich zwang?",
+    "question_ru": "Что сделал Людовик XIV в 1685 году, вынудив сотни тысяч протестантов бежать из Франции?",
+    "correct_answer_de": "Er widerrief das Edikt von Nantes",
+    "correct_answer_ru": "Он отменил Нантский эдикт",
+    "wrong_answers_de": [
+      "Er ließ alle protestantischen Kirchen schließen",
+      "Er befahl eine Zwangstaufe",
+      "Er erklärte den Krieg an die Niederlande"
+    ],
+    "wrong_answers_ru": [
+      "Он закрыл все протестантские церкви",
+      "Он приказал насильственно крестить протестантов",
+      "Он объявил войну Нидерландам"
+    ],
+    "explanation_de": "Mit der Aufhebung des Edikts von Nantes 1685 verloren Protestanten (Hugenotten) ihre Religionsfreiheit in Frankreich.",
+    "explanation_ru": "Отменив Нантский эдикт в 1685 году, Людовик XIV лишил протестантов (гугенотов) свободы вероисповедания во Франции.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1685 CE",
+    "tags": [
+      "Frankreich",
+      "Religion"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Etwa 200.000–400.000 Hugenotten flohen nach Preußen, England und in die Niederlande.",
+        "ru": "Около 200 000–400 000 гугенотов бежали в Пруссию, Англию и Нидерланды."
+      },
+      {
+        "de": "Preußen profitierte enorm: Die Hugenotten brachten Handwerk, Weberei und Kenntnisse mit.",
+        "ru": "Пруссия получила огромную выгоду: гугеноты принесли с собой ремёсла, ткачество и знания."
+      },
+      {
+        "de": "Friedrich der Große hieß Hugenotten in Preußen willkommen – bis heute zeugen französische Familiennamen davon.",
+        "ru": "Фридрих Великий радушно принял гугенотов в Пруссии — до сих пор об этом свидетельствуют французские фамилии."
+      }
+    ]
+  },
+  {
+    "id": 7078,
+    "question_de": "Welcher englische Arzt entdeckte 1628, dass das Blut im Körper im Kreislauf fließt?",
+    "question_ru": "Какой английский врач в 1628 году открыл, что кровь циркулирует по замкнутому кругу в организме?",
+    "correct_answer_de": "William Harvey",
+    "correct_answer_ru": "Уильям Гарвей",
+    "wrong_answers_de": [
+      "Andreas Vesalius",
+      "Paracelsus",
+      "Ambroise Paré"
+    ],
+    "wrong_answers_ru": [
+      "Андреас Везалий",
+      "Парацельс",
+      "Амбруаз Паре"
+    ],
+    "explanation_de": "William Harvey beschrieb als Erster korrekt den Blutkreislauf und widerlegte damit Ideen, die seit der Antike galten.",
+    "explanation_ru": "Уильям Гарвей первым правильно описал кровообращение, опровергнув представления, существовавшие со времён античности.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1628 CE",
+    "tags": [
+      "Wissenschaft",
+      "Medizin"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Vor Harvey glaubten Ärzte, dass Blut im Körper verbraucht und ständig neu produziert wird.",
+        "ru": "До Гарвея врачи считали, что кровь в организме расходуется и постоянно вырабатывается заново."
+      },
+      {
+        "de": "Harvey war Leibarzt der englischen Könige Jakob I. und Karl I.",
+        "ru": "Гарвей был личным врачом английских королей Якова I и Карла I."
+      },
+      {
+        "de": "Seine Entdeckung legte den Grundstein für die moderne Medizin und Physiologie.",
+        "ru": "Его открытие заложило основу современной медицины и физиологии."
+      }
+    ]
+  },
+  {
+    "id": 7079,
+    "question_de": "Welcher Arzt veröffentlichte 1543 das erste genaue anatomische Werk über den menschlichen Körper?",
+    "question_ru": "Какой врач в 1543 году опубликовал первый точный анатомический труд о человеческом теле?",
+    "correct_answer_de": "Andreas Vesalius",
+    "correct_answer_ru": "Андреас Везалий",
+    "wrong_answers_de": [
+      "William Harvey",
+      "Paracelsus",
+      "Hippokrates"
+    ],
+    "wrong_answers_ru": [
+      "Уильям Гарвей",
+      "Парацельс",
+      "Гиппократ"
+    ],
+    "explanation_de": "Andreas Vesalius veröffentlichte „De humani corporis fabrica\" auf der Basis eigener Leichensektionen.",
+    "explanation_ru": "Андреас Везалий опубликовал «De humani corporis fabrica» на основе собственных вскрытий трупов.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1543 CE",
+    "tags": [
+      "Wissenschaft",
+      "Medizin"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Vesalius korrigierte hunderte Fehler in den Werken des antiken Arztes Galen.",
+        "ru": "Везалий исправил сотни ошибок в трудах античного врача Галена."
+      },
+      {
+        "de": "Er sezierte heimlich Leichen von Hingerichteten, um seinen Atlas zu erstellen.",
+        "ru": "Он тайно вскрывал тела казнённых, чтобы создать свой атлас."
+      },
+      {
+        "de": "Das Werk erschien im selben Jahr wie Kopernikus' „De revolutionibus\" – 1543 gilt als Schlüsseljahr der wissenschaftlichen Revolution.",
+        "ru": "Труд вышел в том же году, что и «De revolutionibus» Коперника — 1543 год считается ключевым годом научной революции."
+      }
+    ]
+  },
+  {
+    "id": 7080,
+    "question_de": "Welcher englische Kaperfahrer umrundete 1577–1580 als Zweiter die Welt und plünderte dabei spanische Schiffe?",
+    "question_ru": "Какой английский каперский капитан в 1577–1580 гг. совершил второе кругосветное плавание, попутно захватывая испанские корабли?",
+    "correct_answer_de": "Francis Drake",
+    "correct_answer_ru": "Фрэнсис Дрейк",
+    "wrong_answers_de": [
+      "Walter Raleigh",
+      "John Hawkins",
+      "Henry Morgan"
+    ],
+    "wrong_answers_ru": [
+      "Уолтер Рэли",
+      "Джон Хокинс",
+      "Генри Морган"
+    ],
+    "explanation_de": "Francis Drake umrundete als zweiter Mensch die Erde und war der erste Engländer, der das schaffte.",
+    "explanation_ru": "Фрэнсис Дрейк стал вторым человеком, совершившим кругосветное плавание, и первым англичанином, которому это удалось.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1580 CE",
+    "tags": [
+      "England",
+      "Seefahrt"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Königin Elisabeth I. empfing Drake persönlich und schlug ihn zum Ritter.",
+        "ru": "Королева Елизавета I лично встретила Дрейка и посвятила его в рыцари."
+      },
+      {
+        "de": "Spanien betrachtete Drake als Piraten – England als Nationalhelden.",
+        "ru": "Испания считала Дрейка пиратом — Англия чтила его как национального героя."
+      },
+      {
+        "de": "Drake spielte eine Schlüsselrolle bei der Abwehr der Spanischen Armada 1588.",
+        "ru": "Дрейк сыграл ключевую роль в отражении Непобедимой Армады в 1588 году."
+      }
+    ]
+  },
+  {
+    "id": 7081,
+    "question_de": "Was legte der Vertrag von Tordesillas (1494) zwischen Spanien und Portugal fest?",
+    "question_ru": "Что установил Тордесильясский договор (1494) между Испанией и Португалией?",
+    "correct_answer_de": "Die Aufteilung der Welt in zwei Einflusssphären",
+    "correct_answer_ru": "Раздел мира на две сферы влияния",
+    "wrong_answers_de": [
+      "Ein Bündnis gegen England",
+      "Die Vereinigung beider Kolonialreiche",
+      "Den Frieden nach einem Seekrieg"
+    ],
+    "wrong_answers_ru": [
+      "Союз против Англии",
+      "Объединение обоих колониальных владений",
+      "Мир после морской войны"
+    ],
+    "explanation_de": "Der Vertrag von Tordesillas teilte die Welt durch eine Linie – alles westlich davon gehörte Spanien, alles östlich Portugal.",
+    "explanation_ru": "Тордесильясский договор разделил мир воображаемой чертой — всё к западу от неё принадлежало Испании, к востоку — Португалии.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1494 CE",
+    "tags": [
+      "Kolonialismus",
+      "Spanien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Papst vermittelte den Vertrag – er hatte die Macht, Kontinente aufzuteilen.",
+        "ru": "Договор был заключён при посредничестве папы — у него была власть делить континенты."
+      },
+      {
+        "de": "Brasilien fiel in Portugals Zone – deshalb sprechen Brasilianer heute Portugiesisch, nicht Spanisch.",
+        "ru": "Бразилия попала в португальскую зону — вот почему бразильцы говорят по-португальски, а не по-испански."
+      },
+      {
+        "de": "Andere europäische Mächte ignorierten den Vertrag und begannen ebenfalls zu kolonisieren.",
+        "ru": "Другие европейские державы проигнорировали договор и тоже начали колонизацию."
+      }
+    ]
+  },
+  {
+    "id": 7082,
+    "question_de": "Nach wem wurde der amerikanische Kontinent benannt, obwohl dieser nicht sein Entdecker war?",
+    "question_ru": "В честь кого был назван американский континент, хотя этот человек не был его первооткрывателем?",
+    "correct_answer_de": "Amerigo Vespucci",
+    "correct_answer_ru": "Америго Веспуччи",
+    "wrong_answers_de": [
+      "Christoph Kolumbus",
+      "Ferdinand Magellan",
+      "Giovanni Caboto"
+    ],
+    "wrong_answers_ru": [
+      "Христофор Колумб",
+      "Фернан Магеллан",
+      "Джованни Кабото"
+    ],
+    "explanation_de": "Amerigo Vespucci erkannte als Erster, dass Amerika ein eigenständiger Kontinent ist – nicht Asien. Der Kartograf Waldseemüller nannte den Kontinent nach ihm.",
+    "explanation_ru": "Америго Веспуччи первым понял, что Америка — самостоятельный континент, а не Азия. Картограф Вальдземюллер назвал континент в его честь.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1507 CE",
+    "tags": [
+      "Entdeckungen",
+      "Kolonialismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Kolumbus starb in dem Glauben, Asien entdeckt zu haben – er erkannte nie, dass es ein neuer Kontinent war.",
+        "ru": "Колумб умер в убеждении, что открыл Азию — он так и не понял, что это новый континент."
+      },
+      {
+        "de": "Der Name „Amerika\" erschien erstmals 1507 auf einer Karte des deutschen Kartografen Waldseemüller.",
+        "ru": "Название «Америка» впервые появилось в 1507 году на карте немецкого картографа Вальдземюллера."
+      },
+      {
+        "de": "Vespucci beschrieb die Neue Welt in Briefen so lebendig, dass sein Name populärer wurde als Kolumbus'.",
+        "ru": "Веспуччи столь живо описал Новый Свет в письмах, что его имя стало известнее, чем имя Колумба."
+      }
+    ]
+  },
+  {
+    "id": 7083,
+    "question_de": "Welcher Kartograf entwickelte 1569 eine Kartenprojektion, die Seeleuten das genaue Navigieren mit dem Kompass ermöglichte?",
+    "question_ru": "Какой картограф в 1569 году разработал картографическую проекцию, позволившую морякам точно ориентироваться по компасу?",
+    "correct_answer_de": "Gerardus Mercator",
+    "correct_answer_ru": "Герард Меркатор",
+    "wrong_answers_de": [
+      "Abraham Ortelius",
+      "Martin Waldseemüller",
+      "Ptolemäus"
+    ],
+    "wrong_answers_ru": [
+      "Абрахам Ортелий",
+      "Мартин Вальдземюллер",
+      "Птолемей"
+    ],
+    "explanation_de": "Mercators Projektion stellt die Erde so dar, dass Kompasskurse als gerade Linien eingezeichnet werden können.",
+    "explanation_ru": "Проекция Меркатора изображает Землю таким образом, что курсы по компасу можно прокладывать прямыми линиями.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1569 CE",
+    "tags": [
+      "Wissenschaft",
+      "Seefahrt"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Mercator-Projektion verzerrt Flächen – Grönland erscheint so groß wie Afrika, obwohl es viel kleiner ist.",
+        "ru": "Проекция Меркатора искажает площади — Гренландия выглядит такой же большой, как Африка, хотя значительно меньше."
+      },
+      {
+        "de": "Diese Projektion wird bis heute von Google Maps und vielen Navigationssystemen verwendet.",
+        "ru": "Эта проекция используется по сей день в Google Maps и многих навигационных системах."
+      },
+      {
+        "de": "Mercator war auch der Erste, der eine Sammlung von Karten als „Atlas\" bezeichnete.",
+        "ru": "Меркатор был также первым, кто назвал сборник карт «атласом»."
+      }
+    ]
+  },
+  {
+    "id": 7084,
+    "question_de": "Was war der Deutsche Bauernkrieg (1524–1526) und was forderten die Bauern?",
+    "question_ru": "Что такое Крестьянская война в Германии (1524–1526) и что требовали крестьяне?",
+    "correct_answer_de": "Ein Aufstand gegen Adel und Kirche mit Forderungen nach Freiheit und sozialer Gerechtigkeit",
+    "correct_answer_ru": "Восстание против дворянства и церкви с требованиями свободы и социальной справедливости",
+    "wrong_answers_de": [
+      "Ein Religionskrieg zwischen Protestanten und Katholiken",
+      "Ein Aufstand gegen den Kaiser",
+      "Ein Kampf um Handelsrechte"
+    ],
+    "wrong_answers_ru": [
+      "Религиозная война между протестантами и католиками",
+      "Восстание против императора",
+      "Борьба за торговые права"
+    ],
+    "explanation_de": "Im Deutschen Bauernkrieg erhoben sich Bauern gegen Leibeigenschaft und forderten die Abschaffung von Privilegien des Adels.",
+    "explanation_ru": "В Крестьянской войне крестьяне восстали против крепостной зависимости и потребовали отмены привилегий дворянства.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1525 CE",
+    "tags": [
+      "Deutschland",
+      "Gesellschaft"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Etwa 100.000 Bauern wurden im Laufe des Aufstands getötet.",
+        "ru": "В ходе восстания было убито около 100 000 крестьян."
+      },
+      {
+        "de": "Martin Luther verurteilte den Aufstand und rief die Fürsten auf, die Bauern niederzuschlagen.",
+        "ru": "Мартин Лютер осудил восстание и призвал князей подавить крестьян."
+      },
+      {
+        "de": "Die „Zwölf Artikel\" der Bauern gelten als eines der ersten Dokumente der Menschenrechte in Deutschland.",
+        "ru": "«Двенадцать статей» крестьян считаются одним из первых документов о правах человека в Германии."
+      }
+    ]
+  },
+  {
+    "id": 7085,
+    "question_de": "Welche schottische Königin wurde 1587 von ihrer Cousine Elisabeth I. von England hinrichten lassen?",
+    "question_ru": "Какая шотландская королева была казнена в 1587 году по приказу своей двоюродной сестры Елизаветы I Английской?",
+    "correct_answer_de": "Maria Stuart",
+    "correct_answer_ru": "Мария Стюарт",
+    "wrong_answers_de": [
+      "Maria Tudor",
+      "Katharina von Aragon",
+      "Anne Boleyn"
+    ],
+    "wrong_answers_ru": [
+      "Мария Тюдор",
+      "Екатерина Арагонская",
+      "Анна Болейн"
+    ],
+    "explanation_de": "Maria Stuart, Königin von Schottland und Frankreich, wurde nach 19 Jahren Gefangenschaft als Bedrohung für Elisabeths Thron hingerichtet.",
+    "explanation_ru": "Мария Стюарт, королева Шотландии и Франции, была казнена после 19 лет заключения как угроза трону Елизаветы.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1587 CE",
+    "tags": [
+      "England",
+      "Persönlichkeiten"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Maria Stuart war dreimal verheiratet, darunter mit dem König von Frankreich.",
+        "ru": "Мария Стюарт была трижды замужем, в том числе за королём Франции."
+      },
+      {
+        "de": "Der Henker brauchte drei Schläge, um ihr den Kopf abzutrennen.",
+        "ru": "Палачу понадобилось три удара, чтобы отрубить ей голову."
+      },
+      {
+        "de": "Marias Sohn Jakob VI. von Schottland wurde später Jakob I. von England.",
+        "ru": "Сын Марии, Яков VI Шотландский, впоследствии стал Яковом I Английским."
+      }
+    ]
+  },
+  {
+    "id": 7086,
+    "question_de": "Welcher Spitzname wurde der englischen Königin Elisabeth I. gegeben, weil sie nie heiratete?",
+    "question_ru": "Какое прозвище получила английская королева Елизавета I за то, что никогда не вышла замуж?",
+    "correct_answer_de": "Die jungfräuliche Königin (Virgin Queen)",
+    "correct_answer_ru": "Королева-девственница (Virgin Queen)",
+    "wrong_answers_de": [
+      "Die Eiserne Dame",
+      "Die Blutige Maria",
+      "Die Sonnenkänigin"
+    ],
+    "wrong_answers_ru": [
+      "Железная леди",
+      "Кровавая Мэри",
+      "Королева-Солнце"
+    ],
+    "explanation_de": "Elisabeth I. regierte England von 1558 bis 1603 und blieb unverheiratet, was ihr das Bild der jungfräulichen Königin einbrachte.",
+    "explanation_ru": "Елизавета I правила Англией с 1558 по 1603 год и оставалась незамужней, что принесло ей образ королевы-девственницы.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1580 CE",
+    "tags": [
+      "England",
+      "Monarchie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Unter Elisabeth I. erlebte England eine kulturelle Blüte – das „Elisabethanische Zeitalter\" mit Shakespeare.",
+        "ru": "При Елизавете I Англия пережила культурный расцвет — «Елизаветинская эпоха» со Шекспиром."
+      },
+      {
+        "de": "Elisabeth trug dicke weiße Schminke, um Pockennarben in ihrem Gesicht zu verbergen.",
+        "ru": "Елизавета носила густой белый грим, чтобы скрыть оспины на лице."
+      },
+      {
+        "de": "Elisabeths Mutter war Anne Boleyn, die von Heinrich VIII. hingerichtet worden war.",
+        "ru": "Матерью Елизаветы была Анна Болейн, казнённая Генрихом VIII."
+      }
+    ]
+  },
+  {
+    "id": 7087,
+    "question_de": "Wie heißt das Schiff, mit dem 1620 die Pilgerväter von England nach Amerika segelten?",
+    "question_ru": "Как называлось судно, на котором в 1620 году «отцы-пилигримы» отплыли из Англии в Америку?",
+    "correct_answer_de": "Mayflower",
+    "correct_answer_ru": "«Мэйфлауэр»",
+    "wrong_answers_de": [
+      "Santa María",
+      "Golden Hind",
+      "Discovery"
+    ],
+    "wrong_answers_ru": [
+      "«Санта-Мария»",
+      "«Золотая лань»",
+      "«Дискавери»"
+    ],
+    "explanation_de": "Die Mayflower brachte 102 englische Puritaner nach Amerika, wo sie die Kolonie Plymouth gründeten.",
+    "explanation_ru": "«Мэйфлауэр» доставил 102 английских пуританина в Америку, где они основали колонию Плимут.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1620 CE",
+    "tags": [
+      "England",
+      "Amerika"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Überfahrt dauerte 66 Tage und war durch Stürme sehr gefährlich.",
+        "ru": "Переправа длилась 66 дней и была крайне опасной из-за штормов."
+      },
+      {
+        "de": "Nicht alle Passagiere waren Puritaner – etwa die Hälfte waren Handwerker und Kaufleute.",
+        "ru": "Не все пассажиры были пуританами — примерно половину составляли ремесленники и торговцы."
+      },
+      {
+        "de": "Der Mayflower Compact war einer der ersten demokratischen Verträge in Amerika.",
+        "ru": "«Мэйфлауэрское соглашение» стало одним из первых демократических договоров в Америке."
+      }
+    ]
+  },
+  {
+    "id": 7088,
+    "question_de": "Welche englische Kolonie in Nordamerika, gegründet 1607, gilt als die erste dauerhafte englische Siedlung?",
+    "question_ru": "Какая английская колония в Северной Америке, основанная в 1607 году, считается первым постоянным английским поселением?",
+    "correct_answer_de": "Jamestown (Virginia)",
+    "correct_answer_ru": "Джеймстаун (Вирджиния)",
+    "wrong_answers_de": [
+      "Plymouth",
+      "New York",
+      "Boston"
+    ],
+    "wrong_answers_ru": [
+      "Плимут",
+      "Нью-Йорк",
+      "Бостон"
+    ],
+    "explanation_de": "Jamestown in Virginia war die erste dauerhafte englische Siedlung in Amerika, gegründet 1607.",
+    "explanation_ru": "Джеймстаун в Вирджинии был первым постоянным английским поселением в Америке, основанным в 1607 году.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1607 CE",
+    "tags": [
+      "England",
+      "Amerika"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Im ersten Winter starben zwei Drittel der Siedler an Hunger und Krankheit.",
+        "ru": "Первой зимой две трети поселенцев погибли от голода и болезней."
+      },
+      {
+        "de": "Tabak wurde zur wichtigsten Einnahmequelle der Kolonie – ein Produkt, das aus Amerika stammt.",
+        "ru": "Табак стал главным источником дохода колонии — продукт, происходящий из Америки."
+      },
+      {
+        "de": "Hier entstand 1619 die erste gewählte gesetzgebende Versammlung Nordamerikas.",
+        "ru": "Здесь в 1619 году возникло первое выборное законодательное собрание Северной Америки."
+      }
+    ]
+  },
+  {
+    "id": 7089,
+    "question_de": "Was waren die Silberminen von Potosí und welche Bedeutung hatten sie für die Frühe Neuzeit?",
+    "question_ru": "Что такое серебряные рудники Потоси и какое значение они имели для Раннего Нового времени?",
+    "correct_answer_de": "Die reichsten Silberminen der Welt im heutigen Bolivien – sie finanzierten das spanische Reich",
+    "correct_answer_ru": "Богатейшие серебряные рудники мира в нынешней Боливии — они финансировали Испанскую империю",
+    "wrong_answers_de": [
+      "Goldminen in Mexiko",
+      "Kupferminen in Peru",
+      "Diamantminen in Brasilien"
+    ],
+    "wrong_answers_ru": [
+      "Золотые рудники в Мексике",
+      "Медные рудники в Перу",
+      "Алмазные рудники в Бразилии"
+    ],
+    "explanation_de": "Die Silberminen von Potosí im heutigen Bolivien lieferten Spanien riesige Mengen Silber und machten es zur reichsten Nation der Welt.",
+    "explanation_ru": "Серебряные рудники Потоси в нынешней Боливии поставляли Испании огромные количества серебра и сделали её богатейшей нацией мира.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1580 CE",
+    "tags": [
+      "Spanien",
+      "Kolonialismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Schätzungsweise acht Millionen indigene und afrikanische Arbeitssklaven starben in den Minen.",
+        "ru": "По оценкам, около восьми миллионов коренных жителей и африканских рабов погибли в рудниках."
+      },
+      {
+        "de": "Die Stadt Potosí zählte um 1650 über 160.000 Einwohner – sie war eine der größten Städte der Welt.",
+        "ru": "Около 1650 года население Потоси превышало 160 000 человек — это был один из крупнейших городов мира."
+      },
+      {
+        "de": "Das massenhafte Silber aus Amerika löste in Europa eine Inflation aus – die sogenannte „Preisrevolution\".",
+        "ru": "Массовый приток серебра из Америки вызвал в Европе инфляцию — так называемую «революцию цен»."
+      }
+    ]
+  },
+  {
+    "id": 7090,
+    "question_de": "Was war das Encomienda-System in den spanischen Kolonien?",
+    "question_ru": "Что такое система энкомьенды в испанских колониях?",
+    "correct_answer_de": "Ein System, bei dem Kolonisatoren das Recht bekamen, indigene Arbeitskräfte zu nutzen",
+    "correct_answer_ru": "Система, по которой колонизаторы получали право использовать труд коренного населения",
+    "wrong_answers_de": [
+      "Ein Handelssystem für Gewürze",
+      "Eine Art Grundbuch für Landbesitz",
+      "Eine Steuer auf Silber"
+    ],
+    "wrong_answers_ru": [
+      "Система торговли пряностями",
+      "Разновидность земельного кадастра",
+      "Налог на серебро"
+    ],
+    "explanation_de": "Im Encomienda-System erhielten spanische Siedler indigene Bevölkerungsgruppen zur Arbeit – in der Praxis oft Zwangsarbeit.",
+    "explanation_ru": "В системе энкомьенды испанские поселенцы получали группы коренных жителей для работы — на практике нередко принудительной.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1530 CE",
+    "tags": [
+      "Spanien",
+      "Kolonialismus"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Pater Bartolomé de las Casas kritisierte das System scharf und setzte sich für die Rechte der Indigenen ein.",
+        "ru": "Отец Бартоломе де лас Касас резко критиковал эту систему и защищал права коренных народов."
+      },
+      {
+        "de": "Die „Neuen Gesetze\" von 1542 sollten das System reformieren – wurden aber kaum durchgesetzt.",
+        "ru": "«Новые законы» 1542 года должны были реформировать эту систему — но так и не были реально введены в действие."
+      },
+      {
+        "de": "Das System führte zur Ausrottung ganzer indigener Völker durch Überarbeitung und Krankheiten.",
+        "ru": "Система привела к уничтожению целых коренных народов вследствие изнурительного труда и болезней."
+      }
+    ]
+  },
+  {
+    "id": 7091,
+    "question_de": "Welche Politik betrieb Japan im 17. Jahrhundert, indem es sich fast vollständig von der Außenwelt abschottete?",
+    "question_ru": "Какую политику проводила Япония в XVII веке, практически полностью изолировав себя от внешнего мира?",
+    "correct_answer_de": "Sakoku (Politik der geschlossenen Grenzen)",
+    "correct_answer_ru": "Сакоку (политика закрытых границ)",
+    "wrong_answers_de": [
+      "Shogunat",
+      "Meiji-Restauration",
+      "Harakiri-Politik"
+    ],
+    "wrong_answers_ru": [
+      "Сёгунат",
+      "Реставрация Мэйдзи",
+      "Политика харакири"
+    ],
+    "explanation_de": "Sakoku bedeutet „geschlossenes Land\": Japan verbot Ausländern die Einreise und Japanern das Verlassen des Landes.",
+    "explanation_ru": "Сакоку означает «закрытая страна»: Япония запретила въезд иностранцам и выезд японцам.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1640 CE",
+    "tags": [
+      "Japan",
+      "Handel"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Nur die Niederländer und Chinesen durften auf einer kleinen Insel (Dejima) in Nagasaki handeln.",
+        "ru": "Только голландцам и китайцам было позволено торговать на небольшом острове (Дэдзима) в Нагасаки."
+      },
+      {
+        "de": "Sakoku dauerte über 200 Jahre – bis 1853 amerikanische Kriegsschiffe Japan zur Öffnung zwangen.",
+        "ru": "Сакоку длилось более 200 лет — до 1853 года, когда американские военные корабли вынудили Японию открыться."
+      },
+      {
+        "de": "Trotz Isolation entwickelte Japan in dieser Zeit eine einzigartige Kultur (ukiyo-e, Kabuki-Theater).",
+        "ru": "Несмотря на изоляцию, Япония в этот период развила самобытную культуру (укиё-э, театр кабуки)."
+      }
+    ]
+  },
+  {
+    "id": 7092,
+    "question_de": "Welcher Mogulherrscher regierte im 16. Jahrhundert Indien und war bekannt für religiöse Toleranz?",
+    "question_ru": "Какой правитель Великих Моголов управлял Индией в XVI веке и был известен религиозной терпимостью?",
+    "correct_answer_de": "Akbar der Große",
+    "correct_answer_ru": "Акбар Великий",
+    "wrong_answers_de": [
+      "Aurangzeb",
+      "Babur",
+      "Shah Jahan"
+    ],
+    "wrong_answers_ru": [
+      "Аурангзеб",
+      "Бабур",
+      "Шах-Джахан"
+    ],
+    "explanation_de": "Akbar der Große regierte das Mogulreich von 1556 bis 1605 und förderte religiösen Dialog zwischen Muslimen, Hindus und anderen.",
+    "explanation_ru": "Акбар Великий правил державой Великих Моголов с 1556 по 1605 год и поощрял религиозный диалог между мусульманами, индусами и другими.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1575 CE",
+    "tags": [
+      "Indien",
+      "Monarchie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Akbar konnte nicht lesen und schreiben, war aber einer der gebildetsten Herrscher seiner Zeit.",
+        "ru": "Акбар не умел читать и писать, но был одним из образованнейших правителей своего времени."
+      },
+      {
+        "de": "Er heiratete hinduistische Prinzessinnen und ließ an seinem Hof Vertreter verschiedener Religionen diskutieren.",
+        "ru": "Он женился на индуистских принцессах и приглашал ко двору представителей разных религий для дискуссий."
+      },
+      {
+        "de": "Das Mogulreich umfasste unter Akbar fast den gesamten indischen Subkontinent.",
+        "ru": "При Акбаре держава Великих Моголов охватывала почти весь Индийский субконтинент."
+      }
+    ]
+  },
+  {
+    "id": 7093,
+    "question_de": "Welcher portugiesische Seefahrer umrundete 1488 als Erster das Kap der Guten Hoffnung?",
+    "question_ru": "Какой португальский мореплаватель в 1488 году первым обогнул мыс Доброй Надежды?",
+    "correct_answer_de": "Bartolomeu Dias",
+    "correct_answer_ru": "Бартоломеу Диаш",
+    "wrong_answers_de": [
+      "Vasco da Gama",
+      "Pedro Álvares Cabral",
+      "Gil Eanes"
+    ],
+    "wrong_answers_ru": [
+      "Васко да Гама",
+      "Педру Алвариш Кабрал",
+      "Жил Эанеш"
+    ],
+    "explanation_de": "Bartolomeu Dias bewies 1488 als Erster, dass man Afrika umsegeln und in den Indischen Ozean gelangen kann.",
+    "explanation_ru": "Бартоломеу Диаш в 1488 году первым доказал, что Африку можно обогнуть и выйти в Индийский океан.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1488 CE",
+    "tags": [
+      "Portugal",
+      "Entdeckungen"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Dias nannte das Kap zunächst „Kap der Stürme\" – König Johann II. von Portugal benannte es in „Kap der Guten Hoffnung\" um.",
+        "ru": "Диаш сначала назвал мыс «Мысом Бурь» — король Португалии Жуан II переименовал его в «Мыс Доброй Надежды»."
+      },
+      {
+        "de": "Dias starb 1500, als sein Schiff bei der Entdeckungsreise von Cabral nahe dem Kap sank.",
+        "ru": "Диаш погиб в 1500 году, когда его корабль затонул близ мыса во время экспедиции Кабрала."
+      },
+      {
+        "de": "Seine Entdeckung öffnete den Weg für Vasco da Gama, 10 Jahre später Indien zu erreichen.",
+        "ru": "Его открытие проложило путь Васко да Гаме, который 10 лет спустя достиг Индии."
+      }
+    ]
+  },
+  {
+    "id": 7094,
+    "question_de": "Welcher florentinische Mäzen des 15. Jahrhunderts förderte Künstler wie Botticelli und Michelangelo und machte Florenz zum Zentrum der Renaissance?",
+    "question_ru": "Какой флорентийский меценат XV века покровительствовал художникам вроде Боттичелли и Микеланджело и сделал Флоренцию центром Возрождения?",
+    "correct_answer_de": "Lorenzo de Medici (il Magnifico)",
+    "correct_answer_ru": "Лоренцо де Медичи (Великолепный)",
+    "wrong_answers_de": [
+      "Cosimo de Medici",
+      "Francesco Sforza",
+      "Ludovico Sforza"
+    ],
+    "wrong_answers_ru": [
+      "Козимо де Медичи",
+      "Франческо Сфорца",
+      "Лодовико Сфорца"
+    ],
+    "explanation_de": "Lorenzo de Medici regierte Florenz und förderte Künstler und Gelehrte – Florenz wurde zur Hauptstadt der Renaissance.",
+    "explanation_ru": "Лоренцо де Медичи правил Флоренцией и поддерживал художников и учёных — Флоренция стала столицей Возрождения.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1480 CE",
+    "tags": [
+      "Renaissance",
+      "Italien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Lorenzo überlebte das Pazzi-Attentat 1478, bei dem sein Bruder Giuliano ermordet wurde.",
+        "ru": "Лоренцо пережил заговор Пацци в 1478 году, когда был убит его брат Джулиано."
+      },
+      {
+        "de": "Er holte den jungen Michelangelo in seinen Haushalt und ließ ihn wie einen Sohn aufziehen.",
+        "ru": "Он взял молодого Микеланджело в свой дом и воспитал его как собственного сына."
+      },
+      {
+        "de": "Die Medici-Bank war die mächtigste Bank Europas und hatte Niederlassungen in vielen Städten.",
+        "ru": "Банк Медичи был мощнейшим банком Европы с отделениями во многих городах."
+      }
+    ]
+  },
+  {
+    "id": 7095,
+    "question_de": "Welches Deckenfresko malte Michelangelo zwischen 1508 und 1512 im Auftrag von Papst Julius II.?",
+    "question_ru": "Какую роспись потолка Микеланджело выполнял по заказу папы Юлия II с 1508 по 1512 год?",
+    "correct_answer_de": "Die Sixtinische Kapelle (Deckenfresko)",
+    "correct_answer_ru": "Потолок Сикстинской капеллы",
+    "wrong_answers_de": [
+      "Die Schule von Athen",
+      "Das Abendmahl",
+      "Der Garten der Lüste"
+    ],
+    "wrong_answers_ru": [
+      "«Афинская школа»",
+      "«Тайная вечеря»",
+      "«Сад земных наслаждений»"
+    ],
+    "explanation_de": "Michelangelo malte die Decke der Sixtinischen Kapelle liegend auf einem Gerüst – ein Meisterwerk der Renaissance.",
+    "explanation_ru": "Микеланджело расписал потолок Сикстинской капеллы лёжа на строительных лесах — шедевр эпохи Возрождения.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1510 CE",
+    "tags": [
+      "Kunst",
+      "Renaissance"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Fresko zeigt Szenen aus dem Alten Testament – bekannteste Szene: die Erschaffung Adams.",
+        "ru": "Фреска изображает сцены из Ветхого Завета — самая известная: «Сотворение Адама»."
+      },
+      {
+        "de": "Michelangelo arbeitete vier Jahre daran – allein auf einem Gerüst, ohne Assistenten.",
+        "ru": "Микеланджело работал над ней четыре года — в одиночестве на лесах, без помощников."
+      },
+      {
+        "de": "Die Sixtinische Kapelle ist bis heute der Ort, wo Kardinäle den neuen Papst wählen.",
+        "ru": "Сикстинская капелла по сей день является местом, где кардиналы избирают нового папу."
+      }
+    ]
+  },
+  {
+    "id": 7096,
+    "question_de": "Welcher Florentiner schrieb 1513 „Der Fürst\" – ein realistisches Handbuch der Machtpolitik?",
+    "question_ru": "Какой флорентиец в 1513 году написал «Государя» — реалистичное руководство по политике власти?",
+    "correct_answer_de": "Niccolò Machiavelli",
+    "correct_answer_ru": "Никколо Макиавелли",
+    "wrong_answers_de": [
+      "Leonardo da Vinci",
+      "Francesco Guicciardini",
+      "Dante Alighieri"
+    ],
+    "wrong_answers_ru": [
+      "Леонардо да Винчи",
+      "Франческо Гвиччардини",
+      "Данте Алигьери"
+    ],
+    "explanation_de": "Machiavelli beschrieb in „Il Principe\", wie ein Herrscher Macht gewinnt und erhält – ohne Rücksicht auf Moral.",
+    "explanation_ru": "В «Государе» Макиавелли описывал, как правитель завоёвывает и удерживает власть — невзирая на мораль.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1513 CE",
+    "tags": [
+      "Philosophie",
+      "Italien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Wort „machiavellistisch\" bedeutet heute: skrupellos und berechnend in der Politik.",
+        "ru": "Слово «макиавеллистический» сегодня означает: беспринципный и расчётливый в политике."
+      },
+      {
+        "de": "Machiavelli schrieb das Buch, als er nach dem Sturz der Medici aus dem Amt entlassen und gefoltert worden war.",
+        "ru": "Макиавелли написал книгу после того, как после падения Медичи был отстранён от должности и подвергнут пыткам."
+      },
+      {
+        "de": "Er widmete das Buch Lorenzo di Piero de' Medici, um wieder in Amt und Würden zu gelangen.",
+        "ru": "Он посвятил книгу Лоренцо ди Пьеро де Медичи в надежде вернуться на государственную службу."
+      }
+    ]
+  },
+  {
+    "id": 7097,
+    "question_de": "Welcher niederländische Humanist des 16. Jahrhunderts schrieb „Lob der Torheit\" und gilt als Brücke zwischen Renaissance und Reformation?",
+    "question_ru": "Какой нидерландский гуманист XVI века написал «Похвалу Глупости» и считается мостом между Возрождением и Реформацией?",
+    "correct_answer_de": "Erasmus von Rotterdam",
+    "correct_answer_ru": "Эразм Роттердамский",
+    "wrong_answers_de": [
+      "Thomas Morus",
+      "Johannes Gutenberg",
+      "Sebastian Brant"
+    ],
+    "wrong_answers_ru": [
+      "Томас Мор",
+      "Иоганн Гутенберг",
+      "Себастьян Брант"
+    ],
+    "explanation_de": "Erasmus von Rotterdam war der bekannteste Humanist Europas und kritisierte die Kirche – wollte aber keine Spaltung wie Luther.",
+    "explanation_ru": "Эразм Роттердамский был известнейшим гуманистом Европы и критиковал церковь — но не хотел раскола, как Лютер.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1511 CE",
+    "tags": [
+      "Humanismus",
+      "Reformation"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Erasmus gab eine korrigierte griechische Fassung des Neuen Testaments heraus – die Grundlage für Luthers Übersetzung.",
+        "ru": "Эразм издал исправленный греческий текст Нового Завета — основу для перевода Лютера."
+      },
+      {
+        "de": "Er lehnte sowohl die Korruption der Kirche als auch Luthers Radikalismus ab.",
+        "ru": "Он отвергал как коррупцию церкви, так и радикализм Лютера."
+      },
+      {
+        "de": "Erasmus korrespondierte mit Königen, Päpsten und den bedeutendsten Gelehrten Europas.",
+        "ru": "Эразм переписывался с королями, папами и крупнейшими учёными Европы."
+      }
+    ]
+  },
+  {
+    "id": 7098,
+    "question_de": "Welches Werk von Thomas Morus (1516) beschreibt eine ideale Gesellschaft auf einer fiktiven Insel?",
+    "question_ru": "Какое произведение Томаса Мора (1516) описывает идеальное общество на вымышленном острове?",
+    "correct_answer_de": "Utopia",
+    "correct_answer_ru": "Утопия",
+    "wrong_answers_de": [
+      "Leviathan",
+      "Der Fürst",
+      "Das Kapital"
+    ],
+    "wrong_answers_ru": [
+      "Левиафан",
+      "Государь",
+      "Капитал"
+    ],
+    "explanation_de": "Thomas Morus beschrieb in 'Utopia' eine Inselgesellschaft ohne Privateigentum und mit religiöser Toleranz – ein Gegenbild zur europäischen Realität.",
+    "explanation_ru": "Томас Мор в 'Утопии' описал островное общество без частной собственности и с религиозной терпимостью — противопоставление европейской действительности.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1516 CE",
+    "tags": [
+      "Humanismus",
+      "England"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Wort 'Utopia' stammt aus dem Griechischen und bedeutet 'Nirgendwo'.",
+        "ru": "Слово «утопия» происходит из греческого и означает «нигде»."
+      },
+      {
+        "de": "Morus wurde 1535 hingerichtet, weil er den Suprematseid auf Heinrich VIII. verweigerte.",
+        "ru": "Мор был казнён в 1535 году за отказ принести присягу о верховенстве Генриха VIII."
+      },
+      {
+        "de": "1935 wurde Thomas Morus von der katholischen Kirche heiliggesprochen.",
+        "ru": "В 1935 году Томас Мор был канонизирован католической церковью."
+      }
+    ]
+  },
+  {
+    "id": 7099,
+    "question_de": "Welcher Reformator leitete die Reformation in Zürich und lehnte – anders als Luther – die leibliche Gegenwart Christi im Abendmahl ab?",
+    "question_ru": "Какой реформатор возглавил Реформацию в Цюрихе и — в отличие от Лютера — отрицал телесное присутствие Христа в причастии?",
+    "correct_answer_de": "Huldrych Zwingli",
+    "correct_answer_ru": "Ульрих Цвингли",
+    "wrong_answers_de": [
+      "Johannes Calvin",
+      "Martin Bucer",
+      "Thomas Müntzer"
+    ],
+    "wrong_answers_ru": [
+      "Жан Кальвин",
+      "Мартин Буцер",
+      "Томас Мюнцер"
+    ],
+    "explanation_de": "Huldrych Zwingli reformierte Zürich ab 1519 und sah das Abendmahl nur als symbolische Erinnerungsfeier – ein Streitpunkt mit Luther beim Marburger Religionsgespräch 1529.",
+    "explanation_ru": "Ульрих Цвингли реформировал Цюрих с 1519 года и считал причастие лишь символическим воспоминанием — это стало предметом спора с Лютером на Марбургском диспуте 1529 года.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1519 CE",
+    "tags": [
+      "Reformation",
+      "Schweiz"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Zwingli fiel 1531 in der Schlacht von Kappel als Feldprediger.",
+        "ru": "Цвингли погиб в 1531 году в битве при Каппеле как полевой проповедник."
+      },
+      {
+        "de": "In Zürich ließ Zwingli Kirchenbilder und Orgeln entfernen, da er sie für Götzendienst hielt.",
+        "ru": "В Цюрихе Цвингли велел убрать церковные образы и органы, считая их идолопоклонством."
+      },
+      {
+        "de": "Luther und Zwingli einigten sich beim Marburger Gespräch in 14 von 15 Punkten – nur beim Abendmahl nicht.",
+        "ru": "Лютер и Цвингли договорились на Марбургском диспуте по 14 из 15 пунктов — кроме причастия."
+      }
+    ]
+  },
+  {
+    "id": 7100,
+    "question_de": "Wie nannte man im 16. Jahrhundert die radikale Reformationsbewegung, die die Kindertaufe ablehnte und nur die Erwachsenentaufe anerkannte?",
+    "question_ru": "Как называлось в XVI веке радикальное реформационное движение, отвергавшее крещение младенцев и признававшее только крещение взрослых?",
+    "correct_answer_de": "Täuferbewegung (Anabaptisten)",
+    "correct_answer_ru": "Анабаптисты (перекрещенцы)",
+    "wrong_answers_de": [
+      "Pietisten",
+      "Hugenotten",
+      "Mennoniten"
+    ],
+    "wrong_answers_ru": [
+      "Пиетисты",
+      "Гугеноты",
+      "Меннониты"
+    ],
+    "explanation_de": "Die Täufer lehnten die Kindertaufe als ungültig ab und wurden daher als Aufrührer verfolgt – viele flohen in die Niederlande oder nach Amerika.",
+    "explanation_ru": "Анабаптисты считали крещение младенцев недействительным и подвергались преследованиям как бунтовщики — многие бежали в Нидерланды или Америку.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1525 CE",
+    "tags": [
+      "Reformation",
+      "Deutschland"
+    ],
+    "interesting_facts": [
+      {
+        "de": "1534–35 errichteten Täufer in Münster ein 'Gottesreich', das blutig niedergeschlagen wurde.",
+        "ru": "В 1534–35 гг. анабаптисты основали в Мюнстере «Царство Божье», которое было жестоко подавлено."
+      },
+      {
+        "de": "Auf Täufer stand in vielen Territorien die Todesstrafe.",
+        "ru": "Во многих землях анабаптистам грозила смертная казнь."
+      },
+      {
+        "de": "Die heutigen Mennoniten und Amish gehen auf die Täuferbewegung zurück.",
+        "ru": "Современные меннониты и амиши восходят к движению анабаптистов."
+      }
+    ]
+  },
+  {
+    "id": 7101,
+    "question_de": "Welches kirchliche Verzeichnis legte seit 1559 fest, welche Bücher Katholiken nicht lesen durften?",
+    "question_ru": "Какой церковный список с 1559 года определял, какие книги католикам запрещено читать?",
+    "correct_answer_de": "Index Librorum Prohibitorum",
+    "correct_answer_ru": "Индекс запрещённых книг",
+    "wrong_answers_de": [
+      "Codex Iuris Canonici",
+      "Inquisitionshandbuch",
+      "Dekret von Trient"
+    ],
+    "wrong_answers_ru": [
+      "Кодекс канонического права",
+      "Руководство инквизиции",
+      "Тридентский декрет"
+    ],
+    "explanation_de": "Der 'Index der verbotenen Bücher' wurde von Papst Paul IV. eingeführt und enthielt Werke von Kopernikus, Galilei und Erasmus. Er existierte bis 1966.",
+    "explanation_ru": "«Индекс запрещённых книг» был введён папой Павлом IV и содержал труды Коперника, Галилея и Эразма. Он существовал до 1966 года.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1559 CE",
+    "tags": [
+      "Gegenreformation",
+      "Kirche"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Index umfasste zeitweise über 4.000 Titel.",
+        "ru": "В разное время индекс насчитывал более 4000 наименований."
+      },
+      {
+        "de": "Auch Galileis 'Dialog über die zwei Weltsysteme' stand auf dem Index.",
+        "ru": "«Диалог о двух главнейших системах мира» Галилея тоже был внесён в индекс."
+      },
+      {
+        "de": "Der Index wurde erst 1966 von Papst Paul VI. offiziell abgeschafft.",
+        "ru": "Индекс был официально упразднён лишь в 1966 году папой Павлом VI."
+      }
+    ]
+  },
+  {
+    "id": 7102,
+    "question_de": "Wofür war die Spanische Inquisition, die 1478 gegründet wurde, besonders berüchtigt?",
+    "question_ru": "Чем особенно прославилась Испанская инквизиция, основанная в 1478 году?",
+    "correct_answer_de": "Verfolgung von Juden, Muslimen und Ketzern durch Verhöre und Folter",
+    "correct_answer_ru": "Преследование евреев, мусульман и еретиков с помощью допросов и пыток",
+    "wrong_answers_de": [
+      "Verwaltung der Kolonien in Amerika",
+      "Kontrolle des Seehandels",
+      "Ausbildung von Priestern"
+    ],
+    "wrong_answers_ru": [
+      "Управление колониями в Америке",
+      "Контроль морской торговли",
+      "Подготовка священников"
+    ],
+    "explanation_de": "Die Spanische Inquisition verfolgte vor allem zum Christentum konvertierte Juden (Conversos) und Muslime (Moriscos) sowie Protestanten und Hexen.",
+    "explanation_ru": "Испанская инквизиция преследовала прежде всего евреев-конверсов, крещёных мусульман (морисков), а также протестантов и ведьм.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1478 CE",
+    "tags": [
+      "Spanien",
+      "Religion"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der erste Großinquisitor Tomás de Torquemada veranlasste rund 2.000 Hinrichtungen.",
+        "ru": "Первый великий инквизитор Томас де Торквемада санкционировал около 2000 казней."
+      },
+      {
+        "de": "Die Inquisition wurde erst 1834 endgültig abgeschafft.",
+        "ru": "Инквизиция была окончательно упразднена лишь в 1834 году."
+      },
+      {
+        "de": "Im Jahr 1492 wurden alle Juden aus Spanien vertrieben, falls sie sich nicht taufen ließen.",
+        "ru": "В 1492 году все евреи были изгнаны из Испании, если они не принимали крещение."
+      }
+    ]
+  },
+  {
+    "id": 7103,
+    "question_de": "Was versteht man unter dem 'Kolumbianischen Austausch' nach 1492?",
+    "question_ru": "Что понимают под «Колумбовым обменом» после 1492 года?",
+    "correct_answer_de": "Den weltweiten Austausch von Pflanzen, Tieren und Krankheiten zwischen Amerika und Europa",
+    "correct_answer_ru": "Глобальный обмен растениями, животными и болезнями между Америкой и Европой",
+    "wrong_answers_de": [
+      "Den Sklavenhandel zwischen Afrika und Amerika",
+      "Den Gewürzhandel mit Asien",
+      "Die Übernahme aztekischer Kunst durch Europa"
+    ],
+    "wrong_answers_ru": [
+      "Работорговлю между Африкой и Америкой",
+      "Торговлю пряностями с Азией",
+      "Перенятие ацтекского искусства Европой"
+    ],
+    "explanation_de": "Nach 1492 gelangten Kartoffel, Tomate und Mais nach Europa; Pferde, Rinder und Pocken wurden nach Amerika gebracht – mit verheerenden Folgen für die indigene Bevölkerung.",
+    "explanation_ru": "После 1492 года в Европу попали картофель, помидоры и кукуруза; в Америку были завезены лошади, крупный рогатый скот и оспа — с катастрофическими последствиями для коренных народов.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "conceptual",
+    "period": "1492 CE",
+    "tags": [
+      "Entdeckungen",
+      "Amerika"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Europäische Krankheiten wie Pocken töteten bis zu 90 % der indigenen Bevölkerung Amerikas.",
+        "ru": "Европейские болезни, такие как оспа, уничтожили до 90% коренного населения Америки."
+      },
+      {
+        "de": "Die Kartoffel aus Amerika rettete später Millionen Europäer vor dem Hungertod.",
+        "ru": "Картофель из Америки впоследствии спас миллионы европейцев от голодной смерти."
+      },
+      {
+        "de": "Auch Tabak, Kakao, Vanille und Chili kamen durch den Kolumbianischen Austausch nach Europa.",
+        "ru": "Благодаря Колумбову обмену в Европу попали также табак, какао, ваниль и перец чили."
+      }
+    ]
+  },
+  {
+    "id": 7104,
+    "question_de": "Welches Getränk, das aus Mittelamerika stammt, wurde im 16. Jahrhundert zuerst an europäischen Königshöfen und später in Kaffeehäusern populär?",
+    "question_ru": "Какой напиток, происходящий из Центральной Америки, в XVI веке стал популярным сначала при европейских королевских дворах, а затем в кофейнях?",
+    "correct_answer_de": "Schokolade (Kakao)",
+    "correct_answer_ru": "Шоколад (какао)",
+    "wrong_answers_de": [
+      "Kaffee",
+      "Tee",
+      "Rum"
+    ],
+    "wrong_answers_ru": [
+      "Кофе",
+      "Чай",
+      "Ром"
+    ],
+    "explanation_de": "Hernán Cortés brachte Kakao aus Mexico nach Spanien. Am Hof wurde er mit Zucker und Gewürzen vermischt – das erste Schokoladengetränk Europas.",
+    "explanation_ru": "Эрнан Кортес привёз какао из Мексики в Испанию. При дворе его смешивали с сахаром и специями — так появился первый шоколадный напиток в Европе.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1550 CE",
+    "tags": [
+      "Entdeckungen",
+      "Kultur"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Azteken tranken Kakao kalt und bitter, oft mit Chili.",
+        "ru": "Ацтеки пили какао холодным и горьким, нередко с добавлением чили."
+      },
+      {
+        "de": "Spanien hielt das Kakaorezept fast 100 Jahre lang geheim vor dem Rest Europas.",
+        "ru": "Испания почти 100 лет держала рецепт какао в тайне от остальной Европы."
+      },
+      {
+        "de": "Erst im 19. Jahrhundert wurde Schokolade fest und in Tafeln gegossen.",
+        "ru": "Лишь в XIX веке шоколад стал твёрдым и стали отливать плитки."
+      }
+    ]
+  },
+  {
+    "id": 7105,
+    "question_de": "Welcher niederländische Maler schuf 1642 das berühmte Gruppenporträt 'Die Nachtwache'?",
+    "question_ru": "Какой нидерландский живописец создал в 1642 году знаменитый групповой портрет «Ночной дозор»?",
+    "correct_answer_de": "Rembrandt van Rijn",
+    "correct_answer_ru": "Рембрандт ван Рейн",
+    "wrong_answers_de": [
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "wrong_answers_ru": [
+      "Ян Вермер",
+      "Франс Халс",
+      "Ян Стен"
+    ],
+    "explanation_de": "Rembrandts 'Nachtwache' ist das bekannteste Gemälde des Rijksmuseums in Amsterdam und gilt als Meisterwerk des Barock mit seiner dramatischen Licht-Schatten-Wirkung.",
+    "explanation_ru": "«Ночной дозор» Рембрандта — самая известная картина Рейксмюзеума в Амстердаме и считается шедевром барокко с его драматическим светотеневым эффектом.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1642 CE",
+    "tags": [
+      "Kunst",
+      "Niederlande"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Bild wurde 1715 beschnitten, um durch eine schmalere Tür zu passen.",
+        "ru": "В 1715 году картина была обрезана, чтобы пройти через более узкую дверь."
+      },
+      {
+        "de": "Rembrandt benutzte Licht und Schatten (Chiaroscuro) auf revolutionäre Weise.",
+        "ru": "Рембрандт революционным образом использовал светотень (кьяроскуро)."
+      },
+      {
+        "de": "Im 20. Jahrhundert wurde das Gemälde dreimal angegriffen und beschädigt.",
+        "ru": "В XX веке картина трижды подвергалась нападениям и была повреждена."
+      }
+    ]
+  },
+  {
+    "id": 7106,
+    "question_de": "Welche kleine Stadt in den Niederlanden ist Heimat des Malers Johannes Vermeer, bekannt für sein Bild 'Das Mädchen mit dem Perlenohrring'?",
+    "question_ru": "В каком небольшом нидерландском городе родился художник Ян Вермер, известный картиной «Девушка с жемчужной серёжкой»?",
+    "correct_answer_de": "Delft",
+    "correct_answer_ru": "Делфт",
+    "wrong_answers_de": [
+      "Amsterdam",
+      "Leiden",
+      "Haarlem"
+    ],
+    "wrong_answers_ru": [
+      "Амстердам",
+      "Лейден",
+      "Харлем"
+    ],
+    "explanation_de": "Johannes Vermeer lebte und arbeitete fast sein ganzes Leben in Delft. Sein Werk umfasst nur etwa 34–36 bekannte Gemälde, darunter das weltberühmte 'Mädchen mit dem Perlenohrring'.",
+    "explanation_ru": "Ян Вермер почти всю жизнь прожил и работал в Делфте. Его наследие насчитывает лишь около 34–36 известных картин, в том числе всемирно известную «Девушку с жемчужной серёжкой».",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1665 CE",
+    "tags": [
+      "Kunst",
+      "Niederlande"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Vermeer hinterließ beim Tod 1675 elf Kinder und erhebliche Schulden.",
+        "ru": "Умерев в 1675 году, Вермер оставил одиннадцать детей и значительные долги."
+      },
+      {
+        "de": "Das 'Mädchen mit dem Perlenohrring' wird oft als 'Mona Lisa des Nordens' bezeichnet.",
+        "ru": "«Девушку с жемчужной серёжкой» часто называют «Моной Лизой Севера»."
+      },
+      {
+        "de": "Vermeer wurde erst im 19. Jahrhundert wiederentdeckt; zu Lebzeiten war er kaum bekannt.",
+        "ru": "Вермер был вновь открыт лишь в XIX веке; при жизни он был почти неизвестен."
+      }
+    ]
+  },
+  {
+    "id": 7107,
+    "question_de": "Welcher flämische Maler des 17. Jahrhunderts war bekannt für großformatige Barockgemälde mit üppigen Frauengestalten und mythologischen Szenen?",
+    "question_ru": "Какой фламандский живописец XVII века прославился масштабными барочными полотнами с пышными женскими фигурами и мифологическими сценами?",
+    "correct_answer_de": "Peter Paul Rubens",
+    "correct_answer_ru": "Питер Пауль Рубенс",
+    "wrong_answers_de": [
+      "Anthony van Dyck",
+      "Jacob Jordaens",
+      "Frans Snyders"
+    ],
+    "wrong_answers_ru": [
+      "Антонис ван Дейк",
+      "Якоб Йорданс",
+      "Франс Снейдерс"
+    ],
+    "explanation_de": "Rubens war der bedeutendste Vertreter des flämischen Barocks, arbeitete für europäische Höfe und führte eine große Werkstatt in Antwerpen.",
+    "explanation_ru": "Рубенс был крупнейшим представителем фламандского барокко, работал для европейских дворов и руководил большой мастерской в Антверпене.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1620 CE",
+    "tags": [
+      "Kunst",
+      "Niederlande"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Rubens war auch als Diplomat tätig und verhandelte Friedensverträge.",
+        "ru": "Рубенс также занимался дипломатией и вёл переговоры о мирных договорах."
+      },
+      {
+        "de": "In seiner Werkstatt arbeiteten bis zu 200 Gehilfen, darunter Anthony van Dyck.",
+        "ru": "В его мастерской работали до 200 помощников, в том числе Антонис ван Дейк."
+      },
+      {
+        "de": "Rubens heiratete mit 53 Jahren die 16-jährige Hélène Fourment – sie wurde sein Lieblingsmodell.",
+        "ru": "В 53 года Рубенс женился на 16-летней Элен Фурман — она стала его любимой моделью."
+      }
+    ]
+  },
+  {
+    "id": 7108,
+    "question_de": "Welcher italienische Maler um 1600 revolutionierte die Kunst durch seinen extremen Einsatz von Licht und Schatten (Chiaroscuro)?",
+    "question_ru": "Какой итальянский живописец около 1600 года произвёл революцию в искусстве благодаря крайнему использованию светотени (кьяроскуро)?",
+    "correct_answer_de": "Caravaggio",
+    "correct_answer_ru": "Караваджо",
+    "wrong_answers_de": [
+      "Tizian",
+      "Tintoretto",
+      "Annibale Carracci"
+    ],
+    "wrong_answers_ru": [
+      "Тициан",
+      "Тинторетто",
+      "Аннибале Карраччи"
+    ],
+    "explanation_de": "Caravaggio malte religiöse Szenen mit drastischem Realismus und hartem Lichtkontrast – ein Stil, der als 'Tenebrismus' bekannt wurde und ganz Europa beeinflusste.",
+    "explanation_ru": "Караваджо писал религиозные сцены с жёстким реализмом и резким световым контрастом — стиль, получивший название «тенебризм» и повлиявший на всю Европу.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1600 CE",
+    "tags": [
+      "Kunst",
+      "Italien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Caravaggio tötete 1606 einen Mann bei einem Streit und musste aus Rom fliehen.",
+        "ru": "В 1606 году Караваджо убил человека в драке и был вынужден бежать из Рима."
+      },
+      {
+        "de": "Er starb 1610 unter ungeklärten Umständen mit nur etwa 38 Jahren.",
+        "ru": "Он умер в 1610 году при невыясненных обстоятельствах в возрасте около 38 лет."
+      },
+      {
+        "de": "Sein Einfluss auf Rembrandt, Rubens und andere Barockkünstler war enorm.",
+        "ru": "Его влияние на Рембрандта, Рубенса и других мастеров барокко было огромным."
+      }
+    ]
+  },
+  {
+    "id": 7109,
+    "question_de": "In welcher Stadt entstand um 1600 die Oper als neue Kunstform, als florentinische Gelehrte die antike griechische Tragödie neu erschaffen wollten?",
+    "question_ru": "В каком городе около 1600 года возникла опера как новый вид искусства, когда флорентийские учёные захотели воссоздать античную греческую трагедию?",
+    "correct_answer_de": "Florenz",
+    "correct_answer_ru": "Флоренция",
+    "wrong_answers_de": [
+      "Venedig",
+      "Rom",
+      "Mailand"
+    ],
+    "wrong_answers_ru": [
+      "Венеция",
+      "Рим",
+      "Милан"
+    ],
+    "explanation_de": "Die 'Camerata de' Bardi' in Florenz versuchte, antikes griechisches Musiktheater zu rekonstruieren – dabei entstand die Oper. Das älteste erhaltene Opernwerk ist Jacopo Peris 'Euridice' (1600).",
+    "explanation_ru": "«Camerata de' Bardi» во Флоренции пыталась реконструировать античный греческий музыкальный театр — так родилась опера. Древнейшее сохранившееся оперное произведение — «Эвридика» Якопо Пери (1600).",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1600 CE",
+    "tags": [
+      "Kultur",
+      "Italien",
+      "Musik"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die erste bedeutende Oper war Monteverdis 'L'Orfeo' von 1607.",
+        "ru": "Первой значимой оперой стала «L'Orfeo» Монтеверди 1607 года."
+      },
+      {
+        "de": "Venedig eröffnete 1637 das erste öffentliche Opernhaus der Welt.",
+        "ru": "В 1637 году Венеция открыла первый в мире публичный оперный театр."
+      },
+      {
+        "de": "Oper verbreitete sich rasch durch ganz Europa und wurde zum Symbol höfischen Prestiges.",
+        "ru": "Опера быстро распространилась по всей Европе и стала символом придворного престижа."
+      }
+    ]
+  },
+  {
+    "id": 7110,
+    "question_de": "Welcher Staatsmann leitete als Kardinal und Erster Minister von 1624 bis 1642 die Zentralisierung der Macht in Frankreich?",
+    "question_ru": "Какой государственный деятель в качестве кардинала и первого министра с 1624 по 1642 год руководил централизацией власти во Франции?",
+    "correct_answer_de": "Kardinal Richelieu",
+    "correct_answer_ru": "Кардинал Ришельё",
+    "wrong_answers_de": [
+      "Kardinal Mazarin",
+      "Jean-Baptiste Colbert",
+      "Kardinal Fleury"
+    ],
+    "wrong_answers_ru": [
+      "Кардинал Мазарен",
+      "Жан-Батист Кольбер",
+      "Кардинал Флёри"
+    ],
+    "explanation_de": "Richelieu schwächte den Adel, bekämpfte die Hugenotten und stärkte die königliche Autorität – er legte den Grundstein für den französischen Absolutismus.",
+    "explanation_ru": "Ришельё ослабил знать, подавлял гугенотов и укреплял королевскую власть — он заложил основу французского абсолютизма.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1630 CE",
+    "tags": [
+      "Frankreich",
+      "Politik"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Richelieu gründete 1635 die Académie française, die noch heute die französische Sprache normiert.",
+        "ru": "В 1635 году Ришельё основал Académie française, которая и сегодня нормирует французский язык."
+      },
+      {
+        "de": "Er ließ zur Kontrolle des Königs ein Spionagenetz im ganzen Land aufbauen.",
+        "ru": "Он создал разведывательную сеть по всей стране для контроля над королём."
+      },
+      {
+        "de": "Alexandre Dumas verewigte Richelieu als Antagonisten in 'Die drei Musketiere'.",
+        "ru": "Александр Дюма увековечил Ришельё в роли антагониста в «Трёх мушкетёрах»."
+      }
+    ]
+  },
+  {
+    "id": 7111,
+    "question_de": "Welche Königin wurde 1793 während der Französischen Revolution guillotiniert, nachdem sie als 'Madame Déficit' verhasst geworden war?",
+    "question_ru": "Какая королева была гильотинирована в 1793 году во время Французской революции, снискав ненависть как «мадам Дефицит»?",
+    "correct_answer_de": "Marie Antoinette",
+    "correct_answer_ru": "Мария-Антуанетта",
+    "wrong_answers_de": [
+      "Marie-Thérèse von Österreich",
+      "Madame de Pompadour",
+      "Königin Charlotte von England"
+    ],
+    "wrong_answers_ru": [
+      "Мария-Терезия Австрийская",
+      "Маркиза де Помпадур",
+      "Королева Шарлотта Английская"
+    ],
+    "explanation_de": "Marie Antoinette, Tochter der österreichischen Kaiserin Maria Theresia, heiratete Ludwig XVI. Ihr Luxusleben in Versailles machte sie beim Volk verhasst; sie wurde am 16. Oktober 1793 hingerichtet.",
+    "explanation_ru": "Мария-Антуанетта, дочь австрийской императрицы Марии Терезии, вышла замуж за Людовика XVI. Её роскошная жизнь в Версале вызывала ненависть народа; 16 октября 1793 года она была казнена.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1793 CE",
+    "tags": [
+      "Frankreich",
+      "Revolution"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Sie wurde mit 14 Jahren mit dem französischen Thronfolger verlobt.",
+        "ru": "В 14 лет она была обручена с французским наследником престола."
+      },
+      {
+        "de": "Das ihr zugeschriebene Zitat 'Wenn sie kein Brot haben, sollen sie Kuchen essen' ist wahrscheinlich erfunden.",
+        "ru": "Приписываемая ей фраза «Если у них нет хлеба, пусть едят пирожные» скорее всего выдумана."
+      },
+      {
+        "de": "Marie Antoinette wurde in der Conciergerie inhaftiert, bevor sie zur Guillotine geführt wurde.",
+        "ru": "Перед казнью Мария-Антуанетта содержалась в тюрьме Консьержери."
+      }
+    ]
+  },
+  {
+    "id": 7112,
+    "question_de": "Welche Erklärung verabschiedete die französische Nationalversammlung im August 1789 und formulierte erstmals universelle Menschenrechte?",
+    "question_ru": "Какую декларацию приняло французское Национальное собрание в августе 1789 года, впервые сформулировав универсальные права человека?",
+    "correct_answer_de": "Erklärung der Menschen- und Bürgerrechte",
+    "correct_answer_ru": "Декларация прав человека и гражданина",
+    "wrong_answers_de": [
+      "Magna Carta",
+      "Bill of Rights",
+      "Unabhängigkeitserklärung der USA"
+    ],
+    "wrong_answers_ru": [
+      "Великая хартия вольностей",
+      "Билль о правах",
+      "Декларация независимости США"
+    ],
+    "explanation_de": "Die 'Déclaration des droits de l'homme et du citoyen' erklärte Freiheit, Eigentum und Sicherheit als natürliche Rechte aller Menschen – ein Grundtext der modernen Demokratie.",
+    "explanation_ru": "«Déclaration des droits de l'homme et du citoyen» провозгласила свободу, собственность и безопасность естественными правами всех людей — основополагающий текст современной демократии.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1789 CE",
+    "tags": [
+      "Frankreich",
+      "Revolution",
+      "Aufklärung"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Erklärung wurde stark von John Locke und Jean-Jacques Rousseau beeinflusst.",
+        "ru": "На декларацию сильное влияние оказали Джон Локк и Жан-Жак Руссо."
+      },
+      {
+        "de": "Frauen waren von den Rechten zunächst ausgeschlossen; Olympe de Gouges forderte 1791 eine eigene Erklärung für Frauen.",
+        "ru": "Первоначально женщины были исключены из числа носителей прав; в 1791 году Олимпия де Гуж потребовала отдельной декларации для женщин."
+      },
+      {
+        "de": "Die Erklärung gilt bis heute als Grundlage der UN-Menschenrechtserklärung von 1948.",
+        "ru": "Декларация до сих пор считается основой Декларации ООН о правах человека 1948 года."
+      }
+    ]
+  },
+  {
+    "id": 7113,
+    "question_de": "Welche Bank wurde 1694 als erste Zentralbank der Welt gegründet, um England bei der Kriegsfinanzierung zu helfen?",
+    "question_ru": "Какой банк был основан в 1694 году как первый центральный банк в мире, чтобы помочь Англии финансировать войны?",
+    "correct_answer_de": "Bank of England",
+    "correct_answer_ru": "Банк Англии",
+    "wrong_answers_de": [
+      "Amsterdamsche Wisselbank",
+      "Banco di San Giorgio",
+      "Schwedische Riksbank"
+    ],
+    "wrong_answers_ru": [
+      "Амстердамский банк обмена",
+      "Banco di San Giorgio",
+      "Шведский Риксбанк"
+    ],
+    "explanation_de": "Die Bank of England wurde gegründet, um Staatsanleihen zu verwalten und die Kriegsführung gegen Frankreich zu finanzieren – sie revolutionierte das moderne Bankwesen.",
+    "explanation_ru": "Банк Англии был основан для управления государственными облигациями и финансирования войны против Франции — он произвёл революцию в современном банковском деле.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1694 CE",
+    "tags": [
+      "Wirtschaft",
+      "England"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Bank of England wurde von schottischen Kaufleuten unter William Paterson gegründet.",
+        "ru": "Банк Англии был основан шотландскими купцами во главе с Уильямом Патерсоном."
+      },
+      {
+        "de": "Sie begann mit einem Darlehen von 1,2 Millionen Pfund an die Krone.",
+        "ru": "Банк начал работу с займа в 1,2 миллиона фунтов стерлингов для короны."
+      },
+      {
+        "de": "Die Riksbank in Schweden (1668) war technisch die erste Zentralbank, die Bank of England aber das einflussreichere Modell.",
+        "ru": "Технически первым центральным банком был шведский Риксбанк (1668), однако Банк Англии стал более влиятельной моделью."
+      }
+    ]
+  },
+  {
+    "id": 7114,
+    "question_de": "Welcher spanisch-griechische Maler, der ab 1577 in Toledo lebte, schuf elongierte, ausdrucksstarke Figuren in geheimnisvollem Licht?",
+    "question_ru": "Какой испано-греческий художник, живший с 1577 года в Толедо, создавал вытянутые, выразительные фигуры в таинственном свете?",
+    "correct_answer_de": "El Greco",
+    "correct_answer_ru": "Эль Греко",
+    "wrong_answers_de": [
+      "Diego Velázquez",
+      "Francisco de Zurbarán",
+      "Bartolomé Murillo"
+    ],
+    "wrong_answers_ru": [
+      "Диего Веласкес",
+      "Франсиско де Сурбаран",
+      "Бартоломе Мурильо"
+    ],
+    "explanation_de": "El Greco (Domenikos Theotokopoulos) stammte aus Kreta, studierte in Venedig und ließ sich schließlich in Toledo nieder, wo er seinen unverwechselbaren Stil entwickelte.",
+    "explanation_ru": "Эль Греко (Доменикос Теотокопулос) родился на Крите, учился в Венеции и в конце концов осел в Толедо, где выработал свой неповторимый стиль.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1590 CE",
+    "tags": [
+      "Kunst",
+      "Spanien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Sein bekanntestes Werk ist 'Die Begräbnis des Grafen von Orgaz' (1586) in Toledo.",
+        "ru": "Его самая известная работа — «Погребение графа Оргаса» (1586) в Толедо."
+      },
+      {
+        "de": "Zu Lebzeiten war El Greco umstritten; seine Wiederentdeckung erfolgte erst im 20. Jahrhundert.",
+        "ru": "При жизни Эль Греко был спорной фигурой; его вновь открыли лишь в XX веке."
+      },
+      {
+        "de": "Sein Stil beeinflusste später den Expressionismus und Kubismus.",
+        "ru": "Его стиль впоследствии повлиял на экспрессионизм и кубизм."
+      }
+    ]
+  },
+  {
+    "id": 7115,
+    "question_de": "Wofür ist Leonardo da Vinci neben seiner Malerei (Mona Lisa, Abendmahl) besonders bekannt?",
+    "question_ru": "Чем известен Леонардо да Винчи помимо живописи (Мона Лиза, Тайная вечеря)?",
+    "correct_answer_de": "Als Erfinder und Wissenschaftler mit Entwürfen für Flugmaschinen, Tanks und Anatomie",
+    "correct_answer_ru": "Как изобретатель и учёный, создавший чертежи летательных аппаратов, танков и анатомические рисунки",
+    "wrong_answers_de": [
+      "Als Komponist höfischer Musik",
+      "Als Architekt des Petersdoms",
+      "Als Entdecker Brasiliens"
+    ],
+    "wrong_answers_ru": [
+      "Как композитор придворной музыки",
+      "Как архитектор собора Святого Петра",
+      "Как первооткрыватель Бразилии"
+    ],
+    "explanation_de": "Leonardos Notizbücher enthalten Entwürfe für Hubschrauber, Panzer, Solarkollektoren und detaillierte anatomische Zeichnungen – Jahrhunderte vor ihrer Umsetzung.",
+    "explanation_ru": "Записные книжки Леонардо содержат чертежи вертолётов, танков, солнечных коллекторов и детальные анатомические рисунки — за века до их реализации.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1500 CE",
+    "tags": [
+      "Renaissance",
+      "Wissenschaft",
+      "Italien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Leonardo sezierte über 30 menschliche Leichen, um den Körper zu verstehen.",
+        "ru": "Леонардо вскрыл более 30 человеческих трупов, чтобы понять строение тела."
+      },
+      {
+        "de": "Er schrieb rückwärts von rechts nach links – seine Notizbücher sind Spiegelschrift.",
+        "ru": "Он писал справа налево в зеркальном отражении — все его записные книжки написаны зеркальным шрифтом."
+      },
+      {
+        "de": "Leonardo blieb viele Werke unvollendet, weil sein Geist stets zu neuen Ideen sprang.",
+        "ru": "Леонардо оставил многие работы незавершёнными, поскольку его ум постоянно устремлялся к новым идеям."
+      }
+    ]
+  },
+  {
+    "id": 7116,
+    "question_de": "Welcher flämische Maler gilt als Begründer der Ölmalerei und schuf mit dem Genter Altar ein Meisterwerk der Frührenaissance?",
+    "question_ru": "Какой фламандский художник считается основателем масляной живописи и создал с Гентским алтарём шедевр ранней Ренессанса?",
+    "correct_answer_de": "Jan van Eyck",
+    "correct_answer_ru": "Ян ван Эйк",
+    "wrong_answers_de": [
+      "Rogier van der Weyden",
+      "Hans Memling",
+      "Hieronymus Bosch"
+    ],
+    "wrong_answers_ru": [
+      "Рогир ван дер Вейден",
+      "Ханс Мемлинг",
+      "Иероним Босх"
+    ],
+    "explanation_de": "Jan van Eyck perfektionierte die Ölmalerei und ermöglichte damit glänzende Details, tiefe Farben und realistische Texturen – ein Sprung gegenüber der Tempera.",
+    "explanation_ru": "Ян ван Эйк усовершенствовал масляную живопись, что позволило достигать блестящих деталей, глубоких цветов и реалистичных текстур — огромный шаг вперёд по сравнению с темперой.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1450 CE",
+    "tags": [
+      "Kunst",
+      "Niederlande",
+      "Renaissance"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Genter Altar wurde im Zweiten Weltkrieg von den Nazis gestohlen und versteckt.",
+        "ru": "Гентский алтарь был похищен нацистами во время Второй мировой войны и спрятан."
+      },
+      {
+        "de": "Jan van Eyck malte sich selbst im Spiegelbild des 'Arnolfini-Porträts'.",
+        "ru": "Ян ван Эйк изобразил себя в отражении зеркала на «Портрете четы Арнольфини»."
+      },
+      {
+        "de": "Van Eyck erfand die Ölmalerei nicht – er verfeinerte eine ältere Technik zu höchster Meisterschaft.",
+        "ru": "Ван Эйк не изобрёл масляную живопись — он довёл более старую технику до высшего совершенства."
+      }
+    ]
+  },
+  {
+    "id": 7117,
+    "question_de": "Welcher Renaissance-Arzt und Alchemist brach mit der antiken Lehre des Galen und betonte Beobachtung und Chemie in der Medizin?",
+    "question_ru": "Какой ренессансный врач и алхимик порвал с античным учением Галена и сделал упор на наблюдении и химии в медицине?",
+    "correct_answer_de": "Paracelsus",
+    "correct_answer_ru": "Парацельс",
+    "wrong_answers_de": [
+      "Andreas Vesal",
+      "William Harvey",
+      "Ambroise Paré"
+    ],
+    "wrong_answers_ru": [
+      "Андреас Везалий",
+      "Уильям Гарвей",
+      "Амбруаз Паре"
+    ],
+    "explanation_de": "Paracelsus (Theophrastus Bombastus von Hohenheim) verbrannte öffentlich Galens Bücher, bestand auf Beobachtung statt Autorität und begründete die Pharmakologie.",
+    "explanation_ru": "Парацельс (Теофраст Бомбаст фон Гогенгейм) публично сжигал книги Галена, настаивал на наблюдении вместо авторитета и стал основателем фармакологии.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1530 CE",
+    "tags": [
+      "Wissenschaft",
+      "Medizin"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Sein Name 'Paracelsus' bedeutet 'jenseits des Celsus' – er hielt sich für besser als der antike Mediziner Celsus.",
+        "ru": "Его имя «Парацельс» означает «превыше Цельса» — он считал себя лучше античного медика Цельса."
+      },
+      {
+        "de": "Paracelsus erkannte, dass Quecksilber Syphilis heilen kann – obwohl die Dosis oft tödlich war.",
+        "ru": "Парацельс понял, что ртуть может лечить сифилис — хотя доза нередко была смертельной."
+      },
+      {
+        "de": "Er gilt als Begründer des Grundsatzes: 'Die Dosis macht das Gift.'",
+        "ru": "Он считается автором принципа: «Всё есть яд, и ничто не лишено ядовитости — одна лишь доза делает яд незаметным»."
+      }
+    ]
+  },
+  {
+    "id": 7118,
+    "question_de": "Bei welchem Religionsgespräch im Jahr 1521 weigerte sich Martin Luther, seine Schriften zu widerrufen, mit den Worten: 'Hier stehe ich, ich kann nicht anders'?",
+    "question_ru": "На каком церковном соборе в 1521 году Мартин Лютер отказался отречься от своих сочинений со словами «Здесь стою я и не могу иначе»?",
+    "correct_answer_de": "Reichstag zu Worms",
+    "correct_answer_ru": "Вормсский рейхстаг",
+    "wrong_answers_de": [
+      "Konzil von Trient",
+      "Augsburger Religionsfriede",
+      "Marburger Religionsgespräch"
+    ],
+    "wrong_answers_ru": [
+      "Тридентский собор",
+      "Аугсбургский религиозный мир",
+      "Марбургский диспут"
+    ],
+    "explanation_de": "Auf dem Reichstag zu Worms (1521) forderte Kaiser Karl V. Luther auf, seine Lehren zu widerrufen. Luther lehnte ab und wurde daraufhin geächtet – doch der sächsische Kurfürst schützte ihn auf der Wartburg.",
+    "explanation_ru": "На Вормсском рейхстаге (1521) император Карл V потребовал от Лютера отречься от своих учений. Лютер отказался и был объявлен вне закона — однако саксонский курфюрст укрыл его в Вартбурге.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1521 CE",
+    "tags": [
+      "Reformation",
+      "Deutschland"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Auf der Wartburg übersetzte Luther das Neue Testament in nur 11 Wochen ins Deutsche.",
+        "ru": "На Вартбурге Лютер перевёл Новый Завет на немецкий язык всего за 11 недель."
+      },
+      {
+        "de": "Kaiser Karl V. hätte Luther verhaften können, gewährte ihm aber freies Geleit – ein Versprechen, das er einhielt.",
+        "ru": "Карл V мог арестовать Лютера, но дал ему охранную грамоту — обещание, которое он сдержал."
+      },
+      {
+        "de": "Das berühmte Zitat 'Hier stehe ich' findet sich tatsächlich nicht im Originalprotokoll – es wurde später ergänzt.",
+        "ru": "Знаменитая фраза «Здесь стою я» фактически отсутствует в оригинальном протоколе — она была добавлена позже."
+      }
+    ]
+  },
+  {
+    "id": 7119,
+    "question_de": "Welcher Friedensvertrag von 1555 regelte das Verhältnis zwischen Lutheranern und Katholiken im Heiligen Römischen Reich?",
+    "question_ru": "Какой мирный договор 1555 года урегулировал отношения между лютеранами и католиками в Священной Римской империи?",
+    "correct_answer_de": "Augsburger Religionsfriede",
+    "correct_answer_ru": "Аугсбургский религиозный мир",
+    "wrong_answers_de": [
+      "Westfälischer Friede",
+      "Edikt von Nantes",
+      "Konkordanz von Worms"
+    ],
+    "wrong_answers_ru": [
+      "Вестфальский мир",
+      "Нантский эдикт",
+      "Вормсский конкордат"
+    ],
+    "explanation_de": "Der Augsburger Religionsfriede legte den Grundsatz 'cuius regio, eius religio' fest – der Fürst bestimmt die Religion seines Landes. Calvinisten wurden nicht anerkannt.",
+    "explanation_ru": "Аугсбургский религиозный мир закрепил принцип «чья власть, того и вера» — правитель определяет религию своей земли. Кальвинисты при этом признаны не были.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1555 CE",
+    "tags": [
+      "Reformation",
+      "Deutschland",
+      "Religion"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Frieden galt nur für Lutheraner (Confessio Augustana), nicht für Reformierte oder Täufer.",
+        "ru": "Мир распространялся только на лютеран (Аугсбургское исповедание), но не на реформатов или анабаптистов."
+      },
+      {
+        "de": "Der Westfälische Friede von 1648 erweiterte den Augsburger Frieden auf den Calvinismus.",
+        "ru": "Вестфальский мир 1648 года распространил Аугсбургский мир на кальвинизм."
+      },
+      {
+        "de": "Das Prinzip 'cuius regio, eius religio' gilt als Vorläufer der modernen Religionsfreiheit.",
+        "ru": "Принцип «чья власть, того и вера» считается предшественником современной свободы вероисповедания."
+      }
+    ]
+  },
+  {
+    "id": 7120,
+    "question_de": "Welche Karavelle war das Flaggschiff von Christoph Kolumbus auf seiner ersten Reise nach Amerika 1492?",
+    "question_ru": "Какая каравелла была флагманским кораблём Христофора Колумба в его первом плавании в Америку в 1492 году?",
+    "correct_answer_de": "Santa María",
+    "correct_answer_ru": "Санта-Мария",
+    "wrong_answers_de": [
+      "Niña",
+      "Pinta",
+      "Victoria"
+    ],
+    "wrong_answers_ru": [
+      "Нинья",
+      "Пинта",
+      "Виктория"
+    ],
+    "explanation_de": "Kolumbus segelte mit drei Schiffen: der Santa María (Flaggschiff), der Niña und der Pinta. Die Santa María lief auf Hispaniola auf Grund und musste zurückgelassen werden.",
+    "explanation_ru": "Колумб плыл на трёх кораблях: «Санта-Марии» (флагман), «Нинье» и «Пинте». «Санта-Мария» села на мель у берегов Эспаньолы и была оставлена.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1492 CE",
+    "tags": [
+      "Entdeckungen",
+      "Spanien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Kolumbus starb 1506, ohne zu wissen, dass er einen neuen Kontinent entdeckt hatte – er glaubte, in Asien zu sein.",
+        "ru": "Колумб умер в 1506 году, не зная, что открыл новый континент — он думал, что находится в Азии."
+      },
+      {
+        "de": "Die Niña und Pinta kehrten sicher nach Spanien zurück; die Santa María versank nach der Strandung.",
+        "ru": "«Нинья» и «Пинта» благополучно вернулись в Испанию; «Санта-Мария» затонула после посадки на мель."
+      },
+      {
+        "de": "Die erste von Kolumbus betretene Insel war vermutlich das heutige San Salvador auf den Bahamas.",
+        "ru": "Первым островом, ступив на который Колумб вышел на берег, был, по всей видимости, нынешний Сан-Сальвадор на Багамах."
+      }
+    ]
+  },
+  {
+    "id": 7121,
+    "question_de": "Welcher Schriftsteller der Aufklärung wurde für seine kritischen Werke mehrfach inhaftiert und schrieb unter anderem 'Candide' (1759)?",
+    "question_ru": "Какой писатель эпохи Просвещения неоднократно заключался под стражу за свои критические произведения и написал, в частности, «Кандида» (1759)?",
+    "correct_answer_de": "Voltaire",
+    "correct_answer_ru": "Вольтер",
+    "wrong_answers_de": [
+      "Denis Diderot",
+      "Jean-Jacques Rousseau",
+      "Charles de Montesquieu"
+    ],
+    "wrong_answers_ru": [
+      "Дени Дидро",
+      "Жан-Жак Руссо",
+      "Шарль де Монтескьё"
+    ],
+    "explanation_de": "Voltaire (François-Marie Arouet) kritisierte Kirche, Adel und Absolutismus in satirischen Werken. Er lebte oft im Exil, war aber das intellektuelle Gewissen des 18. Jahrhunderts.",
+    "explanation_ru": "Вольтер (Франсуа-Мари Аруэ) критиковал церковь, аристократию и абсолютизм в сатирических произведениях. Он часто жил в изгнании, но был интеллектуальной совестью XVIII века.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1750 CE",
+    "tags": [
+      "Aufklärung",
+      "Frankreich"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Voltaire trank täglich bis zu 50 Tassen Kaffee und schrieb über 2.000 Bücher und Pamphlete.",
+        "ru": "Вольтер ежедневно выпивал до 50 чашек кофе и написал более 2000 книг и памфлетов."
+      },
+      {
+        "de": "Sein bekanntester Satz: 'Ich mag verdammt sein, wenn ich Ihre Meinung teile, aber ich werde Ihr Recht, sie zu äußern, bis zum Tod verteidigen.'",
+        "ru": "Его известнейшая фраза: «Я не согласен с тем, что вы говорите, но буду до смерти защищать ваше право это говорить»."
+      },
+      {
+        "de": "Voltaire lebte 18 Jahre in Ferney nahe der Schweizer Grenze, um schnell fliehen zu können.",
+        "ru": "Вольтер 18 лет прожил в Фернее близ швейцарской границы, чтобы при необходимости быстро бежать."
+      }
+    ]
+  },
+  {
+    "id": 7122,
+    "question_de": "Welcher amerikanische Gründervater und Wissenschaftler bewies mit einem Drachen-Experiment, dass Blitze elektrische Entladungen sind?",
+    "question_ru": "Какой отец-основатель США и учёный доказал с помощью опыта с воздушным змеем, что молния — это электрический разряд?",
+    "correct_answer_de": "Benjamin Franklin",
+    "correct_answer_ru": "Бенджамин Франклин",
+    "wrong_answers_de": [
+      "Thomas Jefferson",
+      "George Washington",
+      "John Adams"
+    ],
+    "wrong_answers_ru": [
+      "Томас Джефферсон",
+      "Джордж Вашингтон",
+      "Джон Адамс"
+    ],
+    "explanation_de": "Benjamin Franklin ließ 1752 einen Drachen in ein Gewitter steigen und bewies die elektrische Natur von Blitzen – woraufhin er den Blitzableiter erfand.",
+    "explanation_ru": "В 1752 году Бенджамин Франклин запустил воздушного змея во время грозы и доказал электрическую природу молний — после чего изобрёл громоотвод.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1752 CE",
+    "tags": [
+      "Aufklärung",
+      "Wissenschaft",
+      "Amerika"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Franklin erfand auch die Bifokalbrille, den Kaminofen 'Franklin-Ofen' und den Blitzableiter.",
+        "ru": "Франклин также изобрёл бифокальные очки, печь-камин «печь Франклина» и громоотвод."
+      },
+      {
+        "de": "Sein Porträt ziert die 100-Dollar-Note, obwohl er nie Präsident war.",
+        "ru": "Его портрет украшает банкноту в 100 долларов, хотя он никогда не был президентом."
+      },
+      {
+        "de": "Franklin war auch Drucker, Verleger, Postmeister und Diplomat – einer der vielseitigsten Gründerväter.",
+        "ru": "Франклин был также печатником, издателем, почтмейстером и дипломатом — один из наиболее разносторонних отцов-основателей."
+      }
+    ]
+  },
+  {
+    "id": 7123,
+    "question_de": "In welchem Jahr verabschiedeten die amerikanischen Kolonien die Unabhängigkeitserklärung und lösten sich von Großbritannien?",
+    "question_ru": "В каком году американские колонии приняли Декларацию независимости и отделились от Великобритании?",
+    "correct_answer_de": "1776",
+    "correct_answer_ru": "1776",
+    "wrong_answers_de": [
+      "1763",
+      "1783",
+      "1789"
+    ],
+    "wrong_answers_ru": [
+      "1763",
+      "1783",
+      "1789"
+    ],
+    "explanation_de": "Am 4. Juli 1776 erklärten die 13 Kolonien ihre Unabhängigkeit von der britischen Krone. Die von Thomas Jefferson verfasste Erklärung wurde zum Vorbild moderner Demokratien.",
+    "explanation_ru": "4 июля 1776 года тринадцать колоний объявили о независимости от британской короны. Составленная Томасом Джефферсоном декларация стала образцом для современных демократий.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1776 CE",
+    "tags": [
+      "Amerika",
+      "Revolution"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Thomas Jefferson schrieb den Erstentwurf in nur zwei Wochen.",
+        "ru": "Томас Джефферсон написал первый вариант декларации всего за две недели."
+      },
+      {
+        "de": "Der 4. Juli ist heute als 'Independence Day' der Nationalfeiertag der USA.",
+        "ru": "4 июля сегодня отмечается как «День независимости» — национальный праздник США."
+      },
+      {
+        "de": "John Adams und Thomas Jefferson starben am gleichen Tag – dem 4. Juli 1826, genau 50 Jahre nach der Erklärung.",
+        "ru": "Джон Адамс и Томас Джефферсон умерли в один день — 4 июля 1826 года, ровно через 50 лет после декларации."
+      }
+    ]
+  },
+  {
+    "id": 7124,
+    "question_de": "Was löste 1773 den amerikanischen Widerstand gegen die britische Steuerpolitik aus, als Kolonisten Teekisten in den Hafen von Boston warfen?",
+    "question_ru": "Что в 1773 году стало проявлением американского сопротивления британской налоговой политике, когда колонисты бросили ящики с чаем в гавань Бостона?",
+    "correct_answer_de": "Boston Tea Party",
+    "correct_answer_ru": "Бостонское чаепитие",
+    "wrong_answers_de": [
+      "Boston Massacre",
+      "Stamp Act-Protest",
+      "Intolerable Acts"
+    ],
+    "wrong_answers_ru": [
+      "Бостонская резня",
+      "Протест против Закона о гербовом сборе",
+      "Невыносимые законы"
+    ],
+    "explanation_de": "Als Protest gegen den britischen Teesteuer verkleideten sich amerikanische Kolonisten als Mohawk-Indianer und warfen 342 Teekisten von britischen Schiffen ins Meer.",
+    "explanation_ru": "В знак протеста против британского налога на чай американские колонисты переоделись индейцами мохоками и сбросили в море 342 ящика чая с британских кораблей.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1773 CE",
+    "tags": [
+      "Amerika",
+      "Revolution",
+      "England"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Begriff 'Boston Tea Party' wurde erst Jahrzehnte nach dem Ereignis geprägt.",
+        "ru": "Термин «Бостонское чаепитие» появился лишь спустя десятилетия после события."
+      },
+      {
+        "de": "Als Reaktion erließ Großbritannien die 'Intolerable Acts', die die Kolonisten noch mehr erzürnten.",
+        "ru": "В ответ Великобритания приняла «Невыносимые законы», что ещё больше разозлило колонистов."
+      },
+      {
+        "de": "Die zerstörten Teekisten hatten einen Wert von etwa 1,7 Millionen US-Dollar in heutiger Währung.",
+        "ru": "Уничтоженные ящики с чаем стоили бы сегодня около 1,7 миллиона долларов США."
+      }
+    ]
+  },
+  {
+    "id": 7125,
+    "question_de": "Welche englische Verfassungsurkunde von 1689 beschränkte die königliche Macht und sicherte dem Parlament grundlegende Rechte?",
+    "question_ru": "Какой английский конституционный документ 1689 года ограничил королевскую власть и закрепил за парламентом основные права?",
+    "correct_answer_de": "Bill of Rights",
+    "correct_answer_ru": "Билль о правах",
+    "wrong_answers_de": [
+      "Magna Carta",
+      "Act of Settlement",
+      "Habeas Corpus Act"
+    ],
+    "wrong_answers_ru": [
+      "Великая хартия вольностей",
+      "Акт о престолонаследии",
+      "Закон о Хабеас корпус"
+    ],
+    "explanation_de": "Die englische Bill of Rights entstand nach der Glorious Revolution und legte fest, dass der König kein Heer halten und keine Steuern ohne Parlamentszustimmung erheben darf.",
+    "explanation_ru": "Английский Билль о правах был принят после Славной революции и установил, что король не может содержать армию и взимать налоги без согласия парламента.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1689 CE",
+    "tags": [
+      "England",
+      "Politik"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die englische Bill of Rights von 1689 diente als Vorbild für die amerikanische Bill of Rights von 1791.",
+        "ru": "Английский Билль о правах 1689 года послужил образцом для американского Билля о правах 1791 года."
+      },
+      {
+        "de": "Sie entstand nach der 'Glorious Revolution', als der katholische König Jakob II. durch den protestantischen Wilhelm III. ersetzt wurde.",
+        "ru": "Он был принят после «Славной революции», когда католический король Яков II был заменён протестантским Вильгельмом III."
+      },
+      {
+        "de": "Die Bill of Rights gilt neben der Magna Carta als eines der ältesten Menschenrechtsdokumente der Welt.",
+        "ru": "Билль о правах наряду с Великой хартией вольностей считается одним из старейших документов о правах человека в мире."
+      }
+    ]
+  },
+  {
+    "id": 7126,
+    "question_de": "Welcher Friedensvertrag von 1648 beendete den Dreißigjährigen Krieg und gilt als Grundstein des modernen Staatensystems?",
+    "question_ru": "Какой мирный договор 1648 года завершил Тридцатилетнюю войну и считается краеугольным камнем современной системы государств?",
+    "correct_answer_de": "Westfälischer Friede",
+    "correct_answer_ru": "Вестфальский мир",
+    "wrong_answers_de": [
+      "Augsburger Religionsfriede",
+      "Frieden von Utrecht",
+      "Frieden von Münster (Spanien-Niederlande)"
+    ],
+    "wrong_answers_ru": [
+      "Аугсбургский религиозный мир",
+      "Утрехтский мир",
+      "Мюнстерский мир (Испания–Нидерланды)"
+    ],
+    "explanation_de": "Der Westfälische Friede (1648) in Münster und Osnabrück beendete den verheerenden Dreißigjährigen Krieg. Er begründete das Prinzip der staatlichen Souveränität und der Nichteinmischung.",
+    "explanation_ru": "Вестфальский мир (1648), подписанный в Мюнстере и Оснабрюке, завершил опустошительную Тридцатилетнюю войну. Он утвердил принципы государственного суверенитета и невмешательства.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1648 CE",
+    "tags": [
+      "Deutschland",
+      "Krieg",
+      "Politik"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Deutschland verlor im Dreißigjährigen Krieg bis zu ein Drittel seiner Bevölkerung.",
+        "ru": "В ходе Тридцатилетней войны Германия потеряла до трети своего населения."
+      },
+      {
+        "de": "Der Westfälische Friede erkannte erstmals den Calvinismus als gleichberechtigte Konfession an.",
+        "ru": "Вестфальский мир впервые признал кальвинизм равноправным вероисповеданием."
+      },
+      {
+        "de": "Die Schweiz und die Niederlande wurden durch den Westfälischen Frieden offiziell als unabhängige Staaten anerkannt.",
+        "ru": "Вестфальским миром Швейцария и Нидерланды были официально признаны независимыми государствами."
+      }
+    ]
+  },
+  {
+    "id": 7127,
+    "question_de": "Warum scheiterte die spanische Armada 1588 bei ihrem Versuch, England zu besiegen?",
+    "question_ru": "Почему Непобедимая армада потерпела поражение в 1588 году при попытке завоевать Англию?",
+    "correct_answer_de": "Durch englische Brandschiffe und schwere Stürme wurde die Flotte zerstört",
+    "correct_answer_ru": "Английские брандеры и сильные штормы уничтожили флот",
+    "wrong_answers_de": [
+      "Die englische Flotte war zahlenmäßig größer",
+      "Spanien lief absichtlich auf Grund",
+      "Die Soldaten meuterten"
+    ],
+    "wrong_answers_ru": [
+      "Английский флот был численно превосходящим",
+      "Испания намеренно села на мель",
+      "Солдаты подняли мятеж"
+    ],
+    "explanation_de": "Philipp II. schickte die Armada, um England zu besetzen. Englische Brandschiffe brachten die spanische Flotte in Unordnung, und Atlantikstürme vernichteten den Rest.",
+    "explanation_ru": "Филипп II отправил армаду, чтобы захватить Англию. Английские брандеры внесли беспорядок в ряды испанского флота, а атлантические штормы уничтожили остальное.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1588 CE",
+    "tags": [
+      "Spanien",
+      "England",
+      "Krieg"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Von 130 Schiffen kehrten nur etwa 67 nach Spanien zurück.",
+        "ru": "Из 130 кораблей в Испанию вернулись лишь около 67."
+      },
+      {
+        "de": "Königin Elisabeth I. hielt nach der Niederlage der Armada die berühmte Rede von Tilbury.",
+        "ru": "После разгрома армады королева Елизавета I произнесла знаменитую речь в Тилбери."
+      },
+      {
+        "de": "Spanien baute danach eine neue, verbesserte Armada – aber auch die scheiterte.",
+        "ru": "После этого Испания построила новую, улучшенную армаду — но и она потерпела неудачу."
+      }
+    ]
+  },
+  {
+    "id": 7128,
+    "question_de": "Welches Schiff brachte 1620 die 'Pilgerväter' nach Amerika, wo sie die Kolonie Plymouth gründeten?",
+    "question_ru": "Какой корабль в 1620 году доставил «отцов-пилигримов» в Америку, где они основали колонию Плимут?",
+    "correct_answer_de": "Mayflower",
+    "correct_answer_ru": "Мэйфлауэр",
+    "wrong_answers_de": [
+      "Santa María",
+      "Golden Hind",
+      "Susan Constant"
+    ],
+    "wrong_answers_ru": [
+      "Санта-Мария",
+      "Золотая лань",
+      "Сьюзан Констант"
+    ],
+    "explanation_de": "Die Mayflower überquerte den Atlantik mit 102 Passagieren, darunter puritanischen Separatisten. Im 'Mayflower Compact' schufen sie noch an Bord eines der ersten Selbstverwaltungsdokumente Amerikas.",
+    "explanation_ru": "«Мэйфлауэр» пересёк Атлантику со 102 пассажирами, среди которых были пуританские сепаратисты. В «Mayflower Compact» они, ещё находясь на борту, создали один из первых документов американского самоуправления.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1620 CE",
+    "tags": [
+      "Amerika",
+      "England"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Die Überfahrt dauerte 66 Tage und war äußerst stürmisch.",
+        "ru": "Переход занял 66 дней и был крайне штормовым."
+      },
+      {
+        "de": "Fast die Hälfte der Siedler überlebte den ersten Winter nicht.",
+        "ru": "Почти половина поселенцев не пережила первую зиму."
+      },
+      {
+        "de": "Das amerikanische Thanksgiving-Fest geht auf ein Ernte-Fest der Pilgerväter mit den Wampanoag-Indianern zurück.",
+        "ru": "Американский День благодарения восходит к празднику урожая, который отцы-пилигримы отпраздновали вместе с индейцами вампаноаг."
+      }
+    ]
+  },
+  {
+    "id": 7129,
+    "question_de": "Welcher osmanische Sultan belagerte 1529 erfolglos Wien – ein Ereignis, das das Ende der osmanischen Expansion nach Westeuropa markierte?",
+    "question_ru": "Какой османский султан в 1529 году безуспешно осадил Вену — событие, ознаменовавшее конец османской экспансии в Западную Европу?",
+    "correct_answer_de": "Süleyman der Prächtige",
+    "correct_answer_ru": "Сулейман Великолепный",
+    "wrong_answers_de": [
+      "Mehmed II.",
+      "Selim I.",
+      "Murad IV."
+    ],
+    "wrong_answers_ru": [
+      "Мехмед II",
+      "Селим I",
+      "Мурад IV"
+    ],
+    "explanation_de": "Süleyman I. belagerte Wien 1529 mit einem Heer von über 100.000 Mann, musste aber nach drei Wochen wegen schlechten Wetters und Versorgungsproblemen abziehen.",
+    "explanation_ru": "Сулейман I осадил Вену в 1529 году с армией более 100 000 человек, но через три недели был вынужден отступить из-за плохой погоды и проблем со снабжением.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1529 CE",
+    "tags": [
+      "Osmanisches Reich",
+      "Österreich"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Wien war nicht auf eine so lange Belagerung vorbereitet – die Stadt hatte nur etwa 20.000 Verteidiger.",
+        "ru": "Вена не была готова к столь длительной осаде — в городе насчитывалось лишь около 20 000 защитников."
+      },
+      {
+        "de": "Nach dem Rückzug plünderten die osmanischen Truppen große Teile Österreichs.",
+        "ru": "После отступления османские войска разграбили значительную часть Австрии."
+      },
+      {
+        "de": "Die erste Belagerung Wiens 1529 und die zweite 1683 gelten als Wendepunkte der europäischen Geschichte.",
+        "ru": "Первая осада Вены 1529 года и вторая 1683 года считаются поворотными моментами европейской истории."
+      }
+    ]
+  },
+  {
+    "id": 7130,
+    "question_de": "Was verstand man unter der 'Karavelle', die die Entdeckungsreisenden des 15. und 16. Jahrhunderts bevorzugten?",
+    "question_ru": "Что понималось под «каравеллой» — судном, которое предпочитали мореплаватели-первооткрыватели XV–XVI веков?",
+    "correct_answer_de": "Ein wendiges, seegehärtetes Schiff mit Dreieckssegeln für schnelle Ozeanfahrten",
+    "correct_answer_ru": "Манёвренное мореходное судно с треугольными парусами для быстрых океанских плаваний",
+    "wrong_answers_de": [
+      "Ein schwer bewaffnetes Kriegsschiff",
+      "Ein Handelsschiff für Flüsse",
+      "Ein Ruderboot für Küstenfahrten"
+    ],
+    "wrong_answers_ru": [
+      "Тяжело вооружённый военный корабль",
+      "Торговое речное судно",
+      "Гребная лодка для прибрежного плавания"
+    ],
+    "explanation_de": "Die Karavelle war ein relativ kleines, aber seetüchtiges Schiff, das Lateinsegel (dreieckig) und Rahsegel kombinierte – ideal für die Erkundung unbekannter Küsten und Ozeane.",
+    "explanation_ru": "Каравелла была сравнительно небольшим, но мореходным судном, сочетавшим латинские (треугольные) и прямые паруса — идеальным для исследования неизвестных берегов и океанов.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "conceptual",
+    "period": "1490 CE",
+    "tags": [
+      "Entdeckungen",
+      "Seefahrt"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Kolumbus' Niña und Pinta waren Karavellen; die größere Santa María war eine Karacke.",
+        "ru": "«Нинья» и «Пинта» Колумба были каравеллами; более крупная «Санта-Мария» была каракой."
+      },
+      {
+        "de": "Portugiesische Schiffbauer entwickelten die Karavelle, um die afrikanische Küste zu erkunden.",
+        "ru": "Португальские корабелы разработали каравеллу для исследования африканского побережья."
+      },
+      {
+        "de": "Die Karavelle konnte dank ihrer Dreieckssegel auch gegen den Wind segeln.",
+        "ru": "Благодаря треугольным парусам каравелла могла ходить и против ветра."
+      }
+    ]
+  },
+  {
+    "id": 7131,
+    "question_de": "Welcher venezianische Künstler des 16. Jahrhunderts war bekannt für seine leuchtenden Farben und großformatigen mythologischen und religiösen Gemälde?",
+    "question_ru": "Какой венецианский художник XVI века был известен яркими красками и масштабными мифологическими и религиозными полотнами?",
+    "correct_answer_de": "Tizian",
+    "correct_answer_ru": "Тициан",
+    "wrong_answers_de": [
+      "Tintoretto",
+      "Paolo Veronese",
+      "Giorgione"
+    ],
+    "wrong_answers_ru": [
+      "Тинторетто",
+      "Паоло Веронезе",
+      "Джорджоне"
+    ],
+    "explanation_de": "Tizian (Tiziano Vecellio) war der dominierende Maler der venezianischen Renaissance und Hofmaler Kaiser Karls V. – berühmt für seine Farbbeherrschung und Porträts.",
+    "explanation_ru": "Тициан (Тициано Вечеллио) был ведущим живописцем венецианского Ренессанса и придворным художником императора Карла V — прославленный своим владением цветом и портретным мастерством.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1530 CE",
+    "tags": [
+      "Kunst",
+      "Italien",
+      "Renaissance"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Tizian wurde wohl um 1488–1490 geboren und starb 1576 – er wurde fast 90 Jahre alt.",
+        "ru": "Тициан родился приблизительно в 1488–1490 гг. и умер в 1576 году — он прожил почти 90 лет."
+      },
+      {
+        "de": "Kaiser Karl V. soll sich gebückt haben, um Tizians Pinsel aufzuheben – eine ungeheure Ehre.",
+        "ru": "По преданию, император Карл V нагнулся, чтобы поднять упавшую кисть Тициана — неслыханная честь."
+      },
+      {
+        "de": "Tizian starb angeblich an der Pest, obwohl sein hohes Alter als Todesursache wahrscheinlicher ist.",
+        "ru": "Тициан якобы умер от чумы, хотя более вероятной причиной смерти считается преклонный возраст."
+      }
+    ]
+  },
+  {
+    "id": 7132,
+    "question_de": "Welches Meisterwerk Raffaels (1509–1511) zeigt Platon, Aristoteles und andere antike Philosophen in einer imaginären Schule?",
+    "question_ru": "Какой шедевр Рафаэля (1509–1511) изображает Платона, Аристотеля и других античных философов в воображаемой школе?",
+    "correct_answer_de": "Die Schule von Athen",
+    "correct_answer_ru": "Афинская школа",
+    "wrong_answers_de": [
+      "Die Sixtinische Madonna",
+      "Die Verklärung Christi",
+      "Die Geburt der Venus"
+    ],
+    "wrong_answers_ru": [
+      "Сикстинская Мадонна",
+      "Преображение",
+      "Рождение Венеры"
+    ],
+    "explanation_de": "Raffaels Fresko 'Die Schule von Athen' im Vatikan gilt als das vollkommendste Bild der Hochrenaissance und feiert die Harmonie von Philosophie und Wissenschaft.",
+    "explanation_ru": "Фреска Рафаэля «Афинская школа» в Ватикане считается совершеннейшим образцом Высокого Ренессанса и прославляет гармонию философии и науки.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1510 CE",
+    "tags": [
+      "Kunst",
+      "Italien",
+      "Renaissance"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Raffael malte Leonardo da Vinci als Platon und Michelangelo als Heraklit.",
+        "ru": "Рафаэль изобразил Леонардо да Винчи в образе Платона, а Микеланджело — в образе Гераклита."
+      },
+      {
+        "de": "Das Fresko befindet sich in den Stanzen des Raffael im Vatikanischen Museum.",
+        "ru": "Фреска находится в Станцах Рафаэля в Ватиканском музее."
+      },
+      {
+        "de": "Raffael starb mit nur 37 Jahren und hinterließ das Fresko der Verklärung Christi unvollendet.",
+        "ru": "Рафаэль умер всего в 37 лет, оставив фреску «Преображение» незавершённой."
+      }
+    ]
+  },
+  {
+    "id": 7133,
+    "question_de": "Welcher französische Arzt und Astrologe des 16. Jahrhunderts wurde durch seine prophetischen Vierzeiler ('Centuries') weltberühmt?",
+    "question_ru": "Какой французский врач и астролог XVI века прославился своими пророческими четверостишиями («Центуриями»)?",
+    "correct_answer_de": "Nostradamus",
+    "correct_answer_ru": "Нострадамус",
+    "wrong_answers_de": [
+      "Michel de Montaigne",
+      "François Rabelais",
+      "Pierre de Ronsard"
+    ],
+    "wrong_answers_ru": [
+      "Мишель де Монтень",
+      "Франсуа Рабле",
+      "Пьер де Ронсар"
+    ],
+    "explanation_de": "Nostradamus (Michel de Nostredame) veröffentlichte 1555 die 'Centuries' – 942 Vierzeiler, die angeblich zukünftige Ereignisse prophezeien. Bis heute werden sie neu interpretiert.",
+    "explanation_ru": "Нострадамус (Мишель де Нотрдам) опубликовал в 1555 году «Центурии» — 942 четверостишия, якобы предсказывающие будущие события. Их интерпретируют заново и по сей день.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1555 CE",
+    "tags": [
+      "Frankreich",
+      "Kultur"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Nostradamus war als Arzt tätig und half bei Pestepidemien in Südfrankreich.",
+        "ru": "Нострадамус работал врачом и помогал во время эпидемий чумы на юге Франции."
+      },
+      {
+        "de": "Wissenschaftler betrachten seine Prophezeiungen als zu vage, um als echte Vorhersagen zu gelten.",
+        "ru": "Учёные считают его пророчества слишком туманными, чтобы считаться настоящими предсказаниями."
+      },
+      {
+        "de": "Königin Katharina von Medici lud ihn an den französischen Hof, um die Zukunft ihrer Kinder vorherzusagen.",
+        "ru": "Королева Екатерина Медичи пригласила его ко французскому двору, чтобы предсказать будущее её детей."
+      }
+    ]
+  },
+  {
+    "id": 7134,
+    "question_de": "Welches Instrument verwendete Galileo Galilei ab 1609, um Monde des Jupiters, Phasen der Venus und Sonnenflecken zu beobachten?",
+    "question_ru": "Какой инструмент Галилео Галилей использовал с 1609 года для наблюдения спутников Юпитера, фаз Венеры и солнечных пятен?",
+    "correct_answer_de": "Fernrohr (Teleskop)",
+    "correct_answer_ru": "Телескоп",
+    "wrong_answers_de": [
+      "Sextant",
+      "Astrolabium",
+      "Quadrant"
+    ],
+    "wrong_answers_ru": [
+      "Секстант",
+      "Астролябия",
+      "Квадрант"
+    ],
+    "explanation_de": "Galilei verbesserte das niederländische Fernrohr und richtete es erstmals systematisch auf den Himmel – seine Entdeckungen stützten das heliozentrische Weltbild des Kopernikus.",
+    "explanation_ru": "Галилей усовершенствовал нидерландскую зрительную трубу и впервые систематически направил её на небо — его открытия подтвердили гелиоцентрическую модель Коперника.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1609 CE",
+    "tags": [
+      "Wissenschaft",
+      "Italien"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Galilei entdeckte vier Monde des Jupiters, die heute als 'Galileische Monde' bekannt sind.",
+        "ru": "Галилей открыл четыре спутника Юпитера, известных сегодня как «галилеевы луны»."
+      },
+      {
+        "de": "Galilei erfand das Teleskop nicht – er verbesserte es auf das 20-fache der ursprünglichen Vergrößerung.",
+        "ru": "Галилей не изобрёл телескоп — он усовершенствовал его, увеличив кратность в 20 раз по сравнению с исходной."
+      },
+      {
+        "de": "Seine Entdeckung, dass die Erde sich um die Sonne dreht, brachte ihn vor die Inquisition.",
+        "ru": "Его открытие того, что Земля вращается вокруг Солнца, привело его перед инквизицию."
+      }
+    ]
+  },
+  {
+    "id": 7135,
+    "question_de": "Welcher englische Dramatiker und Zeitgenosse Shakespeares schrieb 'Doctor Faustus' und wurde unter mysteriösen Umständen 1593 ermordet?",
+    "question_ru": "Какой английский драматург-современник Шекспира написал «Доктора Фауста» и был убит при загадочных обстоятельствах в 1593 году?",
+    "correct_answer_de": "Christopher Marlowe",
+    "correct_answer_ru": "Кристофер Марло",
+    "wrong_answers_de": [
+      "Ben Jonson",
+      "Thomas Kyd",
+      "John Webster"
+    ],
+    "wrong_answers_ru": [
+      "Бен Джонсон",
+      "Томас Кид",
+      "Джон Уэбстер"
+    ],
+    "explanation_de": "Christopher Marlowe schuf mit 'Doctor Faustus' die erste bedeutende Fassung des Faust-Stoffes in der englischen Literatur – Jahrzehnte vor Goethes Version.",
+    "explanation_ru": "Кристофер Марло создал в «Докторе Фаусте» первую значительную версию фаустовского сюжета в английской литературе — за десятилетия до версии Гёте.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1592 CE",
+    "tags": [
+      "Kultur",
+      "England"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Manche Historiker vermuten, dass Marlowe als Spion für die englische Krone tätig war.",
+        "ru": "Некоторые историки подозревают, что Марло работал шпионом английской короны."
+      },
+      {
+        "de": "Marlowe wurde in einer Taverne in Deptford erstochen – der genaue Grund ist bis heute ungeklärt.",
+        "ru": "Марло был заколот в таверне в Дептфорде — точные обстоятельства до сих пор неизвестны."
+      },
+      {
+        "de": "Einige Literaturwissenschaftler behaupten, Marlowe habe in Wirklichkeit Shakespeares Werke geschrieben.",
+        "ru": "Некоторые литературоведы утверждают, что именно Марло в действительности написал произведения Шекспира."
+      }
+    ]
+  },
+  {
+    "id": 7136,
+    "question_de": "Welcher Franzose schrieb die 'Essais' (1580) und begründete damit die literarische Gattung des persönlichen Essays?",
+    "question_ru": "Какой французский писатель создал «Опыты» (1580) и тем самым основал литературный жанр личного эссе?",
+    "correct_answer_de": "Michel de Montaigne",
+    "correct_answer_ru": "Мишель де Монтень",
+    "wrong_answers_de": [
+      "François Rabelais",
+      "Pierre de Ronsard",
+      "Jean Racine"
+    ],
+    "wrong_answers_ru": [
+      "Франсуа Рабле",
+      "Пьер де Ронсар",
+      "Жан Расин"
+    ],
+    "explanation_de": "Montaigne zog sich auf sein Schloss zurück und schrieb über sich selbst, die menschliche Natur und die Toleranz – mit dem Motto 'Que sais-je?' ('Was weiß ich?').",
+    "explanation_ru": "Монтень удалился в свой замок и писал о себе, человеческой природе и терпимости — с девизом «Que sais-je?» («Что я знаю?»).",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1580 CE",
+    "tags": [
+      "Humanismus",
+      "Frankreich",
+      "Literatur"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Montaigne ließ sich an der Decke seines Turms über 50 lateinische und griechische Zitate einschnitzen.",
+        "ru": "Монтень велел вырезать на потолке своей башни более 50 латинских и греческих цитат."
+      },
+      {
+        "de": "Er war einer der ersten Autoren, der das eigene Ich als Thema der Literatur machte.",
+        "ru": "Он был одним из первых авторов, сделавших собственное «я» предметом литературы."
+      },
+      {
+        "de": "Montaigne war bemerkenswert tolerant gegenüber anderen Kulturen und kritisierte die Grausamkeit gegenüber indigenen Völkern.",
+        "ru": "Монтень был удивительно терпим к другим культурам и критиковал жестокость по отношению к коренным народам."
+      }
+    ]
+  },
+  {
+    "id": 7137,
+    "question_de": "Welcher Komödiendichter des 17. Jahrhunderts gilt als der größte Dramatiker der französischen Klassik und schrieb 'Der Geizige' und 'Der Menschenfeind'?",
+    "question_ru": "Какой комедиограф XVII века считается величайшим драматургом французского классицизма и написал «Скупого» и «Мизантропа»?",
+    "correct_answer_de": "Molière",
+    "correct_answer_ru": "Мольер",
+    "wrong_answers_de": [
+      "Jean Racine",
+      "Pierre Corneille",
+      "Jean de La Fontaine"
+    ],
+    "wrong_answers_ru": [
+      "Жан Расин",
+      "Пьер Корнель",
+      "Жан де Лафонтен"
+    ],
+    "explanation_de": "Molière (Jean-Baptiste Poquelin) war Schauspieler, Regisseur und Dramatiker am Hofe Ludwigs XIV. und satirisierte Heuchelei, Geiz und Bigotterie.",
+    "explanation_ru": "Мольер (Жан-Батист Поклен) был актёром, режиссёром и драматургом при дворе Людовика XIV и высмеивал лицемерие, скупость и ханжество.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1665 CE",
+    "tags": [
+      "Kultur",
+      "Frankreich",
+      "Theater"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Molière starb 1673 auf der Bühne kurz nach einer Vorstellung von 'Der eingebildete Kranke'.",
+        "ru": "В 1673 году Мольер скончался на сцене вскоре после спектакля «Мнимый больной»."
+      },
+      {
+        "de": "Sein Stück 'Tartuffe' wurde von der Kirche verboten, weil es religiöse Heuchelei satirisierte.",
+        "ru": "Его пьеса «Тартюф» была запрещена церковью за сатиру на религиозное лицемерие."
+      },
+      {
+        "de": "Ludwig XIV. schützte Molière persönlich vor seinen Feinden am Hof.",
+        "ru": "Людовик XIV лично защищал Мольера от его придворных врагов."
+      }
+    ]
+  },
+  {
+    "id": 7138,
+    "question_de": "Was war das Edikt von Fontainebleau (1685) und welche Folgen hatte es für Frankreich?",
+    "question_ru": "Что такое Фонтенблоский эдикт (1685) и каковы были его последствия для Франции?",
+    "correct_answer_de": "Es widerrief das Edikt von Nantes und zwang Protestanten zur Auswanderung",
+    "correct_answer_ru": "Он отменил Нантский эдикт и вынудил протестантов эмигрировать",
+    "wrong_answers_de": [
+      "Es gründete die Académie française",
+      "Es erklärte den Krieg gegen Spanien",
+      "Es regelte die Erbfolge Ludwig XIV."
+    ],
+    "wrong_answers_ru": [
+      "Он основал Académie française",
+      "Он объявил войну Испании",
+      "Он урегулировал порядок наследования Людовика XIV"
+    ],
+    "explanation_de": "Ludwig XIV. hob 1685 das Toleranzedikt von 1598 auf. Rund 200.000–400.000 Hugenotten flohen nach Brandenburg, England und in die Niederlande – ein großer wirtschaftlicher Verlust für Frankreich.",
+    "explanation_ru": "В 1685 году Людовик XIV отменил эдикт о веротерпимости 1598 года. Около 200 000–400 000 гугенотов бежали в Бранденбург, Англию и Нидерланды — огромная экономическая потеря для Франции.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1685 CE",
+    "tags": [
+      "Frankreich",
+      "Religion"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Viele geflüchtete Hugenotten waren Handwerker und Kaufleute – sie bereicherten die Wirtschaft ihrer neuen Heimatländer.",
+        "ru": "Многие бежавшие гугеноты были ремесленниками и купцами — они обогатили экономику новых родин."
+      },
+      {
+        "de": "Friedrich Wilhelm von Brandenburg, der 'Große Kurfürst', nahm die Hugenotten mit dem Edikt von Potsdam (1685) willkommen.",
+        "ru": "Фридрих Вильгельм Бранденбургский, «Великий курфюрст», принял гугенотов Потсдамским эдиктом (1685)."
+      },
+      {
+        "de": "Noch heute haben Berliner Stadtteile wie Französisch Buchholz hugenottische Namen.",
+        "ru": "До сих пор некоторые берлинские районы, например Французиш-Бухгольц, носят гугенотские названия."
+      }
+    ]
+  },
+  {
+    "id": 7139,
+    "question_de": "Welcher englische Philosoph begründete im 17. Jahrhundert den Empirismus und argumentierte, dass alle Erkenntnis aus Sinneserfahrung stammt?",
+    "question_ru": "Какой английский философ XVII века стал основателем эмпиризма и утверждал, что всё познание происходит из чувственного опыта?",
+    "correct_answer_de": "Francis Bacon",
+    "correct_answer_ru": "Фрэнсис Бэкон",
+    "wrong_answers_de": [
+      "René Descartes",
+      "Baruch Spinoza",
+      "Gottfried Wilhelm Leibniz"
+    ],
+    "wrong_answers_ru": [
+      "Рене Декарт",
+      "Барух Спиноза",
+      "Готфрид Вильгельм Лейбниц"
+    ],
+    "explanation_de": "Francis Bacon forderte in seinem 'Novum Organum' (1620) eine Wissenschaft, die auf Beobachtung und Experiment basiert – er gilt als Begründer der modernen wissenschaftlichen Methode.",
+    "explanation_ru": "Фрэнсис Бэкон в «Новом органоне» (1620) потребовал науки, основанной на наблюдении и эксперименте — он считается основателем современного научного метода.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1620 CE",
+    "tags": [
+      "Wissenschaft",
+      "England",
+      "Philosophie"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Bacon starb 1626, weil er bei einem Experiment mit gefrorenem Hühnchen eine Lungenentzündung bekam.",
+        "ru": "Бэкон умер в 1626 году, подхватив воспаление лёгких во время опыта с замороженной курицей."
+      },
+      {
+        "de": "Er prägte die Formel 'Wissen ist Macht' (scientia potestas est).",
+        "ru": "Ему принадлежит формула «Знание — сила» (scientia potestas est)."
+      },
+      {
+        "de": "Bacon war auch Lord-Kanzler von England, wurde aber wegen Korruption verurteilt.",
+        "ru": "Бэкон также был лорд-канцлером Англии, но был осуждён за коррупцию."
+      }
+    ]
+  },
+  {
+    "id": 7140,
+    "question_de": "Welche Stadt galt im 17. Jahrhundert als das Zentrum des Welthandels und war Heimat der ersten Börse der Welt?",
+    "question_ru": "Какой город в XVII веке считался центром мировой торговли и был родиной первой в мире биржи?",
+    "correct_answer_de": "Amsterdam",
+    "correct_answer_ru": "Амстердам",
+    "wrong_answers_de": [
+      "London",
+      "Antwerpen",
+      "Lissabon"
+    ],
+    "wrong_answers_ru": [
+      "Лондон",
+      "Антверпен",
+      "Лиссабон"
+    ],
+    "explanation_de": "Im 17. Jahrhundert war Amsterdam das Handelszentrum der Welt. Die Amsterdamsche Wisselbank (1609) und die Börse (1602) machten die Stadt zum Vorbild moderner Finanzwirtschaft.",
+    "explanation_ru": "В XVII веке Амстердам был торговым центром мира. Амстердамский обменный банк (1609) и биржа (1602) сделали город образцом современной финансовой системы.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1640 CE",
+    "tags": [
+      "Wirtschaft",
+      "Niederlande"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Amsterdam war im 17. Jahrhundert die größte Stadt Nordeuropas mit über 200.000 Einwohnern.",
+        "ru": "В XVII веке Амстердам был крупнейшим городом Северной Европы с населением свыше 200 000 человек."
+      },
+      {
+        "de": "Die VOC (Vereinigte Ostindische Kompanie) war das erste multinationale Unternehmen der Geschichte.",
+        "ru": "VOC (Голландская Ост-Индская компания) была первой транснациональной компанией в истории."
+      },
+      {
+        "de": "Die Tulpenmanie von 1637 begann und endete in Amsterdam – der erste bekannte Spekulationsboom der Geschichte.",
+        "ru": "Тюльпановая лихорадка 1637 года началась и завершилась в Амстердаме — первый известный спекулятивный бум в истории."
+      }
+    ]
+  },
+  {
+    "id": 7141,
+    "question_de": "Welcher osmanische Herrscher bezwang 1517 Ägypten und den Mamelukensultan und übernahm den Titel des Kalifen?",
+    "question_ru": "Какой османский правитель в 1517 году завоевал Египет и мамлюкского султана и принял титул халифа?",
+    "correct_answer_de": "Selim I. (Selim der Grimmige)",
+    "correct_answer_ru": "Селим I (Селим Грозный)",
+    "wrong_answers_de": [
+      "Süleyman I.",
+      "Bayezid II.",
+      "Mehmed II."
+    ],
+    "wrong_answers_ru": [
+      "Сулейман I",
+      "Баязид II",
+      "Мехмед II"
+    ],
+    "explanation_de": "Selim I. verdreifachte das osmanische Reich in nur acht Jahren – er besiegte Safawiden-Persien bei Tschaldiran (1514) und Ägypten 1517. Mit dem Khalifat übernahm er die religiöse Führung des sunnitischen Islams.",
+    "explanation_ru": "Селим I утроил Османскую империю всего за восемь лет — разгромил сефевидскую Персию при Чалдыране (1514) и Египет в 1517 году. С халифатом он принял религиозное руководство суннитским исламом.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1517 CE",
+    "tags": [
+      "Osmanisches Reich",
+      "Islam"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Selim I. soll drei seiner vier Brüder und sieben seiner acht Söhne hinrichten lassen haben.",
+        "ru": "По преданию, Селим I велел казнить троих из четырёх братьев и семерых из восьми своих сыновей."
+      },
+      {
+        "de": "Er brachte aus Kairo den Mantel des Propheten Mohammed nach Istanbul – ein wichtiges religiöses Symbol.",
+        "ru": "Он привёз из Каира в Стамбул плащ пророка Мухаммеда — важный религиозный символ."
+      },
+      {
+        "de": "Sein Sohn Süleyman der Prächtige baute die Errungenschaften Selims zu einem Weltreich aus.",
+        "ru": "Его сын Сулейман Великолепный развил завоевания Селима в мировую империю."
+      }
+    ]
+  },
+  {
+    "id": 7142,
+    "question_de": "Welcher Krieg von 1618 bis 1648 begann als Religionskonfikt im Heiligen Römischen Reich und wurde zum gesamteuropäischen Machtkampf?",
+    "question_ru": "Какая война с 1618 по 1648 год началась как религиозный конфликт в Священной Римской империи и превратилась в общеевропейскую борьбу за власть?",
+    "correct_answer_de": "Dreißigjähriger Krieg",
+    "correct_answer_ru": "Тридцатилетняя война",
+    "wrong_answers_de": [
+      "Siebenjähriger Krieg",
+      "Schmalkaldischer Krieg",
+      "Pfälzer Erbfolgekrieg"
+    ],
+    "wrong_answers_ru": [
+      "Семилетняя война",
+      "Шмалькальденская война",
+      "Война за Пфальцское наследство"
+    ],
+    "explanation_de": "Der Dreißigjährige Krieg begann 1618 mit dem Prager Fenstersturz und erfasste bald ganz Europa. Er endete 1648 mit dem Westfälischen Frieden.",
+    "explanation_ru": "Тридцатилетняя война началась в 1618 году с Пражской дефенестрации и вскоре охватила всю Европу. Она завершилась в 1648 году Вестфальским миром.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1618 CE",
+    "tags": [
+      "Deutschland",
+      "Krieg",
+      "Religion"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Beim Prager Fenstersturz wurden zwei kaiserliche Statthalter aus einem Fenster geworfen – sie überlebten, weil sie auf einen Misthaufen fielen.",
+        "ru": "В ходе Пражской дефенестрации двух императорских наместников выбросили из окна — они выжили, упав на кучу навоза."
+      },
+      {
+        "de": "Der schwedische König Gustav II. Adolf gilt als militärisches Genie des Krieges, fiel aber 1632 in der Schlacht bei Lützen.",
+        "ru": "Шведский король Густав II Адольф считается военным гением войны, однако пал в 1632 году в битве при Лютцене."
+      },
+      {
+        "de": "Manche deutschen Regionen verloren im Dreißigjährigen Krieg über 60 % ihrer Bevölkerung.",
+        "ru": "Некоторые немецкие регионы потеряли в Тридцатилетней войне более 60% населения."
+      }
+    ]
+  },
+  {
+    "id": 7143,
+    "question_de": "Welcher russische Zar führte im frühen 18. Jahrhundert den Großen Nordischen Krieg und besiegte Schweden, um Zugang zur Ostsee zu erlangen?",
+    "question_ru": "Какой российский царь в начале XVIII века вёл Северную войну и разгромил Швецию, чтобы получить выход к Балтийскому морю?",
+    "correct_answer_de": "Peter der Große",
+    "correct_answer_ru": "Пётр Великий",
+    "wrong_answers_de": [
+      "Katharina die Große",
+      "Iwan der Schreckliche",
+      "Alexander I."
+    ],
+    "wrong_answers_ru": [
+      "Екатерина Великая",
+      "Иван Грозный",
+      "Александр I"
+    ],
+    "explanation_de": "Peter I. besiegte Karl XII. von Schweden in der entscheidenden Schlacht von Poltawa (1709) und gewann die Ostseeküste – den 'Zugang zum Fenster nach Europa'.",
+    "explanation_ru": "Пётр I разгромил Карла XII Шведского в решающей битве при Полтаве (1709) и получил балтийское побережье — «окно в Европу».",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1709 CE",
+    "tags": [
+      "Russland",
+      "Krieg"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Nach Poltawa floh Karl XII. zu den Osmanen und blieb fünf Jahre lang deren Gast.",
+        "ru": "После Полтавы Карл XII бежал к османам и провёл у них пять лет в качестве гостя."
+      },
+      {
+        "de": "Peter gründete 1703 Sankt Petersburg auf Sumpfland an der Newa, auf Kosten Zehntausender Bauernleben.",
+        "ru": "В 1703 году Пётр основал Санкт-Петербург на болотах у Невы, ценой десятков тысяч крестьянских жизней."
+      },
+      {
+        "de": "Der Große Nordische Krieg dauerte 21 Jahre (1700–1721) und endete mit dem Frieden von Nystad.",
+        "ru": "Северная война длилась 21 год (1700–1721) и завершилась Ништадтским миром."
+      }
+    ]
+  },
+  {
+    "id": 7144,
+    "question_de": "Welches Konzil (1545–1563) war die Antwort der katholischen Kirche auf die Reformation und definierte ihre Lehren neu?",
+    "question_ru": "Какой собор (1545–1563) стал ответом католической церкви на Реформацию и заново определил её учения?",
+    "correct_answer_de": "Konzil von Trient",
+    "correct_answer_ru": "Тридентский собор",
+    "wrong_answers_de": [
+      "Zweites Vatikanisches Konzil",
+      "Konzil von Konstanz",
+      "Laterankonzil"
+    ],
+    "wrong_answers_ru": [
+      "Второй Ватиканский собор",
+      "Констанцский собор",
+      "Латеранский собор"
+    ],
+    "explanation_de": "Das Konzil von Trient definierte Sakramente, Bibel und Tradition, Ablasshandel und Priesterausbildung neu – es legte den Grundstein der Gegenreformation.",
+    "explanation_ru": "Тридентский собор заново определил таинства, соотношение Библии и Предания, торговлю индульгенциями и подготовку духовенства — он заложил основу Контрреформации.",
+    "difficulty": "medium",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1563 CE",
+    "tags": [
+      "Gegenreformation",
+      "Kirche"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Das Konzil von Trient dauerte mit Unterbrechungen fast 18 Jahre.",
+        "ru": "Тридентский собор с перерывами длился почти 18 лет."
+      },
+      {
+        "de": "Es definierte Latein als einzig gültige Bibelsprache und lehnte Volkssprachen ab.",
+        "ru": "Он утвердил латынь единственным допустимым языком Библии и отверг народные языки."
+      },
+      {
+        "de": "Das Konzil standardisierte die Messe, die bis zum Zweiten Vatikanischen Konzil (1962–1965) galt.",
+        "ru": "Собор стандартизировал богослужение, которое сохранялось до Второго Ватиканского собора (1962–1965)."
+      }
+    ]
+  },
+  {
+    "id": 7145,
+    "question_de": "Welcher deutsche Ordenskrieg von 1546 bis 1547 endete mit der Niederlage der protestantischen Fürsten gegen Kaiser Karl V.?",
+    "question_ru": "Какая немецкая война 1546–1547 годов завершилась поражением протестантских князей от императора Карла V?",
+    "correct_answer_de": "Schmalkaldischer Krieg",
+    "correct_answer_ru": "Шмалькальденская война",
+    "wrong_answers_de": [
+      "Dreißigjähriger Krieg",
+      "Bauernkrieg",
+      "Nordischer Krieg"
+    ],
+    "wrong_answers_ru": [
+      "Тридцатилетняя война",
+      "Крестьянская война",
+      "Северная война"
+    ],
+    "explanation_de": "Der Schmalkaldische Bund, ein Bündnis protestantischer Fürsten, wurde von Karl V. bei Mühlberg (1547) besiegt. Trotzdem konnte Karl die Reformation nicht stoppen – 1555 folgte der Augsburger Religionsfriede.",
+    "explanation_ru": "Шмалькальденский союз — объединение протестантских князей — был разгромлен Карлом V при Мюльберге (1547). Тем не менее остановить Реформацию Карлу не удалось — в 1555 году был заключён Аугсбургский религиозный мир.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1547 CE",
+    "tags": [
+      "Reformation",
+      "Deutschland",
+      "Krieg"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Der Schmalkaldische Bund wurde 1531 in Schmalkalden (Thüringen) gegründet.",
+        "ru": "Шмалькальденский союз был основан в 1531 году в Шмалькальдене (Тюрингия)."
+      },
+      {
+        "de": "Karl V. ließ Kurfürst Johann Friedrich von Sachsen gefangennehmen und zum Tode verurteilen – später wurde das Urteil gemildert.",
+        "ru": "Карл V велел захватить курфюрста Иоганна Фридриха Саксонского и приговорить его к смерти — впоследствии приговор был смягчён."
+      },
+      {
+        "de": "Trotz seines Sieges dankte Karl V. 1556 ab und teilte das Reich unter seinem Bruder und seinem Sohn auf.",
+        "ru": "Несмотря на победу, в 1556 году Карл V отрёкся от престола и разделил империю между братом и сыном."
+      }
+    ]
+  },
+  {
+    "id": 7146,
+    "question_de": "Welcher polynesische Navigator und Seefahrer überquerte nach europäischer Überlieferung als Erster den Pazifik von Westen nach Osten und umrundete Kap Hoorn?",
+    "question_ru": "Какой навигатор, по европейским источникам, первым пересёк Тихий океан с запада на восток и обогнул мыс Горн?",
+    "correct_answer_de": "Jakob Le Maire und Willem Schouten (1616)",
+    "correct_answer_ru": "Якоб Лемер и Виллем Схаутен (1616)",
+    "wrong_answers_de": [
+      "Francis Drake",
+      "Ferdinand Magellan",
+      "Abel Tasman"
+    ],
+    "wrong_answers_ru": [
+      "Фрэнсис Дрейк",
+      "Фернан Магеллан",
+      "Абел Тасман"
+    ],
+    "explanation_de": "Jakob Le Maire und Willem Schouten entdeckten 1616 Kap Hoorn als südlichsten Punkt Südamerikas und umsegelten es – sie eröffneten damit eine neue Route in den Pazifik.",
+    "explanation_ru": "В 1616 году Якоб Лемер и Виллем Схаутен открыли мыс Горн как крайнюю южную точку Южной Америки и обогнули его — тем самым открыв новый путь в Тихий океан.",
+    "difficulty": "hard",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1616 CE",
+    "tags": [
+      "Entdeckungen",
+      "Seefahrt"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Kap Hoorn wurde nach der niederländischen Stadt Hoorn benannt, der Heimat Schoutens.",
+        "ru": "Мыс Горн получил название в честь нидерландского города Хорн — родины Схаутена."
+      },
+      {
+        "de": "Das Kap Hoorn gilt bis heute als eine der gefährlichsten Seepassagen der Welt.",
+        "ru": "Мыс Горн до сих пор считается одним из опаснейших морских проходов в мире."
+      },
+      {
+        "de": "Francis Drake hatte Kap Hoorn 1578 bereits passiert, aber nicht als Kap erkannt.",
+        "ru": "Фрэнсис Дрейк прошёл мимо мыса Горн ещё в 1578 году, но не опознал его как мыс."
+      }
+    ]
+  },
+  {
+    "id": 7147,
+    "question_de": "Welcher barocke Komponist aus Sachsen schrieb neben dem 'Weihnachtsoratorium' über 200 Kantaten und gilt als Vollender der deutschen Barockmusik?",
+    "question_ru": "Какой саксонский композитор эпохи барокко написал помимо «Рождественской оратории» более 200 кантат и считается завершителем немецкой барочной музыки?",
+    "correct_answer_de": "Johann Sebastian Bach",
+    "correct_answer_ru": "Иоганн Себастьян Бах",
+    "wrong_answers_de": [
+      "Georg Friedrich Händel",
+      "Georg Philipp Telemann",
+      "Heinrich Schütz"
+    ],
+    "wrong_answers_ru": [
+      "Георг Фридрих Гендель",
+      "Георг Филипп Телеман",
+      "Генрих Шютц"
+    ],
+    "explanation_de": "Bach arbeitete als Thomaskantor in Leipzig und komponierte Kirchenmusik, Orgelwerke und Instrumentalmusik. Sein Werk wurde zu Lebzeiten wenig beachtet und erst im 19. Jahrhundert wiederentdeckt.",
+    "explanation_ru": "Бах служил кантором церкви Святого Фомы в Лейпциге и сочинял церковную музыку, органные произведения и инструментальную музыку. При жизни его творчество пользовалось малой известностью и было вновь открыто лишь в XIX веке.",
+    "difficulty": "easy",
+    "category": "Frühe Neuzeit",
+    "type": "factual",
+    "period": "1720 CE",
+    "tags": [
+      "Musik",
+      "Deutschland",
+      "Barock"
+    ],
+    "interesting_facts": [
+      {
+        "de": "Bach hatte 20 Kinder, von denen vier selbst bedeutende Komponisten wurden.",
+        "ru": "У Баха было 20 детей, четое из которых сами стали значительными композиторами."
+      },
+      {
+        "de": "Felix Mendelssohn Bartholdy ließ 1829 Bachs 'Matthäuspassion' nach fast 100 Jahren wieder aufführen und löste die Bach-Renaissance aus.",
+        "ru": "В 1829 году Феликс Мендельсон-Бартольди возродил «Страсти по Матфею» Баха спустя почти 100 лет и положил начало баховскому ренессансу."
+      },
+      {
+        "de": "Bachs 'Wohltemperiertes Klavier' demonstrierte alle 24 Dur- und Molltonarten und revolutionierte die Musiktheorie.",
+        "ru": "«Хорошо темперированный клавир» Баха продемонстрировал все 24 мажорные и минорные тональности и произвёл революцию в теории музыки."
+      }
+    ]
+  }
+]

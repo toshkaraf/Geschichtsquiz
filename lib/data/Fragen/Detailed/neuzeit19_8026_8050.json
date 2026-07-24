@@ -1,0 +1,752 @@
+[
+  {
+    "id": 8026,
+    "question_de": "Was war die Griechische Unabhängigkeit und wann wurde sie erklärt?",
+    "question_ru": "Что такое греческая независимость и когда она была провозглашена?",
+    "correct_answer_de": "1821 begann der griechische Unabhängigkeitskrieg gegen das Osmanische Reich – 1830 international anerkannt",
+    "correct_answer_ru": "В 1821 году началась греческая война за независимость от Османской империи — в 1830-м международно признана",
+    "wrong_answers_de": ["Griechenland wurde 1815 auf dem Wiener Kongress als freier Staat gegründet", "Die griechische Unabhängigkeit wurde 1848 im Zuge der europäischen Revolutionen erkämpft", "Griechenland trennte sich 1856 nach dem Krimkrieg von der Türkei"],
+    "wrong_answers_ru": ["Греция была основана как свободное государство в 1815 году на Венском конгрессе", "Греческая независимость была завоёвана в 1848 году в ходе европейских революций", "Греция отделилась от Турции в 1856 году после Крымской войны"],
+    "explanation_de": "Das griechische Volk erhob sich gegen osmanische Herrschaft. Lord Byron starb in Griechenland im Kampf dafür. Die Großmächte (England, Russland, Frankreich) unterstützten Griechenland – aus romantischer Bewunderung für das antike Erbe.",
+    "explanation_ru": "Греческий народ поднялся против османского владычества. Лорд Байрон погиб в Греции в этой борьбе. Великие державы (Англия, Россия, Франция) поддержали Грецию — из романтического восхищения античным наследием.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1821 CE",
+    "tags": ["Politik", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Lord Byron wurde als Nationalheld Griechenlands verehrt – er starb 1824 in Missolunghi.",
+        "ru": "Лорд Байрон почитался национальным героем Греции — он умер в 1824 году в Миссолунги."
+      },
+      {
+        "de": "Die Seeschlacht von Navarino (1827) entschied: Die osmanische Flotte wurde vernichtet.",
+        "ru": "Морская битва при Наварино (1827) решила исход: османский флот был уничтожен."
+      },
+      {
+        "de": "Athen wurde erst 1834 zur griechischen Hauptstadt – davor war Nafplio die erste Hauptstadt.",
+        "ru": "Афины стали греческой столицей лишь в 1834 году — до этого первой столицей был Нафплион."
+      }
+    ]
+  },
+  {
+    "id": 8027,
+    "question_de": "Was war der Deutsche Zollverein (1834) und welche Bedeutung hatte er?",
+    "question_ru": "Что такое Германский таможенный союз (1834) и каково его значение?",
+    "correct_answer_de": "Ein Wirtschaftsbündnis der deutschen Staaten unter preußischer Führung – schuf einen gemeinsamen Binnenmarkt",
+    "correct_answer_ru": "Экономический союз германских государств под руководством Пруссии — создал общий внутренний рынок",
+    "wrong_answers_de": ["Ein Militärbündnis der deutschen Staaten gegen Frankreich", "Ein politisches Bündnis zur Vorbereitung der deutschen Nationalversammlung von 1848", "Ein Schutzzollsystem Österreichs gegen die britische Konkurrenz"],
+    "wrong_answers_ru": ["Военный союз германских государств против Франции", "Политический союз для подготовки германского национального собрания 1848 года", "Система защитных пошлин Австрии против британской конкуренции"],
+    "explanation_de": "Der Zollverein umfasste 18 Staaten und 23 Millionen Menschen. Er schaffte Binnenzölle ab und bereitete die wirtschaftliche Einigung Deutschlands vor. Österreich war bewusst ausgeschlossen – was Preußens Führungsanspruch stärkte.",
+    "explanation_ru": "Таможенный союз охватывал 18 государств и 23 миллиона человек. Он отменил внутренние пошлины и подготовил экономическое объединение Германии. Австрия была намеренно исключена — что укрепило притязания Пруссии на лидерство.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1834 CE",
+    "tags": ["Wirtschaft", "Deutschland"],
+    "interesting_facts": [
+      {
+        "de": "Der Zollverein gilt als erster Schritt zur deutschen Einigung – wichtiger als die 1848er Revolution.",
+        "ru": "Таможенный союз считается первым шагом к объединению Германии — важнее революции 1848 года."
+      },
+      {
+        "de": "Friedrich List, der Ökonom, propagierte den Zollverein als Schutz vor britischer Industriekonkurrenz.",
+        "ru": "Экономист Фридрих Лист пропагандировал таможенный союз как защиту от британской промышленной конкуренции."
+      },
+      {
+        "de": "Ähnlich wie heute die EU vereinte der Zollverein zunächst nur wirtschaftlich – die Politik folgte später.",
+        "ru": "Подобно современному ЕС, таможенный союз сначала объединил лишь экономически — политика последовала позже."
+      }
+    ]
+  },
+  {
+    "id": 8028,
+    "question_de": "Was war die Irische Hungersnot (1845–1852)?",
+    "question_ru": "Что такое Великий голод в Ирландии (1845–1852)?",
+    "correct_answer_de": "Eine Katastrophe durch Kartoffelkrankheit – ca. 1 Million Tote und 2 Millionen Auswanderer",
+    "correct_answer_ru": "Катастрофа из-за болезни картофеля — около 1 миллиона погибших и 2 миллиона эмигрантов",
+    "wrong_answers_de": ["Eine britische Blockade Irlands, die absichtlich Hungersnot provozierte", "Eine Dürrekatastrophe in ganz Großbritannien, die England stärker traf als Irland", "Eine politisch erzwungene Umsiedlung der irischen Bevölkerung nach Amerika"],
+    "wrong_answers_ru": ["Британская блокада Ирландии, намеренно спровоцировавшая голод", "Засуха на всей территории Великобритании, сильнее ударившая по Англии, чем по Ирландии", "Политически принудительное переселение ирландского населения в Америку"],
+    "explanation_de": "Der Pilz Phytophthora infestans vernichtete Irlands Kartoffelernte. England setzte trotz der Hungersnot weiter Nahrungsexporte durch. Bis 1900 sank Irlands Bevölkerung von 8 auf 4 Millionen – durch Tod und Auswanderung.",
+    "explanation_ru": "Гриб Phytophthora infestans уничтожил картофельный урожай Ирландии. Англия продолжала вывозить продовольствие вопреки голоду. К 1900 году население Ирландии сократилось с 8 до 4 миллионов — из-за смертей и эмиграции.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1847 CE",
+    "tags": ["England", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Die meisten irischen Auswanderer gingen in die USA – heute hat Irland-Amerika mehr irische Nachfahren als Irland selbst.",
+        "ru": "Большинство ирландских эмигрантов уехали в США — сегодня у Ирландии-Америки больше ирландских потомков, чем в самой Ирландии."
+      },
+      {
+        "de": "Irland hasste England nach der Hungersnot noch mehr – was den Unabhängigkeitskampf befeuerte.",
+        "ru": "После голода ненависть Ирландии к Англии усилилась ещё больше — что подпитывало борьбу за независимость."
+      },
+      {
+        "de": "Der osmanische Sultan Abdülmecid I. wollte 10.000 £ für Irland spenden – England ließ nur 1.000 £ zu.",
+        "ru": "Османский султан Абдул-Меджид I хотел пожертвовать 10 000 фунтов для Ирландии — Англия разрешила лишь 1 000."
+      }
+    ]
+  },
+  {
+    "id": 8029,
+    "question_de": "Was war der Taiping-Aufstand (1850–1864) in China?",
+    "question_ru": "Что такое Тайпинское восстание (1850–1864) в Китае?",
+    "correct_answer_de": "Ein riesiger religiös-politischer Bürgerkrieg – einer der blutigsten der Geschichte mit 20–30 Millionen Toten",
+    "correct_answer_ru": "Огромная религиозно-политическая гражданская война — одна из самых кровопролитных в истории: 20–30 миллионов погибших",
+    "wrong_answers_de": ["Ein Aufstand gegen westliche Mächte, der mit der Boxer-Rebellion von 1900 zusammenhing", "Ein Bauernkrieg gegen die Mandschu-Qing-Aristokratie in Südchina", "Ein militärischer Konflikt zwischen China und Japan um die Kontrolle über Taiwan"],
+    "wrong_answers_ru": ["Восстание против западных держав, связанное с Боксёрским восстанием 1900 года", "Крестьянская война против маньчжурской цинской аристократии на юге Китая", "Военный конфликт между Китаем и Японией за контроль над Тайванем"],
+    "explanation_de": "Hong Xiuquan glaubte, Bruder Jesu Christi zu sein, und gründete das 'Himmlische Königreich Taiping'. Er kämpfte 14 Jahre gegen die Qing-Dynastie. Der Aufstand wurde mit britischer Hilfe niedergeschlagen.",
+    "explanation_ru": "Хун Сюцюань считал себя братом Иисуса Христа и основал «Небесное Царство Тайпин». Он 14 лет воевал против dynasty Цин. Восстание было подавлено с британской помощью.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1855 CE",
+    "tags": ["Krieg"],
+    "interesting_facts": [
+      {
+        "de": "Der Taiping-Aufstand tötete mehr Menschen als der Erste Weltkrieg – aber ist im Westen kaum bekannt.",
+        "ru": "Тайпинское восстание унесло больше жизней, чем Первая мировая война, — но на Западе почти неизвестно."
+      },
+      {
+        "de": "Frederick Townsend Ward und Charles Gordon ('Chinese Gordon') führten die 'Immersiege-Armee' gegen Taiping.",
+        "ru": "Фредерик Таунсенд Уорд и Чарльз Гордон («Китайский Гордон») командовали «Армией постоянных побед» против тайпинов."
+      },
+      {
+        "de": "Hong Xiuquan starb kurz vor der Niederlage – wahrscheinlich durch Vergiftung oder Verhungern.",
+        "ru": "Хун Сюцюань умер незадолго до поражения — по всей видимости, от отравления или голода."
+      }
+    ]
+  },
+  {
+    "id": 8030,
+    "question_de": "Was war der Sepoy-Aufstand (Indischer Aufstand von 1857) und welche Folgen hatte er?",
+    "question_ru": "Что такое восстание сипаев (Индийское восстание 1857 года) и каковы его последствия?",
+    "correct_answer_de": "Ein Aufstand indischer Soldaten gegen die Britische Ostindien-Kompanie – führte zur direkten britischen Kronherrschaft über Indien",
+    "correct_answer_ru": "Восстание индийских солдат против Британской Ост-Индской компании — привело к прямому британскому управлению Индией",
+    "wrong_answers_de": ["Ein Aufstand der indischen Fürsten gegen die Moguln-Dynastie", "Ein religiöser Konflikt zwischen Hindus und Muslimen in Nordindien", "Ein Aufstand, der zur Unabhängigkeit Indiens unter Gandhi führte"],
+    "wrong_answers_ru": ["Восстание индийских князей против династии Великих Моголов", "Религиозный конфликт между индуистами и мусульманами в Северной Индии", "Восстание, приведшее к независимости Индии под руководством Ганди"],
+    "explanation_de": "Sepoys (indische Soldaten in britischen Diensten) revoltierten, weil die neuen Gewehrkartuschen angeblich mit Kuh- oder Schweinefett behandelt waren. Der Aufstand wurde brutal niedergeschlagen, die Ostindien-Kompanie aufgelöst.",
+    "explanation_ru": "Сипаи (индийские солдаты на британской службе) подняли восстание, так как новые патроны для ружей якобы были смазаны говяжьим или свиным жиром. Восстание было жестоко подавлено, Ост-Индская компания ликвидирована.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1857 CE",
+    "tags": ["Krieg", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Queen Victoria wurde 1876 zur Kaiserin von Indien erklärt – als Reaktion auf die direktere Herrschaft.",
+        "ru": "В 1876 году королева Виктория была провозглашена императрицей Индии — в связи с установлением более прямого управления."
+      },
+      {
+        "de": "Der Aufstand begann in Meerut – Soldaten weigerten sich, die neuen Enfield-Patronen zu benutzen.",
+        "ru": "Восстание началось в Меруте — солдаты отказались использовать новые патроны Энфилда."
+      },
+      {
+        "de": "Die Gräueltaten beider Seiten verstärkten das gegenseitige Misstrauen zwischen Briten und Indern für Jahrzehnte.",
+        "ru": "Зверства обеих сторон усилили взаимное недоверие между британцами и индийцами на десятилетия."
+      }
+    ]
+  },
+  {
+    "id": 8031,
+    "question_de": "Was war die Romantik als kulturelle Bewegung des frühen 19. Jahrhunderts?",
+    "question_ru": "Что такое романтизм как культурное движение начала XIX века?",
+    "correct_answer_de": "Eine Kunstströmung gegen Rationalismus – Betonung von Gefühl, Natur, Nationalgeist und Mittelalter-Nostalgie",
+    "correct_answer_ru": "Художественное течение против рационализма — акцент на чувстве, природе, народном духе и ностальгии по Средневековью",
+    "wrong_answers_de": ["Eine politische Bewegung für romantische Demokratie und Volksherrschaft", "Ein Musikstil, der durch Walzer und Operetten in Wien geprägt wurde", "Ein Kunststil, der Industriearbeit und Alltagsleben der Armen idealisierte"],
+    "wrong_answers_ru": ["Политическое движение за романтическую демократию и народовластие", "Музыкальный стиль, сформированный вальсами и опереттами в Вене", "Художественный стиль, идеализировавший промышленный труд и повседневную жизнь бедных"],
+    "explanation_de": "Die Romantik war eine Reaktion auf Aufklärung und Industrialisierung. Caspar David Friedrich malte die erhabene Natur. Beethoven, Schubert, Schumann, Chopin komponierten emotional. Schiller, Goethe schrieben Sturm-und-Drang-Werke.",
+    "explanation_ru": "Романтизм был реакцией на Просвещение и индустриализацию. Каспар Давид Фридрих писал возвышенную природу. Бетховен, Шуберт, Шуман, Шопен сочиняли эмоционально. Шиллер, Гёте создавали произведения в духе «Бури и натиска».",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1820 CE",
+    "tags": ["Kunst", "Kultur", "Deutschland"],
+    "interesting_facts": [
+      {
+        "de": "Caspar David Friedrichs 'Wanderer über dem Nebelmeer' ist das bekannteste Bild der deutschen Romantik.",
+        "ru": "«Странник над морем тумана» Каспара Давида Фридриха — самая известная картина немецкого романтизма."
+      },
+      {
+        "de": "Die Brüder Grimm sammelten Volksmärchen – als Ausdruck romantischer Suche nach dem deutschen Nationalcharakter.",
+        "ru": "Братья Гримм собирали народные сказки — как выражение романтических поисков немецкого национального характера."
+      },
+      {
+        "de": "Byron, Shelley, Keats – die englischen Romantiker starben alle jung und symbolisierten das romantische Ideal.",
+        "ru": "Байрон, Шелли, Китс — английские романтики все умерли молодыми и воплощали романтический идеал."
+      }
+    ]
+  },
+  {
+    "id": 8032,
+    "question_de": "Was war die Bolívarische Revolution und wer war Simón Bolívar?",
+    "question_ru": "Что такое боливарская революция и кто такой Симон Боливар?",
+    "correct_answer_de": "Südamerikanischer Unabhängigkeitsführer (1783–1830) – befreite Kolumbien, Venezuela, Peru, Ecuador und Bolivien von Spanien",
+    "correct_answer_ru": "Южноамериканский лидер освободительного движения (1783–1830) — освободил Колумбию, Венесуэлу, Перу, Эквадор и Боливию от Испании",
+    "wrong_answers_de": ["Mexikanischer Revolutionär, der 1810 den Unabhängigkeitskampf gegen Frankreich führte", "Brasilianischer Kaiser, der sein Land friedlich von Portugal unabhängig machte", "Argentinischer General, der die Andenstaaten im Süden von Spanien befreite"],
+    "wrong_answers_ru": ["Мексиканский революционер, возглавивший борьбу за независимость против Франции в 1810 году", "Бразильский император, мирно добившийся независимости своей страны от Португалии", "Аргентинский генерал, освободивший южные андские государства от Испании"],
+    "explanation_de": "Bolívar träumte von einem vereinten Südamerika. Er führte Befreiungskriege über riesige Distanzen – sein berühmter Andenübergang 1819. Das vereinte Großkolumbien zerfiel nach seinem Tod. Er starb 1830 enttäuscht im Exil.",
+    "explanation_ru": "Боливар мечтал о единой Южной Америке. Он вёл освободительные войны на огромных расстояниях — знаменитый переход через Анды в 1819 году. Объединённая Великая Колумбия распалась после его смерти. Он умер в 1830 году разочарованным в изгнании.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1820 CE",
+    "tags": ["Politik", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Bolivien wurde nach Bolívar benannt – das einzige Land, das nach einer Person benannt ist.",
+        "ru": "Боливия названа в честь Боливара — единственная страна, названная в честь конкретного человека."
+      },
+      {
+        "de": "Bolívars Slogan: 'Freiheit um jeden Preis' – er duldete keine Opposition, wenn sie sein Ziel störte.",
+        "ru": "Лозунг Боливара: «Свобода любой ценой» — он не терпел оппозиции, мешавшей его цели."
+      },
+      {
+        "de": "José de San Martín befreite den Süden (Argentinien, Chile), Bolívar den Norden – sie trafen sich nur einmal.",
+        "ru": "Хосе де Сан-Мартин освободил юг (Аргентина, Чили), Боливар — север; они встретились лишь однажды."
+      }
+    ]
+  },
+  {
+    "id": 8033,
+    "question_de": "Was war der Deutsch-Französische Krieg (1870/71) und wie endete er?",
+    "question_ru": "Что такое Франко-прусская война (1870/71) и чем она закончилась?",
+    "correct_answer_de": "Preußen besiegte Frankreich – Napoleon III. gefangen genommen, Elsass-Lothringen annektiert, Deutsches Kaiserreich gegründet",
+    "correct_answer_ru": "Пруссия победила Францию — Наполеон III взят в плен, аннексированы Эльзас-Лотарингия, основана Германская империя",
+    "wrong_answers_de": ["Frankreich besiegte Preußen und annektierte das Rheinland", "Ein unentschiedener Krieg, der im Frankfurter Frieden mit Gebietsaustausch endete", "Österreich vermittelte zwischen Preußen und Frankreich im Waffenstillstand von Wien"],
+    "wrong_answers_ru": ["Франция победила Пруссию и аннексировала Рейнланд", "Неопределённая война, завершившаяся Франкфуртским миром с обменом территориями", "Австрия выступила посредником между Пруссией и Францией в Венском перемирии"],
+    "explanation_de": "Bismarck provozierte Frankreich durch die 'Emser Depesche'. Die preußische Armee besiegte Frankreich schnell; Napoleon III. kapitulierte bei Sedan. Die Schmach war der Hauptgrund für Frankreichs Revanchegelüste bis 1914.",
+    "explanation_ru": "Бисмарк спровоцировал Францию «Эмской депешей». Прусская армия быстро разгромила Францию; Наполеон III капитулировал под Седаном. Позор стал главной причиной французского реваншизма вплоть до 1914 года.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1870 CE",
+    "tags": ["Krieg", "Deutschland", "Frankreich"],
+    "interesting_facts": [
+      {
+        "de": "Paris wurde belagert – Pariser aßen Ratten und Zootiere, um zu überleben.",
+        "ru": "Париж был осаждён — парижане ели крыс и зоопарковых животных, чтобы выжить."
+      },
+      {
+        "de": "Frankreich musste 5 Milliarden Goldfranc Kriegsentschädigung zahlen – in 3 Jahren.",
+        "ru": "Франция была обязана выплатить 5 миллиардов золотых франков военного возмещения — за 3 года."
+      },
+      {
+        "de": "Elsass-Lothringen blieb deutsch bis 1918 – ein dauerhafter Stachel im Verhältnis Deutschland-Frankreich.",
+        "ru": "Эльзас-Лотарингия оставалась немецкой до 1918 года — постоянная заноза в германо-французских отношениях."
+      }
+    ]
+  },
+  {
+    "id": 8034,
+    "question_de": "Was war die Sozialistische Internationale und warum gründete man sie?",
+    "question_ru": "Что такое Социалистический интернационал и зачем его основали?",
+    "correct_answer_de": "Eine internationale Organisation der Arbeiterbewegung (1. Internationale 1864, 2. Internationale 1889) – für Arbeiterrechte und Frieden",
+    "correct_answer_ru": "Международная организация рабочего движения (1-й Интернационал 1864, 2-й Интернационал 1889) — за права рабочих и мир",
+    "wrong_answers_de": ["Ein Geheimnetzwerk zur Vorbereitung der russischen Revolution von 1917", "Eine Freihandelsorganisation zur Liberalisierung des Welthandels", "Ein Bündnis sozialistischer Staaten nach dem Zweiten Weltkrieg"],
+    "wrong_answers_ru": ["Тайная сеть для подготовки русской революции 1917 года", "Организация свободной торговли для либерализации мировой торговли", "Союз социалистических государств после Второй мировой войны"],
+    "explanation_de": "Marx war führend in der 1. Internationale (1864–1876). Die 2. Internationale (1889–1916) vereinte sozialdemokratische Parteien. Beim Ausbruch des 1. Weltkriegs scheiterte sie – die Parteien unterstützten ihre Heimatländer statt internationale Solidarität.",
+    "explanation_ru": "Маркс был ведущей фигурой в 1-м Интернационале (1864–1876). 2-й Интернационал (1889–1916) объединил социал-демократические партии. С началом Первой мировой он провалился — партии поддержали свои отечества вместо международной солидарности.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1864 CE",
+    "tags": ["Politik", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Der 1. Mai als internationaler Arbeitertag geht auf die 2. Internationale zurück – zur Erinnerung an Haymarket 1886.",
+        "ru": "1 мая как международный день труда восходит ко 2-му Интернационалу — в память о событиях на площади Хеймаркет в 1886 году."
+      },
+      {
+        "de": "Die Bakunin-Marx-Spaltung zerstörte die 1. Internationale – Anarchismus vs. Marxismus.",
+        "ru": "Раскол Бакунина и Маркса уничтожил 1-й Интернационал — анархизм против марксизма."
+      },
+      {
+        "de": "1914 stimmten die meisten sozialistischen Parlamentarier für die Kriegskredite – ein historischer Verrat an der Internationale.",
+        "ru": "В 1914 году большинство социалистических парламентариев проголосовали за военные кредиты — историческое предательство Интернационала."
+      }
+    ]
+  },
+  {
+    "id": 8035,
+    "question_de": "Wer war Queen Victoria und was symbolisiert ihre Herrschaft?",
+    "question_ru": "Кто такая королева Виктория и что символизирует её правление?",
+    "correct_answer_de": "Britische Königin (1837–1901) – ihre Ära steht für Industrialisierung, Imperialismus und viktorianische Moralvorstellungen",
+    "correct_answer_ru": "Британская королева (1837–1901) — её эпоха олицетворяет индустриализацию, империализм и викторианскую мораль",
+    "wrong_answers_de": ["Englische Königin des 18. Jahrhunderts, die Amerika seine Unabhängigkeit gab", "Britische Premierministerin, die England durch die Industrielle Revolution führte", "Habsburger Kaiserin, die das britische Königreich mit Österreich vereinte"],
+    "wrong_answers_ru": ["Английская королева XVIII века, даровавшая Америке независимость", "Британский премьер-министр, проведший Англию через промышленную революцию", "Габсбургская императрица, объединившая британское королевство с Австрией"],
+    "explanation_de": "Victoria regierte 63 Jahre – die längste Herrschaft bis dahin. Das britische Empire erreichte seinen Höhepunkt. Sie war Kaiserin von Indien. Ihr privates Trauma: Witwenschaft nach Alberts Tod 1861 – sie trug 40 Jahre Trauerkleidung.",
+    "explanation_ru": "Виктория правила 63 года — дольше всех до неё. Британская империя достигла своей вершины. Она была императрицей Индии. Её личная трагедия: вдовство после смерти Альберта в 1861 году — 40 лет в трауре.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1870 CE",
+    "tags": ["England", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Victoria war durch ihre Kinder mit fast allen europäischen Königshäusern verwandt – 'Großmutter Europas'.",
+        "ru": "Виктория через своих детей была связана почти со всеми европейскими королевскими домами — «бабушка Европы»."
+      },
+      {
+        "de": "Sie überlebte 8 Attentatsversuche – das erste schon 1840, als sie erst 21 Jahre alt war.",
+        "ru": "Она пережила 8 покушений — первое ещё в 1840 году, когда ей было всего 22 года."
+      },
+      {
+        "de": "Die viktorianische Ära gilt als Inbegriff von Prüderie – obwohl Victoria selbst recht direkt und leidenschaftlich war.",
+        "ru": "Викторианская эпоха считается воплощением пуританства — хотя сама Виктория была весьма прямолинейной и страстной."
+      }
+    ]
+  },
+  {
+    "id": 8036,
+    "question_de": "Was war die Transkontinentale Eisenbahn in Amerika und wann wurde sie vollendet?",
+    "question_ru": "Что такое трансконтинентальная железная дорога в Америке и когда она была завершена?",
+    "correct_answer_de": "Eine Eisenbahnlinie quer durch die USA von Ost- nach Westküste – fertiggestellt 1869",
+    "correct_answer_ru": "Железнодорожная линия через всю территорию США от восточного до западного побережья — завершена в 1869 году",
+    "wrong_answers_de": ["Eine Eisenbahn von New York nach Chicago, fertiggestellt 1850", "Eine militärische Lieferlinie der Union im Bürgerkrieg 1863", "Eine Privatbahnstrecke des Millionärs Cornelius Vanderbilt von 1875"],
+    "wrong_answers_ru": ["Железная дорога из Нью-Йорка в Чикаго, завершённая в 1850 году", "Военная снабженческая линия Союза в период Гражданской войны в 1863 году", "Частная железнодорожная линия миллионера Корнелиуса Вандербильта 1875 года"],
+    "explanation_de": "Die Central Pacific (von Westen) und Union Pacific (von Osten) verbanden sich am 10. Mai 1869 in Promontory Summit, Utah. Der Bau kostete das Leben vieler chinesischer und irischer Einwanderer.",
+    "explanation_ru": "Central Pacific (с запада) и Union Pacific (с востока) соединились 10 мая 1869 года в Промонтори-Саммит, штат Юта. Строительство стоило жизни многим китайским и ирландским иммигрантам.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1869 CE",
+    "tags": ["Wirtschaft", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Der 'Goldene Nagel' (Golden Spike) wurde als letzter Nagel eingeschlagen – aus reinem Gold.",
+        "ru": "«Золотой костыль» (Golden Spike) был забит последним — из чистого золота."
+      },
+      {
+        "de": "Chinesische Arbeiter machten 80 % der Belegschaft der Central Pacific aus – zu 1 Dollar pro Tag.",
+        "ru": "Китайские рабочие составляли 80% рабочей силы Central Pacific — по 1 доллару в день."
+      },
+      {
+        "de": "Die Eisenbahn beschleunigte die Ausrottung der Büffelherden – und damit der Plains-Indianer.",
+        "ru": "Железная дорога ускорила истребление стад бизонов — а вместе с ними и индейцев Великих равнин."
+      }
+    ]
+  },
+  {
+    "id": 8037,
+    "question_de": "Was waren die Sozialen Reformen Bismarcks (Sozialversicherung) in Deutschland?",
+    "question_ru": "Что такое социальные реформы Бисмарка (социальное страхование) в Германии?",
+    "correct_answer_de": "Bismarck führte 1883–1889 Kranken-, Unfall- und Rentenversicherung ein – erste staatliche Sozialversicherung der Welt",
+    "correct_answer_ru": "Бисмарк в 1883–1889 годах ввёл медицинское, производственное и пенсионное страхование — первая государственная система социального страхования в мире",
+    "wrong_answers_de": ["Reformgesetze Wilhelms II., die Kinderarbeit in Deutschland verboten", "Wohlfahrtsprogramme der SPD nach 1890, die Bismarck bekämpft hatte", "Gesetze der Weimarer Republik (1919), die Arbeitnehmerrechte einführten"],
+    "wrong_answers_ru": ["Реформаторские законы Вильгельма II, запретившие детский труд в Германии", "Программы социального обеспечения СДПГ после 1890 года, которым Бисмарк противился", "Законы Веймарской республики (1919), введшие права работников"],
+    "explanation_de": "Bismarck wollte Sozialisten schwächen, indem er ihre Forderungen erfüllte. Gleichzeitig verbot er die SPD (Sozialistengesetz 1878–1890). Die Sozialversicherung war eine konservative Revolution von oben – und Vorbild für die Welt.",
+    "explanation_ru": "Бисмарк хотел ослабить социалистов, выполнив их требования. Одновременно он запретил СДПГ (Закон против социалистов, 1878–1890). Социальное страхование стало консервативной революцией сверху — и образцом для всего мира.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1883 CE",
+    "tags": ["Gesellschaft", "Deutschland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Das Rentenalter wurde 1889 auf 70 Jahre gesetzt – die Lebenserwartung lag damals bei etwa 45 Jahren.",
+        "ru": "Пенсионный возраст был установлен в 1889 году на уровне 70 лет — при средней продолжительности жизни около 45 лет."
+      },
+      {
+        "de": "Bismarcks Sozialpolitik inspirierte die britische Liberal-Reform von 1906–1911 und später den New Deal.",
+        "ru": "Социальная политика Бисмарка вдохновила британские либеральные реформы 1906–1911 годов и впоследствии «Новый курс»."
+      },
+      {
+        "de": "Deutschland hatte das erste staatliche Krankenversicherungssystem der Welt – 80 Jahre vor Großbritannien.",
+        "ru": "Германия имела первую в мире государственную систему медицинского страхования — на 80 лет раньше Великобритании."
+      }
+    ]
+  },
+  {
+    "id": 8038,
+    "question_de": "Was war die Fotografie und wer erfand sie?",
+    "question_ru": "Что такое фотография и кто её изобрёл?",
+    "correct_answer_de": "Louis Daguerre (Frankreich) präsentierte 1839 die Daguerreotypie – erste praktische Fotografie",
+    "correct_answer_ru": "Луи Дагер (Франция) представил в 1839 году дагерротип — первую практическую фотографию",
+    "wrong_answers_de": ["Thomas Edison erfand die Fotografie 1890 als Nebenprojekt zum Phonographen", "William Fox Talbot erfand 1851 die erste Digitalfotografie in England", "Nicéphore Niépce und Daguerre erfanden gemeinsam 1820 die Farbfotografie"],
+    "wrong_answers_ru": ["Томас Эдисон изобрёл фотографию в 1890 году как побочный проект к фонографу", "Уильям Фокс Тэлбот изобрёл в 1851 году первую цифровую фотографию в Англии", "Нисефор Ньепс и Дагер совместно изобрели в 1820 году цветную фотографию"],
+    "explanation_de": "Niépce machte 1826 die erste Fotografie (8 Stunden Belichtungszeit). Daguerre perfektionierte das Verfahren. Fox Talbot entwickelte das Negativ-Positiv-Verfahren. Die Fotografie veränderte Kunst, Journalismus und das menschliche Selbstbild grundlegend.",
+    "explanation_ru": "Ньепс сделал в 1826 году первую фотографию (8 часов экспозиции). Дагер усовершенствовал метод. Фокс Тэлбот разработал процесс «негатив-позитив». Фотография коренным образом изменила искусство, журналистику и человеческое самовосприятие.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1839 CE",
+    "tags": ["Erfindungen", "Frankreich"],
+    "interesting_facts": [
+      {
+        "de": "Die erste Fotografie zeigt einen Pariser Dachblick – mit einer Belichtungszeit von 8 Stunden.",
+        "ru": "Первая фотография изображает вид с парижской крыши — с выдержкой 8 часов."
+      },
+      {
+        "de": "Portraitmaler fürchteten zunächst die Fotografie – tatsächlich befreite sie die Kunst von der Pflicht zur Realitätswiedergabe.",
+        "ru": "Портретные живописцы поначалу опасались фотографии — на деле же она освободила искусство от обязанности воспроизводить реальность."
+      },
+      {
+        "de": "Mathew Brady fotografierte erstmals Kriegsszenen – im Amerikanischen Bürgerkrieg, was die öffentliche Wahrnehmung des Krieges veränderte.",
+        "ru": "Мэтью Брэди впервые снял военные сцены — в ходе Гражданской войны в Америке, изменив общественное восприятие войны."
+      }
+    ]
+  },
+  {
+    "id": 8039,
+    "question_de": "Was war der Russisch-Japanische Krieg (1904/05) und welche Bedeutung hatte er?",
+    "question_ru": "Что такое Русско-японская война (1904/05) и каково её значение?",
+    "correct_answer_de": "Japan besiegte Russland – erstes Mal in der Moderne, dass eine asiatische Macht eine europäische Großmacht schlug",
+    "correct_answer_ru": "Япония победила Россию — впервые в Новое время азиатская держава победила европейскую великую державу",
+    "wrong_answers_de": ["Russland besiegte Japan und annektierte die Mandschurei und Korea", "Ein unentschiedener Krieg, der durch US-Vermittlung im Vertrag von Portsmouth endete ohne Sieger", "Japan besetzte Teile Sibiriens und Kamtschatka bis zum Friedensvertrag 1910"],
+    "wrong_answers_ru": ["Россия победила Японию и аннексировала Маньчжурию и Корею", "Неопределённая война, завершившаяся при посредничестве США без победителя Портсмутским договором", "Япония оккупировала часть Сибири и Камчатки вплоть до мирного договора 1910 года"],
+    "explanation_de": "Japan griff 1904 Port Arthur überraschend an. Die russische Ostseeflotte fuhr um die Welt – und wurde in der Seeschlacht von Tsushima vernichtet. Präsident Roosevelt vermittelte den Frieden – USA erhielten Nobelpreis.",
+    "explanation_ru": "Япония в 1904 году внезапно атаковала Порт-Артур. Русская балтийская эскадра обошла весь мир — и была уничтожена в Цусимском сражении. Президент Рузвельт выступил посредником — США получили Нобелевскую премию.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1905 CE",
+    "tags": ["Krieg", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Die russische Niederlage löste die Revolution von 1905 aus – mit dem Blutsonntag und dem Potjomkin-Aufstand.",
+        "ru": "Российское поражение вызвало революцию 1905 года — с Кровавым воскресеньем и восстанием на «Потёмкине»."
+      },
+      {
+        "de": "Japans Sieg verblüffte die ganze Welt – und inspirierte antikoloniale Bewegungen in Asien und Afrika.",
+        "ru": "Победа Японии поразила весь мир — и вдохновила антиколониальные движения в Азии и Африке."
+      },
+      {
+        "de": "Theodore Roosevelt erhielt für die Friedensvermittlung den Friedensnobelpreis – der erste US-Bürger.",
+        "ru": "Теодор Рузвельт получил за посредничество Нобелевскую премию мира — первый гражданин США."
+      }
+    ]
+  },
+  {
+    "id": 8040,
+    "question_de": "Was war die Pariser Weltausstellung und welche Bedeutung hatte sie?",
+    "question_ru": "Что такое Парижская всемирная выставка и каково её значение?",
+    "correct_answer_de": "Internationale Ausstellungen (mehrere im 19. Jh.) zum Schaufenster von Industrie, Wissenschaft und Imperialismus",
+    "correct_answer_ru": "Международные выставки (несколько в XIX веке) как витрина промышленности, науки и империализма",
+    "wrong_answers_de": ["Ein jährlicher Kunstmarkt in Paris für Gemälde und Skulpturen", "Eine diplomatische Konferenz der Großmächte in Paris", "Ein Handelskongress europäischer Kaufleute und Fabrikanten"],
+    "wrong_answers_ru": ["Ежегодный художественный рынок в Париже для картин и скульптур", "Дипломатическая конференция великих держав в Париже", "Торговый конгресс европейских купцов и фабрикантов"],
+    "explanation_de": "Die Londoner Great Exhibition 1851 startete den Trend. Paris folgte 1855, 1867, 1878, 1889, 1900. Der Eiffelturm wurde 1889 als Eingangsportal gebaut. Die Ausstellungen zeigten koloniale 'Schätze' und westlichen Fortschritt.",
+    "explanation_ru": "Лондонская Великая выставка 1851 года положила начало тенденции. Париж последовал в 1855, 1867, 1878, 1889, 1900 годах. Эйфелева башня была построена в 1889 году как входные ворота. Выставки показывали колониальные «сокровища» и западный прогресс.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1889 CE",
+    "tags": ["Frankreich", "Wirtschaft", "Kultur"],
+    "interesting_facts": [
+      {
+        "de": "Der Eiffelturm sollte nach der Weltausstellung 1889 abgerissen werden – Radiotechnologie rettete ihn.",
+        "ru": "Эйфелеву башню планировали снести после Всемирной выставки 1889 года — её спасли радиотехнологии."
+      },
+      {
+        "de": "Auf manchen Ausstellungen wurden Menschen aus Kolonien als 'ethnische Ausstellungen' zur Schau gestellt – eine dehumanisierende Praxis.",
+        "ru": "На некоторых выставках людей из колоний демонстрировали как «этнические экспонаты» — бесчеловечная практика."
+      },
+      {
+        "de": "Thomas Edison präsentierte 1889 in Paris über 500 Erfindungen – darunter den Phonographen.",
+        "ru": "Томас Эдисон представил в 1889 году в Париже более 500 изобретений — в том числе фонограф."
+      }
+    ]
+  },
+  {
+    "id": 8041,
+    "question_de": "Wer war Friedrich Nietzsche und was ist seine Kernaussage?",
+    "question_ru": "Кто такой Фридрих Ницше и в чём его ключевая мысль?",
+    "correct_answer_de": "Deutscher Philosoph (1844–1900) – 'Gott ist tot', Kritik der Moral, Konzept des Übermenschen",
+    "correct_answer_ru": "Немецкий философ (1844–1900) — «Бог умер», критика морали, концепция сверхчеловека",
+    "wrong_answers_de": ["Österreichischer Ökonom – er begründete die Neoklassik und Marktökonomie", "Dänischer Theologe – er entwickelte den Existenzialismus aus christlicher Sicht", "Englischer Utilitarist – er formulierte den größten Nutzen für die größte Zahl"],
+    "wrong_answers_ru": ["Австрийский экономист — основал неоклассику и рыночную экономику", "Датский теолог — разработал экзистенциализм с христианской точки зрения", "Английский утилитарист — сформулировал принцип наибольшего блага для наибольшего числа"],
+    "explanation_de": "Nietzsche kritisierte Christentum und Sklavenmoral. 'Also sprach Zarathustra' (1883) entwarf den Übermenschen, der eigene Werte schafft. Die Nazis missbrauchten Nietzsche – obwohl er Nationalismus und Antisemitismus ablehnte.",
+    "explanation_ru": "Ницше критиковал христианство и мораль рабов. «Так говорил Заратустра» (1883) набросал образ сверхчеловека, создающего собственные ценности. Нацисты злоупотребляли Ницше — хотя он отвергал национализм и антисемитизм.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1883 CE",
+    "tags": ["Philosophie", "Deutschland"],
+    "interesting_facts": [
+      {
+        "de": "Nietzsche brach 1889 geistig zusammen – er umarmte ein gepeitschtes Pferd, weinte und wurde nie mehr gesund.",
+        "ru": "В 1889 году Ницше пережил психический срыв — он обнял избиваемую лошадь, зарыдал и так и не поправился."
+      },
+      {
+        "de": "Seine Schwester Elisabeth verfälschte sein Werk nach seinem Tod für nationalistische Zwecke.",
+        "ru": "Его сестра Элизабет фальсифицировала его труды после смерти в националистических целях."
+      },
+      {
+        "de": "Der Satz 'Was mich nicht umbringt, macht mich stärker' stammt von Nietzsche.",
+        "ru": "Фраза «Что меня не убивает, то делает меня сильнее» принадлежит Ницше."
+      }
+    ]
+  },
+  {
+    "id": 8042,
+    "question_de": "Was war die Weltausstellung in London (Great Exhibition, 1851)?",
+    "question_ru": "Что такое Всемирная выставка в Лондоне (Великая выставка, 1851)?",
+    "correct_answer_de": "Die erste Weltausstellung – im Kristallpalast, über 6 Millionen Besucher, Schaufenster der britischen Industrie",
+    "correct_answer_ru": "Первая всемирная выставка — в Хрустальном дворце, более 6 миллионов посетителей, витрина британской промышленности",
+    "wrong_answers_de": ["Eine Kunstausstellung im Buckingham-Palast, die modernen Impressionismus zeigte", "Eine Kolonialausstellung, die Güter aus dem Empire vorstellte", "Eine technische Messe, die nur für Fabrikanten und Ingenieure zugänglich war"],
+    "wrong_answers_ru": ["Художественная выставка в Букингемском дворце, представившая современный импрессионизм", "Колониальная выставка, демонстрировавшая товары из Империи", "Техническая ярмарка, доступная только фабрикантам и инженерам"],
+    "explanation_de": "Prinz Albert initiierte die Great Exhibition. Der Kristallpalast aus Glas und Stahl war selbst eine Sensation. 100.000 Exponate aus 28 Ländern – aber England dominierte. Eintrittspreis: 1 Schilling für Arbeiter.",
+    "explanation_ru": "Принц Альберт инициировал Великую выставку. Хрустальный дворец из стекла и стали сам по себе был сенсацией. 100 000 экспонатов из 28 стран — но Англия доминировала. Входная плата: 1 шиллинг для рабочих.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1851 CE",
+    "tags": ["Wirtschaft", "England"],
+    "interesting_facts": [
+      {
+        "de": "Der Kristallpalast war so groß, dass Elmen im Inneren wuchsen – die Architekten lösten das Regenproblem genial.",
+        "ru": "Хрустальный дворец был настолько велик, что внутри росли вязы — архитекторы блестяще решили проблему дождя."
+      },
+      {
+        "de": "Der Gewinn finanzierte das South Kensington Museum – heute das Victoria and Albert Museum.",
+        "ru": "Прибыль пошла на финансирование музея Южного Кенсингтона — ныне Музея Виктории и Альберта."
+      },
+      {
+        "de": "Erstmals wurde ein öffentliches Toilettensystem in England eingeführt – im Kristallpalast.",
+        "ru": "Впервые в Англии была введена система общественных туалетов — в Хрустальном дворце."
+      }
+    ]
+  },
+  {
+    "id": 8043,
+    "question_de": "Was war die Abschaffung des Sklavenhandels in England (1807) und welche Auswirkungen hatte sie?",
+    "question_ru": "Что такое отмена работорговли в Англии (1807) и каковы её последствия?",
+    "correct_answer_de": "England verbot 1807 den transatlantischen Sklavenhandel – 1833 wurde Sklaverei im Empire abgeschafft",
+    "correct_answer_ru": "Англия в 1807 году запретила трансатлантическую работорговлю — в 1833 году рабство было отменено в Империи",
+    "wrong_answers_de": ["England verbot Sklaverei bereits 1776 nach dem amerikanischen Vorbild", "Die Abschaffung erfolgte 1848 nach den europäischen Revolutionen durch Parlamentsbeschluss", "England verkaufte seine letzten Sklaven erst 1867 nach dem amerikanischen Bürgerkrieg"],
+    "wrong_answers_ru": ["Англия запретила рабство ещё в 1776 году, следуя американскому примеру", "Отмена произошла в 1848 году после европейских революций решением парламента", "Англия продала последних рабов лишь в 1867 году после американской Гражданской войны"],
+    "explanation_de": "William Wilberforce kämpfte 26 Jahre im Parlament für die Abschaffung. Der Slave Trade Act 1807 verbot den Handel, die Slavery Abolition Act 1833 die Sklaverei selbst. England zahlte 20 Millionen Pfund – an die Sklavenhalter als Entschädigung.",
+    "explanation_ru": "Уильям Уилберфорс 26 лет боролся в парламенте за отмену. Закон о работорговле 1807 года запретил торговлю, Закон об отмене рабства 1833 года — само рабство. Англия выплатила 20 миллионов фунтов — рабовладельцам в качестве компенсации.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1807 CE",
+    "tags": ["Gesellschaft", "England"],
+    "interesting_facts": [
+      {
+        "de": "Großbritannien zahlte die Entschädigung für Sklavenhalter 2015 vollständig zurück – an britische Steuerzahler, deren Vorfahren die Schulden machten.",
+        "ru": "Великобритания выплатила компенсацию рабовладельцам полностью лишь в 2015 году — британским налогоплательщикам, чьи предки делали долги."
+      },
+      {
+        "de": "Die Royal Navy patrouillierte nach 1807 die westafrikanische Küste und befreite über 150.000 Menschen.",
+        "ru": "Королевский флот после 1807 года патрулировал западноафриканское побережье и освободил более 150 000 человек."
+      },
+      {
+        "de": "Die befreiten Sklaven erhielten keine Entschädigung – nur ihre Besitzer bekamen Geld.",
+        "ru": "Освобождённые рабы не получили никакой компенсации — деньги получили только их хозяева."
+      }
+    ]
+  },
+  {
+    "id": 8044,
+    "question_de": "Was war der Realismus in der Literatur des 19. Jahrhunderts?",
+    "question_ru": "Что такое реализм в литературе XIX века?",
+    "correct_answer_de": "Eine Stilrichtung, die das wirkliche Leben aller Schichten nüchtern darstellte – gegen romantische Idealisierung",
+    "correct_answer_ru": "Литературное направление, трезво изображающее реальную жизнь всех слоёв — в противовес романтической идеализации",
+    "wrong_answers_de": ["Ein Kunststil, der griechische und römische Antike als Ideal verherrlichte", "Eine philosophische Strömung, die materielle Wirklichkeit über Ideen stellte", "Ein Theaterstil, der Bühne und Kulissen möglichst naturalgetreu gestaltete"],
+    "wrong_answers_ru": ["Художественный стиль, прославлявший греческую и римскую античность как идеал", "Философское течение, ставившее материальную действительность выше идей", "Театральный стиль, стремившийся максимально натурально оформить сцену и декорации"],
+    "explanation_de": "Balzac, Flaubert, Tolstoi, Dostojewski, Dickens – sie schrieben über Armut, Ungerechtigkeit und das bürgerliche Leben ohne Verklärung. Dickens' 'Oliver Twist' zeigte Londoner Elend. Tolstois 'Krieg und Frieden' war der umfassendste Realismus.",
+    "explanation_ru": "Бальзак, Флобер, Толстой, Достоевский, Диккенс — они писали о бедности, несправедливости и буржуазной жизни без прикрас. «Оливер Твист» Диккенса показал лондонскую нищету. «Война и мир» Толстого — самый масштабный реализм.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1860 CE",
+    "tags": ["Kultur", "Kunst"],
+    "interesting_facts": [
+      {
+        "de": "Gustave Flauberts 'Madame Bovary' (1857) wurde in Frankreich wegen Obszönität angeklagt – und freigesprochen.",
+        "ru": "«Мадам Бовари» (1857) Гюстава Флобера была привлечена к суду во Франции за непристойность — и оправдана."
+      },
+      {
+        "de": "Dostojewski wurde kurz vor seiner Hinrichtung begnadigt – das Erlebnis prägte sein gesamtes Werk.",
+        "ru": "Достоевский был помилован в последний момент перед казнью — этот опыт пронизал всё его творчество."
+      },
+      {
+        "de": "Charles Dickens veröffentlichte seine Romane in Zeitschriften als Fortsetzungsromane – für die breite Masse.",
+        "ru": "Чарльз Диккенс публиковал свои романы в журналах как продолжающиеся истории — для широкой публики."
+      }
+    ]
+  },
+  {
+    "id": 8045,
+    "question_de": "Was war die Lateinamerikanische Unabhängigkeit und wann fand sie statt?",
+    "question_ru": "Что такое независимость Латинской Америки и когда она произошла?",
+    "correct_answer_de": "Zwischen 1810 und 1826 wurden die spanischen und portugiesischen Kolonien in Amerika unabhängig",
+    "correct_answer_ru": "Между 1810 и 1826 годами испанские и португальские колонии в Америке обрели независимость",
+    "wrong_answers_de": ["Die Befreiung Lateinamerikas durch die USA im Spanisch-Amerikanischen Krieg 1898", "Friedliche Unabhängigkeiten durch Volksabstimmungen nach 1815 mit Zustimmung Spaniens", "Der Rückzug Spaniens aus Amerika 1763 nach dem Siebenjährigen Krieg"],
+    "wrong_answers_ru": ["Освобождение Латинской Америки США в Испано-американской войне 1898 года", "Мирная независимость через народные референдумы после 1815 года с согласия Испании", "Уход Испании из Америки в 1763 году после Семилетней войны"],
+    "explanation_de": "Napoleons Invasion Spaniens 1808 schwächte die Kolonialherrschaft. Bolívar (Norden), San Martín (Süden), Hidalgo/Iturbide (Mexiko) führten die Befreiungskämpfe. 1826 war ganz Lateinamerika unabhängig – außer Kuba und Puerto Rico.",
+    "explanation_ru": "Нашествие Наполеона на Испанию в 1808 году ослабило колониальное господство. Боливар (север), Сан-Мартин (юг), Идальго/Итурбиде (Мексика) возглавили освободительную борьбу. К 1826 году вся Латинская Америка обрела независимость — кроме Кубы и Пуэрто-Рико.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1820 CE",
+    "tags": ["Politik", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Haiti wurde 1804 unabhängig – als erste schwarze Republik der Welt nach erfolgreicher Sklavenrevolution.",
+        "ru": "Гаити стало независимым в 1804 году — первой чернокожей республикой в мире после успешной революции рабов."
+      },
+      {
+        "de": "Brasilien wurde 1822 unabhängig – durch Prinz Pedro, den Sohn des portugiesischen Königs.",
+        "ru": "Бразилия обрела независимость в 1822 году — стараниями принца Педру, сына португальского короля."
+      },
+      {
+        "de": "Die Monroe-Doktrin (1823) der USA warnte Europa vor Eingriffen in Amerika – und schützte indirekt die neuen Nationen.",
+        "ru": "Доктрина Монро (1823) США предупредила Европу о недопустимости вмешательства в Америку — косвенно защитив новые нации."
+      }
+    ]
+  },
+  {
+    "id": 8046,
+    "question_de": "Was war die Entdeckung der Röntgenstrahlen (1895)?",
+    "question_ru": "Что такое открытие рентгеновских лучей (1895)?",
+    "correct_answer_de": "Wilhelm Conrad Röntgen entdeckte 1895 die X-Strahlen – revolutionierte die Medizin durch unsichtbare Körperbilder",
+    "correct_answer_ru": "Вильгельм Конрад Рёнтген открыл в 1895 году X-лучи — революционизировал медицину невидимыми изображениями тела",
+    "wrong_answers_de": ["Marie Curie entdeckte Röntgenstrahlen als Nebenprodukt ihrer Radiumforschung", "Thomas Edison entwickelte Röntgenstrahlen für industrielle Metallprüfung", "Heinrich Hertz entdeckte Röntgenstrahlen während seiner Experimente mit Radiowellen"],
+    "wrong_answers_ru": ["Мари Кюри открыла рентгеновские лучи как побочный продукт исследований радия", "Томас Эдисон разработал рентгеновские лучи для промышленного контроля металлов", "Генрих Герц открыл рентгеновские лучи в ходе экспериментов с радиоволнами"],
+    "explanation_de": "Röntgen entdeckte in Würzburg zufällig, dass Strahlen feste Objekte durchdringen konnten. Das erste Bild zeigte die Hand seiner Frau mit Ehering. Er nannte sie X-Strahlen (unbekannte Strahlen). 1901 erhielt er den ersten Physik-Nobelpreis.",
+    "explanation_ru": "Рёнтген случайно обнаружил в Вюрцбурге, что лучи способны проникать сквозь твёрдые объекты. Первый снимок показал руку его жены с обручальным кольцом. Он назвал их X-лучами (неизвестными лучами). В 1901 году он получил первую Нобелевскую премию по физике.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1895 CE",
+    "tags": ["Wissenschaft", "Deutschland", "Medizin"],
+    "interesting_facts": [
+      {
+        "de": "Röntgen patentierte seine Entdeckung nicht – er wollte, dass sie der ganzen Menschheit nützt.",
+        "ru": "Рёнтген не запатентовал своё открытие — он хотел, чтобы оно служило всему человечеству."
+      },
+      {
+        "de": "Im Ersten Weltkrieg retteten mobile Röntgengeräte ('Petites Curies' von Marie Curie) Tausende Soldaten.",
+        "ru": "В Первой мировой войне мобильные рентгеновские аппараты («маленькие Кюри» Мари Кюри) спасли тысячи солдат."
+      },
+      {
+        "de": "In Schuhgeschäften wurden bis in die 1950er Jahre Röntgengeräte verwendet – um Schuhgrößen zu messen.",
+        "ru": "В обувных магазинах рентгеновские аппараты использовались вплоть до 1950-х годов — для измерения размера обуви."
+      }
+    ]
+  },
+  {
+    "id": 8047,
+    "question_de": "Was war die Kongokolonie des belgischen Königs Leopold II.?",
+    "question_ru": "Что такое колония Конго бельгийского короля Леопольда II?",
+    "correct_answer_de": "Leopolds persönlicher Kolonialstaat (1885–1908) mit extremer Ausbeutung – Millionen Kongolesische Todesopfer",
+    "correct_answer_ru": "Личное колониальное государство Леопольда (1885–1908) с крайней эксплуатацией — миллионы погибших конголезцев",
+    "wrong_answers_de": ["Eine belgische Staatskolonie mit fortschrittlicher Verwaltung und Schulen", "Eine deutsch-belgische Gemeinschaftskolonie zur Ausbeutung von Elfenbein", "Ein von der Berliner Konferenz gemeinsam verwaltetes Protektorat mehrerer Staaten"],
+    "wrong_answers_ru": ["Бельгийская государственная колония с передовым управлением и школами", "Немецко-бельгийская совместная колония для добычи слоновой кости", "Протекторат, совместно управляемый несколькими государствами по решению Берлинской конференции"],
+    "explanation_de": "Leopold II. ließ Kongolesen für Kautschuk und Elfenbein ausbeuten. Wer die Quote nicht erfüllte, verlor die Hand. Schätzungen: 2–10 Millionen Tote. Journalist E.D. Morel und Roger Casement deckten die Verbrechen auf – internationaler Druck zwang Leopold zur Abgabe.",
+    "explanation_ru": "Леопольд II заставлял конголезцев добывать каучук и слоновую кость. Тех, кто не выполнял норму, лишали рук. Оценки: 2–10 миллионов погибших. Журналист Э.Д. Морел и Роджер Кейсмент разоблачили преступления — международное давление вынудило Леопольда передать колонию.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1895 CE",
+    "tags": ["Afrika", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Joseph Conrads Roman 'Herz der Finsternis' basiert auf seinen Erfahrungen im Kongo – ein literarisches Zeugnis der Grausamkeiten.",
+        "ru": "Роман Джозефа Конрада «Сердце тьмы» основан на его опыте в Конго — литературное свидетельство жестокостей."
+      },
+      {
+        "de": "Leopold II. baute mit dem Kongogewinn prächtige Parks und Bauten in Belgien.",
+        "ru": "Леопольд II на доходы от Конго построил в Бельгии роскошные парки и здания."
+      },
+      {
+        "de": "Belgien übernahm 1908 die Kolonie – als 'Belgisch Kongo', nicht viel besser verwaltet.",
+        "ru": "В 1908 году Бельгия приняла колонию — как «Бельгийское Конго», управляемое немногим лучше."
+      }
+    ]
+  },
+  {
+    "id": 8048,
+    "question_de": "Was war die Telegraphie und welchen Einfluss hatte sie auf die Kommunikation?",
+    "question_ru": "Что такое телеграфия и какое влияние она оказала на коммуникацию?",
+    "correct_answer_de": "Elektrischer Telegraf (Morse, 1837/1844) – erste Fernkommunikation in Echtzeit, verbanden Kontinente",
+    "correct_answer_ru": "Электрический телеграф (Морзе, 1837/1844) — первая дальняя коммуникация в реальном времени, соединившая континенты",
+    "wrong_answers_de": ["Das Postsystem mit Briefträgern, das ab 1840 mit Briefmarken modernisiert wurde", "Optische Telegrafe mit Signaltürmen, die Napoleon für Frankreich einführte", "Das Kabelnetz für Telephonie, das erst 1890 zwischen Kontinenten verlegt wurde"],
+    "wrong_answers_ru": ["Почтовая система с почтальонами, модернизированная с 1840 года введением марок", "Оптический телеграф с сигнальными башнями, введённый Наполеоном для Франции", "Кабельная сеть для телефонии, проложенная между континентами лишь в 1890 году"],
+    "explanation_de": "Samuel Morse entwickelte Morsezeichen. 1844 sendete er 'What hath God wrought?' Washington–Baltimore. 1866 wurde das transatlantische Kabel verlegt. Nachrichten, die früher Wochen brauchten, kamen nun in Sekunden.",
+    "explanation_ru": "Сэмюэл Морзе разработал азбуку Морзе. В 1844 году он отправил «Что сотворил Бог?» из Вашингтона в Балтимор. В 1866 году был проложен трансатлантический кабель. Сообщения, прежде занимавшие недели, теперь передавались за секунды.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1844 CE",
+    "tags": ["Erfindungen", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Das erste transatlantische Kabel (1858) von Queen Victoria zu Präsident Buchanan übertrug 509 Wörter in 16 Stunden – dann brach es.",
+        "ru": "Первый трансатлантический кабель (1858) от королевы Виктории президенту Бьюкенену передал 509 слов за 16 часов — затем оборвался."
+      },
+      {
+        "de": "Reuters Nachrichtenagentur nutzte Telegrafen ab 1850 – und revolutionierte den globalen Journalismus.",
+        "ru": "Новостное агентство Reuters с 1850 года использовало телеграф — и революционизировало мировую журналистику."
+      },
+      {
+        "de": "Eisenbahn und Telegraph wurden oft parallel gebaut – die Drähte liefen entlang der Gleise.",
+        "ru": "Железные дороги и телеграф нередко строились параллельно — провода шли вдоль рельсов."
+      }
+    ]
+  },
+  {
+    "id": 8049,
+    "question_de": "Was war der Boxer-Aufstand (1900) in China?",
+    "question_ru": "Что такое Боксёрское восстание (1900) в Китае?",
+    "correct_answer_de": "Ein nationalistisch-religiöser Aufstand gegen westliche Präsenz in China – niedergeschlagen von einer internationalen Koalition",
+    "correct_answer_ru": "Националистическо-религиозное восстание против западного присутствия в Китае — подавлено международной коалицией",
+    "wrong_answers_de": ["Ein Aufstand chinesischer Bauern gegen die Qing-Kaiserdynastie 1900", "Ein Krieg Chinas gegen Japan um die Kontrolle über die Mandschurei", "Eine Revolution, die die Qing-Dynastie stürzte und die Republik ausrief"],
+    "wrong_answers_ru": ["Восстание китайских крестьян против маньчжурской династии Цин в 1900 году", "Война Китая против Японии за контроль над Маньчжурией", "Революция, свергшая династию Цин и провозгласившая республику"],
+    "explanation_de": "Die 'Boxer' (I Ho Tuan) glaubten, durch Rituale unverwundbar zu sein. Sie belagerten die ausländischen Botschaften in Peking. 8 Nationen (Deutschland, Japan, Russland, USA, England etc.) schickten Truppen – China verlor und wurde gedemütigt.",
+    "explanation_ru": "«Боксёры» (Ихэтуань) верили, что через ритуалы стали неуязвимыми. Они осадили иностранные посольства в Пекине. 8 держав (Германия, Япония, Россия, США, Англия и др.) послали войска — Китай проиграл и был унижён.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1900 CE",
+    "tags": ["Krieg", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Kaiser Wilhelms Rede: 'Pardon wird nicht gegeben' – 55 Tage dauerte die Belagerung der Botschaften.",
+        "ru": "Речь кайзера Вильгельма: «Пощады не будет» — осада посольств длилась 55 дней."
+      },
+      {
+        "de": "China musste nach dem Aufstand das 'Boxerprotokoll' unterzeichnen – 450 Millionen Silbertael Entschädigung.",
+        "ru": "После восстания Китай был вынужден подписать «Боксёрский протокол» — 450 миллионов серебряных лянов контрибуции."
+      },
+      {
+        "de": "Der Begriff 'Boxer' war eine westliche Übersetzung – die Bewegung nannte sich 'Gerechte und harmonische Fäuste'.",
+        "ru": "Термин «боксёры» — западный перевод: движение называло себя «Отряды праведной гармонии»."
+      }
+    ]
+  },
+  {
+    "id": 8050,
+    "question_de": "Was war die Psychologie William James' und was ist der Pragmatismus?",
+    "question_ru": "Что такое психология Уильяма Джеймса и что такое прагматизм?",
+    "correct_answer_de": "James (1842–1910) begründete die amerikanische Psychologie und den Pragmatismus – Wahrheit zeigt sich durch praktische Konsequenzen",
+    "correct_answer_ru": "Джеймс (1842–1910) основал американскую психологию и прагматизм — истина проверяется практическими последствиями",
+    "wrong_answers_de": ["Britischer Ökonom, der die Grenznutzenlehre und Konsumtheorie entwickelte", "Österreichischer Neurologe, der Hysterie und Freuds Psychoanalyse begründete", "Deutscher Idealist, der Kants Philosophie zur absoluten Vernunft weiterentwickelte"],
+    "wrong_answers_ru": ["Британский экономист, разработавший теорию предельной полезности и потребления", "Австрийский невролог, основавший учение об истерии и психоанализ Фрейда", "Немецкий идеалист, развивший философию Канта до абсолютного разума"],
+    "explanation_de": "William James schrieb 1890 'Principles of Psychology'. Pragmatismus: Ideen haben Wert, wenn sie praktisch wirken. Sein Bruder Henry James war der berühmte Romanautor. William beeinflusste John Dewey und die amerikanische Pädagogik.",
+    "explanation_ru": "Уильям Джеймс в 1890 году написал «Принципы психологии». Прагматизм: идеи ценны, если действуют на практике. Его брат Генри Джеймс — знаменитый романист. Уильям повлиял на Джона Дьюи и американскую педагогику.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1890 CE",
+    "tags": ["Wissenschaft", "Philosophie", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "James litt selbst an Depressionen und fand durch seine Philosophie einen Weg heraus.",
+        "ru": "Джеймс сам страдал от депрессии и нашёл выход через свою философию."
+      },
+      {
+        "de": "Der Begriff 'Bewusstseinsstrom' (Stream of Consciousness) geht auf William James zurück – in der Literatur von Woolf und Joyce adaptiert.",
+        "ru": "Понятие «поток сознания» (stream of consciousness) восходит к Уильяму Джеймсу — адаптированное в литературе Вулф и Джойса."
+      },
+      {
+        "de": "James forschte auch zu Parapsychologie und Religionserlebnissen – er hielt sie für wissenschaftlich untersuchenswert.",
+        "ru": "Джеймс также исследовал парапсихологию и религиозный опыт — считая их достойными научного изучения."
+      }
+    ]
+  }
+]

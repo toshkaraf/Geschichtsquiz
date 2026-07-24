@@ -1,0 +1,727 @@
+[
+  {
+    "id": 9126,
+    "question_de": "Was war die politische Bedeutung der Konferenz von Jalta (1945)?",
+    "question_ru": "Каково было политическое значение Ялтинской конференции (1945)?",
+    "correct_answer_de": "Roosevelt, Churchill und Stalin teilten die Nachkriegsordnung Europas und legten den Grundstein für die Spaltung in Ost und West",
+    "correct_answer_ru": "Рузвельт, Черчилль и Сталин разделили послевоенный порядок Европы и заложили основу раскола на Восток и Запад",
+    "wrong_answers_de": [
+      "Die drei Mächte vereinbarten die sofortige Auflösung Deutschlands in vier unabhängige Staaten",
+      "Es wurde ein Friedensvertrag mit Japan unterzeichnet, der den Pazifikkrieg beendete",
+      "Die Alliierten beschlossen, Deutschland vollständig zu entnazifizieren und niemals wieder aufzurüsten"
+    ],
+    "wrong_answers_ru": [
+      "Три державы договорились о немедленном разделении Германии на четыре независимых государства",
+      "Был подписан мирный договор с Японией, завершивший войну на Тихом океане",
+      "Союзники решили полностью денацифицировать Германию и никогда не допустить её перевооружения"
+    ],
+    "explanation_de": "Auf der Jalta-Konferenz (Februar 1945) einigten sich die 'Großen Drei' auf Besatzungszonen in Deutschland, freie Wahlen in Osteuropa (die Stalin nicht einhielt) und die Gründung der UNO.",
+    "explanation_ru": "На Ялтинской конференции (февраль 1945 года) «Большая тройка» договорилась об оккупационных зонах в Германии, свободных выборах в Восточной Европе (которые Сталин не провёл) и создании ООН.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["Jalta", "Roosevelt", "Churchill", "Stalin", "WWII"],
+    "interesting_facts": [
+      {"de": "Roosevelt starb nur zwei Monate nach Jalta, am 12. April 1945.", "ru": "Рузвельт скончался всего через два месяца после Ялты, 12 апреля 1945 года."},
+      {"de": "Churchill soll nach Jalta privat gegenüber Eden gesagt haben, er fürchte das Schlimmste für Polen.", "ru": "По имеющимся сведениям, Черчилль после Ялты в приватном разговоре с Иденом сказал, что опасается худшего для Польши."},
+      {"de": "Jalta wurde später von Konservativen als 'Verrat' an Osteuropa kritisiert.", "ru": "Ялта впоследствии подверглась критике консерваторов как «предательство» Восточной Европы."}
+    ]
+  },
+  {
+    "id": 9127,
+    "question_de": "Was war die Bedeutung des Vietnamkriegs (1955–1975) für die USA?",
+    "question_ru": "Каково было значение Вьетнамской войны (1955–1975) для США?",
+    "correct_answer_de": "Eine traumatische militärische Niederlage, die das Vertrauen der Amerikaner in ihre Regierung erschütterte",
+    "correct_answer_ru": "Травматическое военное поражение, поколебавшее доверие американцев к своему правительству",
+    "wrong_answers_de": [
+      "Ein militärischer Sieg, der die US-amerikanische Dominanz in Südostasien sicherte",
+      "Eine begrenzte Intervention, die die amerikanische Öffentlichkeit kaum berührte",
+      "Ein erfolgreiches Programm zur Demokratisierung Südvietnams"
+    ],
+    "wrong_answers_ru": [
+      "Военная победа, обеспечившая американское господство в Юго-Восточной Азии",
+      "Ограниченная интервенция, почти не затронувшая американскую общественность",
+      "Успешная программа демократизации Южного Вьетнама"
+    ],
+    "explanation_de": "Der Vietnamkrieg kostete über 58.000 US-Soldaten das Leben und endete mit dem Fall Saigons 1975. Er spaltete die amerikanische Gesellschaft und führte zum 'Vietnam-Syndrom' in der Außenpolitik.",
+    "explanation_ru": "Вьетнамская война унесла жизни более 58 000 американских солдат и завершилась падением Сайгона в 1975 году. Она расколола американское общество и породила «вьетнамский синдром» во внешней политике.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1975 CE",
+    "tags": ["Vietnamkrieg", "USA", "Kalter Krieg", "Niederlage", "Gesellschaft"],
+    "interesting_facts": [
+      {"de": "Der US-Kongress verabschiedete 1973 den War Powers Act, um Präsidenten Kriegseinsätze ohne Genehmigung zu begrenzen.", "ru": "Конгресс США принял в 1973 году Закон о военных полномочиях, чтобы ограничить право президентов вести войну без санкции."},
+      {"de": "Vietnamkrieg-Veteranen hatten erhebliche Schwierigkeiten bei der Reintegration in die amerikanische Gesellschaft.", "ru": "Ветераны Вьетнама испытывали серьёзные трудности при реинтеграции в американское общество."},
+      {"de": "Das Foto 'Napalm Girl' von 1972 wurde zum weltbekannten Symbol gegen den Krieg.", "ru": "Фотография «Девочка из Напалма» 1972 года стала всемирно известным символом против войны."}
+    ]
+  },
+  {
+    "id": 9128,
+    "question_de": "Was verstand man unter dem Begriff 'Détente' in der Außenpolitik der 1970er Jahre?",
+    "question_ru": "Что понималось под термином «détente» во внешней политике 1970-х годов?",
+    "correct_answer_de": "Eine Phase der Entspannung zwischen den USA und der Sowjetunion mit diplomatischen Gesprächen und Abrüstungsverträgen",
+    "correct_answer_ru": "Фаза разрядки между США и Советским Союзом с дипломатическими переговорами и договорами о разоружении",
+    "wrong_answers_de": [
+      "Eine militärische Eskalation des Kalten Krieges durch neue Waffensysteme",
+      "Eine Annäherung zwischen der NATO und dem Warschauer Pakt durch gemeinsame Militärübungen",
+      "Eine wirtschaftliche Zusammenarbeit zwischen Ost und West durch Handelsabkommen"
+    ],
+    "wrong_answers_ru": [
+      "Военная эскалация холодной войны с помощью новых систем вооружений",
+      "Сближение НАТО и Варшавского договора через совместные военные учения",
+      "Экономическое сотрудничество Востока и Запада через торговые соглашения"
+    ],
+    "explanation_de": "Détente (Entspannung) bezeichnete die Phase in den 1970ern, als Nixon, Kissinger, Brandt (Ostpolitik) und Breschnew die Beziehungen verbesserten: SALT-Verträge, Helsinki-Akte, Ostpolitik.",
+    "explanation_ru": "Détente (разрядка) обозначала период 1970-х, когда Никсон, Киссинджер, Брандт (Ostpolitik) и Брежнев улучшали отношения: договоры ОСВ, Хельсинкский акт, восточная политика.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1972 CE",
+    "tags": ["Détente", "Kalter Krieg", "USA", "Sowjetunion", "Entspannungspolitik"],
+    "interesting_facts": [
+      {"de": "Willy Brandts Kniefall in Warschau (1970) war ein Symbol der deutschen Entspannungspolitik.", "ru": "Коленопреклонение Вилли Брандта в Варшаве (1970) стало символом германской политики разрядки."},
+      {"de": "Die Helsinki-Schlussakte (1975) erkannte die europäischen Grenzen an und stärkte Menschenrechte.", "ru": "Хельсинкский заключительный акт (1975) признал европейские границы и укрепил права человека."},
+      {"de": "Die Détente endete faktisch mit dem sowjetischen Einmarsch in Afghanistan 1979.", "ru": "Разрядка фактически завершилась с советским вторжением в Афганистан в 1979 году."}
+    ]
+  },
+  {
+    "id": 9129,
+    "question_de": "Was war die Bedeutung des sowjetischen Einmarsches in Afghanistan (1979–89)?",
+    "question_ru": "Каково было значение советского вторжения в Афганистан (1979–89)?",
+    "correct_answer_de": "Er wurde zum 'sowjetischen Vietnam', schwächte die Sowjetunion erheblich und förderte islamischen Widerstand",
+    "correct_answer_ru": "Он стал «советским Вьетнамом», существенно ослабил Советский Союз и способствовал исламскому сопротивлению",
+    "wrong_answers_de": [
+      "Ein schneller Sieg, der die sowjetische Militärstärke demonstrierte",
+      "Eine humanitäre Mission zur Stabilisierung des Landes nach internen Konflikten",
+      "Eine Reaktion auf einen NATO-Angriff auf sowjetische Verbündete in Zentralasien"
+    ],
+    "wrong_answers_ru": [
+      "Быстрая победа, продемонстрировавшая советскую военную мощь",
+      "Гуманитарная миссия по стабилизации страны после внутренних конфликтов",
+      "Реакция на нападение НАТО на советских союзников в Центральной Азии"
+    ],
+    "explanation_de": "Der sowjetische Einmarsch in Afghanistan (Dezember 1979) führte zu einem neunjährigen Guerillakrieg. Die CIA unterstützte die Mujaheddin. 1989 zogen die Sowjets ab mit über 15.000 Toten.",
+    "explanation_ru": "Советское вторжение в Афганистан (декабрь 1979 года) привело к девятилетней партизанской войне. ЦРУ поддерживало моджахедов. В 1989 году советские войска вышли, потеряв более 15 000 человек.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1979 CE",
+    "tags": ["Afghanistan", "Sowjetunion", "Kalter Krieg", "Guerilla", "Mujaheddin"],
+    "interesting_facts": [
+      {"de": "Osama bin Laden trainierte in Afghanistan während des sowjetischen Krieges mit US-Unterstützung.", "ru": "Усама бен Ладен проходил подготовку в Афганистане в ходе советской войны при поддержке США."},
+      {"de": "Die CIA-Operation Cyclone war eine der längsten und kostspieligsten verdeckten Operationen in der Geschichte.", "ru": "Операция ЦРУ «Циклон» была одной из самых длительных и дорогостоящих тайных операций в истории."},
+      {"de": "Der Abzug der Sowjetunion 1989 gilt als einer der Faktoren des Zusammenbruchs der UdSSR.", "ru": "Вывод советских войск в 1989 году считается одним из факторов распада СССР."}
+    ]
+  },
+  {
+    "id": 9130,
+    "question_de": "Was war die Bedeutung des Nordatlantikpakts (NATO), gegründet 1949?",
+    "question_ru": "Каково было значение Североатлантического пакта (НАТО), основанного в 1949 году?",
+    "correct_answer_de": "Das erste dauerhafte westliche Militärbündnis in Friedenszeiten zur gemeinsamen Verteidigung gegen die Sowjetunion",
+    "correct_answer_ru": "Первый постоянный западный военный союз в мирное время для коллективной обороны против Советского Союза",
+    "wrong_answers_de": [
+      "Eine wirtschaftliche Gemeinschaft zur Förderung des Handels zwischen westlichen Ländern",
+      "Eine Verteidigungsorganisation ausschließlich für die anglophonen Länder",
+      "Ein Bündnis zur kollektiven Kolonialverwaltung in Afrika und Asien"
+    ],
+    "wrong_answers_ru": [
+      "Экономическое сообщество для содействия торговле между западными странами",
+      "Оборонная организация исключительно для англоязычных стран",
+      "Союз для коллективного колониального управления в Африке и Азии"
+    ],
+    "explanation_de": "Die NATO (North Atlantic Treaty Organization) wurde am 4. April 1949 von 12 Gründungsstaaten gegründet. Artikel 5 des Vertrags sieht kollektive Verteidigung vor: Angriff auf einen ist Angriff auf alle.",
+    "explanation_ru": "НАТО (Организация Североатлантического договора) была основана 4 апреля 1949 года 12 государствами-основателями. Статья 5 договора предусматривает коллективную оборону: нападение на одного — нападение на всех.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1949 CE",
+    "tags": ["NATO", "Kalter Krieg", "Militärbündnis", "USA", "Westeuropa"],
+    "interesting_facts": [
+      {"de": "Die Sowjetunion gründete als Reaktion auf die NATO 1955 den Warschauer Pakt.", "ru": "В ответ на НАТО Советский Союз создал в 1955 году Варшавский договор."},
+      {"de": "Frankreich trat 1966 aus der integrierten Militärstruktur der NATO aus und kehrte erst 2009 zurück.", "ru": "Франция вышла из объединённой военной структуры НАТО в 1966 году и вернулась лишь в 2009-м."},
+      {"de": "Artikel 5 wurde erstmals nach den Anschlägen vom 11. September 2001 aktiviert.", "ru": "Статья 5 была впервые задействована после терактов 11 сентября 2001 года."}
+    ]
+  },
+  {
+    "id": 9131,
+    "question_de": "Was war die Bedeutung der Suez-Krise (1956)?",
+    "question_ru": "Каково было значение Суэцкого кризиса (1956)?",
+    "correct_answer_de": "Sie zeigte das Ende der britischen und französischen Weltmachtstellung und den Aufstieg der USA und UdSSR",
+    "correct_answer_ru": "Он показал конец мирового могущества Великобритании и Франции и возвышение США и СССР",
+    "wrong_answers_de": [
+      "Ein militärischer Triumph Großbritanniens und Frankreichs über Ägypten",
+      "Die erfolgreiche Verstaatlichung des Suezkanals durch Israel",
+      "Der erste militärische Einsatz der UNO-Blauhelme im Nahen Osten"
+    ],
+    "wrong_answers_ru": [
+      "Военный триумф Великобритании и Франции над Египтом",
+      "Успешная национализация Суэцкого канала Израилем",
+      "Первое военное развёртывание «голубых касок» ООН на Ближнем Востоке"
+    ],
+    "explanation_de": "Nasser verstaatlichte 1956 den Suezkanal. Großbritannien, Frankreich und Israel griffen Ägypten an. USA und UdSSR zwangen sie zum Rückzug – ein demütigender Beweis des britisch-französischen Machtverlusts.",
+    "explanation_ru": "В 1956 году Насер национализировал Суэцкий канал. Великобритания, Франция и Израиль атаковали Египет. США и СССР принудили их к отступлению — унизительное свидетельство утраты британско-французской мощи.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1956 CE",
+    "tags": ["Suez-Krise", "Ägypten", "Großbritannien", "Nasser", "Dekolonisierung"],
+    "interesting_facts": [
+      {"de": "US-Präsident Eisenhower drohte Großbritannien mit wirtschaftlichen Sanktionen, wenn es nicht abzieht.", "ru": "Президент США Эйзенхауэр пригрозил Великобритании экономическими санкциями, если она не отступит."},
+      {"de": "Die Krise führte zum Rücktritt des britischen Premierministers Anthony Eden.", "ru": "Кризис привёл к отставке британского премьер-министра Энтони Идена."},
+      {"de": "Die ersten UN-Friedenstruppen der Geschichte wurden zur Überwachung des Waffenstillstands entsandt.", "ru": "Первые миротворческие силы ООН в истории были направлены для наблюдения за прекращением огня."}
+    ]
+  },
+  {
+    "id": 9132,
+    "question_de": "Was war die Bedeutung der Mondlandung von Apollo 11 für das geopolitische Kräfteverhältnis?",
+    "question_ru": "Каково было значение лунной высадки «Аполлона-11» для геополитического баланса сил?",
+    "correct_answer_de": "Sie markierte einen symbolischen Sieg der USA im Wettlauf der Supermächte um technologische Überlegenheit",
+    "correct_answer_ru": "Она ознаменовала символическую победу США в соревновании сверхдержав за технологическое превосходство",
+    "wrong_answers_de": [
+      "Sie führte zu einem sofortigen Friedensvertrag zwischen den USA und der Sowjetunion",
+      "Sie beendete das sowjetische Weltraumprogramm, das daraufhin vollständig eingestellt wurde",
+      "Sie hatte kaum symbolische Bedeutung, da die Sowjetunion in anderen Bereichen weiter führend blieb"
+    ],
+    "wrong_answers_ru": [
+      "Она привела к немедленному мирному договору между США и Советским Союзом",
+      "Она положила конец советской космической программе, которая после этого была полностью свёрнута",
+      "Она имела мало символического значения, поскольку Советский Союз оставался ведущим в других областях"
+    ],
+    "explanation_de": "Die Mondlandung am 20. Juli 1969 war der entscheidende Moment des 'Space Race'. Kennedy hatte 1961 versprochen, bis Ende des Jahrzehnts einen Menschen auf dem Mond zu landen – dieses Versprechen wurde erfüllt.",
+    "explanation_ru": "Лунная высадка 20 июля 1969 года стала решающим моментом «космической гонки». Кеннеди в 1961 году пообещал высадить человека на Луну до конца десятилетия — это обещание было выполнено.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1969 CE",
+    "tags": ["Mondlandung", "Space Race", "USA", "Sowjetunion", "Apollo 11"],
+    "interesting_facts": [
+      {"de": "Armstrong sagte beim ersten Schritt auf dem Mond: 'That's one small step for man, one giant leap for mankind.'", "ru": "Армстронг произнёс при первом шаге на Луне: «Это один маленький шаг для человека, но гигантский скачок для человечества»."},
+      {"de": "Das TV-Publikum weltweit betrug schätzungsweise 600 Millionen Menschen.", "ru": "Телевизионная аудитория во всём мире составила, по оценкам, 600 миллионов человек."},
+      {"de": "Der Sowjetunion gelangen mehrere technische Meilensteine: erster Satellit, erster Mensch im All.", "ru": "Советскому Союзу удалось несколько технических вех: первый спутник, первый человек в космосе."}
+    ]
+  },
+  {
+    "id": 9133,
+    "question_de": "Was war der historische Hintergrund der Gründung Israels 1948?",
+    "question_ru": "Каков был исторический фон создания Израиля в 1948 году?",
+    "correct_answer_de": "Der Holocaust, zionistische Einwanderung und der britische Mandatsverzicht führten zur UN-Teilungsresolution und Staatsgründung",
+    "correct_answer_ru": "Холокост, сионистская иммиграция и отказ Британии от мандата привели к резолюции ООН о разделе и провозглашению государства",
+    "wrong_answers_de": [
+      "Israel wurde als Ersatz für den zerstörten jüdischen Staat aus der Antike durch die Vereinten Nationen gegründet",
+      "Großbritannien gründete Israel als Protektorat nach dem Zweiten Weltkrieg",
+      "Die arabischen Nachbarstaaten einigten sich auf eine jüdische Heimstätte in Palästina"
+    ],
+    "wrong_answers_ru": [
+      "Израиль был основан ООН как замена уничтоженного еврейского государства из древности",
+      "Великобритания основала Израиль как протекторат после Второй мировой войны",
+      "Арабские соседние государства договорились о еврейском очаге в Палестине"
+    ],
+    "explanation_de": "Die UN-Resolution 181 (1947) sah die Teilung Palästinas vor. Am 14. Mai 1948 rief David Ben-Gurion den Staat Israel aus – umgehend griffen arabische Nachbarstaaten an.",
+    "explanation_ru": "Резолюция ООН 181 (1947) предусматривала раздел Палестины. 14 мая 1948 года Давид Бен-Гурион провозгласил государство Израиль — и соседние арабские государства тут же напали.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1948 CE",
+    "tags": ["Israel", "Zionismus", "Holocaust", "Palästina", "UNO"],
+    "interesting_facts": [
+      {"de": "Die USA erkannten Israel als erste Nation de facto an – 11 Minuten nach der Staatsgründungserklärung.", "ru": "США признали Израиль де-факто первыми — через 11 минут после провозглашения государства."},
+      {"de": "Über 700.000 Palästinenser flohen oder wurden während des israelischen Unabhängigkeitskriegs vertrieben (Nakba).", "ru": "Более 700 000 палестинцев бежали или были изгнаны в ходе израильской войны за независимость (Накба)."},
+      {"de": "Theodor Herzl hatte bereits 1896 in 'Der Judenstaat' die Idee eines jüdischen Staates formuliert.", "ru": "Теодор Герцль ещё в 1896 году в «Еврейском государстве» сформулировал идею еврейского государства."}
+    ]
+  },
+  {
+    "id": 9134,
+    "question_de": "Was war die politische Bedeutung der Kubakrise (1962)?",
+    "question_ru": "Каково было политическое значение Карибского кризиса (1962)?",
+    "correct_answer_de": "Der gefährlichste Moment des Kalten Krieges, als US und UdSSR knapp einen Atomkrieg vermieden",
+    "correct_answer_ru": "Самый опасный момент холодной войны, когда США и СССР едва избежали ядерной войны",
+    "wrong_answers_de": [
+      "Ein militärischer Sieg der USA, der zur Demontage aller sowjetischen Atomraketen führte",
+      "Die erfolgreiche Invasion Kubas durch US-Truppen und der Sturz Fidel Castros",
+      "Ein diplomatischer Kompromiss, der Kuba in die westliche Einflusssphäre zurückbrachte"
+    ],
+    "wrong_answers_ru": [
+      "Военная победа США, приведшая к демонтажу всех советских ядерных ракет",
+      "Успешное вторжение американских войск на Кубу и свержение Фиделя Кастро",
+      "Дипломатический компромисс, вернувший Кубу в западную сферу влияния"
+    ],
+    "explanation_de": "Im Oktober 1962 entdeckten die USA sowjetische Raketenbasen auf Kuba. Kennedy verhängte eine Seeblockade. Nach 13 Tagen zog die UdSSR ihre Raketen zurück – gegen den geheimen Abzug von US-Raketen aus der Türkei.",
+    "explanation_ru": "В октябре 1962 года США обнаружили советские ракетные базы на Кубе. Кеннеди ввёл морскую блокаду. После 13 дней СССР вывел ракеты — в обмен на тайный вывод американских ракет из Турции.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1962 CE",
+    "tags": ["Kubakrise", "Kennedy", "Chruschtschow", "Atomkrieg", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Ein sowjetischer U-Boot-Kommandant verhinderte fast alleine einen Atomwaffenangriff durch seine Verweigerung eines Befehls.", "ru": "Советский командир подводной лодки почти в одиночку предотвратил ядерный удар, отказавшись выполнить приказ."},
+      {"de": "Nach der Krise wurde ein direktes Kommunikationssystem ('Roter Telefon') zwischen Washington und Moskau eingerichtet.", "ru": "После кризиса между Вашингтоном и Москвой была установлена прямая линия связи («красный телефон»)."},
+      {"de": "Die Krise dauerte 13 Tage und wurde als 'Thirteen Days' von Historikern und in einem Film verewigt.", "ru": "Кризис продолжался 13 дней и был увековечен историками и в фильме «13 дней»."}
+    ]
+  },
+  {
+    "id": 9135,
+    "question_de": "Was war die Bedeutung des Prager Frühlings (1968)?",
+    "question_ru": "Каково было значение «Пражской весны» (1968)?",
+    "correct_answer_de": "Eine Liberalisierungsphase in der Tschechoslowakei, die von sowjetischen Truppen gewaltsam beendet wurde",
+    "correct_answer_ru": "Период либерализации в Чехословакии, насильственно прекращённый советскими войсками",
+    "wrong_answers_de": [
+      "Ein erfolgreicher Demokratisierungsprozess, der zur Unabhängigkeit der Tschechoslowakei führte",
+      "Ein kommunistischer Aufstand gegen den pro-westlichen Präsidenten",
+      "Die erste freie Wahl in einem Ostblockstaat seit dem Zweiten Weltkrieg"
+    ],
+    "wrong_answers_ru": [
+      "Успешный процесс демократизации, приведший к независимости Чехословакии",
+      "Коммунистическое восстание против прозападного президента",
+      "Первые свободные выборы в стране Восточного блока после Второй мировой войны"
+    ],
+    "explanation_de": "Alexander Dubček führte 1968 Reformen ein ('Sozialismus mit menschlichem Antlitz'). Im August 1968 marschierten Truppen des Warschauer Pakts ein und beendeten diese Liberalisierung.",
+    "explanation_ru": "Александр Дубчек в 1968 году провёл реформы («социализм с человеческим лицом»). В августе 1968 года войска Варшавского договора вошли в страну и положили конец этой либерализации.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1968 CE",
+    "tags": ["Prager Frühling", "Tschechoslowakei", "Dubček", "Sowjetunion", "Warschauer Pakt"],
+    "interesting_facts": [
+      {"de": "Die Breschnew-Doktrin rechtfertigte die Intervention: Sozialistische Länder durften nicht den Kapitalismus einführen.", "ru": "Доктрина Брежнева оправдывала интервенцию: социалистические страны не могли вводить капитализм."},
+      {"de": "Jan Palach verbrannte sich als Zeichen des Protests auf dem Wenzelsplatz in Prag im Januar 1969.", "ru": "Ян Палах сжёг себя в знак протеста на Вацлавской площади в Праге в январе 1969 года."},
+      {"de": "Die Ereignisse von 1968 inspirierten die Bürgerrechtsbewegung in der späteren Samizdat-Literatur.", "ru": "События 1968 года вдохновили правозащитное движение в позднейшей самиздатовской литературе."}
+    ]
+  },
+  {
+    "id": 9136,
+    "question_de": "Was war der historische Bedeutung der Bürgerrechtsbewegung in den USA in den 1960er Jahren?",
+    "question_ru": "Каково было историческое значение движения за гражданские права в США в 1960-х годах?",
+    "correct_answer_de": "Sie erkämpfte rechtliche Gleichstellung der Afroamerikaner durch Civil Rights Act 1964 und Voting Rights Act 1965",
+    "correct_answer_ru": "Оно добилось правового равенства афроамериканцев через Закон о гражданских правах 1964 года и Закон об избирательных правах 1965 года",
+    "wrong_answers_de": [
+      "Sie führte zur Abschaffung der Sklaverei durch den 13. Verfassungszusatz",
+      "Sie endete mit der Wahl des ersten schwarzen US-Präsidenten in den 1970ern",
+      "Ihre Erfolge blieben auf den Süden der USA beschränkt und hatten kaum nationalen Einfluss"
+    ],
+    "wrong_answers_ru": [
+      "Она привела к отмене рабства 13-й поправкой к Конституции",
+      "Она завершилась избранием первого чернокожего президента США в 1970-х",
+      "Её успехи ограничились Югом США и почти не оказали общенационального влияния"
+    ],
+    "explanation_de": "Die Bürgerrechtsbewegung unter Martin Luther King Jr. kämpfte gewaltlos gegen Rassendiskriminierung. Der Civil Rights Act (1964) und der Voting Rights Act (1965) verboten Diskriminierung offiziell.",
+    "explanation_ru": "Движение за гражданские права под руководством Мартина Лютера Кинга-младшего ненасильственно боролось с расовой дискриминацией. Закон о гражданских правах (1964) и Закон об избирательных правах (1965) официально запретили дискриминацию.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1964 CE",
+    "tags": ["Bürgerrechtsbewegung", "USA", "Martin Luther King", "Gleichberechtigung", "Afroamerikaner"],
+    "interesting_facts": [
+      {"de": "Kings Rede 'I have a dream' hielter 1963 in Washington vor 250.000 Menschen.", "ru": "Речь Кинга «У меня есть мечта» он произнёс в 1963 году в Вашингтоне перед 250 000 человек."},
+      {"de": "Rosa Parks weigerte sich 1955, ihren Sitzplatz im Bus für einen weißen Fahrgast freizugeben.", "ru": "В 1955 году Роза Паркс отказалась уступить своё место в автобусе белому пассажиру."},
+      {"de": "King wurde 1968 in Memphis ermordet – just an dem Tag, als er einen Müllarbeiterstreik unterstützte.", "ru": "Кинг был убит в 1968 году в Мемфисе в тот самый день, когда он поддерживал забастовку мусорщиков."}
+    ]
+  },
+  {
+    "id": 9137,
+    "question_de": "Was war die Bedeutung des Terroranschlags beim Olympischen Spielen 1972 in München?",
+    "question_ru": "Каково было значение террористического нападения на Олимпийских играх 1972 года в Мюнхене?",
+    "correct_answer_de": "Palästinensische Terroristen nahmen israelische Athleten als Geiseln; bei einer Befreiungsaktion kamen alle Geiseln ums Leben",
+    "correct_answer_ru": "Палестинские террористы захватили израильских спортсменов в заложники; при попытке освобождения все заложники погибли",
+    "wrong_answers_de": [
+      "Eine Bombenexplosion im Olympiastadion, bei der zwölf Zuschauer starben",
+      "Ein Anschlag, der erfolgreich von deutschen Sicherheitskräften vereitelt wurde",
+      "Eine politische Demonstration, bei der Sportler aus Protest die Spiele verließen"
+    ],
+    "wrong_answers_ru": [
+      "Взрыв бомбы на олимпийском стадионе, унёсший жизни двенадцати зрителей",
+      "Теракт, успешно предотвращённый германскими силами безопасности",
+      "Политическая демонстрация, во время которой спортсмены в знак протеста покинули игры"
+    ],
+    "explanation_de": "Am 5. September 1972 nahmen palästinensische 'Schwarze September'-Terroristen 11 israelische Olympioniken als Geiseln. Bei einer missglückten Befreiungsaktion am Flughafen Fürstenfeldbruck wurden alle 11 Geiseln und ein Polizist getötet.",
+    "explanation_ru": "5 сентября 1972 года палестинские террористы «Чёрного сентября» захватили 11 израильских олимпийцев в заложники. В ходе провалившейся операции по освобождению в аэропорту Фюрстенфельдбрук все 11 заложников и один полицейский были убиты.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1972 CE",
+    "tags": ["München 1972", "Olympia", "Terrorismus", "Israel", "Palästina"],
+    "interesting_facts": [
+      {"de": "Israel startete danach die geheime Operation 'Wrath of God', um die Verantwortlichen zu töten.", "ru": "После этого Израиль начал тайную операцию «Гнев Господень» для уничтожения ответственных."},
+      {"de": "Die Spiele wurden nach einem kurzen Unterbruch fortgesetzt – eine umstrittene Entscheidung.", "ru": "Игры после короткого перерыва были продолжены — спорное решение."},
+      {"de": "Der Anschlag veränderte dauerhaft die Sicherheitsmaßnahmen bei Großveranstaltungen weltweit.", "ru": "Теракт навсегда изменил меры безопасности на крупных мероприятиях во всём мире."}
+    ]
+  },
+  {
+    "id": 9138,
+    "question_de": "Was verstand man unter dem Begriff 'Apartheid' in Südafrika?",
+    "question_ru": "Что понималось под термином «апартеид» в Южной Африке?",
+    "correct_answer_de": "Ein System der gesetzlich verankerten Rassentrennung, das die schwarze Mehrheit diskriminierte",
+    "correct_answer_ru": "Система юридически закреплённой расовой сегрегации, дискриминировавшая чёрное большинство",
+    "wrong_answers_de": [
+      "Eine Wirtschaftspolitik zur Förderung weißer Bauern auf Kosten der städtischen Bevölkerung",
+      "Ein Religionssystem, das christliche Werte mit afrikanischer Tradition verband",
+      "Ein Bildungsprogramm zur Förderung afrikanischer Sprachen und Kulturen"
+    ],
+    "wrong_answers_ru": [
+      "Экономическая политика поддержки белых фермеров за счёт городского населения",
+      "Религиозная система, объединявшая христианские ценности с африканской традицией",
+      "Образовательная программа для поддержки африканских языков и культур"
+    ],
+    "explanation_de": "Das Apartheid-System (1948–1994) in Südafrika trennte Weiße, Schwarze, Farbige und Asiaten rechtlich. Schwarze hatten kein Wahlrecht und wurden in Homelands gedrängt.",
+    "explanation_ru": "Система апартеида (1948–1994) в Южной Африке юридически разделяла белых, чёрных, «цветных» и азиатов. Чёрные не имели избирательного права и были вытеснены в бантустаны.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1948 CE",
+    "tags": ["Apartheid", "Südafrika", "Rassismus", "Mandela", "Menschenrechte"],
+    "interesting_facts": [
+      {"de": "Nelson Mandela verbrachte 27 Jahre im Gefängnis, bevor er 1994 Südafrikas erster schwarzer Präsident wurde.", "ru": "Нельсон Мандела провёл 27 лет в тюрьме, прежде чем в 1994 году стал первым чёрным президентом Южной Африки."},
+      {"de": "Der ANC (African National Congress) kämpfte jahrzehntelang gegen die Apartheid.", "ru": "АНК (Африканский национальный конгресс) десятилетиями боролся против апартеида."},
+      {"de": "Das Wort 'Apartheid' kommt aus dem Afrikaans und bedeutet 'Getrenntheit'.", "ru": "Слово «апартеид» происходит из африкаанс и означает «разделённость»."}
+    ]
+  },
+  {
+    "id": 9139,
+    "question_de": "Was war die Bedeutung des Zusammenbruchs der Berliner Mauer 1989 für Europa?",
+    "question_ru": "Каково было значение падения Берлинской стены в 1989 году для Европы?",
+    "correct_answer_de": "Es symbolisierte das Ende der deutschen Teilung und leitete den Zusammenbruch des Ostblocks ein",
+    "correct_answer_ru": "Оно символизировало конец раздела Германии и положило начало крушению Восточного блока",
+    "wrong_answers_de": [
+      "Es führte sofort zur Gründung der Europäischen Union als politische Organisation",
+      "Es war das Ergebnis einer militärischen Niederlage der Sowjetunion",
+      "Es markierte die formelle Auflösung des Warschauer Pakts"
+    ],
+    "wrong_answers_ru": [
+      "Оно немедленно привело к созданию Европейского союза как политической организации",
+      "Оно стало результатом военного поражения Советского Союза",
+      "Оно ознаменовало официальный роспуск Варшавского договора"
+    ],
+    "explanation_de": "Am 9. November 1989 öffnete die DDR die Grenzen. Tausende Berliner strömten durch die Mauer. Die Wiedervereinigung folgte am 3. Oktober 1990. Der Ostblock kollabierte innerhalb weniger Monate.",
+    "explanation_ru": "9 ноября 1989 года ГДР открыла границы. Тысячи берлинцев хлынули через стену. Воссоединение последовало 3 октября 1990 года. Восточный блок рухнул в течение нескольких месяцев.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1989 CE",
+    "tags": ["Berliner Mauer", "Wiedervereinigung", "Deutschland", "Ostblock", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Ein DDR-Sprecher verlas versehentlich eine unfertige Grenzöffnungsregelung – was den Mauerfall auslöste.", "ru": "Представитель ГДР случайно зачитал незаконченное положение об открытии границ — что спровоцировало падение стены."},
+      {"de": "Gorbatschow weigerte sich, sowjetische Truppen zur Unterstützung der DDR einzusetzen.", "ru": "Горбачёв отказался задействовать советские войска для поддержки ГДР."},
+      {"de": "Über 100.000 DDR-Bürger waren im Sommer 1989 über Ungarn und Österreich in den Westen geflüchtet.", "ru": "Летом 1989 года более 100 000 граждан ГДР бежали на Запад через Венгрию и Австрию."}
+    ]
+  },
+  {
+    "id": 9140,
+    "question_de": "Was war die Bedeutung der Perestroika-Reformen Gorbatschows?",
+    "question_ru": "Каково было значение реформ перестройки Горбачёва?",
+    "correct_answer_de": "Ein Programm zur wirtschaftlichen und politischen Umstrukturierung der Sowjetunion, das zum Zerfall des Systems führte",
+    "correct_answer_ru": "Программа экономической и политической реструктуризации Советского Союза, приведшая к распаду системы",
+    "wrong_answers_de": [
+      "Eine militärische Reform zur Modernisierung der Roten Armee",
+      "Ein Plan zur wirtschaftlichen Annäherung an die Europäische Gemeinschaft",
+      "Eine Kampagne zur Stärkung des Kommunismus gegen westliche Einflüsse"
+    ],
+    "wrong_answers_ru": [
+      "Военная реформа для модернизации Красной армии",
+      "План экономического сближения с Европейским сообществом",
+      "Кампания по укреплению коммунизма против западных влияний"
+    ],
+    "explanation_de": "Perestroika (Umgestaltung) war Gorbatschows ab 1985 eingeleitetes Reformprogramm: Dezentralisierung der Wirtschaft, Einführung marktähnlicher Elemente. Es destabilisierte die UdSSR statt sie zu retten.",
+    "explanation_ru": "Перестройка (перестройка) — реформаторская программа Горбачёва, начатая с 1985 года: децентрализация экономики, введение элементов рынка. Вместо спасения она дестабилизировала СССР.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1985 CE",
+    "tags": ["Perestroika", "Gorbatschow", "Sowjetunion", "Reform", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Gorbatschow erhielt 1990 den Nobelfriedenspreis, obwohl er in der Sowjetunion zunehmend unpopulär wurde.", "ru": "Горбачёв получил Нобелевскую премию мира в 1990 году, хотя в Советском Союзе становился всё более непопулярным."},
+      {"de": "Perestroika bedeutet auf Russisch 'Umgestaltung' oder 'Umbau'.", "ru": "Слово «перестройка» по-русски означает «переустройство» или «реконструкция»."},
+      {"de": "Hardliner in der KPdSU versuchten im August 1991 Gorbatschow zu stürzen – der Putsch scheiterte.", "ru": "Консерваторы в КПСС в августе 1991 года попытались свергнуть Горбачёва — путч провалился."}
+    ]
+  },
+  {
+    "id": 9141,
+    "question_de": "Was war die wirtschaftliche Bedeutung der Globalisierung in den 1990er Jahren?",
+    "question_ru": "Каково было экономическое значение глобализации в 1990-х годах?",
+    "correct_answer_de": "Die beschleunigte Integration von Märkten, Produktion und Finanzsystemen weltweit durch Technologie und Deregulierung",
+    "correct_answer_ru": "Ускоренная интеграция рынков, производства и финансовых систем во всём мире благодаря технологиям и дерегулированию",
+    "wrong_answers_de": [
+      "Die Vereinheitlichung aller nationalen Wirtschaftsstrukturen nach dem amerikanischen Modell",
+      "Eine Phase wirtschaftlicher Abschottung der Industrieländer gegenüber Entwicklungsländern",
+      "Die Entstehung einer weltweiten Planwirtschaft durch internationale Organisationen"
+    ],
+    "wrong_answers_ru": [
+      "Унификация всех национальных экономических структур по американской модели",
+      "Период экономической изоляции промышленных стран от развивающихся",
+      "Возникновение мировой плановой экономики через международные организации"
+    ],
+    "explanation_de": "In den 1990ern führte das Ende des Kalten Krieges, die WTO-Gründung (1995) und das Internet zu einer rasanten wirtschaftlichen Globalisierung: Lieferketten, Kapitalflüsse und Handel wurden weltweit vernetzt.",
+    "explanation_ru": "В 1990-х годах окончание холодной войны, создание ВТО (1995) и интернет привели к стремительной экономической глобализации: цепочки поставок, потоки капитала и торговля были связаны во всём мире.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1990 CE",
+    "tags": ["Globalisierung", "Wirtschaft", "WTO", "Internet", "Handel"],
+    "interesting_facts": [
+      {"de": "China trat 2001 der WTO bei und wurde dadurch zur Werkstatt der Welt.", "ru": "Китай вступил в ВТО в 2001 году и стал мировой мастерской."},
+      {"de": "Die NAFTA (1994) schuf eine Freihandelszone zwischen USA, Kanada und Mexiko.", "ru": "НАФТА (1994) создала зону свободной торговли между США, Канадой и Мексикой."},
+      {"de": "Kritiker der Globalisierung prangerten wachsende Ungleichheit zwischen und innerhalb von Ländern an.", "ru": "Критики глобализации указывали на растущее неравенство между странами и внутри них."}
+    ]
+  },
+  {
+    "id": 9142,
+    "question_de": "Was war die politische Bedeutung des Völkermordes in Ruanda (1994)?",
+    "question_ru": "Каково было политическое значение геноцида в Руанде (1994)?",
+    "correct_answer_de": "Innerhalb von 100 Tagen wurden ca. 800.000 Tutsi von Hutu-Extremisten ermordet, während die internationale Gemeinschaft passiv blieb",
+    "correct_answer_ru": "В течение 100 дней около 800 000 тутси были убиты экстремистами-хуту, пока международное сообщество оставалось пассивным",
+    "wrong_answers_de": [
+      "Ein Bürgerkrieg zwischen zwei Volksgruppen, bei dem beide Seiten ähnliche Verluste erlitten",
+      "Eine Hungersnot, die durch internationale Hilfe rechtzeitig gestoppt werden konnte",
+      "Ein Konflikt, den die UNO durch frühzeitige Militärintervention beendete"
+    ],
+    "wrong_answers_ru": [
+      "Гражданская война между двумя народами, в которой обе стороны понесли сопоставимые потери",
+      "Голод, который международная помощь смогла вовремя остановить",
+      "Конфликт, прекращённый ООН благодаря своевременной военной интервенции"
+    ],
+    "explanation_de": "Im April 1994 begannen Hutu-Extremisten in Ruanda einen systematischen Genozid an der Tutsi-Minderheit. Die UNO, USA und andere Mächte intervenierten nicht. Rwanda Patriotic Front beendete den Genozid im Juli 1994.",
+    "explanation_ru": "В апреле 1994 года экстремисты-хуту в Руанде начали систематический геноцид меньшинства тутси. ООН, США и другие державы не вмешались. Руандийский патриотический фронт положил конец геноциду в июле 1994 года.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1994 CE",
+    "tags": ["Ruanda", "Genozid", "Menschenrechte", "UNO", "Afrika"],
+    "interesting_facts": [
+      {"de": "Der UN-General Roméo Dallaire bat vergeblich um Verstärkung, um den Genozid zu stoppen.", "ru": "Генерал ООН Ромео Даллэр безуспешно просил подкреплений, чтобы остановить геноцид."},
+      {"de": "US-Präsident Clinton bezeichnete seine Untätigkeit während des Ruanda-Genozids später als seinen größten Fehler.", "ru": "Президент США Клинтон впоследствии назвал своё бездействие во время геноцида в Руанде своей главной ошибкой."},
+      {"de": "Radio Mille Collines rief aktiv zum Mord an Tutsi auf und wurde als 'Völkermordradio' bezeichnet.", "ru": "Радио «Тысяча холмов» активно призывало к убийству тутси и было названо «радио геноцида»."}
+    ]
+  },
+  {
+    "id": 9143,
+    "question_de": "Was war die Bedeutung der Wiedervereinigung Deutschlands am 3. Oktober 1990?",
+    "question_ru": "Каково было значение воссоединения Германии 3 октября 1990 года?",
+    "correct_answer_de": "Die Zusammenführung von BRD und DDR 45 Jahre nach Kriegsende zum größten und wirtschaftlich stärksten Land Europas",
+    "correct_answer_ru": "Объединение ФРГ и ГДР через 45 лет после окончания войны в крупнейшую и экономически сильнейшую страну Европы",
+    "wrong_answers_de": [
+      "Die Wiederherstellung des Deutschen Reichs in den Grenzen von 1937",
+      "Die Gründung einer neuen deutschen Bundesrepublik unter einem gemeinsamen König",
+      "Die Fusion von DDR und BRD zu einer neutralen Nation außerhalb von NATO und EU"
+    ],
+    "wrong_answers_ru": [
+      "Восстановление Германской империи в границах 1937 года",
+      "Создание новой германской федерации под общим монархом",
+      "Слияние ГДР и ФРГ в нейтральную нацию вне НАТО и ЕС"
+    ],
+    "explanation_de": "Die Wiedervereinigung erfolgte nach dem '2+4-Vertrag' (zwischen BRD, DDR, USA, UdSSR, UK, Frankreich). Die DDR trat der BRD bei. Deutschland blieb NATO-Mitglied, verzichtete aber auf Atomwaffen.",
+    "explanation_ru": "Воссоединение состоялось на основе «Договора 2+4» (между ФРГ, ГДР, США, СССР, Великобританией, Францией). ГДР присоединилась к ФРГ. Германия осталась членом НАТО, но отказалась от ядерного оружия.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1990 CE",
+    "tags": ["Wiedervereinigung", "Deutschland", "BRD", "DDR", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Helmut Kohl trieb die Wiedervereinigung in weniger als einem Jahr durch – schneller als die meisten erwartet hatten.", "ru": "Гельмут Коль провёл воссоединение менее чем за год — быстрее, чем ожидало большинство."},
+      {"de": "Die Währungsunion wurde am 1. Juli 1990 eingeführt, die DDR-Mark wurde im Verhältnis 1:1 (für Löhne und Ersparnisse) umgetauscht.", "ru": "Валютный союз был введён 1 июля 1990 года, марка ГДР обменивалась в соотношении 1:1 (для зарплат и сбережений)."},
+      {"de": "Viele Ostdeutsche erlebten die wirtschaftlichen Anpassungsschmerzen als 'Schock', da viele DDR-Betriebe nicht wettbewerbsfähig waren.", "ru": "Многие восточные немцы воспринимали болезненную экономическую адаптацию как «шок», поскольку многие предприятия ГДР не были конкурентоспособны."}
+    ]
+  },
+  {
+    "id": 9144,
+    "question_de": "Was war die Bedeutung des Genfs-Abkommens von 1954 für Indochina?",
+    "question_ru": "Каково было значение Женевских соглашений 1954 года для Индокитая?",
+    "correct_answer_de": "Sie beendeten den Indochina-Krieg und teilten Vietnam an der 17. Breitengrad in Nord und Süd",
+    "correct_answer_ru": "Они завершили войну в Индокитае и разделили Вьетнам по 17-й параллели на Север и Юг",
+    "wrong_answers_de": [
+      "Sie regelten die Unabhängigkeit Kambodschas und Laos' von den USA",
+      "Sie erkannten die chinesische Kontrolle über ganz Vietnam an",
+      "Sie führten zur Gründung der SEATO als südostasiatisches Verteidigungsbündnis"
+    ],
+    "wrong_answers_ru": [
+      "Они урегулировали независимость Камбоджи и Лаоса от США",
+      "Они признали китайский контроль над всем Вьетнамом",
+      "Они привели к созданию СЕАТО как оборонного союза Юго-Восточной Азии"
+    ],
+    "explanation_de": "Nach der französischen Niederlage bei Dien Bien Phu (1954) teilten die Genfer Abkommen Vietnam provisorisch an der 17. Breitengrad. Geplante Wahlen fanden nie statt, was zum Vietnamkrieg führte.",
+    "explanation_ru": "После французского поражения при Дьенбьенфу (1954) Женевские соглашения временно разделили Вьетнам по 17-й параллели. Запланированные выборы так и не состоялись, что привело к Вьетнамской войне.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1954 CE",
+    "tags": ["Indochina", "Vietnam", "Frankreich", "Dekolonisierung", "Genf"],
+    "interesting_facts": [
+      {"de": "Frankreich verlor mit der Niederlage bei Dien Bien Phu seine Stellung als Kolonialmacht in Asien.", "ru": "С поражением при Дьенбьенфу Франция утратила позиции колониальной державы в Азии."},
+      {"de": "Ho Chi Minh führte den Viet Minh, der gegen Frankreich kämpfte und dann gegen die USA.", "ru": "Хо Ши Мин возглавлял Вьетминь, боровшийся сначала против Франции, затем против США."},
+      {"de": "Die USA intervenierten stärker in Vietnam, da sie einen kommunistischen Dominoeffekt in Südostasien fürchteten.", "ru": "США усилили вмешательство во Вьетнаме, опасаясь коммунистического «эффекта домино» в Юго-Восточной Азии."}
+    ]
+  },
+  {
+    "id": 9145,
+    "question_de": "Was war die gesellschaftliche Bedeutung der '68er-Bewegung' in Westeuropa?",
+    "question_ru": "Каково было социальное значение «движения 68-го года» в Западной Европе?",
+    "correct_answer_de": "Eine Welle studentischer Proteste, die traditionelle Autorität, den Vietnam-Krieg und veraltete Werte in Frage stellte",
+    "correct_answer_ru": "Волна студенческих протестов, поставившая под сомнение традиционный авторитет, войну во Вьетнаме и устаревшие ценности",
+    "wrong_answers_de": [
+      "Eine erfolgreiche Revolution, die in Frankreich und Deutschland sozialistische Regierungen einführte",
+      "Ein hauptsächlich wirtschaftlich motivierter Protest gegen die Rezession der späten 1960er",
+      "Eine religiöse Bewegung gegen Säkularisierung und Modernisierung in Europa"
+    ],
+    "wrong_answers_ru": [
+      "Успешная революция, установившая социалистические правительства во Франции и Германии",
+      "В основном экономически мотивированный протест против рецессии конца 1960-х",
+      "Религиозное движение против секуляризации и модернизации в Европе"
+    ],
+    "explanation_de": "Die '68er' in Deutschland, Frankreich und anderswo stellten die Nachkriegsgesellschaft, Autorität, Kolonialismus und den Vietnam-Krieg in Frage. In Frankreich führten die Mai-Unruhen fast zu einem Regierungssturz.",
+    "explanation_ru": "«Шестидесятники» в Германии, Франции и других странах ставили под сомнение послевоенное общество, авторитет, колониализм и войну во Вьетнаме. Во Франции майские волнения едва не привели к свержению правительства.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1968 CE",
+    "tags": ["68er-Bewegung", "Studentenproteste", "Westeuropa", "Gegenkultur", "Vietnam"],
+    "interesting_facts": [
+      {"de": "In Paris besetzen Studenten die Sorbonne, während Arbeiter in Generalstreiks traten.", "ru": "В Париже студенты заняли Сорбонну, а рабочие объявили всеобщие забастовки."},
+      {"de": "Die Bewegung beeinflusste langfristig die politische Linke und Feminismus in Europa.", "ru": "Движение оказало долгосрочное влияние на политических левых и феминизм в Европе."},
+      {"de": "Der Slogan 'Unter dem Pflaster liegt der Strand' wurde Symbol des Mai 1968 in Paris.", "ru": "Лозунг «Под булыжной мостовой — пляж» стал символом Мая 1968 года в Париже."}
+    ]
+  },
+  {
+    "id": 9146,
+    "question_de": "Was war die Bedeutung der ersten Ölkrise (1973) für die westliche Energiepolitik?",
+    "question_ru": "Каково было значение первого нефтяного кризиса (1973) для западной энергетической политики?",
+    "correct_answer_de": "Sie führte zu massiven Investitionen in Kernkraft, Energieeffizienz und Suche nach alternativen Energiequellen",
+    "correct_answer_ru": "Он привёл к масштабным инвестициям в ядерную энергетику, энергоэффективность и поиску альтернативных источников энергии",
+    "wrong_answers_de": [
+      "Westliche Länder reagierten, indem sie ihre Ölimporte vollständig auf Russland umstellten",
+      "Die Krise führte zu sofortiger Einigung auf erneuerbare Energien als Hauptquelle",
+      "Sie hatte keine langfristigen Auswirkungen auf die Energiepolitik, da die Preise bald wieder sanken"
+    ],
+    "wrong_answers_ru": [
+      "Западные страны отреагировали, полностью переключив импорт нефти на Россию",
+      "Кризис привёл к немедленному переходу на возобновляемые источники энергии как основной источник",
+      "Он не оказал долгосрочного влияния на энергетическую политику, поскольку цены вскоре снизились"
+    ],
+    "explanation_de": "Die Ölkrise 1973 zwang westliche Regierungen, ihre Energieabhängigkeit zu überdenken. Es kam zu massiven Kernkraftinvestitionen in Frankreich, Japan und Deutschland sowie zu ersten Energiespargesetzen.",
+    "explanation_ru": "Нефтяной кризис 1973 года вынудил западные правительства пересмотреть свою энергетическую зависимость. Последовали масштабные инвестиции в ядерную энергетику во Франции, Японии и Германии, а также первые законы об энергосбережении.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1973 CE",
+    "tags": ["Ölkrise", "Energiepolitik", "Kernkraft", "Westeuropa", "Wirtschaft"],
+    "interesting_facts": [
+      {"de": "Frankreich deckt bis heute über 70 % seines Strombedarfs aus Kernkraft – eine direkte Folge der Ölkrise.", "ru": "Франция по сей день покрывает более 70% потребностей в электроэнергии за счёт ядерной энергии — прямое следствие нефтяного кризиса."},
+      {"de": "Das 'Tempo 100' auf deutschen Autobahnen wurde probeweise 1973 eingeführt, um Benzin zu sparen.", "ru": "Ограничение скорости 100 км/ч на немецких автобанах было введено в 1973 году в качестве эксперимента для экономии бензина."},
+      {"de": "Die Krise beschleunigte die Entwicklung kleinerer, kraftstoffsparender Autos in Japan.", "ru": "Кризис ускорил разработку меньших, экономичных автомобилей в Японии."}
+    ]
+  },
+  {
+    "id": 9147,
+    "question_de": "Was war die Bedeutung des Genozid-Übereinkommens der UNO (1948)?",
+    "question_ru": "Каково было значение Конвенции ООН о геноциде (1948)?",
+    "correct_answer_de": "Es war das erste internationale Abkommen, das Völkermord als Verbrechen definierte und seine Ahndung verpflichtet",
+    "correct_answer_ru": "Это было первое международное соглашение, определившее геноцид как преступление и обязавшее к его наказанию",
+    "wrong_answers_de": [
+      "Es gründete den Internationalen Strafgerichtshof in Den Haag",
+      "Es definierte Kriegsverbrechen und verpflichtete Staaten zur Auslieferung von Kriegsverbrechern",
+      "Es verbot Atomwaffen und andere Massenvernichtungswaffen"
+    ],
+    "wrong_answers_ru": [
+      "Оно основало Международный уголовный суд в Гааге",
+      "Оно определило военные преступления и обязало государства к выдаче военных преступников",
+      "Оно запретило ядерное оружие и другие виды оружия массового уничтожения"
+    ],
+    "explanation_de": "Die Konvention zur Verhütung und Bestrafung des Völkermordes (1948) definierte Genozid erstmals im internationalen Recht und verpflichtete Unterzeichnerstaaten zur Verfolgung und Verhütung.",
+    "explanation_ru": "Конвенция о предупреждении преступления геноцида и наказании за него (1948) впервые определила геноцид в международном праве и обязала государства-подписанты к его преследованию и предотвращению.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1948 CE",
+    "tags": ["Genozid-Konvention", "UNO", "Völkerrecht", "Menschenrechte", "Holocaust"],
+    "interesting_facts": [
+      {"de": "Der Begriff 'Genozid' wurde 1944 vom polnisch-jüdischen Juristen Raphael Lemkin geprägt.", "ru": "Термин «геноцид» был введён в 1944 году польско-еврейским юристом Рафаэлем Лемкином."},
+      {"de": "Die Konvention trat 1951 in Kraft und wurde von über 150 Staaten ratifiziert.", "ru": "Конвенция вступила в силу в 1951 году и была ратифицирована более чем 150 государствами."},
+      {"de": "Die internationale Gemeinschaft versagte dennoch mehrfach bei der Prävention von Genoziden (Kambodscha, Ruanda, Bosnien).", "ru": "Международное сообщество тем не менее неоднократно терпело неудачи в предотвращении геноцидов (Камбоджа, Руанда, Босния)."}
+    ]
+  },
+  {
+    "id": 9148,
+    "question_de": "Was war die Bedeutung des CERN und der Entdeckung des Higgs-Bosons für die Wissenschaft?",
+    "question_ru": "Каково было значение ЦЕРН и открытия бозона Хиггса для науки?",
+    "correct_answer_de": "Die Bestätigung des Standardmodells der Teilchenphysik, das grundlegende Bausteine der Materie beschreibt",
+    "correct_answer_ru": "Подтверждение Стандартной модели физики элементарных частиц, описывающей фундаментальные строительные блоки материи",
+    "wrong_answers_de": [
+      "Die Entdeckung einer neuen Energiequelle, die fossile Brennstoffe ersetzen könnte",
+      "Der Beweis der Existenz von Dunkler Materie im Universum",
+      "Die erste Beobachtung von Gravitationswellen durch Teilchenkollisionen"
+    ],
+    "wrong_answers_ru": [
+      "Открытие нового источника энергии, способного заменить ископаемое топливо",
+      "Доказательство существования тёмной материи во Вселенной",
+      "Первое наблюдение гравитационных волн через столкновения частиц"
+    ],
+    "explanation_de": "CERN (gegründet 1954) betreibt den Teilchenbeschleuniger LHC. 2012 wurde das Higgs-Boson entdeckt, das die Massenentstehung von Teilchen erklärt und das Standardmodell vervollständigte.",
+    "explanation_ru": "ЦЕРН (основан в 1954 году) эксплуатирует ускоритель частиц БАК. В 2012 году был открыт бозон Хиггса, объясняющий возникновение масс частиц и завершивший Стандартную модель.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2012 CE",
+    "tags": ["CERN", "Higgs-Boson", "Teilchenphysik", "Wissenschaft", "Standardmodell"],
+    "interesting_facts": [
+      {"de": "Das World Wide Web wurde 1989 von Tim Berners-Lee am CERN erfunden.", "ru": "Всемирная паутина была изобретена в 1989 году Тимом Бернерсом-Ли в ЦЕРН."},
+      {"de": "Das Higgs-Boson wird umgangssprachlich auch als 'Gottesteilchen' bezeichnet.", "ru": "Бозон Хиггса в просторечии называют «частицей Бога»."},
+      {"de": "Peter Higgs und François Englert erhielten 2013 den Nobelpreis für Physik für die Vorhersage des Bosons.", "ru": "Питер Хиггс и Франсуа Энглер получили в 2013 году Нобелевскую премию по физике за предсказание бозона."}
+    ]
+  },
+  {
+    "id": 9149,
+    "question_de": "Was war die Bedeutung des Einsatzes von Giftgas im Ersten Weltkrieg?",
+    "question_ru": "Каково было значение применения химического оружия в Первой мировой войне?",
+    "correct_answer_de": "Die erste massenhafte militärische Nutzung chemischer Kampfstoffe, die das Völkerrecht für immer veränderte",
+    "correct_answer_ru": "Первое массовое военное применение химических отравляющих веществ, навсегда изменившее международное право",
+    "wrong_answers_de": [
+      "Es entschied den Kriegsausgang zugunsten Deutschlands durch die Niederlage Frankreichs",
+      "Es wurde hauptsächlich im Pazifikkrieg gegen Japan eingesetzt",
+      "Es führte sofort zum Verbot aller Waffen in Europa"
+    ],
+    "wrong_answers_ru": [
+      "Оно предрешило исход войны в пользу Германии через поражение Франции",
+      "Оно применялось главным образом в Тихоокеанской войне против Японии",
+      "Оно немедленно привело к запрету всего оружия в Европе"
+    ],
+    "explanation_de": "Deutschland setzte erstmals 1915 bei Ypern Chlorgas ein. Senf- und Phosgengas folgten. Ca. 90.000 Soldaten starben durch Giftgas im WWI. Das Genfer Protokoll (1925) verbot danach seinen Einsatz.",
+    "explanation_ru": "Германия впервые применила хлор в 1915 году под Ипром. Затем последовали горчичный газ и фосген. Около 90 000 солдат погибли от химического оружия в Первой мировой войне. Женевский протокол (1925) впоследствии запретил его применение.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1915 CE",
+    "tags": ["Giftgas", "Erster Weltkrieg", "Chemiewaffen", "Ypern", "Völkerrecht"],
+    "interesting_facts": [
+      {"de": "Fritz Haber, der Giftgas entwickelte, erhielt 1918 den Nobelpreis für Chemie – für die Stickstoffbindung.", "ru": "Фриц Габер, разработавший химическое оружие, получил в 1918 году Нобелевскую премию по химии — за синтез аммиака."},
+      {"de": "Beide Seiten setzten Giftgas ein – der Wind drehte sich manchmal gegen die Angreifer.", "ru": "Обе стороны применяли химическое оружие — ветер порой оборачивался против нападавших."},
+      {"de": "Das Genfer Protokoll wurde im Zweiten Weltkrieg weitgehend eingehalten, nicht aber in späteren Konflikten.", "ru": "Женевский протокол в целом соблюдался во Второй мировой войне, но не в последующих конфликтах."}
+    ]
+  },
+  {
+    "id": 9150,
+    "question_de": "Was war die Bedeutung des Films 'Triumph des Willens' (1935) von Leni Riefenstahl?",
+    "question_ru": "Каково было значение фильма «Триумф воли» (1935) Лени Рифеншталь?",
+    "correct_answer_de": "Ein Propagandafilm über den Nürnberger Reichsparteitag, der Filmgeschichte schrieb und Nazi-Ästhetik verherrlichte",
+    "correct_answer_ru": "Пропагандистский фильм о Нюрнбергском партийном съезде, вошедший в историю кино и прославлявший нацистскую эстетику",
+    "wrong_answers_de": [
+      "Ein Dokumentarfilm über den Ersten Weltkrieg für das deutsche Bildungssystem",
+      "Ein Hollywoodfilm, der die Stärke der deutschen Demokratie zeigte",
+      "Ein Antikriegsfilm, der gegen die Aufrüstung protestierte"
+    ],
+    "wrong_answers_ru": [
+      "Документальный фильм о Первой мировой войне для немецкой системы образования",
+      "Голливудский фильм, показывавший силу германской демократии",
+      "Антивоенный фильм, протестовавший против перевооружения"
+    ],
+    "explanation_de": "Riefenstahls 'Triumph des Willens' (1935) dokumentierte den NSDAP-Parteitag 1934. Der Film gilt als Meisterwerk der Kinematografie und zugleich als mächtigstes Propagandawerk der Filmgeschichte.",
+    "explanation_ru": "«Триумф воли» (1935) Рифеншталь документировал съезд НСДАП 1934 года. Фильм считается шедевром кинематографии и одновременно самым мощным пропагандистским произведением в истории кино.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1935 CE",
+    "tags": ["Riefenstahl", "Propaganda", "Nazi-Deutschland", "Film", "Nürnberg"],
+    "interesting_facts": [
+      {"de": "Riefenstahl setzte innovative Filmtechniken ein, darunter Luftaufnahmen und bewegliche Kameras.", "ru": "Рифеншталь применила инновационные техники кинематографии, включая аэросъёмку и движущиеся камеры."},
+      {"de": "Der Film gewann 1935 den Grand Prix auf der Weltausstellung in Paris.", "ru": "Фильм получил Гран-при на Всемирной выставке в Париже в 1935 году."},
+      {"de": "Riefenstahl bestand zeitlebens darauf, kein Propagandist, sondern Künstlerin gewesen zu sein.", "ru": "Рифеншталь до конца жизни настаивала на том, что была художником, а не пропагандистом."}
+    ]
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "id": 9151,
+    "question_de": "Was war die Bedeutung der Dekolonisierung Afrikas in den 1950er und 1960er Jahren?",
+    "question_ru": "Каково было значение деколонизации Африки в 1950–60-х годах?",
+    "correct_answer_de": "Die meisten afrikanischen Länder erlangten ihre Unabhängigkeit von europäischen Kolonialmächten",
+    "correct_answer_ru": "Большинство африканских стран обрели независимость от европейских колониальных держав",
+    "wrong_answers_de": [
+      "Afrikanische Länder schlossen sich freiwillig dem britischen Commonwealth an und blieben abhängig",
+      "Die Dekolonisierung begann erst nach dem Zusammenbruch der Sowjetunion 1991",
+      "Nur Nordafrika erlangte die Unabhängigkeit; Subsahara-Afrika blieb kolonisiert"
+    ],
+    "wrong_answers_ru": [
+      "Африканские страны добровольно вступили в Британское содружество и остались зависимыми",
+      "Деколонизация началась только после распада Советского Союза в 1991 году",
+      "Только Северная Африка обрела независимость; Африка к югу от Сахары осталась колонизированной"
+    ],
+    "explanation_de": "Das 'Jahr Afrikas' (1960) brachte 17 neue afrikanische Staaten. Bis 1975 hatten fast alle afrikanischen Länder ihre Unabhängigkeit erlangt, oft nach Guerillakriegen.",
+    "explanation_ru": "«Год Африки» (1960) принёс 17 новых африканских государств. К 1975 году почти все африканские страны обрели независимость, нередко после партизанских войн.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1960 CE",
+    "tags": ["Dekolonisierung", "Afrika", "Unabhängigkeit", "Kolonialismus", "1960"],
+    "interesting_facts": [
+      {"de": "Frankreich versuchte, Algerien zu behalten und führte einen blutigen Krieg (1954–62).", "ru": "Франция пыталась удержать Алжир и вела кровопролитную войну (1954–62)."},
+      {"de": "Kwame Nkrumah von Ghana wurde zu einem Symbol des panafrikansichen Nationalsimus.", "ru": "Кваме Нкрума из Ганы стал символом панафриканского национализма."},
+      {"de": "Viele neue afrikanische Staaten kämpften mit kolonialen Grenzziehungen, die ethnische Gruppen teilten.", "ru": "Многие новые африканские государства столкнулись с колониальными границами, разделявшими этнические группы."}
+    ]
+  },
+  {
+    "id": 9152,
+    "question_de": "Was war die Bedeutung des Mauerbaus in Berlin (1961)?",
+    "question_ru": "Каково было значение возведения Берлинской стены (1961)?",
+    "correct_answer_de": "Die DDR baute die Mauer, um die Massenflucht von Ostdeutschen in den Westen zu stoppen",
+    "correct_answer_ru": "ГДР построила стену, чтобы остановить массовое бегство восточных немцев на Запад",
+    "wrong_answers_de": [
+      "Die Alliierten bauten die Mauer, um Berlin im Kalten Krieg zu schützen",
+      "Die Mauer wurde errichtet, um West-Berlin vor militärischen Angriffen der Sowjetunion zu schützen",
+      "Die USA bauten die Mauer, um den Einfluss der DDR auf Westberlin einzuschränken"
+    ],
+    "wrong_answers_ru": [
+      "Союзники построили стену для защиты Берлина в холодной войне",
+      "Стена была возведена для защиты Западного Берлина от военных нападений Советского Союза",
+      "США построили стену, чтобы ограничить влияние ГДР на Западный Берлин"
+    ],
+    "explanation_de": "Bis zum 13. August 1961 waren über 3 Millionen DDR-Bürger in den Westen geflohen. Die Mauer (155 km) isolierte Westberlin vollständig und wurde Symbol des Kalten Krieges.",
+    "explanation_ru": "До 13 августа 1961 года более 3 миллионов граждан ГДР бежали на Запад. Стена (155 км) полностью изолировала Западный Берлин и стала символом холодной войны.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1961 CE",
+    "tags": ["Berliner Mauer", "DDR", "Kalter Krieg", "Flucht", "Deutschland"],
+    "interesting_facts": [
+      {"de": "Über 140 Menschen starben beim Versuch, die Berliner Mauer zu überwinden.", "ru": "Более 140 человек погибли, пытаясь преодолеть Берлинскую стену."},
+      {"de": "JFK sagte 1963 in Berlin: 'Ich bin ein Berliner' – ein Zeichen der Solidarität.", "ru": "В 1963 году Кеннеди произнёс в Берлине: «Я — берлинец» — знак солидарности."},
+      {"de": "Die Mauer hatte Wachtürme, Minen und automatische Schussanlagen ('Todesstreifen').", "ru": "Стена имела сторожевые башни, мины и автоматические стрелковые установки («полоса смерти»)."}
+    ]
+  },
+  {
+    "id": 9153,
+    "question_de": "Was war die Bedeutung der Aids-Epidemie in den 1980er Jahren?",
+    "question_ru": "Каково было значение эпидемии СПИДа в 1980-х годах?",
+    "correct_answer_de": "Eine globale Pandemie, die besonders vulnerable Gruppen traf und die Dringlichkeit internationaler Gesundheitskooperation zeigte",
+    "correct_answer_ru": "Глобальная пандемия, особенно затронувшая уязвимые группы и показавшая необходимость международного сотрудничества в области здравоохранения",
+    "wrong_answers_de": [
+      "Eine kurze Epidemie, die durch einen Impfstoff innerhalb von zwei Jahren gestoppt wurde",
+      "Eine Krankheit, die ausschließlich in Entwicklungsländern auftrat",
+      "Eine bakterielle Infektion, die durch Antibiotika gut behandelbar war"
+    ],
+    "wrong_answers_ru": [
+      "Кратковременная эпидемия, остановленная вакциной в течение двух лет",
+      "Болезнь, встречавшаяся исключительно в развивающихся странах",
+      "Бактериальная инфекция, хорошо поддававшаяся лечению антибиотиками"
+    ],
+    "explanation_de": "HIV/AIDS wurde 1981 identifiziert. Bis 2000 starben weltweit 22 Millionen Menschen. Die Epidemie belastete das Gesundheitssystem und löste gesellschaftliche Debatten über Sexualität und Diskriminierung aus.",
+    "explanation_ru": "ВИЧ/СПИД был идентифицирован в 1981 году. К 2000 году во всём мире погибли 22 миллиона человек. Эпидемия нагрузила систему здравоохранения и вызвала общественные дискуссии о сексуальности и дискриминации.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1981 CE",
+    "tags": ["AIDS", "Epidemie", "Gesundheit", "Globalisierung", "Menschenrechte"],
+    "interesting_facts": [
+      {"de": "Die erste effektive antiretrovirale Therapie kam 1996 – sie veränderte HIV von einer Todesdiagnose zu einer chronischen Erkrankung.", "ru": "Первая эффективная антиретровирусная терапия появилась в 1996 году — она превратила ВИЧ из смертного приговора в хроническое заболевание."},
+      {"de": "Rock Hudson war 1985 der erste bekannte Hollywoodstar, der öffentlich an AIDS erkrankte.", "ru": "В 1985 году Рок Хадсон стал первым известным голливудским актёром, публично заявившим о заболевании СПИДом."},
+      {"de": "Das rote Band (Red Ribbon) wurde 1991 als internationales Symbol für AIDS-Bewusstsein eingeführt.", "ru": "Красная лента (Red Ribbon) была введена в 1991 году как международный символ осведомлённости о СПИДе."}
+    ]
+  },
+  {
+    "id": 9154,
+    "question_de": "Was war die Bedeutung des Bosnienkrieges (1992–95) für die internationale Gemeinschaft?",
+    "question_ru": "Каково было значение войны в Боснии (1992–95) для международного сообщества?",
+    "correct_answer_de": "Der erste Genozid in Europa seit dem Holocaust führte zum NATO-Eingreifen und zur Gründung des Internationalen Strafgerichtshofs",
+    "correct_answer_ru": "Первый геноцид в Европе со времён Холокоста привёл к вмешательству НАТО и созданию Международного уголовного суда",
+    "wrong_answers_de": [
+      "Ein Bürgerkrieg, der friedlich durch EU-Vermittlung beendet wurde",
+      "Ein regionaler Konflikt, der internationale Organisationen nicht betraf",
+      "Der erste Fall, in dem Russland militärisch in Westeuropa intervenierte"
+    ],
+    "wrong_answers_ru": [
+      "Гражданская война, мирно завершённая при посредничестве ЕС",
+      "Региональный конфликт, не затронувший международные организации",
+      "Первый случай военного вмешательства России в Западной Европе"
+    ],
+    "explanation_de": "Im Bosnienkrieg ermordeten bosnisch-serbische Kräfte 1995 in Srebrenica über 8.000 bosnische Muslime (Genozid). Die NATO intervenierte 1995. Das Dayton-Abkommen beendete den Krieg.",
+    "explanation_ru": "В ходе войны в Боснии боснийско-сербские силы в 1995 году в Сребренице убили более 8000 боснийских мусульман (геноцид). НАТО вмешалось в 1995 году. Дейтонское соглашение завершило войну.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1992 CE",
+    "tags": ["Bosnien", "Jugoslawien", "Genozid", "NATO", "Srebrenica"],
+    "interesting_facts": [
+      {"de": "Radovan Karadžić und Ratko Mladić wurden später vom Internationalen Strafgerichtshof für den Genozid verurteilt.", "ru": "Радован Караджич и Ратко Младич были впоследствии осуждены Международным уголовным судом за геноцид."},
+      {"de": "Die UN-Friedenstruppen (UNPROFOR) waren machtlos, das Massaker zu verhindern.", "ru": "Миротворческие силы ООН (СООНО) были бессильны предотвратить массовое убийство."},
+      {"de": "Srebrenica war von der UN als 'Schutzzone' ausgewiesen worden – trotzdem fand das Massaker statt.", "ru": "Сребреница была обозначена ООН как «зона безопасности» — тем не менее массовое убийство произошло."}
+    ]
+  },
+  {
+    "id": 9155,
+    "question_de": "Was war die Bedeutung der Einführung des Euros als Bargeld im Jahr 2002?",
+    "question_ru": "Каково было значение введения евро в наличное обращение в 2002 году?",
+    "correct_answer_de": "12 EU-Länder ersetzten ihre nationalen Währungen durch eine gemeinsame Währung, die größte Währungsunion der Geschichte",
+    "correct_answer_ru": "12 стран ЕС заменили национальные валюты единой валютой — крупнейшим валютным союзом в истории",
+    "wrong_answers_de": [
+      "Der Euro ersetzte den US-Dollar als wichtigste Weltwährung",
+      "Alle EU-Mitgliedstaaten einschließlich Großbritanniens übernahmen den Euro",
+      "Die Einführung des Euro führte unmittelbar zu einer Wirtschaftskrise in den Mitgliedsstaaten"
+    ],
+    "wrong_answers_ru": [
+      "Евро заменило доллар США в качестве главной мировой валюты",
+      "Все государства — члены ЕС, включая Великобританию, приняли евро",
+      "Введение евро немедленно привело к экономическому кризису в государствах-членах"
+    ],
+    "explanation_de": "Am 1. Januar 2002 wurden Euro-Banknoten und -Münzen eingeführt. 12 Länder gaben ihre alten Währungen auf. Großbritannien, Dänemark und Schweden behielten ihre nationalen Währungen.",
+    "explanation_ru": "1 января 2002 года в обращение поступили банкноты и монеты евро. 12 стран отказались от старых валют. Великобритания, Дания и Швеция сохранили национальные валюты.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2002 CE",
+    "tags": ["Euro", "EU", "Währung", "Wirtschaft", "Integration"],
+    "interesting_facts": [
+      {"de": "Über 300 Millionen Menschen in der Eurozone nutzen täglich den Euro.", "ru": "Более 300 миллионов человек в еврозоне ежедневно пользуются евро."},
+      {"de": "Griechenland trat der Eurozone 2001 bei – was später zur Schuldenkrise führte.", "ru": "Греция вступила в еврозону в 2001 году — что впоследствии привело к долговому кризису."},
+      {"de": "Die Europäische Zentralbank (EZB) in Frankfurt regelt die Geldpolitik der Eurozone.", "ru": "Европейский центральный банк (ЕЦБ) во Франкфурте регулирует денежно-кредитную политику еврозоны."}
+    ]
+  },
+  {
+    "id": 9156,
+    "question_de": "Was war die Bedeutung des Aufstiegs Japans als Weltmacht im frühen 20. Jahrhundert?",
+    "question_ru": "Каково было значение подъёма Японии как мировой державы в начале XX века?",
+    "correct_answer_de": "Japan wurde die erste nicht-westliche Großmacht der Moderne und bewies, dass Modernisierung nicht Verwestlichung bedeutet",
+    "correct_answer_ru": "Япония стала первой незападной великой державой Нового времени и доказала, что модернизация не означает вестернизацию",
+    "wrong_answers_de": [
+      "Japan kopierte vollständig das britische Kolonialmodell und gründete ein eigenes Weltreich",
+      "Japans Aufstieg war auf US-amerikanische Militärhilfe nach dem Zweiten Weltkrieg zurückzuführen",
+      "Japan wurde Weltmacht durch seinen Sieg gegen China im Opiumkrieg"
+    ],
+    "wrong_answers_ru": [
+      "Япония полностью скопировала британскую колониальную модель и создала собственную мировую империю",
+      "Подъём Японии был обусловлен американской военной помощью после Второй мировой войны",
+      "Япония стала мировой державой благодаря победе над Китаем в Опиумной войне"
+    ],
+    "explanation_de": "Nach der Meiji-Restauration (1868) modernisierte Japan Armee, Wirtschaft und Bildung. Japan besiegte China (1895) und Russland (1905) und wurde zur Kolonialmacht in Ostasien.",
+    "explanation_ru": "После реставрации Мэйдзи (1868) Япония модернизировала армию, экономику и образование. Япония победила Китай (1895) и Россию (1905) и стала колониальной державой в Восточной Азии.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1905 CE",
+    "tags": ["Japan", "Meiji", "Modernisierung", "Asien", "Weltmacht"],
+    "interesting_facts": [
+      {"de": "Japan war das erste asiatische Land, das eine westliche Großmacht (Russland) militärisch besiegte.", "ru": "Япония стала первой азиатской страной, военно победившей западную великую державу (Россию)."},
+      {"de": "Japan kolonisierte Korea (1910), Taiwan (1895) und die Mandschurei (1931–45).", "ru": "Япония колонизировала Корею (1910), Тайвань (1895) и Маньчжурию (1931–45)."},
+      {"de": "Japans Kapitulation am 2. September 1945 beendete den Zweiten Weltkrieg offiziell.", "ru": "Капитуляция Японии 2 сентября 1945 года официально завершила Вторую мировую войну."}
+    ]
+  },
+  {
+    "id": 9157,
+    "question_de": "Was war die Bedeutung des Ersten Golfkrieges (1990–91)?",
+    "question_ru": "Каково было значение Первой войны в Персидском заливе (1990–91)?",
+    "correct_answer_de": "Eine von der UNO autorisierte internationale Koalition befreite Kuwait nach dem irakischen Einmarsch unter Saddam Hussein",
+    "correct_answer_ru": "Авторизованная ООН международная коалиция освободила Кувейт после вторжения Ирака под руководством Саддама Хусейна",
+    "wrong_answers_de": [
+      "USA und Irak schlossen nach dem Krieg ein dauerhaftes Friedensabkommen",
+      "Der Krieg wurde hauptsächlich von europäischen Ländern ohne US-Beteiligung geführt",
+      "Der Krieg endete mit dem Sturz Saddam Husseins und der Demokratisierung des Irak"
+    ],
+    "wrong_answers_ru": [
+      "США и Ирак заключили постоянное мирное соглашение после войны",
+      "Война велась главным образом европейскими странами без участия США",
+      "Война завершилась свержением Саддама Хусейна и демократизацией Ирака"
+    ],
+    "explanation_de": "Irak besetzte Kuwait im August 1990. Eine UN-autorisierte Koalition von 34 Ländern unter US-Führung befreite Kuwait in der Operation 'Desert Storm' (Januar–Februar 1991).",
+    "explanation_ru": "В августе 1990 года Ирак оккупировал Кувейт. Санкционированная ООН коалиция из 34 стран под руководством США освободила Кувейт в ходе операции «Буря в пустыне» (январь–февраль 1991 года).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1991 CE",
+    "tags": ["Golfkrieg", "Irak", "Kuwait", "USA", "UNO"],
+    "interesting_facts": [
+      {"de": "Die Operation Desert Storm dauerte nur 100 Stunden Bodenkampf, nachdem die Luftkampagne begann.", "ru": "Наземный этап операции «Буря в пустыне» занял всего 100 часов после начала воздушной кампании."},
+      {"de": "Der Krieg war der erste, der live im Fernsehen übertragen wurde (CNN-Berichterstattung).", "ru": "Война стала первой, транслировавшейся в прямом эфире по телевидению (репортажи CNN)."},
+      {"de": "Saddam Hussein zündete beim Rückzug 600 kuwaitische Ölquellen an.", "ru": "При отступлении Саддам Хусейн поджёг 600 кувейтских нефтяных скважин."}
+    ]
+  },
+  {
+    "id": 9158,
+    "question_de": "Was war die Bedeutung der Entdeckung der Doppelhelix-Struktur der DNA (1953)?",
+    "question_ru": "Каково было значение открытия двойной спирали ДНК (1953)?",
+    "correct_answer_de": "Sie erklärte, wie genetische Informationen gespeichert und weitergegeben werden, und revolutionierte die Biologie",
+    "correct_answer_ru": "Она объяснила, как хранится и передаётся генетическая информация, и революционизировала биологию",
+    "wrong_answers_de": [
+      "Sie ermöglichte sofort die Entwicklung von Gentherapien für genetische Krankheiten",
+      "Sie wies nach, dass alle Menschen genetisch identisch sind",
+      "Sie führte zur Widerlegung der Evolutionstheorie Darwins"
+    ],
+    "wrong_answers_ru": [
+      "Она немедленно сделала возможной разработку генной терапии генетических заболеваний",
+      "Она доказала, что все люди генетически идентичны",
+      "Она привела к опровержению теории эволюции Дарвина"
+    ],
+    "explanation_de": "Watson und Crick entdeckten 1953 die Doppelhelix-Struktur der DNA – aufbauend auf Rosalind Franklins Röntgenaufnahmen. Sie erhielten 1962 den Nobelpreis.",
+    "explanation_ru": "В 1953 году Уотсон и Крик открыли двойную спираль ДНК — опираясь на рентгеновские снимки Розалинд Франклин. В 1962 году они получили Нобелевскую премию.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1953 CE",
+    "tags": ["DNA", "Watson", "Crick", "Genetik", "Biologie"],
+    "interesting_facts": [
+      {"de": "Rosalind Franklin machte die entscheidenden Röntgenaufnahmen, bekam aber keinen Nobelpreis.", "ru": "Розалинд Франклин сделала решающие рентгеновские снимки, но не получила Нобелевскую премию."},
+      {"de": "Die Entdeckung gilt als eine der wichtigsten wissenschaftlichen Entdeckungen des 20. Jahrhunderts.", "ru": "Открытие считается одним из важнейших научных открытий XX века."},
+      {"de": "DNA steht für Desoxyribonukleinsäure – eine Molekülkette, die genetische Informationen kodiert.", "ru": "ДНК — дезоксирибонуклеиновая кислота — молекулярная цепь, кодирующая генетическую информацию."}
+    ]
+  },
+  {
+    "id": 9159,
+    "question_de": "Was war die gesellschaftliche Bedeutung des Fernsehens ab den 1950er Jahren?",
+    "question_ru": "Каково было социальное значение телевидения с 1950-х годов?",
+    "correct_answer_de": "Es wurde zum wichtigsten Massenmedium des 20. Jahrhunderts und veränderte Politik, Unterhaltung und Nachrichtenverbreitung",
+    "correct_answer_ru": "Оно стало важнейшим массовым средством информации XX века и изменило политику, развлечения и распространение новостей",
+    "wrong_answers_de": [
+      "Es ersetzte den Film vollständig und führte zur Schließung aller Kinos",
+      "Es diente hauptsächlich zur staatlichen Propagandaverbreitung und war privat nicht zugänglich",
+      "Es hatte kaum gesellschaftliche Auswirkungen, da das Radio weiterhin dominierte"
+    ],
+    "wrong_answers_ru": [
+      "Оно полностью вытеснило кино и привело к закрытию всех кинотеатров",
+      "Оно служило главным образом государственной пропаганде и было недоступно частным лицам",
+      "Оно почти не оказало социального влияния, поскольку радио продолжало доминировать"
+    ],
+    "explanation_de": "Fernsehen wurde in den 1950ern zum Massenmedium. Es prägte politische Debatten (Nixon-Kennedy-Fernsehduell 1960), Kriegsdarstellung (Vietnam) und Konsumgesellschaft durch Werbung.",
+    "explanation_ru": "В 1950-х годах телевидение стало массовым СМИ. Оно формировало политические дебаты (телевизионные дебаты Никсон–Кеннеди 1960 года), изображение войны (Вьетнам) и потребительское общество через рекламу.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1950 CE",
+    "tags": ["Fernsehen", "Massenmedien", "Gesellschaft", "Politik", "Kultur"],
+    "interesting_facts": [
+      {"de": "Das Nixon-Kennedy-Fernsehduell 1960 gilt als Wendepunkt: Radiohörer hielten Nixon für den Sieger, TV-Zuschauer Kennedy.", "ru": "Телевизионные дебаты Никсон–Кеннеди 1960 года считаются переломным моментом: радиослушатели считали победителем Никсона, телезрители — Кеннеди."},
+      {"de": "Der Mond-Spaziergang 1969 wurde von 600 Millionen Menschen weltweit im Fernsehen verfolgt.", "ru": "Лунную прогулку 1969 года по телевидению наблюдали 600 миллионов человек по всему миру."},
+      {"de": "Bis 1960 besaß die Hälfte aller US-amerikanischen Haushalte ein Fernsehgerät.", "ru": "К 1960 году телевизор имела половина американских домохозяйств."}
+    ]
+  },
+  {
+    "id": 9160,
+    "question_de": "Was war die Bedeutung der Atomkatastrophe von Tschernobyl (1986)?",
+    "question_ru": "Каково было значение ядерной катастрофы в Чернобыле (1986)?",
+    "correct_answer_de": "Die schlimmste Nuklearkatastrophe der Geschichte strahlte radioaktiven Fallout über halb Europa und beschleunigte den Zerfall der Sowjetunion",
+    "correct_answer_ru": "Худшая ядерная катастрофа в истории распространила радиоактивные осадки по половине Европы и ускорила распад Советского Союза",
+    "wrong_answers_de": [
+      "Eine kontrollierte Kernschmelze, die dank sowjetischer Schnellreaktion auf die Ukraine begrenzt blieb",
+      "Ein Unfall, der nur minimale Auswirkungen hatte und schnell behoben wurde",
+      "Eine absichtliche Sprengung durch Terroristen, die die Sowjetunion erschütterte"
+    ],
+    "wrong_answers_ru": [
+      "Контролируемое расплавление активной зоны, которое благодаря быстрой советской реакции ограничилось Украиной",
+      "Авария с минимальными последствиями, быстро ликвидированная",
+      "Намеренный взрыв террористов, потрясший Советский Союз"
+    ],
+    "explanation_de": "Am 26. April 1986 explodierte Reaktor 4 in Tschernobyl. Die sofortige Todeszone war 30 km. Radioaktivität breitete sich bis nach Westeuropa aus. Ca. 600.000 'Liquidatoren' waren beteiligt.",
+    "explanation_ru": "26 апреля 1986 года взорвался 4-й реактор в Чернобыле. Немедленная зона отчуждения составила 30 км. Радиоактивность распространилась вплоть до Западной Европы. В ликвидации участвовали около 600 000 «ликвидаторов».",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1986 CE",
+    "tags": ["Tschernobyl", "Kernkraft", "Sowjetunion", "Katastrophe", "Umwelt"],
+    "interesting_facts": [
+      {"de": "Gorbatschow nutzte Tschernobyl als Argument für mehr Glasnost – die Katastrophe konnte nicht mehr vertuscht werden.", "ru": "Горбачёв использовал Чернобыль как аргумент за большую гласность — катастрофу невозможно было замолчать."},
+      {"de": "Die Sperrzone um Tschernobyl ist heute ein ungewolltes Wildreservat.", "ru": "Зона отчуждения вокруг Чернобыля сегодня является стихийным природным заповедником."},
+      {"de": "Die Serie 'Chernobyl' von HBO (2019) machte die Ereignisse einem neuen Publikum bekannt.", "ru": "Сериал HBO «Чернобыль» (2019) познакомил с этими событиями новую аудиторию."}
+    ]
+  },
+  {
+    "id": 9161,
+    "question_de": "Was war die Bedeutung der Finanzkrise 2008 für die Weltwirtschaft?",
+    "question_ru": "Каково было значение финансового кризиса 2008 года для мировой экономики?",
+    "correct_answer_de": "Die schlimmste Wirtschaftskrise seit der Großen Depression, ausgelöst durch den Zusammenbruch des US-Immobilienmarkts",
+    "correct_answer_ru": "Самый тяжёлый экономический кризис со времён Великой депрессии, спровоцированный крахом американского рынка недвижимости",
+    "wrong_answers_de": [
+      "Eine regionale amerikanische Krise, die die europäischen Wirtschaften kaum berührte",
+      "Ein von Regierungen kontrollierter Börsenrückgang, der bald durch Staatseingriffe behoben wurde",
+      "Die erste Wirtschaftskrise, die ausschließlich durch technologische Faktoren verursacht wurde"
+    ],
+    "wrong_answers_ru": [
+      "Региональный американский кризис, почти не затронувший европейские экономики",
+      "Контролируемое правительствами падение фондового рынка, вскоре устранённое государственным вмешательством",
+      "Первый экономический кризис, вызванный исключительно технологическими факторами"
+    ],
+    "explanation_de": "Die Finanzkrise 2008 begann mit dem Zusammenbruch der US-Hypothekenmärkte (Subprime-Krise). Lehman Brothers kollabierte im September 2008. Weltweit gingen Millionen Jobs verloren.",
+    "explanation_ru": "Финансовый кризис 2008 года начался с краха американских ипотечных рынков (кризис субстандартного ипотечного кредитования). В сентябре 2008 года обанкротился Lehman Brothers. По всему миру были потеряны миллионы рабочих мест.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2008 CE",
+    "tags": ["Finanzkrise", "Wirtschaft", "USA", "Lehman", "Rezession"],
+    "interesting_facts": [
+      {"de": "Die US-Regierung rettete Banken wie AIG mit Steuergeldern im Umfang von Billionen Dollar.", "ru": "Правительство США спасало банки, такие как AIG, на триллионы долларов налогоплательщиков."},
+      {"de": "Die Krise führte zur Austeritätspolitik in Europa, besonders in Griechenland.", "ru": "Кризис привёл к политике жёсткой экономии в Европе, особенно в Греции."},
+      {"de": "Das G20-Gipfeltreffen 2009 koordinierte die globale wirtschaftliche Reaktion auf die Krise.", "ru": "Саммит G20 в 2009 году скоординировал глобальную экономическую реакцию на кризис."}
+    ]
+  },
+  {
+    "id": 9162,
+    "question_de": "Was war die Bedeutung der Grünen Bewegung und des Umweltschutzbewusstseins ab den 1970er Jahren?",
+    "question_ru": "Каково было значение «зелёного» движения и экологического сознания с 1970-х годов?",
+    "correct_answer_de": "Sie brachten Umweltschutz auf die politische Agenda und führten zu ersten Umweltgesetzen und Parteigründungen",
+    "correct_answer_ru": "Они вынесли охрану окружающей среды на политическую повестку дня и привели к первым экологическим законам и созданию партий",
+    "wrong_answers_de": [
+      "Die Bewegung entstand erst durch die Klimakatastrophen der 2000er Jahre",
+      "Umweltschutz war zunächst ein rein wissenschaftliches Thema ohne politische Resonanz",
+      "Grüne Parteien wurden in allen europäischen Ländern gleichzeitig 1968 gegründet"
+    ],
+    "wrong_answers_ru": [
+      "Движение возникло только из-за климатических катастроф 2000-х годов",
+      "Охрана окружающей среды поначалу была сугубо научной темой без политического отклика",
+      "Зелёные партии были основаны во всех европейских странах одновременно в 1968 году"
+    ],
+    "explanation_de": "Rachel Carsons 'Silent Spring' (1962), die Ölkrise (1973) und Unfälle wie Bhopal (1984) und Tschernobyl (1986) schufen Bewusstsein. Die Grünen wurden 1980 in Deutschland gegründet.",
+    "explanation_ru": "«Безмолвная весна» Рэйчел Карсон (1962), нефтяной кризис (1973) и катастрофы, такие как Бхопал (1984) и Чернобыль (1986), создали экологическое сознание. Партия Зелёных была основана в Германии в 1980 году.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1970 CE",
+    "tags": ["Grüne Bewegung", "Umweltschutz", "Klimawandel", "Politik", "Ökologie"],
+    "interesting_facts": [
+      {"de": "Der erste 'Earth Day' fand am 22. April 1970 statt und zog 20 Millionen Teilnehmer an.", "ru": "Первый «День Земли» состоялся 22 апреля 1970 года и привлёк 20 миллионов участников."},
+      {"de": "Greenpeace wurde 1971 in Vancouver gegründet.", "ru": "Greenpeace была основана в 1971 году в Ванкувере."},
+      {"de": "Das Montrealer Protokoll (1987) war das erste erfolgreiche globale Umweltabkommen zur Rettung der Ozonschicht.", "ru": "Монреальский протокол (1987) стал первым успешным глобальным экологическим соглашением по спасению озонового слоя."}
+    ]
+  },
+  {
+    "id": 9163,
+    "question_de": "Was war die politische Bedeutung der arabischen Unabhängigkeitsbewegungen nach dem Ersten Weltkrieg?",
+    "question_ru": "Каково было политическое значение арабских движений за независимость после Первой мировой войны?",
+    "correct_answer_de": "Arabische Völker hofften auf Unabhängigkeit, wurden aber durch das Sykes-Picot-Abkommen unter britische und französische Kontrolle gestellt",
+    "correct_answer_ru": "Арабские народы надеялись на независимость, однако соглашение Сайкса–Пико поставило их под британский и французский контроль",
+    "wrong_answers_de": [
+      "Arabische Staaten erhielten sofort nach dem Krieg vollständige Unabhängigkeit von der UNO garantiert",
+      "Das Osmanische Reich blieb als arabischer Nationalstaat bestehen und übernahm die Kontrolle",
+      "Die USA übernahmen die Verwaltung arabischer Gebiete als Mandatsmacht"
+    ],
+    "wrong_answers_ru": [
+      "Арабские государства сразу после войны получили полную независимость, гарантированную ООН",
+      "Османская империя сохранилась как арабское национальное государство и взяла управление в свои руки",
+      "США взяли на себя управление арабскими территориями в качестве мандатной державы"
+    ],
+    "explanation_de": "T.E. Lawrence ('Lawrence of Arabia') half im Ersten Weltkrieg beim arabischen Aufstand. Das Sykes-Picot-Abkommen (1916) teilte aber heimlich den Nahen Osten zwischen Großbritannien und Frankreich.",
+    "explanation_ru": "Т.Э. Лоуренс («Лоуренс Аравийский») помогал в арабском восстании в Первую мировую войну. Однако соглашение Сайкса–Пико (1916) тайно разделило Ближний Восток между Великобританией и Францией.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1920 CE",
+    "tags": ["Arabische Welt", "Sykes-Picot", "Naher Osten", "Kolonialismus", "Mandatssystem"],
+    "interesting_facts": [
+      {"de": "Die Balfour-Erklärung (1917) versprach gleichzeitig eine 'Heimstätte' für Juden in Palästina.", "ru": "Декларация Бальфура (1917) одновременно обещала «родину» для евреев в Палестине."},
+      {"de": "Das Mandatssystem des Völkerbunds setzte Großbritannien und Frankreich als Treuhänder arabischer Gebiete ein.", "ru": "Мандатная система Лиги Наций назначила Великобританию и Францию попечителями арабских территорий."},
+      {"de": "Die künstlichen Grenzen des Nahen Ostens aus dem Sykes-Picot-Abkommen prägen bis heute Konflikte.", "ru": "Искусственные границы Ближнего Востока из соглашения Сайкса–Пико по сей день определяют конфликты."}
+    ]
+  },
+  {
+    "id": 9164,
+    "question_de": "Was war die Bedeutung der Sowjetischen Raumstation Mir (1986–2001)?",
+    "question_ru": "Каково было значение советской космической станции «Мир» (1986–2001)?",
+    "correct_answer_de": "Die erste permanente Raumstation ermöglichte Langzeitstudien über das Leben und Arbeiten im Weltraum",
+    "correct_answer_ru": "Первая постоянная космическая станция сделала возможными долгосрочные исследования жизни и работы в космосе",
+    "wrong_answers_de": [
+      "Mir war eine militärische Raumstation zum Abschuss von Satellitenwaffen",
+      "Sie war nur für unbemannten Betrieb konzipiert und hatte keine Besatzung",
+      "Mir wurde nach einem Jahr aufgegeben, da Experimente scheiterten"
+    ],
+    "wrong_answers_ru": [
+      "«Мир» была военной космической станцией для запуска спутникового оружия",
+      "Она была рассчитана только на беспилотную эксплуатацию и не имела экипажа",
+      "«Мир» была оставлена через год из-за провала экспериментов"
+    ],
+    "explanation_de": "Mir war 15 Jahre im Orbit (1986–2001). Sie ermöglichte internationale Zusammenarbeit, russisch-amerikanische Missionen und Langzeitstudien über Auswirkungen der Schwerelosigkeit auf den menschlichen Körper.",
+    "explanation_ru": "«Мир» находилась на орбите 15 лет (1986–2001). Она обеспечила международное сотрудничество, российско-американские миссии и долгосрочные исследования влияния невесомости на тело человека.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1986 CE",
+    "tags": ["Mir", "Raumstation", "Sowjetunion", "Raumfahrt", "Wissenschaft"],
+    "interesting_facts": [
+      {"de": "Valeri Polyakov verbrachte auf Mir 437 Tage im All – Weltrekord für den längsten Aufenthalt im Weltall.", "ru": "Валерий Поляков провёл на «Мире» 437 дней в космосе — мировой рекорд по длительности пребывания в космосе."},
+      {"de": "Mir wurde 2001 kontrolliert zum Absturz gebracht und landete im Pazifischen Ozean.", "ru": "В 2001 году «Мир» была сведена с орбиты в управляемом режиме и упала в Тихий океан."},
+      {"de": "Die ISS (Internationale Raumstation) wurde als Nachfolgerin von Mir konzipiert.", "ru": "МКС (Международная космическая станция) была задумана как преемница «Мира»."}
+    ]
+  },
+  {
+    "id": 9165,
+    "question_de": "Was war die politische Bedeutung der Arabischen Liga, gegründet 1945?",
+    "question_ru": "Каково было политическое значение Лиги арабских государств, основанной в 1945 году?",
+    "correct_answer_de": "Die erste regionale Organisation arabischer Staaten zur Koordinierung gemeinsamer politischer und wirtschaftlicher Interessen",
+    "correct_answer_ru": "Первая региональная организация арабских государств для координации общих политических и экономических интересов",
+    "wrong_answers_de": [
+      "Ein militärisches Bündnis arabischer Staaten gegen Israel",
+      "Eine wirtschaftliche Freihandelszone nach dem Vorbild der Europäischen Gemeinschaft",
+      "Eine UN-Organisation zur Verwaltung arabischer Mandatsgebiete"
+    ],
+    "wrong_answers_ru": [
+      "Военный союз арабских государств против Израиля",
+      "Экономическая зона свободной торговли по образцу Европейского сообщества",
+      "Организация ООН по управлению арабскими подмандатными территориями"
+    ],
+    "explanation_de": "Die Arabische Liga (1945) wurde von Ägypten, Syrien, Irak, Jordanien, Saudi-Arabien, Jemen und Libanon gegründet. Ziel war Koordinierung, kein Föderalismus.",
+    "explanation_ru": "Лига арабских государств (1945) была основана Египтом, Сирией, Ираком, Иорданией, Саудовской Аравией, Йеменом и Ливаном. Целью была координация, а не федерализм.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["Arabische Liga", "Naher Osten", "Regionalorganisation", "Politik", "Arabismus"],
+    "interesting_facts": [
+      {"de": "Die Arabische Liga suspendierte Ägypten 1979 nach dem Friedensvertrag mit Israel.", "ru": "В 1979 году Лига арабских государств приостановила членство Египта после мирного договора с Израилем."},
+      {"de": "Heute hat die Arabische Liga 22 Mitgliedstaaten.", "ru": "Сегодня в Лиге арабских государств насчитывается 22 государства-члена."},
+      {"de": "Die Liga ist oft gespalten und war bei wichtigen Konflikten wie im Irak 2003 uneins.", "ru": "Лига часто расколота и не находила единства в важных конфликтах, таких как война в Ираке в 2003 году."}
+    ]
+  },
+  {
+    "id": 9166,
+    "question_de": "Was war die Bedeutung von Nelson Mandelas Freilassung (1990) und Präsidentschaft (1994)?",
+    "question_ru": "Каково было значение освобождения Нельсона Манделы (1990) und его президентства (1994)?",
+    "correct_answer_de": "Er führte Südafrika friedlich aus der Apartheid in die Demokratie und wurde ein weltweites Symbol der Versöhnung",
+    "correct_answer_ru": "Он мирно привёл Южную Африку из апартеида к демократии и стал мировым символом примирения",
+    "wrong_answers_de": [
+      "Mandela führte eine sozialistische Wirtschaftsrevolution nach seiner Freilassung durch",
+      "Er rächte die Unterdrückung durch Verurteilung aller weißen Apartheidverantwortlichen",
+      "Mandelas Freilassung führte zum sofortigen Bürgerkrieg zwischen ANC und Nationaler Partei"
+    ],
+    "wrong_answers_ru": [
+      "Мандела провёл социалистическую экономическую революцию после освобождения",
+      "Он отомстил за угнетение, осудив всех белых ответственных за апартеид",
+      "Освобождение Манделы привело к немедленной гражданской войне между АНК и Национальной партией"
+    ],
+    "explanation_de": "Mandela wurde 1990 nach 27 Jahren Haft freigelassen. 1994 wurde er in den ersten freien Wahlen Südafrikas erster schwarzer Präsident. Er etablierte die 'Wahrheits- und Versöhnungskommission'.",
+    "explanation_ru": "Мандела был освобождён в 1990 году после 27 лет заключения. В 1994 году на первых свободных выборах в Южной Африке он стал первым чёрным президентом. Он учредил «Комиссию по правде и примирению».",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1994 CE",
+    "tags": ["Mandela", "Südafrika", "Apartheid", "Demokratie", "Versöhnung"],
+    "interesting_facts": [
+      {"de": "Mandela erhielt 1993 zusammen mit F.W. de Klerk den Nobelfriedenspreis.", "ru": "В 1993 году Мандела совместно с Ф.В. де Клерком получил Нобелевскую премию мира."},
+      {"de": "Die Wahrheits- und Versöhnungskommission (TRC) bot Tätern Amnestie im Tausch für vollständige Geständnisse.", "ru": "Комиссия по правде и примирению (КПП) предлагала преступникам амнистию в обмен на полное признание вины."},
+      {"de": "Mandela war ANC-Mitglied seit 1944 und hatte aktiv gegen Apartheid gekämpft, bevor er verhaftet wurde.", "ru": "Мандела был членом АНК с 1944 года и активно боролся против апартеида до ареста."}
+    ]
+  },
+  {
+    "id": 9167,
+    "question_de": "Was war die Bedeutung der Erfindung des Internets und des World Wide Web für die Gesellschaft?",
+    "question_ru": "Каково было значение изобретения интернета и Всемирной паутины для общества?",
+    "correct_answer_de": "Es revolutionierte Kommunikation, Informationszugang und globalen Handel und leitete das Informationszeitalter ein",
+    "correct_answer_ru": "Они революционизировали коммуникацию, доступ к информации и глобальную торговлю и ознаменовали начало информационного века",
+    "wrong_answers_de": [
+      "Das Internet war ursprünglich nur für militärische Zwecke und wurde nie für die Öffentlichkeit freigegeben",
+      "Es war zunächst ein reines Unterhaltungsmedium ohne wirtschaftliche Bedeutung",
+      "Das Internet wurde in Japan erfunden und erst später von den USA übernommen"
+    ],
+    "wrong_answers_ru": [
+      "Интернет изначально предназначался только для военных целей и никогда не открывался для общественности",
+      "Поначалу это было сугубо развлекательное средство без экономического значения",
+      "Интернет был изобретён в Японии и лишь позднее перенят США"
+    ],
+    "explanation_de": "Das ARPANET (1969) war der militärische Vorläufer. Tim Berners-Lee erfand 1989/91 das WWW am CERN. In den 1990ern wurde das Internet zum globalen Kommunikationsmedium.",
+    "explanation_ru": "ARPANET (1969) был военным предшественником. Тим Бернерс-Ли изобрёл Всемирную паутину в 1989/91 году в ЦЕРН. В 1990-х годах интернет стал глобальным средством коммуникации.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1991 CE",
+    "tags": ["Internet", "WWW", "Technologie", "Kommunikation", "Informationszeitalter"],
+    "interesting_facts": [
+      {"de": "Die erste E-Mail wurde 1971 von Ray Tomlinson gesendet – er wählte das '@'-Symbol.", "ru": "Первое электронное письмо было отправлено в 1971 году Рэем Томлинсоном — он выбрал символ «@»."},
+      {"de": "Google wurde 1998 von Larry Page und Sergey Brin als Stanford-Studentenprojekt gegründet.", "ru": "Google был основан в 1998 году Ларри Пейджем и Сергеем Брином как студенческий проект Стэнфорда."},
+      {"de": "Das WWW und das Internet sind nicht dasselbe: Das WWW ist ein Dienst, der auf dem Internet läuft.", "ru": "WWW и интернет — не одно и то же: WWW — это сервис, работающий в интернете."}
+    ]
+  },
+  {
+    "id": 9168,
+    "question_de": "Was war die Bedeutung der Wiedergeburt der Volksrepublik China unter Mao Zedong (1949)?",
+    "question_ru": "Каково было значение провозглашения Китайской Народной Республики под руководством Мао Цзэдуна (1949)?",
+    "correct_answer_de": "Mao gründete die erste kommunistische Volksrepublik in Asien und beendete den chinesischen Bürgerkrieg",
+    "correct_answer_ru": "Мао основал первую коммунистическую Народную Республику в Азии и завершил гражданскую войну в Китае",
+    "wrong_answers_de": [
+      "Mao übernahm China durch einen Militärputsch gegen die japanische Besatzung",
+      "China wurde durch eine friedliche demokratische Wahl kommunistisch",
+      "Die Sowjetunion übertrug die Kontrolle über China an Mao nach einem Abkommen"
+    ],
+    "wrong_answers_ru": [
+      "Мао захватил Китай военным переворотом против японской оккупации",
+      "Китай стал коммунистическим через мирные демократические выборы",
+      "Советский Союз передал контроль над Китаем Мао по соглашению"
+    ],
+    "explanation_de": "Am 1. Oktober 1949 rief Mao Zedong auf dem Tiananmen-Platz die Volksrepublik China aus. Die Nationalisten (Chiang Kai-shek) zogen nach Taiwan. China wurde zur Weltmacht des Kommunismus.",
+    "explanation_ru": "1 октября 1949 года Мао Цзэдун на площади Тяньаньмэнь провозгласил Китайскую Народную Республику. Националисты (Чан Кайши) отступили на Тайвань. Китай стал мировой державой коммунизма.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1949 CE",
+    "tags": ["China", "Mao", "Kommunismus", "Bürgerkrieg", "Volksrepublik"],
+    "interesting_facts": [
+      {"de": "Der chinesische Bürgerkrieg dauerte mit Unterbrechungen von 1927 bis 1949.", "ru": "Гражданская война в Китае с перерывами продолжалась с 1927 по 1949 год."},
+      {"de": "Taiwan (Republik China) wird bis heute von der Volksrepublik China als Teil Chinas beansprucht.", "ru": "Тайвань (Китайская Республика) по сей день претендует на часть Китая Народная Республика Китай."},
+      {"de": "Mao führte den 'Großen Sprung nach vorne' (1958–62) durch, der eine verheerende Hungersnot mit 15–55 Millionen Toten auslöste.", "ru": "Мао провёл «Большой скачок вперёд» (1958–62), вызвавший опустошительный голод с 15–55 миллионами жертв."}
+    ]
+  },
+  {
+    "id": 9169,
+    "question_de": "Was war die Bedeutung der Mondlandungsprogramme für die Wissenschaft?",
+    "question_ru": "Каково было значение лунных программ для науки?",
+    "correct_answer_de": "Sie lieferten direkte geologische Proben des Mondes und verbesserten das Verständnis der Entstehung des Sonnensystems",
+    "correct_answer_ru": "Они предоставили прямые геологические образцы Луны и улучшили понимание формирования Солнечной системы",
+    "wrong_answers_de": [
+      "Sie wiesen nach, dass der Mond bewohnbar ist und künftige Kolonien möglich sind",
+      "Sie brachten keine wissenschaftlichen Erkenntnisse, da die Proben im Atlantik versanken",
+      "Sie zeigten, dass der Mond aus demselben Material wie die Erde besteht"
+    ],
+    "wrong_answers_ru": [
+      "Они доказали, что Луна пригодна для жизни и возможны будущие колонии",
+      "Они не принесли научных знаний, поскольку образцы утонули в Атлантике",
+      "Они показали, что Луна состоит из того же материала, что и Земля"
+    ],
+    "explanation_de": "Astronauten brachten 382 kg Mondgestein zurück. Analysen bestätigten die 'Giant Impact'-Hypothese: der Mond entstand aus Trümmern, als ein Planet vor 4,5 Milliarden Jahren die Erde streifte.",
+    "explanation_ru": "Астронавты привезли 382 кг лунных пород. Анализы подтвердили гипотезу «гигантского удара»: Луна образовалась из обломков, когда 4,5 миллиарда лет назад планета столкнулась с Землёй.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1969 CE",
+    "tags": ["Mondlandung", "Wissenschaft", "Geologie", "Sonnensystem", "NASA"],
+    "interesting_facts": [
+      {"de": "Mondgesteine sind im Durchschnitt 4,5 Milliarden Jahre alt – fast so alt wie das Sonnensystem selbst.", "ru": "Лунные породы в среднем имеют возраст 4,5 миллиарда лет — почти столько же, сколько сама Солнечная система."},
+      {"de": "Retroreflektoren, die Astronauten auf dem Mond platzierten, werden heute noch von Observatorien genutzt.", "ru": "Уголковые отражатели, установленные астронавтами на Луне, используются обсерваториями по сей день."},
+      {"de": "Das Mondprogramm lieferte Grundlagen für Technologien wie digitale Bildgebung und Speicherfolie.", "ru": "Лунная программа обеспечила технологии цифрового изображения и термоодеяла."}
+    ]
+  },
+  {
+    "id": 9170,
+    "question_de": "Was war die historische Bedeutung der Nürnberger Rassengesetze von 1935?",
+    "question_ru": "Каково было историческое значение Нюрнбергских расовых законов 1935 года?",
+    "correct_answer_de": "Sie entzogen Juden die deutsche Staatsbürgerschaft und schufen die rechtliche Grundlage für die Verfolgung und später den Holocaust",
+    "correct_answer_ru": "Они лишили евреев германского гражданства и создали правовую основу для преследований и впоследствии Холокоста",
+    "wrong_answers_de": [
+      "Sie führten zur Deportation aller Juden aus Deutschland in Konzentrationslager",
+      "Sie verboten alle nicht-deutschen Sprachen im Deutschen Reich",
+      "Sie reglementierten die Kriegswirtschaft und die Verteilung von Lebensmitteln"
+    ],
+    "wrong_answers_ru": [
+      "Они привели к депортации всех евреев из Германии в концентрационные лагеря",
+      "Они запретили все негерманские языки в Германском рейхе",
+      "Они регламентировали военную экономику и распределение продовольствия"
+    ],
+    "explanation_de": "Die Nürnberger Gesetze (1935) definierten Juden nach Rassekriterien, entzogen ihnen die Staatsbürgerschaft und verboten Ehen zwischen Juden und Nicht-Juden. Sie bereiteten den Weg zum Holocaust vor.",
+    "explanation_ru": "Нюрнбергские законы (1935) определяли евреев по расовым критериям, лишали их гражданства и запрещали браки между евреями и неевреями. Они прокладывали путь к Холокосту.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1935 CE",
+    "tags": ["Nürnberger Gesetze", "Nazi-Deutschland", "Antisemitismus", "Holocaust", "Rassismus"],
+    "interesting_facts": [
+      {"de": "Die Gesetze definierten, wer als 'Jude' galt, anhand der Zahl jüdischer Großeltern.", "ru": "Законы определяли, кто считается «евреем», по числу еврейских дедушек и бабушек."},
+      {"de": "Bereits 1933 wurden Juden aus dem öffentlichen Dienst entlassen ('Berufsbeamtengesetz').", "ru": "Ещё в 1933 году евреи были уволены с государственной службы («Закон о профессиональном чиновничестве»)."},
+      {"de": "Die Reichskristallnacht (1938) war ein pogromartiger Angriff auf jüdische Gemeinden im gesamten Reich.", "ru": "«Хрустальная ночь» (1938) была погромным нападением на еврейские общины по всему рейху."}
+    ]
+  },
+  {
+    "id": 9171,
+    "question_de": "Was war die Bedeutung der Entdeckung von Penicillin durch Alexander Fleming (1928)?",
+    "question_ru": "Каково было значение открытия пенициллина Александром Флемингом (1928)?",
+    "correct_answer_de": "Das erste Antibiotikum revolutionierte die Medizin, da bakterielle Infektionen erstmals effektiv behandelbar wurden",
+    "correct_answer_ru": "Первый антибиотик революционизировал медицину, поскольку бактериальные инфекции впервые стали эффективно поддаваться лечению",
+    "wrong_answers_de": [
+      "Penicillin war nur gegen Viren wirksam und hatte keinen Nutzen bei Bakterieninfektionen",
+      "Die Entdeckung wurde erst 50 Jahre nach Fleming zur medizinischen Anwendung entwickelt",
+      "Fleming entdeckte Penicillin durch gezielte Laborforschung, nicht durch Zufall"
+    ],
+    "wrong_answers_ru": [
+      "Пенициллин был эффективен только против вирусов и не имел пользы при бактериальных инфекциях",
+      "Открытие было разработано для медицинского применения лишь через 50 лет после Флеминга",
+      "Флеминг открыл пенициллин в результате целенаправленных лабораторных исследований, а не случайно"
+    ],
+    "explanation_de": "Fleming entdeckte 1928 zufällig, dass Schimmelpilz (Penicillium) Bakterien abtötet. Florey und Chain entwickelten es im WWII zur Medizin. Alle drei erhielten 1945 den Nobelpreis.",
+    "explanation_ru": "В 1928 году Флеминг случайно обнаружил, что плесень (Penicillium) убивает бактерии. Флори и Чейн разработали его как лекарство в годы Второй мировой войны. Все трое получили Нобелевскую премию в 1945 году.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1928 CE",
+    "tags": ["Penicillin", "Fleming", "Medizin", "Antibiotikum", "Wissenschaft"],
+    "interesting_facts": [
+      {"de": "Penicillin rettete im Zweiten Weltkrieg Tausende Soldaten vor dem Tod durch infizierte Wunden.", "ru": "Пенициллин во Второй мировой войне спас тысячи солдат от гибели от заражённых ран."},
+      {"de": "Fleming entdeckte Penicillin, weil eine Petrischale versehentlich offen blieb und sich Schimmel bildete.", "ru": "Флеминг открыл пенициллин, потому что чашка Петри случайно осталась открытой и на ней образовалась плесень."},
+      {"de": "Übernutzung von Antibiotika führt zu resistenten Bakterienstämmen – eine wachsende Bedrohung.", "ru": "Чрезмерное применение антибиотиков приводит к устойчивым штаммам бактерий — растущей угрозе."}
+    ]
+  },
+  {
+    "id": 9172,
+    "question_de": "Was war die Bedeutung des Vietnamkriegs für die Entwicklung der Antikriegsbewegung?",
+    "question_ru": "Каково было значение Вьетнамской войны для развития антивоенного движения?",
+    "correct_answer_de": "Er mobilisierte eine beispiellose Masse an zivilen Kriegsgegnern und veränderte die öffentliche Meinung zu Militärinterventionen dauerhaft",
+    "correct_answer_ru": "Он мобилизовал беспрецедентную массу гражданских противников войны и навсегда изменил общественное мнение о военных интервенциях",
+    "wrong_answers_de": [
+      "Die Antikriegsbewegung hatte kaum Einfluss auf die US-Außenpolitik",
+      "Sie war auf die USA beschränkt und fand in anderen Ländern keine Resonanz",
+      "Die Bewegung endete mit dem Kriegseintritt der USA und nicht mit seinem Ende"
+    ],
+    "wrong_answers_ru": [
+      "Антивоенное движение почти не влияло на внешнюю политику США",
+      "Оно ограничивалось США и не имело отклика в других странах",
+      "Движение завершилось вступлением США в войну, а не её окончанием"
+    ],
+    "explanation_de": "Fernsehbilder des Kriegs und die Proteste der Counterculture mobilisierten Millionen. Der Kent-State-Massaker (1970), wo Nationalgardisten 4 Studenten töteten, verstärkte den Widerstand.",
+    "explanation_ru": "Телевизионные образы войны и протесты контркультуры мобилизовали миллионы людей. Расстрел в Кент-Стейт (1970), где нацгвардейцы убили 4 студентов, усилил сопротивление.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1968 CE",
+    "tags": ["Antikriegsbewegung", "Vietnam", "USA", "Protest", "Zivilgesellschaft"],
+    "interesting_facts": [
+      {"de": "Joan Baez, Bob Dylan und andere Musiker nutzten ihre Musik als politisches Werkzeug gegen den Vietnam-Krieg.", "ru": "Джоан Баэз, Боб Дилан и другие музыканты использовали свою музыку как политический инструмент против Вьетнамской войны."},
+      {"de": "Die Pentagon Papers (1971) enthüllten, dass die Regierung jahrelang über den Kriegsverlauf gelogen hatte.", "ru": "«Документы Пентагона» (1971) раскрыли, что правительство годами лгало о ходе войны."},
+      {"de": "Viele Vietnam-Veteranen kämpften selbst gegen den Krieg und warfen ihre Medaillen öffentlich weg.", "ru": "Многие ветераны Вьетнама сами выступали против войны и публично выбрасывали свои медали."}
+    ]
+  },
+  {
+    "id": 9173,
+    "question_de": "Was war die Bedeutung des Atombombenabwurfs auf Hiroshima und Nagasaki (1945)?",
+    "question_ru": "Каково было значение атомных бомбардировок Хиросимы и Нагасаки (1945)?",
+    "correct_answer_de": "Der erste und einzige Einsatz von Atomwaffen im Krieg tötete über 200.000 Menschen und leitete das Atomzeitalter ein",
+    "correct_answer_ru": "Первое и единственное боевое применение ядерного оружия унесло более 200 000 жизней и ознаменовало начало атомной эпохи",
+    "wrong_answers_de": [
+      "Die Bomben töteten hauptsächlich japanische Soldaten und hatten minimale zivile Opfer",
+      "Japan kapitulierte bereits vor den Atombombenabwürfen, die daher keine Wirkung hatten",
+      "Die Bomben wurden auf leere Felder außerhalb von Städten abgeworfen, um Japan zur Kapitulation zu zwingen"
+    ],
+    "wrong_answers_ru": [
+      "Бомбы убили главным образом японских солдат и имели минимальное число жертв среди мирного населения",
+      "Япония капитулировала ещё до атомных бомбардировок, которые поэтому не имели эффекта",
+      "Бомбы были сброшены на пустые поля за пределами городов, чтобы вынудить Японию к капитуляции"
+    ],
+    "explanation_de": "Am 6. August 1945 fiel 'Little Boy' auf Hiroshima, am 9. August 'Fat Man' auf Nagasaki. Japan kapitulierte am 15. August 1945. Die Atombombe veränderte die Kriegsführung und die Weltpolitik fundamental.",
+    "explanation_ru": "6 августа 1945 года на Хиросиму была сброшена «Малыш», 9 августа на Нагасаки — «Толстяк». Япония капитулировала 15 августа 1945 года. Атомная бомба коренным образом изменила ведение войны и мировую политику.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["Atombombe", "Hiroshima", "Japan", "WWII", "Atomzeitalter"],
+    "interesting_facts": [
+      {"de": "Robert Oppenheimer, Vater der Atombombe, zitierte nach dem Test die Bhagavad Gita: 'Jetzt bin ich der Tod, der Zerstörer von Welten.'", "ru": "Роберт Оппенгеймер, отец атомной бомбы, процитировал после испытания «Бхагавадгиту»: «Теперь я стал смертью, разрушителем миров»."},
+      {"de": "Einige Überlebende (Hibakusha) beider Atomangriffe leben noch heute.", "ru": "Некоторые выжившие (хибакуся) обоих атомных ударов живы по сей день."},
+      {"de": "Hiroshima und Nagasaki wurden zu Symbolen für den weltweiten Kampf gegen Atomwaffen.", "ru": "Хиросима и Нагасаки стали символами всемирной борьбы против ядерного оружия."}
+    ]
+  },
+  {
+    "id": 9174,
+    "question_de": "Was war die Bedeutung des Konzepts der 'Mutually Assured Destruction' (MAD) im Kalten Krieg?",
+    "question_ru": "Каково было значение концепции «взаимного гарантированного уничтожения» (MAD) в холодной войне?",
+    "correct_answer_de": "Die Abschreckungsdoktrin besagte, dass ein nuklearer Erstangriff zum eigenen Untergang führen würde, da der Gegner zurückschlagen würde",
+    "correct_answer_ru": "Доктрина сдерживания гласила, что ядерный первый удар приведёт к собственной гибели, поскольку противник нанесёт ответный удар",
+    "wrong_answers_de": [
+      "MAD bedeutete, dass beide Supermächte ihre Atomwaffen gleichzeitig abrüsten sollten",
+      "Es war ein Militärplan der USA für einen Überraschungsangriff auf die Sowjetunion",
+      "MAD beschrieb die Gleichwertigkeit konventioneller Streitkräfte beider Seiten"
+    ],
+    "wrong_answers_ru": [
+      "MAD означала, что обе сверхдержавы должны были одновременно разоружиться",
+      "Это был военный план США для внезапного нападения на Советский Союз",
+      "MAD описывала равенство обычных вооружённых сил обеих сторон"
+    ],
+    "explanation_de": "MAD (Mutually Assured Destruction) bedeutete: Wer einen Nuklearangriff startet, garantiert seine eigene Vernichtung. Diese Logik verhinderte einen direkten militärischen Konflikt zwischen den Supermächten.",
+    "explanation_ru": "MAD (взаимное гарантированное уничтожение) означало: тот, кто начинает ядерный удар, гарантирует собственное уничтожение. Эта логика предотвратила прямой военный конфликт между сверхдержавами.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1950 CE",
+    "tags": ["MAD", "Kalter Krieg", "Atomwaffen", "Abschreckung", "Strategie"],
+    "interesting_facts": [
+      {"de": "MAD bedeutete, dass der Kalte Krieg nie zum 'heißen Krieg' wurde, solange Gleichgewicht bestand.", "ru": "MAD означала, что холодная война никогда не стала «горячей войной», пока сохранялся баланс."},
+      {"de": "Der Film Dr. Strangelove (1964) von Stanley Kubrick satirisierte die Logik der nuklearen Abschreckung.", "ru": "Фильм Стэнли Кубрика «Доктор Стрейнджлав» (1964) высмеивал логику ядерного сдерживания."},
+      {"de": "Kritiker des MAD-Konzepts nannten es 'Gleichgewicht des Schreckens'.", "ru": "Критики концепции MAD называли её «равновесием страха»."}
+    ]
+  },
+  {
+    "id": 9175,
+    "question_de": "Was war die Bedeutung des Klimawandelberichts des IPCC und der globalen Klimadebatte ab den 1990ern?",
+    "question_ru": "Каково было значение доклада МГЭИК о климатических изменениях и глобальной климатической дискуссии с 1990-х годов?",
+    "correct_answer_de": "Erstmals bestand wissenschaftlicher Konsens, dass menschliche Aktivitäten den globalen Klimawandel verursachen",
+    "correct_answer_ru": "Впервые сложился научный консенсус в том, что деятельность человека вызывает глобальное изменение климата",
+    "wrong_answers_de": [
+      "Das IPCC stellte fest, dass natürliche Faktoren alleine für den Klimawandel verantwortlich sind",
+      "Die Berichte zeigten, dass Klimawandel nur ein regionales Problem der Arktis ist",
+      "Wissenschaftler einigten sich auf 2050 als Jahr, wenn die Erde aufhört zu existieren"
+    ],
+    "wrong_answers_ru": [
+      "МГЭИК установил, что только природные факторы ответственны за изменение климата",
+      "Доклады показали, что изменение климата — лишь региональная проблема Арктики",
+      "Учёные пришли к согласию, что в 2050 году Земля прекратит существование"
+    ],
+    "explanation_de": "Das IPCC (gegründet 1988) veröffentlichte regelmäßige Berichte über den Klimawandel. Seit dem Kyoto-Protokoll (1997) debattiert die Welt über CO₂-Reduktionsziele.",
+    "explanation_ru": "МГЭИК (основан в 1988 году) регулярно публикует доклады об изменении климата. После Киотского протокола (1997) мир дискутирует о целях сокращения выбросов CO₂.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1990 CE",
+    "tags": ["Klimawandel", "IPCC", "Umwelt", "CO2", "Wissenschaft"],
+    "interesting_facts": [
+      {"de": "Das 1,5-Grad-Ziel des Pariser Abkommens (2015) ist wissenschaftlich durch IPCC-Forschung begründet.", "ru": "Цель Парижского соглашения (2015) в 1,5 градуса научно обоснована исследованиями МГЭИК."},
+      {"de": "Die schwedische Klimaaktivistin Greta Thunberg begann 2018 ihren Schulstreik für das Klima.", "ru": "Шведская климатическая активистка Грета Тунберг начала в 2018 году школьную забастовку за климат."},
+      {"de": "CO₂-Konzentration in der Atmosphäre stieg von 280 ppm (vor Industrialisierung) auf über 420 ppm (2023).", "ru": "Концентрация CO₂ в атмосфере выросла с 280 ppm (до индустриализации) до более 420 ppm (2023 год)."}
+    ]
+  }
+]

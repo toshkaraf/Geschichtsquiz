@@ -1,0 +1,727 @@
+[
+  {
+    "id": 8276,
+    "question_de": "Was war die historische Bedeutung des Krimkrieges (1853–56) für Europa?",
+    "question_ru": "Каково было историческое значение Крымской войны (1853–56) для Европы?",
+    "correct_answer_de": "Russland wurde von einer Koalition aus Frankreich, Großbritannien und dem Osmanischen Reich besiegt und verlor seinen Einfluss am Schwarzen Meer",
+    "correct_answer_ru": "Россия была разгромлена коалицией Франции, Великобритании и Османской империи и утратила своё влияние на Чёрном море",
+    "wrong_answers_de": [
+      "Der Krimkrieg führte zum Zusammenbruch des Osmanischen Reichs",
+      "Russland gewann den Krieg und annektierte die gesamte Krim dauerhaft",
+      "Der Krieg war ein Konflikt zwischen Frankreich und Preußen um Einfluss in Osteuropa"
+    ],
+    "wrong_answers_ru": [
+      "Крымская война привела к распаду Османской империи",
+      "Россия выиграла войну и окончательно аннексировала весь Крым",
+      "Война была конфликтом между Францией и Пруссией за влияние в Восточной Европе"
+    ],
+    "explanation_de": "Der Krimkrieg (1853–56) endete mit dem Pariser Frieden (1856). Russland verlor das Recht, eine Schwarzmeerflotte zu haben. Neue Kriegstechnologien (Telegraf, Eisenbahn) und Krankenpflege (Nightingale) machten ihn zu einem 'modernen' Krieg.",
+    "explanation_ru": "Крымская война (1853–56) завершилась Парижским миром (1856). Россия потеряла право иметь черноморский флот. Новые военные технологии (телеграф, железная дорога) и уход за ранеными (Найтингейл) сделали её «современной» войной.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1856 CE",
+    "tags": ["Krimkrieg", "Russland", "Osmanisches Reich", "Schwarzes Meer", "Europa"],
+    "interesting_facts": [
+      {"de": "Der Krimkrieg war einer der ersten Kriege, der von Zeitungsjournalisten und Fotografen dokumentiert wurde.", "ru": "Крымская война была одной из первых войн, задокументированных газетными журналистами и фотографами."},
+      {"de": "Florence Nightingale revolutionierte im Krimkrieg die Krankenpflege und senkte die Sterblichkeitsrate drastisch.", "ru": "Флоренс Найтингейл в Крымской войне революционизировала медицинский уход и резко снизила смертность."},
+      {"de": "Über 500.000 Soldaten starben – mehr durch Krankheiten als durch Kampfhandlungen.", "ru": "Погибло более 500 000 солдат — больше от болезней, чем в боевых действиях."}
+    ]
+  },
+  {
+    "id": 8277,
+    "question_de": "Was war die Bedeutung der industriellen Nutzung von Stahl durch den Bessemer-Prozess (1856)?",
+    "question_ru": "Каково было значение промышленного применения стали благодаря процессу Бессемера (1856)?",
+    "correct_answer_de": "Der Bessemer-Prozess ermöglichte die Massenproduktion von Stahl und machte den Bau von Eisenbahnen, Schiffen und Hochhäusern möglich",
+    "correct_answer_ru": "Процесс Бессемера обеспечил массовое производство стали и открыл возможность строительства железных дорог, кораблей и небоскрёбов",
+    "wrong_answers_de": [
+      "Bessemer erfand eine neue Legierung aus Stahl und Aluminium",
+      "Der Bessemer-Prozess verbesserte nur die Qualität von Gusseisen, nicht die Stahlproduktion",
+      "Der Stahl aus dem Bessemer-Prozess war zu teuer für industrielle Anwendungen"
+    ],
+    "wrong_answers_ru": [
+      "Бессемер изобрёл новый сплав из стали и алюминия",
+      "Процесс Бессемера улучшил лишь качество чугуна, но не производство стали",
+      "Сталь из процесса Бессемера была слишком дорогой для промышленного применения"
+    ],
+    "explanation_de": "Henry Bessemers Konverter (1856) blies Luft durch flüssiges Roheisen und entfernte Kohlenstoff. Das Ergebnis: billiger, starker Stahl in Massen. Eisenbahnen und Wolkenkratzer wurden erst dadurch möglich.",
+    "explanation_ru": "Конвертер Генри Бессемера (1856) продувал воздух через жидкий чугун и удалял углерод. Результат: дешёвая, прочная сталь в массовых количествах. Только благодаря этому стали возможны железные дороги и небоскрёбы.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1856 CE",
+    "tags": ["Bessemer", "Stahl", "Industrialisierung", "Technik", "Massenproduktion"],
+    "interesting_facts": [
+      {"de": "Vor Bessemer dauerte die Herstellung einer Tonne Stahl zwei Wochen – danach nur noch 20 Minuten.", "ru": "До Бессемера производство одной тонны стали занимало две недели — после — всего 20 минут."},
+      {"de": "Die erste Stahlbrücke der Welt (Eads Bridge in St. Louis, 1874) nutzte Bessemerstahl.", "ru": "Первый в мире стальной мост (мост Идс в Сент-Луисе, 1874) использовал бессемеровскую сталь."},
+      {"de": "Pittsburgh (USA) wurde durch den Stahlboom zur Industriemetropole.", "ru": "Питтсбург (США) благодаря стальному буму превратился в промышленную метрополию."}
+    ]
+  },
+  {
+    "id": 8278,
+    "question_de": "Was war die Bedeutung der deutsch-nationalen Bewegung nach 1815 für die spätere Einigung Deutschlands?",
+    "question_ru": "Каково было значение немецко-национального движения после 1815 года для последующего объединения Германии?",
+    "correct_answer_de": "Studenten und Bürger forderten in Burschenschaften und auf dem Hambacher Fest Einheit und Freiheit als Grundlage eines modernen Nationalstaats",
+    "correct_answer_ru": "Студенты и граждане в студенческих братствах и на Гамбахском фестивале требовали единства и свободы как основы современного национального государства",
+    "wrong_answers_de": [
+      "Die Bewegung war eine Reaktion auf den Deutsch-Französischen Krieg und entstand erst nach 1871",
+      "Die Nationalbewegung wurde von Adligen angeführt und stützte sich auf absolutistische Ideen",
+      "Die Burschenschaften wurden von Preußen unterstützt, um Österreich zu schwächen"
+    ],
+    "wrong_answers_ru": [
+      "Движение стало реакцией на Франко-прусскую войну и возникло лишь после 1871 года",
+      "Национальное движение возглавлялось дворянами и опиралось на абсолютистские идеи",
+      "Студенческие братства поддерживались Пруссией с целью ослабления Австрии"
+    ],
+    "explanation_de": "Nach den Befreiungskriegen forderten Burschenschaften (gegründet 1815) deutsche Einheit. Das Hambacher Fest (1832) war die größte öffentliche Demonstration für Freiheit und Einheit vor 1848.",
+    "explanation_ru": "После освободительных войн студенческие братства (основаны в 1815 году) требовали германского единства. Гамбахский фестиваль (1832) стал крупнейшей публичной демонстрацией за свободу и единство до 1848 года.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1832 CE",
+    "tags": ["Burschenschaften", "Hambacher Fest", "Nationalismus", "Deutschland", "Einigung"],
+    "interesting_facts": [
+      {"de": "Beim Hambacher Fest (1832) versammelten sich ca. 25.000 Menschen – für die Zeit eine ungeheure Zahl.", "ru": "На Гамбахском фестивале (1832) собралось около 25 000 человек — для своего времени невероятная цифра."},
+      {"de": "Die Farben Schwarz-Rot-Gold der Burschenschaften wurden zum Symbol der demokratischen Nationalbewegung.", "ru": "Цвета братств — чёрный, красный, золотой — стали символом демократического национального движения."},
+      {"de": "Metternichs Karlsbader Beschlüsse (1819) verboten Burschenschaften und zensierten die Presse.", "ru": "Карлсбадские постановления Меттерниха (1819) запретили студенческие братства и ввели цензуру прессы."}
+    ]
+  },
+  {
+    "id": 8279,
+    "question_de": "Was war die Bedeutung des Griechischen Unabhängigkeitskrieges (1821–29) für Europa?",
+    "question_ru": "Каково было значение Греческой войны за независимость (1821–29) для Европы?",
+    "correct_answer_de": "Griechenland erlangte als erster Balkannationalstaat die Unabhängigkeit vom Osmanischen Reich, unterstützt von romantischen Philhellenen aus ganz Europa",
+    "correct_answer_ru": "Греция как первое балканское национальное государство обрела независимость от Османской империи при поддержке романтически настроенных филэллинов со всей Европы",
+    "wrong_answers_de": [
+      "Griechenland wurde nach dem Krieg eine britische Kolonie und erhielt erst 1947 Unabhängigkeit",
+      "Der Krieg führte zum Zerfall des gesamten Osmanischen Reiches",
+      "Griechenland erlangte durch friedliche Verhandlungen ohne militärischen Kampf Unabhängigkeit"
+    ],
+    "wrong_answers_ru": [
+      "После войны Греция стала британской колонией и получила независимость лишь в 1947 году",
+      "Война привела к распаду всей Османской империи",
+      "Греция обрела независимость путём мирных переговоров без вооружённой борьбы"
+    ],
+    "explanation_de": "Der griechische Freiheitskampf begeisterte Europas Romantiker (Byron starb dafür). Das Osmanische Reich anerkannte die griechische Unabhängigkeit 1829 (Vertrag von Adrianopel).",
+    "explanation_ru": "Греческая борьба за свободу вдохновила европейских романтиков (Байрон погиб за неё). Османская империя признала греческую независимость в 1829 году (Адрианопольский договор).",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1829 CE",
+    "tags": ["Griechenland", "Unabhängigkeit", "Osmanisches Reich", "Philhellenismus", "Romantik"],
+    "interesting_facts": [
+      {"de": "Der britische Dichter Lord Byron starb 1824 in Missolonghi an Fieber, während er die Griechen unterstützte.", "ru": "Британский поэт лорд Байрон умер в 1824 году в Миссолунги от лихорадки, поддерживая греков."},
+      {"de": "Die Seeschlacht von Navarino (1827), gewonnen von Britain, Frankreich und Russland, entschied den Krieg.", "ru": "Наваринское морское сражение (1827), выигранное Великобританией, Францией и Россией, решило исход войны."},
+      {"de": "Griechenlands Unabhängigkeit war das erste Mal, dass eine Nationalbewegung auf dem Balkan erfolgreich war.", "ru": "Греческая независимость была первым случаем успеха национального движения на Балканах."}
+    ]
+  },
+  {
+    "id": 8280,
+    "question_de": "Was war die politische Bedeutung der Parlamentsreform in Großbritannien (Reform Acts 1832, 1867, 1884)?",
+    "question_ru": "Каково было политическое значение парламентской реформы в Великобритании (реформы 1832, 1867, 1884 годов)?",
+    "correct_answer_de": "Die Reform Acts erweiterten schrittweise das Wahlrecht von wenigen Adeligen auf Mittelschicht und schließlich auf männliche Arbeiter",
+    "correct_answer_ru": "Законы о реформе поэтапно распространили право голоса от немногочисленной знати на средний класс и в итоге на рабочих-мужчин",
+    "wrong_answers_de": [
+      "Die Reform Acts schafften das Parlament ab und ersetzten es durch einen gewählten Premierminister",
+      "Die Reformen gaben Frauen das Wahlrecht in drei Schritten",
+      "Großbritannien führte 1832 als erstes Land das allgemeine Männerwahlrecht ein"
+    ],
+    "wrong_answers_ru": [
+      "Законы о реформе упразднили парламент и заменили его избранным премьер-министром",
+      "Реформы в три этапа предоставили женщинам право голоса",
+      "Великобритания в 1832 году первой ввела всеобщее мужское избирательное право"
+    ],
+    "explanation_de": "Der Reform Act 1832 beseitigte 'rotten boroughs' und gab Industriestädten Sitze. 1867 und 1884 erweiterten das Wahlrecht massiv. 1918 erhielten Frauen das Wahlrecht.",
+    "explanation_ru": "Реформистский акт 1832 года устранил «гнилые местечки» и предоставил промышленным городам места в парламенте. В 1867 и 1884 годах право голоса было значительно расширено. В 1918 году женщины получили право голоса.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1832 CE",
+    "tags": ["Parlamentsreform", "Großbritannien", "Wahlrecht", "Demokratie", "Reform Acts"],
+    "interesting_facts": [
+      {"de": "Vor 1832 hatten 'rotten boroughs' wie Old Sarum (keine Einwohner) Parlamentssitze.", "ru": "До 1832 года «гнилые местечки» вроде Олд-Сарума (ни одного жителя) имели места в парламенте."},
+      {"de": "Manchester und Birmingham hatten vor 1832 trotz ihrer Größe keine Parlamentsvertreter.", "ru": "Манчестер и Бирмингем до 1832 года, несмотря на свои размеры, не имели представителей в парламенте."},
+      {"de": "1884 konnten nach dem Dritten Reform Act 60% aller Männer in Großbritannien wählen.", "ru": "После Третьего закона о реформе 1884 года 60% всех мужчин Великобритании могли голосовать."}
+    ]
+  },
+  {
+    "id": 8281,
+    "question_de": "Was war die historische Bedeutung der Entdeckung der Anästhesie (Narkose) in den 1840er Jahren?",
+    "question_ru": "Каково было историческое значение открытия анестезии (наркоза) в 1840-х годах?",
+    "correct_answer_de": "Die Entdeckung von Ether und Chloroform als Narkosemittel ermöglichte schmerzfreie Operationen und revolutionierte die Chirurgie",
+    "correct_answer_ru": "Открытие эфира и хлороформа как наркозных средств обеспечило безболезненные операции и революционизировало хирургию",
+    "wrong_answers_de": [
+      "Narkose wurde für militärische Operationen entwickelt und erst später in der Medizin eingesetzt",
+      "Die erste Narkose wurde in Deutschland erfunden und sofort weltweit eingesetzt",
+      "Narkose ersetzte Opium, das im 19. Jahrhundert nie als Schmerzmittel benutzt worden war"
+    ],
+    "wrong_answers_ru": [
+      "Наркоз был разработан для военных операций и лишь позже применён в медицине",
+      "Первый наркоз был изобретён в Германии и немедленно применён во всём мире",
+      "Наркоз заменил опиум, который в XIX веке никогда не использовался как болеутоляющее"
+    ],
+    "explanation_de": "William Morton demonstrierte 1846 in Boston die erste Äthernarkose. James Simpson führte 1847 Chloroform in der Geburtshilfe ein. Damit konnten Chirurgen präziser und länger operieren.",
+    "explanation_ru": "В 1846 году Уильям Мортон в Бостоне продемонстрировал первый эфирный наркоз. В 1847 году Джеймс Симпсон ввёл хлороформ в акушерство. Это позволило хирургам оперировать точнее и дольше.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1846 CE",
+    "tags": ["Anästhesie", "Medizin", "Chirurgie", "Morton", "Chloroform"],
+    "interesting_facts": [
+      {"de": "Vor der Narkose mussten Patienten bei Bewusstsein operiert werden – Operationen dauerten Sekunden.", "ru": "До наркоза пациентов оперировали в сознании — операции длились секунды."},
+      {"de": "Königin Victoria ließ sich 1853 bei der Geburt von Prinz Leopold Chloroform geben – und machte es salonfähig.", "ru": "Королева Виктория в 1853 году при рождении принца Леопольда получила хлороформ — и сделала его общепризнанным."},
+      {"de": "Lachgas (N₂O) wurde schon 1800 als 'Lachgas-Partys' von Horace Wells für Zahnextraktionen genutzt.", "ru": "Закись азота (N₂O) уже в 1800 году использовалась Хорасом Уэллсом на «вечеринках с веселящим газом» для удаления зубов."}
+    ]
+  },
+  {
+    "id": 8282,
+    "question_de": "Was war die Bedeutung der Ausdehnung des britischen Imperiums und des Konzepts des 'White Man's Burden'?",
+    "question_ru": "Каково было значение расширения Британской империи и концепции «Бремени белого человека»?",
+    "correct_answer_de": "Es rechtfertigte den Imperialismus als zivilisatorische Mission und verdeckte wirtschaftliche und politische Motive der Kolonisierung",
+    "correct_answer_ru": "Это оправдывало империализм как цивилизаторскую миссию и скрывало экономические и политические мотивы колонизации",
+    "wrong_answers_de": [
+      "Das Konzept war eine Idee, die ausschließlich von Gegnern des Kolonialismus benutzt wurde",
+      "Es bezog sich auf die Verpflichtung britischer Adliger, für arme Menschen in Großbritannien zu sorgen",
+      "Es war ein Programm zur Ausbildung einheimischer Herrscher als Nachfolger britischer Kolonialverwaltungen"
+    ],
+    "wrong_answers_ru": [
+      "Эта концепция была идеей, используемой исключительно противниками колониализма",
+      "Она касалась обязанности британской знати заботиться о бедных в самой Великобритании",
+      "Это была программа подготовки местных правителей в качестве преемников британских колониальных администраций"
+    ],
+    "explanation_de": "Rudyard Kipling prägte den Begriff 'White Man's Burden' (1899). Die Idee, 'unterentwickelte' Völker zu 'zivilisieren', legitimierte die Kolonisierung Asiens, Afrikas und Ozeaniens.",
+    "explanation_ru": "Редьярд Киплинг ввёл термин «Бремя белого человека» (1899). Идея «цивилизовать» «недоразвитые» народы легитимизировала колонизацию Азии, Африки и Океании.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1899 CE",
+    "tags": ["Imperialismus", "White Man's Burden", "Kipling", "Großbritannien", "Kolonialismus"],
+    "interesting_facts": [
+      {"de": "Das British Empire war auf seinem Höhepunkt (1920) mit 35 Mio. km² das größte Reich der Geschichte.", "ru": "На пике своего могущества (1920 год) Британская империя площадью 35 млн км² была крупнейшей империей в истории."},
+      {"de": "Kipling schrieb das Gedicht ursprünglich über die US-Kolonisierung der Philippinen.", "ru": "Киплинг написал стихотворение первоначально об американской колонизации Филиппин."},
+      {"de": "Mark Twain parodierte Kiplings Gedicht als 'The White Man's Burden Has Become the Black Man's Burden'.", "ru": "Марк Твен пародировал стихотворение Киплинга как «Бремя белого человека стало бременем чёрного человека»."}
+    ]
+  },
+  {
+    "id": 8283,
+    "question_de": "Was war die Bedeutung der internationalen Abschaffung des Sklavenhandels im frühen 19. Jahrhundert?",
+    "question_ru": "Каково было значение международной отмены работорговли в начале XIX века?",
+    "correct_answer_de": "Großbritannien verbot den Sklavenhandel 1807 und nutzte seine Seemacht, um ihn international zu bekämpfen, obwohl die Sklaverei in Kolonien fortbestand",
+    "correct_answer_ru": "Великобритания в 1807 году запретила работорговлю и использовала свою морскую мощь для международной борьбы с ней, хотя рабство в колониях продолжалось",
+    "wrong_answers_de": [
+      "Die USA verboten den Sklavenhandel als erstes Land weltweit im Jahr 1776",
+      "Die Abschaffung des Sklavenhandels führte sofort zur Befreiung aller Sklaven weltweit",
+      "Der Vatikan erließ 1800 eine Enzyklika, die den Sklavenhandel für alle Christen verbot"
+    ],
+    "wrong_answers_ru": [
+      "США первыми в мире запретили работорговлю в 1776 году",
+      "Отмена работорговли немедленно привела к освобождению всех рабов во всём мире",
+      "Ватикан в 1800 году издал энциклику, запрещавшую работорговлю для всех христиан"
+    ],
+    "explanation_de": "Großbritannien verbot 1807 den Sklavenhandel (Slave Trade Act). Die Royal Navy patrouillierte Westafrika. Sklaverei selbst wurde erst 1833 in britischen Kolonien, 1865 in den USA abgeschafft.",
+    "explanation_ru": "Великобритания в 1807 году запретила работорговлю (Закон о работорговле). Королевский флот патрулировал Западную Африку. Само рабство было отменено лишь в 1833 году в британских колониях и в 1865 году в США.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1807 CE",
+    "tags": ["Sklavenhandel", "Großbritannien", "Abolitionism", "Royal Navy", "Kolonien"],
+    "interesting_facts": [
+      {"de": "Die britische West Africa Squadron fing von 1808–1860 ca. 1.600 Sklavenschiffe ab und befreite 150.000 Afrikaner.", "ru": "Эскадра западноафриканского флота Великобритании в 1808–1860 годах перехватила около 1600 невольничьих кораблей и освободила 150 000 африканцев."},
+      {"de": "William Wilberforce war der führende Abolitionspolitiker im britischen Parlament.", "ru": "Уильям Уилберфорс был ведущим аболиционистским политиком в британском парламенте."},
+      {"de": "Brasilien, der größte Sklavenimporteur, schaffte die Sklaverei erst 1888 ab.", "ru": "Бразилия, крупнейший импортёр рабов, отменила рабство лишь в 1888 году."}
+    ]
+  },
+  {
+    "id": 8284,
+    "question_de": "Was war die Bedeutung der Hegelschen Geschichtsphilosophie für das politische Denken des 19. Jahrhunderts?",
+    "question_ru": "Каково было значение гегелевской философии истории для политической мысли XIX века?",
+    "correct_answer_de": "Hegel sah Geschichte als dialektischen Fortschritt des Weltgeistes hin zur Freiheit und beeinflusste sowohl konservatives Staatsdenken als auch Marx",
+    "correct_answer_ru": "Гегель рассматривал историю как диалектический прогресс мирового духа к свободе и повлиял как на консервативную государственную мысль, так и на Маркса",
+    "wrong_answers_de": [
+      "Hegels Geschichtsphilosophie lehnte alle Staaten als illegitim ab",
+      "Er entwickelte eine zyklische Geschichtstheorie, die ewige Wiederkehr prophezeite",
+      "Hegels Theorie war rein religiös und sah Geschichte als Gottes Plan"
+    ],
+    "wrong_answers_ru": [
+      "Философия истории Гегеля отвергала все государства как нелегитимные",
+      "Он разработал циклическую теорию истории, пророчествовавшую о вечном возвращении",
+      "Теория Гегеля была сугубо религиозной и рассматривала историю как план Бога"
+    ],
+    "explanation_de": "Hegel sah den preußischen Staat als vorläufige Verkörperung des Weltgeistes. Die 'Junghegelianer' (Marx, Feuerbach) wandten seine Methode gegen Religion und Kapitalismus an.",
+    "explanation_ru": "Гегель видел в прусском государстве предварительное воплощение мирового духа. «Младогегельянцы» (Маркс, Фейербах) применили его метод против религии и капитализма.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1820 CE",
+    "tags": ["Hegel", "Geschichtsphilosophie", "Weltgeist", "Marx", "Dialektik"],
+    "interesting_facts": [
+      {"de": "Hegel sagte, Geschichte ende mit der vollständigen Verwirklichung der Freiheit im Staat.", "ru": "Гегель утверждал, что история завершится полным воплощением свободы в государстве."},
+      {"de": "Francis Fukuyama bezog sich auf Hegel in seiner Theorie vom 'Ende der Geschichte' (1989).", "ru": "Фрэнсис Фукуяма ссылался на Гегеля в своей теории «конца истории» (1989)."},
+      {"de": "Hegels 'Vorlesungen über die Philosophie der Geschichte' wurde posthum aus Mitschriften veröffentlicht.", "ru": "«Лекции по философии истории» Гегеля были опубликованы посмертно по записям слушателей."}
+    ]
+  },
+  {
+    "id": 8285,
+    "question_de": "Was war die Bedeutung der Julirevolution von 1830 in Frankreich?",
+    "question_ru": "Каково было значение Июльской революции 1830 года во Франции?",
+    "correct_answer_de": "Die Revolution stürzte König Karl X. und ersetzte ihn durch den liberalen 'Bürgerkönig' Louis-Philippe, der eine konstitutionelle Monarchie annahm",
+    "correct_answer_ru": "Революция свергла короля Карла X и заменила его либеральным «королём-гражданином» Луи-Филиппом, принявшим конституционную монархию",
+    "wrong_answers_de": [
+      "Die Julirevolution führte zur Gründung der Ersten Französischen Republik",
+      "Karl X. wurde guillotiniert und eine Volksrepublik ausgerufen",
+      "Die Revolution scheiterte und stärkte die absolute Monarchie"
+    ],
+    "wrong_answers_ru": [
+      "Июльская революция привела к созданию Первой Французской республики",
+      "Карл X был гильотинирован и провозглашена народная республика",
+      "Революция потерпела неудачу и укрепила абсолютную монархию"
+    ],
+    "explanation_de": "Karl X. versuchte, die absolutistische Herrschaft wiederherzustellen. Die 'Trois Glorieuses' (27.–29. Juli 1830) stürzten ihn. Louis-Philippe, Sohn des Herzogs von Orléans, wurde konstitutioneller König.",
+    "explanation_ru": "Карл X пытался восстановить абсолютистское правление. «Три славных дня» (27–29 июля 1830 года) его свергли. Луи-Филипп, сын герцога Орлеанского, стал конституционным королём.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1830 CE",
+    "tags": ["Julirevolution", "Frankreich", "Karl X", "Louis-Philippe", "Liberalismus"],
+    "interesting_facts": [
+      {"de": "Eugène Delacroix verewigt die Julirevolution im Gemälde 'Die Freiheit führt das Volk' (1830).", "ru": "Эжен Делакруа увековечил Июльскую революцию в картине «Свобода, ведущая народ» (1830)."},
+      {"de": "Die Revolution von 1830 löste auch in Belgien, Polen und mehreren deutschen Staaten Unruhen aus.", "ru": "Революция 1830 года вызвала также волнения в Бельгии, Польше и ряде германских государств."},
+      {"de": "Victor Hugo setzte die Julirevolution in 'Les Misérables' literarisch um (die Barrikaden 1832).", "ru": "Виктор Гюго художественно осмыслил Июльскую революцию в «Отверженных» (баррикады 1832 года)."}
+    ]
+  },
+  {
+    "id": 8286,
+    "question_de": "Was war die soziale Bedeutung der Great Exhibition von 1851 im Londoner Crystal Palace?",
+    "question_ru": "Каково было социальное значение Великой выставки 1851 года в лондонском Хрустальном дворце?",
+    "correct_answer_de": "Sie präsentierte erstmals industrielle Errungenschaften aus aller Welt und symbolisierte das Selbstbewusstsein der britischen Industrienation",
+    "correct_answer_ru": "Она впервые представила промышленные достижения всего мира и символизировала самосознание британской промышленной нации",
+    "wrong_answers_de": [
+      "Die Ausstellung war eine Friedenskonferenz nach den Revolutionen von 1848",
+      "Sie diente ausschließlich dem Verkauf britischer Kolonialwaren auf dem Weltmarkt",
+      "Die Great Exhibition wurde von Frankreich organisiert und fand in Paris statt"
+    ],
+    "wrong_answers_ru": [
+      "Выставка была мирной конференцией после революций 1848 года",
+      "Она служила исключительно продаже британских колониальных товаров на мировом рынке",
+      "Великая выставка была организована Францией и проходила в Париже"
+    ],
+    "explanation_de": "Prinz Albert organisierte die Great Exhibition (1851) im Crystal Palace (aus Glas und Stahl). 6 Millionen Besucher sahen Exponate aus 44 Ländern. Sie setzte Maßstäbe für Weltausstellungen.",
+    "explanation_ru": "Принц Альберт организовал Великую выставку (1851) в Хрустальном дворце (из стекла и стали). 6 миллионов посетителей осмотрели экспонаты из 44 стран. Она задала стандарты для всемирных выставок.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1851 CE",
+    "tags": ["Great Exhibition", "London", "Crystal Palace", "Industrie", "Albert"],
+    "interesting_facts": [
+      {"de": "Der Crystal Palace war das erste große Gebäude aus vorgefertigten Stahl- und Glas-Elementen.", "ru": "Хрустальный дворец был первым крупным зданием из сборных элементов стали и стекла."},
+      {"de": "Der Überschuss der Ausstellung finanzierte das Victoria and Albert Museum in London.", "ru": "Прибыль выставки финансировала Музей Виктории и Альберта в Лондоне."},
+      {"de": "Der Crystal Palace wurde 1936 durch einen Brand zerstört.", "ru": "Хрустальный дворец был уничтожен пожаром в 1936 году."}
+    ]
+  },
+  {
+    "id": 8287,
+    "question_de": "Was war die Bedeutung der Pariser Kommune von 1871 für die politische Geschichte Europas?",
+    "question_ru": "Каково было значение Парижской коммуны 1871 года для политической истории Европы?",
+    "correct_answer_de": "Die Pariser Kommune war der erste Versuch einer sozialistischen Stadtregierung, die von der Nationalarmee blutig niedergeschlagen wurde",
+    "correct_answer_ru": "Парижская коммуна была первой попыткой социалистического городского самоуправления, жестоко подавленной национальной армией",
+    "wrong_answers_de": [
+      "Die Pariser Kommune war eine moderate liberale Bewegung, die friedlich aufgelöst wurde",
+      "Die Commune wurde von Bismarck als Teil der deutschen Kriegsbeute anerkannt",
+      "Sie dauerte fünf Jahre und wurde erst 1876 durch eine Volksabstimmung beendet"
+    ],
+    "wrong_answers_ru": [
+      "Парижская коммуна была умеренно либеральным движением, мирно распущенным",
+      "Коммуна была признана Бисмарком как часть германских военных трофеев",
+      "Она просуществовала пять лет и была прекращена народным голосованием лишь в 1876 году"
+    ],
+    "explanation_de": "Nach dem Deutsch-Französischen Krieg übernahm 1871 die Pariser Bevölkerung die Macht. Die Commune (März–Mai 1871) trennte Kirche und Staat, führte selbstverwaltete Werkstätten ein. Die 'Semaine Sanglante' tötete 10.000–30.000 Kommunarden.",
+    "explanation_ru": "После Франко-прусской войны жители Парижа в 1871 году взяли власть. Коммуна (март–май 1871) отделила церковь от государства, ввела самоуправляемые мастерские. «Кровавая неделя» унесла жизни 10 000–30 000 коммунаров.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1871 CE",
+    "tags": ["Pariser Kommune", "Frankreich", "Sozialismus", "Revolution", "Arbeiterbewegung"],
+    "interesting_facts": [
+      {"de": "Karl Marx nannte die Commune das erste Beispiel der 'Diktatur des Proletariats'.", "ru": "Карл Маркс назвал Коммуну первым примером «диктатуры пролетариата»."},
+      {"de": "Die Kommunarden verbrannten den Tuilerienpalast – er wurde nie wiederaufgebaut.", "ru": "Коммунары сожгли дворец Тюильри — он так и не был восстановлен."},
+      {"de": "Überlebende Kommunarden wurden deportiert oder hingerichtet; viele flohen ins Ausland.", "ru": "Выжившие коммунары были депортированы или казнены; многие бежали за границу."}
+    ]
+  },
+  {
+    "id": 8288,
+    "question_de": "Was war die Bedeutung der europäischen Mächtebalance (Balance of Power) als Prinzip der Diplomatie?",
+    "question_ru": "Каково было значение европейского равновесия сил (баланса сил) как дипломатического принципа?",
+    "correct_answer_de": "Das Prinzip verhinderte, dass eine Großmacht alle anderen beherrschte, und sicherte relativen Frieden in Europa vom Wiener Kongress bis 1914",
+    "correct_answer_ru": "Принцип предотвращал господство одной великой державы над всеми остальными и обеспечивал относительный мир в Европе от Венского конгресса до 1914 года",
+    "wrong_answers_de": [
+      "Das Prinzip förderte Allianzen gegen Großbritannien, das als Hauptbedrohung galt",
+      "Das Mächtegleichgewicht bedeutete militärische Gleichheit aller europäischen Armeen",
+      "Es war ein formeller Vertrag aller europäischen Mächte zur gemeinsamen Verteidigung"
+    ],
+    "wrong_answers_ru": [
+      "Принцип поощрял союзы против Великобритании, считавшейся главной угрозой",
+      "Равновесие сил означало военное равенство всех европейских армий",
+      "Это был формальный договор всех европейских держав о совместной обороне"
+    ],
+    "explanation_de": "Nach dem Wiener Kongress (1815) sicherten Großmächte durch Allianzen und Konferenzen die Mächtebalance. Großbritannien trat als 'Gleichgewichtshalter' auf und verhinderte Hegemonien.",
+    "explanation_ru": "После Венского конгресса (1815) великие державы поддерживали баланс сил через союзы и конференции. Великобритания выступала «хранителем равновесия» и предотвращала гегемонии.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1815 CE",
+    "tags": ["Mächtebalance", "Diplomatie", "Europa", "Wiener Kongress", "Großmächte"],
+    "interesting_facts": [
+      {"de": "Das Konzept der Balance of Power wurde von Kardinal Wolsey im 16. Jahrhundert formuliert.", "ru": "Концепция баланса сил была сформулирована кардиналом Уолси в XVI веке."},
+      {"de": "Bismarck war Meister der Balance of Power – er hielt fünf Großmächte durch wechselnde Allianzen in Schach.", "ru": "Бисмарк был мастером баланса сил — он удерживал пять великих держав в равновесии сменявшимися союзами."},
+      {"de": "Das System kollabierte 1914, als die Bündnisse die Mächte in den Ersten Weltkrieg zogen.", "ru": "Система рухнула в 1914 году, когда союзы втянули державы в Первую мировую войну."}
+    ]
+  },
+  {
+    "id": 8289,
+    "question_de": "Was war die Bedeutung der ersten transsibirischen Eisenbahn für das Russische Reich?",
+    "question_ru": "Каково было значение первой Транссибирской магистрали для Российской империи?",
+    "correct_answer_de": "Die 1891–1916 gebaute Transsibirische Eisenbahn verband Europa mit dem Pazifik und ermöglichte russische Expansion und Wirtschaftserschließung Sibiriens",
+    "correct_answer_ru": "Транссибирская магистраль, строившаяся в 1891–1916 годах, соединила Европу с Тихим океаном и обеспечила российскую экспансию и экономическое освоение Сибири",
+    "wrong_answers_de": [
+      "Die Eisenbahn wurde hauptsächlich für den Transport von Gefangenen in Strafkolonien gebaut",
+      "Die Transsibirische Bahn verband Moskau mit Konstantinopel für den Orienthandel",
+      "Die Eisenbahn war ein Projekt Chinas, das Russland nach dem Russisch-Japanischen Krieg übernahm"
+    ],
+    "wrong_answers_ru": [
+      "Железная дорога строилась главным образом для перевозки заключённых в каторжные колонии",
+      "Транссибирская магистраль соединяла Москву с Константинополем для торговли с Востоком",
+      "Железная дорога была проектом Китая, который Россия переняла после Русско-японской войны"
+    ],
+    "explanation_de": "Die Transsibirische Eisenbahn (9.289 km) war das längste Bahnprojekt der Geschichte. Zar Alexander III. begann den Bau 1891. Sie ermöglichte Massenbesiedlung Sibiriens und Kriegstransporte.",
+    "explanation_ru": "Транссибирская магистраль (9 289 км) была крупнейшим железнодорожным проектом в истории. Царь Александр III начал строительство в 1891 году. Она открыла возможность массового заселения Сибири и военных перевозок.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1891 CE",
+    "tags": ["Transsibirische Eisenbahn", "Russland", "Sibirien", "Expansion", "Technik"],
+    "interesting_facts": [
+      {"de": "Der Bau beschäftigte über 80.000 Arbeiter, darunter Kriegsgefangene und Häftlinge.", "ru": "Строительство задействовало более 80 000 рабочих, в том числе военнопленных и заключённых."},
+      {"de": "Die Bahn war ein Faktor im Russisch-Japanischen Krieg (1904–05) – Russland transportierte Truppen zu langsam.", "ru": "Магистраль стала фактором Русско-японской войны (1904–05) — Россия слишком медленно перебрасывала войска."},
+      {"de": "Die Fahrt von Moskau nach Wladiwostok dauert heute noch etwa 7 Tage.", "ru": "Поездка из Москвы во Владивосток занимает сегодня около 7 дней."}
+    ]
+  },
+  {
+    "id": 8290,
+    "question_de": "Was war die Bedeutung des Rassenkonzepts im wissenschaftlichen Denken des 19. Jahrhunderts?",
+    "question_ru": "Каково было значение расовой концепции в научном мышлении XIX века?",
+    "correct_answer_de": "Pseudowissenschaftliche Rassentheorien versuchten, soziale Ungleichheit biologisch zu begründen, und lieferten Grundlagen für Kolonialismus und Rassismus",
+    "correct_answer_ru": "Псевдонаучные расовые теории пытались биологически обосновать социальное неравенство и создали основы для колониализма и расизма",
+    "wrong_answers_de": [
+      "Die Rassenkonzepte des 19. Jahrhunderts wurden von der Wissenschaft sofort als unwissenschaftlich abgelehnt",
+      "Rassentheorien wurden ausschließlich in den USA entwickelt, nicht in Europa",
+      "Die Wissenschaft des 19. Jahrhunderts bewies die biologische Gleichheit aller Menschenrassen"
+    ],
+    "wrong_answers_ru": [
+      "Расовые концепции XIX века были немедленно отвергнуты наукой как ненаучные",
+      "Расовые теории разрабатывались исключительно в США, а не в Европе",
+      "Наука XIX века доказала биологическое равенство всех рас человечества"
+    ],
+    "explanation_de": "Gobineau ('Essay on the Inequality of Human Races', 1853) und andere Pseudo-Wissenschaftler vertraten Rassentheorien. Diese wurden später vom Nationalsozialismus missbraucht.",
+    "explanation_ru": "Гобино («Эссе о неравенстве человеческих рас», 1853) и другие псевдоучёные отстаивали расовые теории. Впоследствии они были использованы национал-социализмом.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1853 CE",
+    "tags": ["Rassentheorie", "Pseudowissenschaft", "Kolonialismus", "Gobineau", "Rassismus"],
+    "interesting_facts": [
+      {"de": "Social Darwinismus verband Darwins Evolutionstheorie mit politischen Rassenideen – eine Verfälschung.", "ru": "Социальный дарвинизм соединял эволюционную теорию Дарвина с политическими расовыми идеями — что было её извращением."},
+      {"de": "Darwin selbst lehnte rassistische Interpretationen seiner Theorie ab.", "ru": "Сам Дарвин отвергал расистские интерпретации своей теории."},
+      {"de": "Die Eugenikbewegung entstand im 19. Jahrhundert und propagierte 'Rassenhygiene'.", "ru": "Евгеническое движение возникло в XIX веке и пропагандировало «расовую гигиену»."}
+    ]
+  },
+  {
+    "id": 8291,
+    "question_de": "Was war die Bedeutung des Aufstands der Sepoys in Indien (1857)?",
+    "question_ru": "Каково было значение восстания сипаев в Индии (1857)?",
+    "correct_answer_de": "Der Sepoy-Aufstand führte zur Abschaffung der East India Company und zur direkten britischen Kronherrschaft über Indien",
+    "correct_answer_ru": "Восстание сипаев привело к ликвидации Ост-Индской компании и установлению прямого британского владычества Короны над Индией",
+    "wrong_answers_de": [
+      "Der Aufstand führte zur vollständigen Unabhängigkeit Indiens von Großbritannien",
+      "Der Aufstand scheiterte sofort und hatte keine politischen Konsequenzen",
+      "Die East India Company wurde durch eine indische Selbstverwaltung ersetzt"
+    ],
+    "wrong_answers_ru": [
+      "Восстание привело к полной независимости Индии от Великобритании",
+      "Восстание сразу же потерпело неудачу и не имело политических последствий",
+      "Ост-Индская компания была заменена индийским самоуправлением"
+    ],
+    "explanation_de": "Der Sepoy-Aufstand (1857) begann wegen gerüchteweiser Schweinefett- und Rinderfett-Patronen. Er wurde brutal niedergeschlagen. Großbritannien übernahm die direkte Herrschaft über Indien.",
+    "explanation_ru": "Восстание сипаев (1857) началось из-за слухов о патронах, смазанных свиным и говяжьим жиром. Оно было жестоко подавлено. Великобритания установила прямое господство над Индией.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1857 CE",
+    "tags": ["Sepoy-Aufstand", "Indien", "East India Company", "Kolonialismus", "Großbritannien"],
+    "interesting_facts": [
+      {"de": "In Indien heißt der Aufstand 'Erster Unabhängigkeitskrieg' – in Großbritannien 'Indian Mutiny'.", "ru": "В Индии восстание называется «Первой войной за независимость» — в Великобритании «Индийским мятежом»."},
+      {"de": "Königin Victoria wurde 1876 zur 'Kaiserin von Indien' erklärt.", "ru": "Королева Виктория в 1876 году была провозглашена «императрицей Индии»."},
+      {"de": "Der Aufstand inspirierte spätere indische Nationalbewegungen, besonders Gandhi.", "ru": "Восстание вдохновило последующие индийские национальные движения, в особенности Ганди."}
+    ]
+  },
+  {
+    "id": 8292,
+    "question_de": "Was war die historische Rolle von Friedrich Engels im 19. Jahrhundert?",
+    "question_ru": "Какова была историческая роль Фридриха Энгельса в XIX веке?",
+    "correct_answer_de": "Engels war Marxens engster Mitarbeiter, ko-Autor des Kommunistischen Manifests und Finanzier von Marx aus dem Gewinn seiner Manchesterfabrik",
+    "correct_answer_ru": "Энгельс был ближайшим соратником Маркса, соавтором «Коммунистического манифеста» и финансировал Маркса из прибыли своей манчестерской фабрики",
+    "wrong_answers_de": [
+      "Engels entwickelte eine eigene, von Marx unabhängige Wirtschaftstheorie",
+      "Er war Mitglied des britischen Parlaments und kämpfte für Arbeiterrechte auf parlamentarischem Weg",
+      "Engels war ein russischer Revolutionär, der im Exil in Deutschland lebte"
+    ],
+    "wrong_answers_ru": [
+      "Энгельс разработал собственную, независимую от Маркса экономическую теорию",
+      "Он был членом британского парламента и боролся за права рабочих парламентским путём",
+      "Энгельс был русским революционером, жившим в эмиграции в Германии"
+    ],
+    "explanation_de": "Friedrich Engels (1820–1895) schrieb 'Die Lage der arbeitenden Klasse in England' (1845). Er und Marx schrieben gemeinsam das Manifest. Aus seiner Fabrik in Manchester finanzierte er Marx.",
+    "explanation_ru": "Фридрих Энгельс (1820–1895) написал «Положение рабочего класса в Англии» (1845). Вместе с Марксом они написали Манифест. Из своей фабрики в Манчестере он финансировал Маркса.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1848 CE",
+    "tags": ["Engels", "Marx", "Kommunistisches Manifest", "Arbeiterbewegung", "Manchester"],
+    "interesting_facts": [
+      {"de": "Engels verkleidete sich in England manchmal als Fabrikant, um seinen Ruf als Revolutionär zu verbergen.", "ru": "В Англии Энгельс иногда притворялся фабрикантом, чтобы скрыть репутацию революционера."},
+      {"de": "Nach Marx' Tod (1883) veröffentlichte Engels die Bände 2 und 3 des Kapitals posthum.", "ru": "После смерти Маркса (1883) Энгельс посмертно опубликовал 2-й и 3-й тома «Капитала»."},
+      {"de": "Engels hinterließ sein Vermögen der deutschen Sozialdemokratischen Partei.", "ru": "Энгельс завещал своё состояние германской Социал-демократической партии."}
+    ]
+  },
+  {
+    "id": 8293,
+    "question_de": "Was war die Bedeutung der Erfindung des Dynamits durch Alfred Nobel (1867) und sein späteres Vermächtnis?",
+    "question_ru": "Каково было значение изобретения динамита Альфредом Нобелем (1867) и его последующего завещания?",
+    "correct_answer_de": "Nobel erfand Dynamit für den Bergbau und Straßenbau, und vermachte sein Vermögen zur Schaffung des Nobelpreises aus Schuldgefühlen über militärische Verwendung",
+    "correct_answer_ru": "Нобель изобрёл динамит для горного дела и строительства дорог и завещал своё состояние на создание Нобелевской премии из-за чувства вины за военное применение",
+    "wrong_answers_de": [
+      "Nobel erfand das Schwarzpulver als Ersatz für militärisches Schießpulver",
+      "Er gründete den Nobelpreis zu Lebzeiten und überreichte die erste Auszeichnung selbst",
+      "Nobel war ein Pazifist, der Dynamit ausschließlich für friedliche Zwecke entwickelt hatte"
+    ],
+    "wrong_answers_ru": [
+      "Нобель изобрёл порох как замену военному пороху",
+      "Он основал Нобелевскую премию при жизни и лично вручил первую награду",
+      "Нобель был пацифистом, разработавшим динамит исключительно в мирных целях"
+    ],
+    "explanation_de": "Nobel mischte nitroglycerin mit Kieselgur zu handhabbarem Dynamit. Nachruf 1888 nannte ihn 'Todesfabrikant'. Testamentarisch stiftete er den Nobelpreis (1895), erstmals vergeben 1901.",
+    "explanation_ru": "Нобель смешал нитроглицерин с кизельгуром, получив управляемый динамит. Некролог 1888 года назвал его «торговцем смертью». По завещанию он учредил Нобелевскую премию (1895), впервые врученную в 1901 году.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1867 CE",
+    "tags": ["Nobel", "Dynamit", "Nobelpreis", "Erfindung", "Schweden"],
+    "interesting_facts": [
+      {"de": "Nobel sprach 5 Sprachen und hielt 355 Patente.", "ru": "Нобель говорил на 5 языках и имел 355 патентов."},
+      {"de": "Der erste Friedensnobelpreis ging 1901 an Henri Dunant, Gründer des Roten Kreuzes.", "ru": "Первая Нобелевская премия мира в 1901 году была присуждена Анри Дюнану, основателю Красного Креста."},
+      {"de": "Nobels Bruder Ludvig starb 1888 – der falsche Nekrolog erschien für Alfred.", "ru": "Брат Нобеля Людвиг умер в 1888 году — ошибочный некролог был опубликован на Альфреда."}
+    ]
+  },
+  {
+    "id": 8294,
+    "question_de": "Was war die historische Bedeutung der Entstehung der modernen Naturwissenschaft im 19. Jahrhundert?",
+    "question_ru": "Каково было историческое значение возникновения современного естествознания в XIX веке?",
+    "correct_answer_de": "Das 19. Jahrhundert brachte Durchbrüche in Chemie, Physik und Biologie, die Grundlagen für die technologische Revolution des 20. Jahrhunderts schufen",
+    "correct_answer_ru": "XIX век принёс прорывы в химии, физике и биологии, создавшие основу для технологической революции XX века",
+    "wrong_answers_de": [
+      "Die Naturwissenschaft stagnierte im 19. Jahrhundert, da religiöser Widerstand alle Forschung blockierte",
+      "Das 19. Jahrhundert war geprägt von Philosophie, nicht Naturwissenschaft",
+      "Alle wichtigen naturwissenschaftlichen Entdeckungen wurden erst im 20. Jahrhundert gemacht"
+    ],
+    "wrong_answers_ru": [
+      "Естествознание в XIX веке застаивалось, так как религиозное сопротивление блокировало все исследования",
+      "XIX век был отмечен философией, а не естествознанием",
+      "Все важные естественнонаучные открытия были сделаны лишь в XX веке"
+    ],
+    "explanation_de": "Im 19. Jh.: Mendelejews Periodensystem (1869), Maxwell Elektromagnetismus (1865), Pasteur Keimtheorie (1857–63), Faraday Elektrolyse. Diese bildeten die Basis für Elektrizität, Medizin und Chemie.",
+    "explanation_ru": "В XIX веке: периодическая таблица Менделеева (1869), электромагнетизм Максвелла (1865), теория микробов Пастера (1857–63), электролиз Фарадея. Они стали основой для электричества, медицины и химии.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1860 CE",
+    "tags": ["Naturwissenschaft", "Chemie", "Physik", "Biologie", "Mendelejew"],
+    "interesting_facts": [
+      {"de": "Mendelejews Periodensystem sagte die Existenz noch unentdeckter Elemente korrekt voraus.", "ru": "Периодическая таблица Менделеева правильно предсказала существование ещё не открытых элементов."},
+      {"de": "Louis Pasteur entwickelte auch den Impfstoff gegen Tollwut und Milzbrand.", "ru": "Луи Пастер также разработал вакцины против бешенства и сибирской язвы."},
+      {"de": "Das 19. Jh. begann mit Newton und endete mit Einstein in den Startlöchern.", "ru": "XIX век начался с Ньютона и завершился с Эйнштейном на стартовой позиции."}
+    ]
+  },
+  {
+    "id": 8295,
+    "question_de": "Was war die Bedeutung der sozialen Frage als politisches Problem im 19. Jahrhundert?",
+    "question_ru": "Каково было значение социального вопроса как политической проблемы в XIX веке?",
+    "correct_answer_de": "Die sozialen Missstände der Industrialisierung zwangen Staaten, Schutzgesetze und Sozialreformen einzuführen, um Revolution zu verhindern",
+    "correct_answer_ru": "Социальные язвы индустриализации вынуждали государства вводить защитные законы и социальные реформы, чтобы предотвратить революцию",
+    "wrong_answers_de": [
+      "Die soziale Frage wurde von der Kirche alleine gelöst, ohne staatliche Eingriffe",
+      "Die Industrialisierung verbesserte sofort die Lebensbedingungen aller sozialen Schichten",
+      "Die soziale Frage bezog sich auf die Integration von Einwanderern in Städte"
+    ],
+    "wrong_answers_ru": [
+      "Социальный вопрос был решён церковью в одиночку, без государственного вмешательства",
+      "Индустриализация немедленно улучшила условия жизни всех социальных слоёв",
+      "Социальный вопрос касался интеграции иммигрантов в города"
+    ],
+    "explanation_de": "Die 'soziale Frage' umfasste Armut, Kinderarbeit, Wohnungsnot und 16-Stunden-Arbeitstage. Antworten: Bismarcks Sozialversicherung, Gewerkschaften, Sozialdemokratie, Rerum Novarum.",
+    "explanation_ru": "«Социальный вопрос» охватывал бедность, детский труд, жилищный кризис и 16-часовой рабочий день. Ответы: социальное страхование Бисмарка, профсоюзы, социал-демократия, Rerum Novarum.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1850 CE",
+    "tags": ["Soziale Frage", "Industrialisierung", "Armut", "Sozialreform", "Arbeiterbewegung"],
+    "interesting_facts": [
+      {"de": "In London lebten im 19. Jh. über 100.000 Menschen in Kellerwohnungen ohne Licht und Wasser.", "ru": "В Лондоне в XIX веке более 100 000 человек жили в подвальных квартирах без света и воды."},
+      {"de": "Friedrich Engels dokumentierte 1845 die Lebensbedingungen der Arbeitenden in Manchester.", "ru": "В 1845 году Фридрих Энгельс задокументировал условия жизни рабочих в Манчестере."},
+      {"de": "Der Begriff 'Proletariat' stammt vom lateinischen 'proles' (Nachkommenschaft) – Arme, die nur Kinder produzieren konnten.", "ru": "Термин «пролетариат» происходит от латинского «proles» (потомство) — бедняки, которые могли производить только детей."}
+    ]
+  },
+  {
+    "id": 8296,
+    "question_de": "Was war die Bedeutung der japanischen Meiji-Restauration (1868) im globalen Kontext?",
+    "question_ru": "Каково было значение японской реставрации Мэйдзи (1868) в глобальном контексте?",
+    "correct_answer_de": "Japan modernisierte sich innerhalb einer Generation westlichen Vorbildern folgend zu einer Industrienation und Weltmacht",
+    "correct_answer_ru": "Япония за одно поколение, следуя западным образцам, модернизировалась до уровня промышленной нации и мировой державы",
+    "wrong_answers_de": [
+      "Die Meiji-Restauration war eine konservative Revolution, die traditionelle Feudalstrukturen bewahrte",
+      "Japan wurde erst nach dem Sieg im Zweiten Weltkrieg zur Industrienation",
+      "Die Meiji-Ära führte zur Isolation Japans von der Außenwelt wie unter den Tokugawa"
+    ],
+    "wrong_answers_ru": [
+      "Реставрация Мэйдзи была консервативной революцией, сохранившей традиционные феодальные структуры",
+      "Япония стала промышленной нацией лишь после победы во Второй мировой войне",
+      "Эпоха Мэйдзи привела к изоляции Японии от внешнего мира, как при Токугава"
+    ],
+    "explanation_de": "Die Meiji-Restauration (1868) übernahm westliche Institutionen: konstitutionelle Monarchie, Industrialisierung, moderne Armee. 1905 besiegte Japan Russland – ein Schock für Europa.",
+    "explanation_ru": "Реставрация Мэйдзи (1868) переняла западные институты: конституционную монархию, индустриализацию, современную армию. В 1905 году Япония разгромила Россию — шок для Европы.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1868 CE",
+    "tags": ["Meiji-Restauration", "Japan", "Modernisierung", "Industrialisierung", "Weltmacht"],
+    "interesting_facts": [
+      {"de": "Japan schickte 1871 die Iwakura-Mission in die USA und nach Europa, um Technologie und Institutionen zu studieren.", "ru": "В 1871 году Япония направила миссию Ивакура в США и Европу для изучения технологий и институтов."},
+      {"de": "Japan führte 1889 eine Verfassung ein – orientiert am deutschen Kaiserreich.", "ru": "В 1889 году Япония приняла конституцию, ориентированную на Германскую империю."},
+      {"de": "Innerhalb von 40 Jahren wandelte sich Japan von einem Feudalstaat zur fünftgrößten Seemacht.", "ru": "За 40 лет Япония превратилась из феодального государства в пятую по величине морскую державу."}
+    ]
+  },
+  {
+    "id": 8297,
+    "question_de": "Was war die Bedeutung der Einführung der allgemeinen Wehrpflicht in Preußen/Deutschland?",
+    "question_ru": "Каково было значение введения всеобщей воинской обязанности в Пруссии/Германии?",
+    "correct_answer_de": "Die allgemeine Wehrpflicht schuf Massenheere aus allen Schichten und veränderte die Natur des Krieges grundlegend",
+    "correct_answer_ru": "Всеобщая воинская обязанность создала массовые армии из всех сословий и коренным образом изменила природу войны",
+    "wrong_answers_de": [
+      "Sie wurde eingeführt, um professionelle Berufssoldaten zu ersetzen und Kosten zu sparen",
+      "Die Wehrpflicht galt nur für Adlige und Söhne von Offizieren",
+      "Preußen verzichtete nach 1866 auf die Wehrpflicht und setzte auf Freiwillige"
+    ],
+    "wrong_answers_ru": [
+      "Она была введена для замены профессиональных военных и сокращения расходов",
+      "Воинская обязанность распространялась только на дворян и сыновей офицеров",
+      "Пруссия после 1866 года отказалась от воинской обязанности и сделала ставку на добровольцев"
+    ],
+    "explanation_de": "Preußen führte 1814 als erste moderne Nation die allgemeine Wehrpflicht ein. Die Siege 1866 und 1870/71 zeigten die Überlegenheit des Wehrpflichtssystems. Andere Nationen folgten.",
+    "explanation_ru": "В 1814 году Пруссия как первая современная нация ввела всеобщую воинскую обязанность. Победы 1866 и 1870/71 годов продемонстрировали превосходство системы воинской обязанности. Другие нации последовали этому примеру.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1814 CE",
+    "tags": ["Wehrpflicht", "Preußen", "Militär", "Massenarmee", "Krieg"],
+    "interesting_facts": [
+      {"de": "Die französische Levée en masse (1793) war ein erster Schritt zur Massenmobilisierung.", "ru": "Французская «всеобщая мобилизация» (1793) стала первым шагом к массовому призыву."},
+      {"de": "Preußens Drei-Jahres-Dienst und militärische Ausbildung waren weltberühmt.", "ru": "Трёхлетняя служба и военная подготовка в Пруссии пользовались мировой известностью."},
+      {"de": "Im Ersten Weltkrieg standen sich Massenheere von Millionen gegenüber – ermöglicht durch Wehrpflicht.", "ru": "В Первой мировой войне друг другу противостояли многомиллионные армии — ставшие возможными благодаря воинской обязанности."}
+    ]
+  },
+  {
+    "id": 8298,
+    "question_de": "Was war die historische Bedeutung des Impressionismus als Kunstbewegung im 19. Jahrhundert?",
+    "question_ru": "Каково было историческое значение импрессионизма как художественного движения в XIX веке?",
+    "correct_answer_de": "Impressionisten brachen mit akademischer Malerei, betonten Licht und Augenblick und bereiteten die Moderne Kunst vor",
+    "correct_answer_ru": "Импрессионисты порвали с академической живописью, акцентировали свет и момент и подготовили современное искусство",
+    "wrong_answers_de": [
+      "Impressionismus war eine religiöse Kunstbewegung, die sakrale Szenen mit modernen Mitteln darstellte",
+      "Impressionisten arbeiteten ausschließlich in Nordamerika und wurden erst später in Europa bekannt",
+      "Die Bewegung wurde von der französischen Regierung gegründet und staatlich gefördert"
+    ],
+    "wrong_answers_ru": [
+      "Импрессионизм был религиозным художественным движением, изображавшим сакральные сцены современными средствами",
+      "Импрессионисты работали исключительно в Северной Америке и стали известны в Европе лишь позже",
+      "Движение было основано французским правительством и получало государственную поддержку"
+    ],
+    "explanation_de": "Monet, Renoir, Degas und Pissarro malten 'Eindrücke' von Licht und Natur. Der Name stammt von Monets 'Impression, soleil levant' (1872), zunächst spöttisch gemeint.",
+    "explanation_ru": "Моне, Ренуар, Дега и Писсарро писали «впечатления» от света и природы. Название происходит от «Впечатления. Восходящего солнца» Моне (1872) — первоначально насмешливое.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1874 CE",
+    "tags": ["Impressionismus", "Kunst", "Monet", "Frankreich", "Malerei"],
+    "interesting_facts": [
+      {"de": "Die erste Impressionisten-Ausstellung 1874 in Paris wurde von Kritikern verspottet.", "ru": "Первая выставка импрессионистов в 1874 году в Париже была высмеяна критиками."},
+      {"de": "Monet malte seinen Seerosenteich über 250 Mal in verschiedenem Licht.", "ru": "Моне написал свой пруд с кувшинками более 250 раз при разном освещении."},
+      {"de": "Der Impressionismus beeinflusste direkt den Postimpressionismus (Cézanne, van Gogh) und damit die gesamte Moderne.", "ru": "Импрессионизм непосредственно повлиял на постимпрессионизм (Сезанн, Ван Гог) и тем самым на всё современное искусство."}
+    ]
+  },
+  {
+    "id": 8299,
+    "question_de": "Was war die Bedeutung des Gedankenguts der Aufklärung für das politische Leben im 19. Jahrhundert?",
+    "question_ru": "Каково было значение идей Просвещения для политической жизни в XIX веке?",
+    "correct_answer_de": "Aufklärungsideen wie Volkssouveränität, Gewaltenteilung und Menschenrechte prägten Revolutionen und Verfassungen des 19. Jahrhunderts",
+    "correct_answer_ru": "Идеи Просвещения — народный суверенитет, разделение властей, права человека — формировали революции и конституции XIX века",
+    "wrong_answers_de": [
+      "Die Aufklärung blieb auf akademische Kreise beschränkt und hatte keinen politischen Einfluss",
+      "Aufklärungsideen wurden im 19. Jahrhundert durch Romantik vollständig verdrängt",
+      "Die politischen Ideen des 19. Jahrhunderts stammten ausschließlich aus der Bibel"
+    ],
+    "wrong_answers_ru": [
+      "Просвещение оставалось ограниченным академическими кругами и не имело политического влияния",
+      "Идеи Просвещения в XIX веке были полностью вытеснены романтизмом",
+      "Политические идеи XIX века происходили исключительно из Библии"
+    ],
+    "explanation_de": "Voltaire, Rousseau, Montesquieu und Locke prägten die Revolutionen von 1776, 1789 und 1848. Die Menschenrechtserklärungen und Verfassungen des 19. Jahrhunderts beruhen auf Aufklärungsprinzipien.",
+    "explanation_ru": "Вольтер, Руссо, Монтескьё и Локк формировали революции 1776, 1789 и 1848 годов. Декларации прав человека и конституции XIX века основываются на принципах Просвещения.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1800 CE",
+    "tags": ["Aufklärung", "Philosophie", "Menschenrechte", "Revolution", "Verfassung"],
+    "interesting_facts": [
+      {"de": "Rousseaus 'Gesellschaftsvertrag' (1762) gilt als direkter Vorläufer der Französischen Revolution.", "ru": "«Общественный договор» Руссо (1762) считается непосредственным предшественником Французской революции."},
+      {"de": "Voltaire kämpfte für Pressefreiheit und Religionsfreiheit durch Pamphlete und Satire.", "ru": "Вольтер боролся за свободу прессы и вероисповедания посредством памфлетов и сатиры."},
+      {"de": "Immanuel Kants Essay 'Was ist Aufklärung?' (1784) definierte das Zeitalter: 'Sapere aude' (Wage zu denken).", "ru": "Эссе Иммануила Канта «Что такое Просвещение?» (1784) определило эпоху: «Sapere aude» (Дерзай мыслить)."}
+    ]
+  },
+  {
+    "id": 8300,
+    "question_de": "Was war die historische Bedeutung des Russisch-Japanischen Krieges (1904–05) für die Weltpolitik?",
+    "question_ru": "Каково было историческое значение Русско-японской войны (1904–05) для мировой политики?",
+    "correct_answer_de": "Japan besiegte Russland als erste asiatische Macht eine europäische Großmacht – ein Schock für den europäischen Kolonialismus und die russische Innenpolitik",
+    "correct_answer_ru": "Япония разгромила Россию как первая азиатская держава, победившая европейскую великую державу — шок для европейского колониализма и российской внутренней политики",
+    "wrong_answers_de": [
+      "Russland siegte in dem Krieg und annektierte Korea und die Mandschurei",
+      "Der Krieg endete unentschieden, und beide Seiten verzichteten auf Territorialgewinne",
+      "Der Krieg wurde von den USA nach dem Angriff auf ihre Flotte begonnen"
+    ],
+    "wrong_answers_ru": [
+      "Россия победила в войне и аннексировала Корею и Маньчжурию",
+      "Война закончилась вничью, и обе стороны отказались от территориальных приобретений",
+      "Война была начата США после нападения на их флот"
+    ],
+    "explanation_de": "Japans Sieg bei Tsushima (1905) versenkte die russische Flotte. Präsident Roosevelt vermittelte den Frieden von Portsmouth. Die Niederlage löste die Russische Revolution 1905 aus.",
+    "explanation_ru": "Победа Японии при Цусиме (1905) потопила русский флот. Президент Рузвельт выступил посредником Портсмутского мира. Поражение вызвало Русскую революцию 1905 года.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1905 CE",
+    "tags": ["Russisch-Japanischer Krieg", "Japan", "Russland", "Kolonialismus", "Weltpolitik"],
+    "interesting_facts": [
+      {"de": "Theodore Roosevelt erhielt 1906 den Friedensnobelpreis für seine Vermittlung.", "ru": "Теодор Рузвельт в 1906 году получил Нобелевскую премию мира за своё посредничество."},
+      {"de": "Japan ließ Port Arthur (heute Lüshun) nach einer langen Belagerung fallen – ein Vorgeschmack auf den Grabenkrieg.", "ru": "Япония взяла Порт-Артур (ныне Люйшунь) после долгой осады — предвкушение позиционной войны."},
+      {"de": "Der Krieg zeigte erstmals, dass asiatische Mächte Europäer im modernen Krieg besiegen konnten.", "ru": "Война впервые показала, что азиатские державы способны побеждать европейцев в современной войне."}
+    ]
+  }
+]

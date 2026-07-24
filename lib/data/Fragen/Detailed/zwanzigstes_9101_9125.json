@@ -1,0 +1,727 @@
+[
+  {
+    "id": 9101,
+    "question_de": "Was war der Hauptgrund für den Eintritt der USA in den Zweiten Weltkrieg 1941?",
+    "question_ru": "Какова была главная причина вступления США во Вторую мировую войну в 1941 году?",
+    "correct_answer_de": "Der japanische Angriff auf den US-Marinestützpunkt Pearl Harbor am 7. Dezember 1941",
+    "correct_answer_ru": "Японское нападение на военно-морскую базу США Пёрл-Харбор 7 декабря 1941 года",
+    "wrong_answers_de": [
+      "Die deutsche Versenkung amerikanischer Handelsschiffe im Atlantik",
+      "Die japanische Invasion in den Philippinen",
+      "Die Entdeckung der Konzentrationslager durch amerikanische Geheimdienste"
+    ],
+    "wrong_answers_ru": [
+      "Потопление Германией американских торговых судов в Atlantischen океане",
+      "Японское вторжение на Филиппины",
+      "Обнаружение концентрационных лагерей американской разведкой"
+    ],
+    "explanation_de": "Der Überraschungsangriff auf Pearl Harbor am 7. Dezember 1941 kostete 2.403 Amerikanern das Leben. Am nächsten Tag erklärten die USA Japan den Krieg, wenige Tage später erklärten Deutschland und Italien den USA den Krieg.",
+    "explanation_ru": "Внезапное нападение на Пёрл-Харбор 7 декабря 1941 года унесло жизни 2403 американцев. На следующий день США объявили войну Японии, несколько дней спустя Германия и Италия объявили войну США.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1941 CE",
+    "tags": ["Pearl Harbor", "USA", "Zweiter Weltkrieg", "Japan", "1941"],
+    "interesting_facts": [
+      {"de": "Präsident Roosevelt nannte den 7. Dezember 1941 'a date which will live in infamy'.", "ru": "Президент Рузвельт назвал 7 декабря 1941 года «датой, которая будет жить в позоре»."},
+      {"de": "Japanische Kampfflugzeuge versenkten oder beschädigten 19 US-Kriegsschiffe beim Angriff.", "ru": "Японские боевые самолёты потопили или повредили 19 американских военных кораблей в ходе атаки."},
+      {"de": "Die US-Flugzeugträger waren zum Zeitpunkt des Angriffs zufällig nicht in Pearl Harbor.", "ru": "Американские авианосцы случайно отсутствовали в Пёрл-Харборе во время нападения."}
+    ]
+  },
+  {
+    "id": 9102,
+    "question_de": "Was war der Marshallplan (1948)?",
+    "question_ru": "Что представлял собой план Маршалла (1948)?",
+    "correct_answer_de": "Ein amerikanisches Wirtschaftshilfeprogramm für den Wiederaufbau Westeuropas nach dem Zweiten Weltkrieg",
+    "correct_answer_ru": "Американская программа экономической помощи для восстановления Западной Европы после Второй мировой войны",
+    "wrong_answers_de": [
+      "Ein militärisches Bündnisprogramm zur Verteidigung Europas gegen die Sowjetunion",
+      "Ein Plan zur wirtschaftlichen Integration der europäischen Länder durch eine gemeinsame Währung",
+      "Ein amerikanisches Programm zur Unterstützung der deutschen Wiederaufrüstung"
+    ],
+    "wrong_answers_ru": [
+      "Программа военного союза для защиты Европы от Советского Союза",
+      "План экономической интеграции европейских стран через единую валюту",
+      "Американская программа поддержки германского перевооружения"
+    ],
+    "explanation_de": "Der Europäische Wiederaufbauprogramm (ERP), nach US-Außenminister George Marshall benannt, stellte 1948–52 ca. 13 Milliarden Dollar für den Wiederaufbau Westeuropas bereit und sollte Kommunismus eindämmen.",
+    "explanation_ru": "Европейская программа восстановления (ERP), названная в честь госсекретаря США Джорджа Маршалла, в 1948–52 годах предоставила около 13 миллиардов долларов для восстановления Западной Европы и должна была сдержать коммунизм.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1948 CE",
+    "tags": ["Marshallplan", "USA", "Europa", "Wiederaufbau", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Die Sowjetunion lehnte den Marshallplan für sich und ihre Satellitenstaaten ab.", "ru": "Советский Союз отверг план Маршалла для себя и своих государств-сателлитов."},
+      {"de": "Deutschland erhielt mit ca. 1,4 Milliarden Dollar den drittgrößten Anteil am Marshallplan.", "ru": "Германия получила около 1,4 миллиарда долларов — третью по величине долю в плане Маршалла."},
+      {"de": "George Marshall erhielt 1953 den Nobelfriedenspreis für dieses Programm.", "ru": "Джордж Маршалл получил Нобелевскую премию мира 1953 года за эту программу."}
+    ]
+  },
+  {
+    "id": 9103,
+    "question_de": "Was verstand man unter dem Begriff 'Gulag' in der Sowjetunion?",
+    "question_ru": "Что понималось под термином «ГУЛАГ» в Советском Союзе?",
+    "correct_answer_de": "Ein System von Zwangsarbeitslagern für politische Gefangene und Kriminelle",
+    "correct_answer_ru": "Система лагерей принудительного труда для политических заключённых и уголовников",
+    "wrong_answers_de": [
+      "Die sowjetische Geheimpolizei unter Stalin",
+      "Das staatliche Propagandaministerium der Sowjetunion",
+      "Ein Programm zur Kollektivierung der Landwirtschaft"
+    ],
+    "wrong_answers_ru": [
+      "Советская тайная полиция при Сталине",
+      "Государственное министерство пропаганды Советского Союза",
+      "Программа коллективизации сельского хозяйства"
+    ],
+    "explanation_de": "Der Gulag (Hauptverwaltung der Lager) war ein sowjetisches Netzwerk von Arbeitslagern, in dem Millionen von Menschen unter unmenschlichen Bedingungen arbeiteten und starben, besonders in Stalins Ära.",
+    "explanation_ru": "ГУЛАГ (Главное управление лагерей) представлял собой советскую сеть трудовых лагерей, где миллионы людей работали и погибали в бесчеловечных условиях, особенно в эпоху Сталина.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1930 CE",
+    "tags": ["Gulag", "Stalin", "Sowjetunion", "Zwangsarbeit", "Repression"],
+    "interesting_facts": [
+      {"de": "Schätzungen zufolge wurden zwischen 1918 und 1956 rund 18 Millionen Menschen durch den Gulag geschleust.", "ru": "По оценкам, с 1918 по 1956 год через ГУЛАГ прошли около 18 миллионов человек."},
+      {"de": "Alexander Solschenizyns Buch 'Der Archipel Gulag' (1973) machte das System international bekannt.", "ru": "Книга Александра Солженицына «Архипелаг ГУЛАГ» (1973) сделала систему известной во всём мире."},
+      {"de": "Viele Lager lagen in Sibirien und anderen extremen Klimazonen.", "ru": "Многие лагеря располагались в Сибири и других районах с экстремальным климатом."}
+    ]
+  },
+  {
+    "id": 9104,
+    "question_de": "Was war die Bedeutung der Nürnberger Prozesse (1945–46)?",
+    "question_ru": "Каково было значение Нюрнбергских процессов (1945–46)?",
+    "correct_answer_de": "Sie waren die ersten internationalen Strafverfahren, in denen Kriegsverbrechern für Verbrechen gegen die Menschlichkeit zur Rechenschaft gezogen wurden",
+    "correct_answer_ru": "Они стали первыми международными уголовными процессами, в которых военных преступников привлекли к ответственности за преступления против человечности",
+    "wrong_answers_de": [
+      "Sie regelten die territoriale Neuaufteilung Deutschlands nach dem Krieg",
+      "Sie legten die Grundlage für die Wiedereingliederung Deutschlands in die internationale Gemeinschaft",
+      "Sie entschieden über die Entnazifizierung in der amerikanischen Zone"
+    ],
+    "wrong_answers_ru": [
+      "Они регулировали территориальный передел Германии после войны",
+      "Они заложили основу для реинтеграции Германии в международное сообщество",
+      "Они решили вопросы денацификации в американской зоне"
+    ],
+    "explanation_de": "Die Nürnberger Prozesse (1945–46) des Internationalen Militärtribunals schufen den Präzedenzfall, dass individuelle Verantwortung für Kriegsverbrechen und Verbrechen gegen die Menschlichkeit gilt.",
+    "explanation_ru": "Нюрнбергские процессы (1945–46) Международного военного трибунала создали прецедент индивидуальной ответственности за военные преступления и преступления против человечности.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["Nürnberger Prozesse", "Kriegsverbrecher", "Völkerrecht", "Holocaust", "WWII"],
+    "interesting_facts": [
+      {"de": "12 der 24 angeklagten NS-Hauptkriegsverbrecher wurden zum Tode verurteilt.", "ru": "12 из 24 главных обвиняемых нацистских военных преступников были приговорены к смертной казни."},
+      {"de": "Hermann Göring entzog sich dem Urteil durch Selbstmord kurz vor seiner Hinrichtung.", "ru": "Герман Геринг избежал приговора, совершив самоубийство незадолго до казни."},
+      {"de": "Die Prozesse legten den Grundstein für den Internationalen Strafgerichtshof (ICC) in Den Haag.", "ru": "Процессы заложили основу для Международного уголовного суда (МУС) в Гааге."}
+    ]
+  },
+  {
+    "id": 9105,
+    "question_de": "Was war die Truman-Doktrin von 1947?",
+    "question_ru": "Что представляла собой доктрина Трумэна 1947 года?",
+    "correct_answer_de": "Eine US-Außenpolitik, die kommunistische Ausbreitung weltweit eindämmen wollte ('Containment')",
+    "correct_answer_ru": "Внешняя политика США, направленная на сдерживание распространения коммунизма во всём мире («Containment»)",
+    "wrong_answers_de": [
+      "Ein Programm zur wirtschaftlichen Unterstützung des Nahen Ostens",
+      "Eine Militärdoktrin für den Einsatz von Atomblaffen",
+      "Ein Bündnisvertrag zwischen den USA und Großbritannien"
+    ],
+    "wrong_answers_ru": [
+      "Программа экономической поддержки Ближнего Востока",
+      "Военная доктрина применения атомного оружия",
+      "Союзный договор между США и Великобританией"
+    ],
+    "explanation_de": "Präsident Truman verkündete 1947 vor dem Kongress, die USA würden freie Völker unterstützen, die kommunistischer Unterwerfung widerstehen. Auslöser war die Krise in Griechenland und der Türkei.",
+    "explanation_ru": "В 1947 году президент Трумэн провозгласил перед Конгрессом, что США будут поддерживать свободные народы, противостоящие коммунистическому порабощению. Поводом послужил кризис в Греции и Турции.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1947 CE",
+    "tags": ["Truman-Doktrin", "Containment", "Kalter Krieg", "USA", "Kommunismus"],
+    "interesting_facts": [
+      {"de": "Die USA stellten Griechenland und der Türkei sofort 400 Millionen Dollar zur Verfügung.", "ru": "США немедленно предоставили Греции и Турции 400 миллионов долларов."},
+      {"de": "Die Doktrin war der Beginn der 'Containment-Strategie', die den Kalten Krieg prägte.", "ru": "Доктрина положила начало «стратегии сдерживания», определившей холодную войну."},
+      {"de": "George Kennan, der Architekt des Containments, warnte später vor einer militarisierten Interpretation.", "ru": "Джордж Кеннан, архитектор сдерживания, впоследствии предостерегал от милитаризованной интерпретации этой концепции."}
+    ]
+  },
+  {
+    "id": 9106,
+    "question_de": "Was war die Bedeutung des Zweiten Vatikanischen Konzils (1962–65)?",
+    "question_ru": "Каково было значение Второго Ватиканского собора (1962–65)?",
+    "correct_answer_de": "Es modernisierte die katholische Kirche, führte die Messe in Landessprachen ein und öffnete den Dialog mit anderen Religionen",
+    "correct_answer_ru": "Он модернизировал католическую церковь, ввёл мессу на национальных языках и открыл диалог с другими религиями",
+    "wrong_answers_de": [
+      "Es sprach sich für eine politische Union der christlichen Länder Europas aus",
+      "Es verurteilte den Kommunismus offiziell und rief zur Bekämpfung der Sowjetunion auf",
+      "Es ermöglichte erstmals die Wahl von Frauen zu Priesterinnen"
+    ],
+    "wrong_answers_ru": [
+      "Он высказался за политический союз христианских стран Европы",
+      "Он официально осудил коммунизм и призвал к борьбе с Советским Союзом",
+      "Он впервые открыл возможность для рукоположения женщин в священники"
+    ],
+    "explanation_de": "Das Zweite Vatikanum unter Papst Johannes XXIII. und Paul VI. reformierte Liturgie und Kirchenstruktur, förderte Ökumene und Religionsfreiheit und machte die Kirche moderner.",
+    "explanation_ru": "Второй Ватиканский собор при папах Иоанне XXIII и Павле VI реформировал литургию и структуру церкви, способствовал экуменизму и свободе вероисповедания и сделал церковь более современной.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1962 CE",
+    "tags": ["Vatikanisches Konzil", "Kirche", "Reform", "Ökumene", "Modernisierung"],
+    "interesting_facts": [
+      {"de": "Papst Johannes XXIII. sprach von der Notwendigkeit, die Kirche 'aggiornamento' zu unterziehen – eine Anpassung an die Moderne.", "ru": "Папа Иоанн XXIII говорил о необходимости «аджорнаменто» церкви — приведения её в соответствие с современностью."},
+      {"de": "Das Konzil erklärte, dass die Juden nicht als Volk für den Tod Jesu verantwortlich seien.", "ru": "Собор заявил, что евреи как народ не несут ответственности за смерть Иисуса."},
+      {"de": "Über 2.500 Bischöfe aus aller Welt nahmen an dem Konzil teil.", "ru": "В соборе приняли участие более 2500 епископов со всего мира."}
+    ]
+  },
+  {
+    "id": 9107,
+    "question_de": "Was war die Bedeutung des Atomtests in der Sowjetunion 1949?",
+    "question_ru": "Каково было значение ядерного испытания в Советском Союзе в 1949 году?",
+    "correct_answer_de": "Es beendete das atomare Monopol der USA und intensivierte den nuklearen Rüstungswettlauf",
+    "correct_answer_ru": "Оно положило конец атомной монополии США и усилило ядерную гонку вооружений",
+    "wrong_answers_de": [
+      "Es bewies, dass die Sowjetunion Atomwaffen in Europa stationieren wollte",
+      "Es führte sofort zu einem Abrüstungsabkommen zwischen den USA und der UdSSR",
+      "Es überraschte die USA nicht, da Geheimdienstberichte den Test angekündigt hatten"
+    ],
+    "wrong_answers_ru": [
+      "Оно доказало, что Советский Союз намеревался разместить ядерное оружие в Европе",
+      "Оно немедленно привело к соглашению о разоружении между США и СССР",
+      "Оно не удивило США, поскольку разведывательные доклады заранее предупреждали об испытании"
+    ],
+    "explanation_de": "Der sowjetische Atomtest 'Joe-1' im August 1949 überraschte den Westen und führte zu einer dramatischen Verschärfung des Kalten Krieges und einem beschleunigten nuklearen Rüstungswettlauf.",
+    "explanation_ru": "Советское ядерное испытание «Джо-1» в августе 1949 года застало Запад врасплох и привело к резкому обострению холодной войны и ускорению ядерной гонки вооружений.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1949 CE",
+    "tags": ["Atombombe", "Sowjetunion", "Kalter Krieg", "Rüstungswettlauf", "1949"],
+    "interesting_facts": [
+      {"de": "Die Sowjetunion hatte durch Spione in den USA Informationen über das Manhattan-Projekt erhalten.", "ru": "Советский Союз получил сведения о Манхэттенском проекте через шпионов в США."},
+      {"de": "US-Präsident Truman gab den Test erst Wochen nach seiner Entdeckung öffentlich bekannt.", "ru": "Президент США Трумэн объявил об испытании публично лишь спустя несколько недель после его обнаружения."},
+      {"de": "Der sowjetische Test beschleunigte die Entwicklung der amerikanischen Wasserstoffbombe.", "ru": "Советское испытание ускорило разработку американской водородной бомбы."}
+    ]
+  },
+  {
+    "id": 9108,
+    "question_de": "Was war die politische Bedeutung des Eisernen Vorhangs, den Winston Churchill 1946 beschrieb?",
+    "question_ru": "Каково было политическое значение «железного занавеса», описанного Уинстоном Черчиллем в 1946 году?",
+    "correct_answer_de": "Die ideologische und physische Teilung Europas zwischen kommunistischem Osten und demokratischem Westen",
+    "correct_answer_ru": "Идеологическое и физическое разделение Европы между коммунистическим востоком и демократическим западом",
+    "wrong_answers_de": [
+      "Ein geplanter Befestigungswall entlang der deutsch-polnischen Grenze",
+      "Die britische Bezeichnung für die Berliner Mauer",
+      "Eine diplomatische Initiative zur Trennung von NATO und Warschauer Pakt"
+    ],
+    "wrong_answers_ru": [
+      "Запланированная оборонительная стена вдоль германо-польской границы",
+      "Британское обозначение Берлинской стены",
+      "Дипломатическая инициатива по разделению НАТО и Варшавского договора"
+    ],
+    "explanation_de": "Churchill prägte in seiner Rede in Fulton, Missouri 1946 den Begriff 'Iron Curtain' für die Teilung Europas. Er bezeichnete damit die sowjetische Kontrolle über Osteuropa.",
+    "explanation_ru": "Черчилль ввёл термин «железный занавес» в своей речи в Фултоне, штат Миссури, в 1946 году для обозначения раздела Европы. Он имел в виду советский контроль над Восточной Европой.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1946 CE",
+    "tags": ["Eiserner Vorhang", "Churchill", "Kalter Krieg", "Europa", "Teilung"],
+    "interesting_facts": [
+      {"de": "Churchill hielt seine Rede in Anwesenheit von Präsident Truman, der ihn eingeladen hatte.", "ru": "Черчилль произнёс свою речь в присутствии президента Трумэна, пригласившего его."},
+      {"de": "Der Begriff 'Eiserner Vorhang' wurde von Joseph Goebbels schon 1945 verwendet.", "ru": "Термин «железный занавес» был использован Йозефом Геббельсом ещё в 1945 году."},
+      {"de": "Die Sowjetunion bezeichnete Churchills Rede als 'kriegerische' Hetze gegen den Frieden.", "ru": "Советский Союз назвал речь Черчилля «воинственной» подстрекательством против мира."}
+    ]
+  },
+  {
+    "id": 9109,
+    "question_de": "Was war die Bedeutung des Genozids in Kambodscha unter den Roten Khmer (1975–79)?",
+    "question_ru": "Каково было значение геноцида в Камбодже при красных кхмерах (1975–79)?",
+    "correct_answer_de": "Zwischen 1,5 und 2 Millionen Menschen, etwa ein Viertel der Bevölkerung, wurden getötet",
+    "correct_answer_ru": "От 1,5 до 2 миллионов человек, около четверти населения, были уничтожены",
+    "wrong_answers_de": [
+      "Das Regime ermordete hauptsächlich ethnische Vietnamesen in Kambodscha",
+      "Die Zahl der Opfer beläuft sich auf schätzungsweise 100.000",
+      "Die internationale Gemeinschaft intervenierte 1977 militärisch zur Beendigung des Genozids"
+    ],
+    "wrong_answers_ru": [
+      "Режим уничтожал главным образом этнических вьетнамцев в Камбодже",
+      "Число жертв оценивается приблизительно в 100 000 человек",
+      "Международное сообщество провело военную интервенцию в 1977 году для прекращения геноцида"
+    ],
+    "explanation_de": "Pol Pots Rote Khmer errichteten ein ultramaoistisches Regime in Kambodscha (Kampuchea) und deportierten Städter aufs Land, ermordeten Intellektuelle und ethnische Minderheiten.",
+    "explanation_ru": "Красные кхмеры Пол Пота установили ультрамаоистский режим в Камбодже (Кампучие), депортировали горожан в деревню, уничтожали интеллигенцию и этнические меньшинства.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1975 CE",
+    "tags": ["Kambodscha", "Rote Khmer", "Pol Pot", "Genozid", "Menschenrechte"],
+    "interesting_facts": [
+      {"de": "Das Regime erklärte 1975 zum 'Jahr Null' und wollte die Gesellschaft von Grund auf neu aufbauen.", "ru": "Режим объявил 1975 год «Годом нулём» и стремился построить общество с нуля."},
+      {"de": "Vietnam beendete den Genozid durch eine militärische Invasion im Januar 1979.", "ru": "Вьетнам положил конец геноциду военным вторжением в январе 1979 года."},
+      {"de": "Pol Pot starb 1998 unter Hausarrest, ohne jemals vor einem internationalen Gericht zu erscheinen.", "ru": "Пол Пот умер в 1998 году под домашним арестом, так и не представ перед международным судом."}
+    ]
+  },
+  {
+    "id": 9110,
+    "question_de": "Was war die Bedeutung des Warschauer Aufstands von 1944?",
+    "question_ru": "Каково было значение Варшавского восстания 1944 года?",
+    "correct_answer_de": "Der Versuch der polnischen Heimatarmee, Warschau vor der sowjetischen Besetzung selbst zu befreien",
+    "correct_answer_ru": "Попытка польской Армии Крайовой самостоятельно освободить Варшаву до советской оккупации",
+    "wrong_answers_de": [
+      "Eine Revolte der polnischen Juden im Warschauer Ghetto gegen die SS",
+      "Ein kommunistischer Aufstand gegen die polnische Exilregierung",
+      "Der Widerstand der Warschauer Bevölkerung gegen die erste deutsche Invasion 1939"
+    ],
+    "wrong_answers_ru": [
+      "Восстание польских евреев в Варшавском гетто против СС",
+      "Коммунистическое восстание против польского правительства в изгнании",
+      "Сопротивление жителей Варшавы первому германскому вторжению в 1939 году"
+    ],
+    "explanation_de": "Der Warschauer Aufstand (August–Oktober 1944) der Armia Krajowa scheiterte nach 63 Tagen. Die Wehrmacht zerstörte danach die Stadt fast vollständig, mit ca. 200.000 Todesopfern.",
+    "explanation_ru": "Варшавское восстание (август–октябрь 1944) Армии Крайовой потерпело поражение через 63 дня. После этого вермахт почти полностью разрушил город, число погибших составило около 200 000 человек.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1944 CE",
+    "tags": ["Warschau", "Polen", "Zweiter Weltkrieg", "Aufstand", "Armia Krajowa"],
+    "interesting_facts": [
+      {"de": "Die sowjetische Rote Armee hielt an der Weichsel an und wartete, bis die Deutschen den Aufstand niedergeschlagen hatten.", "ru": "Советская Красная армия остановилась у Вислы и ждала, пока немцы подавят восстание."},
+      {"de": "Der Aufstand sollte von der polnischen Exilregierung in London politisch genutzt werden.", "ru": "Восстание должно было быть использовано в политических целях польским правительством в изгнании в Лондоне."},
+      {"de": "Nach dem Aufstand befahl Hitler, Warschau systematisch Gebäude für Gebäude zu zerstören.", "ru": "После восстания Гитлер приказал систематически уничтожать Варшаву здание за зданием."}
+    ]
+  },
+  {
+    "id": 9111,
+    "question_de": "Was war das Kyoto-Protokoll (1997) und warum war es bedeutsam?",
+    "question_ru": "Что представлял собой Киотский протокол (1997) и почему он был важен?",
+    "correct_answer_de": "Das erste völkerrechtlich verbindliche Abkommen zur Reduzierung von Treibhausgasemissionen",
+    "correct_answer_ru": "Первое международно-правовое обязательное соглашение по сокращению выбросов парниковых газов",
+    "wrong_answers_de": [
+      "Ein Abkommen zur Förderung erneuerbarer Energien in Entwicklungsländern",
+      "Ein Vertrag über die Reduzierung von Atomwaffen",
+      "Eine internationale Vereinbarung zum Schutz der Ozonschicht"
+    ],
+    "wrong_answers_ru": [
+      "Соглашение о содействии развитию возобновляемой энергетики в развивающихся странах",
+      "Договор о сокращении ядерного оружия",
+      "Международное соглашение по защите озонового слоя"
+    ],
+    "explanation_de": "Das Kyoto-Protokoll verpflichtete Industrieländer, Treibhausgasemissionen bis 2012 um durchschnittlich 5,2 % gegenüber 1990 zu senken. Die USA ratifizierten es jedoch nicht.",
+    "explanation_ru": "Киотский протокол обязывал промышленно развитые страны сократить выбросы парниковых газов к 2012 году в среднем на 5,2% по сравнению с 1990 годом. Однако США его не ратифицировали.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1997 CE",
+    "tags": ["Kyoto-Protokoll", "Klimawandel", "Treibhausgase", "Umwelt", "Völkerrecht"],
+    "interesting_facts": [
+      {"de": "Das Kyoto-Protokoll trat erst 2005 in Kraft, nachdem Russland es ratifizierte.", "ru": "Киотский протокол вступил в силу лишь в 2005 году после его ратификации Россией."},
+      {"de": "Kanada trat 2011 aus dem Protokoll aus, um Strafzahlungen zu vermeiden.", "ru": "Канада вышла из протокола в 2011 году, чтобы избежать штрафных выплат."},
+      {"de": "Das Pariser Abkommen von 2015 löste das Kyoto-Protokoll als globaler Klimarahmen ab.", "ru": "Парижское соглашение 2015 года заменило Киотский протокол в качестве глобальной климатической основы."}
+    ]
+  },
+  {
+    "id": 9112,
+    "question_de": "Was war die Bedeutung der chinesischen Kulturrevolution (1966–76)?",
+    "question_ru": "Каково было значение Культурной революции в Китае (1966–76)?",
+    "correct_answer_de": "Mao Zedongs Kampagne zur Zerstörung traditioneller Kultur und zur Vernichtung politischer Gegner",
+    "correct_answer_ru": "Кампания Мао Цзэдуна по уничтожению традиционной культуры и истреблению политических противников",
+    "wrong_answers_de": [
+      "Chinas Modernisierungsprogramm unter dem Einfluss westlicher Demokratiebewegungen",
+      "Eine Reform des Bildungssystems zur Einführung westlicher Wissenschaften",
+      "Der Aufbau eines modernen Industriestaats nach sowjetischem Vorbild"
+    ],
+    "wrong_answers_ru": [
+      "Программа модернизации Китая под влиянием западных демократических движений",
+      "Реформа системы образования для внедрения западных наук",
+      "Строительство современного индустриального государства по советской модели"
+    ],
+    "explanation_de": "Die Kulturrevolution mobilisierte junge 'Rote Garden', um Intellektuelle, Parteifeinde und Überreste der alten Kultur zu vernichten. Schätzungsweise 500.000 bis 2 Millionen Menschen kamen ums Leben.",
+    "explanation_ru": "Культурная революция мобилизовала молодых «красногвардейцев» для уничтожения интеллигенции, врагов партии и остатков старой культуры. По оценкам, погибло от 500 000 до 2 миллионов человек.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1966 CE",
+    "tags": ["Kulturrevolution", "Mao", "China", "Rote Garden", "Kommunismus"],
+    "interesting_facts": [
+      {"de": "Universitäten wurden für mehrere Jahre geschlossen, Millionen von Studenten aufs Land geschickt.", "ru": "Университеты были закрыты на несколько лет, миллионы студентов отправлены в деревню."},
+      {"de": "Bücher, Kunstwerke und religiöse Stätten wurden als 'feudal' oder 'bürgerlich' zerstört.", "ru": "Книги, произведения искусства и религиозные объекты уничтожались как «феодальные» или «буржуазные»."},
+      {"de": "Deng Xiaoping, der spätere Reformer Chinas, wurde zweimal während der Kulturrevolution verfolgt.", "ru": "Дэн Сяопин, будущий реформатор Китая, дважды подвергался преследованиям в ходе Культурной революции."}
+    ]
+  },
+  {
+    "id": 9113,
+    "question_de": "Was war die Bedeutung des Sechstagekriegs 1967 im Nahen Osten?",
+    "question_ru": "Каково было значение Шестидневной войны 1967 года на Ближнем Востоке?",
+    "correct_answer_de": "Israel eroberte in sechs Tagen das Westjordanland, den Gazastreifen, die Sinai-Halbinsel und die Golanhöhen",
+    "correct_answer_ru": "За шесть дней Израиль захватил Западный берег, сектор Газа, Синайский полуостров и Голанские высоты",
+    "wrong_answers_de": [
+      "Die arabischen Staaten besiegten die israelische Armee und besetzten Nordisrael",
+      "Israel und Ägypten schlossen unter amerikanischer Vermittlung einen Friedensvertrag",
+      "Die Vereinten Nationen intervenierten militärisch und stoppten die israelische Offensive"
+    ],
+    "wrong_answers_ru": [
+      "Арабские государства разгромили израильскую армию и оккупировали Северный Израиль",
+      "Израиль и Египет при американском посредничестве заключили мирный договор",
+      "ООН провела военную интервенцию и остановила израильское наступление"
+    ],
+    "explanation_de": "Israel erzielte im Sechstagekrieg (5.–10. Juni 1967) einen überraschenden Sieg über Ägypten, Jordanien und Syrien und verdreifachte sein Territorium. Dies prägte den Nahostkonflikt bis heute.",
+    "explanation_ru": "В Шестидневной войне (5–10 июня 1967 года) Израиль нанёс неожиданное поражение Египту, Иордании и Сирии и утроил свою территорию. Это определило ближневосточный конфликт по сей день.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1967 CE",
+    "tags": ["Sechstagekrieg", "Israel", "Naher Osten", "Palästina", "Arabisch-Israelischer Konflikt"],
+    "interesting_facts": [
+      {"de": "Israel zerstörte die ägyptische Luftwaffe am ersten Kriegstag durch Überraschungsangriffe am Boden.", "ru": "Израиль уничтожил египетские ВВС в первый день войны внезапными ударами по аэродромам."},
+      {"de": "Jerusalem wurde unter israelische Kontrolle gebracht und die Klagemauer erstmals seit 1948 für Juden zugänglich.", "ru": "Иерусалим перешёл под израильский контроль, и Стена плача впервые с 1948 года стала доступна для евреев."},
+      {"de": "Die besetzten Gebiete sind bis heute Kern des israelisch-palästinensischen Konflikts.", "ru": "Оккупированные территории по сей день остаются ядром израильско-палестинского конфликта."}
+    ]
+  },
+  {
+    "id": 9114,
+    "question_de": "Was war die Bedeutung des Mondvertrags (Outer Space Treaty) von 1967?",
+    "question_ru": "Каково было значение Договора о космосе (Outer Space Treaty) 1967 года?",
+    "correct_answer_de": "Er erklärte den Weltraum zum gemeinsamen Erbe der Menschheit und verbot die Stationierung von Atomwaffen im All",
+    "correct_answer_ru": "Он объявил космос общим достоянием человечества и запретил размещение ядерного оружия в космосе",
+    "wrong_answers_de": [
+      "Er regelte die Rechte der Nationen auf Mondressourcen",
+      "Er verbot alle militärischen Operationen im Weltraum vollständig",
+      "Er schuf eine UN-Behörde zur Überwachung der Raumfahrt"
+    ],
+    "wrong_answers_ru": [
+      "Он регулировал права государств на лунные ресурсы",
+      "Он полностью запрещал все военные операции в космосе",
+      "Он создал орган ООН для надзора за космонавтикой"
+    ],
+    "explanation_de": "Der Weltraumvertrag (1967) wurde von den USA, der UdSSR und Großbritannien unterzeichnet und legte die rechtlichen Grundlagen für die friedliche Nutzung des Weltraums.",
+    "explanation_ru": "Договор о космосе (1967) был подписан США, СССР и Великобританией и заложил правовые основы мирного использования космоса.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1967 CE",
+    "tags": ["Weltraumvertrag", "Atomwaffen", "Weltraum", "UNO", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Bis heute haben über 110 Staaten den Outer Space Treaty ratifiziert.", "ru": "На сегодняшний день более 110 государств ратифицировали Договор о космосе."},
+      {"de": "Der Vertrag verbietet die Beanspruchung des Mondes oder anderer Himmelskörper als nationales Territorium.", "ru": "Договор запрещает претендовать на Луну или другие небесные тела как на национальную территорию."},
+      {"de": "Neuere Weltraumabkommen regulieren auch das Problem des Weltraummülls.", "ru": "Более поздние космические соглашения также регулируют проблему космического мусора."}
+    ]
+  },
+  {
+    "id": 9115,
+    "question_de": "Was war die politische Bedeutung der OPEC-Ölkrise von 1973?",
+    "question_ru": "Каково было политическое значение нефтяного кризиса ОПЕК 1973 года?",
+    "correct_answer_de": "Sie zeigte die wirtschaftliche Abhängigkeit des Westens von arabischem Öl und löste eine globale Rezession aus",
+    "correct_answer_ru": "Он показал экономическую зависимость Запада от арабской нефти и спровоцировал глобальную рецессию",
+    "wrong_answers_de": [
+      "Sie führte zur Entdeckung neuer Ölreserven in der Nordsee und Alaska",
+      "Sie zwang die OPEC-Länder zur Senkung der Ölpreise auf internationalen Druck",
+      "Sie veranlasste die USA zur militärischen Besetzung der Ölfelder im Nahen Osten"
+    ],
+    "wrong_answers_ru": [
+      "Он привёл к открытию новых нефтяных месторождений в Северном море и на Аляске",
+      "Он вынудил страны ОПЕК снизить цены на нефть под международным давлением",
+      "Он побудил США к военной оккупации нефтяных месторождений на Ближнем Востоке"
+    ],
+    "explanation_de": "Arabische OPEC-Länder verhängten 1973 nach dem Jom-Kippur-Krieg ein Ölembargo gegen westliche Israel-Unterstützer. Die Ölpreise stiegen um 300 %, was Inflation und Wirtschaftskrise auslöste.",
+    "explanation_ru": "В 1973 году арабские страны ОПЕК после войны Судного дня ввели нефтяное эмбарго против западных сторонников Израиля. Цены на нефть выросли на 300%, что спровоцировало инфляцию и экономический кризис.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1973 CE",
+    "tags": ["OPEC", "Ölkrise", "Naher Osten", "Wirtschaft", "Energiepolitik"],
+    "interesting_facts": [
+      {"de": "In Deutschland wurden sonntagsfahrverbote eingeführt, um Benzin zu sparen.", "ru": "В Германии были введены запреты на езду по воскресеньям для экономии бензина."},
+      {"de": "Die Krise beschleunigte die Suche nach alternativen Energiequellen wie Kernkraft und Solarenergie.", "ru": "Кризис ускорил поиск альтернативных источников энергии — ядерной и солнечной."},
+      {"de": "Die Niederlande, die Israel unterstützten, waren besonders hart vom Embargo betroffen.", "ru": "Нидерланды, поддержавшие Израиль, пострадали от эмбарго особенно сильно."}
+    ]
+  },
+  {
+    "id": 9116,
+    "question_de": "Was war die politische Bedeutung der Nelkenrevolution in Portugal 1974?",
+    "question_ru": "Каково было политическое значение Революции гвоздик в Португалии в 1974 году?",
+    "correct_answer_de": "Ein Militärputsch beendete die faschistische Diktatur Salazars und leitete den Übergang zur Demokratie ein",
+    "correct_answer_ru": "Военный переворот положил конец фашистской диктатуре Салазара и положил начало переходу к демократии",
+    "wrong_answers_de": [
+      "Eine kommunistische Revolution übernahm die Kontrolle über Portugal und führte eine Planwirtschaft ein",
+      "Portugal erklärte sich unabhängig von der NATO und trat dem Warschauer Pakt bei",
+      "Die Nelkenrevolution war ein Volksaufstand gegen die portugiesische Monarchie"
+    ],
+    "wrong_answers_ru": [
+      "Коммунистическая революция взяла под контроль Португалию и ввела плановую экономику",
+      "Португалия объявила о независимости от НАТО и вступила в Варшавский договор",
+      "Революция гвоздик была народным восстанием против португальской монархии"
+    ],
+    "explanation_de": "Die Nelkenrevolution am 25. April 1974 beendete die über 40-jährige Estado-Novo-Diktatur gewaltlos. Nelken wurden zum Symbol, weil Soldaten und Bevölkerung sie in Gewehrläufe steckten.",
+    "explanation_ru": "Революция гвоздик 25 апреля 1974 года мирно положила конец более чем 40-летней диктатуре Estado Novo. Гвоздики стали символом, потому что солдаты и горожане вставляли их в стволы ружей.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1974 CE",
+    "tags": ["Nelkenrevolution", "Portugal", "Demokratie", "Diktatur", "Salazar"],
+    "interesting_facts": [
+      {"de": "Die Revolution begann mit einem verbotenen Lied im Radio als Signal für Militäreinheiten.", "ru": "Революция началась с запрещённой песни по радио — сигнала для воинских частей."},
+      {"de": "Portugal entließ nach der Revolution seine afrikanischen Kolonien in die Unabhängigkeit.", "ru": "После революции Португалия предоставила независимость своим африканским колониям."},
+      {"de": "Portugal trat 1986 der Europäischen Gemeinschaft bei.", "ru": "Португалия вступила в Европейское сообщество в 1986 году."}
+    ]
+  },
+  {
+    "id": 9117,
+    "question_de": "Was verstand man unter dem Begriff 'Glasnost' in der Sowjetunion unter Gorbatschow?",
+    "question_ru": "Что понималось под термином «гласность» в Советском Союзе при Горбачёве?",
+    "correct_answer_de": "Eine Politik der Offenheit und Transparenz, die freiere Meinungsäußerung und Medienkritik erlaubte",
+    "correct_answer_ru": "Политика открытости и прозрачности, позволявшая более свободное высказывание мнений и критику в СМИ",
+    "wrong_answers_de": [
+      "Ein Wirtschaftsreformprogramm zur Dezentralisierung der sowjetischen Planwirtschaft",
+      "Eine außenpolitische Initiative zur Annäherung an den Westen durch Abrüstung",
+      "Eine Kampagne zur Bekämpfung von Alkoholismus in der Sowjetunion"
+    ],
+    "wrong_answers_ru": [
+      "Программа экономических реформ по децентрализации советской плановой экономики",
+      "Внешнеполитическая инициатива по сближению с Западом через разоружение",
+      "Кампания по борьбе с алкоголизмом в Советском Союзе"
+    ],
+    "explanation_de": "Glasnost (Offenheit) war Gorbatschows Politik ab 1985, die Zensur zu lockern und die sowjetische Geschichte offen zu diskutieren – auch Stalins Verbrechen. Sie war Teil der Perestroika-Reformen.",
+    "explanation_ru": "Гласность (открытость) — политика Горбачёва с 1985 года по ослаблению цензуры и открытому обсуждению советской истории, включая преступления Сталина. Она была частью реформ перестройки.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1985 CE",
+    "tags": ["Glasnost", "Gorbatschow", "Sowjetunion", "Perestroika", "Reformen"],
+    "interesting_facts": [
+      {"de": "Glasnost führte zu einer Flut von Büchern und Filmen, die die sowjetische Geschichte kritisch beleuchteten.", "ru": "Гласность привела к потоку книг и фильмов, критически освещавших советскую историю."},
+      {"de": "Gorbatschow ermöglichte erstmals offene Berichterstattung über den Tschernobyl-Unfall 1986.", "ru": "Горбачёв впервые разрешил открытые репортажи о чернобыльской катастрофе 1986 года."},
+      {"de": "Glasnost war ursprünglich als kontrollierte Reform geplant, führte aber zu unkontrollierbarer gesellschaftlicher Dynamik.", "ru": "Гласность изначально задумывалась как управляемая реформа, однако привела к неуправляемой общественной динамике."}
+    ]
+  },
+  {
+    "id": 9118,
+    "question_de": "Was war die Bedeutung des Atomwaffensperrvertrags (NPT) von 1968?",
+    "question_ru": "Каково было значение Договора о нераспространении ядерного оружия (ДНЯО) 1968 года?",
+    "correct_answer_de": "Er verpflichtete Nicht-Atomstaaten auf den Verzicht auf Atomwaffen und die Atommächte zur Abrüstung",
+    "correct_answer_ru": "Он обязывал безъядерные государства отказаться от ядерного оружия, а ядерные державы — к разоружению",
+    "wrong_answers_de": [
+      "Er verbot den Bau und Test von Atomwaffen in allen Unterzeichnerstaaten",
+      "Er schuf eine internationale Atompolizei zur Überwachung aller Anlagen",
+      "Er verpflichtete alle Nationen, ihre Atomprogramme offenzulegen"
+    ],
+    "wrong_answers_ru": [
+      "Он запрещал строительство и испытание ядерного оружия во всех государствах-подписантах",
+      "Он создавал международную атомную полицию для контроля над всеми объектами",
+      "Он обязывал все государства раскрыть свои ядерные программы"
+    ],
+    "explanation_de": "Der NPT (1968) unterscheidet zwischen Atomwaffenstaaten (USA, UdSSR, UK, Frankreich, China) und Nicht-Atomwaffenstaaten. Er ist das Fundament des internationalen Nichtverbreitungsregimes.",
+    "explanation_ru": "ДНЯО (1968) разграничивает ядерные государства (США, СССР, Великобритания, Франция, Китай) и безъядерные. Он является основой международного режима нераспространения.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1968 CE",
+    "tags": ["Atomwaffensperrvertrag", "NPT", "Abrüstung", "Kalter Krieg", "Nichtverbreitung"],
+    "interesting_facts": [
+      {"de": "Indien, Pakistan und Israel sind nicht dem NPT beigetreten und besitzen Atomwaffen.", "ru": "Индия, Пакистан и Израиль не присоединились к ДНЯО и обладают ядерным оружием."},
+      {"de": "Nordkorea trat 2003 aus dem NPT aus und entwickelte seither Atomwaffen.", "ru": "Северная Корея вышла из ДНЯО в 2003 году и с тех пор разрабатывает ядерное оружие."},
+      {"de": "Der NPT wird alle fünf Jahre in einer Überprüfungskonferenz evaluiert.", "ru": "ДНЯО оценивается каждые пять лет на обзорной конференции."}
+    ]
+  },
+  {
+    "id": 9119,
+    "question_de": "Was war die Bedeutung des Aufstands in Ungarn 1956?",
+    "question_ru": "Каково было значение восстания в Венгрии в 1956 году?",
+    "correct_answer_de": "Ein Volksaufstand gegen die kommunistische Herrschaft, der von sowjetischen Truppen blutig niedergeschlagen wurde",
+    "correct_answer_ru": "Народное восстание против коммунистического режима, жестоко подавленное советскими войсками",
+    "wrong_answers_de": [
+      "Ein Militärputsch ungarischer Offiziere gegen die pro-sowjetische Regierung",
+      "Ein erfolgreicher Volksaufstand, der zur Unabhängigkeit Ungarns führte",
+      "Ein kommunistischer Aufstand gegen die nationalistische Regierung Horthy"
+    ],
+    "wrong_answers_ru": [
+      "Военный переворот венгерских офицеров против просоветского правительства",
+      "Успешное народное восстание, приведшее к независимости Венгрии",
+      "Коммунистическое восстание против националистического правительства Хорти"
+    ],
+    "explanation_de": "Der Ungarische Volksaufstand im Oktober 1956 begann als Studentenproteste und weitete sich aus. Die Sowjetunion marschierte ein, tötete Tausende und setzte eine linientreue Regierung ein.",
+    "explanation_ru": "Венгерское народное восстание в октябре 1956 года началось как студенческие протесты и расширилось. Советский Союз вторгся, убил тысячи людей и установил лояльное правительство.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1956 CE",
+    "tags": ["Ungarn", "1956", "Sowjetunion", "Aufstand", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Über 200.000 Ungarn flohen nach dem Aufstand als Flüchtlinge in den Westen.", "ru": "После восстания более 200 000 венгров бежали на Запад как беженцы."},
+      {"de": "Der westliche Rundfunk Radio Free Europe hatte den Ungarn fälschlicherweise westliche Hilfe versprochen.", "ru": "Западное радио «Свободная Европа» ошибочно обещало венграм западную помощь."},
+      {"de": "Imre Nagy, der Reformkommunist, der den Aufstand unterstützte, wurde 1958 hingerichtet.", "ru": "Имре Надь, коммунист-реформатор, поддержавший восстание, был казнён в 1958 году."}
+    ]
+  },
+  {
+    "id": 9120,
+    "question_de": "Was war das Ziel des Apollo-Programms der NASA (1961–1972)?",
+    "question_ru": "Какова была цель программы NASA «Аполлон» (1961–1972)?",
+    "correct_answer_de": "Amerikanische Astronauten auf dem Mond zu landen und sicher zur Erde zurückzubringen",
+    "correct_answer_ru": "Высадить американских астронавтов на Луну и безопасно вернуть их на Землю",
+    "wrong_answers_de": [
+      "Eine permanente Raumstation im Erdorbit zu errichten",
+      "Den Mars mit unbemannten Sonden zu erkunden",
+      "Die sowjetische Raumstation Mir zu überholen"
+    ],
+    "wrong_answers_ru": [
+      "Создать постоянную космическую станцию на орбите Земли",
+      "Исследовать Марс с помощью беспилотных зондов",
+      "Превзойти советскую космическую станцию «Мир»"
+    ],
+    "explanation_de": "Präsident Kennedy rief 1961 das Apollo-Programm aus. Am 20. Juli 1969 landeten Neil Armstrong und Buzz Aldrin auf dem Mond. Insgesamt 12 Astronauten gingen bis 1972 auf dem Mond spazieren.",
+    "explanation_ru": "В 1961 году президент Кеннеди объявил о программе «Аполлон». 20 июля 1969 года Нил Армстронг и Базз Олдрин высадились на Луну. В общей сложности 12 астронавтов побывали на Луне до 1972 года.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1969 CE",
+    "tags": ["Apollo", "NASA", "Mondlandung", "Armstrong", "Raumfahrt"],
+    "interesting_facts": [
+      {"de": "Das Apollo-Programm kostete schätzungsweise 25 Milliarden Dollar (ca. 170 Milliarden in heutigem Wert).", "ru": "Программа «Аполлон» обошлась примерно в 25 миллиардов долларов (около 170 миллиардов в нынешних ценах)."},
+      {"de": "Die Mondsteine, die Astronauten mitbrachten, werden noch heute von Wissenschaftlern erforscht.", "ru": "Лунные камни, привезённые астронавтами, по сей день исследуются учёными."},
+      {"de": "Die Mission Apollo 13 (1970) musste wegen einer Explosion abgebrochen werden, alle drei Astronauten überlebten.", "ru": "Миссия «Аполлон-13» (1970) была прервана из-за взрыва, все трое астронавтов выжили."}
+    ]
+  },
+  {
+    "id": 9121,
+    "question_de": "Was war die Bedeutung des SALT-Abkommens (1972) zwischen den USA und der Sowjetunion?",
+    "question_ru": "Каково было значение соглашения ОСВ (1972) между США и Советским Союзом?",
+    "correct_answer_de": "Das erste Abkommen zur Begrenzung strategischer Atomwaffen und Interkontinentalraketen",
+    "correct_answer_ru": "Первое соглашение об ограничении стратегических ядерных вооружений и межконтинентальных ракет",
+    "wrong_answers_de": [
+      "Ein Vertrag zum vollständigen Verzicht auf Atomwaffen durch beide Supermächte",
+      "Ein Abkommen über die gemeinsame Nutzung von Weltraumtechnologie",
+      "Ein Handelsvertrag zur Normalisierung der wirtschaftlichen Beziehungen"
+    ],
+    "wrong_answers_ru": [
+      "Договор о полном отказе от ядерного оружия обеими сверхдержавами",
+      "Соглашение о совместном использовании космических технологий",
+      "Торговый договор о нормализации экономических отношений"
+    ],
+    "explanation_de": "SALT I (Strategic Arms Limitation Talks) wurde 1972 von Nixon und Breschnew in Moskau unterzeichnet und begrenzte erstmals die Zahl der Interkontinentalraketen beider Seiten.",
+    "explanation_ru": "ОСВ-1 (Переговоры об ограничении стратегических вооружений) был подписан в 1972 году Никсоном и Брежневым в Москве и впервые ограничил количество межконтинентальных ракет обеих сторон.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1972 CE",
+    "tags": ["SALT", "Abrüstung", "USA", "Sowjetunion", "Atomwaffen"],
+    "interesting_facts": [
+      {"de": "SALT I entstand im Kontext der Entspannungspolitik (Détente) zwischen den USA und der Sowjetunion.", "ru": "ОСВ-1 возник в контексте политики разрядки (détente) между США и Советским Союзом."},
+      {"de": "SALT II von 1979 wurde vom US-Senat nach dem sowjetischen Einmarsch in Afghanistan nicht ratifiziert.", "ru": "ОСВ-2 1979 года не был ратифицирован Сенатом США после советского вторжения в Афганистан."},
+      {"de": "Die SALT-Verhandlungen führten zu weiteren START-Verträgen in den 1990er Jahren.", "ru": "Переговоры по ОСВ привели к заключению договоров СНВ в 1990-х годах."}
+    ]
+  },
+  {
+    "id": 9122,
+    "question_de": "Was war die Bedeutung der Watergate-Affäre (1972–74) in den USA?",
+    "question_ru": "Каково было значение Уотергейтского скандала (1972–74) в США?",
+    "correct_answer_de": "Ein politischer Skandal, der zur Vertuschung eines Einbruchs führte und den Rücktritt von Präsident Nixon erzwang",
+    "correct_answer_ru": "Политический скандал, связанный с сокрытием взлома, который вынудил президента Никсона уйти в отставку",
+    "wrong_answers_de": [
+      "Ein Korruptionsskandal im Pentagon über geheime Rüstungsverträge",
+      "Die Enthüllung von CIA-Operationen in Lateinamerika durch Nixon",
+      "Ein Bankskandal, der zu einer Wirtschaftskrise in den USA führte"
+    ],
+    "wrong_answers_ru": [
+      "Коррупционный скандал в Пентагоне о тайных оружейных контрактах",
+      "Разоблачение операций ЦРУ в Латинской Америке при Никсоне",
+      "Банковский скандал, приведший к экономическому кризису в США"
+    ],
+    "explanation_de": "Beim Watergate-Skandal wurden Nixons Wahlkampfhelfer beim Einbruch in die Zentrale der Demokraten erwischt. Nixon versuchte, die Affäre zu vertuschen und trat 1974 als erster US-Präsident zurück.",
+    "explanation_ru": "В ходе Уотергейтского скандала помощники Никсона по избирательной кампании были пойманы при взломе штаба демократов. Никсон попытался скрыть произошедшее и в 1974 году стал первым президентом США, ушедшим в отставку.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1972 CE",
+    "tags": ["Watergate", "Nixon", "USA", "Skandal", "Demokratie"],
+    "interesting_facts": [
+      {"de": "Der Name 'Watergate' stammt von dem Washingtoner Bürokomplex, in den eingebrochen wurde.", "ru": "Название «Уотергейт» происходит от вашингтонского офисного комплекса, куда был совершён взлом."},
+      {"de": "Zwei Journalisten der Washington Post, Woodward und Bernstein, deckten den Skandal auf.", "ru": "Двое журналистов Washington Post — Вудворд и Бернстайн — раскрыли скандал."},
+      {"de": "Die Tonbandaufnahmen aus dem Oval Office lieferten den entscheidenden Beweis gegen Nixon.", "ru": "Магнитофонные записи из Овального кабинета стали решающим доказательством против Никсона."}
+    ]
+  },
+  {
+    "id": 9123,
+    "question_de": "Was war die Bedeutung der iranischen Revolution 1979?",
+    "question_ru": "Каково было значение Иранской революции 1979 года?",
+    "correct_answer_de": "Sie stürzte den pro-westlichen Schah und errichtete eine islamische Republik unter Ayatollah Khomeini",
+    "correct_answer_ru": "Она свергла прозападного шаха и установила исламскую республику под руководством аятоллы Хомейни",
+    "wrong_answers_de": [
+      "Eine sozialistische Revolution, die die Ölfelder des Iran verstaatlichte",
+      "Ein Militärputsch, der die Demokratie im Iran beendete",
+      "Eine pro-sowjetische Revolution, die den Iran in das kommunistische Lager brachte"
+    ],
+    "wrong_answers_ru": [
+      "Социалистическая революция, национализировавшая нефтяные месторождения Ирана",
+      "Военный переворот, положивший конец демократии в Иране",
+      "Просоветская революция, перетянувшая Иран на сторону коммунистического лагеря"
+    ],
+    "explanation_de": "Die Islamische Revolution 1979 beendete die Herrschaft von Schah Mohammad Reza Pahlavi und errichtete unter Ayatollah Khomeini die erste Islamische Republik der Welt.",
+    "explanation_ru": "Исламская революция 1979 года положила конец власти шаха Мохаммада Реза Пехлеви и под руководством аятоллы Хомейни установила первую в мире Исламскую Республику.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1979 CE",
+    "tags": ["Iran", "Islamische Revolution", "Khomeini", "Schah", "Naher Osten"],
+    "interesting_facts": [
+      {"de": "Iranische Studenten besetzten 1979 die US-Botschaft in Teheran und hielten 52 Amerikaner 444 Tage lang gefangen.", "ru": "В 1979 году иранские студенты захватили посольство США в Тегеране и удерживали 52 американца в заложниках 444 дня."},
+      {"de": "Der Schah hatte durch seine Modernisierungsreformen (Weiße Revolution) viele traditionelle Iraner gegen sich aufgebracht.", "ru": "Шах восстановил против себя многих традиционных иранцев своими реформами модернизации («Белая революция»)."},
+      {"de": "Die Revolution führte zum Iran-Irak-Krieg (1980–88) und veränderte den gesamten Nahen Osten.", "ru": "Революция привела к ирано-иракской войне (1980–88) и изменила весь Ближний Восток."}
+    ]
+  },
+  {
+    "id": 9124,
+    "question_de": "Was war die politische Bedeutung des Maastricht-Vertrags von 1992?",
+    "question_ru": "Каково было политическое значение Маастрихтского договора 1992 года?",
+    "correct_answer_de": "Er gründete die Europäische Union und legte den Grundstein für die gemeinsame Währung (Euro)",
+    "correct_answer_ru": "Он основал Европейский союз и заложил основу для единой валюты (евро)",
+    "wrong_answers_de": [
+      "Er schuf das militärische Bündnis der Europäischen Verteidigungsgemeinschaft",
+      "Er erweiterte die EU um die ehemaligen Ostblockstaaten",
+      "Er schaffte die Binnengrenzen in Europa durch das Schengen-Abkommen ab"
+    ],
+    "wrong_answers_ru": [
+      "Он создал военный союз Европейского оборонного сообщества",
+      "Он расширил ЕС за счёт бывших стран Восточного блока",
+      "Он упразднил внутренние границы в Европе посредством Шенгенского соглашения"
+    ],
+    "explanation_de": "Der Maastricht-Vertrag (1992) schuf die Europäische Union aus der EG und legte drei 'Säulen' fest: Europäische Gemeinschaften, Gemeinsame Außen- und Sicherheitspolitik und Justiz-Zusammenarbeit.",
+    "explanation_ru": "Маастрихтский договор (1992) создал Европейский союз на основе ЕС и установил три «столпа»: Европейские сообщества, Общую внешнюю политику и политику безопасности, а также сотрудничество в области правосудия.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1992 CE",
+    "tags": ["Maastricht", "Europäische Union", "Euro", "Integration", "Europa"],
+    "interesting_facts": [
+      {"de": "Dänemark lehnte den Maastricht-Vertrag zunächst in einem Referendum ab und stimmte erst 1993 nach Nachverhandlungen zu.", "ru": "Дания первоначально отвергла Маастрихтский договор на референдуме и согласилась лишь в 1993 году после дополнительных переговоров."},
+      {"de": "Der Euro wurde am 1. Januar 2002 als Bargeld eingeführt.", "ru": "Евро было введено в наличное обращение 1 января 2002 года."},
+      {"de": "Der Maastricht-Vertrag führte das Konzept der 'Unionsbürgerschaft' ein.", "ru": "Маастрихтский договор ввёл концепцию «гражданства Союза»."}
+    ]
+  },
+  {
+    "id": 9125,
+    "question_de": "Was war die Bedeutung des Genoms-Projekts (Human Genome Project), abgeschlossen 2003?",
+    "question_ru": "Каково было значение Проекта «Геном человека», завершённого в 2003 году?",
+    "correct_answer_de": "Die vollständige Entschlüsselung der menschlichen DNA mit etwa 3 Milliarden Basenpaaren",
+    "correct_answer_ru": "Полная расшифровка ДНК человека с примерно 3 миллиардами пар оснований",
+    "wrong_answers_de": [
+      "Die Entwicklung von genetisch veränderten Pflanzen zur Lösung des Welthungers",
+      "Die Entdeckung der Doppelhelix-Struktur der DNA",
+      "Die Schaffung eines Registers aller genetischen Krankheiten der Menschheit"
+    ],
+    "wrong_answers_ru": [
+      "Разработка генетически модифицированных растений для решения проблемы мирового голода",
+      "Открытие двойной спирали структуры ДНК",
+      "Создание реестра всех генетических заболеваний человечества"
+    ],
+    "explanation_de": "Das Human Genome Project, ein internationales Forschungskonsortium, sequenzierte das vollständige menschliche Erbgut. Dies revolutionierte Medizin, Biologie und das Verständnis menschlicher Krankheiten.",
+    "explanation_ru": "Проект «Геном человека» — международный исследовательский консорциум — секвенировал полный геном человека. Это произвело революцию в медицине, биологии и понимании заболеваний человека.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2003 CE",
+    "tags": ["Genom", "DNA", "Biotechnologie", "Medizin", "Wissenschaft"],
+    "interesting_facts": [
+      {"de": "Das Projekt begann 1990 und wurde 13 Jahre früher als geplant fertiggestellt.", "ru": "Проект начался в 1990 году и был завершён на 13 лет раньше запланированного срока."},
+      {"de": "Parallel dazu sequenzierte das private Unternehmen Celera Genomics das Genom im Wettbewerb.", "ru": "Параллельно частная компания Celera Genomics в условиях конкуренции секвенировала геном."},
+      {"de": "Das Projekt zeigte, dass Menschen zu 99,9 % genetisch identisch sind.", "ru": "Проект показал, что люди на 99,9% генетически идентичны."}
+    ]
+  }
+]

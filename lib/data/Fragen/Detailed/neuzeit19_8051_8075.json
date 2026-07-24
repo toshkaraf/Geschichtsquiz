@@ -1,0 +1,752 @@
+[
+  {
+    "id": 8051,
+    "question_de": "Was war der Österreichisch-Preußische Krieg (1866) und was entschied er?",
+    "question_ru": "Что такое Австро-прусская война (1866) и что она решила?",
+    "correct_answer_de": "Preußen besiegte Österreich in 7 Wochen – Österreich schied aus Deutschland aus, Preußen übernahm die Führung",
+    "correct_answer_ru": "Пруссия победила Австрию за 7 недель — Австрия вышла из германского союза, Пруссия взяла на себя лидерство",
+    "wrong_answers_de": ["Österreich besiegte Preußen und übernahm die Führung im Deutschen Bund", "Ein unentschiedener Krieg, der im Prager Frieden mit Gebietsaustausch endete", "Bismarck und Kaiser Franz Joseph einigten sich auf ein Österreich-Preußen-Bündnis"],
+    "wrong_answers_ru": ["Австрия победила Пруссию и взяла на себя руководство в Германском союзе", "Нерешительная война, завершившаяся Пражским миром с обменом территориями", "Бисмарк и кайзер Франц Иосиф договорились об австро-прусском союзе"],
+    "explanation_de": "Der 'Deutsche Dualismus' (Österreich vs. Preußen) wurde entschieden. Bismarck nutzte den Streit um Schleswig-Holstein als Vorwand. In der Entscheidungsschlacht bei Königgrätz siegte Preußen durch modernere Hinterladerbüchsen. Österreich wurde aus der deutschen Einigung ausgeschlossen.",
+    "explanation_ru": "«Германский дуализм» (Австрия против Пруссии) был решён. Бисмарк использовал спор из-за Шлезвиг-Гольштейна как предлог. В решающей битве при Кёниггреце Пруссия победила благодаря более современным казнозарядным ружьям. Австрия была исключена из германского объединения.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1866 CE",
+    "tags": ["Krieg", "Deutschland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Der Krieg dauerte nur 7 Wochen – daher auch 'Sieben-Wochen-Krieg' oder 'Blitzkrieg' des 19. Jahrhunderts genannt.",
+        "ru": "Война длилась всего 7 недель — потому её также называют «семинедельной войной» или «блицкригом» XIX века."
+      },
+      {
+        "de": "Bismarck überredete König Wilhelm I. zu milden Friedensbedingungen – um Österreich nicht zu erniedrigen.",
+        "ru": "Бисмарк уговорил короля Вильгельма I на мягкие условия мира — чтобы не унижать Австрию."
+      },
+      {
+        "de": "Italien war Preußens Verbündeter und erhielt als Belohnung Venetien – das letzte große Territorium außerhalb Piemont.",
+        "ru": "Италия была союзником Пруссии и получила в награду Венецию — последнюю крупную территорию вне Пьемонта."
+      }
+    ]
+  },
+  {
+    "id": 8052,
+    "question_de": "Was war der Naturalismus in der Kunst und Literatur des späten 19. Jahrhunderts?",
+    "question_ru": "Что такое натурализм в искусстве и литературе конца XIX века?",
+    "correct_answer_de": "Eine noch radikalere Form des Realismus – das Elend der Unterschichten wurde ungeschönt und wissenschaftlich dargestellt",
+    "correct_answer_ru": "Ещё более радикальная форма реализма — нищета низших классов изображалась беспощадно и научно",
+    "wrong_answers_de": ["Ein Kunststil, der Natur und Landschaft in präzisen Details wiedergab", "Eine Philosophie, die Naturgesetze als Grundlage aller Ethik sah", "Ein Theaterstil, der antike griechische Dramen auf naturalistischen Bühnen inszenierte"],
+    "wrong_answers_ru": ["Художественный стиль, воспроизводящий природу и пейзаж в точных деталях", "Философия, рассматривавшая законы природы как основу всей этики", "Театральный стиль, ставивший античные греческые драмы на натуралистических сценах"],
+    "explanation_de": "Émile Zola (Frankreich) schrieb 'Germinal' – über Kohlbergwerke und Arbeiterelend. Gerhart Hauptmann (Deutschland) schrieb 'Die Weber'. Henrik Ibsen (Norwegen) entlarvte bürgerliche Heuchelei ('Nora', 'Die Wildente').",
+    "explanation_ru": "Эмиль Золя (Франция) написал «Жерминаль» — о шахтах и рабочей нищете. Герхарт Гауптман (Германия) написал «Ткачи». Хенрик Ибсен (Норвегия) разоблачил буржуазное лицемерие («Нора», «Дикая утка»).",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1885 CE",
+    "tags": ["Kunst", "Kultur"],
+    "interesting_facts": [
+      {
+        "de": "Zolas 'J'accuse!' war nicht nur ein politischer Akt – er war selbst ein naturalistischer Journalist.",
+        "ru": "«Я обвиняю!» Золя было не только политическим актом — он сам был натуралистическим журналистом."
+      },
+      {
+        "de": "Ibsens Nora (1879) brach ein Tabu: Eine Frau verließ Mann und Kinder – das war skandalös.",
+        "ru": "«Нора» Ибсена (1879) нарушила табу: женщина ушла от мужа и детей — это было скандально."
+      },
+      {
+        "de": "Hauptmanns 'Die Weber' wurde in Preußen zunächst verboten – zu gefährlich für die öffentliche Ordnung.",
+        "ru": "«Ткачи» Гауптмана поначалу были запрещены в Пруссии — слишком опасны для общественного порядка."
+      }
+    ]
+  },
+  {
+    "id": 8053,
+    "question_de": "Was war die Erste Frauenbewegung im 19. Jahrhundert (neben dem Wahlrecht)?",
+    "question_ru": "Каким было первое женское движение в XIX веке (помимо избирательного права)?",
+    "correct_answer_de": "Kämpfe für Bildungsrechte, Eigentumsrechte und Zugang zu Berufen für Frauen",
+    "correct_answer_ru": "Борьба за право на образование, право собственности и доступ к профессиям для женщин",
+    "wrong_answers_de": ["Eine religiöse Bewegung für mehr Frauenklöster und weibliche Priester", "Eine Gewerkschaftsbewegung für gleichen Lohn ausschließlich in Textilfabriken", "Eine politische Partei, die 1848 die erste Frauenministerin Europas forderte"],
+    "wrong_answers_ru": ["Религиозное движение за большее количество женских монастырей и женщин-священников", "Профсоюзное движение исключительно за равную оплату труда на текстильных фабриках", "Политическая партия, требовавшая в 1848 году первой женщины-министра Европы"],
+    "explanation_de": "Mary Wollstonecraft schrieb 1792 'Vindication of the Rights of Woman'. Im 19. Jh. kämpften Frauen für Universitätszugang (Cambridge öffnete sich zögerlich). Elizabeth Blackwell war 1849 erste Ärztin der USA. Harriet Taylor Mill schrieb über Gleichberechtigung.",
+    "explanation_ru": "Мэри Уоллстонкрафт написала в 1792 году «Защиту прав женщины». В XIX веке женщины боролись за доступ в университеты (Кембридж неохотно открывался). Элизабет Блэкуэлл в 1849 году стала первой женщиной-врачом в США. Харриет Тейлор Милль писала о равноправии.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1860 CE",
+    "tags": ["Gesellschaft", "England"],
+    "interesting_facts": [
+      {
+        "de": "An der Berliner Universität durften Frauen erst ab 1908 offiziell studieren.",
+        "ru": "В Берлинском университете женщины получили право официально учиться лишь с 1908 года."
+      },
+      {
+        "de": "In England durften Frauen bis 1870 kein eigenes Vermögen besitzen – alles gehörte dem Ehemann.",
+        "ru": "В Англии до 1870 года женщины не могли иметь собственного имущества — всё принадлежало мужу."
+      },
+      {
+        "de": "Curie erhielt den Nobelpreis für Chemie 1911 – die Akademie wollte sie nicht persönlich einladen.",
+        "ru": "Кюри получила Нобелевскую премию по химии в 1911 году — академия не хотела приглашать её лично."
+      }
+    ]
+  },
+  {
+    "id": 8054,
+    "question_de": "Wer war Wilhelm II. und was war sein Beitrag zum Ersten Weltkrieg?",
+    "question_ru": "Кто такой Вильгельм II и каков его вклад в Первую мировую войну?",
+    "correct_answer_de": "Letzter Deutscher Kaiser (1888–1918) – seine aggressive Außenpolitik und Flottenprogramm trugen zum Kriegsausbruch bei",
+    "correct_answer_ru": "Последний германский кайзер (1888–1918) — его агрессивная внешняя политика и военно-морская программа способствовали началу войны",
+    "wrong_answers_de": ["Preußischer König, der Bismarck zur deutschen Einigung beauftragte", "Österreichischer Kaiser, der Serbien ultimativ zur Abrüstung aufforderte", "Bayerischer Kronprinz, der 1918 die Republik ausrief"],
+    "wrong_answers_ru": ["Прусский король, поручивший Бисмарку объединение Германии", "Австрийский кайзер, ультимативно потребовавший от Сербии разоружения", "Баварский кронпринц, провозгласивший республику в 1918 году"],
+    "explanation_de": "Wilhelm II. entließ Bismarck 1890 und wollte eine 'Weltpolitik'. Er baute eine große Flotte (provozierte England) und unterstützte Österreich 1914 mit dem 'Blankocheck'. 1918 floh er in die Niederlande – und starb dort 1941.",
+    "explanation_ru": "Вильгельм II уволил Бисмарка в 1890 году и хотел проводить «мировую политику». Он строил большой флот (провоцировал Англию) и поддержал Австрию в 1914-м «чистым чеком». В 1918 году бежал в Нидерланды — и умер там в 1941-м.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1900 CE",
+    "tags": ["Deutschland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Wilhelm II. hatte einen verkürzten linken Arm – durch Geburtstrauma. Er kaschierte dies auf Fotos.",
+        "ru": "Вильгельм II имел укороченную левую руку — из-за родовой травмы. На фотографиях он это скрывал."
+      },
+      {
+        "de": "Er war der Enkel von Queen Victoria – Englands Feinde im Ersten Weltkrieg hatten dieselbe Großmutter.",
+        "ru": "Он был внуком королевы Виктории — враги Англии в Первой мировой войне имели одну и ту же бабушку."
+      },
+      {
+        "de": "Wilhelm liebte Preußens Militär – war aber nach dem Krieg erleichtert, nicht mehr regieren zu müssen.",
+        "ru": "Вильгельм любил прусскую армию — но после войны был рад, что больше не нужно править."
+      }
+    ]
+  },
+  {
+    "id": 8055,
+    "question_de": "Was war die zweite Industrielle Revolution (ca. 1870–1914)?",
+    "question_ru": "Что такое Вторая промышленная революция (прибл. 1870–1914)?",
+    "correct_answer_de": "Die Phase der Stahl-, Chemie-, Elektrizitäts- und Autoindustrie – Deutschland und USA überholten England",
+    "correct_answer_ru": "Эпоха сталелитейной, химической, электрической и автомобильной промышленности — Германия и США обогнали Англию",
+    "wrong_answers_de": ["Die Ausdehnung der englischen Textilindustrie auf Asien und Afrika", "Die Mechanisierung der Landwirtschaft durch dampfbetriebene Traktoren", "Die Entstehung der Schwerindustrie in England durch Dampfmaschinen"],
+    "wrong_answers_ru": ["Распространение английской текстильной промышленности на Азию и Африку", "Механизация сельского хозяйства с помощью паровых тракторов", "Возникновение тяжёлой промышленности в Англии благодаря паровым машинам"],
+    "explanation_de": "Neue Industrien: Chemie (BASF, Bayer), Elektrizität (Edison, Siemens), Stahl (Bessemer-Verfahren), Auto (Benz, Daimler). Fließband noch nicht. USA wurden zur größten Wirtschaftsmacht. Deutschland zur zweiten. England verlor seinen Vorsprung.",
+    "explanation_ru": "Новые отрасли: химия (BASF, Bayer), электричество (Эдисон, Siemens), сталь (процесс Бессемера), автомобили (Benz, Daimler). Конвейера ещё не было. США стали крупнейшей экономической державой. Германия — второй. Англия утратила своё преимущество.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1890 CE",
+    "tags": ["Wirtschaft", "Erfindungen"],
+    "interesting_facts": [
+      {
+        "de": "Carl Benz baute 1885 das erste patentierte Auto – seine Frau Bertha machte die erste Überlandfahrt.",
+        "ru": "Карл Бенц в 1885 году построил первый запатентованный автомобиль — его жена Берта совершила первую поездку между городами."
+      },
+      {
+        "de": "Das Bessemer-Verfahren (1856) ermöglichte die Massenproduktion von Stahl – und machte Brücken und Wolkenkratzer möglich.",
+        "ru": "Процесс Бессемера (1856) сделал возможным массовое производство стали — и открыл путь мостам и небоскрёбам."
+      },
+      {
+        "de": "Um 1900 hatten die USA bereits mehr Telefone als ganz Europa zusammen.",
+        "ru": "Около 1900 года США уже имели больше телефонов, чем вся Европа вместе взятая."
+      }
+    ]
+  },
+  {
+    "id": 8056,
+    "question_de": "Was war die Spanisch-Amerikanischer Krieg (1898) und seine Bedeutung?",
+    "question_ru": "Что такое Испано-американская война (1898) и каково её значение?",
+    "correct_answer_de": "USA besiegten Spanien – erhielten Kuba (faktisch), Puerto Rico, Guam und Philippinen",
+    "correct_answer_ru": "США победили Испанию — получили Кубу (фактически), Пуэрто-Рико, Гуам и Филиппины",
+    "wrong_answers_de": ["Spanien besiegte die USA und behielt seine karibischen Kolonien", "Mexiko und USA besiegten gemeinsam Spanien um die Kontrolle über Mittelamerika", "Kuba wurde nach dem Krieg 1898 sofort vollständig unabhängig von den USA"],
+    "wrong_answers_ru": ["Испания победила США и сохранила свои карибские колонии", "Мексика и США совместно победили Испанию в борьбе за контроль над Центральной Америкой", "Куба сразу после войны 1898 года получила полную независимость от США"],
+    "explanation_de": "Das Schlachtschiff Maine explodierte in Havanna – USA machten Spanien verantwortlich. Der Krieg dauerte nur 4 Monate. Die USA wurden zur imperialen Macht im Pazifik und der Karibik. Theodor Roosevelt führte 'Rough Riders' auf Kuba.",
+    "explanation_ru": "Броненосец «Мэн» взорвался в Гаване — США возложили ответственность на Испанию. Война длилась всего 4 месяца. США превратились в имперскую державу в Тихоокеанском регионе и Карибском море. Теодор Рузвельт командовал «Лихими всадниками» на Кубе.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1898 CE",
+    "tags": ["Krieg", "Amerika", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Zeitungsmogul Hearst soll gesagt haben: 'Liefert mir die Bilder, den Krieg liefere ich.' – Yellow Journalism.",
+        "ru": "Газетный магнат Хёрст якобы сказал: «Поставьте мне фотографии, войну поставлю я». — «жёлтая журналистика»."
+      },
+      {
+        "de": "Die Philippinen erkämpften nach dem Krieg Unabhängigkeit von den USA – nach einem brutalen Guerillakrieg (1899–1902).",
+        "ru": "После войны Филиппины добились независимости от США — после жестокой партизанской войны (1899–1902)."
+      },
+      {
+        "de": "Spanien verlor mit diesem Krieg sein letztes Kolonialreich – eine traumatische 'Generation von 98' in Spanien.",
+        "ru": "Испания потеряла в этой войне последнюю колониальную империю — травматическое «поколение 98» в Испании."
+      }
+    ]
+  },
+  {
+    "id": 8057,
+    "question_de": "Was war Marie Curies Beitrag zur Wissenschaft?",
+    "question_ru": "Каков вклад Марии Кюри в науку?",
+    "correct_answer_de": "Sie entdeckte die Elemente Polonium und Radium – erste Frau mit Nobelpreis (Physik 1903, Chemie 1911)",
+    "correct_answer_ru": "Она открыла элементы полоний и радий — первая женщина, удостоенная Нобелевской премии (физика 1903, химия 1911)",
+    "wrong_answers_de": ["Sie entwickelte die Röntgenstrahlen und baute mobile Behandlungsstationen", "Sie entdeckte das Penicillin als Nebenprodukt ihrer Radioaktivitätsforschung", "Sie war Mitbegründerin der Quantenmechanik neben Planck und Einstein"],
+    "wrong_answers_ru": ["Она разработала рентгеновские лучи и построила мобильные лечебные станции", "Она открыла пенициллин как побочный продукт исследований радиоактивности", "Она стала соосновательницей квантовой механики наряду с Планком и Эйнштейном"],
+    "explanation_de": "Marie Curie (geb. Sklodowska, Polen) prägte den Begriff 'Radioaktivität'. Sie isolierte Radium und Polonium. Ihr Mann Pierre starb 1906 bei einem Unfall. Sie starb 1934 an aplastischer Anämie – durch Strahlenschäden. Ihre Notizbücher sind noch radioaktiv.",
+    "explanation_ru": "Мари Кюри (урождённая Склодовская, Польша) ввела термин «радиоактивность». Она выделила радий и полоний. Её муж Пьер погиб в 1906 году в несчастном случае. Она умерла в 1934 году от апластической анемии — из-за лучевых поражений. Её записные книжки до сих пор радиоактивны.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1898 CE",
+    "tags": ["Wissenschaft", "Frankreich"],
+    "interesting_facts": [
+      {
+        "de": "Marie Curie war die erste Frau, die an der Sorbonne lehrte – und die erste Person mit zwei Nobelpreisen.",
+        "ru": "Мари Кюри была первой женщиной, преподававшей в Сорбонне — и первым человеком, удостоенным двух Нобелевских премий."
+      },
+      {
+        "de": "Ihre Tochter Irène Joliot-Curie erhielt ebenfalls den Nobelpreis für Chemie (1935).",
+        "ru": "Её дочь Ирен Жолио-Кюри также получила Нобелевскую премию по химии (1935)."
+      },
+      {
+        "de": "Die Académie des Sciences in Paris lehnte es 1911 ab, sie aufzunehmen – wegen ihres Geschlechts.",
+        "ru": "Французская академия наук в 1911 году отказала ей в членстве — из-за её пола."
+      }
+    ]
+  },
+  {
+    "id": 8058,
+    "question_de": "Was war das Konzept des Nationalismus im 19. Jahrhundert?",
+    "question_ru": "Что такое концепция национализма в XIX веке?",
+    "correct_answer_de": "Die Überzeugung, dass Völker mit gemeinsamer Sprache und Kultur einen eigenen Staat verdienen",
+    "correct_answer_ru": "Убеждение, что народы с общим языком и культурой заслуживают собственного государства",
+    "wrong_answers_de": ["Die imperialistische Idee, dass eine Nation andere Völker beherrschen soll", "Ein religiöses Konzept, nach dem die Nation dem Willen Gottes entspricht", "Eine wirtschaftliche Theorie, nach der nationale Märkte Freihandel ablehnen sollen"],
+    "wrong_answers_ru": ["Империалистическая идея о том, что одна нация должна господствовать над другими народами", "Религиозная концепция, согласно которой нация соответствует воле Бога", "Экономическая теория, согласно которой национальные рынки должны отвергать свободную торговлю"],
+    "explanation_de": "Nationalismus war die politische Kraft des 19. Jahrhunderts. Er führte zur deutschen und italienischen Einigung, zur Befreiung Griechenlands und zur Auflösung der Habsburger- und Osmanischen Reiche. Negative Seite: Nationalismus führte zu Kriegen und Diskriminierung von Minderheiten.",
+    "explanation_ru": "Национализм был политической силой XIX века. Он привёл к объединению Германии и Италии, освобождению Греции и распаду Габсбургской и Османской империй. Отрицательная сторона: национализм привёл к войнам и дискриминации меньшинств.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1848 CE",
+    "tags": ["Politik", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Der Nationalismus hat paradoxe Wurzeln: Er entstand aus der Aufklärung – die eigentlich universale Menschenrechte propagierte.",
+        "ru": "Национализм имеет парадоксальные корни: он возник из Просвещения — которое на самом деле пропагандировало всеобщие права человека."
+      },
+      {
+        "de": "Napoleon verbreitete ungewollt den Nationalismus in Europa – durch seine Besatzung weckte er nationale Gegenbewegungen.",
+        "ru": "Наполеон невольно распространил национализм в Европе — его оккупация пробудила национальные движения сопротивления."
+      },
+      {
+        "de": "Im Habsburger Reich sprachen 15 Völker in 50 Sprachen – Nationalismus war seine größte Bedrohung.",
+        "ru": "В Габсбургской империи 15 народов говорили на 50 языках — национализм был её крупнейшей угрозой."
+      }
+    ]
+  },
+  {
+    "id": 8059,
+    "question_de": "Was war die erste Internationale Arbeiterbewegung (Trade Unions) in England?",
+    "question_ru": "Что такое первое международное рабочее движение (профсоюзы) в Англии?",
+    "correct_answer_de": "Gewerkschaften (Trade Unions) entstanden ab den 1820ern – kämpften für kürzere Arbeitszeiten und höhere Löhne",
+    "correct_answer_ru": "Профсоюзы возникли с 1820-х годов — боролись за сокращение рабочего дня и повышение зарплат",
+    "wrong_answers_de": ["Geheimgesellschaften, die für einen politischen Generalstreik und Revolution kämpften", "Eine kirchliche Bewegung, die Handwerker in religiösen Bruderschaften organisierte", "Kooperativen von Fabrikbesitzern, um Arbeitsbedingungen zu standardisieren"],
+    "wrong_answers_ru": ["Тайные общества, боровшиеся за политическую всеобщую забастовку и революцию", "Церковное движение, организовавшее ремесленников в религиозных братствах", "Кооперативы фабрикантов для стандартизации условий труда"],
+    "explanation_de": "England verbat Gewerkschaften bis 1824 (Combination Acts). Nach Legalisierung wuchsen sie. 1868 gründete sich der TUC (Trade Union Congress). Hauptziele: 10-Stunden-Tag (erreicht 1847), Kinderarbeitsverbot, Sicherheit am Arbeitsplatz.",
+    "explanation_ru": "Англия запрещала профсоюзы до 1824 года (Акты о сочетании). После легализации они росли. В 1868 году образовался TUC (Конгресс профсоюзов). Главные цели: 10-часовой рабочий день (достигнут в 1847-м), запрет детского труда, безопасность на производстве.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1850 CE",
+    "tags": ["Gesellschaft", "England", "Wirtschaft"],
+    "interesting_facts": [
+      {
+        "de": "Ludditen (1811–1816) zerstörten Maschinen – sie fürchteten Jobverlust durch Mechanisierung.",
+        "ru": "Луддиты (1811–1816) уничтожали машины — боясь потери работы из-за механизации."
+      },
+      {
+        "de": "In frühen Fabriken arbeiteten Kinder ab 5 Jahren, 16 Stunden täglich – oft angekettet an Maschinen.",
+        "ru": "На ранних фабриках дети с 5 лет работали по 16 часов в день — нередко прикованные к машинам."
+      },
+      {
+        "de": "Der 8-Stunden-Tag wurde erst 1919 durch die ILO international als Norm empfohlen.",
+        "ru": "8-часовой рабочий день был рекомендован как норма международно лишь в 1919 году МОТ."
+      }
+    ]
+  },
+  {
+    "id": 8060,
+    "question_de": "Was war der Expressionismus in der deutschen Kunst um 1900?",
+    "question_ru": "Что такое экспрессионизм в немецком искусстве около 1900 года?",
+    "correct_answer_de": "Ein Kunststil, der innere Emotionen statt äußerer Realität darstellte – starke Farben, verzerrte Formen",
+    "correct_answer_ru": "Художественный стиль, изображающий внутренние эмоции вместо внешней реальности — сильные цвета, искажённые формы",
+    "wrong_answers_de": ["Ein politischer Kunststil, der den deutschen Nationalismus und Militarismus verherrlichte", "Ein Architekturstil, der betonierten Brutalismus als Ausdruck der Moderne nutzte", "Ein romantischer Naturstil, der Urwälder und Berge als Spiegel der Seele darstellte"],
+    "wrong_answers_ru": ["Политический художественный стиль, прославлявший немецкий национализм и милитаризм", "Архитектурный стиль, использовавший бетонный брутализм как выражение современности", "Романтический природный стиль, изображавший девственные леса и горы как зеркало души"],
+    "explanation_de": "Edvard Munchs 'Der Schrei' (1893) war Vorläufer. Ernst Ludwig Kirchner, Emil Nolde, Oskar Kokoschka, Egon Schiele (Wien). Die Bewegung 'Die Brücke' (Dresden) und 'Der Blaue Reiter' (München, mit Kandinsky) waren Hauptgruppen.",
+    "explanation_ru": "«Крик» Эдварда Мунка (1893) стал предвестником. Эрнст Людвиг Кирхнер, Эмиль Нольде, Оскар Кокошка, Эгон Шиле (Вена). Движения «Мост» (Дрезден) и «Синий всадник» (Мюнхен, с Кандинским) были главными группами.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1905 CE",
+    "tags": ["Kunst", "Kultur", "Deutschland"],
+    "interesting_facts": [
+      {
+        "de": "Munchs 'Der Schrei' ist nach der Mona Lisa das bekannteste Bild der Welt – und wurde 2x gestohlen.",
+        "ru": "«Крик» Мунка — самая известная картина в мире после «Моны Лизы» — и дважды похищенная."
+      },
+      {
+        "de": "Die Nazis erklärten Expressionismus zur 'Entarteten Kunst' – und konfiszierten 20.000 Werke.",
+        "ru": "Нацисты объявили экспрессионизм «дегенеративным искусством» — и конфисковали 20 000 произведений."
+      },
+      {
+        "de": "Wassily Kandinsky malte 1911 das erste vollständig abstrakte Bild – ohne erkennbare Gegenstände.",
+        "ru": "Василий Кандинский в 1911 году создал первую полностью абстрактную картину — без узнаваемых предметов."
+      }
+    ]
+  },
+  {
+    "id": 8061,
+    "question_de": "Was war der Begriff 'Imperialismus' im 19. Jahrhundert?",
+    "question_ru": "Что такое понятие «империализм» в XIX веке?",
+    "correct_answer_de": "Die Ausdehnung politischer und wirtschaftlicher Macht über fremde Völker und Territorien",
+    "correct_answer_ru": "Расширение политической и экономической власти над чужими народами и территориями",
+    "wrong_answers_de": ["Ein politisches System, in dem ein Kaiser über mehrere Reiche gleichzeitig herrschte", "Eine Wirtschaftspolitik des Schutzes eigener Märkte vor ausländischer Konkurrenz", "Eine militärische Doktrin der Verteidigung gegen feindliche Invasionen"],
+    "wrong_answers_ru": ["Политическая система, при которой один император правил одновременно несколькими государствами", "Экономическая политика защиты собственных рынков от иностранной конкуренции", "Военная доктрина обороны от враждебных вторжений"],
+    "explanation_de": "Europäische Mächte expandierten in Afrika, Asien, dem Pazifik. Motiven: Rohstoffe, Absatzmärkte, strategische Positionen, Prestige. 'Zivilisierungsauftrag' als Rechtfertigung. Bis 1914 kontrollierten Europa und USA 85 % der Erde.",
+    "explanation_ru": "Европейские державы расширялись в Африке, Азии, Тихоокеанском регионе. Мотивы: сырьё, рынки сбыта, стратегические позиции, престиж. «Цивилизаторская миссия» как обоснование. К 1914 году Европа и США контролировали 85% суши.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1880 CE",
+    "tags": ["Politik", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Cecil Rhodes träumte von einer Eisenbahn von Kairo nach Kapstadt – quer durch ein britisches Afrika.",
+        "ru": "Сесил Родс мечтал о железной дороге от Каира до Кейптауна — через всю британскую Африку."
+      },
+      {
+        "de": "Rudyard Kiplings Gedicht 'Die weiße Bürde' (1899) formulierte die imperialistische Rechtfertigungsideologie.",
+        "ru": "Стихотворение Редьярда Киплинга «Бремя белого человека» (1899) сформулировало имперскую оправдательную идеологию."
+      },
+      {
+        "de": "Viele Antikolonialisten des 20. Jahrhunderts waren ursprünglich in Europa ausgebildet – und wurden durch europäische Ideen inspiriert.",
+        "ru": "Многие антиколониалисты XX века получили образование в Европе — и были вдохновлены европейскими идеями."
+      }
+    ]
+  },
+  {
+    "id": 8062,
+    "question_de": "Was war der Haymarket-Vorfall (1886) in Chicago und seine Bedeutung?",
+    "question_ru": "Что такое событие на Хеймаркет (1886) в Чикаго и его значение?",
+    "correct_answer_de": "Bei einer Arbeiterdemo explodierte eine Bombe – Wendepunkt der amerikanischen Arbeiterbewegung, Ursprung des 1. Mai",
+    "correct_answer_ru": "На рабочем митинге взорвалась бомба — поворотный момент американского рабочего движения, происхождение 1 мая",
+    "wrong_answers_de": ["Ein Milizangriff auf streikende Stahlarbeiter in Pittsburgh 1892", "Die erste erfolgreiche Gewerkschaftsgründung in den USA im Jahr 1886", "Ein Massenstreik der Eisenbahner, der die amerikanische Wirtschaft lahmlegte"],
+    "wrong_answers_ru": ["Нападение ополчения на бастующих сталеваров в Питтсбурге в 1892 году", "Первое успешное создание профсоюза в США в 1886 году", "Всеобщая забастовка железнодорожников, парализовавшая американскую экономику"],
+    "explanation_de": "Bei einer Demonstration für den 8-Stunden-Tag warf jemand eine Bombe auf Polizisten. 8 Polizisten und 4 Zivilisten starben. 8 Anarchisten wurden verurteilt – 4 hingerichtet, obwohl die Täterschaft unklar war. Der 1. Mai erinnert daran.",
+    "explanation_ru": "На митинге за 8-часовой рабочий день кто-то бросил бомбу в полицейских. Погибли 8 полицейских и 4 гражданских. Были осуждены 8 анархистов — 4 казнены, хотя виновность была неясна. 1 мая отмечается в память об этом.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1886 CE",
+    "tags": ["Gesellschaft", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Der Gouverneur von Illinois begnadigte 1893 die überlebenden Häftlinge – und ruinierte damit seine politische Karriere.",
+        "ru": "Губернатор Иллинойса в 1893 году помиловал выживших заключённых — и тем самым разрушил свою политическую карьеру."
+      },
+      {
+        "de": "Die Internationale Arbeiterorganisation wählte den 1. Mai 1889 zum weltweiten Arbeitertag.",
+        "ru": "Международная рабочая организация избрала 1 мая 1889 года Всемирным днём труда."
+      },
+      {
+        "de": "In den USA ist der 1. Mai kein Feiertag – der Labor Day ist im September.",
+        "ru": "В США 1 мая не является праздником — День труда отмечается в сентябре."
+      }
+    ]
+  },
+  {
+    "id": 8063,
+    "question_de": "Was war der Darwinismus und der 'Sozialdarwinismus'?",
+    "question_ru": "Что такое дарвинизм и «социальный дарвинизм»?",
+    "correct_answer_de": "Darwins Evolutionstheorie wurde missbräuchlich auf die Gesellschaft übertragen – 'Überleben der Stärksten' als Rechtfertigung für Ungleichheit",
+    "correct_answer_ru": "Теория эволюции Дарвина ошибочно переносилась на общество — «выживание сильнейшего» как оправдание неравенства",
+    "wrong_answers_de": ["Eine wissenschaftliche Bewegung, die Darwins Evolutionstheorie in Schulen lehrte", "Darwins eigene politische Philosophie über Staatsverwaltung und Klassenwettbewerb", "Ein biologisches Programm zur gezielten Verbesserung des menschlichen Genpools"],
+    "wrong_answers_ru": ["Научное движение, преподававшее теорию эволюции Дарвина в школах", "Собственная политическая философия Дарвина об управлении государством и классовой конкуренции", "Биологическая программа целенаправленного улучшения человеческого генофонда"],
+    "explanation_de": "Herbert Spencer prägte 'Survival of the fittest'. Sozialdarwinisten rechtfertigten Kapitalismus, Kolonialismus und Rassismus mit Naturgesetzen. Darwin selbst lehnte diese Verwendung ab. Sozialdarwinismus führte zu Eugenik und letztendlich zum NS-Rassendenken.",
+    "explanation_ru": "Герберт Спенсер ввёл понятие «выживание сильнейшего». Социальные дарвинисты оправдывали капитализм, колониализм и расизм законами природы. Сам Дарвин отвергал такое применение. Социальный дарвинизм привёл к евгенике и в конечном итоге к нацистскому расовому мышлению.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1880 CE",
+    "tags": ["Wissenschaft", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Darwin hasste Sklaverei – der Sozialdarwinismus, der Rassismus rechtfertigte, wäre ihm verhasst gewesen.",
+        "ru": "Дарвин ненавидел рабство — социальный дарвинизм, оправдывавший расизм, был бы ему ненавистен."
+      },
+      {
+        "de": "Die USA hatten Eugenikgesetze vor den Nazis – Zwangssterilisierungen wurden vom Supreme Court 1927 bestätigt.",
+        "ru": "В США ещё до нацистов существовали законы об евгенике — принудительная стерилизация была одобрена Верховным судом в 1927 году."
+      },
+      {
+        "de": "Francis Galton, Darwins Cousin, prägte den Begriff 'Eugenik' – die 'Wissenschaft' der Rassenverbesserung.",
+        "ru": "Фрэнсис Гальтон, кузен Дарвина, ввёл термин «евгеника» — «наука» об улучшении расы."
+      }
+    ]
+  },
+  {
+    "id": 8064,
+    "question_de": "Was war der 'Große Ausschuss der Öffentlichkeit' (Chartismus) in England?",
+    "question_ru": "Что такое «Великий народный комитет» (чартизм) в Англии?",
+    "correct_answer_de": "Eine britische Arbeiterbewegung (1838–1857) für das allgemeine Männerwahlrecht und soziale Reformen",
+    "correct_answer_ru": "Британское рабочее движение (1838–1857) за всеобщее мужское избирательное право и социальные реформы",
+    "wrong_answers_de": ["Eine irische Unabhängigkeitsbewegung nach der Hungersnot", "Eine monarchistische Bewegung für die Stärkung der Königsrechte gegen das Parlament", "Eine Handwerkerbewegung gegen die Industrialisierung und Maschinenarbeit"],
+    "wrong_answers_ru": ["Ирландское движение за независимость после голода", "Монархическое движение за усиление королевских прав против парламента", "Движение ремесленников против индустриализации и машинного труда"],
+    "explanation_de": "Die 'People's Charter' (1838) forderte: Wahlrecht für alle Männer, geheime Abstimmung, bezahlte Parlamentarier, gleiche Wahlbezirke. Millionen unterschrieben – das Parlament lehnte ab. Bis 1918 wurden alle Forderungen erfüllt.",
+    "explanation_ru": "«Народная хартия» (1838) требовала: право голоса для всех мужчин, тайного голосования, оплачиваемых парламентариев, равных избирательных округов. Миллионы подписали — парламент отказал. К 1918 году все требования были выполнены.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1842 CE",
+    "tags": ["Gesellschaft", "England", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Die dritte Chartisten-Petition 1848 hatte 5 Millionen Unterschriften – das Parlament ignorierte sie.",
+        "ru": "Третья чартистская петиция 1848 года насчитывала 5 миллионов подписей — парламент её проигнорировал."
+      },
+      {
+        "de": "In England durften 1832 nur 2 % der Bevölkerung wählen – der Reform Act öffnete es auf 7 %.",
+        "ru": "В Англии в 1832 году имели право голоса лишь 2% населения — Акт о реформе расширил это до 7%."
+      },
+      {
+        "de": "Feargus O'Connor, der Chartistenführer, wurde 1852 für geisteskrank erklärt – ein Akt politischer Repression.",
+        "ru": "Фергус О'Коннор, лидер чартистов, был в 1852 году признан психически больным — акт политических репрессий."
+      }
+    ]
+  },
+  {
+    "id": 8065,
+    "question_de": "Was war das 'Ostasiatische Einschlusssystem' Japans und wann endete es?",
+    "question_ru": "Что такое японская система «закрытой страны» (сакоку) и когда она закончилась?",
+    "correct_answer_de": "Japan isolierte sich 200 Jahre lang von der Außenwelt – endete 1853/54 durch US-Kanonenbootdiplomatie unter Commodore Perry",
+    "correct_answer_ru": "Япония 200 лет изолировалась от внешнего мира — закончилось в 1853/54 году американской «дипломатией канонерок» под командованием коммодора Перри",
+    "wrong_answers_de": ["Japan öffnete sich 1868 freiwillig durch die Meiji-Restauration für Westkontakte", "Japan wurde 1895 nach dem Krieg gegen China durch den Shimonoseki-Vertrag geöffnet", "Russland zwang Japan 1855 zur Öffnung durch militärischen Druck"],
+    "wrong_answers_ru": ["Япония добровольно открылась для западных контактов в 1868 году через реставрацию Мэйдзи", "Япония была открыта в 1895 году после войны с Китаем по Симоносекскому договору", "Россия вынудила Японию открыться в 1855 году под военным давлением"],
+    "explanation_de": "Das Tokugawa-Shogunat (1603–1868) schloss Japan für Ausländer. Nur niederländische Händler auf der Insel Dejima durften handeln. 1853 erschien Perry mit Dampfschiffen ('Schwarze Schiffe') – Japan öffnete sich widerwillig. Das führte zur Meiji-Restauration.",
+    "explanation_ru": "Сёгунат Токугава (1603–1868) закрыл Японию для иностранцев. Только нидерландским торговцам на острове Дэдзима разрешалась торговля. В 1853 году Перри появился с паровыми кораблями («чёрные корабли») — Япония неохотно открылась. Это привело к реставрации Мэйдзи.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1853 CE",
+    "tags": ["Politik"],
+    "interesting_facts": [
+      {
+        "de": "Japans Isolationismus war keine vollständige Abschottung – es handelte mit Korea, China und den Niederlanden.",
+        "ru": "Изоляционизм Японии не был полным — она торговала с Кореей, Китаем и Нидерландами."
+      },
+      {
+        "de": "Perry kam 1854 mit doppelt so vielen Schiffen zurück – und erzwang das Kanagawa-Abkommen.",
+        "ru": "Перри вернулся в 1854 году с вдвое большим количеством кораблей — и принудил к заключению Канагавского договора."
+      },
+      {
+        "de": "Japanisches Holzschnittkunst (Ukiyo-e) inspierierte die europäischen Impressionisten – Japonismus.",
+        "ru": "Японское искусство гравюры (укиё-э) вдохновило европейских импрессионистов — японизм."
+      }
+    ]
+  },
+  {
+    "id": 8066,
+    "question_de": "Was war der Berliner Kongress (1878) und welches Problem löste er vorläufig?",
+    "question_ru": "Что такое Берлинский конгресс (1878) и какую проблему он временно решил?",
+    "correct_answer_de": "Eine Konferenz der Großmächte – ordnete den Balkan nach dem Russisch-Osmanischen Krieg neu",
+    "correct_answer_ru": "Конференция великих держав — перекроила Балканы после Русско-турецкой войны",
+    "wrong_answers_de": ["Der Berliner Kongress 1884, der Afrika unter europäische Mächte aufteilte", "Ein Friedensvertrag zwischen Preußen und Österreich nach dem Krieg von 1866", "Eine Wirtschaftskonferenz zur Aufteilung des Welthandels zwischen Europa und Amerika"],
+    "wrong_answers_ru": ["Берлинский конгресс 1884 года, поделивший Африку между европейскими державами", "Мирный договор между Пруссией и Австрией после войны 1866 года", "Экономическая конференция по разделу мировой торговли между Европой и Америкой"],
+    "explanation_de": "Russland hatte 1877/78 das Osmanische Reich besiegt. Der San-Stefano-Vertrag gab Russland zu viel Einfluss. Bismarck lud als 'ehrlicher Makler' nach Berlin ein. Der Balkan wurde aufgeteilt: Bulgarien, Rumänien, Serbien unabhängig. Österreich bekam Bosnien.",
+    "explanation_ru": "Россия в 1877/78 году победила Османскую империю. Сан-Стефанский договор дал России слишком большое влияние. Бисмарк пригласил в Берлин как «честный маклер». Балканы были переделены: Болгария, Румыния, Сербия стали независимыми. Австрия получила Боснию.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1878 CE",
+    "tags": ["Politik", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Bosnien blieb österreichisch – bis Serbien es 1914 beanspruchte und damit den Ersten Weltkrieg auslöste.",
+        "ru": "Босния оставалась австрийской — пока Сербия не предъявила на неё права в 1914 году, что и спровоцировало Первую мировую войну."
+      },
+      {
+        "de": "Bismarck nannte sich 'ehrlichen Makler' – er wollte keinen Vorteil für Deutschland, sondern Frieden.",
+        "ru": "Бисмарк называл себя «честным маклером» — он хотел не выгоды для Германии, а мира."
+      },
+      {
+        "de": "Die Großmächte ignorierten die Balkanvölker – was zu Jahrzehnten von Nationalismuskonflikten führte.",
+        "ru": "Великие державы проигнорировали балканские народы — что привело к десятилетиям националистических конфликтов."
+      }
+    ]
+  },
+  {
+    "id": 8067,
+    "question_de": "Was war die Entstehung des Zionismus im späten 19. Jahrhundert?",
+    "question_ru": "Что такое возникновение сионизма в конце XIX века?",
+    "correct_answer_de": "Theodor Herzl gründete 1897 die zionistische Bewegung – für einen jüdischen Staat in Palästina als Antwort auf Antisemitismus",
+    "correct_answer_ru": "Теодор Герцль в 1897 году основал сионистское движение — за еврейское государство в Палестине как ответ на антисемитизм",
+    "wrong_answers_de": ["Eine religiöse Bewegung für die Rückkehr der Juden nach Israel, initiiert von orthodoxen Rabbinern", "Ein politischer Plan der Osmanischen Regierung, Juden in Palästina anzusiedeln", "Die Auswanderungsbewegung osteuropäischer Juden in die USA nach den Pogromen"],
+    "wrong_answers_ru": ["Религиозное движение за возвращение евреев в Израиль, инициированное ортодоксальными раввинами", "Политический план османского правительства по заселению евреев в Палестину", "Эмиграционное движение восточноевропейских евреев в США после погромов"],
+    "explanation_de": "Herzl, ein österreichischer Journalist, erlebte den Dreyfus-Prozess und schrieb 'Der Judenstaat' (1896). 1897: Erster Zionistenkongress in Basel. Herzls Ziel: ein jüdisches Heimatland. Er starb 1904 – sein Traum wurde 1948 mit Israel Wirklichkeit.",
+    "explanation_ru": "Герцль, австрийский журналист, стал свидетелем дела Дрейфуса и написал «Еврейское государство» (1896). 1897 год: Первый сионистский конгресс в Базеле. Цель Герцля: еврейская родина. Он умер в 1904 году — его мечта стала реальностью в 1948-м с созданием Израиля.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1897 CE",
+    "tags": ["Politik", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Herzl schrieb in sein Tagebuch: 'In Basel habe ich den Judenstaat gegründet.'",
+        "ru": "Герцль записал в своём дневнике: «В Базеле я основал еврейское государство»."
+      },
+      {
+        "de": "Der Begriff 'Antisemitismus' wurde 1879 von Wilhelm Marr geprägt – als pseudowissenschaftliche Bezeichnung.",
+        "ru": "Термин «антисемитизм» был введён в 1879 году Вильгельмом Марром — как псевдонаучное обозначение."
+      },
+      {
+        "de": "In Russland gab es Pogrome (staatlich organisierte Übergriffe auf Juden) besonders nach 1881.",
+        "ru": "В России особенно после 1881 года устраивались погромы (государственно организованные нападения на евреев)."
+      }
+    ]
+  },
+  {
+    "id": 8068,
+    "question_de": "Was war die Entstehung der Kinematografie (Film) im Jahr 1895?",
+    "question_ru": "Что такое возникновение кинематографа (кино) в 1895 году?",
+    "correct_answer_de": "Lumière-Brüder zeigten 1895 den ersten öffentlichen Film – Beginn des Kinos als Massenunterhaltung",
+    "correct_answer_ru": "Братья Люмьер в 1895 году показали первый публичный фильм — начало кино как массового развлечения",
+    "wrong_answers_de": ["Thomas Edison erfand den Film 1893 und zeigte ihn in Messezelten der USA", "George Méliès erfand 1902 den Film als Spezialeffektshow in Paris", "William Dickson und Edison erfanden 1895 den Tonfilm für Aufnahmen"],
+    "wrong_answers_ru": ["Томас Эдисон изобрёл кино в 1893 году и показывал его в ярмарочных балаганах США", "Жорж Мельес изобрёл кино в 1902 году как шоу со спецэффектами в Париже", "Уильям Диксон и Эдисон изобрели в 1895 году звуковое кино для записей"],
+    "explanation_de": "Auguste und Louis Lumière zeigten am 28. Dezember 1895 in Paris ihren Cinématographe. Erster Film: Arbeiter verlassen die Fabrik. Publikum floh angeblich vor einer heranfahrenden Lokomotive auf der Leinwand – Legende.",
+    "explanation_ru": "Огюст и Луи Люмьер показали 28 декабря 1895 года в Париже свой синематограф. Первый фильм: Рабочие выходят с фабрики. Публика якобы бежала от локомотива, мчавшегося по экрану, — легенда.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1895 CE",
+    "tags": ["Erfindungen", "Frankreich"],
+    "interesting_facts": [
+      {
+        "de": "Die Lumières glaubten, Film sei eine 'Erfindung ohne Zukunft' – und verkauften ihre Technologie.",
+        "ru": "Братья Люмьер считали кино «изобретением без будущего» — и продали свою технологию."
+      },
+      {
+        "de": "Edisons Kinetoskop (1891) war ein Einzelguckapparat – die Lumières machten das Kino zur Gemeinschaftserfahrung.",
+        "ru": "Кинетоскоп Эдисона (1891) был аппаратом для одного зрителя — братья Люмьер сделали кино коллективным переживанием."
+      },
+      {
+        "de": "George Méliès drehte 1902 'Le Voyage dans la Lune' – den ersten Science-Fiction-Film.",
+        "ru": "Жорж Мельес снял в 1902 году «Путешествие на Луну» — первый научно-фантастический фильм."
+      }
+    ]
+  },
+  {
+    "id": 8069,
+    "question_de": "Was war die Entstehung der modernen Demokratie im 19. Jahrhundert?",
+    "question_ru": "Что такое возникновение современной демократии в XIX веке?",
+    "correct_answer_de": "Das 19. Jahrhundert erweiterte schrittweise das Wahlrecht – von privilegierten Männern zu allgemeinem Männerwahlrecht",
+    "correct_answer_ru": "XIX век постепенно расширял избирательное право — от привилегированных мужчин до всеобщего мужского избирательного права",
+    "wrong_answers_de": ["Das allgemeine Wahlrecht für alle Bürger wurde 1789 in Frankreich eingeführt", "Demokratie verbreitete sich im 19. Jahrhundert durch militärische Unterstützung der USA", "Das britische Parlament war seit dem Mittelalter eine vollständige Demokratie"],
+    "wrong_answers_ru": ["Всеобщее избирательное право для всех граждан было введено во Франции в 1789 году", "Демократия распространилась в XIX веке через военную поддержку США", "Британский парламент был полноценной демократией ещё с Средних веков"],
+    "explanation_de": "Frankreich gab Männern 1848 das allgemeine Wahlrecht. Deutschland 1871 (für Männer). England: Reform Acts 1832, 1867, 1884 – Schritt für Schritt. USA: weiße Männer seit 1776, schwarze Männer 1870 (de facto erst 1960er). Frauen warten überall bis ins 20. Jh.",
+    "explanation_ru": "Франция дала мужчинам всеобщее избирательное право в 1848 году. Германия — в 1871-м (для мужчин). Англия: Акты о реформе 1832, 1867, 1884 годов — шаг за шагом. США: белые мужчины с 1776 года, чернокожие мужчины в 1870-м (фактически лишь в 1960-е). Женщины ждут везде до XX века.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1870 CE",
+    "tags": ["Politik", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Athen im 5. Jh. v. Chr. hatte Demokratie – aber nur für freie, einheimische Männer (10–15 % der Bevölkerung).",
+        "ru": "В Афинах V века до н.э. была демократия — но только для свободных коренных мужчин (10–15% населения)."
+      },
+      {
+        "de": "Die erste moderne Demokratie mit allgemeinem Wahlrecht (außer Frauen) war Frankreich 1792 – dauerte aber nur kurz.",
+        "ru": "Первой современной демократией со всеобщим избирательным правом (кроме женщин) была Франция 1792 года — но это длилось недолго."
+      },
+      {
+        "de": "In England durften Katholiken erst 1829 Parlamentssitze einnehmen – vorher waren sie gesetzlich ausgeschlossen.",
+        "ru": "В Англии католики получили право занимать места в парламенте лишь в 1829 году — прежде они были законодательно исключены."
+      }
+    ]
+  },
+  {
+    "id": 8070,
+    "question_de": "Was war die Sezession Kubas und Philippinen von Spanien (1898)?",
+    "question_ru": "Что такое отделение Кубы и Филиппин от Испании (1898)?",
+    "correct_answer_de": "Spanien verlor seine letzten überseeischen Kolonien Kuba und Philippinen im Spanisch-Amerikanischen Krieg",
+    "correct_answer_ru": "Испания потеряла свои последние заморские колонии Кубу и Филиппины в Испано-американской войне",
+    "wrong_answers_de": ["Kuba und Philippinen wurden durch interne Revolutionen unabhängig von Spanien", "Spanien verkaufte Kuba und Philippinen 1898 freiwillig an die USA", "England annektierte Kuba und Philippinen nach einem Krieg gegen Spanien"],
+    "wrong_answers_ru": ["Куба и Филиппины обрели независимость от Испании в результате внутренних революций", "Испания добровольно продала Кубу и Филиппины США в 1898 году", "Англия аннексировала Кубу и Филиппины после войны против Испании"],
+    "explanation_de": "Kuba kämpfte schon vor dem Krieg für Unabhängigkeit. Die USA nutzten den Kriegsanlass (Maine-Explosion). Im Frieden von Paris 1898: Spanien trat ab. Kuba wurde formal unabhängig – de facto US-Protektorat. Philippinen wurden US-Kolonie bis 1946.",
+    "explanation_ru": "Куба ещё до войны боролась за независимость. США воспользовались поводом для войны (взрыв «Мэна»). По Парижскому миру 1898 года: Испания уступила. Куба стала формально независимой — де-факто протекторатом США. Филиппины оставались колонией США до 1946 года.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1898 CE",
+    "tags": ["Krieg", "Amerika", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "José Martí, Kubas Nationalheld, starb 1895 im Unabhängigkeitskampf – vor dem US-Eingreifen.",
+        "ru": "Хосе Марти, национальный герой Кубы, погиб в 1895 году в борьбе за независимость — до американского вмешательства."
+      },
+      {
+        "de": "Der Platt-Zusatz (1901) gab den USA das Recht, in Kuba zu intervenieren – bis 1934.",
+        "ru": "Поправка Платта (1901) дала США право вмешиваться на Кубе — до 1934 года."
+      },
+      {
+        "de": "Die philippinische Freiheitsbewegung kämpfte zuerst mit den USA gegen Spanien – und dann gegen die USA.",
+        "ru": "Филиппинское освободительное движение сначала воевало с США против Испании — а затем против самих США."
+      }
+    ]
+  },
+  {
+    "id": 8071,
+    "question_de": "Was war Friedrich Engels' Beitrag zum Marxismus?",
+    "question_ru": "Каков вклад Фридриха Энгельса в марксизм?",
+    "correct_answer_de": "Mitautor des Kommunistischen Manifests; er finanzierte Marx und vollendete das Kapital nach Marxens Tod",
+    "correct_answer_ru": "Соавтор «Коммунистического манифеста»; он финансировал Маркса и завершил «Капитал» после смерти Маркса",
+    "wrong_answers_de": ["Der erste kommunistische Staatschef, der Marxens Ideen in Praxis umsetzte", "Ein russischer Revolutionär, der Marx 1848 nach Frankreich begleitete", "Herausgeber der Zeitung 'Neue Rheinische Zeitung', die Marx allein schrieb"],
+    "wrong_answers_ru": ["Первый коммунистический глава государства, воплотивший идеи Маркса на практике", "Русский революционер, сопровождавший Маркса в Францию в 1848 году", "Издатель газеты «Новая Рейнская газета», которую Маркс писал один"],
+    "explanation_de": "Engels (1820–1895) war Fabrikantensohn aus Barmen. Er schrieb 'Die Lage der arbeitenden Klasse in England' (1845). Er finanzierte Marx durch seine Arbeit in der Baumwollspinnerei Manchester. Nach Marx' Tod 1883 vollendete er die Bände 2 und 3 des Kapitals.",
+    "explanation_ru": "Энгельс (1820–1895) был сыном фабриканта из Бармена. Он написал «Положение рабочего класса в Англии» (1845). Он финансировал Маркса, работая на хлопчатобумажной фабрике в Манчестере. После смерти Маркса в 1883 году он завершил 2-й и 3-й тома «Капитала».",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1848 CE",
+    "tags": ["Deutschland", "Politik", "Wirtschaft"],
+    "interesting_facts": [
+      {
+        "de": "Engels lebte doppelt: Als respektabler Fabrikant in Manchester und heimlich als kommunistischer Aktivist.",
+        "ru": "Энгельс вёл двойную жизнь: уважаемого фабриканта в Манчестере и тайного коммунистического активиста."
+      },
+      {
+        "de": "Engels ließ sich von seiner Haushälterin Mary Burns und ihrer Schwester Lizzy lieben – nicht von einer bürgerlichen Ehefrau.",
+        "ru": "Энгельс предпочёл связь с экономкой Мэри Бёрнс и её сестрой Лиззи — а не с буржуазной женой."
+      },
+      {
+        "de": "Engels hinterließ Marx' Familie und die Internationale in seinem Testament – und verbrannte seine persönlichen Briefe.",
+        "ru": "Энгельс завещал семье Маркса и Интернационалу своё состояние — и сжёг свои личные письма."
+      }
+    ]
+  },
+  {
+    "id": 8072,
+    "question_de": "Was war das Zeitalter des Dampfschiffs und wie veränderte es die Welt?",
+    "question_ru": "Что такое эпоха парохода и как она изменила мир?",
+    "correct_answer_de": "Dampfschiffe ab 1807 (Robert Fulton) verkürzten Überfahrten und revolutionierten Handel und Migration",
+    "correct_answer_ru": "Пароходы с 1807 года (Роберт Фултон) сократили время плавания и революционизировали торговлю и миграцию",
+    "wrong_answers_de": ["Segelschiffe mit verbesserter Technik um 1800 verkürzten Überfahrten nach Amerika", "Die erste Dampfschifffahrt wurde 1850 von der britischen Royal Navy für Militärzwecke genutzt", "Robert Stevenson erfand 1814 das Dampfschiff als Weiterentwicklung der Dampfeisenbahn"],
+    "wrong_answers_ru": ["Парусные корабли с улучшенной техникой около 1800 года сократили переходы в Америку", "Первое пароходство в 1850 году использовалось британским Королевским флотом в военных целях", "Роберт Стивенсон изобрёл в 1814 году пароход как развитие паровой железной дороги"],
+    "explanation_de": "Robert Fultons Clermont fuhr 1807 den Hudson hinauf. Dampfschiffe verkürzten die Atlantikuberquerung von 6 Wochen auf 10 Tage. Sie ermöglichten Massenemigration: 50 Millionen Europäer wanderten 1850–1914 nach Amerika aus.",
+    "explanation_ru": "«Клермонт» Роберта Фултона в 1807 году прошёл вверх по реке Гудзон. Пароходы сократили пересечение Атлантики с 6 недель до 10 дней. Они сделали возможной массовую эмиграцию: 50 миллионов европейцев эмигрировали в Америку с 1850 по 1914 год.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1840 CE",
+    "tags": ["Erfindungen", "Wirtschaft"],
+    "interesting_facts": [
+      {
+        "de": "Die Titanic (1912) war das modernste Dampfschiff – und versank beim Jungfernfahrt nach dem Eisberg.",
+        "ru": "«Титаник» (1912) был самым современным пароходом — и затонул в первом рейсе после столкновения с айсбергом."
+      },
+      {
+        "de": "Das erste Dampfschiff überquerte den Atlantik 1819 (Savannah) – aber hauptsächlich noch unter Segeln.",
+        "ru": "Первый пароход пересёк Атлантику в 1819 году («Саванна») — но преимущественно под парусами."
+      },
+      {
+        "de": "Dampfkanonenboote (Gunboats) ermöglichten die Flussfahrten in Afrika und China – Grundlage des Imperialismus.",
+        "ru": "Паровые канонерки сделали возможным плавание по рекам Африки и Китая — основа империализма."
+      }
+    ]
+  },
+  {
+    "id": 8073,
+    "question_de": "Was war die Erfindung des Dynamits durch Alfred Nobel (1867)?",
+    "question_ru": "Что такое изобретение динамита Альфредом Нобелем (1867)?",
+    "correct_answer_de": "Nobel stabilisierte Nitroglyzerin mit Kieselerde – Dynamit ermöglichte Bergbau, Tunnelbau und leider Waffen",
+    "correct_answer_ru": "Нобель стабилизировал нитроглицерин с помощью кизельгура — динамит сделал возможным горное дело, тоннели и, к сожалению, оружие",
+    "wrong_answers_de": ["Nobel synthetisierte 1867 Schießpulver chemisch – als Ersatz für das biologische Schwarzpulver", "Ein amerikanischer Militäringenieur erfand Dynamit für den Amerikanischen Bürgerkrieg", "Dynamit wurde 1887 von einem deutschen Chemiker als Waffe für die preußische Armee entwickelt"],
+    "wrong_answers_ru": ["Нобель в 1867 году химически синтезировал порох — как замену биологическому чёрному пороху", "Американский военный инженер изобрёл динамит для Гражданской войны в Америке", "Динамит был разработан в 1887 году немецким химиком как оружие для прусской армии"],
+    "explanation_de": "Nobel war erschüttert, wie sein Dynamit für Kriegszwecke verwendet wurde. Ein französisches Nachruf nannte ihn 'Händler des Todes'. Er stiftete 1895 die Nobelpreise – aus Reue. Die Preise werden seit 1901 verliehen.",
+    "explanation_ru": "Нобель был потрясён тем, как его динамит использовался в военных целях. Французский некролог назвал его «торговцем смертью». В 1895 году он учредил Нобелевские премии — из чувства вины. Премии вручаются с 1901 года.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1867 CE",
+    "tags": ["Erfindungen", "Wirtschaft"],
+    "interesting_facts": [
+      {
+        "de": "Nobel patentierte über 350 Erfindungen – Dynamit war nur eine davon.",
+        "ru": "Нобель запатентовал более 350 изобретений — динамит был лишь одним из них."
+      },
+      {
+        "de": "Der Nobelpreis für Frieden ist ein Paradox: Von einem Waffenerfinder für Friedensstifter gestiftet.",
+        "ru": "Нобелевская премия мира — парадокс: учреждена изобретателем оружия для миротворцев."
+      },
+      {
+        "de": "Nobels Bruder Ludvig starb in Frankreich – Zeitungen verwirrten die Brüder und druckten Alfreds Nachruf.",
+        "ru": "Брат Нобеля Людвиг умер во Франции — газеты спутали братьев и напечатали некролог Альфреда."
+      }
+    ]
+  },
+  {
+    "id": 8074,
+    "question_de": "Was war die Boerenkricken (Burenkriege) in Südafrika (1880–1902)?",
+    "question_ru": "Что такое Бурские войны в Южной Африке (1880–1902)?",
+    "correct_answer_de": "Kriege zwischen England und den burischen Republiken (Transvaal, Oranje) um die Kontrolle über Südafrika und Gold",
+    "correct_answer_ru": "Войны между Англией и бурскими республиками (Трансвааль, Оранжевая) за контроль над Южной Африкой и золотом",
+    "wrong_answers_de": ["Kriege zwischen Zulus und Buren um Farmland in Südafrika", "Ein Kolonialkrieg Deutschlands um die Kontrolle über Südwestafrika", "Ein Aufstand der schwarzen Bevölkerung gegen die burische Vorherrschaft"],
+    "wrong_answers_ru": ["Войны между зулусами и бурами за сельскохозяйственные угодья в Южной Африке", "Колониальная война Германии за контроль над Германской Юго-Западной Африкой", "Восстание чернокожего населения против господства буров"],
+    "explanation_de": "Buren (Nachkommen holländischer Siedler) hatten Transvaal. 1886 wurde Gold entdeckt – England wollte es. Im 2. Burenkrieg (1899–1902) internierte England bürische Zivilisten in Konzentrationslagern – ein Vorläufer. England gewann, Südafrika wurde britisch.",
+    "explanation_ru": "Буры (потомки голландских поселенцев) владели Трансваалем. В 1886 году было открыто золото — Англия захотела его. Во 2-й Бурской войне (1899–1902) Англия интернировала бурских гражданских в концентрационных лагерях — прецедент. Англия победила, Южная Африка стала британской.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1900 CE",
+    "tags": ["Krieg", "Afrika", "England"],
+    "interesting_facts": [
+      {
+        "de": "Die britischen Konzentrationslager töteten 26.000 bürische Frauen und Kinder durch Hunger und Krankheit.",
+        "ru": "Британские концентрационные лагеря убили 26 000 бурских женщин и детей голодом и болезнями."
+      },
+      {
+        "de": "Winston Churchill berichtete aus dem 2. Burenkrieg – und entwich spektakulär aus burischer Gefangenschaft.",
+        "ru": "Уинстон Черчилль репортажировал из 2-й Бурской войны — и эффектно бежал из бурского плена."
+      },
+      {
+        "de": "Nelson Mandela entstammte der xhosa-sprachigen Bevölkerung – nicht den Buren. Apartheid war ein Burenprojekt.",
+        "ru": "Нельсон Мандела происходил из народа коса — не из буров. Апартеид был бурским проектом."
+      }
+    ]
+  },
+  {
+    "id": 8075,
+    "question_de": "Was war die Entstehung der öffentlichen Schule (Pflichtschulwesen) im 19. Jahrhundert?",
+    "question_ru": "Что такое возникновение государственной школы (обязательного образования) в XIX веке?",
+    "correct_answer_de": "Preußen führte 1763 und im 19. Jh. ausgebaut die Schulpflicht ein – Vorbild für andere Länder",
+    "correct_answer_ru": "Пруссия ввела обязательное образование в 1763 году, расширенное в XIX веке — образец для других стран",
+    "wrong_answers_de": ["England erfand 1800 die öffentliche Schule als erste Nation der Welt", "Frankreich führte 1789 nach der Revolution Pflichtschulen für alle Kinder ein", "Die USA gründeten 1776 das erste staatliche Schulsystem der Modernen"],
+    "wrong_answers_ru": ["Англия в 1800 году первой в мире изобрела государственную школу", "Франция в 1789 году после революции ввела обязательные школы для всех детей", "США в 1776 году основали первую государственную школьную систему Нового времени"],
+    "explanation_de": "Friedrich II. (Preußen) erließ 1763 die Schulpflicht. Im 19. Jh. wurden Lehrerseminare und staatliche Schulen ausgebaut. England: Education Act 1870 (Volksschulen). Frankreich: Ferry-Gesetze 1881–82 (kostenlose, weltliche Schulen). Alphabetisierung stieg dramatisch.",
+    "explanation_ru": "Фридрих II (Пруссия) ввёл в 1763 году обязательное обучение. В XIX веке были расширены учительские семинарии и государственные школы. Англия: Закон об образовании 1870 года (народные школы). Франция: законы Ферри 1881–82 годов (бесплатные, светские школы). Грамотность резко возросла.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1870 CE",
+    "tags": ["Gesellschaft", "Deutschland"],
+    "interesting_facts": [
+      {
+        "de": "In England lag die Alphabetisierungsrate 1800 bei 50 % – 1900 bei über 95 %.",
+        "ru": "В Англии уровень грамотности в 1800 году составлял 50% — в 1900-м превысил 95%."
+      },
+      {
+        "de": "Preußische Schulen hatten Militärdisziplin – Sitzen in Reihen, Gehorchen. Dieses Modell verbreitete sich weltweit.",
+        "ru": "Прусские школы имели военную дисциплину — сидение рядами, послушание. Эта модель распространилась по всему миру."
+      },
+      {
+        "de": "John Dewey (USA) reformierte um 1900 die Pädagogik: Lernen durch Tun statt Auswendiglernen.",
+        "ru": "Джон Дьюи (США) около 1900 года реформировал педагогику: обучение через действие вместо зазубривания."
+      }
+    ]
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "id": 8251,
+    "question_de": "Was war die Bedeutung der Erfindung des Verbrennungsmotors durch Nikolaus Otto (1876)?",
+    "question_ru": "Каково было значение изобретения двигателя внутреннего сгорания Николаусом Отто (1876)?",
+    "correct_answer_de": "Der Viertakt-Ottomotor ermöglichte kompakte, mobile Kraftmaschinen und wurde Grundlage des Automobils und der Luftfahrt",
+    "correct_answer_ru": "Четырёхтактный двигатель Отто обеспечил создание компактных мобильных силовых машин и стал основой автомобиля и авиации",
+    "wrong_answers_de": [
+      "Otto erfand den ersten Dieselmotor, der mit Schweröl betrieben wurde",
+      "Der Ottomotor wurde ausschließlich in stationären Fabriken eingesetzt",
+      "Otto entwickelte einen Dampfmotor, der effizienter als alle bisherigen war"
+    ],
+    "wrong_answers_ru": [
+      "Отто изобрёл первый дизельный двигатель, работавший на тяжёлом топливе",
+      "Двигатель Отто использовался исключительно на стационарных фабриках",
+      "Отто разработал паровую машину, более эффективную, чем все предыдущие"
+    ],
+    "explanation_de": "Nikolaus Ottos Viertaktmotor (1876) verwendete Gas als Kraftstoff. Daimler und Benz adaptierten das Prinzip für Benzin – Grundlage aller modernen Verbrennungsmotoren.",
+    "explanation_ru": "Четырёхтактный двигатель Николауса Отто (1876) использовал газ в качестве топлива. Даймлер и Бенц адаптировали принцип для бензина — основа всех современных двигателей внутреннего сгорания.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1876 CE",
+    "tags": ["Otto", "Verbrennungsmotor", "Technik", "Automobil", "Industrialisierung"],
+    "interesting_facts": [
+      {"de": "Das Prinzip des Ottomotors – Ansaugen, Verdichten, Zünden, Ausstoßen – gilt bis heute als Standard.", "ru": "Принцип двигателя Отто — всасывание, сжатие, воспламенение, выхлоп — остаётся стандартом по сей день."},
+      {"de": "Rudolf Diesel entwickelte 1897 eine alternative Version, die mit schwerem Öl läuft.", "ru": "Рудольф Дизель в 1897 году разработал альтернативную версию, работающую на тяжёлом масле."},
+      {"de": "Otto gründete die Deutz AG, die noch heute Motoren produziert.", "ru": "Отто основал Deutz AG, которая производит двигатели по сей день."}
+    ]
+  },
+  {
+    "id": 8252,
+    "question_de": "Was war die historische Bedeutung des Deutsch-Französischen Krieges 1870/71 für Europa?",
+    "question_ru": "Каково было историческое значение Франко-прусской войны 1870/71 года для Европы?",
+    "correct_answer_de": "Deutschland wurde nach dem Sieg über Frankreich als Kaiserreich proklamiert und Frankreich verlor Elsass-Lothringen",
+    "correct_answer_ru": "После победы над Францией Германия была провозглашена империей, а Франция потеряла Эльзас-Лотарингию",
+    "wrong_answers_de": [
+      "Frankreich besiegte Preußen und annektierte das Saarland",
+      "Der Krieg endete unentschieden und bestätigte den Status quo",
+      "Deutschland verlor Bayern an Österreich als Entschädigung für seinen Beitrag"
+    ],
+    "wrong_answers_ru": [
+      "Франция победила Пруссию и аннексировала Саар",
+      "Война закончилась вничью и подтвердила статус-кво",
+      "Германия потеряла Баварию в пользу Австрии как компенсацию за её вклад"
+    ],
+    "explanation_de": "Der Deutsch-Französische Krieg (1870–71) endete mit der deutschen Einigung und Proklamation des Deutschen Kaiserreichs in Versailles (18. Januar 1871). Frankreich zahlt 5 Milliarden Franc Reparationen.",
+    "explanation_ru": "Франко-прусская война (1870–71) завершилась германским объединением и провозглашением Германской империи в Версале (18 января 1871 года). Франция выплатила 5 миллиардов франков репараций.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1871 CE",
+    "tags": ["Deutsch-Französischer Krieg", "Deutschland", "Frankreich", "Kaiserreich", "Elsass"],
+    "interesting_facts": [
+      {"de": "Das Kaiserreich wurde im Spiegelsaal von Versailles proklamiert – eine bewusste Demütigung Frankreichs.", "ru": "Империя была провозглашена в Зеркальном зале Версаля — намеренное унижение Франции."},
+      {"de": "Die Niederlage Frankreichs führte zur Pariser Kommune (1871) und dem Sturz von Napoleon III.", "ru": "Поражение Франции привело к Парижской коммуне (1871) и падению Наполеона III."},
+      {"de": "Elsass-Lothringen blieb bis 1919 deutsch und wurde nach dem Ersten Weltkrieg an Frankreich zurückgegeben.", "ru": "Эльзас-Лотарингия оставалась германской до 1919 года и была возвращена Франции после Первой мировой войны."}
+    ]
+  },
+  {
+    "id": 8253,
+    "question_de": "Was war die Bedeutung der Pädagogik von Johann Heinrich Pestalozzi für die Bildung?",
+    "question_ru": "Каково было значение педагогики Иоганна Генриха Песталоцци для образования?",
+    "correct_answer_de": "Er revolutionierte die Pädagogik durch ganzheitliches Lernen mit Kopf, Herz und Hand und betonte Bildung für alle Schichten",
+    "correct_answer_ru": "Он революционизировал педагогику через целостное обучение с головой, сердцем и руками и подчёркивал образование для всех сословий",
+    "wrong_answers_de": [
+      "Er entwickelte die ersten staatlichen Lehrpläne für das Deutsche Reich",
+      "Er begründete die Universitätspädagogik und reformierte die Hochschulausbildung",
+      "Er führte Lateinisch als Pflichtfach für alle Schulen ein"
+    ],
+    "wrong_answers_ru": [
+      "Он разработал первые государственные учебные программы для Германской империи",
+      "Он основал университетскую педагогику и реформировал высшее образование",
+      "Он ввёл латынь как обязательный предмет для всех школ"
+    ],
+    "explanation_de": "Pestalozzi (1746–1827) gründete Schulen für arme Kinder in der Schweiz und entwickelte eine Methode, die das Kind als Ganzes ansprach: intellektuell, emotional und praktisch.",
+    "explanation_ru": "Песталоцци (1746–1827) основал школы для бедных детей в Швейцарии и разработал метод, обращавшийся к ребёнку как к целостной личности: интеллектуально, эмоционально и практически.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1800 CE",
+    "tags": ["Pestalozzi", "Pädagogik", "Bildung", "Schweiz", "Sozialreform"],
+    "interesting_facts": [
+      {"de": "Pestalozzis Ansatz beeinflusste spätere Reformpädagogen wie Friedrich Fröbel (Kindergartengründer).", "ru": "Подход Песталоцци повлиял на последующих педагогов-реформаторов, таких как Фридрих Фрёбель (основатель детского сада)."},
+      {"de": "Sein Porträt zierte lange den Schweizer 1000-Franken-Schein.", "ru": "Его портрет долгое время украшал швейцарскую купюру в 1000 франков."},
+      {"de": "'Lernen durch Tun' war Pestalozzis Leitprinzip – heute noch in der modernen Pädagogik präsent.", "ru": "«Обучение через действие» было руководящим принципом Песталоцци — он присутствует в современной педагогике по сей день."}
+    ]
+  },
+  {
+    "id": 8254,
+    "question_de": "Was war die Bedeutung der industriellen Webmaschine von Edmund Cartwright (1785)?",
+    "question_ru": "Каково было значение механического ткацкого станка Эдмунда Картрайта (1785)?",
+    "correct_answer_de": "Sie mechanisierte die Textilproduktion, steigerte die Effizienz enorm und verdrängte Heimweber",
+    "correct_answer_ru": "Она механизировала производство тканей, резко повысила эффективность и вытеснила домашних ткачей",
+    "wrong_answers_de": [
+      "Sie wurde nur in Frankreich eingesetzt und hatte in Großbritannien kaum Auswirkungen",
+      "Sie ermöglichte erstmals die Verarbeitung von Baumwolle in Europa",
+      "Sie ersetzte die Spinnmaschine und machte das Spinnen überflüssig"
+    ],
+    "wrong_answers_ru": [
+      "Она использовалась только во Франции и почти не имела последствий в Великобритании",
+      "Она впервые открыла возможность обработки хлопка в Европе",
+      "Она заменила прядильную машину и сделала прядение излишним"
+    ],
+    "explanation_de": "Cartwrights Kraftwebstuhl (1785) war ein dampfbetriebener mechanischer Webstuhl. Zusammen mit der Spinnmaschine (Hargreaves, Arkwright) revolutionierte er die Textilindustrie.",
+    "explanation_ru": "Силовой ткацкий станок Картрайта (1785) был механическим паровым ткацким станком. Вместе с прядильной машиной (Харгривс, Аркрайт) он революционизировал текстильную промышленность.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1785 CE",
+    "tags": ["Webmaschine", "Textilindustrie", "Industrialisierung", "Großbritannien", "Technik"],
+    "interesting_facts": [
+      {"de": "Die maschinelle Weberei zerstörte die Lebensgrundlage der Heimweber – die Ludditen zerstörten Maschinen im Protest.", "ru": "Механическое ткачество разрушило источник существования домашних ткачей — луддиты в знак протеста уничтожали машины."},
+      {"de": "Manchester wurde zum 'Cottonopolis' – Weltzentrum der Baumwollproduktion.", "ru": "Манчестер стал «Котонополисом» — мировым центром производства хлопка."},
+      {"de": "Die Textilbranche war der wichtigste Wirtschaftszweig der frühen Industrialisierung in Großbritannien.", "ru": "Текстильная отрасль была важнейшим экономическим сектором ранней индустриализации в Великобритании."}
+    ]
+  },
+  {
+    "id": 8255,
+    "question_de": "Was war die politische Bedeutung des Wiedererstarkens des Osmanischen Reiches unter Tanzimat-Reformen (1839–76)?",
+    "question_ru": "Каково было политическое значение усиления Османской империи благодаря реформам Танзимата (1839–76)?",
+    "correct_answer_de": "Modernisierungsreformen zur Gleichstellung der Religionen und Aufbau eines modernen Staatswesens als Antwort auf europäischen Druck",
+    "correct_answer_ru": "Реформы модернизации по уравнению религий и построению современной государственности как ответ на европейское давление",
+    "wrong_answers_de": [
+      "Militärische Reformen, die das Reich zur stärksten Armee in Asien und Afrika machten",
+      "Religiöse Reformen zur Verbreitung des Islam in den Balkangebieten",
+      "Wirtschaftsreformen zur Industrialisierung nach westlichem Vorbild"
+    ],
+    "wrong_answers_ru": [
+      "Военные реформы, сделавшие империю обладателем сильнейшей армии в Азии и Африке",
+      "Религиозные реформы для распространения ислама на Балканах",
+      "Экономические реформы для индустриализации по западному образцу"
+    ],
+    "explanation_de": "Die Tanzimat ('Reorganisation') reformierten das Osmanische Reich: Gleichheit vor dem Gesetz für alle Religionen, Säkularisierung des Bildungswesens, Einführung einer Verfassung (1876).",
+    "explanation_ru": "Танзимат («реорганизация») реформировал Османскую империю: равенство перед законом для всех религий, светское образование, введение конституции (1876).",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1839 CE",
+    "tags": ["Tanzimat", "Osmanisches Reich", "Reform", "Modernisierung", "Islam"],
+    "interesting_facts": [
+      {"de": "Das Hatt-i Hümayun (1856) gewährte Nicht-Muslimen im Reich offiziell Gleichberechtigung.", "ru": "Хатт-и Хюмаюн (1856) официально предоставил немусульманам в империи равноправие."},
+      {"de": "Die Jungtürken overthrew 1908 den Sultan und setzten die Verfassung wieder in Kraft.", "ru": "В 1908 году младотурки свергли султана и восстановили конституцию."},
+      {"de": "Tanzimat war ein Versuch, das 'kranke' Reich durch Übernahme westlicher Institutionen zu retten.", "ru": "Танзимат был попыткой спасти «больную» империю через принятие западных институтов."}
+    ]
+  },
+  {
+    "id": 8256,
+    "question_de": "Was war die Bedeutung der Entdeckung der Elektrizität und ihrer industriellen Nutzung im 19. Jahrhundert?",
+    "question_ru": "Каково было значение открытия электричества и его промышленного применения в XIX веке?",
+    "correct_answer_de": "Elektrizität revolutionierte Beleuchtung, Kommunikation und Produktionsprozesse und ermöglichte eine zweite Industrielle Revolution",
+    "correct_answer_ru": "Электричество революционизировало освещение, связь и производственные процессы и обеспечило Вторую промышленную революцию",
+    "wrong_answers_de": [
+      "Elektrizität wurde hauptsächlich für medizinische Zwecke genutzt und hatte kaum industrielle Bedeutung",
+      "Die industrielle Nutzung der Elektrizität begann erst im 20. Jahrhundert",
+      "Elektrizität ersetzte im 19. Jahrhundert vollständig die Dampfkraft in allen Fabriken"
+    ],
+    "wrong_answers_ru": [
+      "Электричество использовалось главным образом в медицинских целях и имело мало промышленного значения",
+      "Промышленное применение электричества началось лишь в XX веке",
+      "В XIX веке электричество полностью вытеснило паровую силу на всех фабриках"
+    ],
+    "explanation_de": "Faradays Entdeckungen (1831), Edisons Glühbirne (1879) und Teslas Wechselstrom (1880er) revolutionierten Beleuchtung, Motoren und Telegrafie. Kraftwerke entstanden ab den 1880ern.",
+    "explanation_ru": "Открытия Фарадея (1831), лампочка Эдисона (1879) и переменный ток Теслы (1880-е) революционизировали освещение, двигатели и телеграфию. Электростанции появились с 1880-х годов.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1880 CE",
+    "tags": ["Elektrizität", "Edison", "Tesla", "Industrialisierung", "Energie"],
+    "interesting_facts": [
+      {"de": "Der 'War of Currents' zwischen Edison (Gleichstrom) und Tesla/Westinghouse (Wechselstrom) entschied Tesla für sich.", "ru": "«Война токов» между Эдисоном (постоянный ток) и Теслой/Вестингаузом (переменный ток) завершилась победой Теслы."},
+      {"de": "Das erste öffentliche Kraftwerk wurde 1882 von Edison in New York in Betrieb genommen.", "ru": "Первая общественная электростанция была введена в эксплуатацию Эдисоном в Нью-Йорке в 1882 году."},
+      {"de": "Elektrische Straßenbahnen ersetzten ab 1880 in vielen Städten die Pferdebahn.", "ru": "Электрические трамваи с 1880-х годов заменили конку во многих городах."}
+    ]
+  },
+  {
+    "id": 8257,
+    "question_de": "Was war die Bedeutung des Boxeraufstands in China (1899–1901)?",
+    "question_ru": "Каково было значение Боксёрского восстания в Китае (1899–1901)?",
+    "correct_answer_de": "Ein chinesischer Volksaufstand gegen ausländische Einflüsse und christliche Missionare, der von einer internationalen Allianz niedergeschlagen wurde",
+    "correct_answer_ru": "Китайское народное восстание против иностранного влияния и христианских миссионеров, подавленное международной коалицией",
+    "wrong_answers_de": [
+      "Eine kommunistische Revolution in China, die zur Gründung der Volksrepublik führte",
+      "Ein Aufstand der Kaiserlichen Armee gegen die Qing-Dynastie",
+      "Ein Handelskrieg zwischen China und europäischen Mächten über Zölle"
+    ],
+    "wrong_answers_ru": [
+      "Коммунистическая революция в Китае, приведшая к созданию Народной Республики",
+      "Восстание императорской армии против династии Цин",
+      "Торговая война между Китаем и европейскими державами из-за таможенных пошлин"
+    ],
+    "explanation_de": "Die 'Yihetuan' (Gerechte und harmonische Fäuste) belagerten 1900 die Botschaftsviertel in Peking. Eine 8-Mächte-Allianz unter Beteiligung Deutschlands brach die Belagerung.",
+    "explanation_ru": "«Ихэтуани» (Отряды справедливости и мира) в 1900 году осадили посольский квартал в Пекине. Коалиция 8 держав с участием Германии сняла осаду.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1900 CE",
+    "tags": ["Boxeraufstand", "China", "Kolonialismus", "Qing", "Missionare"],
+    "interesting_facts": [
+      {"de": "Kaiser Wilhelm II. hielt eine berühmt-berüchtigte 'Hunnenrede', in der er deutsche Soldaten zu rücksichtsloser Härte aufforderte.", "ru": "Кайзер Вильгельм II произнёс печально известную «гуннскую речь», призывая немецких солдат к беспощадной жёсткости."},
+      {"de": "China musste nach dem Boxerprotokoll (1901) riesige Reparationen zahlen und Stützpunkte abtreten.", "ru": "По Боксёрскому протоколу (1901) Китай был вынужден выплатить огромные репарации и уступить опорные пункты."},
+      {"de": "Der Aufstand schwächte die Qing-Dynastie weiter und ebnete den Weg zur Revolution 1911.", "ru": "Восстание ещё больше ослабило династию Цин и проложило путь к революции 1911 года."}
+    ]
+  },
+  {
+    "id": 8258,
+    "question_de": "Was war die Bedeutung des Konstruktivismus als Architekturstil um 1900?",
+    "question_ru": "Каково было значение конструктивизма как архитектурного стиля около 1900 года?",
+    "correct_answer_de": "Er brach mit historistischen Dekorationsformen und betonte Funktion, neue Materialien (Stahl, Beton, Glas) und rationale Gestaltung",
+    "correct_answer_ru": "Он порвал с историческими декоративными формами и акцентировал функцию, новые материалы (сталь, бетон, стекло) и рациональный дизайн",
+    "wrong_answers_de": [
+      "Ein religiöser Baustil, der gotische Kathedralen in der Moderne wiederbelebte",
+      "Eine Rückkehr zu antiken griechischen und römischen Bauformen",
+      "Ein Stil, der ausschließlich von Holz und traditionellen Materialien abhängig war"
+    ],
+    "wrong_answers_ru": [
+      "Религиозный архитектурный стиль, возродивший готические соборы в современности",
+      "Возвращение к античным греческим и римским строительным формам",
+      "Стиль, зависевший исключительно от дерева и традиционных материалов"
+    ],
+    "explanation_de": "Die Moderne Architektur (Art Nouveau, Jugendstil, später Konstruktivismus) experimentierte mit Stahl, Glas und Beton. Das Bauhaus (ab 1919) setzte diese Linie fort.",
+    "explanation_ru": "Современная архитектура (ар-нуво, югендстиль, впоследствии конструктивизм) экспериментировала со сталью, стеклом и бетоном. Баухаус (с 1919 года) продолжил эту линию.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1900 CE",
+    "tags": ["Architektur", "Konstruktivismus", "Moderne", "Jugendstil", "Design"],
+    "interesting_facts": [
+      {"de": "Der Eiffelturm (1889) war eine der ersten großen Stahlkonstruktionen und wurde zunächst als hässlich kritisiert.", "ru": "Эйфелева башня (1889) была одной из первых крупных стальных конструкций и поначалу подвергалась критике как уродливая."},
+      {"de": "Antoni Gaudís Werke in Barcelona (Sagrada Família) kombinieren Jugendstil mit modernem Konstruktivismus.", "ru": "Произведения Антонио Гауди в Барселоне (Саграда Фамилия) сочетают ар-нуво с современным конструктивизмом."},
+      {"de": "Das Bauhaus-Institut (1919–1933) war einflussreich für Design, Architektur und Kunst weltweit.", "ru": "Институт Баухаус (1919–1933) оказал влияние на дизайн, архитектуру и искусство во всём мире."}
+    ]
+  },
+  {
+    "id": 8259,
+    "question_de": "Was war die historische Bedeutung der Bauernbefreiung in Russland 1861?",
+    "question_ru": "Каково было историческое значение освобождения крестьян в России в 1861 году?",
+    "correct_answer_de": "Zar Alexander II. befreite 23 Millionen Leibeigene, die jedoch Land kaufen mussten und in Armut blieben",
+    "correct_answer_ru": "Царь Александр II освободил 23 миллиона крепостных, которые, однако, должны были выкупать землю и оставались в бедности",
+    "wrong_answers_de": [
+      "Die Bauern erhielten ihr Land kostenlos und wurden sofort wohlhabende Grundbesitzer",
+      "Die Befreiung führte zur vollständigen Abschaffung der Monarchie in Russland",
+      "Die Reform wurde von einer Volksrevolution erzwungen, die den Zaren stürzen wollte"
+    ],
+    "wrong_answers_ru": [
+      "Крестьяне получили землю бесплатно и сразу стали зажиточными землевладельцами",
+      "Освобождение привело к полной отмене монархии в России",
+      "Реформа была продиктована народной революцией, стремившейся свергнуть царя"
+    ],
+    "explanation_de": "Zar Alexander II. schaffte 1861 die Leibeigenschaft ab. Die Bauern erhielten Land gegen Ablösezahlungen über 49 Jahre. Viele verarmten trotzdem – der Grundstein für 1905 und 1917.",
+    "explanation_ru": "В 1861 году царь Александр II отменил крепостное право. Крестьяне получали землю за выкупные платежи на 49 лет. Многие всё равно беднели — основа для 1905 и 1917 годов.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1861 CE",
+    "tags": ["Russland", "Bauernbefreiung", "Leibeigenschaft", "Alexander II", "Reform"],
+    "interesting_facts": [
+      {"de": "Russland war das letzte europäische Land, das die Leibeigenschaft abschaffte – 46 Jahre nach Napoleon.", "ru": "Россия была последней европейской страной, отменившей крепостное право — через 46 лет после Наполеона."},
+      {"de": "Zar Alexander II. wurde 1881 durch eine Bombe einer russischen Terroristengruppe getötet.", "ru": "Царь Александр II был убит в 1881 году бомбой русской террористической группы."},
+      {"de": "Die Mir-Gemeindestruktur ('Obshchina') blieb nach der Reform erhalten und behinderte individuelle Landnutzung.", "ru": "Общинная структура («мир») после реформы сохранилась и препятствовала индивидуальному землепользованию."}
+    ]
+  },
+  {
+    "id": 8260,
+    "question_de": "Was war die Bedeutung des Konzepts 'Manifest Destiny' in den USA des 19. Jahrhunderts?",
+    "question_ru": "Каково было значение концепции «Предначертанной судьбы» в США XIX века?",
+    "correct_answer_de": "Die Überzeugung, dass die USA das Recht und die Pflicht hätten, sich über den gesamten nordamerikanischen Kontinent auszudehnen",
+    "correct_answer_ru": "Убеждение, что США имеют право и обязанность распространиться по всему североамериканскому континенту",
+    "wrong_answers_de": [
+      "Die Idee, dass die USA eine demokratische Weltregierung gründen sollten",
+      "Die Überzeugung, dass Amerika Europas Kolonien in der Neuen Welt übernehmen sollte",
+      "Ein religiöses Konzept zur Missionierung der amerikanischen Ureinwohner"
+    ],
+    "wrong_answers_ru": [
+      "Идея о том, что США должны создать демократическое мировое правительство",
+      "Убеждение, что Америка должна взять под контроль колонии Европы в Новом Свете",
+      "Религиозная концепция миссионерства среди коренных американцев"
+    ],
+    "explanation_de": "'Manifest Destiny' rechtfertigte die US-Expansion nach Westen, den Landraub bei Mexiko (1848) und die Verdrängung der Ureinwohner. Sie prägte die amerikanische Politik bis ins 20. Jahrhundert.",
+    "explanation_ru": "«Предначертанная судьба» оправдывала западную экспансию США, захват земли у Мексики (1848) и вытеснение коренных народов. Она формировала американскую политику вплоть до XX века.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1845 CE",
+    "tags": ["Manifest Destiny", "USA", "Expansion", "Frontier", "Westward Movement"],
+    "interesting_facts": [
+      {"de": "Der Begriff wurde 1845 vom Journalisten John O'Sullivan geprägt.", "ru": "Термин был введён в 1845 году журналистом Джоном О'Салливаном."},
+      {"de": "Die USA kauften Louisiana (1803), Texas, Kalifornien und Oregon durch Kriege und Kauf zusammen.", "ru": "США присоединили Луизиану (1803), Техас, Калифорнию и Орегон путём войн и покупок."},
+      {"de": "Die Idee wurde genutzt, um den Spanisch-Amerikanischen Krieg (1898) zu rechtfertigen.", "ru": "Эта идея использовалась для обоснования Испано-американской войны (1898)."}
+    ]
+  },
+  {
+    "id": 8261,
+    "question_de": "Was war die politische Bedeutung der Einführung der Sozialversicherung in Deutschland (1883–89)?",
+    "question_ru": "Каково было политическое значение введения социального страхования в Германии (1883–89)?",
+    "correct_answer_de": "Bismarck schuf das erste staatliche Sozialversicherungssystem der Welt, um Arbeiter an den Staat zu binden und Sozialisten zu entgegenwirken",
+    "correct_answer_ru": "Бисмарк создал первую в мире государственную систему социального страхования, чтобы привязать рабочих к государству и противодействовать социалистам",
+    "wrong_answers_de": [
+      "Die Sozialversicherung wurde von Gewerkschaften erkämpft und von Bismarck widerwillig eingeführt",
+      "Das System war ein reines Wohltätigkeitsprojekt der evangelischen Kirche",
+      "Bismarck führte Sozialversicherung ein, um Österreich im Wettbewerb um Arbeiter zu unterbieten"
+    ],
+    "wrong_answers_ru": [
+      "Социальное страхование было завоёвано профсоюзами и неохотно введено Бисмарком",
+      "Система была чисто благотворительным проектом евангелической церкви",
+      "Бисмарк ввёл социальное страхование, чтобы превзойти Австрию в конкуренции за рабочих"
+    ],
+    "explanation_de": "Bismarck führte 1883 Krankenversicherung, 1884 Unfallversicherung und 1889 Rentenversicherung ein – ein revolutionäres 'Zuckerbrot' neben dem 'Peitsche' des Sozialistengesetzes.",
+    "explanation_ru": "Бисмарк ввёл в 1883 году медицинское страхование, в 1884-м — страхование от несчастных случаев и в 1889-м — пенсионное страхование — революционный «пряник» наряду с «кнутом» Закона о социалистах.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1883 CE",
+    "tags": ["Sozialversicherung", "Bismarck", "Deutschland", "Sozialstaat", "Arbeiterbewegung"],
+    "interesting_facts": [
+      {"de": "Das deutsche Sozialversicherungssystem wurde weltweit zum Vorbild für staatliche Sozialleistungen.", "ru": "Немецкая система социального страхования стала мировым образцом для государственных социальных пособий."},
+      {"de": "Das Renteneintrittsalter war ursprünglich 70 Jahre – die meisten Arbeiter erreichten es nie.", "ru": "Первоначальный пенсионный возраст составлял 70 лет — большинство рабочих до него не доживали."},
+      {"de": "Bismarck selbst war kein Sozialist – das System sollte revolutionäre Energie kanalisieren.", "ru": "Сам Бисмарк не был социалистом — система должна была канализировать революционную энергию."}
+    ]
+  },
+  {
+    "id": 8262,
+    "question_de": "Was war die Bedeutung der Entdeckung Australiens und seiner Kolonisierung durch Großbritannien?",
+    "question_ru": "Каково было значение открытия Австралии и её колонизации Великобританией?",
+    "correct_answer_de": "Australien wurde als Strafkolonie gegründet und entwickelte sich im 19. Jahrhundert zu einer prosperierenden britischen Siedlungskolonie",
+    "correct_answer_ru": "Австралия была основана как каторжная колония и в XIX веке превратилась в процветающую британскую колонию поселенцев",
+    "wrong_answers_de": [
+      "Australien wurde von Frankreich entdeckt und erst nach einem Krieg an Großbritannien abgetreten",
+      "Australien wurde direkt als unabhängige Demokratie ohne britische Kolonialpräsenz gegründet",
+      "Die Kolonisierung begann erst mit dem Goldrausch 1851 und nicht früher"
+    ],
+    "wrong_answers_ru": [
+      "Австралия была открыта Францией и лишь после войны уступлена Великобритании",
+      "Австралия была основана напрямую как независимая демократия без британского колониального присутствия",
+      "Колонизация началась только с золотой лихорадкой 1851 года, а не раньше"
+    ],
+    "explanation_de": "James Cook landete 1770 in Australien. Ab 1788 schickte Großbritannien Straftäter nach Botany Bay. Gold (1851) löste Masseneinwanderung aus. 1901 bildete Australien einen eigenen Bundesstaat.",
+    "explanation_ru": "Джеймс Кук высадился в Австралии в 1770 году. С 1788 года Великобритания отправляла осуждённых в залив Ботани. Золото (1851) вызвало массовую иммиграцию. В 1901 году Австралия образовала собственное федеральное государство.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1788 CE",
+    "tags": ["Australien", "Großbritannien", "Kolonialismus", "Gold", "Siedlungskolonie"],
+    "interesting_facts": [
+      {"de": "Über 160.000 Straftäter wurden zwischen 1788 und 1868 nach Australien deportiert.", "ru": "С 1788 по 1868 год в Австралию было депортировано более 160 000 осуждённых."},
+      {"de": "Die Ureinwohner Australiens (Aborigines) litten massiv unter der Kolonisierung.", "ru": "Коренные народы Австралии (аборигены) тяжело пострадали от колонизации."},
+      {"de": "Australien gewährte Frauen 1902 als zweites Land weltweit das Wahlrecht.", "ru": "Австралия в 1902 году стала второй страной в мире, предоставившей женщинам право голоса."}
+    ]
+  },
+  {
+    "id": 8263,
+    "question_de": "Was war die Bedeutung der Schriften von John Locke für die politische Philosophie?",
+    "question_ru": "Каково было значение трудов Джона Локка для политической философии?",
+    "correct_answer_de": "Er begründete die Theorie des Gesellschaftsvertrags und des Naturrechts und beeinflusste amerikanische und französische Revolutionäre",
+    "correct_answer_ru": "Он заложил теорию общественного договора и естественного права и повлиял на американских и французских революционеров",
+    "wrong_answers_de": [
+      "Er begründete den Absolutismus als natürliche Staatsform durch göttliches Recht",
+      "Er war der erste Sozialist und forderte die Abschaffung des Privateigentums",
+      "Er entwickelte den Marxismus als Kritik des Kapitalismus im 17. Jahrhundert"
+    ],
+    "wrong_answers_ru": [
+      "Он заложил основы абсолютизма как естественной формы государства через божественное право",
+      "Он был первым социалистом и требовал отмены частной собственности",
+      "Он разработал марксизм как критику капитализма в XVII веке"
+    ],
+    "explanation_de": "John Locke (1632–1704) formulierte in 'Two Treatises of Government' (1689): Menschen haben natürliche Rechte auf Leben, Freiheit und Eigentum. Regierungen dürfen nur mit Zustimmung der Regierten herrschen.",
+    "explanation_ru": "Джон Локк (1632–1704) сформулировал в «Двух трактатах о правлении» (1689): люди обладают естественными правами на жизнь, свободу и собственность. Правительства могут править лишь с согласия управляемых.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1690 CE",
+    "tags": ["Locke", "Aufklärung", "Naturrecht", "Liberalismus", "Philosophie"],
+    "interesting_facts": [
+      {"de": "Lockes Ideen beeinflussten direkt die amerikanische Unabhängigkeitserklärung (1776).", "ru": "Идеи Локка непосредственно повлияли на американскую Декларацию независимости (1776)."},
+      {"de": "Locke befürwortete die Gewaltenteilung – eine Idee, die Montesquieu weiterentwickelte.", "ru": "Локк поддерживал разделение властей — идею, которую развил Монтескьё."},
+      {"de": "Locke schrieb auch über Bildung und Toleranz: 'A Letter Concerning Toleration' (1689).", "ru": "Локк также писал об образовании и веротерпимости: «Письмо о веротерпимости» (1689)."}
+    ]
+  },
+  {
+    "id": 8264,
+    "question_de": "Was war die Bedeutung des Aufstiegs der Presse in der Öffentlichkeit des 19. Jahrhunderts?",
+    "question_ru": "Каково было значение подъёма прессы в общественной жизни XIX века?",
+    "correct_answer_de": "Die Massenpresse schuf erstmals eine breite Öffentlichkeit und ermöglichte politische Meinungsbildung über soziale Schichten hinaus",
+    "correct_answer_ru": "Массовая пресса впервые создала широкую общественность и обеспечила политическое формирование мнений за пределами социальных слоёв",
+    "wrong_answers_de": [
+      "Die Presse blieb ausschließlich im Besitz der Regierung und war ein reines Propagandainstrument",
+      "Die Zeitungen ersetzten kirchliche Institutionen als moralische Autoritäten",
+      "Die Presse hatte kaum Einfluss, da Bücher das wichtigere Medium blieben"
+    ],
+    "wrong_answers_ru": [
+      "Пресса оставалась исключительно в руках правительства и была чисто пропагандистским инструментом",
+      "Газеты заменили церковные институты как моральные авторитеты",
+      "Пресса почти не имела влияния, поскольку книги оставались более важным средством"
+    ],
+    "explanation_de": "Technische Neuerungen (Rotationspresse 1844, Linotype 1886) ermöglichten Massenauflagen. Zeitungen wie 'The Times' oder 'Le Figaro' prägten die politische Debatte.",
+    "explanation_ru": "Технические новшества (ротационная машина 1844, линотип 1886) сделали возможными массовые тиражи. Газеты, такие как «The Times» или «Le Figaro», формировали политические дискуссии.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1860 CE",
+    "tags": ["Presse", "Öffentlichkeit", "Medien", "Meinungsbildung", "Demokratie"],
+    "interesting_facts": [
+      {"de": "In den USA wurde 'Yellow Journalism' zu einem Problem – Sensationsjournalismus löste den Spanisch-Amerikanischen Krieg 1898 mit aus.", "ru": "В США «жёлтая журналистика» стала проблемой — сенсационная журналистика способствовала Испано-американской войне 1898 года."},
+      {"de": "Der erste transatlantische Telegrafenkabel (1866) ermöglichte tagesaktuelle Nachrichten aus der Neuen Welt.", "ru": "Первый трансатлантический телеграфный кабель (1866) сделал возможными ежедневные новости из Нового Света."},
+      {"de": "Heinrich Heine, Karl Marx und andere nutzten Zeitungen als politisches Kampfmittel.", "ru": "Генрих Гейне, Карл Маркс и другие использовали газеты как политическое оружие."}
+    ]
+  },
+  {
+    "id": 8265,
+    "question_de": "Was war die Bedeutung der Entstehung des modernen Bankwesens im 19. Jahrhundert?",
+    "question_ru": "Каково было значение возникновения современной банковской системы в XIX веке?",
+    "correct_answer_de": "Moderne Banken finanzierten Industrialisierung, Eisenbahn und Staatsschulden und schufen die Grundlage des Kapitalmarkts",
+    "correct_answer_ru": "Современные банки финансировали индустриализацию, железные дороги и государственные долги и создали основу рынка капитала",
+    "wrong_answers_de": [
+      "Banken dienten ausschließlich der Aufbewahrung von Gold und spielten keine wirtschaftliche Rolle",
+      "Das moderne Bankwesen entstand erst im 20. Jahrhundert nach der Großen Depression",
+      "Banken wurden im 19. Jahrhundert verboten und durch staatliche Kassen ersetzt"
+    ],
+    "wrong_answers_ru": [
+      "Банки служили исключительно хранению золота и не играли экономической роли",
+      "Современная банковская система возникла лишь в XX веке после Великой депрессии",
+      "Банки были запрещены в XIX веке и заменены государственными казначействами"
+    ],
+    "explanation_de": "Die Rothschilds finanzierten Napoleonische Kriege. JP Morgan, Baring Brothers und Deutsche Bank investierten in Eisenbahnen und Industrie. Das Aktienkapital ermöglichte Masseninvestitionen.",
+    "explanation_ru": "Ротшильды финансировали Наполеоновские войны. ДжиПи Морган, Братья Бэринг и Deutsche Bank инвестировали в железные дороги и промышленность. Акционерный капитал сделал возможными массовые инвестиции.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1850 CE",
+    "tags": ["Bankwesen", "Kapitalismus", "Rothschild", "Morgan", "Industrialisierung"],
+    "interesting_facts": [
+      {"de": "Nathan Rothschild verdiente ein Vermögen, indem er als erster von Napoleons Niederlage bei Waterloo erfuhr.", "ru": "Натан Ротшильд нажил состояние, первым узнав о поражении Наполеона при Ватерлоо."},
+      {"de": "Die Londoner Börse (London Stock Exchange) wurde 1801 offiziell gegründet.", "ru": "Лондонская фондовая биржа была официально основана в 1801 году."},
+      {"de": "Aktiengesellschaften ermöglichten erstmals breiten Bevölkerungsschichten die Beteiligung an Unternehmen.", "ru": "Акционерные общества впервые позволили широким слоям населения участвовать в предприятиях."}
+    ]
+  },
+  {
+    "id": 8266,
+    "question_de": "Was war die Bedeutung der Schriften von Karl Marx im historischen Kontext des 19. Jahrhunderts?",
+    "question_ru": "Каково было значение трудов Карла Маркса в историческом контексте XIX века?",
+    "correct_answer_de": "Marx lieferte eine wissenschaftliche Kritik des Kapitalismus und prophezeite die Notwendigkeit einer proletarischen Revolution",
+    "correct_answer_ru": "Маркс дал научную критику капитализма и предсказал неизбежность пролетарской революции",
+    "wrong_answers_de": [
+      "Marx befürwortete den freien Markt und lehnte staatliche Eingriffe in die Wirtschaft ab",
+      "Seine Werke blieben zu seinen Lebzeiten unbeachtet und wurden erst nach seinem Tod entdeckt",
+      "Marx entwickelte ein System zur Reform des Kapitalismus, ohne diesen grundsätzlich abzulehnen"
+    ],
+    "wrong_answers_ru": [
+      "Маркс поддерживал свободный рынок и отвергал государственное вмешательство в экономику",
+      "Его произведения оставались незамеченными при его жизни и были открыты лишь после его смерти",
+      "Маркс разработал систему реформирования капитализма, принципиально не отвергая его"
+    ],
+    "explanation_de": "Marx (1818–1883) analysierte in 'Das Kapital' (1867) den Kapitalismus als System der Ausbeutung. Seine Ideen beeinflussten Gewerkschaften, Sozialdemokratie und revolutionären Kommunismus.",
+    "explanation_ru": "В «Капитале» (1867) Маркс (1818–1883) анализировал капитализм как систему эксплуатации. Его идеи повлияли на профсоюзы, социал-демократию и революционный коммунизм.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1867 CE",
+    "tags": ["Marx", "Kapitalismus", "Kommunismus", "Arbeiterbewegung", "Kapital"],
+    "interesting_facts": [
+      {"de": "Der erste Band des Kapitals erschien 1867; Bände 2 und 3 wurden posthum von Engels veröffentlicht.", "ru": "Первый том «Капитала» вышел в 1867 году; 2-й и 3-й тома были опубликованы посмертно Энгельсом."},
+      {"de": "Marx lebte die meiste Zeit seines Lebens in Armut im Londoner Exil.", "ru": "Маркс провёл большую часть жизни в бедности в лондонском изгнании."},
+      {"de": "Sein Grab auf dem Highgate Cemetery in London ist bis heute eine Pilgerstätte.", "ru": "Его могила на Хайгейтском кладбище в Лондоне по сей день является местом паломничества."}
+    ]
+  },
+  {
+    "id": 8267,
+    "question_de": "Was war die Bedeutung der Erfindung des Dynamos durch Werner von Siemens (1866)?",
+    "question_ru": "Каково было значение изобретения динамо-машины Вернером фон Сименсом (1866)?",
+    "correct_answer_de": "Der Dynamoelektrischer Generator ermöglichte die industrielle Stromerzeugung und legte den Grundstein für die Elektrifizierung",
+    "correct_answer_ru": "Динамоэлектрический генератор обеспечил промышленное производство электроэнергии и заложил основу электрификации",
+    "wrong_answers_de": [
+      "Der Dynamo wurde ausschließlich für Telegrafie entwickelt",
+      "Siemens erfand damit die erste Batterie für tragbare Geräte",
+      "Der Dynamo verdrängte sofort die Dampfmaschine in allen Anwendungen"
+    ],
+    "wrong_answers_ru": [
+      "Динамо было разработано исключительно для телеграфии",
+      "Сименс тем самым изобрёл первый аккумулятор для портативных устройств",
+      "Динамо немедленно вытеснило паровую машину во всех областях применения"
+    ],
+    "explanation_de": "Werner von Siemens entwickelte 1866 das Dynamo-elektrische Prinzip: mechanische Energie wird in elektrischen Strom umgewandelt. Damit wurde die großindustrielle Stromerzeugung möglich.",
+    "explanation_ru": "В 1866 году Вернер фон Сименс разработал динамоэлектрический принцип: механическая энергия преобразуется в электрический ток. Это сделало возможным крупнопромышленное производство электроэнергии.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1866 CE",
+    "tags": ["Siemens", "Dynamo", "Elektrizität", "Erfindung", "Industrialisierung"],
+    "interesting_facts": [
+      {"de": "Siemens gründete auch das Unternehmen, das heute als Siemens AG bekannt ist.", "ru": "Сименс также основал компанию, известную сегодня как Siemens AG."},
+      {"de": "Die erste elektrische Straßenbahn der Welt wurde 1881 von Siemens in Berlin gebaut.", "ru": "Первый в мире электрический трамвай был построен Сименсом в Берлине в 1881 году."},
+      {"de": "Siemens baute das erste Unterseekabel zwischen England und Irland.", "ru": "Сименс проложил первый подводный кабель между Англией и Ирландией."}
+    ]
+  },
+  {
+    "id": 8268,
+    "question_de": "Was war die historische Bedeutung der Verfassung der USA (1787) für das 19. Jahrhundert?",
+    "question_ru": "Каково было историческое значение Конституции США (1787) для XIX века?",
+    "correct_answer_de": "Sie schuf eine stabile Republik mit Gewaltenteilung und Bill of Rights als Vorbild für Verfassungen anderer Länder weltweit",
+    "correct_answer_ru": "Она создала стабильную республику с разделением властей и Биллем о правах как образец для конституций других стран мира",
+    "wrong_answers_de": [
+      "Sie scheiterte kurz nach ihrer Einführung und wurde durch eine Monarchie ersetzt",
+      "Sie hatte keinen internationalen Einfluss und wurde nur in den USA bekannt",
+      "Sie war ausschließlich auf Sklaven und Frauen ausgerichtet und gewährte nur ihnen Rechte"
+    ],
+    "wrong_answers_ru": [
+      "Она потерпела неудачу вскоре после введения и была заменена монархией",
+      "Она не имела международного влияния и была известна только в США",
+      "Она была направлена исключительно на рабов и женщин и предоставляла права только им"
+    ],
+    "explanation_de": "Die amerikanische Verfassung (1787) etablierte Gewaltenteilung, Föderalismus und Grundrechte. Sie inspirierte französische Revolutionäre, lateinamerikanische Republiken und europäische Liberale.",
+    "explanation_ru": "Американская конституция (1787) установила разделение властей, федерализм и основные права. Она вдохновила французских революционеров, латиноамериканские республики и европейских либералов.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1787 CE",
+    "tags": ["Verfassung", "USA", "Demokratie", "Gewaltenteilung", "Liberalismus"],
+    "interesting_facts": [
+      {"de": "Die ersten zehn Verfassungszusätze (Bill of Rights, 1791) garantieren Grundrechte wie Redefreiheit und Religionsfreiheit.", "ru": "Первые десять поправок к Конституции (Билль о правах, 1791) гарантируют основные права — свободу слова и вероисповедания."},
+      {"de": "Die US-Verfassung ist mit 234 Jahren die älteste noch gültige nationale Verfassung der Welt.", "ru": "Конституция США возрастом 234 года является старейшей действующей национальной конституцией в мире."},
+      {"de": "James Madison wird 'Vater der Verfassung' genannt – er schrieb große Teile des Textes.", "ru": "Джеймс Мэдисон называется «отцом Конституции» — он написал бо́льшую часть текста."}
+    ]
+  },
+  {
+    "id": 8269,
+    "question_de": "Was war die soziale Bedeutung der Kinderarbeit im frühen 19. Jahrhundert und ihre schrittweise Abschaffung?",
+    "question_ru": "Каково было социальное значение детского труда в начале XIX века и его постепенная отмена?",
+    "correct_answer_de": "Kinder arbeiteten unter lebensgefährlichen Bedingungen in Fabriken, bis Schutzgesetze in Großbritannien ab 1833 Verbesserungen brachten",
+    "correct_answer_ru": "Дети работали в опасных для жизни условиях на фабриках, пока законы об охране труда в Великобритании с 1833 года не принесли улучшений",
+    "wrong_answers_de": [
+      "Kinderarbeit war im 19. Jahrhundert unbekannt und eine Erfindung des 20. Jahrhunderts",
+      "Kinderarbeit war nur in Südamerika verbreitet und betraf europäische Kinder kaum",
+      "Die Kirche setzte bereits 1800 ein vollständiges Verbot der Kinderarbeit in Europa durch"
+    ],
+    "wrong_answers_ru": [
+      "Детский труд был неизвестен в XIX веке и является изобретением XX века",
+      "Детский труд был распространён только в Южной Америке и почти не затрагивал европейских детей",
+      "Церковь в 1800 году ввела полный запрет детского труда в Европе"
+    ],
+    "explanation_de": "Im frühen 19. Jahrhundert arbeiteten Kinder ab 5 Jahren in Minen und Fabriken. Der britische Factory Act 1833 verbot Kinderarbeit unter 9 Jahren und begrenzte Arbeitszeiten.",
+    "explanation_ru": "В начале XIX века дети с 5 лет работали в шахтах и на фабриках. Британский Фабричный закон 1833 года запретил детский труд до 9 лет и ограничил рабочее время.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1833 CE",
+    "tags": ["Kinderarbeit", "Fabrikgesetz", "Großbritannien", "Sozialreform", "Industrialisierung"],
+    "interesting_facts": [
+      {"de": "Charles Dickens beschrieb die Kindheitsarmut in Romanen wie 'Oliver Twist' (1838).", "ru": "Чарльз Диккенс описывал детскую бедность в романах, таких как «Оливер Твист» (1838)."},
+      {"de": "Kinder wurden für Arbeiten eingesetzt, die Erwachsene nicht verrichten konnten – wie Kaminreinigung.", "ru": "Детей привлекали к работам, которые не могли выполнять взрослые, — например, к чистке дымоходов."},
+      {"de": "In Deutschland wurde Kinderarbeit durch das Gewerbeordnung 1869 für Kinder unter 12 Jahren verboten.", "ru": "В Германии детский труд был запрещён для детей до 12 лет Торгово-промышленным уставом 1869 года."}
+    ]
+  },
+  {
+    "id": 8270,
+    "question_de": "Was verstand man unter dem Begriff 'Zweite Industrielle Revolution' (ab 1870)?",
+    "question_ru": "Что понималось под термином «Вторая промышленная революция» (с 1870-х годов)?",
+    "correct_answer_de": "Eine Phase industrieller Entwicklung geprägt durch Stahl, Chemie, Elektrizität und organisierte Massenproduktion",
+    "correct_answer_ru": "Фаза промышленного развития, характеризуемая сталью, химией, электричеством и организованным массовым производством",
+    "wrong_answers_de": [
+      "Eine Revolution der Landwirtschaft durch Dampfmaschinen und Dreschmaschinen",
+      "Die zweite Phase der industriellen Nutzung der Dampfkraft in Großbritannien",
+      "Der Aufstieg der Textilindustrie in den USA nach dem Bürgerkrieg"
+    ],
+    "wrong_answers_ru": [
+      "Революция в сельском хозяйстве благодаря паровым машинам и молотилкам",
+      "Вторая фаза промышленного использования паровой силы в Великобритании",
+      "Подъём текстильной промышленности в США после Гражданской войны"
+    ],
+    "explanation_de": "Die Zweite Industrielle Revolution (1870–1914) war durch neue Industrien charakterisiert: Chemie (Deutschland), Elektrizität (USA/Deutschland), Stahl (USA/Belgien) und Massenproduktion.",
+    "explanation_ru": "Вторая промышленная революция (1870–1914) характеризовалась новыми отраслями: химией (Германия), электричеством (США/Германия), сталью (США/Бельгия) и массовым производством.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1870 CE",
+    "tags": ["Zweite Industrielle Revolution", "Stahl", "Elektrizität", "Chemie", "Massenproduktion"],
+    "interesting_facts": [
+      {"de": "USA und Deutschland überholten Großbritannien als führende Industrienationen bis 1900.", "ru": "США и Германия к 1900 году обогнали Великобританию как ведущие промышленные нации."},
+      {"de": "Friedrich Bayer gründete 1863 in Deutschland das Chemieunternehmen, das Aspirin erfand.", "ru": "В 1863 году Фридрих Байер основал в Германии химическую компанию, изобревшую аспирин."},
+      {"de": "Henry Ford vervollständigte die zweite Industrialisierung 1913 mit dem Fließband (aber erst im 20. Jahrhundert).", "ru": "Генри Форд в 1913 году завершил вторую индустриализацию конвейером (но уже в XX веке)."}
+    ]
+  },
+  {
+    "id": 8271,
+    "question_de": "Was war die Bedeutung der Telegrafenverbindung zwischen Europa und Amerika (1866)?",
+    "question_ru": "Каково было значение телеграфного соединения между Европой и Америкой (1866)?",
+    "correct_answer_de": "Das transatlantische Kabel ermöglichte erstmals Kommunikation in Minuten statt Wochen und veränderte Wirtschaft und Diplomatie",
+    "correct_answer_ru": "Трансатлантический кабель впервые обеспечил связь за минуты вместо недель и изменил экономику и дипломатию",
+    "wrong_answers_de": [
+      "Das Kabel wurde gelegt, um militärische Befehle schneller zu übermitteln",
+      "Die Verbindung war für private Telefongespräche gedacht, nicht für Telegramme",
+      "Das Kabel verband New York direkt mit dem Weißen Haus für Regierungskommunikation"
+    ],
+    "wrong_answers_ru": [
+      "Кабель был проложен для более быстрой передачи военных приказов",
+      "Соединение предназначалось для частных телефонных разговоров, а не телеграмм",
+      "Кабель напрямую соединял Нью-Йорк с Белым домом для правительственной связи"
+    ],
+    "explanation_de": "Das erste Kabel (1858) funktionierte nur 3 Wochen. Das zweite (1866) war dauerhaft. Nachrichten zwischen Europa und Amerika dauerten nicht mehr Wochen, sondern Minuten.",
+    "explanation_ru": "Первый кабель (1858) работал всего 3 недели. Второй (1866) был постоянным. Сообщения между Европой и Америкой занимали уже не недели, а минуты.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1866 CE",
+    "tags": ["Transatlantik-Kabel", "Telegraf", "Kommunikation", "Globalisierung", "Wirtschaft"],
+    "interesting_facts": [
+      {"de": "Das erste Telegramm über den Atlantik sendete Königin Victoria an Präsident Buchanan.", "ru": "Первую телеграмму через Атлантику послала королева Виктория президенту Бьюкенену."},
+      {"de": "Das Kabel wurde vom Schiff SS Great Eastern gelegt, dem damals größten Schiff der Welt.", "ru": "Кабель был проложен судном SS Great Eastern — крупнейшим кораблём мира на тот момент."},
+      {"de": "Die Übertragungsrate betrug 8 Wörter pro Minute – revolutionär für die Zeit.", "ru": "Скорость передачи составляла 8 слов в минуту — революционно для своего времени."}
+    ]
+  },
+  {
+    "id": 8272,
+    "question_de": "Was war die Bedeutung des Ersten Internationalen Kongresses der Sozialistischen Internationale (1889)?",
+    "question_ru": "Каково было значение Первого конгресса Социалистического интернационала (1889)?",
+    "correct_answer_de": "Die Zweite Internationale koordinierte Arbeiterbewegungen weltweit und führte den 1. Mai als internationalen Arbeitertag ein",
+    "correct_answer_ru": "Второй интернационал координировал рабочие движения по всему миру и учредил 1 мая как международный день труда",
+    "wrong_answers_de": [
+      "Der Kongress rief zur sofortigen weltweiten proletarischen Revolution auf",
+      "Die Zweite Internationale war eine Reaktion auf den Zusammenbruch der Ersten Internationale durch Gewalt",
+      "Sie schuf eine gemeinsame Regierung für alle sozialistischen Länder"
+    ],
+    "wrong_answers_ru": [
+      "Конгресс призвал к немедленной мировой пролетарской революции",
+      "Второй интернационал был реакцией на насильственный распад Первого интернационала",
+      "Он создал общее правительство для всех социалистических стран"
+    ],
+    "explanation_de": "Die Zweite Internationale (gegründet Paris 1889) koordinierte sozialistische Parteien weltweit. Sie etablierte den 1. Mai als Arbeitertag und setzte Ziele wie 8-Stunden-Tag.",
+    "explanation_ru": "Второй интернационал (основан в Париже в 1889 году) координировал социалистические партии по всему миру. Он учредил 1 мая как день труда и поставил такие цели, как 8-часовой рабочий день.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1889 CE",
+    "tags": ["Zweite Internationale", "Sozialismus", "1. Mai", "Arbeiterbewegung", "Paris"],
+    "interesting_facts": [
+      {"de": "Der 1. Mai wurde dem Haymarket-Massaker von 1886 in Chicago gewidmet.", "ru": "1 мая был посвящён массакру на Хеймаркете в 1886 году в Чикаго."},
+      {"de": "Die Zweite Internationale zerbrach 1914, als die meisten Mitgliedsparteien ihren Ländern im Krieg folgten.", "ru": "Второй интернационал распался в 1914 году, когда большинство партий-членов поддержали свои страны в войне."},
+      {"de": "Rosa Luxemburg und Karl Liebknecht waren die bekanntesten deutschen Vertreter der Zweiten Internationale.", "ru": "Роза Люксембург и Карл Либкнехт были наиболее известными немецкими представителями Второго интернационала."}
+    ]
+  },
+  {
+    "id": 8273,
+    "question_de": "Was war die Bedeutung der Entdeckung von Tuberkulose-Bakterien durch Robert Koch (1882)?",
+    "question_ru": "Каково было значение открытия бактерий туберкулёза Робертом Кохом (1882)?",
+    "correct_answer_de": "Koch identifizierte den Erreger der Tuberkulose und begründete die moderne Bakteriologie als Wissenschaft",
+    "correct_answer_ru": "Кох идентифицировал возбудителя туберкулёза и основал современную бактериологию как науку",
+    "wrong_answers_de": [
+      "Koch entwickelte den ersten Impfstoff gegen Tuberkulose",
+      "Koch bewies, dass Tuberkulose durch Luft und nicht durch Bakterien übertragen wird",
+      "Koch entdeckte Penicillin als Heilmittel gegen Tuberkulose"
+    ],
+    "wrong_answers_ru": [
+      "Кох разработал первую вакцину против туберкулёза",
+      "Кох доказал, что туберкулёз передаётся воздушно-капельным путём, а не через бактерии",
+      "Кох открыл пенициллин как средство лечения туберкулёза"
+    ],
+    "explanation_de": "Robert Koch entdeckte 1882 Mycobacterium tuberculosis. Er erhielt 1905 den Nobelpreis für Medizin. Die Kochschen Postulate begründeten die moderne Infektionslehre.",
+    "explanation_ru": "В 1882 году Роберт Кох открыл Mycobacterium tuberculosis. В 1905 году он получил Нобелевскую премию по медицине. Постулаты Коха заложили основы современного учения об инфекциях.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1882 CE",
+    "tags": ["Koch", "Tuberkulose", "Bakteriologie", "Medizin", "Wissenschaft"],
+    "interesting_facts": [
+      {"de": "Tuberkulose (TBC) war im 19. Jahrhundert eine der häufigsten Todesursachen in Europa.", "ru": "Туберкулёз (ТБ) в XIX веке был одной из самых распространённых причин смерти в Европе."},
+      {"de": "Die Kochschen Postulate verlangen: Ein Erreger muss im Kranken gefunden, isoliert und gezüchtet werden können.", "ru": "Постулаты Коха требуют: возбудитель должен быть найден у больного, выделен и выращен в культуре."},
+      {"de": "Koch entdeckte auch die Erreger von Cholera (1883) und Milzbrand (Anthrax).", "ru": "Кох также открыл возбудителей холеры (1883) и сибирской язвы (антракса)."}
+    ]
+  },
+  {
+    "id": 8274,
+    "question_de": "Was war die Bedeutung des spanischen Kolonialismus und des Endes der spanischen Herrschaft in Amerika im 19. Jahrhundert?",
+    "question_ru": "Каково было значение испанского колониализма и конца испанского господства в Америке в XIX веке?",
+    "correct_answer_de": "Durch Unabhängigkeitsrevolutionen entstanden zwischen 1810 und 1830 in Lateinamerika mehr als ein Dutzend neue Staaten",
+    "correct_answer_ru": "В результате революций за независимость в Латинской Америке с 1810 по 1830 год возникло более дюжины новых государств",
+    "wrong_answers_de": [
+      "Spanien übergab seine Kolonien friedlich nach diplomatischen Verhandlungen",
+      "Die US-Annexion beendete die spanische Herrschaft in Lateinamerika durch militärische Intervention",
+      "Lateinamerika blieb bis ins 20. Jahrhundert unter spanischer Herrschaft"
+    ],
+    "wrong_answers_ru": [
+      "Испания мирно передала свои колонии после дипломатических переговоров",
+      "Американская аннексия военным путём положила конец испанскому господству в Латинской Америке",
+      "Латинская Америка оставалась под испанским господством до XX века"
+    ],
+    "explanation_de": "Simón Bolívar und José de San Martín führten die Unabhängigkeitsbewegungen. 1810–1830 entstanden Argentinien, Chile, Kolumbien, Peru, Venezuela und andere Republiken.",
+    "explanation_ru": "Симон Боливар и Хосе де Сан-Мартин возглавляли движения за независимость. В 1810–1830 годах возникли Аргентина, Чили, Колумбия, Перу, Венесуэла и другие республики.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1820 CE",
+    "tags": ["Lateinamerika", "Spanien", "Unabhängigkeit", "Bolívar", "Kolonialismus"],
+    "interesting_facts": [
+      {"de": "Bolívar träumte von einem vereinten Lateinamerika wie den USA – sein Traum scheiterte.", "ru": "Боливар мечтал о единой Латинской Америке по образцу США — его мечта потерпела крах."},
+      {"de": "Die napoleonischen Kriege schwächten Spanien und ermöglichten die lateinamerikanischen Revolutionen.", "ru": "Наполеоновские войны ослабили Испанию и открыли возможность для латиноамериканских революций."},
+      {"de": "Brasilien erlangte seine Unabhängigkeit friedlich von Portugal unter Kaiser Pedro I. im Jahr 1822.", "ru": "Бразилия в 1822 году мирно обрела независимость от Португалии при императоре Педру I."}
+    ]
+  },
+  {
+    "id": 8275,
+    "question_de": "Was war die Bedeutung der Ideen von Georg Wilhelm Friedrich Hegel für das 19. Jahrhundert?",
+    "question_ru": "Каково было значение идей Георга Вильгельма Фридриха Гегеля для XIX века?",
+    "correct_answer_de": "Hegel entwickelte die Dialektik als Methode und beeinflusste Marx, den deutschen Nationalismus und die Rechtsphilosophie",
+    "correct_answer_ru": "Гегель разработал диалектику как метод и повлиял на Маркса, германский национализм и философию права",
+    "wrong_answers_de": [
+      "Hegel begründete den Empirismus als einzig gültige wissenschaftliche Methode",
+      "Er war der erste deutsche Philosoph, der den Atheismus öffentlich verteidigte",
+      "Hegel entwickelte die Evolutionstheorie vor Darwin unabhängig"
+    ],
+    "wrong_answers_ru": [
+      "Гегель основал эмпиризм как единственно допустимый научный метод",
+      "Он был первым немецким философом, публично защищавшим атеизм",
+      "Гегель разработал теорию эволюции независимо от Дарвина"
+    ],
+    "explanation_de": "Hegels Dialektik (These-Antithese-Synthese) und sein Begriff des 'Weltgeistes' prägten das 19. Jahrhundert. Marx übernahm die Dialektik, ersetzte aber 'Geist' durch materielle Verhältnisse.",
+    "explanation_ru": "Диалектика Гегеля (тезис–антитезис–синтез) и его понятие «мирового духа» формировали XIX век. Маркс заимствовал диалектику, но заменил «дух» материальными отношениями.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1820 CE",
+    "tags": ["Hegel", "Philosophie", "Dialektik", "Deutschland", "Marx"],
+    "interesting_facts": [
+      {"de": "Hegels 'Phänomenologie des Geistes' (1807) gilt als eines der schwierigsten Bücher der Philosophiegeschichte.", "ru": "«Феноменология духа» Гегеля (1807) считается одной из самых трудных книг в истории философии."},
+      {"de": "Hegel war Rektor der Universität Berlin und prägte eine ganze Generation von Schülern.", "ru": "Гегель был ректором Берлинского университета и формировал целое поколение учеников."},
+      {"de": "Der Satz 'Die Weltgeschichte ist das Weltgericht' stammt von Friedrich Schiller, wurde aber oft Hegel zugeschrieben.", "ru": "Фраза «Всемирная история есть всемирный суд» принадлежит Фридриху Шиллеру, но часто приписывалась Гегелю."}
+    ]
+  }
+]

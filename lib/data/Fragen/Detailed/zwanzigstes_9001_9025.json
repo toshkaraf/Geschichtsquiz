@@ -1,0 +1,752 @@
+[
+  {
+    "id": 9001,
+    "question_de": "Wann begann der Erste Weltkrieg und welcher Anlass löste ihn aus?",
+    "question_ru": "Когда началась Первая мировая война и какой повод её вызвал?",
+    "correct_answer_de": "1914 – Auslöser war das Attentat auf Erzherzog Franz Ferdinand von Österreich in Sarajevo am 28. Juni 1914",
+    "correct_answer_ru": "1914 год — поводом стало убийство эрцгерцога Франца Фердинанда Австрийского в Сараево 28 июня 1914 года",
+    "wrong_answers_de": ["1912 – Auslöser war der Erste Balkankrieg zwischen Serbien und dem Osmanischen Reich", "1914 – Auslöser war die deutsche Invasion Frankreichs nach Mobilmachung Russlands", "1915 – Auslöser war die Versenkung der Lusitania durch ein deutsches U-Boot"],
+    "wrong_answers_ru": ["1912 год — поводом стала Первая балканская война между Сербией и Османской империей", "1914 год — поводом стало немецкое вторжение во Францию после мобилизации России", "1915 год — поводом стало потопление «Лузитании» немецкой подводной лодкой"],
+    "explanation_de": "Gavrilo Princip, ein serbischer Nationalist, erschoss Franz Ferdinand. Österreich stellte Serbien ein Ultimatum. Das System der Allianzen zog alle Großmächte in den Krieg: Österreich-Deutschland vs. Russland-Frankreich-England. Innerhalb von Wochen war Europa im Krieg.",
+    "explanation_ru": "Гаврило Принцип, сербский националист, застрелил Франца Фердинанда. Австрия предъявила Сербии ультиматум. Система союзов втянула все великие державы в войну: Австрия-Германия против России-Франции-Англии. В течение нескольких недель Европа оказалась в войне.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1914 CE",
+    "tags": ["Krieg", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Prinzip verfehlte Franz Ferdinand beim ersten Versuch – sein Auto fuhr zufällig später an ihm vorbei.",
+        "ru": "При первой попытке Принцип промахнулся — автомобиль Франца Фердинанда случайно проехал мимо него позже."
+      },
+      {
+        "de": "Kaiser Wilhelm II. und Zar Nikolaus II. waren Cousins – und sannen sich per Telegramm 'Willy' und 'Nicky'.",
+        "ru": "Кайзер Вильгельм II и царь Николай II были двоюродными братьями — и переписывались как «Вилли» и «Ники»."
+      },
+      {
+        "de": "Österreich-Ungarn wartete 4 Wochen mit dem Ultimatum – um Frankreichs Staatspräsidenten abzureisen zu lassen.",
+        "ru": "Австро-Венгрия ждала 4 недели с ультиматумом — чтобы дать президенту Франции уехать."
+      }
+    ]
+  },
+  {
+    "id": 9002,
+    "question_de": "Was war der Schützengrabenkrieg im Ersten Weltkrieg?",
+    "question_ru": "Что такое окопная война в Первой мировой войне?",
+    "correct_answer_de": "Ein Stellungskrieg in Schützengräben an der Westfront – Hunderttausende starben für wenige Meter Boden",
+    "correct_answer_ru": "Позиционная война в окопах на Западном фронте — сотни тысяч погибли за несколько метров земли",
+    "wrong_answers_de": ["Ein Guerillakrieg, den die Briten im südafrikanischen Busch führten", "Eine Strategie schneller Bewegungskriege durch motorisierte Einheiten", "Eine Hafenblockade, die Deutschland durch Unterseeboote gegen England führte"],
+    "wrong_answers_ru": ["Партизанская война, которую британцы вели в южноафриканском буше", "Стратегия быстрых манёвренных войн с использованием моторизованных частей", "Морская блокада, которую Германия вела против Англии с помощью подводных лодок"],
+    "explanation_de": "Beide Seiten gruben sich an der Westfront ein. Zwischen Calais und der Schweiz verliefen 700 km Gräben. Gas, Maschinengewehre, Artillerie machten Angriffe unmöglich. In der Somme-Schlacht 1916: 60.000 britische Tote am ersten Tag.",
+    "explanation_ru": "Обе стороны зарылись в землю на Западном фронте. От Кале до Швейцарии тянулись 700 км окопов. Газ, пулемёты, артиллерия делали атаки невозможными. В битве на Сомме в 1916 году: 60 000 британских погибших в первый день.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1915 CE",
+    "tags": ["Krieg", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Weihnachten 1914 feierten deutsche und britische Soldaten spontan gemeinsam im Niemandsland.",
+        "ru": "На Рождество 1914 года немецкие и британские солдаты стихийно праздновали вместе на нейтральной полосе."
+      },
+      {
+        "de": "Ratten wurden im Schützengraben so groß wie Katzen – sie fraßen Leichen.",
+        "ru": "Крысы в окопах вырастали с кошку — они поедали трупы."
+      },
+      {
+        "de": "Shell Shock (Granatenfieber) war die erste anerkannte psychische Kriegserkrankung – später PTSD genannt.",
+        "ru": "«Снарядный шок» стал первым признанным психическим расстройством, связанным с войной — позднее названным ПТСР."
+      }
+    ]
+  },
+  {
+    "id": 9003,
+    "question_de": "Wann endete der Erste Weltkrieg und was waren seine Folgen?",
+    "question_ru": "Когда закончилась Первая мировая война и каковы были её последствия?",
+    "correct_answer_de": "1918 – Deutschland verlor, Versailler Vertrag 1919: Gebietsabgaben, Reparationen, Kriegsschuldartikel 231",
+    "correct_answer_ru": "1918 год — Германия проиграла; Версальский договор 1919 года: территориальные уступки, репарации, статья 231 о вине за войну",
+    "wrong_answers_de": ["1917 – nach dem amerikanischen Kriegseintritt kapitulierten Deutschland und Österreich sofort", "1919 – der Krieg endete erst mit dem Pariser Friedensvertrag, dem Deutschland zustimmte", "1918 – Waffenstillstand, dann Wiener Kongress, der Europa neu ordnete"],
+    "wrong_answers_ru": ["1917 год — после вступления Америки в войну Германия и Австрия немедленно капитулировали", "1919 год — война завершилась лишь Парижским мирным договором, который Германия одобрила", "1918 год — перемирие, затем Венский конгресс, заново устроивший Европу"],
+    "explanation_de": "Am 11. November 1918 um 11 Uhr schwiegen die Waffen. Der Versailler Vertrag demütigte Deutschland: 13 % Gebiet, 10 % Bevölkerung verloren. 132 Milliarden Goldmark Reparationen. Artikel 231: Deutschland allein schuldig. Nährboden für Hitler.",
+    "explanation_ru": "11 ноября 1918 года в 11 часов умолкли орудия. Версальский договор унизил Германию: утрата 13% территории, 10% населения. 132 миллиарда золотых марок репараций. Статья 231: Германия виновна единолично. Питательная среда для Гитлера.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1918 CE",
+    "tags": ["Krieg", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Der Krieg kostete 17–20 Millionen Menschenleben – weitere 50 Millionen starben an der Spanischen Grippe.",
+        "ru": "Война унесла 17–20 миллионов жизней — ещё 50 миллионов погибли от «испанки»."
+      },
+      {
+        "de": "Die Waffenstillstandsstunde 11:11 Uhr am 11.11. war ein bewusstes Symbol – Tausende starben noch am Morgen des letzten Tages.",
+        "ru": "Час перемирия 11:11 11-го числа был намеренным символом — тысячи погибли ещё утром последнего дня."
+      },
+      {
+        "de": "Vier Kaiserreiche verschwanden: Deutsches, Österreichisch-Ungarisches, Russisches und Osmanisches Reich.",
+        "ru": "Исчезли четыре императорские монархии: Германская, Австро-Венгерская, Российская и Османская."
+      }
+    ]
+  },
+  {
+    "id": 9004,
+    "question_de": "Was war die Russische Revolution (1917) und was bewirkte sie?",
+    "question_ru": "Что такое Русская революция (1917) und что она произвела?",
+    "correct_answer_de": "Im Februar fiel der Zar, im Oktober übernahmen Lenins Bolschewiken die Macht – Sowjetstaat entstand",
+    "correct_answer_ru": "В феврале пал царь, в октябре власть захватили большевики Ленина — возникло советское государство",
+    "wrong_answers_de": ["Im Januar 1917 stürmte das Volk den Petersburger Winterpalast und erschoss den Zaren", "Lenin führte 1917 einen Militärputsch der Roten Armee gegen die Februarregierung durch", "Russland wurde 1917 nach dem Ersten Weltkrieg eine demokratische Republik unter Kerenski"],
+    "wrong_answers_ru": ["В январе 1917 года народ штурмовал Зимний дворец в Петербурге и расстрелял царя", "В 1917 году Ленин осуществил военный переворот Красной армии против февральского правительства", "В 1917 году после Первой мировой войны Россия стала демократической республикой под руководством Керенского"],
+    "explanation_de": "Februarrevolution: Zar Nikolaus II. dankte ab. Provisorische Regierung unter Kerenski führte den Krieg fort. Oktoberrevolution: Lenins Bolschewiken übernahmen Macht. Bürgerkrieg 1917–1922. Gründung der Sowjetunion 1922.",
+    "explanation_ru": "Февральская революция: царь Николай II отрёкся. Временное правительство Керенского продолжило войну. Октябрьская революция: большевики Ленина захватили власть. Гражданская война 1917–1922 годов. Образование СССР в 1922 году.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1917 CE",
+    "tags": ["Revolution", "Russland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Deutschland brachte Lenin im 'plombierten Zug' von der Schweiz nach Russland – sie hofften, er würde Russland aus dem Krieg herausnehmen.",
+        "ru": "Германия доставила Ленина в «пломбированном вагоне» из Швейцарии в Россию — надеясь, что он выведет Россию из войны."
+      },
+      {
+        "de": "Der Sturm auf den Winterpalast war dramatisch inszeniert – das Gebäude war kaum verteidigt.",
+        "ru": "Штурм Зимнего дворца был театрально обставлен — здание почти не охранялось."
+      },
+      {
+        "de": "Zar Nikolaus II. und seine ganze Familie wurden 1918 in Jekaterinburg erschossen.",
+        "ru": "Царь Николай II и вся его семья были расстреляны в 1918 году в Екатеринбурге."
+      }
+    ]
+  },
+  {
+    "id": 9005,
+    "question_de": "Was war die Weimarer Republik (1919–1933)?",
+    "question_ru": "Что такое Веймарская республика (1919–1933)?",
+    "correct_answer_de": "Die erste deutsche Demokratie nach dem Ersten Weltkrieg – gescheitert durch Weltwirtschaftskrise und Nationalsozialismus",
+    "correct_answer_ru": "Первая немецкая демократия после Первой мировой войны — потерпевшая крах из-за мирового экономического кризиса и национал-социализма",
+    "wrong_answers_de": ["Ein konstitutionelles Kaiserreich in Deutschland von 1919 bis 1933", "Eine sozialistische Räterepublik, die 1919 nach russischem Vorbild gegründet wurde", "Eine Militärdiktatur unter Hindenburg, die nach 1919 regierte"],
+    "wrong_answers_ru": ["Конституционная монархия в Германии с 1919 по 1933 год", "Социалистическая советская республика, основанная в 1919 году по образцу российской", "Военная диктатура под руководством Гинденбурга, правившая после 1919 года"],
+    "explanation_de": "Nach dem Kaiser gründeten Sozialdemokraten die Republik in Weimar. Probleme: Versailles-Trauma, Inflation 1923, Putschversuche (Kapp, Hitler). Goldene 20er, dann Weltwirtschaftskrise 1929. Hitler wurde 1933 Reichskanzler – Ende der Demokratie.",
+    "explanation_ru": "После кайзера социал-демократы основали республику в Веймаре. Проблемы: версальская травма, инфляция 1923 года, путчи (Каппа, Гитлера). Золотые 20-е, затем мировой экономический кризис 1929 года. Гитлер стал рейхсканцлером в 1933-м — конец демократии.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1925 CE",
+    "tags": ["Deutschland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "1923 kostete ein Brot in Deutschland 200 Milliarden Mark – die Hyperinflation vernichtete Ersparnisse.",
+        "ru": "В 1923 году буханка хлеба в Германии стоила 200 миллиардов марок — гиперинфляция уничтожила сбережения."
+      },
+      {
+        "de": "Die Weimarer Verfassung war fortschrittlich: Frauenwahlrecht, Verhältniswahlrecht, Bürgerrechte.",
+        "ru": "Веймарская конституция была прогрессивной: избирательное право женщин, пропорциональное голосование, гражданские права."
+      },
+      {
+        "de": "Das Bauhaus (1919–1933) war eine Weimarer Designschule – weltberühmt und von Nazis verboten.",
+        "ru": "Баухаус (1919–1933) был веймарской школой дизайна — всемирно известной и запрещённой нацистами."
+      }
+    ]
+  },
+  {
+    "id": 9006,
+    "question_de": "Was war die Weltwirtschaftskrise (Great Depression, 1929–1933)?",
+    "question_ru": "Что такое Великая депрессия (1929–1933)?",
+    "correct_answer_de": "Eine globale Wirtschaftskrise nach dem Börsenkrach 1929 – Massenarbeitslosigkeit, Bankenzusammenbrüche weltweit",
+    "correct_answer_ru": "Мировой экономический кризис после биржевого краха 1929 года — массовая безработица, банкротства банков по всему миру",
+    "wrong_answers_de": ["Eine Bankenkrise nur in den USA, die durch Roosevelt schnell beendet wurde", "Eine europäische Rezession nach dem Ersten Weltkrieg, die 1925 endete", "Eine Agrarkrise durch Dürren und Missernten in den USA und Australien"],
+    "wrong_answers_ru": ["Банковский кризис только в США, быстро преодолённый Рузвельтом", "Европейская рецессия после Первой мировой войны, завершившаяся в 1925 году", "Аграрный кризис из-за засух и неурожаев в США и Австралии"],
+    "explanation_de": "Am 24. Oktober 1929 ('Schwarzer Donnerstag') brach die New Yorker Börse ein. Banken kollabtierten weltweit. In den USA: 25 % Arbeitslosigkeit. In Deutschland: 6 Millionen Arbeitslose – politisches Chaos, Hitlers Aufstieg.",
+    "explanation_ru": "24 октября 1929 года («Чёрный четверг») рухнула нью-йоркская биржа. Банки рухнули по всему миру. В США: 25% безработицы. В Германии: 6 миллионов безработных — политический хаос, восхождение Гитлера.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1930 CE",
+    "tags": ["Wirtschaft", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Roosevelt startete den 'New Deal' – staatliche Programme, Arbeitsbeschaffung, Bankenregulierung.",
+        "ru": "Рузвельт запустил «Новый курс» — государственные программы, создание рабочих мест, регулирование банков."
+      },
+      {
+        "de": "Im Dustbowl (Staubsturm) flohen Millionen Farmer aus Oklahoma und Texas nach Kalifornien – 'The Grapes of Wrath'.",
+        "ru": "В период «Пыльного котла» миллионы фермеров бежали из Оклахомы и Техаса в Калифорнию — «Гроздья гнева»."
+      },
+      {
+        "de": "Deutschland erholte sich unter Hitler durch Rüstung und Autobahnen – nicht durch normale Wirtschaft.",
+        "ru": "Германия восстановилась при Гитлере благодаря перевооружению и автобанам — а не нормальной экономике."
+      }
+    ]
+  },
+  {
+    "id": 9007,
+    "question_de": "Wer war Adolf Hitler und wie kam er an die Macht?",
+    "question_ru": "Кто такой Адольф Гитлер и как он пришёл к власти?",
+    "correct_answer_de": "Österreichischer Politiker (1889–1945) – NSDAP-Führer, 1933 Reichskanzler durch demokratische und antidemokratische Mittel",
+    "correct_answer_ru": "Австрийский политик (1889–1945) — вождь НСДАП, в 1933 году стал рейхсканцлером демократическими и антидемократическими средствами",
+    "wrong_answers_de": ["Preußischer General, der 1933 per Militärputsch die Macht übernahm", "Berliner Politiker, der 1933 nach Volksabstimmung zum Diktator gewählt wurde", "Österreichischer Kaiser, der nach dem Sturz Hindenburg Deutschland regierte"],
+    "wrong_answers_ru": ["Прусский генерал, захвативший власть военным путём в 1933 году", "Берлинский политик, избранный диктатором по итогам народного голосования в 1933 году", "Австрийский кайзер, правивший Германией после свержения Гинденбурга"],
+    "explanation_de": "Hitler war gescheiterter Künstler, Weltkriegsveteran. Nach dem Hitlerputsch 1923 schrieb er 'Mein Kampf'. In der Weltwirtschaftskrise wuchs die NSDAP. Hindenburg ernannte ihn 1933 zum Reichskanzler – danach schaltete er Demokratie aus.",
+    "explanation_ru": "Гитлер был несостоявшимся художником, ветераном мировой войны. После Пивного путча 1923 года написал «Майн кампф». В период мирового экономического кризиса НСДАП росла. Гинденбург назначил его рейхсканцлером в 1933 году — после чего он уничтожил демократию.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1933 CE",
+    "tags": ["Deutschland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Hitler bewarb sich zweimal an der Wiener Kunstakademie – und wurde abgelehnt.",
+        "ru": "Гитлер дважды поступал в венскую Академию художеств — и оба раза был отвергнут."
+      },
+      {
+        "de": "Der Reichstagsbrand 1933 gab Hitler den Vorwand für die Notverordnung – die Demokratie zu suspendieren.",
+        "ru": "Поджог Рейхстага в 1933 году дал Гитлеру повод для чрезвычайного указа — приостановить действие демократии."
+      },
+      {
+        "de": "Hitler war nie Mehrheit: Bei der letzten freien Wahl 1932 erhielt die NSDAP 37 % – und verlor später.",
+        "ru": "Гитлер никогда не получал большинства: на последних свободных выборах 1932 года НСДАП получила 37% — и затем теряла."
+      }
+    ]
+  },
+  {
+    "id": 9008,
+    "question_de": "Was war der Holocaust und wie viele Menschen wurden ermordet?",
+    "question_ru": "Что такое Холокост и сколько людей было убито?",
+    "correct_answer_de": "Der systematische Völkermord der Nazis – 6 Millionen Juden und 5–6 Millionen andere Opfer (Roma, Behinderte, Homosexuelle u.a.)",
+    "correct_answer_ru": "Систематический геноцид нацистов — 6 миллионов евреев и 5–6 миллионов других жертв (цыгане, инвалиды, гомосексуалы и др.)",
+    "wrong_answers_de": ["Der Krieg der Nazis gegen die Sowjetunion, der 5 Millionen sowjetischen Soldaten das Leben kostete", "Die Bombenangriffe der Alliierten auf Deutschland, die 600.000 Deutsche töteten", "Die Hungersnot in besetzten Gebieten durch die Kriegswirtschaft der Nazis"],
+    "wrong_answers_ru": ["Война нацистов против Советского Союза, стоившая жизни 5 миллионов советских солдат", "Бомбардировки союзников Германии, унёсшие жизни 600 000 немцев", "Голод на оккупированных территориях из-за военной экономики нацистов"],
+    "explanation_de": "Die Wannsee-Konferenz 1942 koordinierte die 'Endlösung'. Vernichtungslager wie Auschwitz-Birkenau töteten industriell. Anne Frank versteckte sich 2 Jahre – wurde 1944 verraten. Die Befreiung der Lager 1945 schockierte die Welt.",
+    "explanation_ru": "Ванзейская конференция 1942 года скоординировала «окончательное решение». Лагеря уничтожения, такие как Освенцим-Биркенау, убивали промышленными методами. Анна Франк пряталась 2 года — была предана в 1944-м. Освобождение лагерей в 1945 году потрясло мир.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1943 CE",
+    "tags": ["Deutschland", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Auschwitz-Birkenau war das größte Vernichtungslager – über 1 Million Menschen, meist Juden, wurden dort ermordet.",
+        "ru": "Освенцим-Биркенау был крупнейшим лагерём уничтожения — там было убито более 1 миллиона человек, преимущественно евреев."
+      },
+      {
+        "de": "Das Tagebuch der Anne Frank ist eines der meistgelesenen Bücher der Welt – in 70 Sprachen übersetzt.",
+        "ru": "Дневник Анны Франк — одна из самых читаемых книг в мире, переведённая на 70 языков."
+      },
+      {
+        "de": "Oskar Schindler rettete 1.200 Juden in seiner Fabrik – in Spielbergs Film 'Schindlers Liste' verewigt.",
+        "ru": "Оскар Шиндлер спас 1200 евреев на своей фабрике — увековеченный в фильме Спилберга «Список Шиндлера»."
+      }
+    ]
+  },
+  {
+    "id": 9009,
+    "question_de": "Wann begann der Zweite Weltkrieg und was löste ihn aus?",
+    "question_ru": "Когда началась Вторая мировая война и что её вызвало?",
+    "correct_answer_de": "1. September 1939 – Deutschland überfiel Polen; England und Frankreich erklärten daraufhin Deutschland den Krieg",
+    "correct_answer_ru": "1 сентября 1939 года — Германия напала на Польшу; Англия и Франция объявили войну Германии",
+    "wrong_answers_de": ["10. Mai 1940 – Deutschland überfall Frankreich nach dem Ende der Tschechischen Krise", "22. Juni 1941 – Deutschland überfiel die Sowjetunion nach dem Molotow-Ribbentrop-Pakt", "7. Dezember 1941 – Japan griff Pearl Harbor an und zog die USA in den Krieg"],
+    "wrong_answers_ru": ["10 мая 1940 года — Германия напала на Францию после завершения чехословацкого кризиса", "22 июня 1941 года — Германия напала на СССР после пакта Молотова-Риббентропа", "7 декабря 1941 года — Япония атаковала Пёрл-Харбор и втянула США в войну"],
+    "explanation_de": "Hitler hatte 1938 die Tschechoslowakei besetzt – England/Frankreich appeasten (München). Am 23. August 1939 unterzeichneten Deutschland und Sowjetunion den Hitler-Stalin-Pakt. Am 1. September begann der Krieg mit dem Überfall auf Polen.",
+    "explanation_ru": "В 1938 году Гитлер оккупировал Чехословакию — Англия/Франция проводили политику умиротворения (Мюнхен). 23 августа 1939 года Германия и СССР подписали пакт Гитлера-Сталина. 1 сентября началась война с нападения на Польшу.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1939 CE",
+    "tags": ["Krieg", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Der Überfall begann mit einem fingierten Angriff auf den deutschen Sender Gleiwitz – um Rechtfertigung zu haben.",
+        "ru": "Нападение началось с инсценированного нападения на немецкую радиостанцию Глейвиц — ради формального повода."
+      },
+      {
+        "de": "Polen hatte einen Verteidigungspakt mit England und Frankreich – der erst Tage nach dem Überfall aktiviert wurde.",
+        "ru": "У Польши был оборонный пакт с Англией и Францией — активированный лишь через несколько дней после нападения."
+      },
+      {
+        "de": "Die Sowjetunion marschierte am 17. September von Osten in Polen ein – ebenfalls ohne Kriegserklärung.",
+        "ru": "17 сентября СССР вошёл в Польшу с востока — также без объявления войны."
+      }
+    ]
+  },
+  {
+    "id": 9010,
+    "question_de": "Was waren die Atombombenabwürfe auf Japan (1945) und welche Folgen hatten sie?",
+    "question_ru": "Что такое атомные бомбардировки Японии (1945) и каковы их последствия?",
+    "correct_answer_de": "USA warfen Atombomben auf Hiroshima (6.8.) und Nagasaki (9.8.1945) – Japan kapitulierte, Zweiter Weltkrieg endete",
+    "correct_answer_ru": "США сбросили атомные бомбы на Хиросиму (6.8.) и Нагасаки (9.8.1945) — Япония капитулировала, Вторая мировая война завершилась",
+    "wrong_answers_de": ["England warf 1945 Atombomen auf Japan, um Rache für Pearl Harbor zu nehmen", "USA und Sowjetunion griffen Japan gemeinsam mit Atombomben an – um den Krieg zu beenden", "USA erprobten 1945 Atombomen auf Atolle im Pazifik – Japans Kapitulation erfolgte danach freiwillig"],
+    "wrong_answers_ru": ["Англия сбросила атомные бомбы на Японию в 1945 году в отместку за Пёрл-Харбор", "США и СССР совместно атаковали Японию атомными бомбами — чтобы завершить войну", "США испытали атомные бомбы на атоллах Тихого океана в 1945 году — Япония капитулировала добровольно"],
+    "explanation_de": "Präsident Truman befahl den Einsatz. Hiroshima: 70.000 sofort tot, 140.000 bis Ende 1945. Nagasaki: 40.000 sofort. Japan kapitulierte am 15. August 1945. Die Bomben veränderten die Weltpolitik – nukleares Zeitalter begann.",
+    "explanation_ru": "Президент Трумэн отдал приказ. Хиросима: 70 000 погибших немедленно, 140 000 — к концу 1945 года. Нагасаки: 40 000 немедленно. Япония капитулировала 15 августа 1945 года. Бомбы изменили мировую политику — началась ядерная эпоха.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["Krieg", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Der Pilot der Enola Gay, Paul Tibbets, bereute die Tat nie – er hielt sie für notwendig.",
+        "ru": "Пилот «Энолы Гей» Пол Тиббетс никогда не сожалел о содеянном — он считал это необходимым."
+      },
+      {
+        "de": "Einige Überlebende (Hibakusha) aus Hiroshima überlebten auch den Angriff auf Nagasaki – doppelte Atombommen-Überlebende.",
+        "ru": "Некоторые выжившие (хибакуся) из Хиросимы пережили и нападение на Нагасаки — двойные выжившие."
+      },
+      {
+        "de": "Die Trümmer der Atombombe zerstörten auch das Peace Memorial – nur das Genbaku-Kuppelgebäude blieb stehen.",
+        "ru": "Взрыв атомной бомбы разрушил и Мемориал мира — уцелел лишь Купол атомной бомбы."
+      }
+    ]
+  },
+  {
+    "id": 9011,
+    "question_de": "Was war der Kalte Krieg und wann dauerte er?",
+    "question_ru": "Что такое холодная война и когда она длилась?",
+    "correct_answer_de": "Die ideologische Rivalität zwischen USA (Kapitalismus) und Sowjetunion (Kommunismus) – ca. 1947–1991",
+    "correct_answer_ru": "Идеологическое противостояние между США (капитализм) и СССР (коммунизм) — прибл. 1947–1991",
+    "wrong_answers_de": ["Ein verdeckter Militärkonflikt zwischen USA und Sowjetunion um Gebiete in Asien 1950–1975", "Eine Wirtschaftsblockade der USA gegen die Sowjetunion nach dem Zweiten Weltkrieg", "Ein kultureller Wettbewerb um Weltherrschaft, begrenzt auf Sport und Kunst"],
+    "wrong_answers_ru": ["Скрытый военный конфликт между США и СССР за территории в Азии в 1950–1975 годах", "Экономическая блокада США против СССР после Второй мировой войны", "Культурное соревнование за мировое господство, ограниченное спортом и искусством"],
+    "explanation_de": "Nach 1945 teilten USA und Sowjetunion Europa (Eiserner Vorhang). Rüstungswettlauf, Atombedrohung, Stellvertreterkriege. Keine direkte militärische Konfrontation – daher 'kalt'. Endete mit dem Zusammenbruch der Sowjetunion 1991.",
+    "explanation_ru": "После 1945 года США и СССР поделили Европу (Железный занавес). Гонка вооружений, ядерная угроза, войны по доверенности. Прямой военной конфронтации не было — отсюда «холодная». Завершилась с распадом СССР в 1991 году.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1960 CE",
+    "tags": ["Politik", "Amerika", "Russland"],
+    "interesting_facts": [
+      {
+        "de": "Der Begriff 'Kalter Krieg' wurde von George Orwell 1945 geprägt – noch vor dem eigentlichen Beginn.",
+        "ru": "Термин «холодная война» был введён Джорджем Оруэллом в 1945 году — ещё до её фактического начала."
+      },
+      {
+        "de": "Die USA und die Sowjetunion hatten zusammen Tausende Atomwaffen – genug, die Erde mehrfach zu vernichten.",
+        "ru": "США и СССР располагали вместе тысячами ядерных боеголовок — достаточно, чтобы многократно уничтожить Землю."
+      },
+      {
+        "de": "Kuba stand zweimal kurz vor einem Atomkrieg – beim Missile Crisis 1962 und beim Able Archer Manöver 1983.",
+        "ru": "Мир дважды был на грани ядерной войны — во время Карибского кризиса 1962 года и манёвров «Эйбл Арчер» 1983 года."
+      }
+    ]
+  },
+  {
+    "id": 9012,
+    "question_de": "Was war die Mondlandung (1969) und wer schaffte sie zuerst?",
+    "question_ru": "Что такое высадка на Луну (1969) и кто совершил её первым?",
+    "correct_answer_de": "Apollo 11 (USA) landete am 20. Juli 1969 auf dem Mond – Neil Armstrong betrat als erster Mensch den Mond",
+    "correct_answer_ru": "Apollo 11 (США) приземлился на Луне 20 июля 1969 года — Нил Армстронг стал первым человеком, ступившим на Луну",
+    "wrong_answers_de": ["Sowjetische Kosmonauten landeten 1968 zuerst auf dem Mond, wurden aber geheim gehalten", "NASA-Mission Apollo 13 landete 1970 als erste auf dem Mond nach dem Notfall", "Neil Armstrong und Juri Gagarin landeten 1969 gemeinsam im Rahmen eines Detente-Abkommens"],
+    "wrong_answers_ru": ["Советские космонавты первыми высадились на Луне в 1968 году, но это было засекречено", "Миссия NASA Apollo 13 первой высадилась на Луне в 1970 году после аварийной ситуации", "Нил Армстронг и Юрий Гагарин совместно высадились в 1969 году в рамках соглашения о разрядке"],
+    "explanation_de": "Präsident Kennedy hatte 1961 das Ziel gesetzt, bis Ende des Jahrzehnts auf dem Mond zu landen. Armstrong sagte: 'That's one small step for man, one giant leap for mankind.' Buzz Aldrin landete auch – Michael Collins umkreiste den Mond.",
+    "explanation_ru": "Президент Кеннеди в 1961 году поставил цель высадиться на Луне до конца десятилетия. Армстронг сказал: «Это один маленький шаг для человека, но гигантский скачок для человечества». Базз Олдрин тоже высадился — Майкл Коллинз облетал Луну.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1969 CE",
+    "tags": ["Wissenschaft", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "NASA hatte weniger Rechenleistung für Apollo 11 als ein heutiges Smartphone.",
+        "ru": "У NASA для Apollo 11 было меньше вычислительной мощности, чем у современного смартфона."
+      },
+      {
+        "de": "Präsident Nixon hatte eine fertige Rede für den Fall, dass Armstrong und Aldrin auf dem Mond sterben.",
+        "ru": "Президент Никсон имел готовую речь на случай гибели Армстронга и Олдрина на Луне."
+      },
+      {
+        "de": "Auf dem Mond ließ Armstrong ein Schild zurück: 'Wir kamen in Frieden für die gesamte Menschheit.'",
+        "ru": "На Луне Армстронг оставил табличку: «Мы пришли с миром от всего человечества»."
+      }
+    ]
+  },
+  {
+    "id": 9013,
+    "question_de": "Was war die Kubakrise (1962) und wie gefährlich war sie?",
+    "question_ru": "Что такое Карибский кризис (1962) и насколько он был опасен?",
+    "correct_answer_de": "Die gefährlichste Konfrontation des Kalten Krieges – Sowjets installierten Atomraketen auf Kuba, USA blockierten die Insel",
+    "correct_answer_ru": "Самая опасная конфронтация холодной войны — Советы разместили ядерные ракеты на Кубе, США заблокировали остров",
+    "wrong_answers_de": ["Ein US-Militärputschversuch gegen Castro, der als 'Invasion in der Schweinebucht' bekannt wurde", "Ein Wirtschaftsembargo der USA gegen Kuba nach der Revolution von 1959", "Eine Atomwaffenkrise im Jahr 1962, ausgelöst durch einen sowjetischen Raketenangriff auf Florida"],
+    "wrong_answers_ru": ["Попытка военного переворота США против Кастро, известная как «Вторжение в залив Свиней»", "Экономическое эмбарго США против Кубы после революции 1959 года", "Ядерный кризис 1962 года, спровоцированный советской ракетной атакой на Флориду"],
+    "explanation_de": "13 Tage (16.–28. Oktober 1962) stand die Welt am Rand des Atomkriegs. Kennedy blockierte Kuba. Chruschtschow zog die Raketen ab – USA versprachen, Kuba nicht anzugreifen und ihre Raketen in der Türkei abzuziehen.",
+    "explanation_ru": "13 дней (16–28 октября 1962 года) мир стоял на пороге ядерной войны. Кеннеди заблокировал Кубу. Хрущёв отозвал ракеты — США пообещали не нападать на Кубу и вывести свои ракеты из Турции.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1962 CE",
+    "tags": ["Politik", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Sowjetischer U-Boot-Kommandant Vasili Arkhipov verhinderte allein den Atomkrieg – er verweigerte den Befehl zum Atomtorpedo.",
+        "ru": "Советский командир подводной лодки Василий Архипов единолично предотвратил ядерную войну — отказался выполнить приказ о ядерной торпеде."
+      },
+      {
+        "de": "Der rote Telefonhörer (Hot Line) zwischen Moskau und Washington wurde nach der Krise eingerichtet.",
+        "ru": "«Красный телефон» (горячая линия) между Москвой и Вашингтоном был установлен после кризиса."
+      },
+      {
+        "de": "Fidel Castro hatte Chruschtschow gedrängt, die Raketen einzusetzen – Chruschtschow lehnte ab.",
+        "ru": "Фидель Кастро убеждал Хрущёва применить ракеты — Хрущёв отказался."
+      }
+    ]
+  },
+  {
+    "id": 9014,
+    "question_de": "Wer war Mahatma Gandhi und wofür steht er?",
+    "question_ru": "Кто такой Махатма Ганди и что он олицетворяет?",
+    "correct_answer_de": "Indischer Unabhängigkeitsführer (1869–1948) – gewaltfreier Widerstand (Satyagraha) gegen britische Kolonialherrschaft",
+    "correct_answer_ru": "Индийский лидер движения за независимость (1869–1948) — ненасильственное сопротивление (Сатьяграха) британскому колониальному господству",
+    "wrong_answers_de": ["Pakistanischer Politiker, der 1947 den ersten Präsidenten Pakistans stellte", "Hinduistischer Guru, der durch Meditation und Yoga Indien einen Frieden lehrte", "Indischer Militärführer, der die britische Armee mit Guerillakrieg besiegt hat"],
+    "wrong_answers_ru": ["Пакистанский политик, ставший первым президентом Пакистана в 1947 году", "Индуистский гуру, обучавший Индию миру через медитацию и йогу", "Индийский военный вождь, победивший британскую армию партизанской войной"],
+    "explanation_de": "Gandhi entwickelte den gewaltlosen Widerstand in Südafrika. In Indien führte er Kampagnen: Salzmärsche, Boykott britischer Waren. Er wurde mehrfach inhaftiert. Indien wurde 1947 unabhängig – Gandhi wurde 1948 ermordet.",
+    "explanation_ru": "Ганди разработал ненасильственное сопротивление в Южной Африке. В Индии он проводил кампании: «Соляной марш», бойкот британских товаров. Его неоднократно заключали под стражу. Индия стала независимой в 1947 году — Ганди был убит в 1948-м.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1930 CE",
+    "tags": ["Politik", "Gesellschaft"],
+    "interesting_facts": [
+      {
+        "de": "Gandhis Salzmarsch 1930: 390 km zu Fuß zum Arabischen Meer, um selbst Salz zu gewinnen – als Protest gegen die britische Salzsteuer.",
+        "ru": "«Соляной марш» Ганди в 1930 году: 390 км пешком до Аравийского моря, чтобы самому добыть соль — в знак протеста против британского соляного налога."
+      },
+      {
+        "de": "Gandhi inspirierte Martin Luther King jr. – beide nutzten gewaltfreien Widerstand gegen Diskriminierung.",
+        "ru": "Ганди вдохновил Мартина Лютера Кинга-младшего — оба использовали ненасильственное сопротивление против дискриминации."
+      },
+      {
+        "de": "Gandhi wurde 6 Mal für den Friedensnobelpreis nominiert – und erhielt ihn nie.",
+        "ru": "Ганди номинировался на Нобелевскую премию мира 6 раз — и так её и не получил."
+      }
+    ]
+  },
+  {
+    "id": 9015,
+    "question_de": "Was war die Gründung der UNO (1945) und welchen Zweck hat sie?",
+    "question_ru": "Что такое создание ООН (1945) и какова её цель?",
+    "correct_answer_de": "Die Vereinten Nationen wurden 1945 von 51 Gründungsstaaten gegründet – zur Sicherung des Weltfriedens und Menschenrechte",
+    "correct_answer_ru": "Организация Объединённых Наций была основана в 1945 году 51 государством-учредителем — для обеспечения мира и прав человека",
+    "wrong_answers_de": ["Eine europäische Friedensorganisation, die 1919 nach dem Ersten Weltkrieg als Völkerbund gegründet wurde", "Eine militärische Allianz der westlichen Demokratien gegen den Kommunismus nach 1945", "Eine Wirtschaftsorganisation zur Regelung des globalen Handels nach dem Zweiten Weltkrieg"],
+    "wrong_answers_ru": ["Европейская мирная организация, основанная в 1919 году после Первой мировой войны как Лига Наций", "Военный альянс западных демократий против коммунизма после 1945 года", "Экономическая организация для регулирования мировой торговли после Второй мировой войны"],
+    "explanation_de": "Roosevelt, Churchill und Stalin beschlossen in Jalta die Nachfolge des Völkerbunds. Charta in San Francisco unterzeichnet. Sicherheitsrat mit 5 Vetomächten (USA, Sowjetunion, England, Frankreich, China). Heute 193 Mitgliedsstaaten.",
+    "explanation_ru": "Рузвельт, Черчилль и Сталин решили в Ялте создать преемника Лиги Наций. Устав подписан в Сан-Франциско. Совет Безопасности из 5 держав-победительниц с правом вето (США, СССР, Англия, Франция, Китай). Сегодня 193 государства-члена.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["Politik", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Der Vorgänger der UNO, der Völkerbund (1919), scheiterte – weil die USA nie beitraten.",
+        "ru": "Предшественница ООН — Лига Наций (1919) — потерпела крах, потому что США так и не вступили в неё."
+      },
+      {
+        "de": "Die Allgemeine Erklärung der Menschenrechte wurde 1948 von der UNO verabschiedet – ohne Gegenstimmen.",
+        "ru": "Всеобщая декларация прав человека была принята ООН в 1948 году — без голосов против."
+      },
+      {
+        "de": "Der erste Friedensnobelpreis nach der UNO-Gründung ging 1954 an den UNO-Flüchtlingskommissar UNHCR.",
+        "ru": "Первая Нобелевская премия мира после основания ООН досталась в 1954 году Верховному комиссариату ООН по делам беженцев."
+      }
+    ]
+  },
+  {
+    "id": 9016,
+    "question_de": "Was war der Marshall-Plan (1948) und wer profitierte davon?",
+    "question_ru": "Что такое план Маршалла (1948) и кто от него выиграл?",
+    "correct_answer_de": "Ein US-Hilfsprogramm für Westeuropa nach dem Zweiten Weltkrieg – 13 Milliarden Dollar zum Wiederaufbau",
+    "correct_answer_ru": "Американская программа помощи Западной Европе после Второй мировой войны — 13 миллиардов долларов на восстановление",
+    "wrong_answers_de": ["Ein amerikanischer Kredit für Japan nach dem Zweiten Weltkrieg zum Wiederaufbau", "Ein Rüstungsprogramm der NATO zur Aufrüstung Westdeutschlands gegen die Sowjetunion", "Eine europäische Eigeninitiative zum Wiederaufbau, finanziert durch Reparationszahlungen Deutschlands"],
+    "wrong_answers_ru": ["Американский кредит Японии для восстановления после Второй мировой войны", "Программа вооружений НАТО для перевооружения Западной Германии против СССР", "Европейная собственная инициатива по восстановлению, финансируемая репарациями Германии"],
+    "explanation_de": "Außenminister Marshall schlug das Programm 1947 vor. Ziel: Westeuropa stabilisieren, Kommunismus eindämmen. 17 Länder erhielten Hilfe. Deutschland (Westzone) erhielt 1,4 Milliarden Dollar. Der 'Wirtschaftswunder' war möglich.",
+    "explanation_ru": "Государственный секретарь Маршалл предложил программу в 1947 году. Цель: стабилизировать Западную Европу, сдержать коммунизм. Помощь получили 17 стран. Германия (Западная зона) получила 1,4 миллиарда долларов. Стало возможным «экономическое чудо».",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1948 CE",
+    "tags": ["Wirtschaft", "Amerika", "Europa"],
+    "interesting_facts": [
+      {
+        "de": "Die Sowjetunion lehnte den Marshall-Plan ab – und zwang Osteuropa, ebenfalls abzulehnen.",
+        "ru": "СССР отверг план Маршалла — и вынудил Восточную Европу также отказаться."
+      },
+      {
+        "de": "Der Marshall-Plan wird als eines der erfolgreichsten außenpolitischen Programme der Geschichte gewertet.",
+        "ru": "План Маршалла считается одной из самых успешных внешнеполитических программ в истории."
+      },
+      {
+        "de": "Westdeutschland erhielt trotz seiner Aggression mehr Hilfe als manche Opferstaaten – politisches Kalkül.",
+        "ru": "Западная Германия получила, несмотря на свою агрессию, больше помощи, чем некоторые государства-жертвы — политический расчёт."
+      }
+    ]
+  },
+  {
+    "id": 9017,
+    "question_de": "Was war der Berliner Mauerfall (1989) und welche Bedeutung hatte er?",
+    "question_ru": "Что такое падение Берлинской стены (1989) и каково его значение?",
+    "correct_answer_de": "Am 9. November 1989 öffnete die DDR die Grenzen – die Mauer fiel, Symbol des Endes des Kalten Krieges",
+    "correct_answer_ru": "9 ноября 1989 года ГДР открыла границы — стена пала, символ конца холодной войны",
+    "wrong_answers_de": ["Am 3. Oktober 1990 wurde die Berliner Mauer abgerissen – nach der deutschen Wiedervereinigung", "Am 9. November 1989 stürmten DDR-Soldaten die Westberliner Grenze und rissen die Mauer ab", "Am 13. August 1989 öffnete die DDR die Mauer – nach Protesten von Millionen Bürgern in Leipzig"],
+    "wrong_answers_ru": ["3 октября 1990 года Берлинская стена была снесена — после воссоединения Германии", "9 ноября 1989 года солдаты ГДР штурмовали границу с Западным Берлином и снесли стену", "13 августа 1989 года ГДР открыла стену — после протестов миллионов граждан в Лейпциге"],
+    "explanation_de": "Ein Sprecher verlas versehentlich, die Grenze sei 'sofort' offen. Tausende strömten zu den Grenzübergängen. Grenzsoldaten ließen durch – ohne Schussbefehl. DDR-Bürger pickten die Mauer ab. Ein Jahr später: Wiedervereinigung.",
+    "explanation_ru": "Представитель случайно зачитал, что граница открыта «немедленно». Тысячи устремились к пограничным пунктам. Пограничники пропустили — без приказа стрелять. Граждане ГДР стали разбирать стену. Год спустя — воссоединение.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1989 CE",
+    "tags": ["Deutschland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Die Mauer stand von 1961 bis 1989 – 28 Jahre. Mindestens 140 Menschen starben beim Fluchtversuch.",
+        "ru": "Стена простояла с 1961 по 1989 год — 28 лет. Не менее 140 человек погибли при попытке бегства."
+      },
+      {
+        "de": "Auf der DDR-Seite bestand die Mauer aus 3,6 m hohem Beton, Hundelaufbahn, Minen und Scheinwerfern.",
+        "ru": "Со стороны ГДР стена состояла из 3,6-метрового бетона, собачьего патруля, мин и прожекторов."
+      },
+      {
+        "de": "Der Mauerfall war für viele überraschend – selbst westliche Geheimdienste hatten ihn nicht vorhergesehen.",
+        "ru": "Падение стены стало неожиданностью для многих — даже западные спецслужбы его не предвидели."
+      }
+    ]
+  },
+  {
+    "id": 9018,
+    "question_de": "Was war das Internet und wie entstand es?",
+    "question_ru": "Что такое Интернет и как он возник?",
+    "correct_answer_de": "Globales Computernetzwerk – entstanden aus dem militärischen ARPANET (1969), World Wide Web erfunden 1991 von Tim Berners-Lee",
+    "correct_answer_ru": "Глобальная компьютерная сеть — выросла из военного ARPANET (1969), Всемирная паутина изобретена в 1991 году Тимом Бернерсом-Ли",
+    "wrong_answers_de": ["Das Internet wurde 1981 von IBM für kommerzielle Zwecke erfunden", "Bill Gates erfand das Internet als Teil von Microsoft Windows 1985", "Das Internet entstand 1994 als kommerzielles Netz für den Onlinehandel"],
+    "wrong_answers_ru": ["Интернет был изобретён компанией IBM в 1981 году в коммерческих целях", "Билл Гейтс изобрёл Интернет как часть Microsoft Windows в 1985 году", "Интернет возник в 1994 году как коммерческая сеть для онлайн-торговли"],
+    "explanation_de": "ARPANET verband 1969 vier US-Universitäten. Tim Berners-Lee erfand 1991 am CERN das World Wide Web (HTML, URLs, HTTP). 1993 gab es 130 Websites – 2023 über 2 Milliarden. Die Welt wurde vernetzt.",
+    "explanation_ru": "ARPANET в 1969 году соединил четыре американских университета. Тим Бернерс-Ли в 1991 году в CERN изобрёл Всемирную паутину (HTML, URL, HTTP). В 1993 году насчитывалось 130 веб-сайтов — в 2023-м более 2 миллиардов. Мир стал связанным.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1991 CE",
+    "tags": ["Erfindungen", "Amerika", "Wissenschaft"],
+    "interesting_facts": [
+      {
+        "de": "Die erste E-Mail wurde 1971 von Ray Tomlinson gesendet – er wählte das @-Zeichen als Trennzeichen.",
+        "ru": "Первое электронное письмо было отправлено в 1971 году Реем Томлинсоном — он выбрал знак @ как разделитель."
+      },
+      {
+        "de": "Tim Berners-Lee patentierte das WWW nicht – er gab es der Welt kostenlos.",
+        "ru": "Тим Бернерс-Ли не запатентовал Всемирную паутину — он отдал её миру бесплатно."
+      },
+      {
+        "de": "Google wurde 1998 in einer Garage gegründet – Facebook 2004 in einem Studentenwohnheim.",
+        "ru": "Google был основан в 1998 году в гараже — Facebook в 2004 году в студенческом общежитии."
+      }
+    ]
+  },
+  {
+    "id": 9019,
+    "question_de": "Was war der Vietnamkrieg und wie endete er?",
+    "question_ru": "Что такое Вьетнамская война и чем она закончилась?",
+    "correct_answer_de": "USA kämpften gegen kommunistisches Nordvietnam – 1975 siegte Nordvietnam, USA verloren politisch und militärisch",
+    "correct_answer_ru": "США воевали против коммунистического Северного Вьетнама — в 1975 году Северный Вьетнам победил, США потерпели политическое и военное поражение",
+    "wrong_answers_de": ["USA besiegten Nordvietnam 1972 und teilten Vietnam dauerhaft in zwei Staaten", "Frankreich besiegte Vietcong 1954 und übergab das Land an die USA zur Verwaltung", "China und Sowjetunion griffen 1965 gemeinsam Südvietnam an, USA verteidigten es erfolgreich"],
+    "wrong_answers_ru": ["США победили Северный Вьетнам в 1972 году и навсегда разделили Вьетнам на два государства", "Франция победила Вьетконг в 1954 году и передала страну США для управления", "Китай и СССР совместно напали на Южный Вьетнам в 1965 году, США успешно его защитили"],
+    "explanation_de": "Frankreich verlor Indochina 1954. USA griffen ein, um Kommunismus einzudämmen. Bis 1973: 58.000 US-Tote, 3 Millionen Vietnamesen. Protest zuhause. Nixon zog ab. 1975 fiel Saigon an Nordvietnam. Vietnam wurde vereint und kommunistisch.",
+    "explanation_ru": "Франция потеряла Индокитай в 1954 году. США вмешались, чтобы сдержать коммунизм. К 1973 году: 58 000 погибших американцев, 3 миллиона вьетнамцев. Протесты внутри страны. Никсон вывел войска. В 1975 году Сайгон пал перед Северным Вьетнамом. Вьетнам объединился под коммунизмом.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1968 CE",
+    "tags": ["Krieg", "Amerika", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Das Foto des weinenden nackten Mädchens (Nick Ut, 1972) veränderte die amerikanische Kriegsmeinung.",
+        "ru": "Фотография плачущей обнажённой девочки (Ник Ут, 1972) изменила отношение американцев к войне."
+      },
+      {
+        "de": "Agent Orange – ein chemisches Entlaubungsmittel – verursacht noch heute Geburtsschäden in Vietnam.",
+        "ru": "Агент Оранж — химический дефолиант — до сих пор вызывает врождённые дефекты во Вьетнаме."
+      },
+      {
+        "de": "Das Vietnam-Veterans-Memorial in Washington hat 58.000 Namen eingraviert – von der US-Öffentlichkeit finanziert.",
+        "ru": "На мемориале ветеранов Вьетнама в Вашингтоне высечены 58 000 имён — профинансированный американской общественностью."
+      }
+    ]
+  },
+  {
+    "id": 9020,
+    "question_de": "Wer war Martin Luther King Jr. und was war seine Botschaft?",
+    "question_ru": "Кто такой Мартин Лютер Кинг-младший и в чём его послание?",
+    "correct_answer_de": "Amerikanischer Bürgerrechtler (1929–1968) – gewaltfreier Kampf für Gleichberechtigung der Schwarzen in den USA",
+    "correct_answer_ru": "Американский борец за гражданские права (1929–1968) — ненасильственная борьба за равноправие чернокожих в США",
+    "wrong_answers_de": ["Amerikanischer Politiker, der 1964 das Bürgerrechtsgesetz als Präsident unterschrieb", "Schwarzer Führer der Nation of Islam, der für Rassentrennung kämpfte", "Baptistenprediger, der die schwarze Kirche von politischen Aktivitäten fernhielt"],
+    "wrong_answers_ru": ["Американский политик, подписавший Закон о гражданских правах в 1964 году как президент", "Чёрный лидер «Нации ислама», боровшийся за расовое разделение", "Баптистский проповедник, державший чёрную церковь в стороне от политической деятельности"],
+    "explanation_de": "King führte den Montgomery-Bus-Boykott (1955), den Marsch auf Washington (1963). Seine Rede 'I Have a Dream' wurde historisch. Er wurde 1968 in Memphis ermordet. Das Civil Rights Act 1964 verdankt sich auch seinem Kampf.",
+    "explanation_ru": "Кинг руководил бойкотом автобусов в Монтгомери (1955), маршем на Вашингтон (1963). Его речь «У меня есть мечта» вошла в историю. Он был убит в Мемфисе в 1968 году. Закон о гражданских правах 1964 года стал возможен и благодаря его борьбе.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1963 CE",
+    "tags": ["Gesellschaft", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "King wurde 1964 als jüngster Mann mit dem Friedensnobelpreis ausgezeichnet – mit 35 Jahren.",
+        "ru": "В 1964 году Кинг стал самым молодым лауреатом Нобелевской премии мира — в возрасте 35 лет."
+      },
+      {
+        "de": "Das FBI bespitzelte King jahrelang – Direktor Hoover hielt ihn für einen kommunistischen Agenten.",
+        "ru": "ФБР годами шпионило за Кингом — директор Гувер считал его коммунистическим агентом."
+      },
+      {
+        "de": "Kings Rede 'I Have a Dream' war improvisiert – er wich vom vorbereiteten Text ab.",
+        "ru": "Речь Кинга «У меня есть мечта» была импровизированной — он отступил от заранее подготовленного текста."
+      }
+    ]
+  },
+  {
+    "id": 9021,
+    "question_de": "Was war das Ende der Sowjetunion (1991) und was bewirkte es?",
+    "question_ru": "Что такое распад Советского Союза (1991) и что он повлёк за собой?",
+    "correct_answer_de": "Am 25. Dezember 1991 löste sich die Sowjetunion auf – 15 unabhängige Staaten entstanden, Russland als Nachfolger",
+    "correct_answer_ru": "25 декабря 1991 года Советский Союз распался — возникли 15 независимых государств, Россия стала правопреемником",
+    "wrong_answers_de": ["Die Sowjetunion kollabierte 1989 nach dem Fall der Berliner Mauer sofort", "Gorbatschow löste 1991 die Sowjetunion durch ein Referendum auf, an dem alle Sowjetbürger teilnahmen", "Boris Jelzin führte 1991 einen Militärputsch gegen Gorbatschow und proklamierte die Russische Republik"],
+    "wrong_answers_ru": ["СССР немедленно рухнул в 1989 году после падения Берлинской стены", "Горбачёв распустил СССР в 1991 году через референдум, в котором участвовали все советские граждане", "Борис Ельцин в 1991 году осуществил военный переворот против Горбачёва и провозгласил Российскую республику"],
+    "explanation_de": "Gorbatschows Reformen (Glasnost, Perestroika) schwächten die Kontrolle. 1991 scheiterte ein konservativer Putsch. Republiken erklärten Unabhängigkeit. Am 25.12.1991 trat Gorbatschow zurück, Sowjetflagge wurde eingeholt. Ende des Kalten Krieges.",
+    "explanation_ru": "Реформы Горбачёва (гласность, перестройка) ослабили контроль. В 1991 году консервативный путч провалился. Республики объявили независимость. 25 декабря 1991 года Горбачёв ушёл в отставку, советский флаг был спущен. Конец холодной войны.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1991 CE",
+    "tags": ["Russland", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Putin nannte den Zerfall der Sowjetunion 'die größte geopolitische Katastrophe des 20. Jahrhunderts'.",
+        "ru": "Путин назвал распад СССР «крупнейшей геополитической катастрофой XX века»."
+      },
+      {
+        "de": "Die Sowjetische Atombombe wurde verteilt auf 4 Nachfolgestaaten – Ukraine, Kasachstan, Belarus und Russland.",
+        "ru": "Советская атомная бомба оказалась рассредоточена по 4 государствам-преемникам — Украине, Казахстану, Беларуси и России."
+      },
+      {
+        "de": "Auf dem Gipfel der Sowjetmacht hatte die UdSSR 2,7 Millionen Soldaten und 40.000 Atomsprengköpfe.",
+        "ru": "На пике советской мощи СССР располагал 2,7 миллиона солдат и 40 000 ядерных боеголовок."
+      }
+    ]
+  },
+  {
+    "id": 9022,
+    "question_de": "Was war die Apartheid in Südafrika und wer kämpfte dagegen?",
+    "question_ru": "Что такое апартеид в Южной Африке и кто с ним боролся?",
+    "correct_answer_de": "Rassisches Trennungssystem (1948–1994) – Nelson Mandela führte den Widerstand, saß 27 Jahre im Gefängnis",
+    "correct_answer_ru": "Система расовой сегрегации (1948–1994) — Нельсон Мандела возглавлял сопротивление, провёл 27 лет в тюрьме",
+    "wrong_answers_de": ["Ein kolonialistisches System der Belgier im Kongo bis 1960", "Ein Rassentrennungssystem im amerikanischen Süden bis 1965 (Jim Crow)", "Eine religiöse Verfolgung der schwarzen Christen durch die muslimische Regierung"],
+    "wrong_answers_ru": ["Колониалистическая система бельгийцев в Конго до 1960 года", "Система расовой сегрегации на американском юге до 1965 года (законы Джима Кроу)", "Религиозное преследование чёрных христиан мусульманским правительством"],
+    "explanation_de": "Das Apartheid-Regime trennte Weiße und Schwarze in allen Lebensbereichen. Mandela wurde 1964 zu lebenslanger Haft verurteilt (Robben Island). Internationaler Druck, Wirtschaftssanktionen. 1990 wurde Mandela freigelassen, 1994 erstmals freie Wahlen – er wurde Präsident.",
+    "explanation_ru": "Режим апартеида разделял белых и чёрных во всех сферах жизни. Мандела был приговорён в 1964 году к пожизненному заключению (остров Роббен). Международное давление, экономические санкции. В 1990 году Мандела вышел на свободу, в 1994-м — первые свободные выборы: он стал президентом.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1960 CE",
+    "tags": ["Afrika", "Gesellschaft", "Politik"],
+    "interesting_facts": [
+      {
+        "de": "Mandela bekam 1993 gemeinsam mit dem weißen Präsidenten F.W. de Klerk den Friedensnobelpreis.",
+        "ru": "Мандела получил в 1993 году Нобелевскую премию мира совместно с белым президентом Ф.В. де Клерком."
+      },
+      {
+        "de": "Auf Robben Island brach Mandela nie – er traf seinen Wärter Terry Gregory, der sein Freund wurde.",
+        "ru": "На острове Роббен Мандела никогда не сломился — он подружился с охранником Терри Грегори."
+      },
+      {
+        "de": "Südafrika war das einzige Land, das freiwillig sein Atomwaffenprogramm aufgab – aus Angst vor schwarzer Regierung.",
+        "ru": "Южная Африка — единственная страна, добровольно отказавшаяся от ядерной программы — из страха перед чёрным правительством."
+      }
+    ]
+  },
+  {
+    "id": 9023,
+    "question_de": "Was war die Chinesische Kulturrevolution (1966–1976)?",
+    "question_ru": "Что такое Культурная революция в Китае (1966–1976)?",
+    "correct_answer_de": "Maos Kampagne zur Zerstörung 'alter' Kultur und politischer Gegner – Millionen Tote und Vertriebene",
+    "correct_answer_ru": "Кампания Мао по уничтожению «старой» культуры и политических противников — миллионы погибших и изгнанных",
+    "wrong_answers_de": ["Eine Modernisierungsreform Mao Zedongs zur Industrialisierung Chinas nach sowjetischem Vorbild", "Eine Revolution der städtischen Mittelklasse gegen die ländliche Regierung Maos", "Eine kulturelle Öffnung Chinas für westliche Ideen in den 1960er Jahren"],
+    "wrong_answers_ru": ["Реформа модернизации Мао Цзэдуна по индустриализации Китая по советскому образцу", "Революция городского среднего класса против сельского правительства Мао", "Культурное открытие Китая для западных идей в 1960-е годы"],
+    "explanation_de": "Mao mobilisierte Jugendliche (Rote Garden), um Intellektuelle, Künstler, Parteirivalen zu verfolgen. Schulen und Universitäten wurden geschlossen. Konfuzianismus verboten. Bis 2 Millionen Tote. Mao stärkte damit seine Macht.",
+    "explanation_ru": "Мао мобилизовал молодёжь (хунвэйбины), чтобы преследовать интеллигенцию, художников, партийных соперников. Школы и университеты были закрыты. Конфуцианство запрещено. До 2 миллионов погибших. Мао тем самым укрепил свою власть.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1968 CE",
+    "tags": ["Politik"],
+    "interesting_facts": [
+      {
+        "de": "Xi Jinpings Vater wurde während der Kulturrevolution verfolgt – Xi selbst wurde aufs Land deportiert.",
+        "ru": "Отец Си Цзиньпина был репрессирован в годы Культурной революции — самого Си депортировали в деревню."
+      },
+      {
+        "de": "Das 'Kleine Rote Buch' (Mao-Zitate) wurde mehr als 5 Milliarden Mal gedruckt.",
+        "ru": "«Маленькая красная книга» (цитаты Мао) была напечатана более 5 миллиардов раз."
+      },
+      {
+        "de": "Auch Deng Xiaoping wurde verfolgt – wurde aber rehabilitiert und startete Chinas wirtschaftliche Öffnung.",
+        "ru": "Дэн Сяопин также подвергался преследованиям — но был реабилитирован и запустил экономическое открытие Китая."
+      }
+    ]
+  },
+  {
+    "id": 9024,
+    "question_de": "Was war der Sputnik-Schock (1957) und was löste er aus?",
+    "question_ru": "Что такое «спутниковый шок» (1957) и что он вызвал?",
+    "correct_answer_de": "Sowjetunion startete den ersten Erdsatelliten Sputnik – USA reagierten mit dem Weltraumrennen und Bildungsoffensive",
+    "correct_answer_ru": "СССР запустил первый искусственный спутник Земли Sputnik — США ответили космической гонкой и образовательным рывком",
+    "wrong_answers_de": ["Die Sowjetunion landete 1957 als erste auf dem Mond – USA starteten daraufhin Apollo", "Ein sowjetisches Spionagenetz 'Sputnik' erschütterte die US-Geheimdienste", "Die erste sowjetische Atombombe 1949 schockierte den Westen – Sputnik war die Rakete dafür"],
+    "wrong_answers_ru": ["СССР первым высадился на Луне в 1957 году — США запустили в ответ программу Apollo", "Советская шпионская сеть «Спутник» потрясла американские спецслужбы", "Первая советская атомная бомба в 1949 году потрясла Запад — «Спутник» был ракетой для неё"],
+    "explanation_de": "Am 4. Oktober 1957 umkreiste Sputnik 1 die Erde – das Piepsen war im Radio zu hören. USA waren beschämt: die Sowjets waren technisch überlegen. NASA wurde 1958 gegründet. Bildungsgesetz förderte Mathe und Naturwissenschaften.",
+    "explanation_ru": "4 октября 1957 года «Спутник-1» облетел Землю — его сигналы можно было слышать по радио. США были унижены: советские технологии оказались превосходящими. NASA было создано в 1958 году. Закон об образовании поддержал математику и естественные науки.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1957 CE",
+    "tags": ["Wissenschaft", "Russland", "Amerika"],
+    "interesting_facts": [
+      {
+        "de": "Laika, die Hündin, war der erste Lebewesen im Weltraum (Sputnik 2, November 1957) – sie starb nach Stunden.",
+        "ru": "Лайка, собака, стала первым живым существом в космосе (Спутник-2, ноябрь 1957 года) — она погибла через несколько часов."
+      },
+      {
+        "de": "Der Sputnik-Schock führte zur Erfindung des Internets – ARPANET als militärisches Kommunikationsnetz.",
+        "ru": "«Спутниковый шок» привёл к изобретению Интернета — ARPANET как военная коммуникационная сеть."
+      },
+      {
+        "de": "Sputnik 1 umkreiste die Erde 1440 Mal in 3 Monaten – bevor er in die Atmosphäre eintrat und verglühte.",
+        "ru": "«Спутник-1» облетел Землю 1440 раз за 3 месяца — прежде чем вошёл в атмосферу и сгорел."
+      }
+    ]
+  },
+  {
+    "id": 9025,
+    "question_de": "Was war die Entdeckung der DNA-Doppelhelix (1953)?",
+    "question_ru": "Что такое открытие двойной спирали ДНК (1953)?",
+    "correct_answer_de": "Watson und Crick entdeckten 1953 die Doppelhelix-Struktur der DNA – Grundlage der modernen Genetik und Biotechnologie",
+    "correct_answer_ru": "Уотсон и Крик в 1953 году открыли структуру двойной спирали ДНК — основа современной генетики и биотехнологии",
+    "wrong_answers_de": ["Marie Curie entdeckte die DNA als Nebenprojekt ihrer Strahlungsforschung 1910", "Gregor Mendel entdeckte 1866 die DNA-Doppelhelix durch seine Erbsenexperimente", "Linus Pauling und Rosalind Franklin veröffentlichten 1953 die DNA-Struktur gemeinsam"],
+    "wrong_answers_ru": ["Мари Кюри открыла ДНК как побочный продукт своих исследований излучения в 1910 году", "Грегор Мендель открыл двойную спираль ДНК в 1866 году в ходе экспериментов с горохом", "Лайнус Полинг и Розалинд Франклин опубликовали структуру ДНК совместно в 1953 году"],
+    "explanation_de": "James Watson (Amerikaner) und Francis Crick (Brite) nutzten Rosalind Franklins Röntgenbilder (ohne ihr Wissen). Sie veröffentlichten in Nature 1953. Watson und Crick erhielten 1962 den Nobelpreis – Franklin war bereits gestorben.",
+    "explanation_ru": "Джеймс Уотсон (американец) и Фрэнсис Крик (британец) использовали рентгеновские снимки Розалинд Франклин (без её ведома). Они опубликовали результаты в Nature в 1953 году. Уотсон и Крик получили Нобелевскую премию в 1962-м — Франклин уже умерла.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1953 CE",
+    "tags": ["Wissenschaft", "England"],
+    "interesting_facts": [
+      {
+        "de": "Rosalind Franklins 'Photo 51' – ein Röntgenbild der DNA – war entscheidend für Watson und Cricks Entdeckung.",
+        "ru": "«Фото 51» Розалинд Франклин — рентгеновский снимок ДНК — стало решающим для открытия Уотсона и Крика."
+      },
+      {
+        "de": "Die DNA-Struktur ermöglichte die Gentechnik, den Human Genome Project (2003) und CRISPR-Genscheren.",
+        "ru": "Структура ДНК сделала возможными генную инженерию, Проект «Геном человека» (2003) и CRISPR-редактирование генов."
+      },
+      {
+        "de": "Jede menschliche Zelle enthält 2 Meter DNA – zusammengerollt auf Nanometergröße.",
+        "ru": "Каждая клетка человека содержит 2 метра ДНК — свёрнутой до нанометрового размера."
+      }
+    ]
+  }
+]

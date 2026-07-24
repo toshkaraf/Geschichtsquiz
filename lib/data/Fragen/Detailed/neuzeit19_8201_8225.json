@@ -1,0 +1,727 @@
+[
+  {
+    "id": 8201,
+    "question_de": "Was verstand man unter dem Begriff 'Realpolitik', der Bismarck zugeschrieben wird?",
+    "question_ru": "Что понималось под термином «Реальная политика», приписываемым Бисмарку?",
+    "correct_answer_de": "Eine pragmatische Politik, die auf konkreten Machtinteressen basiert, nicht auf Idealen oder Ideologien",
+    "correct_answer_ru": "Прагматичная политика, основанная на конкретных интересах власти, а не на идеалах или идеологиях",
+    "wrong_answers_de": [
+      "Eine Politik, die Realismus in der Kunst förderte",
+      "Eine Außenpolitik, die ausschließlich auf militärische Stärke setzte",
+      "Ein Programm zur realistischen Darstellung sozialer Probleme in der Gesetzgebung"
+    ],
+    "wrong_answers_ru": [
+      "Политика, поощрявшая реализм в искусстве",
+      "Внешняя политика, делавшая ставку исключительно на военную силу",
+      "Программа реалистичного отображения социальных проблем в законодательстве"
+    ],
+    "explanation_de": "Realpolitik bezeichnet einen Politikstil, bei dem praktische Ziele und Machtkalküle Vorrang vor moralischen Prinzipien haben. Bismarck setzte sie erfolgreich bei der deutschen Einigung ein.",
+    "explanation_ru": "Реальная политика обозначает политический стиль, при котором практические цели и расчёты власти преобладают над моральными принципами. Бисмарк успешно применял её при объединении Германии.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1862 CE",
+    "tags": ["Realpolitik", "Bismarck", "Machtpolitik", "Diplomatie", "Deutschland"],
+    "interesting_facts": [
+      {"de": "Der Begriff 'Realpolitik' wurde 1853 vom deutschen Journalisten Ludwig von Rochau geprägt.", "ru": "Термин «Реальная политика» был введён в 1853 году немецким журналистом Людвигом фон Рохау."},
+      {"de": "Bismarck soll gesagt haben: 'Politik ist die Kunst des Möglichen.'", "ru": "Бисмарку приписывают слова: «Политика — это искусство возможного»."},
+      {"de": "Realpolitik beeinflusste spätere Politiker wie Kissinger und Metternich.", "ru": "Реальная политика повлияла на таких последующих политиков, как Киссинджер и Меттерних."}
+    ]
+  },
+  {
+    "id": 8202,
+    "question_de": "Welche Bedeutung hatte die Entdeckung von Gold in Südafrika (1886) für die Geschichte?",
+    "question_ru": "Какое значение имело открытие золота в Южной Африке (1886) для истории?",
+    "correct_answer_de": "Es löste einen Goldrausch aus, der britische Einwanderung und Konflikte mit Buren intensivierte",
+    "correct_answer_ru": "Оно вызвало золотую лихорадку, которая усилила британскую иммиграцию и конфликты с бурами",
+    "wrong_answers_de": [
+      "Es führte zur sofortigen Unabhängigkeit Südafrikas vom Britischen Empire",
+      "Es ermöglichte den Buren, ein wirtschaftlich unabhängiges Reich aufzubauen",
+      "Die Goldvorkommen erwiesen sich als zu gering für wirtschaftliche Bedeutung"
+    ],
+    "wrong_answers_ru": [
+      "Это привело к немедленной независимости Южной Африки от Британской империи",
+      "Это позволило бурам создать экономически независимую империю",
+      "Запасы золота оказались слишком незначительными для экономического значения"
+    ],
+    "explanation_de": "Die Entdeckung von Gold am Witwatersrand 1886 verwandelte Südafrika. Johannesburg wuchs über Nacht. Die britisch-burischen Spannungen eskalierten und führten 1899–1902 zu den Burenkriegen.",
+    "explanation_ru": "Открытие золота на Витватерсранде в 1886 году преобразило Южную Африку. Йоханнесбург вырос за одну ночь. Британско-бурские противоречия обострились и в 1899–1902 годах привели к Англо-бурским войнам.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1886 CE",
+    "tags": ["Südafrika", "Gold", "Burenkrieg", "Großbritannien", "Kolonialismus"],
+    "interesting_facts": [
+      {"de": "Der Witwatersrand enthält noch heute die größten bekannten Goldreserven der Welt.", "ru": "Витватерсранд по сей день содержит крупнейшие из известных в мире запасы золота."},
+      {"de": "Cecil Rhodes versuchte, die burischen Republiken zu destabilisieren, um britische Kontrolle zu sichern.", "ru": "Сесил Родс пытался дестабилизировать бурские республики, чтобы обеспечить британский контроль."},
+      {"de": "Die Bevölkerung Johannesburgs explodierte von null auf 100.000 Einwohner in nur 10 Jahren.", "ru": "Население Йоханнесбурга за 10 лет выросло с нуля до 100 000 жителей."}
+    ]
+  },
+  {
+    "id": 8203,
+    "question_de": "Was war die Bedeutung der Enzyklika 'Rerum Novarum' von Papst Leo XIII. (1891)?",
+    "question_ru": "Каково было значение энциклики «Rerum Novarum» папы Льва XIII (1891)?",
+    "correct_answer_de": "Sie legte die Grundlagen der katholischen Soziallehre und sprach sich für Arbeitnehmerrechte aus",
+    "correct_answer_ru": "Она заложила основы католического социального учения и выступила в защиту прав трудящихся",
+    "wrong_answers_de": [
+      "Sie rief Katholiken auf, den Sozialismus zu unterstützen und Privateigentum abzuschaffen",
+      "Sie verurteilte die Arbeiterbewegung als unvereinbar mit der christlichen Moral",
+      "Sie forderte die Trennung von Kirche und Staat in allen europäischen Ländern"
+    ],
+    "wrong_answers_ru": [
+      "Она призывала католиков поддержать социализм и упразднить частную собственность",
+      "Она осуждала рабочее движение как несовместимое с христианской моралью",
+      "Она требовала отделения церкви от государства во всех европейских странах"
+    ],
+    "explanation_de": "Die Enzyklika 'Rerum Novarum' (1891) kritisierte sowohl ungezügelten Kapitalismus als auch Sozialismus und forderte gerechte Löhne, menschenwürdige Arbeitsbedingungen und das Recht auf Gewerkschaften.",
+    "explanation_ru": "Энциклика «Rerum Novarum» (1891) критиковала как необузданный капитализм, так и социализм и требовала справедливой заработной платы, достойных условий труда и права на профсоюзы.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1891 CE",
+    "tags": ["Rerum Novarum", "Papst", "Soziallehre", "Kirche", "Arbeiterbewegung"],
+    "interesting_facts": [
+      {"de": "Rerum Novarum gilt als Magna Carta der christlich-sozialen Bewegung.", "ru": "«Rerum Novarum» считается Великой хартией христианско-социального движения."},
+      {"de": "Die Enzyklika beeinflusste die Entstehung christdemokratischer Parteien in Europa.", "ru": "Энциклика повлияла на возникновение христианско-демократических партий в Европе."},
+      {"de": "Der Titel 'Rerum Novarum' bedeutet auf Latein 'Über die neuen Dinge' (soziale Frage).", "ru": "Название «Rerum Novarum» на латыни означает «О новых вещах» (социальный вопрос)."}
+    ]
+  },
+  {
+    "id": 8204,
+    "question_de": "Was war das Ziel der Chartisten in Großbritannien in den 1840er Jahren?",
+    "question_ru": "Какова была цель чартистов в Великобритании в 1840-х годах?",
+    "correct_answer_de": "Sie forderten politische Reformen, darunter allgemeines Männerwahlrecht und geheime Wahl",
+    "correct_answer_ru": "Они требовали политических реформ, включая всеобщее избирательное право для мужчин и тайное голосование",
+    "wrong_answers_de": [
+      "Sie strebten nach einer sozialistischen Republik und der Verstaatlichung der Industrie",
+      "Sie kämpften für das Wahlrecht der Frauen in allen englischen Grafschaften",
+      "Sie forderten die Abschaffung des Parlaments und direkter Demokratie durch Volksabstimmungen"
+    ],
+    "wrong_answers_ru": [
+      "Они стремились к социалистической республике и национализации промышленности",
+      "Они боролись за право голоса для женщин во всех английских графствах",
+      "Они требовали упразднения парламента и прямой демократии через народные референдумы"
+    ],
+    "explanation_de": "Die Chartisten präsentierten 1838 die People's Charter mit sechs Forderungen, darunter allgemeines Männerwahlrecht, geheime Wahl und Entlohnung für Parlamentsmitglieder.",
+    "explanation_ru": "В 1838 году чартисты представили «Народную хартию» с шестью требованиями, включая всеобщее избирательное право для мужчин, тайное голосование и жалованье для членов парламента.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1838 CE",
+    "tags": ["Chartismus", "Großbritannien", "Wahlrecht", "Reform", "Arbeiterbewegung"],
+    "interesting_facts": [
+      {"de": "Die Chartisten sammelten Millionen von Unterschriften für Petitionen – das Parlament lehnte sie dreimal ab.", "ru": "Чартисты собрали миллионы подписей под петициями — парламент трижды отклонил их."},
+      {"de": "Fünf der sechs chartistischen Forderungen wurden bis 1918 Gesetz.", "ru": "Пять из шести требований чартистов стали законом к 1918 году."},
+      {"de": "Der Chartismus gilt als erste Massenbewegung der Arbeiterklasse in der Geschichte.", "ru": "Чартизм считается первым массовым движением рабочего класса в истории."}
+    ]
+  },
+  {
+    "id": 8205,
+    "question_de": "Welche Bedeutung hatte die Einführung der allgemeinen Schulpflicht in Preußen im 18./19. Jahrhundert?",
+    "question_ru": "Какое значение имело введение всеобщего обязательного школьного образования в Пруссии в XVIII–XIX веках?",
+    "correct_answer_de": "Sie erhöhte die Alphabetisierungsrate und schuf die Grundlage für eine gebildete Industriegesellschaft",
+    "correct_answer_ru": "Она повысила уровень грамотности и создала основу для образованного индустриального общества",
+    "wrong_answers_de": [
+      "Sie diente hauptsächlich der religiösen Unterweisung durch die evangelische Kirche",
+      "Sie wurde von der Arbeiterbewegung als Unterdrückungsinstrument der Bourgeoisie abgelehnt",
+      "Sie betraf nur Söhne von Handwerkern und Kaufleuten, nicht die Landbevölkerung"
+    ],
+    "wrong_answers_ru": [
+      "Она служила главным образом религиозному воспитанию через евангелическую церковь",
+      "Она была отвергнута рабочим движением как инструмент угнетения буржуазии",
+      "Она касалась только сыновей ремесленников и купцов, но не сельского населения"
+    ],
+    "explanation_de": "Preußen führte die Schulpflicht 1717 ein, verstärkte sie im 19. Jahrhundert. Die Alphabetisierungsrate stieg auf fast 90 % bis 1870 – ein entscheidender Vorteil für Industrie und Militär.",
+    "explanation_ru": "Пруссия ввела обязательное школьное образование в 1717 году и укрепила его в XIX веке. Уровень грамотности к 1870 году вырос почти до 90% — решающее преимущество для промышленности и армии.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1800 CE",
+    "tags": ["Schulpflicht", "Bildung", "Preußen", "Alphabetisierung", "Gesellschaft"],
+    "interesting_facts": [
+      {"de": "Nach 1871 diente das preußische Bildungssystem als Vorbild für das Deutsche Reich.", "ru": "После 1871 года прусская система образования служила образцом для Германской империи."},
+      {"de": "Bismarck sagte, die Schlachten von 1866 und 1870 seien von preußischen Schullehrern gewonnen worden.", "ru": "Бисмарк говорил, что битвы 1866 и 1870 годов были выиграны прусскими школьными учителями."},
+      {"de": "Mädchen wurden in Preußen zwar zur Schule verpflichtet, hatten aber deutlich eingeschränktere Bildungschancen.", "ru": "Девочки в Пруссии были обязаны посещать школу, однако их образовательные возможности были значительно ограничены."}
+    ]
+  },
+  {
+    "id": 8206,
+    "question_de": "Was war die Bedeutung der 'Monroe-Doktrin' von 1823 für Lateinamerika?",
+    "question_ru": "Каково было значение «доктрины Монро» 1823 года для Латинской Америки?",
+    "correct_answer_de": "Sie erklärte den amerikanischen Kontinent zur amerikanischen Einflusssphäre und warnte Europa vor weiterer Kolonialisierung",
+    "correct_answer_ru": "Она объявила американский континент сферой влияния США и предупредила Европу против дальнейшей колонизации",
+    "wrong_answers_de": [
+      "Sie gewährte allen lateinamerikanischen Staaten Militärschutz durch die USA",
+      "Sie sah vor, dass Lateinamerika unter gemeinsamer amerikanisch-britischer Verwaltung stehe",
+      "Sie regelte den Freihandel zwischen den USA und Lateinamerika"
+    ],
+    "wrong_answers_ru": [
+      "Она предоставляла всем латиноамериканским государствам военную защиту со стороны США",
+      "Она предусматривала, что Латинская Америка находится под совместным американо-британским управлением",
+      "Она регулировала свободную торговлю между США и Латинской Америкой"
+    ],
+    "explanation_de": "Präsident Monroe verkündete 1823 in seiner Botschaft an den Kongress, dass Europa keine neuen Kolonien in Amerika errichten und sich nicht in amerikanische Angelegenheiten einmischen dürfe.",
+    "explanation_ru": "В 1823 году президент Монро провозгласил в послании Конгрессу, что Европа не должна основывать новых колоний в Америке и вмешиваться в американские дела.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1823 CE",
+    "tags": ["Monroe-Doktrin", "USA", "Lateinamerika", "Außenpolitik", "Kolonialismus"],
+    "interesting_facts": [
+      {"de": "Die Monroe-Doktrin wurde bis ins 20. Jahrhundert zur Rechtfertigung von US-Interventionen in Lateinamerika benutzt.", "ru": "Доктрина Монро использовалась вплоть до XX века для обоснования американских интервенций в Латинской Америке."},
+      {"de": "Im 19. Jahrhundert hatten die USA kaum die militärische Macht, die Doktrin durchzusetzen – das übernahm Großbritannien.", "ru": "В XIX веке у США почти не было военной мощи для проведения этой доктрины в жизнь — это брала на себя Великобритания."},
+      {"de": "Theodore Roosevelt ergänzte die Doktrin 1904 um ein Interventionsrecht der USA in Lateinamerika.", "ru": "Теодор Рузвельт в 1904 году дополнил доктрину правом США на интервенцию в Латинской Америке."}
+    ]
+  },
+  {
+    "id": 8207,
+    "question_de": "Was war das politische Ziel der panslawistischen Bewegung im 19. Jahrhundert?",
+    "question_ru": "Какова была политическая цель панславянского движения в XIX веке?",
+    "correct_answer_de": "Die kulturelle und politische Einigung aller slawischen Völker unter russischer Führung",
+    "correct_answer_ru": "Культурное и политическое объединение всех славянских народов под руководством России",
+    "wrong_answers_de": [
+      "Die Befreiung Polens von russischer Herrschaft und die Gründung eines unabhängigen Staates",
+      "Die Einigung der slawischen Länder unter österreichischer Führung",
+      "Die wirtschaftliche Integration slawischer Länder durch gemeinsame Zölle"
+    ],
+    "wrong_answers_ru": [
+      "Освобождение Польши от российского господства и создание независимого государства",
+      "Объединение славянских стран под руководством Австрии",
+      "Экономическая интеграция славянских стран через общие таможни"
+    ],
+    "explanation_de": "Der Panslawismus entstand im frühen 19. Jahrhundert und propagierte die Solidarität aller Slawen. Russland nutzte ihn politisch, um Einfluss auf den Balkan und gegenüber dem Osmanischen Reich auszuüben.",
+    "explanation_ru": "Панславизм возник в начале XIX века и пропагандировал солидарность всех славян. Россия политически использовала его, чтобы оказывать влияние на Балканах и в отношениях с Османской империей.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1848 CE",
+    "tags": ["Panslawismus", "Russland", "Balkan", "Nationalismus", "Slawentum"],
+    "interesting_facts": [
+      {"de": "Der erste Slawenkongress fand 1848 in Prag statt – zeitgleich mit den europäischen Revolutionen.", "ru": "Первый Съезд славян состоялся в 1848 году в Праге — одновременно с европейскими революциями."},
+      {"de": "Panslawismus war ein Gegenentwurf zum deutschen Nationalismus und Panslawismus rivalisierte mit Pangermanismus.", "ru": "Панславизм был альтернативой германскому национализму и конкурировал с пангерманизмом."},
+      {"de": "Russlands Unterstützung Serbiens 1914 war auch vom Panslawismus motiviert.", "ru": "Поддержка Россией Сербии в 1914 году была мотивирована в том числе панславизмом."}
+    ]
+  },
+  {
+    "id": 8208,
+    "question_de": "Was war die Bedeutung der Erfindung des Telegrafen durch Samuel Morse für die Kommunikation?",
+    "question_ru": "Каково было значение изобретения телеграфа Сэмюэлем Морзе для связи?",
+    "correct_answer_de": "Er ermöglichte erstmals die nahezu sofortige Übertragung von Nachrichten über weite Entfernungen",
+    "correct_answer_ru": "Он впервые обеспечил практически мгновенную передачу сообщений на большие расстояния",
+    "wrong_answers_de": [
+      "Er ersetzte den Postdienst vollständig und machte Briefe überflüssig",
+      "Er ermöglichte erstmals die Übertragung von Sprache und Tönen",
+      "Er verband Europa und Amerika durch direkte mündliche Kommunikation"
+    ],
+    "wrong_answers_ru": [
+      "Он полностью заменил почтовую службу и сделал письма излишними",
+      "Он впервые обеспечил передачу речи и звуков",
+      "Он соединил Европу и Америку через прямую голосовую связь"
+    ],
+    "explanation_de": "Samuel Morse entwickelte 1837 den elektromagnetischen Telegrafen. Das Morsealphabet ermöglichte die Übertragung von Textnachrichten. 1866 verband ein transatlantisches Kabel Europa und Amerika.",
+    "explanation_ru": "В 1837 году Сэмюэль Морзе разработал электромагнитный телеграф. Азбука Морзе позволяла передавать текстовые сообщения. В 1866 году трансатлантический кабель соединил Европу и Америку.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1837 CE",
+    "tags": ["Telegraf", "Morse", "Kommunikation", "Technologie", "Information"],
+    "interesting_facts": [
+      {"de": "Die erste Morse-Nachricht 1844 lautete: 'What hath God wrought?' (Was hat Gott gewirkt?)", "ru": "Первое сообщение Морзе в 1844 году гласило: «What hath God wrought?» («Что Бог сотворил?»)"},
+      {"de": "Der transatlantische Telegrafenkabel wurde zunächst nach 3 Wochen Betrieb unbrauchbar.", "ru": "Трансатлантический телеграфный кабель первоначально вышел из строя через 3 недели работы."},
+      {"de": "Zeitungen konnten durch den Telegrafen erstmals aktuell über entfernte Ereignisse berichten.", "ru": "Благодаря телеграфу газеты впервые смогли оперативно сообщать об отдалённых событиях."}
+    ]
+  },
+  {
+    "id": 8209,
+    "question_de": "Was war die Bedeutung der Werke von Auguste Rodin für die Kunstgeschichte?",
+    "question_ru": "Каково было значение произведений Огюста Родена для истории искусства?",
+    "correct_answer_de": "Er erneuerte die europäische Bildhauerei durch expressive, bewegte Figuren und brach mit akademischen Konventionen",
+    "correct_answer_ru": "Он обновил европейскую скульптуру выразительными, динамичными фигурами и порвал с академическими конвенциями",
+    "wrong_answers_de": [
+      "Er begründete die abstrakte Bildhauerei und verzichtete vollständig auf figürliche Darstellungen",
+      "Er führte den Kubismus in die Plastik ein und beeinflusste Picasso direkt",
+      "Er verwendete als erster Bildhauer Industriematerialien wie Stahl und Beton"
+    ],
+    "wrong_answers_ru": [
+      "Он основал абстрактную скульптуру и полностью отказался от изобразительности",
+      "Он ввёл кубизм в пластику и непосредственно повлиял на Пикассо",
+      "Он первым из скульпторов использовал промышленные материалы — сталь и бетон"
+    ],
+    "explanation_de": "Rodin (1840–1917) schuf mit 'Der Denker' und 'Das Höllentor' Meisterwerke, die Emotionen und Bewegung in Marmor und Bronze ausdrückten. Er gilt als Vater der modernen Bildhauerei.",
+    "explanation_ru": "Роден (1840–1917) создал «Мыслителя» и «Врата ада» — шедевры, передающие эмоции и движение в мраморе и бронзе. Он считается отцом современной скульптуры.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1880 CE",
+    "tags": ["Rodin", "Bildhauerei", "Frankreich", "Kunst", "Moderne"],
+    "interesting_facts": [
+      {"de": "'Der Denker' war ursprünglich als Teil des 'Höllentor' gedacht und stellte Dante dar.", "ru": "«Мыслитель» изначально задумывался как часть «Врат ада» и изображал Данте."},
+      {"de": "Rodins 'Bürger von Calais' (1889) war ein Auftrag der Stadt Calais zur Erinnerung an historische Helden.", "ru": "«Граждане Кале» Родена (1889) были заказом города Кале в память об исторических героях."},
+      {"de": "Das Rodin-Museum in Paris beherbergt heute über 6.000 Skulpturen und Zeichnungen.", "ru": "Музей Родена в Париже сегодня хранит более 6000 скульптур и рисунков."}
+    ]
+  },
+  {
+    "id": 8210,
+    "question_de": "Was war die Bedeutung der ersten Weltausstellung 1851 in London?",
+    "question_ru": "Каково было значение первой Всемирной выставки 1851 года в Лондоне?",
+    "correct_answer_de": "Sie zeigte der Welt die industriellen und technologischen Errungenschaften der Nationen und stärkte den britischen Stolz",
+    "correct_answer_ru": "Она продемонстрировала миру промышленные и технологические достижения наций и укрепила британскую гордость",
+    "wrong_answers_de": [
+      "Sie diente als politische Konferenz zur Neuregelung der Kolonialrechte",
+      "Sie war eine Handelsmesse ausschließlich für britische Unternehmen",
+      "Sie ermöglichte erstmals den Austausch von Kunstwerken zwischen europäischen Museen"
+    ],
+    "wrong_answers_ru": [
+      "Она служила политической конференцией по переустройству колониальных прав",
+      "Она была торговой ярмаркой исключительно для британских компаний",
+      "Она впервые обеспечила обмен произведениями искусства между европейскими музеями"
+    ],
+    "explanation_de": "Die Great Exhibition von 1851 im Crystal Palace (Hyde Park) zog über 6 Millionen Besucher an. Prinz Albert und die Royal Commission initiierten sie als Feier des industriellen Fortschritts.",
+    "explanation_ru": "Всемирная выставка 1851 года в Хрустальном дворце (Гайд-парк) привлекла более 6 миллионов посетителей. Принц Альберт и Королевская комиссия инициировали её как праздник промышленного прогресса.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1851 CE",
+    "tags": ["Weltausstellung", "London", "Crystal Palace", "Industrialisierung", "Großbritannien"],
+    "interesting_facts": [
+      {"de": "Der Crystal Palace war ein revolutionäres Gebäude aus Gusseisen und Glas, das komplett vorgefertigt wurde.", "ru": "Хрустальный дворец был революционным сооружением из чугуна и стекла, полностью изготовленным на заводе."},
+      {"de": "Über 100.000 Ausstellungsobjekte aus 50 Ländern wurden gezeigt.", "ru": "Было представлено более 100 000 экспонатов из 50 стран."},
+      {"de": "Die Weltausstellung erzielte einen Überschuss, der zur Gründung des Victoria and Albert Museums verwendet wurde.", "ru": "Выставка принесла доход, использованный для основания Музея Виктории и Альберта."}
+    ]
+  },
+  {
+    "id": 8211,
+    "question_de": "Wer war Florence Nightingale und welchen Beitrag leistete sie zur Medizin?",
+    "question_ru": "Кто такая Флоренс Найтингейл и какой вклад она внесла в медицину?",
+    "correct_answer_de": "Eine britische Krankenpflegerin, die die moderne Krankenpflege revolutionierte und Hygienestandards im Krimkrieg einführte",
+    "correct_answer_ru": "Британская медсестра, революционизировавшая современный уход за больными и введшая гигиенические стандарты в Крымской войне",
+    "wrong_answers_de": [
+      "Eine britische Ärztin, die die Anästhesie für operative Eingriffe entwickelte",
+      "Eine Schweizer Krankenpflegerin, die das Rote Kreuz mitgründete",
+      "Eine amerikanische Reformerin, die Frauen den Zugang zu medizinischen Schulen erkämpfte"
+    ],
+    "wrong_answers_ru": [
+      "Британский врач, разработавший анестезию для хирургических вмешательств",
+      "Швейцарская медсестра, ставшая соучредителем Красного Креста",
+      "Американская реформаторша, добившаяся доступа женщин к медицинским школам"
+    ],
+    "explanation_de": "Florence Nightingale (1820–1910) senkte die Sterblichkeitsrate in britischen Militärkrankenhäusern im Krimkrieg dramatisch durch Hygienemaßnahmen. Sie revolutionierte die Krankenpflege als Profession.",
+    "explanation_ru": "Флоренс Найтингейл (1820–1910) резко снизила смертность в британских военных госпиталях в Крымской войне благодаря санитарным мерам. Она революционизировала сестринское дело как профессию.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1854 CE",
+    "tags": ["Florence Nightingale", "Krankenpflege", "Krimkrieg", "Hygiene", "Frauen"],
+    "interesting_facts": [
+      {"de": "Nightingale war Pionierin der Statistik – sie erfand Kreisdiagramme, um Sterblichkeitsdaten zu visualisieren.", "ru": "Найтингейл была пионером статистики — она изобрела круговые диаграммы для визуализации данных о смертности."},
+      {"de": "Sie wurde 'Lady with the Lamp' genannt, weil sie nachts die Verwundeten besuchte.", "ru": "Её называли «Дама с лампой», потому что она ночью навещала раненых."},
+      {"de": "Nightingale gründete 1860 die erste Krankenpflegeschule am St. Thomas' Hospital in London.", "ru": "В 1860 году Найтингейл основала первую школу медсестёр при больнице Святого Томаса в Лондоне."}
+    ]
+  },
+  {
+    "id": 8212,
+    "question_de": "Was war die Bedeutung der Gründung des Roten Kreuzes 1863?",
+    "question_ru": "Каково было значение основания Красного Креста в 1863 году?",
+    "correct_answer_de": "Die Schaffung einer neutralen humanitären Organisation zur Hilfe für Verwundete in Kriegen",
+    "correct_answer_ru": "Создание нейтральной гуманитарной организации для помощи раненым в войнах",
+    "wrong_answers_de": [
+      "Die Gründung eines kirchlichen Krankenhausnetzwerks in Europa",
+      "Die Einrichtung einer staatlichen Sanitätsbehörde im Deutschen Reich",
+      "Die Schaffung einer Friedenstruppe zur Verhinderung von Kriegen"
+    ],
+    "wrong_answers_ru": [
+      "Создание сети церковных больниц в Европе",
+      "Учреждение государственного санитарного ведомства в Германской империи",
+      "Создание миротворческих сил для предотвращения войн"
+    ],
+    "explanation_de": "Henry Dunant gründete nach der blutigen Schlacht von Solferino (1859) das Rote Kreuz in Genf. Die erste Genfer Konvention (1864) verpflichtete Staaten zur Behandlung verwundeter Soldaten.",
+    "explanation_ru": "Анри Дюнан основал Красный Крест в Женеве после кровопролитной битвы при Сольферино (1859). Первая Женевская конвенция (1864) обязала государства оказывать помощь раненым солдатам.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1863 CE",
+    "tags": ["Rotes Kreuz", "Dunant", "Humanitär", "Genf", "Völkerrecht"],
+    "interesting_facts": [
+      {"de": "Henry Dunant erhielt 1901 den ersten Nobelfriedenspreis für die Gründung des Roten Kreuzes.", "ru": "Анри Дюнан получил первую Нобелевскую премию мира в 1901 году за основание Красного Kreста."},
+      {"de": "Das rote Kreuz auf weißem Grund ist die Umkehrung der Schweizer Flagge – als Zeichen der Neutralität.", "ru": "Красный крест на белом фоне является инверсией швейцарского флага — как символ нейтралитета."},
+      {"de": "Der Rote Halbmond wurde als islamisches Äquivalent für osmanische Länder eingeführt.", "ru": "Красный Полумесяц был введён как исламский эквивалент для османских стран."}
+    ]
+  },
+  {
+    "id": 8213,
+    "question_de": "Was war die politische Bedeutung des Wiener Kongresses (1814/15) für Europa?",
+    "question_ru": "Каково было политическое значение Венского конгресса (1814/15) для Европы?",
+    "correct_answer_de": "Er restaurierte die alten Monarchien und schuf ein System des europäischen Gleichgewichts nach den Napoleonischen Kriegen",
+    "correct_answer_ru": "Он восстановил старые монархии и создал систему европейского баланса сил после наполеоновских войн",
+    "wrong_answers_de": [
+      "Er gründete die erste europäische Union mit gemeinsamen Institutionen",
+      "Er schuf eine demokratische Ordnung für Europa nach dem Vorbild der Amerikanischen Revolution",
+      "Er teilte Napoleons Territorien unter den siegreichen Generälen auf"
+    ],
+    "wrong_answers_ru": [
+      "Он основал первый европейский союз с общими институтами",
+      "Он создал демократический порядок для Европы по образцу Американской революции",
+      "Он разделил территории Наполеона между победоносными генералами"
+    ],
+    "explanation_de": "Der Wiener Kongress unter Metternich stellte das vorrevolutionäre Europa wieder her, schuf den Deutschen Bund und legte die Grenzen Europas bis 1848 weitgehend fest.",
+    "explanation_ru": "Венский конгресс под руководством Меттерниха восстановил дореволюционную Европу, создал Германский союз и в значительной мере определил границы Европы вплоть до 1848 года.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1815 CE",
+    "tags": ["Wiener Kongress", "Metternich", "Restauration", "Europa", "Gleichgewicht"],
+    "interesting_facts": [
+      {"de": "Fürst Metternich bezeichnete die Kongresszeit als 'tanzt der Kongress' – wegen der ständigen Feste.", "ru": "Князь Меттерних охарактеризовал время конгресса фразой «конгресс танцует» — из-за постоянных балов."},
+      {"de": "Polen wurde zwischen Russland, Preußen und Österreich aufgeteilt.", "ru": "Польша была разделена между Россией, Пруссией и Австрией."},
+      {"de": "Der Kongress schuf ein Europa, das 40 Jahre lang ohne großen Krieg blieb (bis zum Krimkrieg 1853).", "ru": "Конгресс создал Европу, которая 40 лет оставалась без крупной войны (до Крымской войны 1853 года)."}
+    ]
+  },
+  {
+    "id": 8214,
+    "question_de": "Was war die Bedeutung der Romantik als kulturelle Bewegung im frühen 19. Jahrhundert?",
+    "question_ru": "Каково было значение романтизма как культурного движения в начале XIX века?",
+    "correct_answer_de": "Eine Reaktion auf die Vernunftorientierung der Aufklärung, die Gefühle, Natur und Individualität betonte",
+    "correct_answer_ru": "Реакция на рационализм Просвещения, акцентировавшая чувства, природу и индивидуальность",
+    "wrong_answers_de": [
+      "Eine Bewegung zur Wiederbelebung antiker griechischer und römischer Kunstformen",
+      "Eine politische Bewegung zur Förderung romantischer Monarchien",
+      "Ein literarischer Stil, der ausschließlich Liebesgeschichten thematisierte"
+    ],
+    "wrong_answers_ru": [
+      "Движение за возрождение античных греческих и римских форм искусства",
+      "Политическое движение за продвижение романтических монархий",
+      "Литературный стиль, тематизировавший исключительно любовные истории"
+    ],
+    "explanation_de": "Die Romantik (ca. 1800–1850) betonte Emotionen, Fantasie und die Natur gegenüber dem rationalen Denken der Aufklärung. Dichter wie Goethe, Byron und Novalis sowie Maler wie Caspar David Friedrich prägten sie.",
+    "explanation_ru": "Романтизм (ок. 1800–1850) акцентировал эмоции, фантазию и природу в противовес рациональному мышлению Просвещения. Его формировали поэты Гёте, Байрон и Новалис, а также художники, такие как Каспар Давид Фридрих.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1800 CE",
+    "tags": ["Romantik", "Kultur", "Literatur", "Kunst", "Aufklärung"],
+    "interesting_facts": [
+      {"de": "Caspar David Friedrichs Gemälde 'Wanderer über dem Nebelmeer' gilt als Symbol der Romantik.", "ru": "Картина Каспара Давида Фридриха «Странник над морем тумана» считается символом романтизма."},
+      {"de": "In der Musik verkörperten Beethoven, Schubert und Schumann den romantischen Geist.", "ru": "В музыке романтический дух воплощали Бетховен, Шуберт и Шуман."},
+      {"de": "Die Romantik förderte auch Interesse an Volksmärchen – die Brüder Grimm sammelten Märchen in dieser Zeit.", "ru": "Романтизм также способствовал интересу к народным сказкам — братья Гримм собирали сказки в это время."}
+    ]
+  },
+  {
+    "id": 8215,
+    "question_de": "Was war die Significance der Erfindung der Dampflokomotive durch George Stephenson?",
+    "question_ru": "Каково было значение изобретения паровоза Джорджем Стефенсоном?",
+    "correct_answer_de": "Sie ermöglichte schnellen und billegen Massentransport von Gütern und Menschen per Eisenbahn",
+    "correct_answer_ru": "Она обеспечила быструю и дешёвую массовую перевозку грузов и людей по железной дороге",
+    "wrong_answers_de": [
+      "Sie ersetzte Dampfschiffe auf Flüssen und revolutionierte die Binnenschifffahrt",
+      "Sie ermöglichte erstmals die Überquerung des Atlantiks in weniger als einer Woche",
+      "Sie wurde hauptsächlich im Bergbau eingesetzt und hatte kaum Auswirkungen auf den Transport"
+    ],
+    "wrong_answers_ru": [
+      "Она заменила пароходы на реках и революционизировала внутреннее судоходство",
+      "Она впервые позволила пересечь Атлантику менее чем за неделю",
+      "Она использовалась главным образом в горнодобывающей промышленности и мало влияла на транспорт"
+    ],
+    "explanation_de": "George Stephensons Lokomotive 'Rocket' gewann 1829 die Rainhill Trials und fuhr 47 km/h. 1830 eröffnete die erste öffentliche Passagiereisenbahn zwischen Liverpool und Manchester.",
+    "explanation_ru": "Локомотив Джорджа Стефенсона «Ракета» выиграл Рейнхиллские состязания в 1829 году, развив скорость 47 км/ч. В 1830 году открылась первая общественная пассажирская железная дорога между Ливерпулем и Манчестером.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1829 CE",
+    "tags": ["Stephenson", "Lokomotive", "Eisenbahn", "Transport", "Industrialisierung"],
+    "interesting_facts": [
+      {"de": "Die Rocket erreichte bei den Rainhill Trials eine Höchstgeschwindigkeit von 47 km/h, was damals atemberaubend war.", "ru": "«Ракета» достигла максимальной скорости 47 км/ч на Рейнхиллских состязаниях, что тогда было поразительным."},
+      {"de": "Bei der Eröffnung der Liverpool-Manchester-Bahn wurde ein Parlamentsmitglied vom Zug überfahren – das erste Todesopfer der Eisenbahn.", "ru": "При открытии дороги Ливерпуль–Манчестер член парламента был сбит поездом — первая жертва железной дороги."},
+      {"de": "Stephensons Spurweite von 1.435 mm wurde zur weltweiten Standardspur.", "ru": "Ширина колеи Стефенсона — 1435 мм — стала мировым стандартом."}
+    ]
+  },
+  {
+    "id": 8216,
+    "question_de": "Was war die Bedeutung der Hungersnot in Irland (1845–52)?",
+    "question_ru": "Каково было значение голода в Ирландии (1845–52)?",
+    "correct_answer_de": "Eine der schlimmsten Hungersnöte der europäischen Geschichte, die zur Massenemigration von über einer Million Iren führte",
+    "correct_answer_ru": "Один из тяжелейших голодоморов в европейской истории, приведший к массовой эмиграции более миллиона ирландцев",
+    "wrong_answers_de": [
+      "Eine regionale Missernte im Süden Irlands, die durch britische Hilfe schnell überwunden wurde",
+      "Ein politisch motivierter Hunger durch britischen Boykott irischer Exporte",
+      "Eine Hungersnot, die hauptsächlich die protestantische Bevölkerung Irlands traf"
+    ],
+    "wrong_answers_ru": [
+      "Региональный неурожай на юге Ирландии, быстро преодолённый с британской помощью",
+      "Политически мотивированный голод из-за британского бойкота ирландского экспорта",
+      "Голод, затронувший главным образом протестантское население Ирландии"
+    ],
+    "explanation_de": "Die Große Hungersnot (Great Famine) durch Kartoffelfäule tötete ca. 1 Million Iren und trieb weitere 1–2 Millionen zur Auswanderung – Irlands Bevölkerung sank von 8 auf 5 Millionen.",
+    "explanation_ru": "Великий голод (Great Famine), вызванный болезнью картофеля, унёс жизни около 1 миллиона ирландцев и вынудил ещё 1–2 миллиона эмигрировать — население Ирландии сократилось с 8 до 5 миллионов.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1845 CE",
+    "tags": ["Irland", "Hungersnot", "Großbritannien", "Emigration", "Kartoffel"],
+    "interesting_facts": [
+      {"de": "Über eine Million Iren emigrierten in die USA, wo die irisch-amerikanische Gemeinschaft bis heute groß ist.", "ru": "Более миллиона ирландцев эмигрировали в США, где ирландско-американская община велика по сей день."},
+      {"de": "Irland exportierte weiterhin Lebensmittel nach Großbritannien, während die eigene Bevölkerung hungerte.", "ru": "Ирландия продолжала экспортировать продовольствие в Великобританию, пока собственное население голодало."},
+      {"de": "Die Hungersnot ist bis heute politisch belastet – viele Iren sehen in der britischen Untätigkeit einen Genozid.", "ru": "Голод по сей день политически болезнен — многие ирландцы видят в британском бездействии геноцид."}
+    ]
+  },
+  {
+    "id": 8217,
+    "question_de": "Was war das Ziel der Erste Internationale Frauenrechtskonferenz von Seneca Falls (1848)?",
+    "question_ru": "Какова была цель первой Международной конференции по правам женщин в Сенека-Фолс (1848)?",
+    "correct_answer_de": "Die Gleichberechtigung von Frauen in allen Lebensbereichen, einschließlich Wahlrecht, Bildung und Eigentumsrechte",
+    "correct_answer_ru": "Равноправие женщин во всех сферах жизни, включая избирательное право, образование и право собственности",
+    "wrong_answers_de": [
+      "Das Recht auf gleiche Löhne für Frauen in der Textilindustrie",
+      "Die Abschaffung der Sklaverei für Frauen im amerikanischen Süden",
+      "Das Recht auf Scheidung ohne Einschränkungen für alle Frauen"
+    ],
+    "wrong_answers_ru": [
+      "Право на равную оплату труда для женщин в текстильной промышленности",
+      "Отмена рабства для женщин на американском юге",
+      "Право на развод без ограничений для всех женщин"
+    ],
+    "explanation_de": "Die Konvention von Seneca Falls (1848), organisiert von Elizabeth Cady Stanton und Lucretia Mott, verabschiedete die 'Declaration of Sentiments' – ein Manifest für Frauenrechte nach dem Vorbild der Unabhängigkeitserklärung.",
+    "explanation_ru": "Конвенция в Сенека-Фолс (1848), организованная Элизабет Кэди Стэнтон и Лукрецией Мотт, приняла «Декларацию чувств» — манифест за права женщин по образцу Декларации независимости.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1848 CE",
+    "tags": ["Seneca Falls", "Frauenrechte", "USA", "Gleichberechtigung", "Wahlrecht"],
+    "interesting_facts": [
+      {"de": "300 Frauen und Männer nahmen an der Konvention teil, darunter der Abolitionismusvorkämpfer Frederick Douglass.", "ru": "В конвенции приняли участие 300 женщин и мужчин, в том числе борец за отмену рабства Фредерик Дуглас."},
+      {"de": "Die Forderung nach dem Frauenwahlrecht war so umstritten, dass viele Teilnehmer ursprünglich dagegen stimmten.", "ru": "Требование избирательного права для женщин было настолько спорным, что многие участники первоначально голосовали против него."},
+      {"de": "Das amerikanische Frauenwahlrecht wurde erst 1920 mit dem 19. Verfassungszusatz eingeführt.", "ru": "Избирательное право для американских женщин было введено лишь в 1920 году 19-й поправкой к Конституции."}
+    ]
+  },
+  {
+    "id": 8218,
+    "question_de": "Was verstand man unter dem 'Syllabus Errorum' von Papst Pius IX. (1864)?",
+    "question_ru": "Что понималось под «Сводом заблуждений» папы Пия IX (1864)?",
+    "correct_answer_de": "Eine päpstliche Liste von 80 Irrtümern der modernen Zeit, die Liberalismus, Sozialismus und Religionsfreiheit verurteilte",
+    "correct_answer_ru": "Папский список из 80 заблуждений современности, осуждавший либерализм, социализм и свободу вероисповедания",
+    "wrong_answers_de": [
+      "Ein päpstliches Dekret zur Reform des kirchlichen Bildungswesens",
+      "Eine Sammlung wissenschaftlicher Fehler, die von der Kirche offiziell korrigiert wurden",
+      "Ein Verzeichnis verbotener Bücher, der Index Librorum Prohibitorum"
+    ],
+    "wrong_answers_ru": [
+      "Папский указ о реформировании церковного образования",
+      "Собрание научных ошибок, официально исправленных церковью",
+      "Список запрещённых книг, Индекс Librorum Prohibitorum"
+    ],
+    "explanation_de": "Der Syllabus Errorum (1864) listete 80 Irrtümer auf, darunter Liberalismus, Pressefreiheit und Trennung von Kirche und Staat. Er war eine Kampfansage der Kirche an die moderne Welt.",
+    "explanation_ru": "Свод заблуждений (1864) перечислял 80 ошибок, включая либерализм, свободу прессы и разделение церкви и государства. Он был вызовом церкви современному миру.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1864 CE",
+    "tags": ["Syllabus Errorum", "Papst", "Kirchenpolitik", "Liberalismus", "Moderne"],
+    "interesting_facts": [
+      {"de": "Der Syllabus erklärte, der Papst könne sich nicht mit Liberalismus, Fortschritt und moderner Zivilisation versöhnen.", "ru": "Свод заявлял, что папа не может примириться с либерализмом, прогрессом и современной цивилизацией."},
+      {"de": "1870 verkündete das Erste Vatikanische Konzil die Unfehlbarkeit des Papstes in Glaubensfragen.", "ru": "В 1870 году Первый Ватиканский собор провозгласил непогрешимость папы в вопросах веры."},
+      {"de": "Der Syllabus verstärkte den Kulturkampf Bismarcks gegen die katholische Kirche in Deutschland.", "ru": "Свод усилил Культуркампф Бисмарка против католической церкви в Германии."}
+    ]
+  },
+  {
+    "id": 8219,
+    "question_de": "Welche Rolle spielten Gewerkschaften (Trade Unions) in der britischen Politik des 19. Jahrhunderts?",
+    "question_ru": "Какую роль сыграли профсоюзы (Trade Unions) в британской политике XIX века?",
+    "correct_answer_de": "Sie erkämpften schrittweise bessere Arbeitsbedingungen, kürzere Arbeitszeiten und das Streikrecht",
+    "correct_answer_ru": "Они постепенно добивались улучшения условий труда, сокращения рабочего времени и права на забастовку",
+    "wrong_answers_de": [
+      "Sie wurden sofort nach der Industrialisierung legalisiert und genossen staatlichen Schutz",
+      "Ihre Hauptaufgabe bestand in der politischen Unterstützung der Konservativen Partei",
+      "Sie organisierten ausschließlich qualifizierte Handwerker und schlossen unqualifizierte Arbeiter aus"
+    ],
+    "wrong_answers_ru": [
+      "Они были легализованы сразу после индустриализации и пользовались государственной защитой",
+      "Их главная задача состояла в политической поддержке Консервативной партии",
+      "Они объединяли исключительно квалифицированных ремесленников и исключали неквалифицированных рабочих"
+    ],
+    "explanation_de": "Britische Gewerkschaften waren bis 1871 verboten oder stark eingeschränkt. Der Trade Union Act 1871 legalisierte sie. Bis 1900 entstanden die Labour Party und das moderne britische Gewerkschaftssystem.",
+    "explanation_ru": "Британские профсоюзы были запрещены или жёстко ограничены до 1871 года. Закон о профсоюзах 1871 года легализовал их. К 1900 году возникли Лейбористская партия и современная британская профсоюзная система.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1870 CE",
+    "tags": ["Gewerkschaften", "Großbritannien", "Arbeiterbewegung", "Streik", "Reform"],
+    "interesting_facts": [
+      {"de": "Die Tolpuddle Martyrs von 1834 wurden deportiert, weil sie einen Gewerkschaftseid abgelegt hatten.", "ru": "Толпаддлские мученики 1834 года были депортированы за то, что принесли профсоюзную клятву."},
+      {"de": "Der Match Girls' Strike von 1888 wurde von jungen Frauen geführt und war ein Wendepunkt für britische Gewerkschaften.", "ru": "Забастовка спичечниц 1888 года, возглавлявшаяся молодыми женщинами, стала переломным моментом для британских профсоюзов."},
+      {"de": "1900 gründeten Gewerkschaften die Labour Representation Committee, aus der die Labour Party entstand.", "ru": "В 1900 году профсоюзы основали Комитет рабочего представительства, из которого выросла Лейбористская партия."}
+    ]
+  },
+  {
+    "id": 8220,
+    "question_de": "Was war das politische Erbe der Amerikanischen Revolution für die Welt?",
+    "question_ru": "Каким было политическое наследие Американской революции для мира?",
+    "correct_answer_de": "Sie inspirierte demokratische und Unabhängigkeitsbewegungen weltweit und etablierte erstmals eine republikanische Verfassung",
+    "correct_answer_ru": "Она вдохновляла демократические движения и движения за независимость во всём мире и впервые установила республиканскую конституцию",
+    "wrong_answers_de": [
+      "Sie führte zur direkten Übernahme des amerikanischen Regierungsmodells in Europa",
+      "Sie beeinflusste ausschließlich Lateinamerika und hatte kaum Wirkung auf Europa",
+      "Sie schuf ein imperiales System, das Großbritanniens Kolonialherrschaft ablöste"
+    ],
+    "wrong_answers_ru": [
+      "Она привела к прямому заимствованию американской модели правления в Европе",
+      "Она повлияла исключительно на Латинскую Америку и почти не затронула Европу",
+      "Она создала имперскую систему, заменившую британское колониальное господство"
+    ],
+    "explanation_de": "Die Amerikanische Revolution (1776) schuf die erste moderne Republik mit Verfassung und Bill of Rights. Ihre Ideen inspirierten die Französische Revolution (1789), Lateinamerika und demokratische Bewegungen weltweit.",
+    "explanation_ru": "Американская революция (1776) создала первую современную республику с конституцией и Биллем о правах. Её идеи вдохновили Французскую революцию (1789), Латинскую Америку и демократические движения по всему миру.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "conceptual",
+    "period": "1776 CE",
+    "tags": ["Amerikanische Revolution", "Demokratie", "Verfassung", "Republik", "Freiheit"],
+    "interesting_facts": [
+      {"de": "Die amerikanische Unabhängigkeitserklärung enthält den Satz: 'All men are created equal.'", "ru": "Американская Декларация независимости содержит фразу: «Все люди созданы равными»."},
+      {"de": "Marquis de Lafayette kämpfte im amerikanischen Unabhängigkeitskrieg und brachte Ideen zurück nach Frankreich.", "ru": "Маркиз де Лафайет воевал в американской войне за независимость и привёз идеи обратно во Францию."},
+      {"de": "Die US-Verfassung von 1787 ist die älteste noch gültige nationale Verfassung der Welt.", "ru": "Конституция США 1787 года является старейшей действующей национальной конституцией в мире."}
+    ]
+  },
+  {
+    "id": 8221,
+    "question_de": "Wer war Giuseppe Garibaldi und welche Rolle spielte er bei der Einigung Italiens?",
+    "question_ru": "Кто такой Джузеппе Гарибальди и какую роль он сыграл в объединении Италии?",
+    "correct_answer_de": "Ein revolutionärer General, der mit seiner 'Rothem d' Tausend' Süditalien für das geeinte Königreich eroberte",
+    "correct_answer_ru": "Революционный генерал, который с «Тысячей» в красных рубашках завоевал Южную Италию для объединённого королевства",
+    "wrong_answers_de": [
+      "Ein Diplomat, der die europäischen Mächte zur Unterstützung der italienischen Einigung überredete",
+      "Der erste König des vereinigten Italiens nach 1861",
+      "Ein Schriftsteller, dessen nationalistische Gedichte die Bevölkerung zur Revolution aufriefen"
+    ],
+    "wrong_answers_ru": [
+      "Дипломат, убедивший европейские державы поддержать итальянское объединение",
+      "Первый король объединённой Италии после 1861 года",
+      "Писатель, чьи националистические стихи призывали народ к революции"
+    ],
+    "explanation_de": "Garibaldi (1807–1882) landete 1860 mit 1.000 'Rothhemden' auf Sizilien, besiegte das Königreich Neapel und übergab die Gebiete an König Viktor Emanuel II.",
+    "explanation_ru": "В 1860 году Гарибальди (1807–1882) высадился с тысячью «краснорубашечников» на Сицилии, разгромил Королевство обеих Сицилий и передал территории королю Виктору Эммануилу II.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1860 CE",
+    "tags": ["Garibaldi", "Risorgimento", "Italien", "Einigung", "Revolution"],
+    "interesting_facts": [
+      {"de": "Garibaldi war ursprünglich Seemann und wurde während seiner Exilzeit in Südamerika zum Guerilla-Anführer.", "ru": "Изначально Гарибальди был моряком и в эмиграции в Южной Америке стал предводителем партизан."},
+      {"de": "Seine roten Hemden waren ursprünglich von uruguayischen Schlachthausarbeitern übernommen.", "ru": "Его красные рубашки первоначально были позаимствованы у уругвайских рабочих скотобоен."},
+      {"de": "Garibaldi wurde nach seiner Heimkehr nach Italien von der Bevölkerung wie ein Volksheld gefeiert.", "ru": "После возвращения в Италию Гарибальди был встречен населением как народный герой."}
+    ]
+  },
+  {
+    "id": 8222,
+    "question_de": "Was war die politische Bedeutung des Ausbruchs der Russischen Revolution von 1905?",
+    "question_ru": "Каково было политическое значение вспышки Русской революции 1905 года?",
+    "correct_answer_de": "Sie zwang den Zaren zur Einführung eines Parlaments (Duma) und einer Verfassung",
+    "correct_answer_ru": "Она вынудила царя ввести парламент (Думу) und конституцию",
+    "wrong_answers_de": [
+      "Sie führte zum Sturz des Zaren und zur Errichtung einer provisorischen Regierung",
+      "Sie leitete direkt die bolschewistische Revolution von 1917 ein",
+      "Sie endete mit einem militärischen Sieg der Revolutionäre und der Flucht des Zaren"
+    ],
+    "wrong_answers_ru": [
+      "Она привела к свержению царя и установлению временного правительства",
+      "Она непосредственно положила начало большевистской революции 1917 года",
+      "Она завершилась военной победой революционеров и бегством царя"
+    ],
+    "explanation_de": "Die Revolution von 1905, ausgelöst durch 'Blutsonntag' (Januar 1905), erzwang das Oktober-Manifest: Zar Nikolaus II. bewilligte eine Staatsduma und grundlegende Bürgerrechte.",
+    "explanation_ru": "Революция 1905 года, спровоцированная «Кровавым воскресеньем» (январь 1905 года), вынудила издать Октябрьский манифест: царь Николай II даровал Государственную думу и основные гражданские права.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1905 CE",
+    "tags": ["Russland", "Revolution 1905", "Zar", "Duma", "Blutsonntag"],
+    "interesting_facts": [
+      {"de": "Am Blutsonntag wurden friedliche Demonstranten vor dem Winterpalast in St. Petersburg von Soldaten erschossen.", "ru": "В Кровавое воскресенье мирные демонстранты перед Зимним дворцом в Санкт-Петербурге были расстреляны солдатами."},
+      {"de": "Die Revolution von 1905 gilt als 'Generalprobe' für die Revolution von 1917.", "ru": "Революция 1905 года считается «генеральной репетицией» революции 1917 года."},
+      {"de": "Lenin befand sich während der Revolution im Exil und kehrte erst nach Ende der Unruhen zurück.", "ru": "Ленин находился в эмиграции во время революции и вернулся лишь после окончания беспорядков."}
+    ]
+  },
+  {
+    "id": 8223,
+    "question_de": "Was war das Hauptziel der preußischen Heeresreform unter Scharnhorst und Gneisenau (1807–1814)?",
+    "question_ru": "Какова была главная цель прусской военной реформы под руководством Шарнхорста и Гнейзенау (1807–1814)?",
+    "correct_answer_de": "Die Modernisierung der preußischen Armee durch allgemeine Wehrpflicht und Professionalisierung des Offizierkorps",
+    "correct_answer_ru": "Модернизация прусской армии посредством всеобщей воинской обязанности и профессионализации офицерского корпуса",
+    "wrong_answers_de": [
+      "Die Übernahme der napoleonischen Militärstrategie für preußische Zwecke",
+      "Der Aufbau einer rein aus Söldnern bestehenden Berufsarmee",
+      "Die Abschaffung des Militärs und die Gründung einer Bürgergarde"
+    ],
+    "wrong_answers_ru": [
+      "Заимствование наполеоновской военной стратегии для прусских целей",
+      "Создание профессиональной армии, состоящей исключительно из наёмников",
+      "Упразднение армии и создание народной милиции"
+    ],
+    "explanation_de": "Nach der vernichtenden Niederlage gegen Napoleon reformierten Scharnhorst und Gneisenau die preußische Armee: allgemeine Wehrpflicht, Beförderung nach Verdienst statt Geburtsstand.",
+    "explanation_ru": "После сокрушительного поражения от Наполеона Шарнхорст и Гнейзенау реформировали прусскую армию: всеобщая воинская обязанность, производство в чин по заслугам, а не по рождению.",
+    "difficulty": "hard",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1807 CE",
+    "tags": ["Preußen", "Heeresreform", "Scharnhorst", "Militär", "Napoleon"],
+    "interesting_facts": [
+      {"de": "Die Reformen öffneten das Offizierskorps erstmals auch für bürgerliche Kandidaten ohne Adelsstand.", "ru": "Реформы впервые открыли офицерский корпус для гражданских кандидатов без дворянского звания."},
+      {"de": "Preußens reformierte Armee besiegte Napoleon 1813/14 in den Befreiungskriegen.", "ru": "Реформированная армия Пруссии победила Наполеона в Освободительных войнах 1813–1814 годов."},
+      {"de": "Das Konzept der allgemeinen Wehrpflicht beeinflusste spätere europäische Armeen stark.", "ru": "Концепция всеобщей воинской обязанности оказала сильное влияние на последующие европейские армии."}
+    ]
+  },
+  {
+    "id": 8224,
+    "question_de": "Was war der politische Inhalt des Dreyfus-Affäre und ihre Bedeutung für Frankreich?",
+    "question_ru": "Каково было политическое содержание дела Дрейфуса и его значение для Франции?",
+    "correct_answer_de": "Die Verurteilung eines unschuldigen jüdischen Offiziers wegen Spionage spaltete Frankreich zwischen Antisemiten und Republikanern",
+    "correct_answer_ru": "Осуждение невиновного еврейского офицера за шпионаж расколола Францию между антисемитами и республиканцами",
+    "wrong_answers_de": [
+      "Ein Korruptionsskandal im Verteidigungsministerium, der zum Rücktritt der Regierung führte",
+      "Der Verrat von Militärgeheimnissen an Deutschland, der den Französisch-Deutschen Krieg auslöste",
+      "Ein Aufstand jüdischer Franzosen gegen die Diskriminierung in der Armee"
+    ],
+    "wrong_answers_ru": [
+      "Коррупционный скандал в министерстве обороны, приведший к отставке правительства",
+      "Передача военных секретов Германии, спровоцировавшая Франко-германскую войну",
+      "Восстание французских евреев против дискриминации в армии"
+    ],
+    "explanation_de": "Alfred Dreyfus, ein jüdischer Hauptmann, wurde 1894 fälschlicherweise als Spion verurteilt. Emile Zola's 'J'accuse' (1898) enthüllte die Ungerechtigkeit. Die Affäre spaltete Frankreich in Dreyfusards und Anti-Dreyfusards.",
+    "explanation_ru": "Альфред Дрейфус, еврейский капитан, был ложно осуждён как шпион в 1894 году. «Я обвиняю» Эмиля Золя (1898) вскрыло несправедливость. Дело расколило Францию на дрейфусаров и антидрейфусаров.",
+    "difficulty": "medium",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1894 CE",
+    "tags": ["Dreyfus", "Frankreich", "Antisemitismus", "Justiz", "Zola"],
+    "interesting_facts": [
+      {"de": "Theodor Herzl berichtete als Journalist über die Dreyfus-Affäre und wurde dadurch zum Zionisten.", "ru": "Теодор Герцль освещал дело Дрейфуса как журналист и благодаря этому стал сионистом."},
+      {"de": "Dreyfus wurde erst 1906 offiziell rehabilitiert.", "ru": "Дрейфус был официально реабилитирован лишь в 1906 году."},
+      {"de": "Zola wurde wegen seines offenen Briefs 'J'accuse' zu einer Gefängnisstrafe verurteilt und floh nach England.", "ru": "Золя был приговорён к тюрьме за открытое письмо «Я обвиняю» и бежал в Англию."}
+    ]
+  },
+  {
+    "id": 8225,
+    "question_de": "Was war die Bedeutung von Darwins Werk 'Die Entstehung der Arten' (1859)?",
+    "question_ru": "Каково было значение труда Дарвина «Происхождение видов» (1859)?",
+    "correct_answer_de": "Es legte die wissenschaftliche Grundlage für die Evolutionstheorie durch natürliche Selektion",
+    "correct_answer_ru": "Он заложил научную основу теории эволюции посредством естественного отбора",
+    "wrong_answers_de": [
+      "Es beendete den Streit zwischen Wissenschaft und Kirche über die Entstehung des Menschen",
+      "Es bewies die Existenz von Fossilien als erste wissenschaftliche Erkenntnis",
+      "Es führte zur Entdeckung der DNA als Träger der Erbinformation"
+    ],
+    "wrong_answers_ru": [
+      "Он положил конец спору между наукой и церковью о происхождении человека",
+      "Он доказал существование окаменелостей как первое научное открытие",
+      "Он привёл к открытию ДНК как носителя наследственной информации"
+    ],
+    "explanation_de": "Darwin zeigte, dass Arten durch 'natürliche Selektion' entstehen: Individuen mit vorteilhaften Merkmalen überleben besser und pflanzen sich fort. Dies revolutionierte Biologie, Anthropologie und Theologie.",
+    "explanation_ru": "Дарвин показал, что виды возникают посредством «естественного отбора»: особи с выгодными признаками лучше выживают и размножаются. Это произвело революцию в биологии, антропологии и теологии.",
+    "difficulty": "easy",
+    "category": "Neuzeit (19. Jahrhundert)",
+    "type": "factual",
+    "period": "1859 CE",
+    "tags": ["Darwin", "Evolution", "Naturwissenschaft", "Selektion", "Biologie"],
+    "interesting_facts": [
+      {"de": "Darwin zögerte 20 Jahre, sein Werk zu veröffentlichen, aus Angst vor religiösen Reaktionen.", "ru": "Дарвин медлил 20 лет с публикацией своего труда, опасаясь религиозных реакций."},
+      {"de": "Alfred Russel Wallace entwickelte unabhängig eine ähnliche Theorie, was Darwin zur Veröffentlichung drängte.", "ru": "Альфред Рассел Уоллес независимо разработал аналогичную теорию, что подтолкнуло Дарвина к публикации."},
+      {"de": "Die kirchliche Reaktion war gespalten – einige Theologen versöhnten Evolution mit Glauben.", "ru": "Реакция церкви была неоднородной — некоторые богословы примиряли эволюцию с верой."}
+    ]
+  }
+]

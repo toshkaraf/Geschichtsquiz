@@ -1,0 +1,727 @@
+[
+  {
+    "id": 9276,
+    "question_de": "Was war die Bedeutung der Erfindung des Transistors (1947) für die Technologie?",
+    "question_ru": "Каково было значение изобретения транзистора (1947) для технологий?",
+    "correct_answer_de": "Der Transistor ermöglichte die Miniaturisierung von Elektronik, ersetzte die Röhre und wurde zur Grundlage aller modernen Computer, Handys und digitalen Geräte",
+    "correct_answer_ru": "Транзистор обеспечил миниатюризацию электроники, заменил электронную лампу и стал основой всех современных компьютеров, телефонов и цифровых устройств",
+    "wrong_answers_de": [
+      "Der Transistor war nur eine verbesserte Version der Glühbirne",
+      "Transistoren wurden ausschließlich in Militärcomputer eingebaut",
+      "Der Transistor wurde in Frankreich erfunden und später von USA patentiert"
+    ],
+    "wrong_answers_ru": [
+      "Транзистор был лишь улучшенной версией лампочки",
+      "Транзисторы устанавливались исключительно в военных компьютерах",
+      "Транзистор был изобретён во Франции и позднее запатентован США"
+    ],
+    "explanation_de": "Bell Labs (Bardeen, Brattain, Shockley) erfanden den Transistor 1947. Nobelpreis 1956. Moore'sches Gesetz: Transistorzahl auf Chip verdoppelt sich alle 2 Jahre. Heute: Milliarden Transistoren auf einem Chip.",
+    "explanation_ru": "Bell Labs (Бардин, Браттейн, Шокли) изобрели транзистор в 1947 году. Нобелевская премия 1956. Закон Мура: число транзисторов на чипе удваивается каждые 2 года. Сегодня: миллиарды транзисторов на одном чипе.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1947 CE",
+    "tags": ["Transistor", "Bell Labs", "Computer", "Moore", "Elektronik"],
+    "interesting_facts": [
+      {"de": "Das erste iPhone (2007) enthielt 412 Millionen Transistoren – heute sind es Billionen.", "ru": "Первый iPhone (2007) содержал 412 миллионов транзисторов — сегодня это триллионы."},
+      {"de": "William Shockley gründete in Palo Alto eine Firma – aus der heraus Silicon Valley entstand.", "ru": "Уильям Шокли основал фирму в Пало-Альто — из неё выросла Кремниевая долина."},
+      {"de": "Ein moderner Transistor ist kleiner als ein Virus – 2 Nanometer sind möglich.", "ru": "Современный транзистор меньше вируса — возможны 2 нанометра."}
+    ]
+  },
+  {
+    "id": 9277,
+    "question_de": "Was war die Bedeutung der Charta der Vereinten Nationen für das Völkerrecht?",
+    "question_ru": "Каково было значение Устава Организации Объединённых Наций для международного права?",
+    "correct_answer_de": "Die UN-Charta verbot Angriffskriege, garantierte staatliche Souveränität und schuf Institutionen zur Konfliktlösung als Grundpfeiler der modernen Weltordnung",
+    "correct_answer_ru": "Устав ООН запретил агрессивные войны, гарантировал государственный суверенитет и создал институты урегулирования конфликтов как краеугольные камни современного мирового порядка",
+    "wrong_answers_de": [
+      "Die UN-Charta verpflichtete alle Mitglieder zu einer gemeinsamen Armee",
+      "Die UN-Charta ersetzte alle nationalen Rechtssysteme durch internationales Recht",
+      "Die UN-Charta schloss Russland und China als permanente Mitglieder aus"
+    ],
+    "wrong_answers_ru": [
+      "Устав ООН обязал всех членов иметь единую армию",
+      "Устав ООН заменил все национальные правовые системы международным правом",
+      "Устав ООН исключил Россию и Китай как постоянных членов"
+    ],
+    "explanation_de": "San Francisco, Juni 1945: 51 Gründungsmitglieder. Artikel 2(4): Gewaltverbot. Artikel 51: Selbstverteidigungsrecht. Sicherheitsrat mit 5 Vetomächten. Heute 193 Mitgliedsstaaten.",
+    "explanation_ru": "Сан-Франциско, июнь 1945: 51 государство-основатель. Статья 2(4): запрет применения силы. Статья 51: право на самооборону. Совет Безопасности с 5 державами-победительницами. Сегодня 193 государства-члена.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["UN-Charta", "Vereinte Nationen", "Völkerrecht", "Souveränität", "Sicherheitsrat"],
+    "interesting_facts": [
+      {"de": "Das Vetorecht der 5 Siegermächte blockiert bis heute viele UN-Resolutionen.", "ru": "Право вето 5 держав-победительниц по сей день блокирует многие резолюции ООН."},
+      {"de": "Die UN-Generalversammlung hat keine bindende Rechtskraft – nur der Sicherheitsrat.", "ru": "Генеральная Ассамблея ООН не имеет обязательной юридической силы — только Совет Безопасности."},
+      {"de": "Schweiz trat der UN erst 2002 bei – als letztes europäisches Land.", "ru": "Швейцария вступила в ООН только в 2002 году — последней из европейских стран."}
+    ]
+  },
+  {
+    "id": 9278,
+    "question_de": "Was war die Bedeutung der Massenproduktion von Antibiotika nach dem Zweiten Weltkrieg?",
+    "question_ru": "Каково было значение массового производства антибиотиков после Второй мировой войны?",
+    "correct_answer_de": "Massenproduktion von Penicillin und anderen Antibiotika rettete Millionen von bakteriellen Infektionen und verlängerte die durchschnittliche Lebenserwartung um Jahrzehnte",
+    "correct_answer_ru": "Массовое производство пенициллина и других антибиотиков спасло миллионы от бактериальных инфекций и продлило среднюю продолжительность жизни на десятилетия",
+    "wrong_answers_de": [
+      "Antibiotika wirken gegen Viren wie Grippe und Corona",
+      "Penicillin wurde in der Sowjetunion entwickelt und in die USA exportiert",
+      "Antibiotika werden nur in schweren Fällen eingesetzt und hatten kaum Auswirkung auf die Sterblichkeit"
+    ],
+    "wrong_answers_ru": [
+      "Антибиотики действуют против вирусов, таких как грипп и коронавирус",
+      "Пенициллин был разработан в СССР и экспортирован в США",
+      "Антибиотики применяются только в тяжёлых случаях и почти не повлияли на смертность"
+    ],
+    "explanation_de": "Fleming entdeckte Penicillin 1928. Massenproduktion ab 1943 durch Florey und Chain (Nobelpreis 1945). D-Day-Verwundete wurden damit gerettet. Antibiotikaresistenz ist die neue Bedrohung.",
+    "explanation_ru": "Флеминг открыл пенициллин в 1928 году. Массовое производство с 1943 года — Флори и Чейн (Нобелевская премия 1945). Раненые в день «Д» были спасены. Антибиотикорезистентность — новая угроза.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1943 CE",
+    "tags": ["Antibiotika", "Penicillin", "Fleming", "Medizin", "Lebenserwartung"],
+    "interesting_facts": [
+      {"de": "Penicillin wurde aus dem Schimmelpilz Penicillium notatum gewonnen – zufällig entdeckt.", "ru": "Пенициллин был получен из плесневого гриба Penicillium notatum — открыт случайно."},
+      {"de": "WHO warnt: Antibiotikaresistenz könnte bis 2050 10 Millionen Tode jährlich verursachen.", "ru": "ВОЗ предупреждает: антибиотикорезистентность может вызывать 10 миллионов смертей ежегодно к 2050 году."},
+      {"de": "Streptomycin (1943) heilte erstmals Tuberkulose – eine der größten Killererkrankungen der Geschichte.", "ru": "Стрептомицин (1943) впервые вылечил туберкулёз — одну из крупнейших болезней-убийц в истории."}
+    ]
+  },
+  {
+    "id": 9279,
+    "question_de": "Was war die Bedeutung der Konferenz von Jalta (1945) für die Nachkriegsordnung?",
+    "question_ru": "Каково было значение Ялтинской конференции (1945) для послевоенного миропорядка?",
+    "correct_answer_de": "Roosevelt, Churchill und Stalin teilten Europa in Einflusssphären auf und legten die Grundlagen für die Teilung Deutschlands und des Kalten Krieges",
+    "correct_answer_ru": "Рузвельт, Черчилль и Сталин разделили Европу на сферы влияния и заложили основы для раздела Германии и холодной войны",
+    "wrong_answers_de": [
+      "In Jalta wurde der Friedensvertrag des Zweiten Weltkrieges unterzeichnet",
+      "Japan wurde auf der Jalta-Konferenz zur Kapitulation gezwungen",
+      "Frankreich war die vierte Großmacht bei der Konferenz von Jalta"
+    ],
+    "wrong_answers_ru": [
+      "В Ялте был подписан мирный договор по итогам Второй мировой войны",
+      "Япония была вынуждена капитулировать на Ялтинской конференции",
+      "Франция была четвёртой великой державой на Ялтинской конференции"
+    ],
+    "explanation_de": "Februar 1945: Die 'Großen Drei' teilten Nachkriegseuropa auf. Polen verschoben nach Westen. Freie Wahlen versprochen – nie gehalten. Stalin akzeptierte freie Wahlen, um UdSSR-Einflusssphäre zu sichern.",
+    "explanation_ru": "Февраль 1945: «Большая тройка» разделила послевоенную Европу. Польша сдвинута на запад. Свободные выборы обещаны — так и не состоялись. Сталин согласился на свободные выборы, чтобы обеспечить советскую сферу влияния.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1945 CE",
+    "tags": ["Jalta", "Roosevelt", "Churchill", "Stalin", "Nachkriegsordnung"],
+    "interesting_facts": [
+      {"de": "Roosevelt starb nur 2 Monate nach Jalta – sein Nachfolger Truman war deutlich misstrauischer gegenüber Stalin.", "ru": "Рузвельт умер всего через 2 месяца после Ялты — его преемник Трумэн был значительно более недоверчив к Сталину."},
+      {"de": "Churchill zeichnete auf eine Serviette eine 50/50-Teilung Griechenlands – und Stalin nickte.", "ru": "Черчилль нарисовал на салфетке раздел Греции 50/50 — и Сталин кивнул."},
+      {"de": "Die sowjetische Besetzung Osteuropas widerspreche dem 'Geist von Jalta' – so westliche Kritiker.", "ru": "Советская оккупация Восточной Европы противоречит «духу Ялты» — так говорили западные критики."}
+    ]
+  },
+  {
+    "id": 9280,
+    "question_de": "Was war die Bedeutung des Aufstiegs von Populismus und Nationalismus in den 2010ern?",
+    "question_ru": "Каково было значение подъёма популизма и национализма в 2010-х годах?",
+    "correct_answer_de": "Wähler in vielen Ländern wandten sich gegen Globalisierung, Migration und Eliten – was Trump, Brexit, Orbán und andere populistische Erfolge ermöglichte",
+    "correct_answer_ru": "Избиратели во многих странах обратились против глобализации, миграции и элит — что обусловило успехи Трампа, Brexit, Орбана и других популистов",
+    "wrong_answers_de": [
+      "Populismus ist eine neue politische Ideologie, die erst 2015 entstand",
+      "Alle populistischen Parteien der 2010er waren links-orientiert",
+      "Populismus wurde ausschließlich durch Russland von außen gesteuert"
+    ],
+    "wrong_answers_ru": [
+      "Популизм — новая политическая идеология, возникшая только в 2015 году",
+      "Все популистские партии 2010-х годов были левой ориентации",
+      "Популизм управлялся исключительно Россией извне"
+    ],
+    "explanation_de": "Finanz-/Eurokrise → Sparmaßnahmen → Unzufriedenheit. Trump (2016), Brexit (2016), Orbán (2010), Salvini, Le Pen, AfD, PiS (Polen). Gemeinsamkeit: Skepsis gegenüber Eliten, Migration, Multilateralismus.",
+    "explanation_ru": "Финансовый/евро-кризис → меры жёсткой экономии → недовольство. Трамп (2016), Brexit (2016), Орбан (2010), Сальвини, Ле Пен, АдГ, ПиС (Польша). Общее: скептицизм по отношению к элитам, миграции, многосторонности.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "2016 CE",
+    "tags": ["Populismus", "Nationalismus", "Trump", "Brexit", "Globalisierung"],
+    "interesting_facts": [
+      {"de": "Der Begriff 'Populismus' ist wertfrei – er beschreibt das Betonen von 'Volk vs. Elite', nicht eine Parteirichtung.", "ru": "Термин «популизм» нейтрален — он описывает акцент на «народе против элиты», а не партийное направление."},
+      {"de": "Soziale Medien gelten als Verstärker populistischer Botschaften durch Echokammern.", "ru": "Социальные сети считаются усилителями популистских посланий через эхо-камеры."},
+      {"de": "Historiker sehen Parallelen zwischen den 2010ern und den 1930er Jahren.", "ru": "Историки видят параллели между 2010-ми и 1930-ми годами."}
+    ]
+  },
+  {
+    "id": 9281,
+    "question_de": "Was war die Bedeutung der Gründung der Weltbank (1944)?",
+    "question_ru": "Каково было значение создания Всемирного банка (1944)?",
+    "correct_answer_de": "Die Weltbank vergab Kredite für den Wiederaufbau und die Entwicklung armer Länder und wurde zur zentralen Institution für globale Entwicklungsfinanzierung",
+    "correct_answer_ru": "Всемирный банк предоставлял кредиты для восстановления и развития бедных стран и стал центральным институтом глобального финансирования развития",
+    "wrong_answers_de": [
+      "Die Weltbank ist eine private Bank ohne staatliche Beteiligung",
+      "Die Weltbank verleiht nur Geld an reiche Industrieländer",
+      "Die Weltbank wurde gegründet, um den deutschen Kriegsschulden einzutreiben"
+    ],
+    "wrong_answers_ru": [
+      "Всемирный банк — частный банк без государственного участия",
+      "Всемирный банк кредитует только богатые промышленные страны",
+      "Всемирный банк был создан для взыскания немецких военных долгов"
+    ],
+    "explanation_de": "Bretton Woods (1944): IBRD (Weltbank) und IWF gegründet. USA dominieren durch Stimmrechte. Weltbank-Kritik: Strukturanpassungsprogramme schädigten arme Länder durch Sparauflagen.",
+    "explanation_ru": "Бреттон-Вудс (1944): созданы МБРР (Всемирный банк) и МВФ. США доминируют через право голоса. Критика Всемирного банка: программы структурной перестройки причинили вред бедным странам из-за условий жёсткой экономии.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1944 CE",
+    "tags": ["Weltbank", "Bretton Woods", "Entwicklung", "IWF", "Globalisierung"],
+    "interesting_facts": [
+      {"de": "Der Präsident der Weltbank ist traditionell ein Amerikaner, der IWF-Chef ein Europäer – bis heute.", "ru": "Президент Всемирного банка традиционно американец, глава МВФ — европеец — так по сей день."},
+      {"de": "Weltbank-Darlehen haben eine Laufzeit von bis zu 40 Jahren – kaum ein privater Kredit ist länger.", "ru": "Кредиты Всемирного банка имеют срок до 40 лет — ни один частный кредит не бывает длиннее."},
+      {"de": "China und Indien wurden durch Weltbank-Finanzierung zu Infrastrukturinvestitionen ermutigt.", "ru": "Китай и Индия были поощрены финансированием Всемирного банка к инфраструктурным инвестициям."}
+    ]
+  },
+  {
+    "id": 9282,
+    "question_de": "Was war die Bedeutung des Aufbaus des modernen Wohlfahrtsstaats nach dem Vorbild Bismarcks?",
+    "question_ru": "Каково было значение построения современного государства всеобщего благосостояния по образцу Бисмарка?",
+    "correct_answer_de": "Bismarcks Sozialversicherungen (1883–1889) wurden Vorbild für den europäischen Wohlfahrtsstaat des 20. Jahrhunderts und zeigten, dass staatlicher Schutz soziale Revolution verhindert",
+    "correct_answer_ru": "Социальное страхование Бисмарка (1883–1889) стало образцом для европейского государства всеобщего благосостояния XX века и показало, что государственная защита предотвращает социальную революцию",
+    "wrong_answers_de": [
+      "Bismarck lehnte Sozialversicherungen ab und sie wurden gegen seinen Willen eingeführt",
+      "Bismarcks Versicherungen galten nur für Adel und Beamte, nicht für Arbeiter",
+      "Der moderne Wohlfahrtsstaat wurde ohne Bezug auf Bismarcks Modell aufgebaut"
+    ],
+    "wrong_answers_ru": [
+      "Бисмарк был против социального страхования, и оно было введено вопреки его воле",
+      "Страхование Бисмарка распространялось только на аристократию и чиновников, а не на рабочих",
+      "Современное государство всеобщего благосостояния было построено без связи с моделью Бисмарка"
+    ],
+    "explanation_de": "Kranken-(1883), Unfall-(1884), Rentenversicherung-(1889). Ziel: Sozialdemokratie entmachten. Ideologisch konservativ, sozial progressiv. Beveridge, NHS und EUropäischer Sozialstaat bauten darauf auf.",
+    "explanation_ru": "Медицинское (1883), страхование от несчастных случаев (1884), пенсионное страхование (1889). Цель: подорвать социал-демократию. Идеологически консервативное, социально прогрессивное. Бевридж, NHS и европейское социальное государство строились на этой основе.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1883 CE",
+    "tags": ["Bismarck", "Sozialversicherung", "Wohlfahrtsstaat", "Deutschland", "Sozialstaat"],
+    "interesting_facts": [
+      {"de": "Bismarck führte das Rentenalter auf 70 Jahre fest – die Lebenserwartung betrug damals 45.", "ru": "Бисмарк установил пенсионный возраст в 70 лет — ожидаемая продолжительность жизни тогда составляла 45 лет."},
+      {"de": "Bismarcks Versicherungen waren als 'Bestechung' gedacht, damit Arbeiter nicht sozialistisch wählen.", "ru": "Страхование Бисмарка задумывалось как «подкуп», чтобы рабочие не голосовали за социалистов."},
+      {"de": "Das deutsche Sozialversicherungssystem gilt als eines der komplexesten und kostspieligsten der Welt.", "ru": "Немецкая система социального страхования считается одной из самых сложных и дорогостоящих в мире."}
+    ]
+  },
+  {
+    "id": 9283,
+    "question_de": "Was war die Bedeutung des Kyoto-Protokolls (1997) für den Klimaschutz?",
+    "question_ru": "Каково было значение Киотского протокола (1997) для защиты климата?",
+    "correct_answer_de": "Das Kyoto-Protokoll war das erste völkerrechtlich bindende Klimaabkommen mit konkreten CO₂-Reduktionszielen für Industrieländer",
+    "correct_answer_ru": "Киотский протокол стал первым юридически обязывающим климатическим соглашением с конкретными целями сокращения выбросов CO₂ для промышленно развитых стран",
+    "wrong_answers_de": [
+      "Das Kyoto-Protokoll wurde von allen Ländern der Welt ratifiziert und eingehalten",
+      "Die USA waren der größte Unterstützer des Kyoto-Protokolls",
+      "Das Kyoto-Protokoll legte globale Emissionsziele für alle Länder fest, einschließlich Entwicklungsländer"
+    ],
+    "wrong_answers_ru": [
+      "Киотский протокол был ратифицирован всеми странами мира и соблюдался",
+      "США были главным сторонником Киотского протокола",
+      "Киотский протокол устанавливал глобальные цели выбросов для всех стран, включая развивающиеся"
+    ],
+    "explanation_de": "Kyoto 1997: Industrieländer sollten Emissionen bis 2012 um 5,2% senken. USA ratifizierten nicht (Senat 95-0 dagegen). Kanada trat aus. Entwicklungsländer (China, Indien) ausgenommen – großer Kritikpunkt.",
+    "explanation_ru": "Киото 1997: промышленные страны должны были сократить выбросы к 2012 году на 5,2%. США не ратифицировали (Сенат 95:0 против). Канада вышла. Развивающиеся страны (Китай, Индия) исключены — главный критический момент.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1997 CE",
+    "tags": ["Kyoto-Protokoll", "Klimawandel", "CO2", "Umwelt", "Völkerrecht"],
+    "interesting_facts": [
+      {"de": "Das Pariser Abkommen (2015) ersetzte Kyoto und umfasste erstmals alle Länder.", "ru": "Парижское соглашение (2015) заменило Киото и впервые охватило все страны."},
+      {"de": "Deutschland übererfüllte seine Kyoto-Ziele – hauptsächlich wegen der wirtschaftlichen De-Industrialisierung Ostdeutschlands.", "ru": "Германия перевыполнила свои Киотские цели — главным образом из-за деиндустриализации Восточной Германии."},
+      {"de": "IPCC (1988) liefert wissenschaftliche Grundlage: 97% Klimaforscher bestätigen menschengemachten Klimawandel.", "ru": "МГЭИК (1988) обеспечивает научную основу: 97% климатологов подтверждают антропогенное изменение климата."}
+    ]
+  },
+  {
+    "id": 9284,
+    "question_de": "Was war die Bedeutung des chinesisch-amerikanischen Handelsstreits im 21. Jahrhundert?",
+    "question_ru": "Каково было значение китайско-американского торгового конфликта в XXI веке?",
+    "correct_answer_de": "Der Handelskonflikt ab 2018 zeigte die strukturellen Spannungen zwischen den USA und China und begann, die globalen Lieferketten neu zu ordnen",
+    "correct_answer_ru": "Торговый конфликт с 2018 года показал структурные противоречия между США и Китаем и начал перестраивать глобальные цепочки поставок",
+    "wrong_answers_de": [
+      "Der Handelsstreit wurde 2019 durch ein umfassendes Abkommen vollständig gelöst",
+      "China verlor den Handelsstreit und öffnete seinen Markt vollständig",
+      "Der Handelsstreit betraf ausschließlich Stahl und Aluminium"
+    ],
+    "wrong_answers_ru": [
+      "Торговый конфликт был полностью разрешён в 2019 году всеобъемлющим соглашением",
+      "Китай проиграл торговый спор и полностью открыл свой рынок",
+      "Торговый конфликт касался исключительно стали и алюминия"
+    ],
+    "explanation_de": "Trump verhängte 2018 Zölle auf 200 Mrd. Dollar chinesische Waren. China reagierte mit Gegenzöllen. Technologieembargo gegen Huawei. Biden setzte meiste Zölle fort. Chip-Exportverbote nach China als neue Front.",
+    "explanation_ru": "В 2018 году Трамп ввёл пошлины на китайские товары стоимостью 200 млрд долларов. Китай ответил встречными пошлинами. Технологическое эмбарго против Huawei. Байден сохранил большинство пошлин. Запрет экспорта чипов в Китай как новый фронт.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "2018 CE",
+    "tags": ["China", "USA", "Handelsstreit", "Zölle", "Geopolitik"],
+    "interesting_facts": [
+      {"de": "China ist seit 2013 Weltexportmeister Nr. 1 – der Handelsstreit hat daran wenig geändert.", "ru": "Китай с 2013 года является мировым лидером по экспорту — торговый конфликт мало что изменил."},
+      {"de": "TSMC (Taiwan) produziert 90% der fortschrittlichsten Chips – eine geopolitisch brisante Konzentration.", "ru": "TSMC (Тайвань) производит 90% наиболее передовых чипов — геополитически взрывоопасная концентрация."},
+      {"de": "Der Begriff 'Decoupling' (Entkopplung) beschreibt den Versuch, unabhängige Tech-Lieferketten aufzubauen.", "ru": "Термин «декаплинг» (разъединение) описывает попытку создать независимые технологические цепочки поставок."}
+    ]
+  },
+  {
+    "id": 9285,
+    "question_de": "Was war die Bedeutung des Kalten Krieges für die Dritte Welt und Entwicklungsländer?",
+    "question_ru": "Каково было значение холодной войны для третьего мира и развивающихся стран?",
+    "correct_answer_de": "USA und UdSSR instrumentalisierten Entwicklungsländer als Stellvertreter und finanzierten Diktatoren und Rebellen, was Instabilität in Afrika, Asien und Lateinamerika verursachte",
+    "correct_answer_ru": "США и СССР использовали развивающиеся страны как заместителей и финансировали диктаторов и повстанцев, что порождало нестабильность в Африке, Азии и Латинской Америке",
+    "wrong_answers_de": [
+      "Der Kalte Krieg betraf nur Europa und Nordamerika, nicht die Dritte Welt",
+      "Entwicklungsländer profitierten vom Kalten Krieg durch Militärhilfe ohne politische Bedingungen",
+      "Die Sowjetunion unterstützte ausschließlich demokratische Bewegungen in der Dritten Welt"
+    ],
+    "wrong_answers_ru": [
+      "Холодная война касалась только Европы и Северной Америки, а не третьего мира",
+      "Развивающиеся страны выигрывали от холодной войны, получая военную помощь без политических условий",
+      "Советский Союз поддерживал исключительно демократические движения в третьем мире"
+    ],
+    "explanation_de": "Angola, Mosambik, Nicaragua, Vietnam, Afghanistan, Korea – überall Stellvertreterkriege. CIA stürzte Mossadegh (Iran 1953), Allende (Chile 1973). KGB unterstützte revolutionäre Bewegungen. Millionen Tote.",
+    "explanation_ru": "Ангола, Мозамбик, Никарагуа, Вьетнам, Афганистан, Корея — повсюду войны по доверенности. ЦРУ свергло Мосаддыка (Иран 1953), Альенде (Чили 1973). КГБ поддерживал революционные движения. Миллионы погибших.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1960 CE",
+    "tags": ["Kalter Krieg", "Dritte Welt", "Stellvertreterkrieg", "CIA", "KGB"],
+    "interesting_facts": [
+      {"de": "Die USA unterstützten Saddam Hussein im Iran-Irak-Krieg – wenige Jahre bevor sie ihn bekämpften.", "ru": "США поддерживали Саддама Хусейна в ирано-иракской войне — за несколько лет до того, как вступили с ним в борьбу."},
+      {"de": "'Blowback' nennen Geheimdienstler die unbeabsichtigten Folgen von Covert-Operations.", "ru": "Спецслужбы называют «отдачей» непреднамеренные последствия тайных операций."},
+      {"de": "Nicht-Pakt-Bewegung (1961, Tito, Nasser, Nehru) versuchte, einen dritten Weg zwischen den Blöcken zu finden.", "ru": "Движение неприсоединения (1961, Тито, Насер, Неру) пыталось найти третий путь между блоками."}
+    ]
+  },
+  {
+    "id": 9286,
+    "question_de": "Was war die Bedeutung des Fall der Berliner Mauer für Europa?",
+    "question_ru": "Каково было значение падения Берлинской стены для Европы?",
+    "correct_answer_de": "Der Fall der Mauer am 9. November 1989 symbolisierte das Ende des Kalten Krieges und führte zur deutschen Wiedervereinigung und dem Zerfall des Ostblocks",
+    "correct_answer_ru": "Падение стены 9 ноября 1989 года символизировало конец холодной войны и привело к объединению Германии и распаду Восточного блока",
+    "wrong_answers_de": [
+      "Die Berliner Mauer wurde durch eine UN-Resolution 1989 zum Abriss verurteilt",
+      "Die Mauer fiel wegen eines Militärputsches in Ostberlin",
+      "Die Mauer existierte nur 5 Jahre von 1984 bis 1989"
+    ],
+    "wrong_answers_ru": [
+      "Берлинская стена была приговорена к сносу резолюцией ООН в 1989 году",
+      "Стена пала в результате военного переворота в Восточном Берлине",
+      "Стена существовала только 5 лет — с 1984 по 1989 год"
+    ],
+    "explanation_de": "9. November 1989: DDR-Sprecher Schabowski verkündete aus Versehen die sofortige Grenzöffnung. Massen strömten über Grenzposten. Mauer gebaut 1961 – 155 km lang, 140 Tote. Wiedervereinigung 3. Oktober 1990.",
+    "explanation_ru": "9 ноября 1989 года: представитель ГДР Шабовски случайно объявил о немедленном открытии границ. Толпы устремились через пограничные посты. Стена построена в 1961 году — 155 км длиной, 140 погибших. Воссоединение 3 октября 1990 года.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1989 CE",
+    "tags": ["Berliner Mauer", "DDR", "Deutschland", "Kalter Krieg", "Wiedervereinigung"],
+    "interesting_facts": [
+      {"de": "Schabowskis Versprecher ('sofort, unverzüglich') war einer der folgenreichsten in der Geschichte.", "ru": "Оговорка Шабовски («немедленно, без промедления») была одной из наиболее судьбоносных в истории."},
+      {"de": "Der Checkpoint Charlie wurde zu einem Museum – heute eines der meistbesuchten Berlins.", "ru": "Чекпойнт Чарли стал музеем — сегодня одним из самых посещаемых в Берлине."},
+      {"de": "Helmut Kohls 'Blühende Landschaften' für Ostdeutschland wurden erst Jahrzehnte später Realität.", "ru": "«Цветущие пейзажи» Гельмута Коля для Восточной Германии стали реальностью лишь спустя десятилетия."}
+    ]
+  },
+  {
+    "id": 9287,
+    "question_de": "Was war die Bedeutung des Vietnamkrieges für die amerikanische Außenpolitik?",
+    "question_ru": "Каково было значение войны во Вьетнаме для американской внешней политики?",
+    "correct_answer_de": "Die US-Niederlage in Vietnam (1975) führte zum 'Vietnam-Syndrom' – einer tiefen Skepsis gegenüber militärischen Auslandsinterventionen und einem Misstrauen gegenüber der Regierung",
+    "correct_answer_ru": "Поражение США во Вьетнаме (1975) привело к «вьетнамскому синдрому» — глубокому скептицизму по отношению к военным зарубежным вмешательствам и недоверию к правительству",
+    "wrong_answers_de": [
+      "Die USA gewannen den Vietnamkrieg und vereinten Vietnam unter einer prowestlichen Regierung",
+      "Der Vietnamkrieg stärkte das Vertrauen der Amerikaner in die Regierung",
+      "Der Vietnamkrieg endete 1968 durch Verhandlungen mit dem Pariser Abkommen"
+    ],
+    "wrong_answers_ru": [
+      "США выиграли войну во Вьетнаме и объединили Вьетнам под прозападным правительством",
+      "Война во Вьетнаме укрепила доверие американцев к правительству",
+      "Война во Вьетнаме завершилась в 1968 году переговорами Парижского соглашения"
+    ],
+    "explanation_de": "58.000 US-Tote. 1968: Tet-Offensive erschüttert USA. Pentagon Papers (1971) zeigten Regierungslügen. Saigon fiel 1975. Kriegstrauma prägt US-Außenpolitik bis heute (Powell-Doktrin, etc.).",
+    "explanation_ru": "58 000 погибших американцев. 1968: Тетское наступление потрясло США. Документы Пентагона (1971) вскрыли ложь правительства. Сайгон пал в 1975 году. Военная травма определяет внешнюю политику США по сей день (доктрина Пауэлла и др.).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1975 CE",
+    "tags": ["Vietnam", "USA", "Vietnam-Syndrom", "Außenpolitik", "Niederlage"],
+    "interesting_facts": [
+      {"de": "Die Powell-Doktrin: USA intervenieren nur mit überwältigender Kraft und klarem Ausstiegsplan.", "ru": "Доктрина Пауэлла: США вмешиваются только с подавляющей силой и чётким планом выхода."},
+      {"de": "Das Vietnam Veterans Memorial in Washington hat 58.279 eingravierte Namen.", "ru": "На Мемориале ветеранов Вьетнама в Вашингтоне высечено 58 279 имён."},
+      {"de": "Agent Orange, ein Entlaubungsmittel, verursacht bis heute Geburtsschäden in Vietnam.", "ru": "Агент Оранж, дефолиант, до сих пор вызывает врождённые дефекты во Вьетнаме."}
+    ]
+  },
+  {
+    "id": 9288,
+    "question_de": "Was war die Bedeutung der Nuklearen Nichtverbreitungsvertrag (NPT, 1968)?",
+    "question_ru": "Каково было значение Договора о нераспространении ядерного оружия (ДНЯО, 1968)?",
+    "correct_answer_de": "Der NPT verpflichtete Nicht-Atomstaaten zur Nichtbeschaffung von Atomwaffen und Atomstaaten zur Abrüstung – mit gemischtem Erfolg",
+    "correct_answer_ru": "ДНЯО обязал неядерные государства не приобретать ядерное оружие, а ядерные — к разоружению — с неоднозначным успехом",
+    "wrong_answers_de": [
+      "Alle Länder der Welt haben den NPT unterzeichnet und halten ihn vollständig ein",
+      "Der NPT erlaubte ausdrücklich den Erwerb von Atomwaffen für Verteidigungszwecke",
+      "Indien und Pakistan unterzeichneten den NPT 1998 nach ihren Atomtests"
+    ],
+    "wrong_answers_ru": [
+      "Все страны мира подписали ДНЯО и полностью его соблюдают",
+      "ДНЯО прямо разрешал приобретение ядерного оружия в оборонительных целях",
+      "Индия и Пакистан подписали ДНЯО в 1998 году после своих ядерных испытаний"
+    ],
+    "explanation_de": "191 Unterzeichner, aber Indien, Pakistan, Israel nicht. Nordkorea trat 2003 aus. Iran verletzt NPT. Die 5 offiziellen Nuklearmächte (USA, UK, Frankreich, Russland, China) haben nie vollständig abgerüstet.",
+    "explanation_ru": "191 подписант, но Индия, Пакистан, Израиль — нет. Северная Корея вышла в 2003 году. Иран нарушает ДНЯО. 5 официальных ядерных держав (США, Великобритания, Франция, Россия, Китай) так и не разоружились полностью.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1968 CE",
+    "tags": ["NPT", "Atomwaffen", "Nichtverbreitung", "Nordkorea", "Abrüstung"],
+    "interesting_facts": [
+      {"de": "Israel betreibt offizielle Ambiguity-Politik – es bestätigt weder Atomwaffen zu haben, noch verneint es.", "ru": "Израиль проводит политику официальной неопределённости — он не подтверждает наличие ядерного оружия, но и не отрицает."},
+      {"de": "Nordkoreas Austritt aus dem NPT war legal – der Vertrag sieht eine 90-Tage-Kündigungsfrist vor.", "ru": "Выход Северной Кореи из ДНЯО был законным — договор предусматривает 90-дневный срок уведомления."},
+      {"de": "Nach der Auflösung der UdSSR übergab die Ukraine freiwillig 1.900 Atomsprengköpfe an Russland.", "ru": "После распада СССР Украина добровольно передала России 1900 ядерных боеголовок."}
+    ]
+  },
+  {
+    "id": 9289,
+    "question_de": "Was war die Bedeutung der Einführung der Verhütungspille für die Gesellschaft?",
+    "question_ru": "Каково было значение введения противозачаточной таблетки для общества?",
+    "correct_answer_de": "Die Pille (1960) gab Frauen erstmals verlässliche Kontrolle über Familienplanung, ermöglichte Berufseinstieg und löste eine sexuelle Revolution aus",
+    "correct_answer_ru": "Таблетка (1960) впервые дала женщинам надёжный контроль над планированием семьи, обеспечила доступ к карьере и спровоцировала сексуальную революцию",
+    "wrong_answers_de": [
+      "Die Pille wurde ausschließlich verheirateten Frauen verschrieben und war unverheirateten verboten",
+      "Die Pille ist ein Medikament ohne soziale Auswirkungen",
+      "Die Pille wurde in Großbritannien erfunden und erst 30 Jahre später in den USA zugelassen"
+    ],
+    "wrong_answers_ru": [
+      "Таблетка назначалась исключительно замужним женщинам и была запрещена незамужним",
+      "Таблетка — лекарство без социальных последствий",
+      "Таблетка была изобретена в Великобритании и лишь через 30 лет одобрена в США"
+    ],
+    "explanation_de": "Carl Djerassi synthetisierte 1951 Progesteron. FDA-Zulassung 1960. In manchen US-Bundesstaaten war Verhütung bis 1965 illegal (Griswold v. Connecticut). Pille veränderte Heiratsalter, Bildung und Geburtenrate.",
+    "explanation_ru": "Карл Джерасси синтезировал прогестерон в 1951 году. Одобрение FDA в 1960 году. В некоторых штатах США контрацепция была незаконна до 1965 года (дело Гризволд против Коннектикута). Таблетка изменила возраст вступления в брак, образование и рождаемость.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1960 CE",
+    "tags": ["Verhütungspille", "Feminismus", "Sexuelle Revolution", "Frauen", "Geburtenrate"],
+    "interesting_facts": [
+      {"de": "Die 'Pille danach' wurde erst 1999 in den USA zugelassen – jahrelang heftig umkämpft.", "ru": "«Таблетка после» была одобрена в США лишь в 1999 году — много лет оспаривалась."},
+      {"de": "Die Geburtenrate in Deutschland sank nach Einführung der Pille von 2,5 auf 1,4 Kinder pro Frau.", "ru": "Рождаемость в Германии после введения таблетки снизилась с 2,5 до 1,4 ребёнка на женщину."},
+      {"de": "Papst Paul VI. verbot die Pille 1968 durch die Enzyklika Humanae Vitae – trotz päpstlicher Kommissionsempfehlung.", "ru": "Папа Павел VI запретил таблетку в 1968 году энцикликой Humanae Vitae — вопреки рекомендации папской комиссии."}
+    ]
+  },
+  {
+    "id": 9290,
+    "question_de": "Was war die Bedeutung der Rüstungskontrolle SALT I (1972) für den Kalten Krieg?",
+    "question_ru": "Каково было значение договора ОСВ-1 (1972) по ограничению вооружений для холодной войны?",
+    "correct_answer_de": "SALT I war das erste Abkommen zur Begrenzung strategischer Atomwaffen zwischen USA und UdSSR und läutete die Entspannungspolitik ein",
+    "correct_answer_ru": "ОСВ-1 стал первым соглашением об ограничении стратегических ядерных вооружений между США и СССР и ознаменовал начало политики разрядки",
+    "wrong_answers_de": [
+      "SALT I verpflichtete USA und UdSSR zur vollständigen nuklearen Abrüstung bis 1985",
+      "SALT I war ein einseitiges Abrüstungsangebot der USA",
+      "SALT I wurde von Chruschtschow und Kennedy unterzeichnet"
+    ],
+    "wrong_answers_ru": [
+      "ОСВ-1 обязал США и СССР к полному ядерному разоружению к 1985 году",
+      "ОСВ-1 было односторонним предложением США по разоружению",
+      "ОСВ-1 был подписан Хрущёвым и Кеннеди"
+    ],
+    "explanation_de": "Nixon und Breschnew unterzeichneten SALT I in Moskau. Begrenzung auf ICBM und SLBM. ABM-Vertrag verboten Raketenabwehr. SALT II (1979) scheiterte wegen Afghanistan. START-Nachfolgeabkommen.",
+    "explanation_ru": "Никсон и Брежнев подписали ОСВ-1 в Москве. Ограничение МБР и БРПЛ. Договор по ПРО запретил системы противоракетной обороны. ОСВ-2 (1979) провалился из-за Афганистана. Соглашения СТАРТ как преемники.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1972 CE",
+    "tags": ["SALT I", "Rüstungskontrolle", "Entspannung", "Nixon", "Breschnew"],
+    "interesting_facts": [
+      {"de": "Nixons China-Besuch 1972 (ebenfalls Entspannung) fand im gleichen Jahr wie SALT I statt.", "ru": "Визит Никсона в Китай в 1972 году (также разрядка) состоялся в том же году, что и ОСВ-1."},
+      {"de": "START III (2021, Biden-Putin) verlängerte den letzten geltenden Rüstungskontrollvertrag bis 2026.", "ru": "СНВ-3 (2021, Байден-Путин) продлил последний действующий договор по ограничению вооружений до 2026 года."},
+      {"de": "Russland setzte 2023 New START aus – als Reaktion auf westliche Waffenhilfe für die Ukraine.", "ru": "Россия приостановила действие СНВ-3 в 2023 году — в ответ на западные поставки оружия Украине."}
+    ]
+  },
+  {
+    "id": 9291,
+    "question_de": "Was war die Bedeutung der Entkolonisierung Afrikas in den 1950er und 1960er Jahren?",
+    "question_ru": "Каково было значение деколонизации Африки в 1950–1960-е годы?",
+    "correct_answer_de": "Zwischen 1956 und 1966 erlangten über 30 afrikanische Staaten Unabhängigkeit, aber ohne ausreichende Institutionen oft in Instabilität und Bürgerkriege",
+    "correct_answer_ru": "Между 1956 и 1966 годами более 30 африканских государств обрели независимость, но без надлежащих институтов нередко погружались в нестабильность и гражданские войны",
+    "wrong_answers_de": [
+      "Afrikanische Staaten wurden ausschließlich durch UN-Mandate unabhängig",
+      "Die meisten afrikanischen Länder erlangten Unabhängigkeit erst nach 1990",
+      "Die Dekolonisierung Afrikas verlief vollständig friedlich ohne Kämpfe"
+    ],
+    "wrong_answers_ru": [
+      "Африканские государства стали независимыми исключительно на основании мандатов ООН",
+      "Большинство африканских стран обрели независимость только после 1990 года",
+      "Деколонизация Африки проходила совершенно мирно без вооружённых столкновений"
+    ],
+    "explanation_de": "1960 'Jahr Afrikas': 17 Länder unabhängig. Kwame Nkrumah (Ghana 1957), Jomo Kenyatta (Kenia 1963). Patrice Lumumba (Kongo) ermordet mit CIA-Beteiligung. Grenzen nach Berliner Akte von 1885.",
+    "explanation_ru": "1960 год — «год Африки»: 17 стран стали независимыми. Кваме Нкрума (Гана 1957), Джомо Кениата (Кения 1963). Патрис Лумумба (Конго) убит при участии ЦРУ. Границы по Берлинскому акту 1885 года.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1960 CE",
+    "tags": ["Dekolonisierung", "Afrika", "Unabhängigkeit", "Nkrumah", "Kenia"],
+    "interesting_facts": [
+      {"de": "Die willkürlichen Grenzen aus der Kolonialzeit verursachen bis heute ethnische Konflikte.", "ru": "Произвольные колониальные границы до сих пор порождают этнические конфликты."},
+      {"de": "Frantz Fanons 'Die Verdammten dieser Erde' (1961) wurde zur Bibel antikolonialer Bewegungen.", "ru": "«Проклятые мира сего» (1961) Франца Фанона стали библией антиколониальных движений."},
+      {"de": "Afrika hat 54 Länder – mehr als jeder andere Kontinent – und ist gleichzeitig am stärksten fragmentiert.", "ru": "Африка насчитывает 54 страны — больше, чем любой другой континент — и при этом наиболее фрагментирована."}
+    ]
+  },
+  {
+    "id": 9292,
+    "question_de": "Was war die Bedeutung der Erfindung des Computers für Wissenschaft und Gesellschaft?",
+    "question_ru": "Каково было значение изобретения компьютера для науки и общества?",
+    "correct_answer_de": "Computer ermöglichten komplexe wissenschaftliche Berechnungen, Massenkommunikation, Automatisierung und schufen eine neue digitale Wirtschaft und Informationsgesellschaft",
+    "correct_answer_ru": "Компьютеры обеспечили сложные научные вычисления, массовые коммуникации, автоматизацию и создали новую цифровую экономику и информационное общество",
+    "wrong_answers_de": [
+      "Computer wurden ausschließlich für militärische Anwendungen entwickelt und nie zivil genutzt",
+      "Der erste Computer wurde in Japan in den 1970ern erfunden",
+      "Computer haben die Beschäftigung erhöht, nicht reduziert"
+    ],
+    "wrong_answers_ru": [
+      "Компьютеры разрабатывались исключительно для военных применений и никогда не использовались в гражданских целях",
+      "Первый компьютер был изобретён в Японии в 1970-х годах",
+      "Компьютеры увеличили занятость, а не сократили её"
+    ],
+    "explanation_de": "Colossus (1943, Bletchley Park) knackte Nazi-Codes. ENIAC (1945, USA). IBM 360 (1964) für Unternehmen. Apple II / IBM PC (1977–1981) für Verbraucher. Internet als Vernetzung.",
+    "explanation_ru": "Колосс (1943, Блетчли-парк) взломал нацистские коды. ENIAC (1945, США). IBM 360 (1964) для предприятий. Apple II / IBM PC (1977–1981) для потребителей. Интернет как сетевое взаимодействие.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "1945 CE",
+    "tags": ["Computer", "Digitalisierung", "Technologie", "IBM", "Apple"],
+    "interesting_facts": [
+      {"de": "Alan Turing, Vater der Computerwissenschaft, wurde für seine Homosexualität chemisch kastriert.", "ru": "Алан Тьюринг, отец компьютерной науки, был подвергнут химической кастрации за гомосексуальность."},
+      {"de": "ENIAC wog 27 Tonnen und füllte einen Raum – ein iPhone ist milliardenfach leistungsfähiger.", "ru": "ENIAC весил 27 тонн и занимал целую комнату — iPhone в миллиарды раз мощнее."},
+      {"de": "Tim Berners-Lee erfand das World Wide Web 1991 und weigerte sich, es zu patentieren.", "ru": "Тим Бернерс-Ли изобрёл Всемирную паутину в 1991 году и отказался её патентовать."}
+    ]
+  },
+  {
+    "id": 9293,
+    "question_de": "Was war die Bedeutung der Erkenntnisse über den Klimawandel für internationale Politik?",
+    "question_ru": "Каково было значение данных об изменении климата для международной политики?",
+    "correct_answer_de": "Wissenschaftliche Erkenntnisse über menschengemachten Klimawandel führten zu internationalen Abkommen (Kyoto, Paris) und einer Transformation der Energiepolitik",
+    "correct_answer_ru": "Научные данные об антропогенном изменении климата привели к международным соглашениям (Киото, Париж) и трансформации энергетической политики",
+    "wrong_answers_de": [
+      "Der Klimawandel ist wissenschaftlich umstritten – keine Einigkeit über menschliche Ursachen",
+      "Das Pariser Abkommen wurde von China und den USA nicht unterzeichnet",
+      "Erneuerbare Energien sind teurer als fossile Brennstoffe und daher wirtschaftlich nicht tragbar"
+    ],
+    "wrong_answers_ru": [
+      "Изменение климата научно спорно — нет единства относительно антропогенных причин",
+      "Парижское соглашение не было подписано Китаем и США",
+      "Возобновляемые источники энергии дороже ископаемого топлива и поэтому экономически несостоятельны"
+    ],
+    "explanation_de": "IPCC (1988): 97% Klimawissenschaftler bestätigen menschengemachten Wandel. Pariser Abkommen (2015): 1,5°C-Ziel. Europäischer Green Deal, US-IRA (2022) als politische Antworten. Solarzellen sind heute billiger als Kohle.",
+    "explanation_ru": "МГЭИК (1988): 97% климатологов подтверждают антропогенные изменения. Парижское соглашение (2015): цель 1,5°C. Европейский «зелёный курс», Закон США об инвестициях в снижение инфляции (2022) как политические ответы. Солнечные батареи сегодня дешевле угля.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "2015 CE",
+    "tags": ["Klimawandel", "IPCC", "Paris", "Erneuerbare Energie", "Umwelt"],
+    "interesting_facts": [
+      {"de": "Svante Arrhenius berechnete bereits 1896, dass CO₂ die Erde erwärmt – niemand hörte zu.", "ru": "Сванте Аррениус ещё в 1896 году подсчитал, что CO₂ согревает Землю — никто не слушал."},
+      {"de": "Greta Thunbergs 'Fridays for Future' (2018) mobilisierte Millionen junger Menschen weltweit.", "ru": "«Пятницы ради будущего» Греты Тунберг (2018) мобилизовали миллионы молодых людей по всему миру."},
+      {"de": "China ist sowohl größter CO₂-Emittent als auch größter Hersteller erneuerbarer Energien.", "ru": "Китай является одновременно крупнейшим эмитентом CO₂ и крупнейшим производителем возобновляемой энергии."}
+    ]
+  },
+  {
+    "id": 9294,
+    "question_de": "Was war die Bedeutung des Jugoslawienkrieges für die europäische Sicherheitsarchitektur?",
+    "question_ru": "Каково было значение войны в Югославии для европейской архитектуры безопасности?",
+    "correct_answer_de": "Die Kriege im zerfallenden Jugoslawien (1991–99) zeigten die Grenzen europäischer Krisenprävention und führten zur ersten NATO-Kampfmission und zum Internationalen Strafgerichtshof",
+    "correct_answer_ru": "Войны в распадавшейся Югославии (1991–99) показали пределы европейского кризисного урегулирования и привели к первой боевой миссии НАТО и созданию Международного уголовного суда",
+    "wrong_answers_de": [
+      "Die EU löste den Jugoslawienkonflikt friedlich ohne NATO-Beteiligung",
+      "Jugoslawien zerfiel friedlich durch ein Referendum aller sechs Republiken",
+      "Serbien wurde für den Bosnienkrieg mit UN-Sanktionen ohne Militäreinsatz bestraft"
+    ],
+    "wrong_answers_ru": [
+      "ЕС мирно урегулировал югославский конфликт без участия НАТО",
+      "Югославия мирно распалась на основе референдума всех шести республик",
+      "Сербия была наказана за войну в Боснии санкциями ООН без военного вмешательства"
+    ],
+    "explanation_de": "1991: Slowenien, Kroatien unabhängig. Bosnienkrieg (1992–95): 100.000 Tote, Srebrenica-Massaker. NATO-Luftangriffe 1995. Kosovo 1999: erneut NATO ohne UN-Mandat. Milošević vor ICTY angeklagt.",
+    "explanation_ru": "1991: Словения, Хорватия независимы. Боснийская война (1992–95): 100 000 погибших, резня в Сребренице. Авиаудары НАТО в 1995 году. Косово 1999: снова НАТО без мандата ООН. Милошевич привлечён к ответственности МУС.",
+    "difficulty": "hard",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1995 CE",
+    "tags": ["Jugoslawien", "Bosnien", "Srebrenica", "NATO", "ICTY"],
+    "interesting_facts": [
+      {"de": "Srebrenica 1995: 8.000 muslimische Männer wurden getötet – der schlimmste Völkermord in Europa seit dem Holocaust.", "ru": "Сребреница 1995: 8000 мусульман были убиты — самый страшный геноцид в Европе после Холокоста."},
+      {"de": "Der ICTY war das erste internationale Straftribunal seit Nürnberg.", "ru": "МТБЮ стал первым международным уголовным трибуналом после Нюрнбергского."},
+      {"de": "Milosevic starb 2006 im Gefängnis, bevor sein Urteil gesprochen wurde.", "ru": "Милошевич умер в 2006 году в заключении, так и не дождавшись приговора."}
+    ]
+  },
+  {
+    "id": 9295,
+    "question_de": "Was war die Bedeutung der arabischen Welt für Wissenschaft und Kultur im Mittelalter?",
+    "question_ru": "Каково было значение арабского мира для науки и культуры в Средние века?",
+    "correct_answer_de": "Das Goldene Zeitalter des Islam (8.–13. Jh.) bewahrte griechisches Wissen, entwickelte Algebra, Optik und Astronomie und ermöglichte die europäische Renaissance",
+    "correct_answer_ru": "Золотой век ислама (VIII–XIII вв.) сохранил греческие знания, развил алгебру, оптику и астрономию и создал условия для европейского Возрождения",
+    "wrong_answers_de": [
+      "Das arabische Mittelalter war wissenschaftlich rückständig gegenüber Europa",
+      "Algebra wurde von europäischen Mönchen im 12. Jahrhundert erfunden",
+      "Das griechische Wissen wurde ausschließlich in byzantinischen Klöstern bewahrt"
+    ],
+    "wrong_answers_ru": [
+      "Арабское Средневековье уступало Европе в научном отношении",
+      "Алгебра была изобретена европейскими монахами в XII веке",
+      "Греческие знания сохранялись исключительно в византийских монастырях"
+    ],
+    "explanation_de": "Bagdad (Haus der Weisheit, 830). Al-Chwarizmi: Algebra. Ibn al-Haytham: Optik. Avicenna: Medizin. Ibn Rushd (Averroes): Aristoteles-Kommentare. Arabische Ziffern kamen über Spanien nach Europa.",
+    "explanation_ru": "Багдад (Дом мудрости, 830). Аль-Хорезми: алгебра. Ибн аль-Хайсам: оптика. Авиценна: медицина. Ибн Рушд (Аверроэс): комментарии к Аристотелю. Арабские цифры пришли в Европу через Испанию.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "900 CE",
+    "tags": ["Islam", "Goldenes Zeitalter", "Wissenschaft", "Algebra", "Renaissance"],
+    "interesting_facts": [
+      {"de": "Das Wort 'Algebra' kommt vom arabischen 'al-jabr' aus Al-Chwarizmis Buch.", "ru": "Слово «алгебра» происходит от арабского «аль-джабр» из книги Аль-Хорезми."},
+      {"de": "Ibn Sinas Kanon der Medizin war bis zum 17. Jahrhundert Standardlehrbuch in europäischen Universitäten.", "ru": "«Канон врачебной науки» Ибн Сины был стандартным учебником в европейских университетах вплоть до XVII века."},
+      {"de": "Das Wort 'Alkohol' ist arabisch – wie auch Algebra, Alchemie, Algorithmus und Kaffee.", "ru": "Слово «алкоголь» арабского происхождения — как и алгебра, алхимия, алгоритм и кофе."}
+    ]
+  },
+  {
+    "id": 9296,
+    "question_de": "Was war die historische Bedeutung der Perestroika (Michail Gorbatschow, 1985–1991)?",
+    "question_ru": "Каково было историческое значение перестройки (Михаил Горбачёв, 1985–1991)?",
+    "correct_answer_de": "Perestroika (Umbau) und Glasnost (Offenheit) sollten die sowjetische Wirtschaft modernisieren, lösten aber unkontrolliert den Zerfall der UdSSR aus",
+    "correct_answer_ru": "Перестройка (реструктуризация) и гласность (открытость) должны были модернизировать советскую экономику, но неконтролируемо запустили распад СССР",
+    "wrong_answers_de": [
+      "Perestroika war ein erfolgreiches Wirtschaftsprogramm, das die UdSSR rettete",
+      "Gorbatschow lehnte Reformen ab und wollte den Stalinismus beibehalten",
+      "Die UdSSR löste sich durch einen Militärputsch gegen Gorbatschow auf"
+    ],
+    "wrong_answers_ru": [
+      "Перестройка была успешной экономической программой, спасшей СССР",
+      "Горбачёв отвергал реформы и хотел сохранить сталинизм",
+      "СССР распался в результате военного переворота против Горбачёва"
+    ],
+    "explanation_de": "1985: Gorbatschow neuer Generalsekretär. Wirtschaftsprobleme, Öl-Preisverfall. Glasnost: Medienfreiheit. Perestroika: Marktreformen. Nationalismen erwachten in Republiken. Putschversuch 1991 beschleunigte Auflösung.",
+    "explanation_ru": "1985: Горбачёв — новый генеральный секретарь. Экономические проблемы, падение цен на нефть. Гласность: свобода прессы. Перестройка: рыночные реформы. Национализмы пробудились в республиках. Попытка переворота 1991 года ускорила распад.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1991 CE",
+    "tags": ["Perestroika", "Gorbatschow", "UdSSR", "Glasnost", "Kalter Krieg"],
+    "interesting_facts": [
+      {"de": "Gorbatschow erhielt 1990 den Friedensnobelpreis – und wurde in Russland nie populär.", "ru": "Горбачёв получил Нобелевскую премию мира в 1990 году — и так и не стал популярным в России."},
+      {"de": "Der Augustputsch 1991 (kommunistische Hardliner gegen Gorbatschow) scheiterte an Boris Jelzins Widerstand.", "ru": "Августовский путч 1991 года (коммунистические ортодоксы против Горбачёва) провалился из-за сопротивления Бориса Ельцина."},
+      {"de": "Tschernobyl (1986) beschleunigte Glasnost: Gorbatschow musste Transparenz eingestehen.", "ru": "Чернобыль (1986) ускорил гласность: Горбачёв был вынужден признать необходимость прозрачности."}
+    ]
+  },
+  {
+    "id": 9297,
+    "question_de": "Was war die Bedeutung des Aufstiegs der Informationstechnologie für die Arbeitswelt?",
+    "question_ru": "Каково было значение подъёма информационных технологий для мира труда?",
+    "correct_answer_de": "IT automatisierte Routineaufgaben, schuf neue Wissensberufe und veränderte globale Lieferketten, führte aber auch zu Arbeitsplatzverlusten in der Industrie",
+    "correct_answer_ru": "ИТ автоматизировали рутинные задачи, создали новые профессии в сфере знаний и изменили глобальные цепочки поставок, но также привели к потере рабочих мест в промышленности",
+    "wrong_answers_de": [
+      "IT schuf ausschließlich neue Arbeitsplätze ohne Verdrängungseffekte",
+      "Automatisierung durch Computer führte zur vollständigen Auflösung aller traditionellen Berufe",
+      "IT-Industrie verlagerte sich vollständig nach Asien und ist in Europa bedeutungslos"
+    ],
+    "wrong_answers_ru": [
+      "ИТ создали исключительно новые рабочие места без вытесняющих эффектов",
+      "Автоматизация через компьютеры привела к полному исчезновению всех традиционных профессий",
+      "ИТ-отрасль полностью переместилась в Азию и не имеет значения в Европе"
+    ],
+    "explanation_de": "1980er: PC-Revolution. 1990er: Internet-Boom. 2000er: Outsourcing nach Indien. 2010er: Cloud, Plattformökonomie (Amazon, Uber). 2020er: KI-Automatisierung. Gig-Economy: Flexibilität vs. Sicherheit.",
+    "explanation_ru": "1980-е: революция ПК. 1990-е: интернет-бум. 2000-е: аутсорсинг в Индию. 2010-е: облачные технологии, платформенная экономика (Amazon, Uber). 2020-е: ИИ-автоматизация. Гиг-экономика: гибкость против безопасности.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "2000 CE",
+    "tags": ["IT", "Digitalisierung", "Arbeit", "Automatisierung", "Plattformökonomie"],
+    "interesting_facts": [
+      {"de": "Amazon beschäftigt 1,5 Millionen Menschen – mehr als viele Staaten Einwohner haben.", "ru": "Amazon нанимает 1,5 миллиона человек — больше, чем население многих государств."},
+      {"de": "McKinsey schätzt, dass 50% aller aktuellen Jobs bis 2055 automatisiert werden könnten.", "ru": "McKinsey оценивает, что к 2055 году может быть автоматизировано 50% всех нынешних рабочих мест."},
+      {"de": "Software-Entwickler ist heute in 30 Jahren der meistgesuchte Beruf weltweit.", "ru": "Разработчик программного обеспечения — наиболее востребованная профессия в мире за последние 30 лет."}
+    ]
+  },
+  {
+    "id": 9298,
+    "question_de": "Was war die Bedeutung des Völkermords in Ruanda (1994) für die internationale Gemeinschaft?",
+    "question_ru": "Каково было значение геноцида в Руанде (1994) для международного сообщества?",
+    "correct_answer_de": "800.000 Tutsi wurden in 100 Tagen ermordet, während die UNO und Westmächte untätig blieben – was das Konzept der 'Schutzverantwortung' (R2P) auslöste",
+    "correct_answer_ru": "800 000 тутси были убиты за 100 дней, пока ООН и западные державы бездействовали — что породило концепцию «Ответственности по защите» (R2P)",
+    "wrong_answers_de": [
+      "Die USA griffen militärisch in Ruanda ein und stoppten den Völkermord",
+      "Frankreich schützte die Tutsi-Bevölkerung vor dem Genozid",
+      "Der Völkermord in Ruanda dauerte über 10 Jahre"
+    ],
+    "wrong_answers_ru": [
+      "США провели военное вмешательство в Руанде и остановили геноцид",
+      "Франция защитила население тутси от геноцида",
+      "Геноцид в Руанде длился более 10 лет"
+    ],
+    "explanation_de": "April–Juli 1994: Hutu-Extremisten (Interahamwe) mordeten Tutsis. UN-General Dallaire wurde nicht unterstützt. Clinton entschuldigte sich später für die Untätigkeit. Paul Kagame wurde Präsident.",
+    "explanation_ru": "Апрель–июль 1994: хутуистские экстремисты (интерахамве) убивали тутси. Генерал ООН Даллер не получал поддержки. Клинтон впоследствии извинился за бездействие. Поль Кагаме стал президентом.",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1994 CE",
+    "tags": ["Ruanda", "Völkermord", "Tutsi", "Hutu", "UN"],
+    "interesting_facts": [
+      {"de": "Das Wort 'Völkermord' ist jünger als man denkt – Raphael Lemkin prägte es 1944.", "ru": "Слово «геноцид» моложе, чем кажется, — Рафаэль Лемкин придумал его в 1944 году."},
+      {"de": "Ruanda hat heute den höchsten Frauenanteil im Parlament weltweit (61%).", "ru": "Руанда сегодня имеет наибольшую долю женщин в парламенте в мире (61%)."},
+      {"de": "Philip Gourevitch' Buch 'We wish to inform you that tomorrow we will be killed with our families' ist das Standardwerk.", "ru": "Книга Филипа Гуревича «Мы хотим сообщить, что завтра нас убьют вместе с нашими семьями» является стандартным произведением."}
+    ]
+  },
+  {
+    "id": 9299,
+    "question_de": "Was war die Bedeutung der Mondlandung für Wissenschaft, Technologie und Gesellschaft?",
+    "question_ru": "Каково было значение высадки на Луне для науки, технологии и общества?",
+    "correct_answer_de": "Apollo 11 (1969) bewies menschliche Fähigkeit zur Raumfahrt, produzierte bahnbrechende Technologien und prägte eine Generation von Wissenschaftlern und Ingenieuren",
+    "correct_answer_ru": "«Аполлон-11» (1969) доказал способность человека к космическим путешествиям, породил прорывные технологии и сформировал целое поколение учёных и инженеров",
+    "wrong_answers_de": [
+      "Die Mondlandung hatte keine technologischen Spin-offs für das alltägliche Leben",
+      "Neil Armstrong war der erste Mensch auf dem Mond, aber kein Amerikaner",
+      "Die UdSSR landete ebenfalls Menschen auf dem Mond, kurz nach den USA"
+    ],
+    "wrong_answers_ru": [
+      "Высадка на Луне не имела технологических побочных эффектов для повседневной жизни",
+      "Нил Армстронг был первым человеком на Луне, но не американцем",
+      "СССР также высадил людей на Луну вскоре после США"
+    ],
+    "explanation_de": "20. Juli 1969: Neil Armstrong und Buzz Aldrin. 'That's one small step for man'. NASA entwickelte 1800 Spin-off-Technologien: Nierensteine-Therapie, Tempur-Schaum, Wasserfilter. 600 Millionen Zuschauer.",
+    "explanation_ru": "20 июля 1969: Нил Армстронг и Базз Олдрин. «Один маленький шаг для человека». НАСА разработало 1800 побочных технологий: терапия почечных камней, поролон Tempur, фильтры для воды. 600 миллионов телезрителей.",
+    "difficulty": "easy",
+    "category": "20. Jahrhundert",
+    "type": "factual",
+    "period": "1969 CE",
+    "tags": ["Mondlandung", "Apollo", "NASA", "Raumfahrt", "Armstrong"],
+    "interesting_facts": [
+      {"de": "Michael Collins blieb im Mondorbit – der bekannteste 'unbekannte' Astronaut der Geschichte.", "ru": "Майкл Коллинз остался на окололунной орбите — самый известный «неизвестный» астронавт в истории."},
+      {"de": "Die Software des Apollo-Computers hatte weniger Speicher als ein moderner Taschenrechner.", "ru": "Программное обеспечение компьютера «Аполлона» имело меньше памяти, чем современный калькулятор."},
+      {"de": "Margaret Hamilton programmierte die Apollo-Software und begründete den Begriff 'Software Engineering'.", "ru": "Маргарет Гамильтон запрограммировала программное обеспечение «Аполлона» и ввела термин «программная инженерия»."}
+    ]
+  },
+  {
+    "id": 9300,
+    "question_de": "Was war die historische Bedeutung des 20. Jahrhunderts als das blutigste Jahrhundert der Menschheitsgeschichte?",
+    "question_ru": "Каково было историческое значение XX века как самого кровавого века в истории человечества?",
+    "correct_answer_de": "Das 20. Jahrhundert vereint Weltkriege, Holocaust, Gulag und atomare Bedrohung mit dem größten wirtschaftlichen Aufschwung, wissenschaftlichem Fortschritt und dem Ende des Kolonialismus",
+    "correct_answer_ru": "XX век сочетает мировые войны, Холокост, ГУЛАГ и ядерную угрозу с величайшим экономическим подъёмом, научным прогрессом и концом колониализма",
+    "wrong_answers_de": [
+      "Das 20. Jahrhundert war friedlicher als das 19. Jahrhundert",
+      "Der Wohlstand des 20. Jahrhunderts kam ausschließlich durch den Krieg",
+      "Wissenschaftlicher Fortschritt im 20. Jahrhundert verlangsamte das Wirtschaftswachstum"
+    ],
+    "wrong_answers_ru": [
+      "XX век был более мирным, чем XIX",
+      "Благосостояние XX века было достигнуто исключительно благодаря войне",
+      "Научный прогресс в XX веке замедлил экономический рост"
+    ],
+    "explanation_de": "200 Millionen Kriegstote. Aber: Lebenserwartung von 40 auf 70 Jahre. Kindersterblichkeit halbiert. Frauenemanzipation. Internationalismus. Das Jahrhundert der Extreme (Eric Hobsbawm).",
+    "explanation_ru": "200 миллионов жертв войн. Но: продолжительность жизни выросла с 40 до 70 лет. Детская смертность снизилась вдвое. Эмансипация женщин. Интернационализм. «Век крайностей» (Эрик Хобсбаум).",
+    "difficulty": "medium",
+    "category": "20. Jahrhundert",
+    "type": "conceptual",
+    "period": "2000 CE",
+    "tags": ["20. Jahrhundert", "Weltgeschichte", "Kriege", "Fortschritt", "Hobsbawm"],
+    "interesting_facts": [
+      {"de": "Eric Hobsbawms 'Das Zeitalter der Extreme' gilt als beste Gesamtdarstellung des 20. Jahrhunderts.", "ru": "«Эпоха крайностей» Эрика Хобсбаума считается лучшим обзором XX века."},
+      {"de": "Die absolute Armut sank im 20. Jahrhundert trotz Bevölkerungswachstum um 80%.", "ru": "Абсолютная бедность в XX веке, несмотря на рост населения, снизилась на 80%."},
+      {"de": "Das 20. Jahrhundert war das erste, in dem mehr Menschen durch Politik als durch Naturkatastrophen starben.", "ru": "XX век стал первым, в котором от политики погибло больше людей, чем от стихийных бедствий."}
+    ]
+  }
+]
