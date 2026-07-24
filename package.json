@@ -1,0 +1,9 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "Geschichtsquiz - Quiz-App für Geschichte",
+  "scripts": {
+    "build": "flutter build web --release"
+  }
+}
+

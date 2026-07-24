@@ -53,3 +53,6 @@ flutter pub run flutter_launcher_icons
 ### Windows
 Замените `windows/runner/resources/app_icon.ico` на вашу иконку в формате .ico
 
+
+
+

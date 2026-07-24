@@ -17,3 +17,6 @@ flutter pub run flutter_launcher_icons
 - Цвет фона адаптивной иконки Android установлен на `#D4A574` (коричневый из вашей иконки)
 - Если нужно изменить цвет фона, отредактируйте `adaptive_icon_background` в `pubspec.yaml`
 
+
+
+
