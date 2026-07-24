@@ -3,6 +3,7 @@ import 'dart:math';
 import '../models/quiz_question.dart';
 import '../services/sound_service.dart';
 import '../services/question_history_service.dart';
+import '../services/tts_service.dart';
 import 'quiz_round_summary_screen.dart';
 import '../widgets/facts_dialog.dart';
 
@@ -33,6 +34,8 @@ class _QuizScreenState extends State<QuizScreen> {
   List<String> _shuffledOptionsDe = [];
   List<String> _shuffledOptionsRu = [];
   int _correctAnswerIndex = 0;
+  /// Weißer Vollbild-Deckschicht, damit beim Wechsel kein Quiz „durchscheint“.
+  bool _coverQuizForPostAnswer = false;
 
   @override
   void initState() {
@@ -124,9 +127,13 @@ class _QuizScreenState extends State<QuizScreen> {
       barrierDismissible: false,
       builder:
           (context) => AlertDialog(
-            title: const Text('Quiz beendet'),
+            title: const Text(
+              'Quiz beendet',
+              style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+            ),
             content: const Text(
               'Für diese Auswahl gibt es keine freien Fragen mehr: nach richtiger Antwort mindestens einen Monat Sperre, nach falscher eine Woche.',
+              style: TextStyle(fontSize: 15, height: 1.35),
             ),
             actions: [
               TextButton(
@@ -136,6 +143,9 @@ class _QuizScreenState extends State<QuizScreen> {
                     Navigator.of(context).pop();
                   }
                 },
+                style: TextButton.styleFrom(
+                  textStyle: const TextStyle(fontSize: 15),
+                ),
                 child: const Text('OK'),
               ),
             ],
@@ -170,11 +180,12 @@ class _QuizScreenState extends State<QuizScreen> {
       _hasAnswered = true;
     });
 
-    final isCorrect = index == _currentQuestion!.correctAnswerIndex;
+    final question = _currentQuestion!;
+    final isCorrect = index == question.correctAnswerIndex;
 
-    // Warten, bis die Sperre in SharedPreferences steht — sonst kann die nächste Runde die Frage noch ziehen.
-    await QuestionHistoryService.markQuestionAnswered(
-      _currentQuestion!.id,
+    // Historie parallel speichern — Dialog nicht blockieren.
+    final historyFuture = QuestionHistoryService.markQuestionAnswered(
+      question.id,
       isCorrect,
     );
 
@@ -185,39 +196,78 @@ class _QuizScreenState extends State<QuizScreen> {
       SoundService.playIncorrectSound();
     }
 
+    // Feedback (Farbe) sichtbar lassen, Rest (Historie/TTS) läuft parallel.
+    final dialogPrep = _preparePostAnswerDialog(question, isCorrect);
     await Future<void>.delayed(const Duration(milliseconds: 1000));
     if (!mounted) return;
-    await _showFactsAndContinue(_currentQuestion!);
-  }
 
-  Future<void> _showFactsAndContinue(QuizQuestion question) async {
-    final facts =
-        question.facts
-            .map((s) => s.trim())
-            .where((s) => s.isNotEmpty)
-            .toList();
-
+    final prep = await dialogPrep;
     if (!mounted) return;
-    if (facts.isEmpty) {
-      _goToNextAfterResult();
+    if (prep == null) {
+      await historyFuture;
+      if (mounted) _goToNextAfterResult();
       return;
     }
+
+    // TTS schon während Dialog-Öffnung starten (Piper synthesisiert vorher).
+    final autoRead = await FactsDialog.isAutoReadEnabled();
+
+    if (!mounted) return;
+    setState(() => _coverQuizForPostAnswer = true);
+    // Weiße Decke zuerst zeichnen, dann TTS/Route — sonst friert Piper die UI vor dem Cover.
+    await WidgetsBinding.instance.endOfFrame;
+    if (!mounted) return;
+
+    if (autoRead) {
+      // ignore: unawaited_futures
+      TtsService.instance.speak(prep.text);
+    }
+
+    await Navigator.of(context).push<void>(
+      PageRouteBuilder<void>(
+        opaque: true,
+        barrierColor: Colors.white,
+        transitionDuration: Duration.zero,
+        reverseTransitionDuration: Duration.zero,
+        pageBuilder: (context, animation, secondaryAnimation) {
+          return FactsDialog(
+            text: prep.text,
+            title: prep.title,
+            speechAlreadyStarted: autoRead,
+          );
+        },
+        transitionsBuilder: (context, animation, secondaryAnimation, child) {
+          return child;
+        },
+      ),
+    );
+
+    if (mounted) {
+      setState(() => _coverQuizForPostAnswer = false);
+    }
+
+    await historyFuture;
+    if (mounted) _goToNextAfterResult();
+  }
+
+  Future<({String text, String title})?> _preparePostAnswerDialog(
+    QuizQuestion question,
+    bool isCorrect,
+  ) async {
+    if (!isCorrect) {
+      final explanation = question.explanation?.trim() ?? '';
+      if (explanation.isEmpty) return null;
+      return (text: explanation, title: 'Erklärung');
+    }
+
+    final facts = QuestionHistoryService.uniqueNonEmptyFacts(question.facts);
+    if (facts.isEmpty) return null;
 
     final idx = await QuestionHistoryService.takeNextFactDisplayIndex(
       question.id,
       facts.length,
     );
-
-    if (!mounted) return;
-    await showDialog<void>(
-      context: context,
-      barrierDismissible: false,
-      builder: (context) => FactsDialog(fact: facts[idx]),
-    );
-
-    if (mounted) {
-      _goToNextAfterResult();
-    }
+    return (text: facts[idx], title: 'Interessant, dass …');
   }
 
   Color _getAnswerColor(int index) {
@@ -249,57 +299,63 @@ class _QuizScreenState extends State<QuizScreen> {
             ? 'Geschichtsquiz'
             : 'Frage ${_questionIndexInRound + 1} von ${_roundQueue.length}';
 
-    return Scaffold(
-      appBar: AppBar(title: Text(progressTitle)),
-      body: SingleChildScrollView(
+    return Stack(
+      children: [
+        Scaffold(
+          appBar: AppBar(title: Text(progressTitle)),
+          body: SingleChildScrollView(
         child: Padding(
-          padding: const EdgeInsets.all(24),
+          padding: const EdgeInsets.fromLTRB(14, 10, 14, 14),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
                 'Richtig beantwortete Fragen bleiben mindestens einen Kalendermonat aus dem Fragenpool; nach einer falschen Antwort 7 Tage.',
                 style: TextStyle(
-                  fontSize: 14,
-                  height: 1.35,
+                  fontSize: 12,
+                  height: 1.3,
                   color: Colors.grey.shade800,
                 ),
               ),
-              const SizedBox(height: 16),
+              const SizedBox(height: 10),
               Text(
                 question,
                 style: const TextStyle(
-                  fontSize: 24,
+                  fontSize: 20,
                   fontWeight: FontWeight.bold,
+                  height: 1.28,
                 ),
               ),
-              const SizedBox(height: 32),
+              const SizedBox(height: 14),
               ...List.generate(options.length, (index) {
                 return Padding(
-                  padding: const EdgeInsets.only(bottom: 16),
+                  padding: const EdgeInsets.only(bottom: 10),
                   child: InkWell(
                     onTap: () => _selectAnswer(index),
                     child: Container(
                       width: double.infinity,
-                      padding: const EdgeInsets.all(16),
+                      padding: const EdgeInsets.symmetric(
+                        horizontal: 12,
+                        vertical: 11,
+                      ),
                       decoration: BoxDecoration(
                         color: _getAnswerColor(index),
-                        borderRadius: BorderRadius.circular(12),
+                        borderRadius: BorderRadius.circular(10),
                         border: Border.all(
                           color:
                               _selectedAnswerIndex == index
                                   ? Colors.blue
                                   : Colors.grey.shade300,
-                          width: 2,
+                          width: 1.5,
                         ),
                       ),
                       child: Row(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Container(
-                            width: 44,
-                            height: 44,
-                            margin: const EdgeInsets.only(right: 12, top: 2),
+                            width: 34,
+                            height: 34,
+                            margin: const EdgeInsets.only(right: 10, top: 1),
                             alignment: Alignment.center,
                             decoration: BoxDecoration(
                               shape: BoxShape.circle,
@@ -320,18 +376,18 @@ class _QuizScreenState extends State<QuizScreen> {
                                                 index == _selectedAnswerIndex)
                                         ? Colors.white
                                         : Colors.blue,
-                                width: 2,
+                                width: 1.5,
                               ),
                             ),
                             child: FittedBox(
                               fit: BoxFit.scaleDown,
                               child: Padding(
-                                padding: const EdgeInsets.all(4),
+                                padding: const EdgeInsets.all(2),
                                 child: Text(
                                   String.fromCharCode(65 + index),
                                   maxLines: 1,
                                   style: TextStyle(
-                                    fontSize: 20,
+                                    fontSize: 16,
                                     fontWeight: FontWeight.bold,
                                     height: 1,
                                     color:
@@ -348,27 +404,23 @@ class _QuizScreenState extends State<QuizScreen> {
                             ),
                           ),
                           Expanded(
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Text(
-                                  options[index],
-                                  style: TextStyle(
-                                    fontSize: 22,
-                                    color:
-                                        _hasAnswered &&
-                                                (index ==
-                                                        currentQuestion
-                                                            .correctAnswerIndex ||
-                                                    index ==
-                                                        _selectedAnswerIndex)
-                                            ? Colors.white
-                                            : Colors.blue,
-                                    fontWeight: FontWeight.bold,
-                                  ),
-                                  softWrap: true,
-                                ),
-                              ],
+                            child: Text(
+                              options[index],
+                              style: TextStyle(
+                                fontSize: 17,
+                                height: 1.25,
+                                color:
+                                    _hasAnswered &&
+                                            (index ==
+                                                    currentQuestion
+                                                        .correctAnswerIndex ||
+                                                index ==
+                                                    _selectedAnswerIndex)
+                                        ? Colors.white
+                                        : Colors.blue,
+                                fontWeight: FontWeight.w600,
+                              ),
+                              softWrap: true,
                             ),
                           ),
                         ],
@@ -380,7 +432,13 @@ class _QuizScreenState extends State<QuizScreen> {
             ],
           ),
         ),
-      ),
+          ),
+        ),
+        if (_coverQuizForPostAnswer)
+          const Positioned.fill(
+            child: ColoredBox(color: Colors.white),
+          ),
+      ],
     );
   }
 }

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/quiz_question.dart';
+import '../services/question_history_service.dart';
 import '../widgets/facts_dialog.dart';
 import '../widgets/explanation_dialog.dart';
 
@@ -8,11 +9,15 @@ class ResultScreen extends StatelessWidget {
   final bool isCorrect;
   final VoidCallback onContinue;
 
+  /// z. B. «Zur Auswertung» bei der letzten Frage einer Runde
+  final String continueButtonLabel;
+
   const ResultScreen({
     super.key,
     required this.question,
     required this.isCorrect,
     required this.onContinue,
+    this.continueButtonLabel = 'Weiter',
   });
 
   @override
@@ -59,9 +64,9 @@ class ResultScreen extends StatelessWidget {
                   ),
                   minimumSize: const Size(double.infinity, 56),
                 ),
-                child: const Text(
-                  'Weiter',
-                  style: TextStyle(
+                child: Text(
+                  continueButtonLabel,
+                  style: const TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
                   ),
@@ -80,12 +85,30 @@ class ResultScreen extends StatelessWidget {
                       size: 48,
                       color: Colors.amber,
                     ),
-                    onPressed: () {
-                      showDialog(
-                        context: context,
-                        builder: (context) => FactsDialog(
-                          facts: question.facts,
-                          factsTranslated: question.factsTranslated,
+                    onPressed: () async {
+                      final facts = QuestionHistoryService.uniqueNonEmptyFacts(
+                        question.facts,
+                      );
+                      if (facts.isEmpty || !context.mounted) return;
+                      final idx =
+                          await QuestionHistoryService.takeNextFactDisplayIndex(
+                            question.id,
+                            facts.length,
+                          );
+                      if (!context.mounted) return;
+                      await Navigator.of(context).push<void>(
+                        PageRouteBuilder<void>(
+                          opaque: true,
+                          barrierColor: Colors.white,
+                          transitionDuration: Duration.zero,
+                          reverseTransitionDuration: Duration.zero,
+                          pageBuilder: (context, animation, secondaryAnimation) {
+                            return FactsDialog.fact(text: facts[idx]);
+                          },
+                          transitionsBuilder:
+                              (context, animation, secondaryAnimation, child) {
+                            return child;
+                          },
                         ),
                       );
                     },
@@ -99,13 +122,16 @@ class ResultScreen extends StatelessWidget {
                       color: Colors.blue,
                     ),
                     onPressed: () {
-                      if (question.explanation != null && question.explanationTranslated != null) {
+                      if (question.explanation != null &&
+                          question.explanationTranslated != null) {
                         showDialog(
                           context: context,
-                          builder: (context) => ExplanationDialog(
-                            explanation: question.explanation!,
-                            explanationTranslated: question.explanationTranslated!,
-                          ),
+                          builder:
+                              (context) => ExplanationDialog(
+                                explanation: question.explanation!,
+                                explanationTranslated:
+                                    question.explanationTranslated!,
+                              ),
                         );
                       }
                     },
@@ -120,4 +146,3 @@ class ResultScreen extends StatelessWidget {
     );
   }
 }
-

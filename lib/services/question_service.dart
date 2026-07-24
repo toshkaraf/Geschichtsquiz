@@ -1,6 +1,9 @@
 import 'dart:convert';
+import 'dart:math';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import '../models/quiz_question.dart';
+import 'period_epoch_mapper.dart';
 
 class QuestionService {
   static Future<List<QuizQuestion>> loadAllQuestions() async {
@@ -21,6 +24,25 @@ class QuestionService {
       'lib/data/Fragen/Detailed/detailed_251_300_complete.json',
       'lib/data/Fragen/Detailed/detailed_301_350_complete.json',
       'lib/data/Fragen/Detailed/detailed_351_400_complete.json',
+      'lib/data/Fragen/Detailed/detailed_401_450_complete.json',
+      'lib/data/Fragen/Detailed/detailed_451_500_complete.json',
+      'lib/data/Fragen/Detailed/detailed_501_550_greece_b2.json',
+      'lib/data/Fragen/Detailed/medieval_6001_6100.json',
+      'lib/data/Fragen/Detailed/medieval_6101_6200.json',
+      'lib/data/Fragen/Detailed/medieval_6201_6300.json',
+      'lib/data/Fragen/Detailed/medieval_6301_6400.json',
+      'lib/data/Fragen/Detailed/medieval_6401_6500.json',
+      'lib/data/Fragen/Detailed/medieval_6501_6600.json',
+      'lib/data/Fragen/Detailed/medieval_6601_6700.json',
+      'lib/data/Fragen/Detailed/medieval_6701_6800.json',
+      'lib/data/Fragen/Detailed/medieval_6801_6900.json',
+      'lib/data/Fragen/Detailed/medieval_6901_7000.json',
+      'lib/data/Fragen/Detailed/early_modern_7001_7047.json',
+      'lib/data/Fragen/Detailed/early_modern_7048_7147.json',
+      'lib/data/Fragen/Detailed/early_modern_7148_7247.json',
+      'lib/data/Fragen/Detailed/early_modern_7248_7347.json',
+      'lib/data/Fragen/Detailed/neuzeit19_all.json',
+      'lib/data/Fragen/Detailed/zwanzigstes_all.json',
     ];
 
     for (final filePath in jsonFiles) {
@@ -36,11 +58,11 @@ class QuestionService {
             }
           } catch (e) {
             // Überspringe fehlerhafte Fragen
-            print('Fehler beim Parsen einer Frage: $e');
+            debugPrint('Fehler beim Parsen einer Frage: $e');
           }
         }
       } catch (e) {
-        print('Fehler beim Laden von $filePath: $e');
+        debugPrint('Fehler beim Laden von $filePath: $e');
       }
     }
 
@@ -61,8 +83,14 @@ class QuestionService {
       }
 
       // Правильный ответ
-      final String correctAnswerDe = json['correct_answer_de'] ?? '';
-      final String correctAnswerRu = json['correct_answer_ru'] ?? '';
+      final String correctAnswerDe = _toConciseText(
+        json['correct_answer_de'] ?? '',
+        maxSentences: 1,
+      );
+      final String correctAnswerRu = _toConciseText(
+        json['correct_answer_ru'] ?? '',
+        maxSentences: 1,
+      );
       
       if (correctAnswerDe.isEmpty || correctAnswerRu.isEmpty) {
         return null;
@@ -75,10 +103,16 @@ class QuestionService {
       final List<String> wrongAnswersRu = json['wrong_answers_ru'] != null 
           ? List<String>.from(json['wrong_answers_ru']) 
           : [];
+      final conciseWrongAnswersDe = wrongAnswersDe
+          .map((answer) => _toConciseText(answer, maxSentences: 1))
+          .toList();
+      final conciseWrongAnswersRu = wrongAnswersRu
+          .map((answer) => _toConciseText(answer, maxSentences: 1))
+          .toList();
 
       // Все ответы вместе
-      final List<String> allAnswersDe = [correctAnswerDe, ...wrongAnswersDe];
-      final List<String> allAnswersRu = [correctAnswerRu, ...wrongAnswersRu];
+      final List<String> allAnswersDe = [correctAnswerDe, ...conciseWrongAnswersDe];
+      final List<String> allAnswersRu = [correctAnswerRu, ...conciseWrongAnswersRu];
       
       // Позиция правильного ответа (будет перемешано в QuizScreen)
       final correctIndex = 0;
@@ -90,15 +124,19 @@ class QuestionService {
       if (json['interesting_facts'] != null && json['interesting_facts'] is List) {
         for (final fact in json['interesting_facts']) {
           if (fact is Map) {
-            factsDe.add(fact['de'] ?? '');
-            factsRu.add(fact['ru'] ?? '');
+            factsDe.add(_normalizeText(fact['de'] ?? ''));
+            factsRu.add(_normalizeText(fact['ru'] ?? ''));
           }
         }
       }
 
       // Объяснение
-      final String? explanationDe = json['explanation_de'];
-      final String? explanationRu = json['explanation_ru'];
+      final String? explanationDe = json['explanation_de'] != null
+          ? _normalizeText(json['explanation_de'])
+          : null;
+      final String? explanationRu = json['explanation_ru'] != null
+          ? _normalizeText(json['explanation_ru'])
+          : null;
 
       return QuizQuestion(
         id: id,
@@ -112,13 +150,15 @@ class QuestionService {
         explanationDe: explanationDe,
         explanationRu: explanationRu,
         category: json['category'],
-        period: json['period'],
+        period: PeriodEpochMapper.mapRawPeriodToGermanEpoch(
+          json['period'] as String?,
+        ),
         difficulty: json['difficulty'],
         type: json['type'],
         tags: json['tags'] != null ? List<String>.from(json['tags']) : null,
       );
     } catch (e) {
-      print('Fehler beim Parsen: $e');
+      debugPrint('Fehler beim Parsen: $e');
       return null;
     }
   }
@@ -127,6 +167,7 @@ class QuestionService {
     List<QuizQuestion> questions, {
     String? selectedCategory,
     String? selectedPeriod,
+    String? selectedDifficulty,
   }) {
     return questions.where((question) {
       // Filter nach Kategorie (Land)
@@ -140,6 +181,13 @@ class QuestionService {
       if (selectedPeriod != null && 
           selectedPeriod.isNotEmpty &&
           question.period != selectedPeriod) {
+        return false;
+      }
+
+      // Filter nach Schwierigkeitsgrad (Difficulty)
+      if (selectedDifficulty != null && 
+          selectedDifficulty.isNotEmpty &&
+          question.difficulty != selectedDifficulty) {
         return false;
       }
 
@@ -163,8 +211,58 @@ class QuestionService {
         .map((q) => q.period!)
         .toSet()
         .toList();
-    periods.sort();
+    periods.sort(PeriodEpochMapper.compareEpochLabels);
     return periods;
+  }
+
+  static List<String> getUniqueDifficulties(List<QuizQuestion> questions) {
+    final difficulties = questions
+        .where((q) => q.difficulty != null && q.difficulty!.isNotEmpty)
+        .map((q) => q.difficulty!)
+        .toSet()
+        .toList();
+    difficulties.sort();
+    return difficulties;
+  }
+
+  /// Voller Text für Fakten/Erklärungen (nur Leerzeichen normalisieren).
+  static String _normalizeText(dynamic value) {
+    final text = (value ?? '').toString().trim();
+    if (text.isEmpty) return '';
+    return text.replaceAll(RegExp(r'\s+'), ' ').trim();
+  }
+
+  /// Kurzfassung für Antwortoptionen in der Auswahl.
+  static String _toConciseText(
+    dynamic value, {
+    int maxSentences = 2,
+    int maxChars = 220,
+  }) {
+    final text = (value ?? '').toString().trim();
+    if (text.isEmpty) return '';
+
+    // Keep short labels/names untouched.
+    if (!text.contains(RegExp(r'[.!?]')) && text.length <= 80) {
+      return text;
+    }
+
+    final normalized = text.replaceAll(RegExp(r'\s+'), ' ').trim();
+    final sentencePattern = RegExp(r'[^.!?]+[.!?]?');
+    final matches = sentencePattern
+        .allMatches(normalized)
+        .map((m) => m.group(0)!.trim())
+        .where((s) => s.isNotEmpty)
+        .toList();
+
+    if (matches.isEmpty) {
+      return normalized.length <= maxChars
+          ? normalized
+          : '${normalized.substring(0, maxChars - 1).trim()}…';
+    }
+
+    final concise = matches.take(max(1, maxSentences)).join(' ');
+    if (concise.length <= maxChars) return concise;
+    return '${concise.substring(0, maxChars - 1).trim()}…';
   }
 }
 

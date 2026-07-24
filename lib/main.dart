@@ -2,9 +2,12 @@ import 'package:flutter/material.dart';
 import 'models/quiz_question.dart';
 import 'screens/start_screen.dart';
 import 'screens/quiz_screen.dart';
+import 'services/embed_navigation.dart';
 import 'services/question_service.dart';
+import 'widgets/embed_pop_scope.dart';
 
 void main() {
+  EmbedNavigation.init();
   runApp(const MyApp());
 }
 
@@ -15,10 +18,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Geschichtsquiz',
+      navigatorKey: EmbedNavigation.navigatorKey,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
+      builder: (context, child) => EmbedPopScope(child: child ?? const SizedBox()),
       home: const QuizHomePage(),
       routes: {
         '/quiz': (context) => const QuizWrapper(),
