@@ -1,0 +1,18 @@
+.large-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  min-width: 200px;
+  font-size: var(--button-font-size);
+  padding: 20px 40px;
+  min-height: var(--button-height);
+}
+
+@media (max-width: 768px) {
+  .large-button {
+    width: 100%;
+    min-width: auto;
+  }
+}
+
