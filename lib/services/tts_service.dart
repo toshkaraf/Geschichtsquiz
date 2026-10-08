@@ -11,14 +11,10 @@ enum TtsEngine { offlinePiper, serverApi, systemVoice }
 
 /// Singleton TTS service with platform-aware fallback chain.
 ///
-/// Priority on Android/iOS:
-///   1. Offline Piper neural voice (de_DE-dii-high, fully offline after download)
-///   2. System voice via flutter_tts
+/// Default everywhere: system voice via flutter_tts (fast, no delay).
 ///
-/// Priority on Web:
-///   1. Vercel serverless function at [same-origin]/api/tts
-///      → Microsoft de-DE-KatjaNeural
-///   2. Web Speech API via flutter_tts (browser/OS built-in voice)
+/// Optional (opt-in): Offline Piper neural voice on Android/iOS (settings),
+/// and the Vercel `/api/tts` server voice on Web ([_useServerApi]).
 class TtsService {
   TtsService._();
   static final TtsService instance = TtsService._();
@@ -38,7 +34,10 @@ class TtsService {
 
   double _speechRate = defaultSpeechRate;
   double _pitch = 1.0;
-  bool _useOfflinePiper = true;
+  bool _useOfflinePiper = false;
+
+  /// Web: Server-API (/api/tts) ist langsamer als die Browser-Stimme → aus.
+  static const _useServerApi = false;
 
   bool? _apiAvailable;
   DateTime? _lastPingTime;
@@ -66,8 +65,9 @@ class TtsService {
     final prefs = await SharedPreferences.getInstance();
     _speechRate = prefs.getDouble(_prefSpeechRate) ?? defaultSpeechRate;
     _pitch = prefs.getDouble(_prefPitch) ?? 1.0;
-    _useOfflinePiper = prefs.getBool(_prefUseOfflinePiper) ??
-        OfflinePiperTts.instance.isSupported;
+    // Standard: System-Stimme (schnell, ohne Synthese-Verzögerung).
+    // Piper ist nur noch per Opt-in in den Einstellungen aktiv.
+    _useOfflinePiper = prefs.getBool(_prefUseOfflinePiper) ?? false;
 
     await _systemTts.setLanguage('de-DE');
     await _systemTts.setSpeechRate(_speechRate);
@@ -92,7 +92,7 @@ class TtsService {
     }
 
     if (kIsWeb) {
-      unawaited(pingApi());
+      if (_useServerApi) unawaited(pingApi());
     } else if (_useOfflinePiper && OfflinePiperTts.instance.isSupported) {
       unawaited(OfflinePiperTts.instance.ensureReady());
     }
@@ -113,7 +113,7 @@ class TtsService {
       }
     }
 
-    if (kIsWeb && await _tryServerApi(text)) return;
+    if (kIsWeb && _useServerApi && await _tryServerApi(text)) return;
 
     _lastEngine = TtsEngine.systemVoice;
     await _systemTts.speak(text);
