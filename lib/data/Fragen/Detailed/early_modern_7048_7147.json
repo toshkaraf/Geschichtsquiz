@@ -6,14 +6,14 @@
     "correct_answer_de": "Ferdinand Magellan",
     "correct_answer_ru": "Фернан Магеллан",
     "wrong_answers_de": [
-      "Vasco da Gama",
-      "Francis Drake",
-      "James Cook"
+      "Bartolomeu Dias",
+      "Amerigo Vespucci",
+      "Jacques Cartier"
     ],
     "wrong_answers_ru": [
-      "Васко да Гама",
-      "Фрэнсис Дрейк",
-      "Джеймс Кук"
+      "Бартоломеу Диаш",
+      "Америго Веспуччи",
+      "Жак Картье"
     ],
     "explanation_de": "Ferdinand Magellan startete die erste Weltumsegelung, wurde aber auf den Philippinen getötet. Sein Offizier Elcano brachte das letzte Schiff nach Spanien zurück.",
     "explanation_ru": "Фернан Магеллан начал первое кругосветное плавание, но был убит на Филиппинах. Его офицер Элькано довёл последний корабль до Испании.",
@@ -85,8 +85,8 @@
     "id": 7050,
     "question_de": "Warum trennte sich König Heinrich VIII. von England im Jahr 1534 von der katholischen Kirche?",
     "question_ru": "Почему король Генрих VIII Английский в 1534 году отделился от католической церкви?",
-    "correct_answer_de": "Der Papst verweigerte die Scheidung von seiner ersten Frau",
-    "correct_answer_ru": "Папа отказал ему в разводе с первой женой",
+    "correct_answer_de": "Der Papst verweigerte die Scheidung",
+    "correct_answer_ru": "Папа отказал в разводе",
     "wrong_answers_de": [
       "Er wollte Lutheraner werden",
       "Er wollte Kirchengüter beschlagnahmen",
@@ -211,14 +211,14 @@
     "correct_answer_de": "Johannes Kepler",
     "correct_answer_ru": "Иоганн Кеплер",
     "wrong_answers_de": [
-      "Tycho Brahe",
-      "Galileo Galilei",
-      "Isaac Newton"
+      "Nikolaus Kopernikus",
+      "Christiaan Huygens",
+      "Edmond Halley"
     ],
     "wrong_answers_ru": [
-      "Тихо Браге",
-      "Галилео Галилей",
-      "Исаак Ньютон"
+      "Николай Коперник",
+      "Христиан Гюйгенс",
+      "Эдмонд Галлей"
     ],
     "explanation_de": "Johannes Kepler formulierte drei Gesetze, die die elliptischen Bahnen der Planeten um die Sonne beschreiben.",
     "explanation_ru": "Иоганн Кеплер сформулировал три закона, описывающих эллиптические орбиты планет вокруг Солнца.",
@@ -293,14 +293,14 @@
     "correct_answer_de": "René Descartes",
     "correct_answer_ru": "Рене Декарт",
     "wrong_answers_de": [
-      "John Locke",
+      "Blaise Pascal",
       "Baruch Spinoza",
-      "Gottfried Leibniz"
+      "David Hume"
     ],
     "wrong_answers_ru": [
-      "Джон Локк",
+      "Блез Паскаль",
       "Барух Спиноза",
-      "Готфрид Лейбниц"
+      "Дэвид Юм"
     ],
     "explanation_de": "René Descartes stellte alles Wissen in Frage und fand im eigenen Denken den einzigen sicheren Beweis der Existenz.",
     "explanation_ru": "Рене Декарт подверг сомнению все знания и нашёл в собственном мышлении единственное надёжное доказательство существования.",
@@ -335,13 +335,13 @@
     "correct_answer_ru": "Джон Локк",
     "wrong_answers_de": [
       "Thomas Hobbes",
-      "Francis Bacon",
-      "David Hume"
+      "Robert Boyle",
+      "Jeremy Bentham"
     ],
     "wrong_answers_ru": [
       "Томас Гоббс",
-      "Фрэнсис Бэкон",
-      "Дэвид Юм"
+      "Роберт Бойль",
+      "Иеремия Бентам"
     ],
     "explanation_de": "John Locke lehrte, dass Menschen von Natur aus Rechte auf Leben, Freiheit und Eigentum haben, und beeinflusste die amerikanische Unabhängigkeitserklärung.",
     "explanation_ru": "Джон Локк учил, что люди от природы обладают правами на жизнь, свободу и собственность, и повлиял на американскую Декларацию независимости.",
@@ -375,14 +375,14 @@
     "correct_answer_de": "Thomas Hobbes",
     "correct_answer_ru": "Томас Гоббс",
     "wrong_answers_de": [
-      "John Locke",
-      "Jean-Jacques Rousseau",
-      "Montesquieu"
+      "Francis Bacon",
+      "Samuel Pufendorf",
+      "Hugo Grotius"
     ],
     "wrong_answers_ru": [
-      "Джон Локк",
-      "Жан-Жак Руссо",
-      "Монтескьё"
+      "Фрэнсис Бэкон",
+      "Самуэль Пуфендорф",
+      "Гуго Гроций"
     ],
     "explanation_de": "Thomas Hobbes beschrieb das Leben ohne Staat als „solitary, poor, nasty, brutish, and short\" und forderte einen starken Souverän.",
     "explanation_ru": "Томас Гоббс описал жизнь без государства как «одинокую, бедную, отвратительную, жестокую и короткую» и требовал сильного суверена.",
@@ -417,13 +417,13 @@
     "correct_answer_ru": "Жан-Жак Руссо",
     "wrong_answers_de": [
       "Voltaire",
-      "Denis Diderot",
-      "Montesquieu"
+      "Immanuel Kant",
+      "Adam Smith"
     ],
     "wrong_answers_ru": [
       "Вольтер",
-      "Дени Дидро",
-      "Монтескьё"
+      "Иммануил Кант",
+      "Адам Смит"
     ],
     "explanation_de": "Rousseau lehrte, dass politische Autorität vom Willen des Volkes ausgeht – eine Idee, die die Revolutionäre von 1789 begeisterte.",
     "explanation_ru": "Руссо учил, что политическая власть исходит из воли народа — идея, воодушевившая революционеров 1789 года.",
@@ -457,14 +457,14 @@
     "correct_answer_de": "Montesquieu",
     "correct_answer_ru": "Монтескьё",
     "wrong_answers_de": [
-      "Voltaire",
-      "Rousseau",
-      "Locke"
+      "Condorcet",
+      "Turgot",
+      "Diderot"
     ],
     "wrong_answers_ru": [
-      "Вольтер",
-      "Руссо",
-      "Локк"
+      "Кондорсе",
+      "Тюрго",
+      "Дидро"
     ],
     "explanation_de": "Montesquieu forderte die Trennung von gesetzgebender, ausführender und richterlicher Gewalt, um Machtmissbrauch zu verhindern.",
     "explanation_ru": "Монтескьё требовал разделения законодательной, исполнительной и судебной власти для предотвращения злоупотреблений.",
@@ -703,14 +703,14 @@
     "correct_answer_de": "Ludwig XIV.",
     "correct_answer_ru": "Людовик XIV",
     "wrong_answers_de": [
-      "Ludwig XIII.",
-      "Ludwig XV.",
-      "Napoleon I."
+      "Heinrich IV.",
+      "Karl X.",
+      "Ludwig XVI."
     ],
     "wrong_answers_ru": [
-      "Людовик XIII",
-      "Людовик XV",
-      "Наполеон I"
+      "Генрих IV",
+      "Карл X",
+      "Людовик XVI"
     ],
     "explanation_de": "Ludwig XIV. ließ Versailles ausbauen und zwang den Hochadel, am Hof zu leben – so konnte er ihn beaufsichtigen.",
     "explanation_ru": "Людовик XIV расширил Версаль и вынудил высшую знать жить при дворе — так он мог держать её под надзором.",
@@ -786,12 +786,12 @@
     "correct_answer_ru": "Амстердам",
     "wrong_answers_de": [
       "London",
-      "Venedig",
+      "Genua",
       "Antwerpen"
     ],
     "wrong_answers_ru": [
       "Лондон",
-      "Венеция",
+      "Генуя",
       "Антверпен"
     ],
     "explanation_de": "Die Amsterdamer Börse war die erste Wertpapierbörse der Welt und ermöglichte den Handel mit VOC-Aktien.",
@@ -823,8 +823,8 @@
     "id": 7068,
     "question_de": "Was versteht man unter dem „Dreieckshandel\" zwischen Europa, Afrika und Amerika?",
     "question_ru": "Что понимается под «треугольной торговлей» между Европой, Африкой и Америкой?",
-    "correct_answer_de": "Den Handel mit europäischen Waren, afrikanischen Sklaven und amerikanischen Rohstoffen",
-    "correct_answer_ru": "Торговля европейскими товарами, африканскими рабами и американским сырьём",
+    "correct_answer_de": "Den Handel mit Waren, Sklaven und Rohstoffen zwischen drei Kontinenten",
+    "correct_answer_ru": "Торговлю товарами, рабами и сырьём между тремя континентами",
     "wrong_answers_de": [
       "Den Gewürzhandel zwischen drei Kontinenten",
       "Die Schifffahrtsroute um die Welt",
@@ -1031,14 +1031,14 @@
     "correct_answer_de": "Süleyman I. (der Prächtige)",
     "correct_answer_ru": "Сулейман I (Великолепный)",
     "wrong_answers_de": [
-      "Mehmed II.",
-      "Selim I.",
-      "Murad III."
+      "Bayezid II.",
+      "Mehmed IV.",
+      "Ibrahim I."
     ],
     "wrong_answers_ru": [
-      "Мехмед II",
-      "Селим I",
-      "Мурад III"
+      "Баязид II",
+      "Мехмед IV",
+      "Ибрагим I"
     ],
     "explanation_de": "Süleyman I. regierte von 1520 bis 1566 und führte das Osmanische Reich auf seinen territorialen Höhepunkt.",
     "explanation_ru": "Сулейман I правил с 1520 по 1566 год и привёл Османскую империю к её территориальному пику.",
@@ -1113,14 +1113,14 @@
     "correct_answer_de": "Niederlande",
     "correct_answer_ru": "Нидерланды",
     "wrong_answers_de": [
-      "Portugal",
-      "Belgien",
-      "Schweiz"
+      "Toskana",
+      "Bayern",
+      "Katalonien"
     ],
     "wrong_answers_ru": [
-      "Португалия",
-      "Бельгия",
-      "Швейцария"
+      "Тоскана",
+      "Бавария",
+      "Каталония"
     ],
     "explanation_de": "Die Niederlande kämpften 80 Jahre lang gegen die spanische Herrschaft und erlangten ihre Unabhängigkeit mit dem Westfälischen Frieden.",
     "explanation_ru": "Нидерланды воевали 80 лет против испанского владычества и получили независимость по Вестфальскому миру.",
@@ -1318,14 +1318,14 @@
     "correct_answer_de": "Francis Drake",
     "correct_answer_ru": "Фрэнсис Дрейк",
     "wrong_answers_de": [
-      "Walter Raleigh",
-      "John Hawkins",
-      "Henry Morgan"
+      "Thomas Cavendish",
+      "William Dampier",
+      "George Anson"
     ],
     "wrong_answers_ru": [
-      "Уолтер Рэли",
-      "Джон Хокинс",
-      "Генри Морган"
+      "Томас Кавендиш",
+      "Уильям Дампир",
+      "Джордж Ансон"
     ],
     "explanation_de": "Francis Drake umrundete als zweiter Mensch die Erde und war der erste Engländer, der das schaffte.",
     "explanation_ru": "Фрэнсис Дрейк стал вторым человеком, совершившим кругосветное плавание, и первым англичанином, которому это удалось.",
@@ -1479,8 +1479,8 @@
     "id": 7084,
     "question_de": "Was war der Deutsche Bauernkrieg (1524–1526) und was forderten die Bauern?",
     "question_ru": "Что такое Крестьянская война в Германии (1524–1526) и что требовали крестьяне?",
-    "correct_answer_de": "Ein Aufstand gegen Adel und Kirche mit Forderungen nach Freiheit und sozialer Gerechtigkeit",
-    "correct_answer_ru": "Восстание против дворянства и церкви с требованиями свободы и социальной справедливости",
+    "correct_answer_de": "Ein Aufstand gegen Adel und Kirche für Freiheit und Gerechtigkeit",
+    "correct_answer_ru": "Восстание против знати и церкви за свободу и справедливость",
     "wrong_answers_de": [
       "Ein Religionskrieg zwischen Protestanten und Katholiken",
       "Ein Aufstand gegen den Kaiser",
@@ -1523,14 +1523,14 @@
     "correct_answer_de": "Maria Stuart",
     "correct_answer_ru": "Мария Стюарт",
     "wrong_answers_de": [
-      "Maria Tudor",
-      "Katharina von Aragon",
-      "Anne Boleyn"
+      "Jane Grey",
+      "Arabella Stuart",
+      "Maria von Guise"
     ],
     "wrong_answers_ru": [
-      "Мария Тюдор",
-      "Екатерина Арагонская",
-      "Анна Болейн"
+      "Джейн Грей",
+      "Арабелла Стюарт",
+      "Мария де Гиз"
     ],
     "explanation_de": "Maria Stuart, Königin von Schottland und Frankreich, wurde nach 19 Jahren Gefangenschaft als Bedrohung für Elisabeths Thron hingerichtet.",
     "explanation_ru": "Мария Стюарт, королева Шотландии и Франции, была казнена после 19 лет заключения как угроза трону Елизаветы.",
@@ -1684,8 +1684,8 @@
     "id": 7089,
     "question_de": "Was waren die Silberminen von Potosí und welche Bedeutung hatten sie für die Frühe Neuzeit?",
     "question_ru": "Что такое серебряные рудники Потоси и какое значение они имели для Раннего Нового времени?",
-    "correct_answer_de": "Die reichsten Silberminen der Welt im heutigen Bolivien – sie finanzierten das spanische Reich",
-    "correct_answer_ru": "Богатейшие серебряные рудники мира в нынешней Боливии — они финансировали Испанскую империю",
+    "correct_answer_de": "Die reichsten Silberminen der Welt im heutigen Bolivien",
+    "correct_answer_ru": "Богатейшие серебряные рудники мира на территории нынешней Боливии",
     "wrong_answers_de": [
       "Goldminen in Mexiko",
       "Kupferminen in Peru",
@@ -1725,8 +1725,8 @@
     "id": 7090,
     "question_de": "Was war das Encomienda-System in den spanischen Kolonien?",
     "question_ru": "Что такое система энкомьенды в испанских колониях?",
-    "correct_answer_de": "Ein System, bei dem Kolonisatoren das Recht bekamen, indigene Arbeitskräfte zu nutzen",
-    "correct_answer_ru": "Система, по которой колонизаторы получали право использовать труд коренного населения",
+    "correct_answer_de": "Kolonisatoren durften indigene Arbeitskräfte nutzen",
+    "correct_answer_ru": "Колонизаторы получали право использовать труд коренных жителей",
     "wrong_answers_de": [
       "Ein Handelssystem für Gewürze",
       "Eine Art Grundbuch für Landbesitz",
@@ -2217,8 +2217,8 @@
     "id": 7102,
     "question_de": "Wofür war die Spanische Inquisition, die 1478 gegründet wurde, besonders berüchtigt?",
     "question_ru": "Чем особенно прославилась Испанская инквизиция, основанная в 1478 году?",
-    "correct_answer_de": "Verfolgung von Juden, Muslimen und Ketzern durch Verhöre und Folter",
-    "correct_answer_ru": "Преследование евреев, мусульман и еретиков с помощью допросов и пыток",
+    "correct_answer_de": "Verfolgung von Juden, Muslimen und Ketzern",
+    "correct_answer_ru": "Преследование евреев, мусульман и еретиков",
     "wrong_answers_de": [
       "Verwaltung der Kolonien in Amerika",
       "Kontrolle des Seehandels",
@@ -2258,8 +2258,8 @@
     "id": 7103,
     "question_de": "Was versteht man unter dem 'Kolumbianischen Austausch' nach 1492?",
     "question_ru": "Что понимают под «Колумбовым обменом» после 1492 года?",
-    "correct_answer_de": "Den weltweiten Austausch von Pflanzen, Tieren und Krankheiten zwischen Amerika und Europa",
-    "correct_answer_ru": "Глобальный обмен растениями, животными и болезнями между Америкой и Европой",
+    "correct_answer_de": "Den Austausch von Pflanzen, Tieren und Krankheiten zwischen den Kontinenten",
+    "correct_answer_ru": "Обмен растениями, животными и болезнями между континентами",
     "wrong_answers_de": [
       "Den Sklavenhandel zwischen Afrika und Amerika",
       "Den Gewürzhandel mit Asien",
@@ -2507,12 +2507,12 @@
     "correct_answer_de": "Florenz",
     "correct_answer_ru": "Флоренция",
     "wrong_answers_de": [
-      "Venedig",
+      "Neapel",
       "Rom",
       "Mailand"
     ],
     "wrong_answers_ru": [
-      "Венеция",
+      "Неаполь",
       "Рим",
       "Милан"
     ],
@@ -2752,8 +2752,8 @@
     "id": 7115,
     "question_de": "Wofür ist Leonardo da Vinci neben seiner Malerei (Mona Lisa, Abendmahl) besonders bekannt?",
     "question_ru": "Чем известен Леонардо да Винчи помимо живописи (Мона Лиза, Тайная вечеря)?",
-    "correct_answer_de": "Als Erfinder und Wissenschaftler mit Entwürfen für Flugmaschinen, Tanks und Anatomie",
-    "correct_answer_ru": "Как изобретатель и учёный, создавший чертежи летательных аппаратов, танков и анатомические рисунки",
+    "correct_answer_de": "Als Erfinder und Wissenschaftler mit Flugmaschinen-Entwürfen",
+    "correct_answer_ru": "Как изобретатель и учёный с проектами летательных аппаратов",
     "wrong_answers_de": [
       "Als Komponist höfischer Musik",
       "Als Architekt des Petersdoms",
@@ -2889,8 +2889,8 @@
       "Аугсбургский религиозный мир",
       "Марбургский диспут"
     ],
-    "explanation_de": "Auf dem Reichstag zu Worms (1521) forderte Kaiser Karl V. Luther auf, seine Lehren zu widerrufen. Luther lehnte ab und wurde daraufhin geächtet – doch der sächsische Kurfürst schützte ihn auf der Wartburg.",
-    "explanation_ru": "На Вормсском рейхстаге (1521) император Карл V потребовал от Лютера отречься от своих учений. Лютер отказался и был объявлен вне закона — однако саксонский курфюрст укрыл его в Вартбурге.",
+    "explanation_de": "Auf dem Reichstag zu Worms verlangte Karl V. 1521, dass Luther widerrufe. Luther weigerte sich, wurde geächtet und fand Schutz auf der Wartburg.",
+    "explanation_ru": "На Вормсском рейхстаге в 1521 году Карл V потребовал от Лютера отречься. Лютер отказался, был объявлен вне закона и укрылся в Вартбурге.",
     "difficulty": "medium",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -2921,14 +2921,14 @@
     "correct_answer_de": "Augsburger Religionsfriede",
     "correct_answer_ru": "Аугсбургский религиозный мир",
     "wrong_answers_de": [
-      "Westfälischer Friede",
-      "Edikt von Nantes",
-      "Konkordanz von Worms"
+      "Passauer Vertrag",
+      "Nürnberger Anstand",
+      "Augsburger Interim"
     ],
     "wrong_answers_ru": [
-      "Вестфальский мир",
-      "Нантский эдикт",
-      "Вормсский конкордат"
+      "Пассауский договор",
+      "Нюрнбергский религиозный мир",
+      "Аугсбургский интерим"
     ],
     "explanation_de": "Der Augsburger Religionsfriede legte den Grundsatz 'cuius regio, eius religio' fest – der Fürst bestimmt die Religion seines Landes. Calvinisten wurden nicht anerkannt.",
     "explanation_ru": "Аугсбургский религиозный мир закрепил принцип «чья власть, того и вера» — правитель определяет религию своей земли. Кальвинисты при этом признаны не были.",
@@ -3250,8 +3250,8 @@
     "id": 7127,
     "question_de": "Warum scheiterte die spanische Armada 1588 bei ihrem Versuch, England zu besiegen?",
     "question_ru": "Почему Непобедимая армада потерпела поражение в 1588 году при попытке завоевать Англию?",
-    "correct_answer_de": "Durch englische Brandschiffe und schwere Stürme wurde die Flotte zerstört",
-    "correct_answer_ru": "Английские брандеры и сильные штормы уничтожили флот",
+    "correct_answer_de": "Brandschiffe und schwere Stürme zerstörten die Flotte",
+    "correct_answer_ru": "Брандеры и сильные штормы уничтожили флот",
     "wrong_answers_de": [
       "Die englische Flotte war zahlenmäßig größer",
       "Spanien lief absichtlich auf Grund",
@@ -3336,14 +3336,14 @@
     "correct_answer_de": "Süleyman der Prächtige",
     "correct_answer_ru": "Сулейман Великолепный",
     "wrong_answers_de": [
-      "Mehmed II.",
-      "Selim I.",
-      "Murad IV."
+      "Bayezid II.",
+      "Ahmed I.",
+      "Murad III."
     ],
     "wrong_answers_ru": [
-      "Мехмед II",
-      "Селим I",
-      "Мурад IV"
+      "Баязид II",
+      "Ахмед I",
+      "Мурад III"
     ],
     "explanation_de": "Süleyman I. belagerte Wien 1529 mit einem Heer von über 100.000 Mann, musste aber nach drei Wochen wegen schlechten Wetters und Versorgungsproblemen abziehen.",
     "explanation_ru": "Сулейман I осадил Вену в 1529 году с армией более 100 000 человек, но через три недели был вынужден отступить из-за плохой погоды и проблем со снабжением.",
@@ -3374,8 +3374,8 @@
     "id": 7130,
     "question_de": "Was verstand man unter der 'Karavelle', die die Entdeckungsreisenden des 15. und 16. Jahrhunderts bevorzugten?",
     "question_ru": "Что понималось под «каравеллой» — судном, которое предпочитали мореплаватели-первооткрыватели XV–XVI веков?",
-    "correct_answer_de": "Ein wendiges, seegehärtetes Schiff mit Dreieckssegeln für schnelle Ozeanfahrten",
-    "correct_answer_ru": "Манёвренное мореходное судно с треугольными парусами для быстрых океанских плаваний",
+    "correct_answer_de": "Ein wendiges Schiff mit Dreieckssegeln für Ozeanfahrten",
+    "correct_answer_ru": "Манёвренное судно с косыми парусами для океанских плаваний",
     "wrong_answers_de": [
       "Ein schwer bewaffnetes Kriegsschiff",
       "Ein Handelsschiff für Flüsse",
@@ -3706,8 +3706,8 @@
     "id": 7138,
     "question_de": "Was war das Edikt von Fontainebleau (1685) und welche Folgen hatte es für Frankreich?",
     "question_ru": "Что такое Фонтенблоский эдикт (1685) и каковы были его последствия для Франции?",
-    "correct_answer_de": "Es widerrief das Edikt von Nantes und zwang Protestanten zur Auswanderung",
-    "correct_answer_ru": "Он отменил Нантский эдикт и вынудил протестантов эмигрировать",
+    "correct_answer_de": "Es widerrief das Edikt von Nantes",
+    "correct_answer_ru": "Оно отменило Нантский эдикт",
     "wrong_answers_de": [
       "Es gründete die Académie française",
       "Es erklärte den Krieg gegen Spanien",
@@ -3833,17 +3833,17 @@
     "correct_answer_de": "Selim I. (Selim der Grimmige)",
     "correct_answer_ru": "Селим I (Селим Грозный)",
     "wrong_answers_de": [
-      "Süleyman I.",
-      "Bayezid II.",
-      "Mehmed II."
+      "Murad II.",
+      "Bayezid I.",
+      "Mehmed III."
     ],
     "wrong_answers_ru": [
-      "Сулейман I",
-      "Баязид II",
-      "Мехмед II"
+      "Мурад II",
+      "Баязид I",
+      "Мехмед III"
     ],
-    "explanation_de": "Selim I. verdreifachte das osmanische Reich in nur acht Jahren – er besiegte Safawiden-Persien bei Tschaldiran (1514) und Ägypten 1517. Mit dem Khalifat übernahm er die religiöse Führung des sunnitischen Islams.",
-    "explanation_ru": "Селим I утроил Османскую империю всего за восемь лет — разгромил сефевидскую Персию при Чалдыране (1514) и Египет в 1517 году. С халифатом он принял религиозное руководство суннитским исламом.",
+    "explanation_de": "Selim I. verdreifachte das Osmanische Reich in acht Jahren, besiegte 1514 die Safawiden und 1517 Ägypten und übernahm das Kalifat.",
+    "explanation_ru": "Селим I за восемь лет утроил Османскую империю, победил в 1514 году сефевидов, в 1517-м Египет и принял титул халифа.",
     "difficulty": "hard",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -3874,14 +3874,14 @@
     "correct_answer_de": "Dreißigjähriger Krieg",
     "correct_answer_ru": "Тридцатилетняя война",
     "wrong_answers_de": [
-      "Siebenjähriger Krieg",
-      "Schmalkaldischer Krieg",
-      "Pfälzer Erbfolgekrieg"
+      "Achtzigjähriger Krieg",
+      "Truchsessischer Krieg",
+      "Livländischer Krieg"
     ],
     "wrong_answers_ru": [
-      "Семилетняя война",
-      "Шмалькальденская война",
-      "Война за Пфальцское наследство"
+      "Восьмидесятилетняя война",
+      "Кёльнская война",
+      "Ливонская война"
     ],
     "explanation_de": "Der Dreißigjährige Krieg begann 1618 mit dem Prager Fenstersturz und erfasste bald ganz Europa. Er endete 1648 mit dem Westfälischen Frieden.",
     "explanation_ru": "Тридцатилетняя война началась в 1618 году с Пражской дефенестрации и вскоре охватила всю Европу. Она завершилась в 1648 году Вестфальским миром.",
@@ -3998,17 +3998,17 @@
     "correct_answer_de": "Schmalkaldischer Krieg",
     "correct_answer_ru": "Шмалькальденская война",
     "wrong_answers_de": [
-      "Dreißigjähriger Krieg",
       "Bauernkrieg",
-      "Nordischer Krieg"
+      "Sickingen-Fehde",
+      "Kappelerkrieg"
     ],
     "wrong_answers_ru": [
-      "Тридцатилетняя война",
       "Крестьянская война",
-      "Северная война"
+      "Феода Зикингена",
+      "Каппельская война"
     ],
-    "explanation_de": "Der Schmalkaldische Bund, ein Bündnis protestantischer Fürsten, wurde von Karl V. bei Mühlberg (1547) besiegt. Trotzdem konnte Karl die Reformation nicht stoppen – 1555 folgte der Augsburger Religionsfriede.",
-    "explanation_ru": "Шмалькальденский союз — объединение протестантских князей — был разгромлен Карлом V при Мюльберге (1547). Тем не менее остановить Реформацию Карлу не удалось — в 1555 году был заключён Аугсбургский религиозный мир.",
+    "explanation_de": "Karl V. besiegte 1547 bei Mühlberg den Schmalkaldischen Bund, konnte die Reformation aber nicht aufhalten; 1555 folgte der Augsburger Religionsfriede.",
+    "explanation_ru": "Карл V разбил в 1547 году при Мюльберге Шмалькальденский союз, но не остановил Реформацию: в 1555 году последовал Аугсбургский мир.",
     "difficulty": "hard",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -4090,8 +4090,8 @@
       "Георг Филипп Телеман",
       "Генрих Шютц"
     ],
-    "explanation_de": "Bach arbeitete als Thomaskantor in Leipzig und komponierte Kirchenmusik, Orgelwerke und Instrumentalmusik. Sein Werk wurde zu Lebzeiten wenig beachtet und erst im 19. Jahrhundert wiederentdeckt.",
-    "explanation_ru": "Бах служил кантором церкви Святого Фомы в Лейпциге и сочинял церковную музыку, органные произведения и инструментальную музыку. При жизни его творчество пользовалось малой известностью и было вновь открыто лишь в XIX веке.",
+    "explanation_de": "Bach war Thomaskantor in Leipzig und komponierte Kirchen-, Orgel- und Instrumentalmusik. Zu Lebzeiten wenig beachtet, wurde er im 19. Jahrhundert wiederentdeckt.",
+    "explanation_ru": "Бах был кантором церкви Святого Фомы в Лейпциге и писал церковную, органную и инструментальную музыку. При жизни его мало ценили, заново открыли лишь в XIX веке.",
     "difficulty": "easy",
     "category": "Frühe Neuzeit",
     "type": "factual",

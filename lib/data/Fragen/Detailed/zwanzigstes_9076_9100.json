@@ -3,17 +3,28 @@
     "id": 9076,
     "question_de": "Was war die Entstehung des Internets und seine wichtigsten Meilensteine?",
     "question_ru": "Что такое возникновение интернета и его важнейшие вехи?",
-    "correct_answer_de": "ARPANET (1969) → World Wide Web (Tim Berners-Lee 1991) → Masseninternet (1993) → Google (1998) → soziale Medien (2004+)",
-    "correct_answer_ru": "ARPANET (1969) → Всемирная паутина (Тим Бернерс-Ли, 1991) → массовый интернет (1993) → Google (1998) → социальные сети (2004+)",
-    "wrong_answers_de": ["Das Internet wurde 1985 von Microsoft entwickelt und zuerst für Heimcomputer genutzt", "Tim Berners-Lee erfand das Internet 1989 für militärische Zwecke am MIT in den USA", "Das erste öffentliche Internet entstand 1975 als Weiterentwicklung des sowjetischen OGAS-Systems"],
-    "wrong_answers_ru": ["Интернет был разработан Microsoft в 1985 году и впервые использовался для домашних компьютеров", "Тим Бернерс-Ли изобрёл интернет в 1989 году для военных целей в MIT в США", "Первый публичный интернет возник в 1975 году как развитие советской системы ОГАС"],
-    "explanation_de": "ARPANET (1969): US-Militär. TCP/IP-Protokoll (1983). Berners-Lee (CERN, Genf) erfand 1991 HTML/URL/HTTP. Mosaic-Browser (1993) für alle. Netscape, Internet Explorer. Amazon (1994), Google (1998). Dotcom-Blase (2000). Facebook (2004), YouTube (2005), Twitter (2006), iPhone (2007). Revolution der Kommunikation.",
-    "explanation_ru": "ARPANET (1969): армия США. Протокол TCP/IP (1983). Бернерс-Ли (ЦЕРН, Женева) изобрёл в 1991 году HTML/URL/HTTP. Браузер Mosaic (1993) для всех. Netscape, Internet Explorer. Amazon (1994), Google (1998). Дотком-пузырь (2000). Facebook (2004), YouTube (2005), Twitter (2006), iPhone (2007). Революция коммуникации.",
+    "correct_answer_de": "ARPANET → World Wide Web → Google → soziale Medien",
+    "correct_answer_ru": "ARPANET → всемирная паутина → Google → социальные сети",
+    "wrong_answers_de": [
+      "Microsoft entwickelte das Internet 1985 für Heimcomputer",
+      "Berners-Lee erfand das Internet 1989 für das US-Militär am MIT",
+      "Das öffentliche Internet entstand 1975 aus dem sowjetischen OGAS"
+    ],
+    "wrong_answers_ru": [
+      "Microsoft разработала интернет в 1985 году для домашних компьютеров",
+      "Бернерс-Ли изобрёл интернет в 1989 году для военных в MIT",
+      "Публичный интернет возник в 1975 году из советской системы ОГАС"
+    ],
+    "explanation_de": "Das ARPANET (1969) war ein US-Militärprojekt, TCP/IP kam 1983. Berners-Lee erfand 1991 das Web, 1993 machte der Browser Mosaic es allen zugänglich; es folgten Google, Facebook und das iPhone.",
+    "explanation_ru": "ARPANET (1969) был военным проектом США, TCP/IP появился в 1983 году. Бернерс-Ли изобрёл в 1991 году Всемирную паутину, браузер Mosaic в 1993-м сделал её доступной всем.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1995 CE",
-    "tags": ["Technologie", "USA"],
+    "tags": [
+      "Technologie",
+      "USA"
+    ],
     "interesting_facts": [
       {
         "de": "Tim Berners-Lee patentierte das Web nicht – er schenkte es der Menschheit frei.",
@@ -33,17 +44,29 @@
     "id": 9077,
     "question_de": "Was war die AIDS-Epidemie und ihre globale Bedeutung?",
     "question_ru": "Что такое эпидемия СПИДа и её глобальное значение?",
-    "correct_answer_de": "AIDS (HIV-Virus, ab 1981 bekannt) tötete bis 2000 über 20 Millionen Menschen – vor allem in Afrika und unter Risikogruppen",
-    "correct_answer_ru": "СПИД (ВИЧ, известен с 1981 года) убил до 2000 года более 20 миллионов человек — прежде всего в Африке и среди групп риска",
-    "wrong_answers_de": ["AIDS wurde 1970 entdeckt und durch Impfprogramme bis 1990 vollständig besiegt", "HIV/AIDS ist eine rein afrikanische Krankheit und betraf westliche Länder kaum", "AIDS wurde durch Bluttransfusionen verbreitet – sexuelle Übertragung wurde erst 2000 nachgewiesen"],
-    "wrong_answers_ru": ["СПИД был открыт в 1970 году и полностью побеждён к 1990-му программами вакцинации", "ВИЧ/СПИД является исключительно африканской болезнью и практически не затронул западные страны", "СПИД распространялся через переливание крови — сексуальная передача была доказана лишь в 2000 году"],
-    "explanation_de": "1981: erste Fälle in USA (schwule Männer). 1983: HIV als Ursache identifiziert (Luc Montagnier, Robert Gallo). Reagan ignorierte Epidemie anfangs. Rock Hudson 1985, Freddie Mercury 1991. In Sub-Sahara Afrika: 25 Mio. Infizierte. Antiretrovirale Therapie ab 1996. Heute heilbar/kontrollierbar mit Medikamenten.",
-    "explanation_ru": "1981 год: первые случаи в США (геи). 1983 год: ВИЧ определён как причина (Люк Монтанье, Роберт Галло). Рейган поначалу игнорировал эпидемию. Рок Хадсон 1985, Фредди Меркьюри 1991. В Африке к югу от Сахары: 25 млн инфицированных. Антиретровирусная терапия с 1996 года. Сегодня излечимо/контролируемо с лекарствами.",
+    "correct_answer_de": "AIDS (HIV) tötete bis 2000 über 20 Millionen Menschen",
+    "correct_answer_ru": "СПИД (ВИЧ) к 2000 году унёс более 20 миллионов жизней",
+    "wrong_answers_de": [
+      "AIDS wurde 1970 entdeckt und bis 1990 besiegt",
+      "HIV/AIDS ist rein afrikanisch und betraf den Westen kaum",
+      "AIDS wurde durch Bluttransfusionen verbreitet, nicht sexuell"
+    ],
+    "wrong_answers_ru": [
+      "СПИД открыли в 1970 году и победили к 1990-му",
+      "ВИЧ/СПИД — чисто африканская болезнь, Запад почти не затронут",
+      "СПИД распространялся через переливания крови, а не половым путём"
+    ],
+    "explanation_de": "1981 traten die ersten Fälle in den USA auf, 1983 identifizierten Montagnier und Gallo das HI-Virus. In Afrika südlich der Sahara starben Millionen; seit 1996 lässt es sich medikamentös kontrollieren.",
+    "explanation_ru": "В 1981 году в США появились первые случаи, в 1983-м Монтанье и Галло выявили ВИЧ. В Африке к югу от Сахары погибли миллионы; с 1996 года вирус можно контролировать лекарствами.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1988 CE",
-    "tags": ["Gesundheit", "Gesellschaft", "Wissenschaft"],
+    "tags": [
+      "Gesundheit",
+      "Gesellschaft",
+      "Wissenschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Freddie Mercurys Tod 1991 sensibilisierte die Öffentlichkeit für AIDS wie kein anderer Prominenter.",
@@ -63,17 +86,29 @@
     "id": 9078,
     "question_de": "Was war der Irak-Krieg 2003 und seine Folgen?",
     "question_ru": "Что такое война в Ираке 2003 года и её последствия?",
-    "correct_answer_de": "USA und Koalition invadierten 2003 Irak (kein UN-Mandat) – stürzten Saddam Hussein, aber führten zur Destabilisierung der Region",
-    "correct_answer_ru": "США и коалиция вторглись в Ирак в 2003 году (без мандата ООН) — свергли Саддама Хусейна, но привели к дестабилизации региона",
-    "wrong_answers_de": ["Der Irak-Krieg 2003 wurde durch ein UN-Mandat genehmigt und von Deutschland unterstützt", "Massenvernichtungswaffen wurden in Irak nach der Invasion in großen Mengen gefunden", "Saddam Hussein wurde im Kampf getötet – nicht durch irakische Gerichte hingerichtet"],
-    "wrong_answers_ru": ["Война в Ираке 2003 года была одобрена мандатом ООН и поддержана Германией", "После вторжения в Ираке было найдено большое количество оружия массового уничтожения", "Саддам Хусейн был убит в бою — а не казнён иракскими судами"],
-    "explanation_de": "Begründung: Massenvernichtungswaffen (WMD) und 9/11-Verbindung – beide falsch. Colin Powells UN-Präsentation. Deutschland und Frankreich lehnten ab. 'Mission Accomplished' (Bush, 2003). Abu Ghraib-Skandal. Keine WMD gefunden. Saddam Hussein gefangen (Dezember 2003), hingerichtet 2006. ISIS-Entstehung als Ergebnis.",
-    "explanation_ru": "Обоснование: оружие массового уничтожения (ОМУ) и связь с 11 сентября — оба ложные. Презентация Колина Пауэлла в ООН. Германия и Франция отказались. «Миссия выполнена» (Буш, 2003). Скандал Абу-Грейб. ОМУ не найдено. Саддам Хусейн захвачен (декабрь 2003), казнён в 2006 году. Возникновение ИГИЛ как результат.",
+    "correct_answer_de": "USA und Koalition marschierten 2003 ohne UN-Mandat in den Irak ein",
+    "correct_answer_ru": "США и коалиция вторглись в 2003 году в Ирак без мандата ООН",
+    "wrong_answers_de": [
+      "Der Irak-Krieg hatte ein UN-Mandat und deutsche Unterstützung",
+      "Nach der Invasion fand man große Mengen Massenvernichtungswaffen",
+      "Saddam wurde im Kampf getötet, nicht hingerichtet"
+    ],
+    "wrong_answers_ru": [
+      "У войны в Ираке был мандат ООН и поддержка Германии",
+      "После вторжения нашли большие запасы оружия массового поражения",
+      "Саддам погиб в бою, а не был казнён"
+    ],
+    "explanation_de": "Begründet wurde die Invasion mit Massenvernichtungswaffen und einer Verbindung zu 9/11, beides falsch. Saddam wurde im Dezember 2003 gefasst und 2006 hingerichtet; aus dem Chaos entstand später der IS.",
+    "explanation_ru": "Вторжение обосновывали оружием массового уничтожения и связью с 11 сентября, оба довода оказались ложными. Саддама поймали в декабре 2003 года и казнили в 2006-м; из хаоса позднее возникло ИГ.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "2003 CE",
-    "tags": ["Krieg", "USA", "Naher Osten"],
+    "tags": [
+      "Krieg",
+      "USA",
+      "Naher Osten"
+    ],
     "interesting_facts": [
       {
         "de": "Der Blair-Regierung wurde später der 'Chilcot-Report' präsentiert: Invasion war rechtswidrig und basierte auf falschen Informationen.",
@@ -93,17 +128,29 @@
     "id": 9079,
     "question_de": "Was war Ronald Reagans Wirtschafts- und Außenpolitik (Reaganomics)?",
     "question_ru": "Что такое экономическая и внешняя политика Рональда Рейгана (рейганомика)?",
-    "correct_answer_de": "Reagan senkte Steuern, erhöhte Rüstungsausgaben und kurbelte den Wettrüsten an – sein SDI-Programm beschleunigte den sowjetischen Zerfall",
-    "correct_answer_ru": "Рейган снизил налоги, увеличил военные расходы и разжёг гонку вооружений — его программа СОИ ускорила советский распад",
-    "wrong_answers_de": ["Reagan reduzierte das US-Militärbudget und setzte auf Diplomatie mit der Sowjetunion", "Reaganomics bedeutete staatliche Investitionen in Infrastruktur und soziale Programme", "Reagan und Gorbatschow stritten sich permanent und schlossen nie ein Abrüstungsabkommen"],
-    "wrong_answers_ru": ["Рейган сократил военный бюджет США и сделал ставку на дипломатию с Советским Союзом", "Рейганомика означала государственные инвестиции в инфраструктуру и социальные программы", "Рейган и Горбачёв постоянно ссорились и не заключили ни одного соглашения о разоружении"],
-    "explanation_de": "Reagan (1981–1989): Steuersenkungen, Deregulierung, Anti-Gewerkschaft. SDI ('Star Wars', 1983): weltraumgestütztes Raketenschutzschirm-Projekt. Sowjets konnten nicht mithalten. INF-Vertrag (1987) mit Gorbatschow. 'Mr. Gorbatschow, tear down this wall!' (Berlin 1987). Deficit spending verdreifachte US-Schulden.",
-    "explanation_ru": "Рейган (1981–1989): снижение налогов, дерегулирование, антипрофсоюзная политика. СОИ («Звёздные войны», 1983): проект космического ракетного щита. Советы не могли угнаться. Договор РСМД (1987) с Горбачёвым. «Господин Горбачёв, сломайте эту стену!» (Берлин, 1987). Дефицитные расходы утроили долг США.",
+    "correct_answer_de": "Reagan erhöhte die Rüstung – SDI beschleunigte den sowjetischen Zerfall",
+    "correct_answer_ru": "Рейган увеличил вооружения — СОИ ускорила распад СССР",
+    "wrong_answers_de": [
+      "Reagan kürzte das Militärbudget und setzte auf Diplomatie",
+      "Reaganomics hieß Staatsinvestitionen in Infrastruktur und Soziales",
+      "Reagan und Gorbatschow stritten und schlossen nie ein Abkommen"
+    ],
+    "wrong_answers_ru": [
+      "Рейган сократил военный бюджет и сделал ставку на дипломатию",
+      "Рейганомика означала госинвестиции в инфраструктуру и соцпрограммы",
+      "Рейган и Горбачёв ссорились и не заключили ни одного договора"
+    ],
+    "explanation_de": "Reagan senkte Steuern und deregulierte, startete 1983 das Raketenabwehrprojekt SDI und schloss 1987 den INF-Vertrag mit Gorbatschow. Die Staatsschulden der USA verdreifachten sich unter ihm.",
+    "explanation_ru": "Рейган снизил налоги и дерегулировал экономику, в 1983 году запустил проект ПРО (СОИ) и в 1987-м заключил с Горбачёвым договор о РСМД. Госдолг США при нём утроился.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1985 CE",
-    "tags": ["USA", "Kalter Krieg", "Wirtschaft"],
+    "tags": [
+      "USA",
+      "Kalter Krieg",
+      "Wirtschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Reagan war Schauspieler – der Film 'Bedtime for Bonzo' (1951) zeigte ihn mit einem Schimpansen.",
@@ -125,15 +172,27 @@
     "question_ru": "Что такое высадка на Луну и программа «Аполлон»?",
     "correct_answer_de": "Apollo 11 landete am 20. Juli 1969 auf dem Mond – Neil Armstrong und Buzz Aldrin betraten die Mondoberfläche",
     "correct_answer_ru": "Аполлон 11 приземлился на Луне 20 июля 1969 года — Нил Армстронг и Базз Олдрин ступили на поверхность Луны",
-    "wrong_answers_de": ["Die erste Mondlandung fand am 4. Oktober 1969 statt und wurde von Buzz Aldrin durchgeführt", "Apollo 11 landete 1969, aber die Astronauten betraten die Mondoberfläche erst 1970", "Jurij Gagarin war der erste Mensch, der den Mond betrat – als sowjetisches Gegenstück zu Apollo"],
-    "wrong_answers_ru": ["Первая высадка на Луну состоялась 4 октября 1969 года и была осуществлена Баззом Олдрином", "Аполлон 11 приземлился в 1969 году, но астронавты ступили на поверхность Луны лишь в 1970-м", "Юрий Гагарин был первым человеком, ступившим на Луну — как советский аналог Аполлона"],
-    "explanation_de": "Kennedy (1961): 'Wir wählen den Mond.' Apollo-Programm: 400.000 Ingenieure. 20. Juli 1969: 'Ein kleiner Schritt für einen Menschen...' Michael Collins blieb im Orbiter. 600 Millionen TV-Zuschauer weltweit. 12 Astronauten auf Mond (1969–1972). Budget: 25 Milliarden $. Apollo 13 (1970): technischer Unfall, erfolgreiche Rettung.",
-    "explanation_ru": "Кеннеди (1961): «Мы выбираем Луну». Программа «Аполлон»: 400 000 инженеров. 20 июля 1969 года: «Маленький шаг для человека...» Майкл Коллинз остался на орбитальном модуле. 600 миллионов телезрителей по всему миру. 12 астронавтов на Луне (1969–1972). Бюджет: 25 миллиардов долларов. Аполлон 13 (1970): технический сбой, успешное спасение.",
+    "wrong_answers_de": [
+      "Die erste Mondlandung fand am 4. Oktober 1969 statt und wurde von Buzz Aldrin durchgeführt",
+      "Apollo 11 landete 1969, aber die Astronauten betraten die Mondoberfläche erst 1970",
+      "Jurij Gagarin war der erste Mensch, der den Mond betrat – als sowjetisches Gegenstück zu Apollo"
+    ],
+    "wrong_answers_ru": [
+      "Первая высадка на Луну состоялась 4 октября 1969 года и была осуществлена Баззом Олдрином",
+      "Аполлон 11 приземлился в 1969 году, но астронавты ступили на поверхность Луны лишь в 1970-м",
+      "Юрий Гагарин был первым человеком, ступившим на Луну — как советский аналог Аполлона"
+    ],
+    "explanation_de": "Kennedy sagte 1961: «Wir wählen den Mond.» Am 20. Juli 1969 betraten Armstrong und Aldrin den Mond, 600 Millionen sahen zu. Zwölf Astronauten gingen bis 1972 dort spazieren.",
+    "explanation_ru": "Кеннеди сказал в 1961 году: «Мы выбираем Луну». 20 июля 1969 года Армстронг и Олдрин ступили на Луну, 600 миллионов зрителей смотрели. До 1972 года на ней побывали двенадцать астронавтов.",
     "difficulty": "easy",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1969 CE",
-    "tags": ["USA", "Technologie", "Kalter Krieg"],
+    "tags": [
+      "USA",
+      "Technologie",
+      "Kalter Krieg"
+    ],
     "interesting_facts": [
       {
         "de": "Das Bordcomputer Apollo 11 hatte weniger Rechenleistung als ein moderner Taschenrechner.",
@@ -153,17 +212,29 @@
     "id": 9081,
     "question_de": "Was war der Erste Golfkrieg (1991)?",
     "question_ru": "Что такое Первая война в Персидском заливе (1991)?",
-    "correct_answer_de": "Saddam Husseins Irak überfiel 1990 Kuwait – eine US-geführte UN-Koalition befreite Kuwait ('Operation Desert Storm')",
-    "correct_answer_ru": "Ирак Саддама Хусейна вторгся в Кувейт в 1990 году — возглавляемая США коалиция ООН освободила Кувейт («Операция Буря в пустыне»)",
-    "wrong_answers_de": ["Die USA griffen Irak 1991 ohne UN-Mandat an und besetzten Bagdad dauerhaft", "Saddam Hussein kapitulierte sofort nach dem ersten Luftangriff der Koalition", "Der erste Golfkrieg war ein Krieg zwischen Iran und Irak um die Öl-Ressourcen"],
-    "wrong_answers_ru": ["США напали на Ирак в 1991 году без мандата ООН и постоянно оккупировали Багдад", "Саддам Хусейн немедленно капитулировал после первого авиаудара коалиции", "Первая война в Персидском заливе была войной между Ираном и Ираком за нефтяные ресурсы"],
-    "explanation_de": "August 1990: Irak annektierte Kuwait. UN-Resolution: sofortige Rückzug. Januar 1991: Luftbombardement (38 Tage). Februar 1991: Bodenoffensive (100 Stunden). Irak aus Kuwait vertrieben. Bush Sr. brach bei Bagdad ab – Mandat nur Kuwait-Befreiung. Saddam blieb an der Macht. CNN war erstmals 24h live dabei.",
-    "explanation_ru": "Август 1990 года: Ирак аннексировал Кувейт. Резолюция ООН: немедленный вывод. Январь 1991 года: авиабомбардировки (38 дней). Февраль 1991 года: наземное наступление (100 часов). Ирак изгнан из Кувейта. Буш-старший остановился у Багдада — мандат только на освобождение Кувейта. Саддам остался у власти. CNN впервые вёл 24-часовой прямой эфир.",
+    "correct_answer_de": "Saddams Irak überfiel 1990 Kuwait – eine UN-Koalition befreite es",
+    "correct_answer_ru": "Ирак Саддама напал в 1990 году на Кувейт — коалиция ООН освободила его",
+    "wrong_answers_de": [
+      "Die USA griffen Irak 1991 ohne UN-Mandat an und besetzten Bagdad dauerhaft",
+      "Saddam Hussein kapitulierte sofort nach dem ersten Luftangriff der Koalition",
+      "Der erste Golfkrieg war ein Krieg zwischen Iran und Irak um die Öl-Ressourcen"
+    ],
+    "wrong_answers_ru": [
+      "США напали на Ирак в 1991 году без мандата ООН и постоянно оккупировали Багдад",
+      "Саддам Хусейн немедленно капитулировал после первого авиаудара коалиции",
+      "Первая война в Персидском заливе была войной между Ираном и Ираком за нефтяные ресурсы"
+    ],
+    "explanation_de": "Nach dem Einmarsch in Kuwait im August 1990 folgten 38 Tage Luftkrieg und 100 Stunden Bodenoffensive. Bush senior brach vor Bagdad ab; Saddam blieb an der Macht.",
+    "explanation_ru": "После вторжения в Кувейт в августе 1990 года последовали 38 дней воздушной войны и 100 часов наземного наступления. Буш-старший остановился перед Багдадом; Саддам остался у власти.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1991 CE",
-    "tags": ["Krieg", "Naher Osten", "USA"],
+    "tags": [
+      "Krieg",
+      "Naher Osten",
+      "USA"
+    ],
     "interesting_facts": [
       {
         "de": "Irak zündete beim Rückzug 700 kuwaitische Ölquellen an – das schwarze Rauch verdunkelte den Himmel monatelang.",
@@ -183,17 +254,28 @@
     "id": 9082,
     "question_de": "Was war die Klimaschutzpolitik und das Kyoto-Protokoll (1997)?",
     "question_ru": "Что такое климатическая политика и Киотский протокол (1997)?",
-    "correct_answer_de": "Das Kyoto-Protokoll (1997) war das erste internationale Abkommen zur Reduktion von Treibhausgasen – USA ratifizierte es nicht",
-    "correct_answer_ru": "Киотский протокол (1997) стал первым международным соглашением по сокращению выбросов парниковых газов — США его не ратифицировали",
-    "wrong_answers_de": ["Das Pariser Klimaabkommen von 1997 war das erste, das alle Länder zur Klimaneutralität verpflichtete", "Das Kyoto-Protokoll wurde von allen 195 UN-Mitgliedsländern ratifiziert", "Erst nach dem Kyoto-Protokoll wurde der Klimawandel durch die Wissenschaft als menschengemacht anerkannt"],
-    "wrong_answers_ru": ["Парижское климатическое соглашение 1997 года стало первым, обязавшим все страны к климатической нейтральности", "Киотский протокол был ратифицирован всеми 195 государствами-членами ООН", "Лишь после Киотского протокола наука признала изменение климата как вызванное деятельностью человека"],
-    "explanation_de": "IPCC (1988): Wissenschaftliches Gremium für Klimawandel. Rio-Konferenz (1992). Kyoto 1997: Industrieländer müssen CO₂ um 5 % unter 1990-Niveau senken. USA unterzeichneten, ratifizierten nicht. Kanada trat aus. Nachfolger: Paris-Abkommen (2015): alle Länder, 1,5°C-Ziel. Trump trat aus 2017, Biden wieder ein 2021.",
-    "explanation_ru": "МГЭИК (1988): научная группа по изменению климата. Конференция в Рио (1992). Киото 1997: промышленные страны должны снизить CO₂ на 5% ниже уровня 1990 года. США подписали, не ратифицировали. Канада вышла. Преемник: Парижское соглашение (2015): все страны, цель 1,5°C. Трамп вышел в 2017, Байден вернулся в 2021.",
+    "correct_answer_de": "Das Kyoto-Protokoll (1997) – die USA ratifizierten es nicht",
+    "correct_answer_ru": "Киотский протокол (1997) — США его не ратифицировали",
+    "wrong_answers_de": [
+      "Das Pariser Abkommen von 1997 verpflichtete alle Länder zur Klimaneutralität",
+      "Das Kyoto-Protokoll wurde von allen 195 UN-Mitgliedsländern ratifiziert",
+      "Erst nach Kyoto erkannte die Wissenschaft den Menschen als Ursache an"
+    ],
+    "wrong_answers_ru": [
+      "Парижское соглашение 1997 года обязало все страны к климатической нейтральности",
+      "Киотский протокол был ратифицирован всеми 195 государствами-членами ООН",
+      "Только после Киото наука признала человека причиной"
+    ],
+    "explanation_de": "Kyoto 1997 verlangte von Industrieländern, ihre Emissionen um 5 Prozent unter das Niveau von 1990 zu senken. Die USA ratifizierten nicht; 2015 folgte das Pariser Abkommen mit dem 1,5-Grad-Ziel.",
+    "explanation_ru": "Киотский протокол 1997 года требовал от промышленных стран снизить выбросы на 5 процентов ниже уровня 1990 года. США его не ратифицировали; в 2015-м последовало Парижское соглашение.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1997 CE",
-    "tags": ["Umwelt", "Politik"],
+    "tags": [
+      "Umwelt",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Das IPCC erhielt 2007 gemeinsam mit Al Gore den Friedensnobelpreis für Klimabewusstsein.",
@@ -213,17 +295,28 @@
     "id": 9083,
     "question_de": "Was war der Zusammenbruch der Sowjetunion (1991)?",
     "question_ru": "Что такое распад Советского Союза (1991)?",
-    "correct_answer_de": "Am 25. Dezember 1991 löste sich die UdSSR auf – 15 unabhängige Staaten entstanden, Russland als Nachfolgestaat",
-    "correct_answer_ru": "25 декабря 1991 года СССР прекратил существование — возникли 15 независимых государств, Россия как государство-преемник",
-    "wrong_answers_de": ["Die Sowjetunion zerfiel 1989 gleichzeitig mit dem Mauerfall in Deutschland", "Gorbatschow unterschrieb den Auflösungsvertrag freiwillig und behielt die Macht in Russland", "Die Republiken der Sowjetunion erklärten alle gleichzeitig am 1. Januar 1991 die Unabhängigkeit"],
-    "wrong_answers_ru": ["Советский Союз распался в 1989 году одновременно с падением Берлинской стены", "Горбачёв добровольно подписал договор о роспуске и сохранил власть в России", "Республики Советского Союза все одновременно провозгласили независимость 1 января 1991 года"],
-    "explanation_de": "Augustputsch (1991) scheiterte. Republiken erklärten Unabhängigkeit. Belovezha-Abkommen (8. Dezember 1991): Russland, Ukraine, Weißrussland gründeten GUS. 25. Dezember 1991: Gorbatschow trat zurück, sowjetische Flagge wurde eingeholt. 15 Nachfolgestaaten. Russland übernahm nukleares Arsenal und UN-Sitz.",
-    "explanation_ru": "Августовский путч (1991) провалился. Республики провозгласили независимость. Беловежские соглашения (8 декабря 1991): Россия, Украина, Белоруссия основали СНГ. 25 декабря 1991 года: Горбачёв ушёл в отставку, советский флаг был спущен. 15 государств-преемников. Россия приняла ядерный арсенал и место в Совете Безопасности ООН.",
+    "correct_answer_de": "Am 25. Dezember 1991 löste sich die UdSSR in 15 Staaten auf",
+    "correct_answer_ru": "25 декабря 1991 года СССР распался на 15 государств",
+    "wrong_answers_de": [
+      "Die UdSSR zerfiel 1989 zusammen mit dem Mauerfall",
+      "Gorbatschow unterschrieb freiwillig und behielt die Macht in Russland",
+      "Alle Republiken erklärten am 1. Januar 1991 gleichzeitig ihre Unabhängigkeit"
+    ],
+    "wrong_answers_ru": [
+      "СССР распался в 1989 году вместе с падением стены",
+      "Горбачёв подписал добровольно и сохранил власть в России",
+      "Все республики одновременно объявили независимость 1 января 1991 года"
+    ],
+    "explanation_de": "Nach dem gescheiterten Augustputsch gründeten Russland, die Ukraine und Weißrussland am 8. Dezember 1991 die GUS. Am 25. Dezember trat Gorbatschow zurück, 15 Nachfolgestaaten entstanden.",
+    "explanation_ru": "После провала августовского путча Россия, Украина и Белоруссия 8 декабря 1991 года образовали СНГ. 25 декабря Горбачёв ушёл в отставку, возникли 15 государств-преемников.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1991 CE",
-    "tags": ["Kalter Krieg", "USSR"],
+    "tags": [
+      "Kalter Krieg",
+      "USSR"
+    ],
     "interesting_facts": [
       {
         "de": "Boris Jelzin stand auf einem Panzer und rief zum Widerstand gegen den Putsch – ikonisches Bild der neuen Russland.",
@@ -243,17 +336,28 @@
     "id": 9084,
     "question_de": "Was war das Smartphone und die digitale Revolution (iPhone 2007)?",
     "question_ru": "Что такое смартфон и цифровая революция (iPhone, 2007)?",
-    "correct_answer_de": "Apples iPhone (2007) revolutionierte Kommunikation, Medien und Alltag – heute 6 Milliarden Smartphone-Nutzer weltweit",
-    "correct_answer_ru": "iPhone от Apple (2007) революционизировал коммуникацию, СМИ и повседневную жизнь — сегодня 6 миллиардов пользователей смартфонов в мире",
-    "wrong_answers_de": ["Nokia erfand das erste Smartphone 2005 – Apple kopierte das Konzept für das iPhone 2007", "Das erste Smartphone hatte kein Internet – das wurde erst mit dem iPhone 3G 2008 eingeführt", "Smartphones wurden erst 2010 zur Massentechnologie – vor 2010 waren sie nur für Geschäftskunden"],
-    "wrong_answers_ru": ["Nokia изобрела первый смартфон в 2005 году — Apple скопировала концепцию для iPhone в 2007-м", "Первый смартфон не имел интернета — он был введён лишь с iPhone 3G в 2008 году", "Смартфоны стали массовой технологией лишь в 2010 году — до 2010-го они предназначались только для бизнес-клиентов"],
-    "explanation_de": "Steve Jobs präsentierte iPhone 9. Januar 2007 als 'revolutionäres Gerät'. Touchscreen, Internet, Telefon in einem. App Store (2008): 100.000 Apps im ersten Jahr. Android (Google, 2008) konkurrierte. Social Media auf Smartphones explodierte. Heute: 6 Mrd. Nutzer. Gesellschaft, Arbeit, Politik, Demokratie transformiert.",
-    "explanation_ru": "Стив Джобс представил iPhone 9 января 2007 года как «революционное устройство». Сенсорный экран, интернет, телефон в одном. App Store (2008): 100 000 приложений в первый год. Android (Google, 2008) конкурировал. Социальные сети на смартфонах взорвались. Сегодня: 6 млрд пользователей. Общество, труд, политика, демократия трансформированы.",
+    "correct_answer_de": "Apples iPhone (2007) veränderte Kommunikation und Alltag",
+    "correct_answer_ru": "iPhone от Apple (2007) изменил общение и повседневную жизнь",
+    "wrong_answers_de": [
+      "Nokia erfand 2005 das Smartphone, Apple kopierte es 2007",
+      "Das erste Smartphone hatte kein Internet – erst das iPhone 3G 2008",
+      "Smartphones wurden erst 2010 Massentechnik, davor nur für Geschäftskunden"
+    ],
+    "wrong_answers_ru": [
+      "Nokia изобрела смартфон в 2005 году, Apple скопировала его в 2007-м",
+      "У первого смартфона не было интернета — он появился с iPhone 3G в 2008-м",
+      "Смартфоны стали массовыми только в 2010 году, раньше — лишь для бизнеса"
+    ],
+    "explanation_de": "Steve Jobs stellte das iPhone am 9. Januar 2007 vor: Touchscreen, Internet und Telefon in einem. Der App Store folgte 2008; Gesellschaft, Arbeit und Politik veränderten sich.",
+    "explanation_ru": "Стив Джобс представил iPhone 9 января 2007 года: сенсорный экран, интернет и телефон в одном. В 2008 году открылся App Store; общество, труд и политика изменились.",
     "difficulty": "easy",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "2007 CE",
-    "tags": ["Technologie", "USA"],
+    "tags": [
+      "Technologie",
+      "USA"
+    ],
     "interesting_facts": [
       {
         "de": "Steve Jobs starb 2011 – ohne zu wissen, dass Apple das wertvollste Unternehmen der Welt werden würde.",
@@ -273,17 +377,28 @@
     "id": 9085,
     "question_de": "Was war die Eurokrise (2010–2015)?",
     "question_ru": "Что такое кризис евро (2010–2015)?",
-    "correct_answer_de": "Griechenland, Portugal, Irland und Spanien hatten Staatsschuldenkrise – EU und IWF retteten sie mit Sparauflagen",
-    "correct_answer_ru": "Греция, Португалия, Ирландия и Испания имели долговой кризис — ЕС и МВФ спасли их с условиями жёсткой экономии",
-    "wrong_answers_de": ["Die Eurokrise wurde ausschließlich durch die USA verursacht, die Europa ihre Schulden aufbürdeten", "Die EU-Mitgliedsländer halfen einander freiwillig und ohne Bedingungen in der Krise", "Der Euro wurde in der Krise 2012 aufgegeben – Griechenland kehrte zur Drachme zurück"],
-    "wrong_answers_ru": ["Кризис евро был вызван исключительно США, переложившими свои долги на Европу", "Страны-члены ЕС помогали друг другу добровольно и без условий в кризисе", "Евро был отменён в 2012 году — Греция вернулась к драхме"],
-    "explanation_de": "Finanzkrise 2008 deckte staatliche Überschuldung auf. Griechenland: 350 Mrd. € Schulden, falsche Statistiken. Angela Merkel: Sparpolitik als Bedingung. 'Troika' (EU, EZB, IWF). ESM-Rettungsschirm. Alexis Tsipras und Syriza gewannen 2015. Grexit-Drohung. Schließlich: Griechenland blieb in Eurozone.",
-    "explanation_ru": "Финансовый кризис 2008 года обнажил государственную задолженность. Греция: 350 млрд евро долгов, фальшивая статистика. Ангела Меркель: политика экономии как условие. «Тройка» (ЕС, ЕЦБ, МВФ). Спасительный фонд ESM. Алексис Ципрас и СИРИЗА победили в 2015 году. Угроза «Grexit». В итоге: Греция осталась в еврозоне.",
+    "correct_answer_de": "Staatsschuldenkrise in Griechenland, Portugal, Irland und Spanien",
+    "correct_answer_ru": "Кризис госдолга в Греции, Португалии, Ирландии и Испании",
+    "wrong_answers_de": [
+      "Die Eurokrise verursachten allein die USA mit ihren Schulden",
+      "Die EU-Länder halfen sich freiwillig und ohne Auflagen",
+      "Der Euro wurde 2012 aufgegeben, Griechenland kehrte zur Drachme zurück"
+    ],
+    "wrong_answers_ru": [
+      "Кризис евро вызвали только США своими долгами",
+      "Страны ЕС помогали друг другу добровольно и без условий",
+      "Евро отменили в 2012 году, Греция вернулась к драхме"
+    ],
+    "explanation_de": "Die Finanzkrise 2008 deckte die Überschuldung auf. Griechenland hatte seine Statistiken geschönt; die «Troika» aus EU, EZB und IWF verlangte Sparpolitik, doch Griechenland blieb in der Eurozone.",
+    "explanation_ru": "Финансовый кризис 2008 года обнажил чрезмерные долги. Греция приукрашивала статистику; «тройка» из ЕС, ЕЦБ и МВФ потребовала жёсткой экономии, но Греция осталась в еврозоне.",
     "difficulty": "hard",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "2012 CE",
-    "tags": ["Wirtschaft", "Europa"],
+    "tags": [
+      "Wirtschaft",
+      "Europa"
+    ],
     "interesting_facts": [
       {
         "de": "Griechenland fälschte seine Schulden beim EU-Beitritt – mit Hilfe von Goldman Sachs.",
@@ -303,17 +418,29 @@
     "id": 9086,
     "question_de": "Was war der Erste Weltkrieg: Schützengräben und neue Waffen?",
     "question_ru": "Что такое Первая мировая война: окопы и новое оружие?",
-    "correct_answer_de": "Maschinengewehre, Giftgas (1915), Panzer (1916) und Flugzeuge veränderten die Kriegsführung und führten zu Stellungskrieg",
-    "correct_answer_ru": "Пулемёты, отравляющий газ (1915), танки (1916) и самолёты изменили ведение войны и привели к позиционной войне",
-    "wrong_answers_de": ["Atombombe und Raketen wurden erstmals im Ersten Weltkrieg eingesetzt – als experimentelle Waffen", "Schützengräben waren eine neue Idee – sie wurden nie vor 1914 im Krieg benutzt", "U-Boote wurden erst im Zweiten Weltkrieg eingesetzt – nicht im Ersten"],
-    "wrong_answers_ru": ["Атомная бомба и ракеты были впервые применены в Первой мировой войне — как экспериментальное оружие", "Окопы были новой идеей — их никогда не использовали в войне до 1914 года", "Подводные лодки были применены лишь во Второй мировой войне — не в Первой"],
-    "explanation_de": "Maschinengewehr (Maxim): 400–600 Schuss/Min. – Infanterieangriffe katastrophal. April 1915: Giftgas (Chlor) bei Ypern. September 1916: Panzer (Somme). Luftkampf (Red Baron). U-Boote: USA zum Kriegseintritt gebracht. Artillerie: 60 % aller Todesopfer. Grabenkrieg: Westfront kaum bewegt 1914–1918.",
-    "explanation_ru": "Пулемёт (Максим): 400–600 выстрелов/мин — атаки пехоты катастрофические. Апрель 1915 года: отравляющий газ (хлор) при Ипре. Сентябрь 1916 года: танки (Сомма). Воздушные бои («Красный барон»). Подводные лодки: втянули США в войну. Артиллерия: 60% всех потерь. Траншейная война: Западный фронт почти не двигался в 1914–1918 годах.",
+    "correct_answer_de": "Maschinengewehre, Giftgas, Panzer und Flugzeuge prägten den Stellungskrieg",
+    "correct_answer_ru": "Пулемёты, ядовитый газ, танки и самолёты определили позиционную войну",
+    "wrong_answers_de": [
+      "Atombombe und Raketen kamen erstmals im Ersten Weltkrieg zum Einsatz",
+      "Schützengräben waren eine neue Idee – sie wurden nie vor 1914 im Krieg benutzt",
+      "U-Boote wurden erst im Zweiten Weltkrieg eingesetzt – nicht im Ersten"
+    ],
+    "wrong_answers_ru": [
+      "Атомная бомба и ракеты впервые применены в Первую мировую",
+      "Окопы были новой идеей — их никогда не использовали в войне до 1914 года",
+      "Подводные лодки были применены лишь во Второй мировой войне — не в Первой"
+    ],
+    "explanation_de": "Das Maxim-Maschinengewehr schoss 400–600 Schuss pro Minute. 1915 setzte Deutschland bei Ypern Giftgas ein, 1916 erschienen Panzer an der Somme. Artillerie verursachte 60 Prozent der Toten.",
+    "explanation_ru": "Пулемёт Максима стрелял 400–600 выстрелов в минуту. В 1915 году Германия применила под Ипром газ, в 1916-м на Сомме появились танки. Артиллерия вызвала 60 процентов потерь.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1917 CE",
-    "tags": ["Krieg", "Technologie", "Europa"],
+    "tags": [
+      "Krieg",
+      "Technologie",
+      "Europa"
+    ],
     "interesting_facts": [
       {
         "de": "Manfred von Richthofen ('Roter Baron') war mit 80 Luftsiegen der erfolgreichste Pilot des Ersten Weltkriegs.",
@@ -333,17 +460,29 @@
     "id": 9087,
     "question_de": "Was war der Holocaust und die Wannsee-Konferenz (1942)?",
     "question_ru": "Что такое Холокост и Ванзейская конференция (1942)?",
-    "correct_answer_de": "Die Wannsee-Konferenz (Januar 1942) koordinierte die 'Endlösung' – systematische Ermordung von 6 Millionen Juden",
-    "correct_answer_ru": "Ванзейская конференция (январь 1942) скоординировала «окончательное решение» — систематическое убийство 6 миллионов евреев",
-    "wrong_answers_de": ["Wannsee war eine Konferenz, bei der Hitler persönlich den Mordbefehl gab und unterschrieb", "Die Endlösung wurde erst 1944 beschlossen – nach der Deportation der ungarischen Juden", "Der Holocaust begann erst 1942 – vor Wannsee gab es keine systematische Verfolgung"],
-    "wrong_answers_ru": ["Ванзее была конференцией, на которой Гитлер лично отдал и подписал приказ об убийстве", "Окончательное решение было принято лишь в 1944 году — после депортации венгерских евреев", "Холокост начался лишь в 1942 году — до Ванзее систематических преследований не было"],
-    "explanation_de": "Nürnberger Gesetze (1935), Kristallnacht (1938), Ghettos, Einsatzgruppen (ab 1941 Massaker). Wannsee (Januar 1942): Reinhard Heydrich koordinierte mit 15 hochrangigen Nazi-Beamten die 'Endlösung'. Auschwitz-Birkenau, Treblinka, Sobibor, Belzec. 6 Millionen Juden, 5 Millionen andere (Roma, Behinderte, Homosexuelle, Slawen) getötet.",
-    "explanation_ru": "Нюрнбергские законы (1935), Хрустальная ночь (1938), гетто, айнзацгруппы (с 1941 года — массовые убийства). Ванзее (январь 1942): Рейнхард Гейдрих скоординировал с 15 высокопоставленными нацистскими чиновниками «окончательное решение». Освенцим-Биркенау, Треблинка, Собибор, Белжец. Убиты 6 миллионов евреев, 5 миллионов других (цыгане, инвалиды, гомосексуалы, славяне).",
+    "correct_answer_de": "Die Wannsee-Konferenz (1942) koordinierte die «Endlösung»",
+    "correct_answer_ru": "Ванзейская конференция (1942) координировала «окончательное решение»",
+    "wrong_answers_de": [
+      "Auf der Wannsee-Konferenz gab Hitler persönlich den Mordbefehl",
+      "Die Endlösung wurde erst 1944 nach Ungarns Deportationen beschlossen",
+      "Der Holocaust begann erst 1942, davor gab es keine Verfolgung"
+    ],
+    "wrong_answers_ru": [
+      "На Ванзейской конференции Гитлер лично отдал приказ об убийстве",
+      "«Окончательное решение» приняли только в 1944 году после депортаций из Венгрии",
+      "Холокост начался лишь в 1942 году, раньше преследований не было"
+    ],
+    "explanation_de": "Auf Nürnberger Gesetze und Kristallnacht folgten Ghettos und Massenerschießungen. Auf der Wannsee-Konferenz koordinierte Heydrich im Januar 1942 die «Endlösung»; sechs Millionen Juden wurden ermordet.",
+    "explanation_ru": "За Нюрнбергскими законами и «Хрустальной ночью» последовали гетто и массовые расстрелы. На Ванзейской конференции в январе 1942 года Гейдрих координировал «окончательное решение»; убиты шесть миллионов евреев.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1942 CE",
-    "tags": ["Holocaust", "Deutschland", "Gesellschaft"],
+    "tags": [
+      "Holocaust",
+      "Deutschland",
+      "Gesellschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Das Wannsee-Protokoll (einzige erhaltene Kopie) wurde von Adolf Eichmann verfasst – er wurde 1960 in Israel gehängt.",
@@ -363,17 +502,29 @@
     "id": 9088,
     "question_de": "Was war die Invasion der Normandie (D-Day, 6. Juni 1944)?",
     "question_ru": "Что такое высадка в Нормандии (День Д, 6 июня 1944 года)?",
-    "correct_answer_de": "Die größte amphibische Operation der Geschichte: 156.000 alliierte Soldaten landeten am Atlantikwall – Wendepunkt in Europa",
-    "correct_answer_ru": "Крупнейшая в истории амфибийная операция: 156 000 союзных солдат высадились у Атлантического вала — поворотный момент в Европе",
-    "wrong_answers_de": ["D-Day fand am 8. Mai 1945 statt – am Tag der deutschen Kapitulation in Europa", "Die Normandie-Invasion wurde von Churchill geleitet und General MacArthur kommandierte die Truppen", "Nur US-Truppen landeten in der Normandie – Englands Armee war im Pazifik eingesetzt"],
-    "wrong_answers_ru": ["День Д состоялся 8 мая 1945 года — в день капитуляции Германии в Европе", "Нормандское вторжение было проведено под руководством Черчилля, командовал войсками генерал Макартур", "Только американские войска высадились в Нормандии — британская армия была задействована на Тихом океане"],
-    "explanation_de": "Operation Overlord: Eisenhower befehligte. 5 Strandabschnitte: Utah, Omaha, Gold, Juno, Sword. Omaha Beach: blutigste Kämpfe. Falsche Berichte über Pas de Calais (Bodyguard-Täuschung). Paris befreit August 1944. Deutschland aus Frankreich und Benelux vertrieben bis Ende 1944.",
-    "explanation_ru": "Операция «Оверлорд»: командовал Эйзенхауэр. 5 участков пляжей: Юта, Омаха, Голд, Джуно, Суорд. Пляж Омаха: самые кровавые бои. Ложные донесения о Па-де-Кале (операция обмана «Телохранитель»). Париж освобождён в августе 1944 года. Германия вытеснена из Франции и Бенилюкса к концу 1944 года.",
+    "correct_answer_de": "Größte amphibische Operation: 156.000 Alliierte landeten in der Normandie",
+    "correct_answer_ru": "Крупнейшая десантная операция: 156 000 союзников высадились в Нормандии",
+    "wrong_answers_de": [
+      "D-Day fand am 8. Mai 1945 statt – am Tag der deutschen Kapitulation in Europa",
+      "Churchill leitete die Invasion, MacArthur kommandierte die Truppen",
+      "Nur US-Truppen landeten in der Normandie – Englands Armee war im Pazifik eingesetzt"
+    ],
+    "wrong_answers_ru": [
+      "День Д состоялся 8 мая 1945 года — в день капитуляции Германии в Европе",
+      "Черчилль руководил вторжением, МакАртур командовал войсками",
+      "Только американские войска высадились в Нормандии — британская армия была задействована на Тихом океане"
+    ],
+    "explanation_de": "Eisenhower befehligte die Operation Overlord an fünf Stränden: Utah, Omaha, Gold, Juno und Sword. Auf Omaha waren die Kämpfe am blutigsten; eine Täuschung ließ die Deutschen Calais erwarten.",
+    "explanation_ru": "Эйзенхауэр командовал операцией «Оверлорд» на пяти пляжах: Юта, Омаха, Голд, Джуно и Сорд. Самые кровопролитные бои шли на Омахе; обманный манёвр заставил немцев ждать высадки у Кале.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1944 CE",
-    "tags": ["Krieg", "USA", "Europa"],
+    "tags": [
+      "Krieg",
+      "USA",
+      "Europa"
+    ],
     "interesting_facts": [
       {
         "de": "Eisenhowers Brief vor D-Day: er schrieb eine Rückzugsmeldung – falls die Invasion scheitern sollte.",
@@ -393,17 +544,28 @@
     "id": 9089,
     "question_de": "Was war die Chinesische Kulturrevolution (1966–1976)?",
     "question_ru": "Что такое Культурная революция в Китае (1966–1976)?",
-    "correct_answer_de": "Maos politische Kampagne zerstörte Kultur, Bildung, Intelligenz – Rote Garden terrorisierten das Land, 1–2 Mio. Tote",
-    "correct_answer_ru": "Политическая кампания Мао уничтожила культуру, образование, интеллигенцию — Красные гвардейцы терроризировали страну, 1–2 млн погибших",
-    "wrong_answers_de": ["Die Kulturrevolution war ein erfolgreicher Modernisierungsversuch Chinas durch Bildungsreformen", "Deng Xiaoping leitete die Kulturrevolution als Nachfolger Maos", "Die Kulturrevolution betraf nur die Städte – das ländliche China blieb unberührt"],
-    "wrong_answers_ru": ["Культурная революция была успешной попыткой модернизации Китая через реформы образования", "Дэн Сяопин руководил Культурной революцией как преемник Мао", "Культурная революция затронула только города — сельской Китай остался нетронутым"],
-    "explanation_de": "Mao fürchtete Machtverlust. Rote Garden: junge Fanatiker zerstörten Tempel, Bibliotheken, verfolgten Lehrer. 'Down to the Countryside': Intellektuelle in Umerziehungslager. Deng Xiaoping zweimal entmachtet. Viererbande (Maos Frau Jiang Qing). Endete mit Maos Tod 1976 und Verhaftung der Viererbande.",
-    "explanation_ru": "Мао боялся потерять власть. Красные гвардейцы: молодые фанатики разрушали храмы, библиотеки, преследовали учителей. «Вниз в деревню»: интеллигенция в лагеря перевоспитания. Дэн Сяопин дважды отстранён от власти. «Банда четырёх» (жена Мао Цзян Цин). Завершилась со смертью Мао в 1976 году и арестом «Банды четырёх».",
+    "correct_answer_de": "Maos Kampagne zerstörte Kultur und Bildung – Rote Garden terrorisierten China",
+    "correct_answer_ru": "Кампания Мао разрушила культуру и образование — хунвейбины терроризировали Китай",
+    "wrong_answers_de": [
+      "Die Kulturrevolution war ein gelungener Modernisierungsversuch",
+      "Deng Xiaoping leitete die Kulturrevolution als Nachfolger Maos",
+      "Die Kulturrevolution betraf nur die Städte – das ländliche China blieb unberührt"
+    ],
+    "wrong_answers_ru": [
+      "Культурная революция была удачной попыткой модернизации",
+      "Дэн Сяопин руководил Культурной революцией как преемник Мао",
+      "Культурная революция затронула только города — сельской Китай остался нетронутым"
+    ],
+    "explanation_de": "Mao fürchtete Machtverlust. Rote Garden zerstörten Tempel und Bibliotheken und verfolgten Lehrer, Intellektuelle kamen in Umerziehungslager. Die Kulturrevolution endete mit Maos Tod 1976 und der Verhaftung der Viererbande.",
+    "explanation_ru": "Мао опасался потерять власть. Хунвейбины разрушали храмы и библиотеки и преследовали учителей, интеллигенцию отправляли на «перевоспитание». «Культурная революция» кончилась со смертью Мао в 1976 году и арестом «банды четырёх».",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1970 CE",
-    "tags": ["China", "Politik"],
+    "tags": [
+      "China",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Konfuzius-Schriften und Buddhastatuen wurden zerstört – 'die Vier Alten' (Ideen, Kultur, Sitten, Gewohnheiten) beseitigt.",
@@ -423,17 +585,29 @@
     "id": 9090,
     "question_de": "Was war die Entstehung der EU und die Europäische Integration?",
     "question_ru": "Что такое возникновение ЕС и европейская интеграция?",
-    "correct_answer_de": "Von EWG (1957) über EG zu EU (Maastricht 1993): wirtschaftliche und politische Integration Europas nach dem Zweiten Weltkrieg",
-    "correct_answer_ru": "От ЕЭС (1957) через ЕС к ЕС (Маастрихт, 1993): экономическая и политическая интеграция Европы после Второй мировой войны",
-    "wrong_answers_de": ["Die EU wurde 1945 nach dem Krieg von Churchill und Roosevelt als Friedensprojekt gegründet", "Das Euro-Bargeld wurde bereits 1999 eingeführt – 2002 wurde nur die Münzproduktion zentralisiert", "Die NATO und die EU sind dasselbe Bündnis mit wirtschaftlichem und militärischem Mandat"],
-    "wrong_answers_ru": ["ЕС был основан в 1945 году после войны Черчиллем и Рузвельтом как проект мира", "Наличные евро были введены уже в 1999 году — в 2002 году было лишь централизовано производство монет", "НАТО и ЕС — это один и тот же союз с экономическим и военным мандатом"],
-    "explanation_de": "Montanunion (1951, Kohle und Stahl). Römische Verträge 1957: EWG (6 Gründer). 1973: UK, Irland, Dänemark. Binnenmarkt 1993. Maastricht 1992/93: EU-Name, Euro beschlossen. Euro-Bargeld 2002. EU-Osterweiterung 2004 (10 Länder). Heute 27 Mitglieder. Brexit (2016/2020): UK trat aus.",
-    "explanation_ru": "Объединение угля и стали (1951). Римские договоры 1957: ЕЭС (6 основателей). 1973: Великобритания, Ирландия, Дания. Единый рынок 1993. Маастрихт 1992/93: название ЕС, решение о евро. Наличные евро 2002. Расширение ЕС на восток 2004 (10 стран). Сегодня 27 членов. Brexit (2016/2020): Великобритания вышла.",
+    "correct_answer_de": "Von der EWG über die EG zur EU (Maastricht 1993)",
+    "correct_answer_ru": "От ЕЭС через ЕС к Евросоюзу (Маастрихт 1993)",
+    "wrong_answers_de": [
+      "Churchill und Roosevelt gründeten 1945 die EU als Friedensprojekt",
+      "Das Euro-Bargeld kam schon 1999, 2002 wurden nur Münzen zentralisiert",
+      "NATO und EU sind dasselbe Bündnis mit zwei Mandaten"
+    ],
+    "wrong_answers_ru": [
+      "Черчилль и Рузвельт основали в 1945 году ЕС как мирный проект",
+      "Наличный евро появился уже в 1999 году, в 2002-м централизовали лишь монеты",
+      "НАТО и ЕС — один и тот же союз с двумя мандатами"
+    ],
+    "explanation_de": "Aus der Montanunion (1951) und den Römischen Verträgen (1957) wurde mit Maastricht 1993 die EU. Der Euro kam als Bargeld 2002, 2004 traten zehn Länder bei.",
+    "explanation_ru": "Из Объединения угля и стали (1951) и Римских договоров (1957) после Маастрихта в 1993 году вырос ЕС. Наличный евро появился в 2002 году, в 2004-м вступили десять стран.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1993 CE",
-    "tags": ["Europa", "Politik", "Wirtschaft"],
+    "tags": [
+      "Europa",
+      "Politik",
+      "Wirtschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Die Idee der europäischen Einigung stammt von Winston Churchill (Zürcher Rede, 1946) – England trat aber 1973 bei.",
@@ -453,17 +627,29 @@
     "id": 9091,
     "question_de": "Was war der Kalte Krieg: Wettrüsten und MAD?",
     "question_ru": "Что такое холодная война: гонка вооружений и взаимное гарантированное уничтожение (MAD)?",
-    "correct_answer_de": "MAD (Mutual Assured Destruction): beide Supermächte hätten sich gegenseitig vernichtet – Abschreckung als Friedensstrategie",
-    "correct_answer_ru": "MAD (Взаимное гарантированное уничтожение): обе сверхдержавы уничтожили бы друг друга — сдерживание как стратегия мира",
-    "wrong_answers_de": ["MAD war ein geheimes Abkommen zwischen USA und UdSSR, das Atomwaffeneinsatz verbot", "Die Sowjetunion hatte nie genug Atomwaffen, um die USA vollständig zu vernichten", "Das Wettrüsten endete 1963 nach der Kubakrise durch vollständige Abrüstungsverträge"],
-    "wrong_answers_ru": ["MAD было секретным соглашением между США и СССР, запрещавшим применение ядерного оружия", "У Советского Союза никогда не было достаточно ядерного оружия для полного уничтожения США", "Гонка вооружений завершилась в 1963 году после Кубинского кризиса через полные договоры о разоружении"],
-    "explanation_de": "USA: Atombombe 1945. UdSSR: 1949. H-Bombe: USA 1952, UdSSR 1953. Auf Höhepunkt: 70.000 Nuklearwaffen weltweit. SALT-Verträge (1972, 1979). START-Verträge (1991). Heute noch ca. 13.000 Nuklearwaffen. MAD-Logik: kein 'rationaler' Erstschlag möglich → paradoxer Frieden.",
-    "explanation_ru": "США: атомная бомба 1945. СССР: 1949. Водородная бомба: США 1952, СССР 1953. На пике: 70 000 ядерных боеголовок в мире. Договоры ОСВ (1972, 1979). Договоры СНВ (1991). Сегодня ещё ок. 13 000 ядерных боеголовок. Логика MAD: нет «рационального» первого удара → парадоксальный мир.",
+    "correct_answer_de": "MAD: gegenseitig gesicherte Vernichtung als Abschreckung",
+    "correct_answer_ru": "MAD: взаимно гарантированное уничтожение как сдерживание",
+    "wrong_answers_de": [
+      "MAD war ein Geheimabkommen, das den Atomwaffeneinsatz verbot",
+      "Die UdSSR hatte nie genug Atomwaffen, um die USA zu vernichten",
+      "Das Wettrüsten endete 1963 nach Kuba durch totale Abrüstung"
+    ],
+    "wrong_answers_ru": [
+      "MAD было тайным соглашением о запрете применения ядерного оружия",
+      "У СССР никогда не хватало ядерного оружия, чтобы уничтожить США",
+      "Гонка вооружений закончилась в 1963 году после Кубы полным разоружением"
+    ],
+    "explanation_de": "Die USA zündeten 1945, die UdSSR 1949 die Atombombe; Wasserstoffbomben folgten 1952 und 1953. Auf dem Höhepunkt gab es 70.000 Sprengköpfe; die MAD-Logik machte einen Erstschlag selbstmörderisch.",
+    "explanation_ru": "США испытали атомную бомбу в 1945 году, СССР — в 1949-м; водородные последовали в 1952 и 1953 годах. На пике было 70 000 боезарядов; логика взаимного уничтожения исключала первый удар.",
     "difficulty": "hard",
     "category": "20. Jahrhundert",
     "type": "conceptual",
     "period": "1965 CE",
-    "tags": ["Kalter Krieg", "Technologie", "Politik"],
+    "tags": [
+      "Kalter Krieg",
+      "Technologie",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Stanislav Petrov (1983) erkannte einen sowjetischen Satellitenalarm als Fehlalarm – verhinderte möglicherweise WW3.",
@@ -483,17 +669,29 @@
     "id": 9092,
     "question_de": "Was war der Versailler Vertrag (1919) und seine Folgen?",
     "question_ru": "Что такое Версальский договор (1919) и его последствия?",
-    "correct_answer_de": "Der Versailler Vertrag bestrafte Deutschland: Gebiete, Reparationen, Kriegsschuldartikel 231 – ebnete Weg für Hitler",
-    "correct_answer_ru": "Версальский договор наказал Германию: территории, репарации, статья о военной ответственности 231 — проложил путь к Гитлеру",
-    "wrong_answers_de": ["Der Versailler Vertrag war ein mildes Abkommen, das Deutschlands Wirtschaft nicht belastete", "Deutschland verlor im Versailler Vertrag alle Kolonien und wurde zum kommunistischen Staat erklärt", "Österreich-Ungarn und Deutschland unterschrieben gemeinsam den Versailler Vertrag 1919"],
-    "wrong_answers_ru": ["Версальский договор был мягким соглашением, не обременявшим экономику Германии", "В Версальском договоре Германия потеряла все колонии и была объявлена коммунистическим государством", "Австро-Венгрия и Германия совместно подписали Версальский договор в 1919 году"],
-    "explanation_de": "Juni 1919 in Versailles: Deutschland verlor 13 % Territorium (Elsass-Lothringen, Polen, Kolonien). Armee auf 100.000 begrenzt. Reparationen: 132 Mrd. Goldmark. Kriegsschuldartikel 231: Deutschland allein schuldig. Demütigung ermöglichte Naziaufstieg. Keynes kritisierte Vertrag als zu hart.",
-    "explanation_ru": "Июнь 1919 года в Версале: Германия потеряла 13% территории (Эльзас-Лотарингия, Польша, колонии). Армия ограничена до 100 000. Репарации: 132 млрд золотых марок. Статья о военной ответственности 231: Германия одна виновна. Унижение открыло путь нацистскому подъёму. Кейнс критиковал договор как слишком жёсткий.",
+    "correct_answer_de": "Der Versailler Vertrag bestrafte Deutschland und ebnete Hitler den Weg",
+    "correct_answer_ru": "Версальский договор наказал Германию и открыл путь Гитлеру",
+    "wrong_answers_de": [
+      "Der Vertrag war mild und belastete die Wirtschaft nicht",
+      "Deutschland verlor alle Kolonien und wurde zum kommunistischen Staat",
+      "Österreich-Ungarn und Deutschland unterschrieben ihn gemeinsam"
+    ],
+    "wrong_answers_ru": [
+      "Договор был мягким и не обременял экономику",
+      "Германия потеряла все колонии и стала коммунистическим государством",
+      "Австро-Венгрия и Германия подписали его вместе"
+    ],
+    "explanation_de": "Der Vertrag von 1919 nahm Deutschland 13 Prozent seines Gebiets, begrenzte die Armee auf 100.000 Mann und forderte 132 Milliarden Goldmark. Keynes kritisierte ihn als zu hart.",
+    "explanation_ru": "Договор 1919 года отнял у Германии 13 процентов территории, ограничил армию 100 000 человек и потребовал 132 миллиардов золотых марок. Кейнс критиковал его как слишком суровый.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1919 CE",
-    "tags": ["Krieg", "Deutschland", "Politik"],
+    "tags": [
+      "Krieg",
+      "Deutschland",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "John Maynard Keynes verließ die Konferenz aus Protest und schrieb 'Die wirtschaftlichen Folgen des Friedens' (1919).",
@@ -513,17 +711,28 @@
     "id": 9093,
     "question_de": "Was war die Dekolonisierung Asiens (Indien, Indonesien, Indochina)?",
     "question_ru": "Что такое деколонизация Азии (Индия, Индонезия, Индокитай)?",
-    "correct_answer_de": "Asiatische Länder erlangten nach dem Zweiten Weltkrieg Unabhängigkeit: Indien 1947, Indonesien 1945, Vietnam nach langen Kriegen",
-    "correct_answer_ru": "Азиатские страны обрели независимость после Второй мировой войны: Индия 1947, Индонезия 1945, Вьетнам после долгих войн",
-    "wrong_answers_de": ["Asien wurde hauptsächlich durch Revolutionen und nicht durch Verhandlungen dekolonisiert", "Indien wurde erst 1960 unabhängig, nachdem England freiwillig alle Kolonien abgab", "Japan befreite Asien von der europäischen Kolonialherrschaft durch seine militärische Expansion"],
-    "wrong_answers_ru": ["Азия была деколонизирована главным образом через революции, а не переговоры", "Индия обрела независимость лишь в 1960 году, когда Англия добровольно отдала все колонии", "Япония освободила Азию от европейского колониального господства своей военной экспансией"],
-    "explanation_de": "Indien: Gandhi + Kongress-Partei. 15. August 1947: Unabhängigkeit und Teilung (Indien/Pakistan). Millionen Flüchtlinge, 500.000 Tote. Indonesien: Sukarno erklärte 1945 Unabhängigkeit. Niederlande erkannten 1949 an. Vietnam: Ho Chi Minh vs. Frankreich (Dien Bien Phu 1954) → Teilung → USA-Krieg.",
-    "explanation_ru": "Индия: Ганди + партия Конгресс. 15 августа 1947 года: независимость и раздел (Индия/Пакистан). Миллионы беженцев, 500 000 погибших. Индонезия: Сукарно провозгласил независимость в 1945 году. Нидерланды признали в 1949 году. Вьетнам: Хо Ши Мин против Франции (Дьенбьенфу 1954) → раздел → война США.",
+    "correct_answer_de": "Asiatische Länder wurden nach 1945 unabhängig: Indien, Indonesien, Vietnam",
+    "correct_answer_ru": "Азиатские страны обрели независимость после 1945 года: Индия, Индонезия, Вьетнам",
+    "wrong_answers_de": [
+      "Asien wurde durch Revolutionen, nicht Verhandlungen frei",
+      "Indien wurde erst 1960 unabhängig, nachdem England freiwillig alle Kolonien abgab",
+      "Japan befreite Asien durch seine militärische Expansion"
+    ],
+    "wrong_answers_ru": [
+      "Азия освободилась революциями, а не переговорами",
+      "Индия обрела независимость лишь в 1960 году, когда Англия добровольно отдала все колонии",
+      "Япония освободила Азию своей военной экспансией"
+    ],
+    "explanation_de": "Indien wurde am 15. August 1947 unabhängig und geteilt; Millionen flohen. Sukarno erklärte Indonesiens Unabhängigkeit 1945, die Niederlande erkannten sie 1949 an. Vietnams Weg führte über Dien Bien Phu.",
+    "explanation_ru": "Индия обрела независимость 15 августа 1947 года и была разделена; миллионы стали беженцами. Сукарно провозгласил независимость Индонезии в 1945 году, Нидерланды признали её в 1949-м. Путь Вьетнама лежал через Дьенбьенфу.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1947 CE",
-    "tags": ["Asien", "Politik"],
+    "tags": [
+      "Asien",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Nehru sprach die Unabhängigkeit um Mitternacht an: 'At the stroke of the midnight hour, India will awake to life and freedom.'",
@@ -545,15 +754,26 @@
     "question_ru": "Что такое Веймарская республика и её крах?",
     "correct_answer_de": "Die deutsche Demokratie (1919–1933) scheiterte an Inflation, Weltwirtschaftskrise und Nazi-Aufstieg",
     "correct_answer_ru": "Германская демократия (1919–1933) потерпела крах из-за инфляции, мировой экономической депрессии и подъёма нацистов",
-    "wrong_answers_de": ["Die Weimarer Republik war ein Kaiserreich unter einem gewählten Kanzler statt Kaiser", "Die Wirtschaft der Weimarer Republik boomte bis 1933 – der Zusammenbruch kam erst mit Hitler", "Die SPD gründete die Weimarer Republik und blieb bis 1933 an der Macht ohne Unterbrechung"],
-    "wrong_answers_ru": ["Веймарская республика была империей при выборном канцлере вместо императора", "Экономика Веймарской республики процветала до 1933 года — крах наступил лишь с Гитлером", "СДПГ основала Веймарскую республику и оставалась у власти до 1933 года без перерыва"],
-    "explanation_de": "November 1918: Republik ausgerufen (Scheidemann). Versailler Vertrag. Hyperinflation 1923 (1 $ = 4,2 Billionen Mark). 'Goldene Zwanziger'. Weltwirtschaftskrise 1929. NSDAP: 1928: 2,6 %, 1932: 37 %. Hindenburg ernannte Hitler 30. Januar 1933. Ermächtigungsgesetz: Ende der Demokratie.",
-    "explanation_ru": "Ноябрь 1918 года: провозглашена республика (Шейдеман). Версальский договор. Гиперинфляция 1923 года (1 $ = 4,2 триллиона марок). «Золотые двадцатые». Мировой кризис 1929 года. НСДАП: 1928: 2,6%, 1932: 37%. Гинденбург назначил Гитлера 30 января 1933 года. Закон о чрезвычайных полномочиях: конец демократии.",
+    "wrong_answers_de": [
+      "Die Weimarer Republik war ein Kaiserreich unter einem gewählten Kanzler statt Kaiser",
+      "Die Wirtschaft der Weimarer Republik boomte bis 1933 – der Zusammenbruch kam erst mit Hitler",
+      "Die SPD gründete die Weimarer Republik und blieb bis 1933 an der Macht ohne Unterbrechung"
+    ],
+    "wrong_answers_ru": [
+      "Веймарская республика была империей при выборном канцлере вместо императора",
+      "Экономика Веймарской республики процветала до 1933 года — крах наступил лишь с Гитлером",
+      "СДПГ основала Веймарскую республику и оставалась у власти до 1933 года без перерыва"
+    ],
+    "explanation_de": "Scheidemann rief im November 1918 die Republik aus. Hyperinflation 1923 und Weltwirtschaftskrise 1929 ließen die NSDAP von 2,6 auf 37 Prozent wachsen; Hindenburg ernannte Hitler am 30. Januar 1933.",
+    "explanation_ru": "Шейдеман провозгласил в ноябре 1918 года республику. Гиперинфляция 1923 года и мировой кризис 1929-го подняли НСДАП с 2,6 до 37 процентов; Гинденбург назначил Гитлера 30 января 1933 года.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1930 CE",
-    "tags": ["Deutschland", "Politik"],
+    "tags": [
+      "Deutschland",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "1923: Eine Schubkarre Bargeld für ein Brot – Kinder spielten mit Geldscheinen statt Bauklötzen.",
@@ -573,17 +793,29 @@
     "id": 9095,
     "question_de": "Was war das Apartheid-System in Südafrika im Detail?",
     "question_ru": "Что такое система апартеида в ЮАР в деталях?",
-    "correct_answer_de": "Apartheid (1948–1994): Gesetze trennten Rassen in allen Lebensbereichen – Homelands, Passgesetze, verbotene Mischehen",
-    "correct_answer_ru": "Апартеид (1948–1994): законы разделяли расы во всех сферах жизни — «хоумленды», законы о пропусках, запрет смешанных браков",
-    "wrong_answers_de": ["Apartheid bedeutete nur Rassentrennung in Schulen – andere Lebensbereiche blieben ungetrennt", "Schwarze Südafrikaner durften unter Apartheid wählen – aber nur in eigenen Homelands", "Apartheid endete 1980 durch internationale Sportboykotte und Wirtschaftssanktionen"],
-    "wrong_answers_ru": ["Апартеид означал лишь расовое разделение в школах — другие сферы жизни оставались нераздельными", "Чернокожие южноафриканцы могли голосовать при апартеиде — но только в собственных «хоумлендах»", "Апартеид закончился в 1980 году благодаря международным спортивным бойкотам и экономическим санкциям"],
-    "explanation_de": "Population Registration Act (1950): Klassifikation nach Rasse. Group Areas Act: Getrennte Wohngebiete. Passgesetze: Schwarze brauchten Ausweis für Bewegung. Homelands: 'Bantustans'. Sharpeville-Massaker 1960: 69 Demonstranten erschossen. ANC verboten, Mandela verhaftet. Soweto-Aufstand 1976.",
-    "explanation_ru": "Закон о регистрации населения (1950): классификация по расе. Закон о групповых районах: раздельные места проживания. Законы о пропусках: чернокожие нуждались в удостоверении для передвижения. «Хоумленды»: бантустаны. Расстрел в Шарпевилле 1960: 69 демонстрантов убиты. АНК запрещён, Мандела арестован. Восстание в Соуэто 1976.",
+    "correct_answer_de": "Apartheid: Gesetze trennten die Rassen – Homelands, Passgesetze",
+    "correct_answer_ru": "Апартеид: законы разделяли расы — бантустаны, пропускные законы",
+    "wrong_answers_de": [
+      "Apartheid trennte nur in Schulen, andere Bereiche blieben frei",
+      "Schwarze durften wählen, aber nur in ihren Homelands",
+      "Apartheid endete 1980 durch Sportboykotte und Sanktionen"
+    ],
+    "wrong_answers_ru": [
+      "Апартеид разделял только в школах, остальные сферы оставались свободными",
+      "Чернокожие могли голосовать, но только в своих бантустанах",
+      "Апартеид закончился в 1980 году из-за спортивных бойкотов и санкций"
+    ],
+    "explanation_de": "Der Population Registration Act (1950) klassifizierte Menschen nach «Rasse», Pässe beschränkten Schwarze. Beim Massaker von Sharpeville 1960 wurden 69 Demonstranten erschossen; 1976 folgte der Soweto-Aufstand.",
+    "explanation_ru": "Закон о регистрации населения (1950) классифицировал людей по «расам», пропуска ограничивали чернокожих. В Шарпевиле в 1960 году расстреляли 69 демонстрантов; в 1976-м последовало восстание в Соуэто.",
     "difficulty": "hard",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1975 CE",
-    "tags": ["Afrika", "Gesellschaft", "Recht"],
+    "tags": [
+      "Afrika",
+      "Gesellschaft",
+      "Recht"
+    ],
     "interesting_facts": [
       {
         "de": "Sharpeville (1960): Polizei erschoss 69 demonstrierende Schwarze im Rücken – Schuss in den Rücken zeigte, dass sie flohen.",
@@ -603,17 +835,28 @@
     "id": 9096,
     "question_de": "Was war die Entstehung des Nationalsozialismus in Deutschland?",
     "question_ru": "Что такое возникновение национал-социализма в Германии?",
-    "correct_answer_de": "Die NSDAP (gegründet 1919, Hitler seit 1921) kombinierte Nationalismus, Antisemitismus und Sozialismus zu einer Massenbewegung",
-    "correct_answer_ru": "НСДАП (основана в 1919, Гитлер с 1921 года) объединила национализм, антисемитизм и социализм в массовое движение",
-    "wrong_answers_de": ["Nationalsozialismus entstand als Reaktion auf den Kommunismus nach dem Ersten Weltkrieg in Bayern", "Hitler gründete die NSDAP 1924 nach seiner Freilassung aus dem Gefängnis nach dem Putsch", "Die NSDAP war eine kleine Splitterpartei bis 1933 ohne nennenswerte Unterstützung"],
-    "wrong_answers_ru": ["Национал-социализм возник как реакция на коммунизм после Первой мировой войны в Баварии", "Гитлер основал НСДАП в 1924 году после освобождения из тюрьмы после путча", "НСДАП была небольшой партией-осколком до 1933 года без заметной поддержки"],
-    "explanation_de": "Weimarer Republik, Versailler 'Schandfrieden', Hyperinflation. Hitler: Bierhallen-Putsch 1923, 'Mein Kampf'. Große Depression 1929: NSDAP von 2 % auf 37 %. Antisemitismus, Volksgemeinsschaft, Lebensraum im Osten. SA, SS. Hindenburg ernannte Hitler Januar 1933 – Kanzler ohne Mehrheit.",
-    "explanation_ru": "Веймарская республика, «позорный мир» в Версале, гиперинфляция. Гитлер: пивной путч 1923, «Майн кампф». Великая депрессия 1929: НСДАП с 2% до 37%. Антисемитизм, «народное сообщество», «жизненное пространство» на востоке. СА, СС. Гинденбург назначил Гитлера в январе 1933 — канцлер без большинства.",
+    "correct_answer_de": "Die NSDAP verband Nationalismus, Antisemitismus und Sozialismus zur Massenbewegung",
+    "correct_answer_ru": "НСДАП соединила национализм, антисемитизм и социализм в массовое движение",
+    "wrong_answers_de": [
+      "Der Nationalsozialismus entstand in Bayern gegen den Kommunismus",
+      "Hitler gründete die NSDAP 1924 nach seiner Freilassung aus dem Gefängnis nach dem Putsch",
+      "Die NSDAP war eine kleine Splitterpartei bis 1933 ohne nennenswerte Unterstützung"
+    ],
+    "wrong_answers_ru": [
+      "Национал-социализм возник в Баварии против коммунизма",
+      "Гитлер основал НСДАП в 1924 году после освобождения из тюрьмы после путча",
+      "НСДАП была небольшой партией-осколком до 1933 года без заметной поддержки"
+    ],
+    "explanation_de": "Hitler gründete nach dem Putsch von 1923 und «Mein Kampf» die NSDAP zur Massenpartei. In der Depression wuchs sie auf 37 Prozent; Hindenburg ernannte ihn im Januar 1933 zum Kanzler.",
+    "explanation_ru": "Гитлер после путча 1923 года и «Майн кампф» сделал НСДАП массовой партией. В депрессию она выросла до 37 процентов; Гинденбург назначил его в январе 1933 года канцлером.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1933 CE",
-    "tags": ["Deutschland", "Politik"],
+    "tags": [
+      "Deutschland",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Hitlers Aufstieg wurde von Konservativen unterschätzt: 'Wir werden ihn einrahmen' – fatal falsch.",
@@ -633,17 +876,28 @@
     "id": 9097,
     "question_de": "Was war die Palästinafrage und die Gründung Israels (1948)?",
     "question_ru": "Что такое Палестинский вопрос и основание Израиля (1948)?",
-    "correct_answer_de": "Israel wurde am 14. Mai 1948 gegründet – im selben Moment griffen 5 arabische Staaten an; Palästinenser flohen",
-    "correct_answer_ru": "Израиль был основан 14 мая 1948 года — в тот же момент 5 арабских государств напали; палестинцы бежали",
-    "wrong_answers_de": ["Israel wurde 1947 durch einen UN-Beschluss gegründet, ohne Krieg und mit Zustimmung der Araber", "England übergab 1948 das Mandat an die USA, die Israel gründeten", "Die Nakba ist der hebräische Begriff für die Gründung des jüdischen Staates Israel"],
-    "wrong_answers_ru": ["Израиль был основан в 1947 году решением ООН, без войны и с согласия арабов", "Англия в 1948 году передала мандат США, основавшим Израиль", "Накба — ивритский термин для основания еврейского государства Израиль"],
-    "explanation_de": "UN-Teilungsplan (1947): Jüdischer und arabischer Staat. David Ben-Gurion rief Israel aus. 5 arabische Armeen griffen an. 700.000 Palästinenser flohen ('Nakba' = Katastrophe auf Arabisch). Israel gewann Krieg. USA erkannten Israel sofort an. Palästinenserfrage ungelöst bis heute.",
-    "explanation_ru": "План раздела ООН (1947): еврейское и арабское государство. Давид Бен-Гурион провозгласил Израиль. 5 арабских армий напали. 700 000 палестинцев бежали («Накба» = катастрофа по-арабски). Израиль выиграл войну. США немедленно признали Израиль. Палестинский вопрос не решён по сей день.",
+    "correct_answer_de": "Israel wurde am 14. Mai 1948 gegründet – fünf arabische Staaten griffen an",
+    "correct_answer_ru": "Израиль основан 14 мая 1948 года — пять арабских государств напали",
+    "wrong_answers_de": [
+      "Israel entstand 1947 per UN-Beschluss ohne Krieg",
+      "England übergab 1948 das Mandat an die USA, die Israel gründeten",
+      "Die Nakba ist der hebräische Begriff für die Gründung des jüdischen Staates Israel"
+    ],
+    "wrong_answers_ru": [
+      "Израиль возник в 1947 году решением ООН без войны",
+      "Англия в 1948 году передала мандат США, основавшим Израиль",
+      "Накба — ивритский термин для основания еврейского государства Израиль"
+    ],
+    "explanation_de": "Nach dem UN-Teilungsplan von 1947 rief Ben-Gurion am 14. Mai 1948 Israel aus. Fünf arabische Armeen griffen an, 700.000 Palästinenser flohen («Nakba»); die Frage blieb ungelöst.",
+    "explanation_ru": "После плана раздела ООН 1947 года Бен-Гурион провозгласил 14 мая 1948 года Израиль. Пять арабских армий напали, 700 000 палестинцев бежали («накба»); вопрос остался нерешённым.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1948 CE",
-    "tags": ["Naher Osten", "Politik"],
+    "tags": [
+      "Naher Osten",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Truman erkannte Israel 11 Minuten nach Proklamation an – gegen den Rat von Außenminister Marshall.",
@@ -663,17 +917,29 @@
     "id": 9098,
     "question_de": "Was war die Beschleunigung des Weltraumzeitalters nach Sputnik?",
     "question_ru": "Что такое ускорение космической эры после Спутника?",
-    "correct_answer_de": "Nach Sputnik (1957) sendete die USA NASA-Budget explodierte: Gagarin (1961), Glenn (1962), Moon (1969), Space Shuttle (1981)",
-    "correct_answer_ru": "После Спутника (1957) бюджет NASA взорвался: Гагарин (1961), Гленн (1962), Луна (1969), шаттл (1981)",
-    "wrong_answers_de": ["Die Sowjetunion gewann das Weltraumrennen durch die erste Mondlandung 1968", "NASA wurde 1950 von Präsident Eisenhower gegründet – vor dem Sputnik-Schock", "Der Space Shuttle wurde von der UdSSR und den USA gemeinsam entwickelt"],
-    "wrong_answers_ru": ["Советский Союз выиграл космическую гонку благодаря первой высадке на Луну в 1968 году", "NASA была основана президентом Эйзенхауэром в 1950 году — до спутникового шока", "Космический шаттл был совместно разработан СССР и США"],
-    "explanation_de": "Sputnik 1957: Schockwelle in USA. NASA gegründet 1958. Wernher von Braun (ex-Nazi) baute Saturn V. Gagarin 1961 (erster Mensch im Weltall). Grissom, Glenn 1962. Apollo-Programm 1961–1972. Mars: Viking 1976. Voyager 1977 (noch unterwegs!). ISS (1998–heute). Privatisierung: SpaceX (Musk), Blue Origin (Bezos).",
-    "explanation_ru": "Спутник 1957: шоковая волна в США. NASA основана в 1958 году. Вернер фон Браун (бывший нацист) построил Saturn V. Гагарин 1961 (первый человек в космосе). Гриссом, Гленн 1962. Программа «Аполлон» 1961–1972. Марс: Viking 1976. Voyager 1977 (всё ещё в пути!). МКС (1998 — наши дни). Приватизация: SpaceX (Маск), Blue Origin (Безос).",
+    "correct_answer_de": "Nach Sputnik explodierte das NASA-Budget: Gagarin, Mondlandung, Shuttle",
+    "correct_answer_ru": "После Спутника бюджет НАСА взлетел: Гагарин, высадка на Луну, шаттл",
+    "wrong_answers_de": [
+      "Die Sowjetunion gewann das Weltraumrennen durch die erste Mondlandung 1968",
+      "NASA wurde 1950 von Präsident Eisenhower gegründet – vor dem Sputnik-Schock",
+      "Der Space Shuttle wurde von der UdSSR und den USA gemeinsam entwickelt"
+    ],
+    "wrong_answers_ru": [
+      "Советский Союз выиграл космическую гонку благодаря первой высадке на Луну в 1968 году",
+      "NASA была основана президентом Эйзенхауэром в 1950 году — до спутникового шока",
+      "Космический шаттл был совместно разработан СССР и США"
+    ],
+    "explanation_de": "Nach Sputnik gründeten die USA 1958 die NASA. Wernher von Braun baute die Saturn V, Gagarin flog 1961; seit 1998 kreist die ISS, heute fliegen auch private Firmen.",
+    "explanation_ru": "После Спутника США основали в 1958 году НАСА. Вернер фон Браун построил «Сатурн-5», Гагарин полетел в 1961-м; с 1998 года работает МКС, сегодня летают и частные компании.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1962 CE",
-    "tags": ["Technologie", "Kalter Krieg", "USA"],
+    "tags": [
+      "Technologie",
+      "Kalter Krieg",
+      "USA"
+    ],
     "interesting_facts": [
       {
         "de": "Sputnik 1 sendete einfach 'Beep Beep' – aber der Schock in den USA war enorm, weil er über sie flog.",
@@ -693,17 +959,29 @@
     "id": 9099,
     "question_de": "Was war die Kubanische Revolution (1959)?",
     "question_ru": "Что такое Кубинская революция (1959)?",
-    "correct_answer_de": "Fidel Castro und Che Guevara stürzten 1959 Diktator Batista in Kuba – Cuba wurde kommunistischer Staat vor der US-Haustür",
-    "correct_answer_ru": "Фидель Кастро и Эрнесто Гевара свергли в 1959 году диктатора Батисту на Кубе — Куба стала коммунистическим государством у порога США",
-    "wrong_answers_de": ["Die kubanische Revolution war eine demokratische Volksrevolution ohne kommunistische Ideologie", "Castro wurde 1959 von den USA unterstützt, weil er gegen den sowjetischen Einfluss war", "Che Guevara regierte Kuba bis zu seinem Tod 1967 als Präsident an Castros Seite"],
-    "wrong_answers_ru": ["Кубинская революция была демократической народной революцией без коммунистической идеологии", "Кастро был поддержан США в 1959 году, потому что был против советского влияния", "Эрнесто Гевара управлял Кубой вплоть до своей смерти в 1967 году как президент рядом с Кастро"],
-    "explanation_de": "Batista: US-freundlicher Diktator, korrupt. Castro und 80 Mann landeten 1956 mit dem Granma. Guerillakrieg in Sierra Maestra. Schweinebucht-Invasion (1961, CIA) scheiterte. Kuba unter US-Embargo bis heute. Che Guevara: Guerilla in Bolivien, 1967 erschossen. Kuba blieb kommunistisch bis nach Castros Tod (2016).",
-    "explanation_ru": "Батиста: проамериканский диктатор, коррумпированный. Кастро и 80 человек высадились в 1956 году на «Гранме». Партизанская война в Сьерра-Маэстра. Вторжение в Залив Свиней (1961, ЦРУ) провалилось. Куба под эмбарго США по сей день. Эрнесто Гевара: партизанщина в Боливии, расстрелян в 1967 году. Куба оставалась коммунистической вплоть до смерти Кастро (2016).",
+    "correct_answer_de": "Castro und Guevara stürzten 1959 Batista – Kuba wurde kommunistisch",
+    "correct_answer_ru": "Кастро и Гевара свергли в 1959 году Батисту — Куба стала коммунистической",
+    "wrong_answers_de": [
+      "Die Revolution war demokratisch und ohne kommunistische Ideologie",
+      "Castro wurde 1959 von den USA gestützt, weil er antisowjetisch war",
+      "Che Guevara regierte Kuba bis zu seinem Tod 1967 als Präsident an Castros Seite"
+    ],
+    "wrong_answers_ru": [
+      "Революция была демократической и без коммунистической идеологии",
+      "Кастро в 1959 году поддерживали США как антисоветского",
+      "Эрнесто Гевара управлял Кубой вплоть до своей смерти в 1967 году как президент рядом с Кастро"
+    ],
+    "explanation_de": "Castro landete 1956 mit rund 80 Mann auf der Granma und kämpfte in der Sierra Maestra. 1961 scheiterte die Schweinebucht-Invasion; Che Guevara wurde 1967 in Bolivien erschossen.",
+    "explanation_ru": "Кастро высадился в 1956 году с примерно 80 людьми с яхты «Гранма» и воевал в Сьерра-Маэстре. Вторжение в заливе Свиней в 1961 году провалилось; Че Гевару расстреляли в 1967-м.",
     "difficulty": "medium",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1959 CE",
-    "tags": ["Amerika", "Kalter Krieg", "Politik"],
+    "tags": [
+      "Amerika",
+      "Kalter Krieg",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Che Guevaras Foto (Alberto Korda, 1960) ist das meistreproduzierte Foto der Geschichte – T-Shirts weltweit.",
@@ -725,15 +1003,26 @@
     "question_ru": "Что такое открытие пенициллина и антибиотическая революция?",
     "correct_answer_de": "Alexander Flemings Penicillin-Entdeckung (1928) und Florey/Chains Entwicklung (1940s) retteten Millionen Leben",
     "correct_answer_ru": "Открытие пенициллина Александром Флемингом (1928) и разработка Флори/Чейна (1940-е) спасли миллионы жизней",
-    "wrong_answers_de": ["Penicillin wurde 1942 von Howard Florey als erstes Antibiotikum synthetisch hergestellt", "Fleming patentierte das Penicillin sofort und wurde dadurch zum reichsten Wissenschaftler", "Antibiotika wurden erst nach dem Zweiten Weltkrieg entwickelt – Penicillin war eine Kriegserfindung"],
-    "wrong_answers_ru": ["Пенициллин был синтетически получен в 1942 году Говардом Флори как первый антибиотик", "Флеминг немедленно запатентовал пенициллин и стал богатейшим учёным", "Антибиотики были разработаны лишь после Второй мировой войны — пенициллин был военным изобретением"],
-    "explanation_de": "Fleming (1928): Schimmelpilz tötete Bakterien auf Petrischale – zufällige Entdeckung. Florey und Chain (Oxford, 1940s) entwickelten Massenproduktion. Im WW2: Penicillin rettete Millionen Soldaten. Nobel 1945 (Fleming, Florey, Chain). Antibiotikaresistenz heute als globale Bedrohung.",
-    "explanation_ru": "Флеминг (1928): плесень убила бактерии в чашке Петри — случайное открытие. Флори и Чейн (Оксфорд, 1940-е) разработали массовое производство. Во Второй мировой войне: пенициллин спас миллионы солдат. Нобелевская премия 1945 (Флеминг, Флори, Чейн). Устойчивость к антибиотикам сегодня как глобальная угроза.",
+    "wrong_answers_de": [
+      "Penicillin wurde 1942 von Howard Florey als erstes Antibiotikum synthetisch hergestellt",
+      "Fleming patentierte das Penicillin sofort und wurde dadurch zum reichsten Wissenschaftler",
+      "Antibiotika wurden erst nach dem Zweiten Weltkrieg entwickelt – Penicillin war eine Kriegserfindung"
+    ],
+    "wrong_answers_ru": [
+      "Пенициллин был синтетически получен в 1942 году Говардом Флори как первый антибиотик",
+      "Флеминг немедленно запатентовал пенициллин и стал богатейшим учёным",
+      "Антибиотики были разработаны лишь после Второй мировой войны — пенициллин был военным изобретением"
+    ],
+    "explanation_de": "Fleming bemerkte 1928, dass ein Schimmelpilz Bakterien tötete. Florey und Chain entwickelten die Massenproduktion; 1945 erhielten alle drei den Nobelpreis. Heute ist Antibiotikaresistenz eine globale Bedrohung.",
+    "explanation_ru": "Флеминг заметил в 1928 году, что плесень убивает бактерии. Флори и Чейн наладили массовое производство; в 1945 году все трое получили Нобелевскую премию. Сегодня устойчивость к антибиотикам — глобальная угроза.",
     "difficulty": "easy",
     "category": "20. Jahrhundert",
     "type": "factual",
     "period": "1944 CE",
-    "tags": ["Wissenschaft", "England"],
+    "tags": [
+      "Wissenschaft",
+      "England"
+    ],
     "interesting_facts": [
       {
         "de": "Fleming entdeckte Penicillin, weil er vergaß, eine Petrischale zu reinigen – Zufall als Mutter der Erfindung.",

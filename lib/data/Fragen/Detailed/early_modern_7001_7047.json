@@ -47,14 +47,14 @@
     "correct_answer_de": "Veröffentlichung der 95 Thesen Luthers",
     "correct_answer_ru": "Публикация 95 тезисов Лютера",
     "wrong_answers_de": [
-      "Kreuzzug nach Jerusalem",
-      "Fall Konstantinopels",
-      "Entdeckung Amerikas"
+      "Gründung der Universität Wittenberg",
+      "Krönung Karls V. in Aachen",
+      "Einführung des Gregorianischen Kalenders"
     ],
     "wrong_answers_ru": [
-      "Крестовый поход в Иерусалим",
-      "Падение Константинополя",
-      "Открытие Америки"
+      "основание Виттенбергского университета",
+      "коронация Карла V в Аахене",
+      "введение григорианского календаря"
     ],
     "explanation_de": "Martin Luther veröffentlichte 1517 seine 95 Thesen gegen den Ablasshandel – der Ausgangspunkt der protestantischen Reformation.",
     "explanation_ru": "Мартин Лютер опубликовал в 1517 году 95 тезисов против торговли индульгенциями, что стало началом протестантской Реформации.",
@@ -88,14 +88,14 @@
     "correct_answer_de": "Hugenottenkriege",
     "correct_answer_ru": "Гугенотские войны",
     "wrong_answers_de": [
-      "Hundertjähriger Krieg",
-      "Rosenkriege",
-      "Dreißigjähriger Krieg"
+      "Bauernkrieg",
+      "Kappeler Kriege",
+      "Schmalkaldischer Krieg"
     ],
     "wrong_answers_ru": [
-      "Столетняя война",
-      "Война Алой и Белой розы",
-      "Тридцатилетняя война"
+      "Крестьянская война",
+      "Каппельские войны",
+      "Шмалькальденская война"
     ],
     "explanation_de": "Die Hugenottenkriege (französische Religionskriege) wurden zwischen Katholiken und protestantischen Hugenotten ausgetragen.",
     "explanation_ru": "Гугенотские войны (французские религиозные войны) велись между католиками и протестантами-гугенотами. Войны сопровождались массовыми убийствами. Нантский эдикт 1598 года положил им конец.",
@@ -170,14 +170,14 @@
     "correct_answer_de": "Spanien",
     "correct_answer_ru": "Испания",
     "wrong_answers_de": [
-      "Frankreich",
-      "Portugal",
-      "England"
+      "Niederlande",
+      "England",
+      "Schweden"
     ],
     "wrong_answers_ru": [
-      "Франция",
-      "Португалия",
-      "Англия"
+      "Нидерланды",
+      "Англия",
+      "Швеция"
     ],
     "explanation_de": "Spanien begann im 16. Jahrhundert die erste groß angelegte Kolonisierung Amerikas nach der Eroberung Mexikos und Perus.",
     "explanation_ru": "Испания первой начала масштабную колонизацию Америки в XVI веке после завоевания Мексики и Перу.",
@@ -211,14 +211,14 @@
     "correct_answer_de": "Augsburger Religionsfrieden",
     "correct_answer_ru": "Аугсбургский религиозный мир",
     "wrong_answers_de": [
-      "Edikt von Nantes",
-      "Wormser Reichstag",
-      "Tridentinisches Konzil"
+      "Wormser Konkordat",
+      "Confessio Augustana",
+      "Augsburger Interim"
     ],
     "wrong_answers_ru": [
-      "Нантский эдикт",
-      "Вормсский рейхстаг",
-      "Тридентский собор"
+      "Вормсский конкордат",
+      "Аугсбургское исповедание",
+      "Аугсбургский интерим"
     ],
     "explanation_de": "Der Augsburger Religionsfrieden von 1555 legte in Deutschland die religiöse Teilung zwischen Katholiken und Protestanten fest.",
     "explanation_ru": "Аугсбургский мир 1555 года закрепил религиозное разделение между католиками и протестантами в Германии. Каждый князь мог выбирать веру для своих земель.",
@@ -293,14 +293,14 @@
     "correct_answer_de": "Portugal",
     "correct_answer_ru": "Португалия",
     "wrong_answers_de": [
-      "Spanien",
-      "Frankreich",
-      "England"
+      "Genua",
+      "Venedig",
+      "Niederlande"
     ],
     "wrong_answers_ru": [
-      "Испания",
-      "Франция",
-      "Англия"
+      "Генуя",
+      "Венеция",
+      "Нидерланды"
     ],
     "explanation_de": "Portugal eröffnete Ende des 15. Jahrhunderts den Seeweg nach Indien um Afrika.",
     "explanation_ru": "Португалия открыла морской путь в Индию вокруг Африки в конце XV века. Васко да Гама достиг Индии в 1498 году.",
@@ -416,14 +416,14 @@
     "correct_answer_de": "Niederlage der Spanischen Armada",
     "correct_answer_ru": "Поражение Испанской Армады",
     "wrong_answers_de": [
-      "Fall Konstantinopels",
-      "Entdeckung Amerikas",
-      "Augsburger Religionsfrieden"
+      "Schlacht von Lepanto",
+      "Hinrichtung Maria Stuarts",
+      "Tod Philipps II."
     ],
     "wrong_answers_ru": [
-      "Падение Константинополя",
-      "Открытие Америки",
-      "Аугсбургский мир"
+      "битва при Лепанто",
+      "казнь Марии Стюарт",
+      "смерть Филиппа II"
     ],
     "explanation_de": "1588 wurde die Spanische Armada von englischen Schiffen in der Kanalregion geschlagen.",
     "explanation_ru": "В 1588 году Испанская Армада потерпела поражение от английского флота в Ла-Манше. Это ослабило морское господство Испании.",
@@ -498,14 +498,14 @@
     "correct_answer_de": "Niederlande",
     "correct_answer_ru": "Нидерланды",
     "wrong_answers_de": [
-      "Frankreich",
-      "Spanien",
-      "Portugal"
+      "Schweden",
+      "Dänemark",
+      "Venedig"
     ],
     "wrong_answers_ru": [
-      "Франция",
-      "Испания",
-      "Португалия"
+      "Швеция",
+      "Дания",
+      "Венеция"
     ],
     "explanation_de": "Die Niederlande wurden im 17. Jahrhundert zum wichtigsten Rivalen Englands in Seefahrt und Kolonisation.",
     "explanation_ru": "Нидерланды в XVII веке стали главным соперником Англии в мореплавании и колонизации. Конкуренция привела к нескольким англо-голландским войнам.",
@@ -539,14 +539,14 @@
     "correct_answer_de": "Pfälzischer Erbfolgekrieg",
     "correct_answer_ru": "Война Аугсбургской лиги",
     "wrong_answers_de": [
-      "Dreißigjähriger Krieg",
-      "Siebenjähriger Krieg",
-      "Spanischer Erbfolgekrieg"
+      "Nordischer Krieg",
+      "Achtzigjähriger Krieg",
+      "Großer Türkenkrieg"
     ],
     "wrong_answers_ru": [
-      "Тридцатилетняя война",
-      "Семилетняя война",
-      "Война за испанское наследство"
+      "Северная война",
+      "Восьмидесятилетняя война",
+      "Великая турецкая война"
     ],
     "explanation_de": "Der Pfälzische Erbfolgekrieg wurde zwischen England, den Niederlanden und Frankreich um Einfluss in Europa und den Kolonien geführt.",
     "explanation_ru": "Война Аугсбургской лиги велась между Англией, Нидерландами и Францией за влияние в Европе и колониях.",
@@ -580,14 +580,14 @@
     "correct_answer_de": "Niederlande",
     "correct_answer_ru": "Нидерланды",
     "wrong_answers_de": [
-      "Spanien",
-      "Portugal",
-      "Frankreich"
+      "Dänemark",
+      "Genua",
+      "Savoyen"
     ],
     "wrong_answers_ru": [
-      "Испания",
-      "Португалия",
-      "Франция"
+      "Дания",
+      "Генуя",
+      "Савойя"
     ],
     "explanation_de": "Die Niederlande gründeten die Ostindien-Kompanie (VOC), die den asiatischen Gewürzhandel dominierte.",
     "explanation_ru": "Нидерланды основали Ост-Индскую компанию (VOC), которая доминировала в азиатской торговле пряностями.",
@@ -703,13 +703,13 @@
     "correct_answer_de": "Spanischer Erbfolgekrieg",
     "correct_answer_ru": "Война за испанское наследство",
     "wrong_answers_de": [
-      "Dreißigjähriger Krieg",
-      "Siebenjähriger Krieg",
+      "Großer Nordischer Krieg",
+      "Österreichischer Erbfolgekrieg",
       "Pfälzischer Erbfolgekrieg"
     ],
     "wrong_answers_ru": [
-      "Тридцатилетняя война",
-      "Семилетняя война",
+      "Великая Северная война",
+      "Война за австрийское наследство",
       "Война Аугсбургской лиги"
     ],
     "explanation_de": "Der Spanische Erbfolgekrieg wurde zwischen europäischen Mächten um den Einfluss auf Spanien ausgetragen.",
@@ -744,14 +744,14 @@
     "correct_answer_de": "Fall Konstantinopels",
     "correct_answer_ru": "Падение Константинополя",
     "wrong_answers_de": [
-      "Entdeckung Amerikas",
-      "Beginn der Reformation",
-      "Westfälischer Frieden"
+      "Schlacht von Mohács",
+      "Frieden von Lodi",
+      "Gründung der Universität Basel"
     ],
     "wrong_answers_ru": [
-      "Открытие Америки",
-      "Начало Реформации",
-      "Вестфальский мир"
+      "битва при Мохаче",
+      "Лодийский мир",
+      "основание Базельского университета"
     ],
     "explanation_de": "Der Fall Konstantinopels 1453 unter Sultan Mehmed II. beendete das Byzantinische Reich und gilt als einer der Startpunkte der Frühen Neuzeit.",
     "explanation_ru": "Падение Константинополя в 1453 году под ударом султана Мехмеда II положило конец Византийской империи и считается одной из отправных точек Раннего Нового времени.",
@@ -908,14 +908,14 @@
     "correct_answer_de": "Dreißigjähriger Krieg",
     "correct_answer_ru": "Тридцатилетняя война",
     "wrong_answers_de": [
-      "Hundertjähriger Krieg",
-      "Siebenjähriger Krieg",
-      "Spanischer Erbfolgekrieg"
+      "Schmalkaldischer Krieg",
+      "Pfälzischer Erbfolgekrieg",
+      "Großer Türkenkrieg"
     ],
     "wrong_answers_ru": [
-      "Столетняя война",
-      "Семилетняя война",
-      "Война за испанское наследство"
+      "Шмалькальденская война",
+      "Война Аугсбургской лиги",
+      "Великая турецкая война"
     ],
     "explanation_de": "Der Dreißigjährige Krieg zwischen Katholiken und Protestanten verwüstete große Teile Mitteleuropas.",
     "explanation_ru": "Тридцатилетняя война между католиками и протестантами опустошила значительную часть Центральной Европы. Она завершилась Вестфальским миром 1648 года.",
@@ -949,14 +949,14 @@
     "correct_answer_de": "Westfälischer Frieden",
     "correct_answer_ru": "Вестфальский мир",
     "wrong_answers_de": [
-      "Augsburger Religionsfrieden",
-      "Edikt von Nantes",
-      "Friede von Paris"
+      "Friede von Utrecht",
+      "Frieden von Nystad",
+      "Pyrenäenfrieden"
     ],
     "wrong_answers_ru": [
-      "Аугсбургский мир",
-      "Нантский эдикт",
-      "Парижский мир"
+      "Утрехтский мир",
+      "Ништадтский мир",
+      "Пиренейский мир"
     ],
     "explanation_de": "Der Westfälische Frieden von 1648 beendete den Dreißigjährigen Krieg und bestätigte religiöse und politische Souveränität vieler Staaten.",
     "explanation_ru": "Вестфальский мир 1648 года закрепил религиозное разделение и политический суверенитет многих государств. Он стал основой современного международного права.",
@@ -990,14 +990,14 @@
     "correct_answer_de": "Englische Revolution",
     "correct_answer_ru": "Английская революция",
     "wrong_answers_de": [
-      "Glorreiche Revolution",
-      "Französische Revolution",
-      "Amerikanische Revolution"
+      "Fronde",
+      "Bauernkrieg",
+      "Niederländische Revolte"
     ],
     "wrong_answers_ru": [
-      "Славная революция",
-      "Французская революция",
-      "Американская революция"
+      "Фронда",
+      "Крестьянская война",
+      "Нидерландское восстание"
     ],
     "explanation_de": "Die Englische Revolution führte zur Hinrichtung König Karls I. und zur kurzzeitigen Republik unter Oliver Cromwell.",
     "explanation_ru": "Английская революция привела к казни короля Карла I и кратковременной республике под руководством Оливера Кромвеля.",
@@ -1072,14 +1072,14 @@
     "correct_answer_de": "Französische Revolution",
     "correct_answer_ru": "Французская революция",
     "wrong_answers_de": [
-      "Englische Revolution",
-      "Glorreiche Revolution",
-      "Amerikanische Revolution"
+      "Haitianische Revolution",
+      "Belgische Revolution",
+      "Julirevolution"
     ],
     "wrong_answers_ru": [
-      "Английская революция",
-      "Славная революция",
-      "Американская революция"
+      "Гаитянская революция",
+      "Бельгийская революция",
+      "Июльская революция"
     ],
     "explanation_de": "Die Französische Revolution von 1789 wurde zum Symbol für Freiheit, Gleichheit und Brüderlichkeit.",
     "explanation_ru": "Французская революция 1789 года стала символом борьбы за свободу, равенство и братство. Она привела к падению монархии и провозглашению республики.",
@@ -1277,14 +1277,14 @@
     "correct_answer_de": "Amerikanischer Unabhängigkeitskrieg",
     "correct_answer_ru": "Война за независимость США",
     "wrong_answers_de": [
-      "Englische Revolution",
-      "Französische Revolution",
-      "Siebenjähriger Krieg"
+      "Pontiac-Aufstand",
+      "Französischer und Indianischer Krieg",
+      "Haitianische Revolution"
     ],
     "wrong_answers_ru": [
-      "Английская революция",
-      "Французская революция",
-      "Семилетняя война"
+      "восстание Понтиака",
+      "Франко-индейская война",
+      "Гаитянская революция"
     ],
     "explanation_de": "Der Amerikanische Unabhängigkeitskrieg führte zur Gründung der Vereinigten Staaten als souveräner Staat.",
     "explanation_ru": "Война за независимость привела к образованию Соединённых Штатов как суверенного государства.",
@@ -1400,14 +1400,14 @@
     "correct_answer_de": "Nikolaus Kopernikus",
     "correct_answer_ru": "Николай Коперник",
     "wrong_answers_de": [
-      "Galileo Galilei",
-      "Tycho Brahe",
-      "Johannes Kepler"
+      "Giordano Bruno",
+      "Regiomontanus",
+      "Gerhard Mercator"
     ],
     "wrong_answers_ru": [
-      "Галилео Галилей",
-      "Тихо Браге",
-      "Иоганн Кеплер"
+      "Джордано Бруно",
+      "Региомонтан",
+      "Герард Меркатор"
     ],
     "explanation_de": "Nikolaus Kopernikus entwickelte das heliozentrische Modell, das die Erde um die Sonne kreisen lässt – und nicht umgekehrt.",
     "explanation_ru": "Николай Коперник разработал гелиоцентрическую модель, согласно которой Земля вращается вокруг Солнца, а не наоборот.",
@@ -1482,14 +1482,14 @@
     "correct_answer_de": "England",
     "correct_answer_ru": "Англия",
     "wrong_answers_de": [
-      "Spanien",
-      "Portugal",
-      "Frankreich"
+      "Österreich",
+      "Preußen",
+      "Russland"
     ],
     "wrong_answers_ru": [
-      "Испания",
-      "Португалия",
-      "Франция"
+      "Австрия",
+      "Пруссия",
+      "Россия"
     ],
     "explanation_de": "England baute im 18. Jahrhundert ein Kolonialreich in Afrika und Asien auf.",
     "explanation_ru": "Англия в XVIII веке выстроила обширную колониальную империю в Африке и Азии.",
@@ -1564,14 +1564,14 @@
     "correct_answer_de": "James Cook",
     "correct_answer_ru": "Джеймс Кук",
     "wrong_answers_de": [
-      "Francis Drake",
-      "Walter Raleigh",
-      "Henry Hudson"
+      "James Clark Ross",
+      "Abel Tasman",
+      "George Vancouver"
     ],
     "wrong_answers_ru": [
-      "Фрэнсис Дрейк",
-      "Уолтер Рэли",
-      "Генри Гудзон"
+      "Джеймс Кларк Росс",
+      "Абел Тасман",
+      "Джордж Ванкувер"
     ],
     "explanation_de": "James Cook führte drei große Weltreisen durch und erstellte genaue Karten der Südsee und Australiens.",
     "explanation_ru": "Джеймс Кук совершил три кругосветных экспедиции и составил точные карты Тихого океана и Австралии.",
@@ -1646,14 +1646,14 @@
     "correct_answer_de": "Siebenjähriger Krieg",
     "correct_answer_ru": "Семилетняя война",
     "wrong_answers_de": [
-      "Dreißigjähriger Krieg",
-      "Spanischer Erbfolgekrieg",
-      "Napoleonische Kriege"
+      "Devolutionskrieg",
+      "Krimkrieg",
+      "Nordischer Krieg"
     ],
     "wrong_answers_ru": [
-      "Тридцатилетняя война",
-      "Война за испанское наследство",
-      "Наполеоновские войны"
+      "Деволюционная война",
+      "Крымская война",
+      "Северная война"
     ],
     "explanation_de": "Der Siebenjährige Krieg wurde zwischen europäischen Mächten ausgetragen und erstreckte sich auch auf Amerika und Asien.",
     "explanation_ru": "Семилетняя война велась между европейскими державами и охватила Европу, Америку и Азию.",
@@ -1687,14 +1687,14 @@
     "correct_answer_de": "Frankreich",
     "correct_answer_ru": "Франция",
     "wrong_answers_de": [
-      "Spanien",
-      "Portugal",
-      "Niederlande"
+      "Russland",
+      "Polen",
+      "Preußen"
     ],
     "wrong_answers_ru": [
-      "Испания",
-      "Португалия",
-      "Нидерланды"
+      "Россия",
+      "Польша",
+      "Пруссия"
     ],
     "explanation_de": "Frankreich wurde im 18. Jahrhundert zum wichtigsten Rivalen Englands in Kolonialhandel und Seekriegen.",
     "explanation_ru": "Франция в XVIII веке стала главным соперником Англии в колониальной торговле и морских войнах.",
@@ -1728,14 +1728,14 @@
     "correct_answer_de": "Glorreiche Revolution",
     "correct_answer_ru": "Славная революция",
     "wrong_answers_de": [
-      "Englische Revolution",
-      "Französische Revolution",
-      "Amerikanische Revolution"
+      "Monmouth-Rebellion",
+      "Fronde",
+      "Bauernaufstand von 1381"
     ],
     "wrong_answers_ru": [
-      "Английская революция",
-      "Французская революция",
-      "Американская революция"
+      "восстание Монмута",
+      "Фронда",
+      "крестьянское восстание 1381 года"
     ],
     "explanation_de": "Die Glorreiche Revolution von 1688 machte die englische Monarchie konstitutionell und stärkte das Parlament.",
     "explanation_ru": "Славная революция 1688 года превратила английскую монархию в конституционную и укрепила парламент.",
@@ -1769,14 +1769,14 @@
     "correct_answer_de": "England",
     "correct_answer_ru": "Англия",
     "wrong_answers_de": [
-      "Spanien",
-      "Portugal",
-      "Frankreich"
+      "Österreich",
+      "Schottland",
+      "Russland"
     ],
     "wrong_answers_ru": [
-      "Испания",
-      "Португалия",
-      "Франция"
+      "Австрия",
+      "Шотландия",
+      "Россия"
     ],
     "explanation_de": "England gründete die East India Company, die den Handel in Indien dominierte.",
     "explanation_ru": "Англия основала Ост-Индскую компанию, которая доминировала в торговле с Индией.",
@@ -1848,8 +1848,8 @@
     "id": 7046,
     "question_de": "Was versteht man unter dem Begriff „Merkantilismus” in der Wirtschaftspolitik der Frühen Neuzeit?",
     "question_ru": "Что понимается под термином «меркантилизм» в экономической политике Раннего Нового времени?",
-    "correct_answer_de": "Staatliche Förderung des Exports und Ansammlung von Edelmetallen",
-    "correct_answer_ru": "Государственное поощрение экспорта и накопление драгоценных металлов",
+    "correct_answer_de": "Förderung des Exports und Ansammlung von Edelmetallen",
+    "correct_answer_ru": "Поощрение экспорта и накопление драгоценных металлов",
     "wrong_answers_de": [
       "Freier Handel ohne staatliche Eingriffe",
       "Verteilung des Landes an Bauern",
@@ -1892,14 +1892,14 @@
     "correct_answer_de": "Österreichischer Erbfolgekrieg",
     "correct_answer_ru": "Война за австрийское наследство",
     "wrong_answers_de": [
-      "Dreißigjähriger Krieg",
-      "Siebenjähriger Krieg",
-      "Spanischer Erbfolgekrieg"
+      "Polnischer Erbfolgekrieg",
+      "Holländischer Krieg",
+      "Nordischer Krieg"
     ],
     "wrong_answers_ru": [
-      "Тридцатилетняя война",
-      "Семилетняя война",
-      "Война за испанское наследство"
+      "Война за польское наследство",
+      "Голландская война",
+      "Северная война"
     ],
     "explanation_de": "Der Österreichische Erbfolgekrieg wurde zwischen europäischen Mächten um Einfluss auf Österreich geführt.",
     "explanation_ru": "Война за австрийское наследство велась между европейскими державами за влияние над Австрией.",

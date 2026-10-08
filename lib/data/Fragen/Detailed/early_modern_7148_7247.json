@@ -349,8 +349,8 @@
       "Оле Рёмер",
       "Христиан Гюйгенс"
     ],
-    "explanation_de": "Edmond Halley erkannte 1705, dass die Kometen von 1531, 1607 und 1682 dasselbe Objekt waren, und sagte seine Rückkehr für 1758 voraus. Der Komet wurde nach ihm benannt.",
-    "explanation_ru": "В 1705 году Эдмунд Галлей установил, что кометы 1531, 1607 и 1682 годов — одно и то же тело, и предсказал его возвращение в 1758 году. Комета была названа его именем.",
+    "explanation_de": "Edmond Halley erkannte 1705, dass die Kometen von 1531, 1607 und 1682 derselbe waren, und sagte die Rückkehr für 1758 voraus.",
+    "explanation_ru": "Эдмунд Галлей установил в 1705 году, что кометы 1531, 1607 и 1682 годов — одна и та же, и предсказал её возвращение в 1758-м.",
     "difficulty": "easy",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -420,8 +420,8 @@
     "id": 7158,
     "question_de": "Was war der 'Große Brand von London' 1666 und welche Folge hatte er für die Stadtentwicklung?",
     "question_ru": "Что такое «Великий лондонский пожар» 1666 года и каковы были его последствия для развития города?",
-    "correct_answer_de": "Ein verheerender Stadtbrand, der zum Neubau von St. Paul's Cathedral durch Wren führte",
-    "correct_answer_ru": "Опустошительный городской пожар, после которого Рен возвёл новый собор Святого Павла",
+    "correct_answer_de": "Ein Stadtbrand, der zum Neubau von St Paul's durch Wren führte",
+    "correct_answer_ru": "Городской пожар, приведший к новой постройке собора Св. Павла Реном",
     "wrong_answers_de": [
       "Eine Feuersbrunst, die durch Plague-Kranke gelegt wurde",
       "Ein Anschlag der Franzosen auf London",
@@ -548,12 +548,12 @@
     "correct_answer_de": "Heinrich IV. (Henri Quatre)",
     "correct_answer_ru": "Генрих IV",
     "wrong_answers_de": [
-      "Ludwig XIII.",
+      "Franz I.",
       "Karl IX.",
       "Heinrich III."
     ],
     "wrong_answers_ru": [
-      "Людовик XIII",
+      "Франциск I",
       "Карл IX",
       "Генрих III"
     ],
@@ -674,14 +674,14 @@
     "correct_answer_de": "Siebenjähriger Krieg",
     "correct_answer_ru": "Семилетняя война",
     "wrong_answers_de": [
-      "Dreißigjähriger Krieg",
       "Österreichischer Erbfolgekrieg",
-      "Spanischer Erbfolgekrieg"
+      "Devolutionskrieg",
+      "Großer Nordischer Krieg"
     ],
     "wrong_answers_ru": [
-      "Тридцатилетняя война",
       "Война за австрийское наследство",
-      "Война за испанское наследство"
+      "Деволюционная война",
+      "Великая Северная война"
     ],
     "explanation_de": "Der Siebenjährige Krieg fand gleichzeitig in Europa, Nordamerika (French and Indian War), Indien und den Karibikinseln statt. Preußen überlebte dank Friedrich des Großen und dem Tod der Zarin Elisabeth.",
     "explanation_ru": "Семилетняя война велась одновременно в Европе, Северной Америке (Война с французами и индейцами), Индии и на Карибских островах. Пруссия выжила благодаря Фридриху Великому и смерти царицы Елизаветы.",
@@ -1045,7 +1045,7 @@
     "question_de": "Wer war Robespierre und welche Rolle spielte er in der Terrorherrschaft der Französischen Revolution (1793–1794)?",
     "question_ru": "Кто такой Робеспьер и какую роль он сыграл в период якобинского террора Французской революции (1793–1794)?",
     "correct_answer_de": "Führer des Wohlfahrtsausschusses, der Tausende guillotinieren ließ",
-    "correct_answer_ru": "Руководитель Комитета общественного спасения, отправивший тысячи на гильотину",
+    "correct_answer_ru": "Глава Комитета общественного спасения, отправивший на гильотину тысячи",
     "wrong_answers_de": [
       "Befehlshaber der royalistischen Armee",
       "Verfasser der Menschenrechtserklärung",
@@ -1336,14 +1336,14 @@
     "correct_answer_de": "John Cabot (Giovanni Caboto)",
     "correct_answer_ru": "Джон Кабот (Джованни Кабото)",
     "wrong_answers_de": [
-      "Walter Raleigh",
-      "Martin Frobisher",
-      "Francis Drake"
+      "Jacques Cartier",
+      "Giovanni da Verrazzano",
+      "Humphrey Gilbert"
     ],
     "wrong_answers_ru": [
-      "Уолтер Рэли",
-      "Мартин Фробишер",
-      "Фрэнсис Дрейк"
+      "Жак Картье",
+      "Джованни да Верраццано",
+      "Хамфри Гилберт"
     ],
     "explanation_de": "John Cabot, ein venezianischer Seefahrer im Dienst König Heinrichs VII., erreichte 1497 Nordamerika (wahrscheinlich Neufundland) und begründete damit Englands Ansprüche auf den Kontinent.",
     "explanation_ru": "Джон Кабот, венецианский мореплаватель на службе короля Генриха VII, в 1497 году достиг Северной Америки (предположительно Ньюфаундленда) и тем самым обосновал претензии Англии на этот континент.",
@@ -1378,14 +1378,14 @@
     "correct_answer_de": "Henry Hudson",
     "correct_answer_ru": "Генри Хадсон",
     "wrong_answers_de": [
-      "John Cabot",
-      "Martin Frobisher",
-      "William Baffin"
+      "John Davis",
+      "Samuel de Champlain",
+      "Willem Barents"
     ],
     "wrong_answers_ru": [
-      "Джон Кабот",
-      "Мартин Фробишер",
-      "Уильям Баффин"
+      "Джон Дейвис",
+      "Самюэль де Шамплен",
+      "Виллем Баренц"
     ],
     "explanation_de": "Henry Hudson suchte die Nordwestpassage nach Asien. 1609 erkundete er den Hudson River für die VOC; 1610 gelangte er in die Hudson Bay, wo seine Mannschaft meuterte und ihn aussetzte.",
     "explanation_ru": "Генри Хадсон искал Северо-западный проход в Азию. В 1609 году он исследовал реку Гудзон для VOC; в 1610 году достиг Гудзонова залива, где экипаж взбунтовался и высадил его на берег.",
@@ -1461,14 +1461,14 @@
     "correct_answer_de": "Walter Raleigh",
     "correct_answer_ru": "Уолтер Рэли",
     "wrong_answers_de": [
-      "Francis Drake",
-      "John Hawkins",
-      "Martin Frobisher"
+      "Humphrey Gilbert",
+      "Richard Grenville",
+      "George Somers"
     ],
     "wrong_answers_ru": [
-      "Фрэнсис Дрейк",
-      "Джон Хокинс",
-      "Мартин Фробишер"
+      "Хамфри Гилберт",
+      "Ричард Гренвиль",
+      "Джордж Сомерс"
     ],
     "explanation_de": "Sir Walter Raleigh organisierte zwei Expeditionen nach Guayana, um El Dorado zu finden. Er gründete auch die erste englische Kolonie in Amerika (Roanoke, 1585), die spurlos verschwand.",
     "explanation_ru": "Сэр Уолтер Рэли организовал две экспедиции в Гвиану в поисках Эльдорадо. Он также основал первую английскую колонию в Америке (Роанок, 1585), бесследно исчезнувшую.",
@@ -1584,8 +1584,8 @@
     "id": 7186,
     "question_de": "Was war das Encomienda-System in den spanischen Kolonien Amerikas?",
     "question_ru": "Что такое система энкомьенды в испанских колониях Америки?",
-    "correct_answer_de": "Ein System, bei dem Conquistadoren indigene Arbeitskraft und Tribut erhielten",
-    "correct_answer_ru": "Система, при которой конкистадоры получали право на труд и дань коренного населения",
+    "correct_answer_de": "Conquistadoren erhielten indigene Arbeitskraft und Tribut",
+    "correct_answer_ru": "Конкистадоры получали труд и дань коренных жителей",
     "wrong_answers_de": [
       "Ein System zur Verteilung von Silberminen",
       "Eine Form des Sklavenhandels mit Afrika",
@@ -1679,8 +1679,8 @@
       "Гуанахуато",
       "Серро-Рико-де-Уанкавелика"
     ],
-    "explanation_de": "Der Cerro Rico in Potosí lieferte ab 1545 ungeheure Silbermengen. Die Stadt wurde mit 160.000 Einwohnern eine der größten der Welt – auf Kosten von Millionen Indigenen, die in den Minen starben.",
-    "explanation_ru": "Серро-Рико в Потоси с 1545 года давал огромные количества серебра. Город с населением 160 000 человек стал одним из крупнейших в мире — ценой жизни миллионов коренных жителей, погибших в шахтах.",
+    "explanation_de": "Der Cerro Rico in Potosí lieferte ab 1545 riesige Silbermengen. Die Stadt wuchs auf 160.000 Einwohner, auf Kosten von Millionen Indigenen in den Minen.",
+    "explanation_ru": "Серро-Рико в Потоси с 1545 года давал огромное количество серебра. Город вырос до 160 000 жителей ценой жизни миллионов индейцев в шахтах.",
     "difficulty": "medium",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -1750,8 +1750,8 @@
     "id": 7190,
     "question_de": "Was war der 'Dreieckshandel' und welche drei Regionen verband er im Atlantik?",
     "question_ru": "Что такое «треугольная торговля» и какие три региона она связывала в Атлантике?",
-    "correct_answer_de": "Europa – Afrika (Sklaven) – Amerika (Rohstoffe) zurück nach Europa",
-    "correct_answer_ru": "Европа — Африка (рабы) — Америка (сырьё) — обратно в Европу",
+    "correct_answer_de": "Europa – Afrika – Amerika und zurück nach Europa",
+    "correct_answer_ru": "Европа — Африка — Америка и обратно в Европу",
     "wrong_answers_de": [
       "Portugal – Indien – China",
       "England – Niederlande – Spanien",
@@ -1795,14 +1795,14 @@
     "correct_answer_de": "Mehmed II. (Mehmed der Eroberer)",
     "correct_answer_ru": "Мехмед II (Мехмед Завоеватель)",
     "wrong_answers_de": [
-      "Murad II.",
-      "Selim I.",
-      "Bayezid I."
+      "Murad I.",
+      "Bayezid II.",
+      "Orhan"
     ],
     "wrong_answers_ru": [
-      "Мурад II",
-      "Селим I",
-      "Баязид I"
+      "Мурад I",
+      "Баязид II",
+      "Орхан"
     ],
     "explanation_de": "Mehmed II. ließ einen ungarischen Ingenieur namens Urban Riesenkanonen bauen, die die Theodosianischen Mauern zerstörten. Am 29. Mai 1453 fiel Konstantinopel nach 53 Tagen Belagerung.",
     "explanation_ru": "Мехмед II велел венгерскому инженеру Урбану построить гигантские пушки, разрушившие Феодосийские стены. 29 мая 1453 года Константинополь пал после 53 дней осады.",
@@ -1875,8 +1875,8 @@
     "id": 7193,
     "question_de": "Was versteht man unter dem Begriff 'aufgeklärter Absolutismus', der im 18. Jahrhundert in Europa verbreitet war?",
     "question_ru": "Что понимается под понятием «просвещённый абсолютизм», распространённым в Европе XVIII века?",
-    "correct_answer_de": "Regierungsform, bei der absolute Herrscher Reformen im Geist der Aufklärung umsetzten",
-    "correct_answer_ru": "Форма правления, при которой абсолютные монархи проводили реформы в духе Просвещения",
+    "correct_answer_de": "Absolute Herrscher setzten Reformen im Geist der Aufklärung um",
+    "correct_answer_ru": "Абсолютные монархи проводили реформы в духе Просвещения",
     "wrong_answers_de": [
       "Demokratie mit Volkssouveränität",
       "Kirchenherrschaft unter päpstlicher Führung",
@@ -2127,14 +2127,14 @@
     "correct_answer_de": "Spanischer Erbfolgekrieg",
     "correct_answer_ru": "Война за испанское наследство",
     "wrong_answers_de": [
-      "Österreichischer Erbfolgekrieg",
+      "Polnischer Erbfolgekrieg",
       "Pfälzer Erbfolgekrieg",
-      "Siebenjähriger Krieg"
+      "Nordischer Krieg"
     ],
     "wrong_answers_ru": [
-      "Война за австрийское наследство",
+      "Война за польское наследство",
       "Война за Пфальцское наследство",
-      "Семилетняя война"
+      "Северная война"
     ],
     "explanation_de": "Als der letzte spanische Habsburg Karl II. starb, stritten Frankreich und Österreich um die Thronfolge. England, die Niederlande und Portugal kämpften gegen Frankreichs Dominanz.",
     "explanation_ru": "Когда последний испанский Габсбург Карл II умер, Франция и Австрия поспорили о праве на престол. Англия, Нидерланды и Португалия воевали против французского господства.",
@@ -2166,8 +2166,8 @@
     "id": 7200,
     "question_de": "Was ist die 'Pragmatische Sanktion' von 1713, die Kaiser Karl VI. erließ?",
     "question_ru": "Что такое «Прагматическая санкция» 1713 года, изданная императором Карлом VI?",
-    "correct_answer_de": "Ein Gesetz, das die Untrennbarkeit der Habsburgerländer und Erbrecht für Töchter sicherte",
-    "correct_answer_ru": "Закон, обеспечивший нераздельность владений Габсбургов и право наследования для дочерей",
+    "correct_answer_de": "Ein Gesetz über die Unteilbarkeit der Habsburgerländer",
+    "correct_answer_ru": "Закон о неделимости земель Габсбургов",
     "wrong_answers_de": [
       "Ein Dekret zur Abschaffung der Leibeigenschaft",
       "Ein Vertrag mit dem osmanischen Reich",
@@ -2178,8 +2178,8 @@
       "Договор с Османской империей",
       "Декларация свободы вероисповедания"
     ],
-    "explanation_de": "Da Karl VI. keinen Sohn hatte, erließ er die Pragmatische Sanktion, um seiner Tochter Maria Theresia die Nachfolge zu sichern. Viele Mächte erkannten sie formal an – und brachen das Versprechen 1740.",
-    "explanation_ru": "Поскольку у Карла VI не было сына, он издал Прагматическую санкцию, чтобы обеспечить наследование своей дочери Марии Терезии. Многие державы формально признали её — и нарушили обещание в 1740 году.",
+    "explanation_de": "Da Karl VI. keinen Sohn hatte, sicherte er seiner Tochter Maria Theresia mit der Pragmatischen Sanktion die Nachfolge. Viele Mächte brachen 1740 ihr Versprechen.",
+    "explanation_ru": "У Карла VI не было сына, и Прагматической санкцией он закрепил престол за дочерью Марией Терезией. Многие державы в 1740 году нарушили обещание.",
     "difficulty": "hard",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -2249,8 +2249,8 @@
     "id": 7202,
     "question_de": "Welcher niederländische Naturforscher und Künstler fertigte 1705 das erste wissenschaftliche Werk über tropische Insekten an, das Maria Sibylla Merian verfasste?",
     "question_ru": "Кто создал в 1705 году первый научный труд о тропических насекомых — Мария Сибилла Мериан?",
-    "correct_answer_de": "Maria Sibylla Merian (Naturforscherin und Malerin)",
-    "correct_answer_ru": "Мария Сибилла Мериан (натуралист и художница)",
+    "correct_answer_de": "Maria Sibylla Merian",
+    "correct_answer_ru": "Мария Сибилла Мериан",
     "wrong_answers_de": [
       "Anna Maria von Schurman",
       "Elisabeth Hevelius",
@@ -2332,8 +2332,8 @@
     "id": 7204,
     "question_de": "Was war Neues Amsterdam und warum heißt die Stadt heute New York?",
     "question_ru": "Что такое Новый Амстердам и почему этот город сегодня называется Нью-Йорк?",
-    "correct_answer_de": "Eine niederländische Kolonie am Hudson, die 1664 kampflos an England übergeben wurde",
-    "correct_answer_ru": "Нидерландская колония на Гудзоне, в 1664 году без боя переданная Англии",
+    "correct_answer_de": "Eine niederländische Kolonie am Hudson, 1664 an England übergeben",
+    "correct_answer_ru": "Голландская колония на Гудзоне, переданная Англии в 1664 году",
     "wrong_answers_de": [
       "Eine französische Siedlung in Kanada",
       "Eine englische Kolonie in der Karibik",
@@ -2344,8 +2344,8 @@
       "Английская колония в Карибском море",
       "Первая столица США"
     ],
-    "explanation_de": "Die VOC-Handelsniederlassung New Amsterdam auf Manhattan wurde 1664 von englischen Schiffen bedroht und ohne Kampf übergeben. König Karl II. benannte sie nach seinem Bruder, dem Duke of York.",
-    "explanation_ru": "Торговая база VOC Новый Амстердам на Манхэттене в 1664 году была поставлена под угрозу английскими кораблями и сдана без боя. Король Карл II переименовал её в честь своего брата, герцога Йоркского.",
+    "explanation_de": "1664 erschienen englische Schiffe vor New Amsterdam, das ohne Kampf kapitulierte. Karl II. benannte es nach seinem Bruder, dem Duke of York.",
+    "explanation_ru": "В 1664 году у Нового Амстердама появились английские корабли, и город сдался без боя. Карл II назвал его в честь брата, герцога Йоркского.",
     "difficulty": "easy",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -2377,14 +2377,14 @@
     "correct_answer_de": "Francis Drake",
     "correct_answer_ru": "Фрэнсис Дрейк",
     "wrong_answers_de": [
-      "John Hawkins",
-      "Walter Raleigh",
-      "Martin Frobisher"
+      "Thomas Cavendish",
+      "Richard Hawkins",
+      "Henry Morgan"
     ],
     "wrong_answers_ru": [
-      "Джон Хокинс",
-      "Уолтер Рэли",
-      "Мартин Фробишер"
+      "Томас Кавендиш",
+      "Ричард Хокинс",
+      "Генри Морган"
     ],
     "explanation_de": "Francis Drake fuhr mit seinem Schiff 'Golden Hind' um die Welt, plünderte unterwegs spanische Häfen und Schiffe und kehrte mit enormen Reichtümern zurück. Königin Elisabeth I. schlug ihn zum Ritter.",
     "explanation_ru": "Фрэнсис Дрейк обошёл вокруг света на корабле «Золотая лань», по пути грабя испанские порты и суда, и вернулся с огромными богатствами. Королева Елизавета I возвела его в рыцари.",
@@ -2419,14 +2419,14 @@
     "correct_answer_de": "Jean-Jacques Rousseau",
     "correct_answer_ru": "Жан-Жак Руссо",
     "wrong_answers_de": [
-      "John Locke",
-      "Thomas Hobbes",
-      "Voltaire"
+      "Immanuel Kant",
+      "Denis Diderot",
+      "Montesquieu"
     ],
     "wrong_answers_ru": [
-      "Джон Локк",
-      "Томас Гоббс",
-      "Вольтер"
+      "Иммануил Кант",
+      "Дени Дидро",
+      "Монтескьё"
     ],
     "explanation_de": "Rousseaus 'Du contrat social' (1762) erklärte, dass souveräne Macht beim Volk liegt und Regierungen abgesetzt werden können, wenn sie den Volkswillen nicht vertreten.",
     "explanation_ru": "«Об общественном договоре» (1762) Руссо утверждал, что суверенная власть принадлежит народу и правительства могут быть смещены, если они не выражают народную волю.",
@@ -2458,8 +2458,8 @@
     "id": 7207,
     "question_de": "Welche Entdeckung machte der Niederländer Abel Tasman 1642, als er im Auftrag der VOC unbekannte Südmeere erkundete?",
     "question_ru": "Какое открытие совершил нидерландец Абел Тасман в 1642 году, исследуя неизвестные южные моря по заданию VOC?",
-    "correct_answer_de": "Er entdeckte Neuseeland und Tasmanien als erster Europäer",
-    "correct_answer_ru": "Он первым из европейцев открыл Новую Зеландию и Тасманию",
+    "correct_answer_de": "Er entdeckte Neuseeland und Tasmanien",
+    "correct_answer_ru": "Он открыл Новую Зеландию и Тасманию",
     "wrong_answers_de": [
       "Er fand den Seeweg nach China",
       "Er entdeckte Australiens Westküste",
@@ -2584,8 +2584,8 @@
     "id": 7210,
     "question_de": "Was verstand man im 17. und 18. Jahrhundert unter dem Begriff 'Merkantilismus'?",
     "question_ru": "Что понималось в XVII–XVIII веках под понятием «меркантилизм»?",
-    "correct_answer_de": "Wirtschaftspolitik, bei der der Staat Exporte fördert, Importe begrenzt und Edelmetalle ansammelt",
-    "correct_answer_ru": "Экономическая политика, при которой государство поощряет экспорт, ограничивает импорт и накапливает драгоценные металлы",
+    "correct_answer_de": "Der Staat fördert Exporte, begrenzt Importe und sammelt Edelmetalle",
+    "correct_answer_ru": "Государство поощряет экспорт, ограничивает импорт и копит драгметаллы",
     "wrong_answers_de": [
       "Freihandel ohne staatliche Eingriffe",
       "Planung der Wirtschaft durch eine Zentralbehörde",
@@ -2707,8 +2707,8 @@
     "id": 7213,
     "question_de": "Was war der 'Prager Fenstersturz' von 1618 und wie löste er den Dreißigjährigen Krieg aus?",
     "question_ru": "Что такое «Пражская дефенестрация» 1618 года и как она положила начало Тридцатилетней войне?",
-    "correct_answer_de": "Protestantische Aufständische warfen zwei kaiserliche Statthalter aus einem Fenster des Prager Schlosses",
-    "correct_answer_ru": "Протестантские повстанцы выбросили двух имперских наместников из окна Пражского замка",
+    "correct_answer_de": "Aufständische warfen zwei kaiserliche Statthalter aus einem Prager Fenster",
+    "correct_answer_ru": "Повстанцы выбросили двух императорских наместников из окна в Праге",
     "wrong_answers_de": [
       "Eine Explosion im Pulverturm tötete kaiserliche Beamte",
       "Böhmische Bauern erstürmten das Stadttor",
@@ -2719,8 +2719,8 @@
       "Богемские крестьяне взяли штурмом городские ворота",
       "Протестантских проповедников изгнали из города"
     ],
-    "explanation_de": "Am 23. Mai 1618 stürzten protestantische Adelsmänner zwei kaiserliche Statthalter und deren Sekretär aus einem Fenster der Prager Burg – aus 17 Meter Höhe. Sie überlebten, weil sie auf einen Misthaufen fielen.",
-    "explanation_ru": "23 мая 1618 года протестантские дворяне сбросили двух имперских наместников и их секретаря из окна Пражского замка — с высоты 17 метров. Они выжили, упав на кучу навоза.",
+    "explanation_de": "Am 23. Mai 1618 warfen böhmische Protestanten zwei kaiserliche Statthalter und einen Sekretär aus einem Fenster der Prager Burg. Sie landeten weich auf Mist.",
+    "explanation_ru": "23 мая 1618 года чешские протестанты выбросили из окна Пражского замка двух имперских наместников и секретаря. Они упали на навоз и выжили.",
     "difficulty": "medium",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -2970,8 +2970,8 @@
       "Шарль Александр де Калон",
       "Аббат Сийес"
     ],
-    "explanation_de": "Necker veröffentlichte den 'Compte rendu au roi' – die erste öffentliche Haushaltsrechnung Frankreichs. Seine Entlassung kurz vor der Revolution empörte das Volk und trug zur Stimmung bei, die zur Bastille führte.",
-    "explanation_ru": "Неккер опубликовал «Compte rendu au roi» — первый публичный бюджетный отчёт Франции. Его увольнение накануне революции возмутило народ и способствовало настроениям, приведшим к взятию Бастилии.",
+    "explanation_de": "Necker legte 1781 mit dem «Compte rendu au roi» Frankreichs erste öffentliche Haushaltsrechnung vor. Seine Entlassung im Juli 1789 empörte das Volk.",
+    "explanation_ru": "Неккер опубликовал в 1781 году «Compte rendu au roi» — первый публичный бюджетный отчёт Франции. Его отставка в июле 1789 года возмутила народ.",
     "difficulty": "hard",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -3138,8 +3138,8 @@
       "Карл VI",
       "Франц I"
     ],
-    "explanation_de": "Joseph II. regierte von 1780 bis 1790 und erließ das Toleranzedikt (1781), schaffte über 700 Klöster auf und reformierte das Bildungs- und Rechtssystem. Kurz vor dem Tod widerrief er viele Reformen.",
-    "explanation_ru": "Иосиф II правил с 1780 по 1790 год и издал Эдикт о терпимости (1781), упразднил более 700 монастырей, реформировал систему образования и право. Незадолго до смерти он отменил многие реформы.",
+    "explanation_de": "Joseph II. erließ 1781 das Toleranzedikt, hob über 700 Klöster auf und reformierte Bildung und Recht. Vor seinem Tod 1790 nahm er vieles zurück.",
+    "explanation_ru": "Иосиф II издал в 1781 году Эдикт о терпимости, упразднил более 700 монастырей и реформировал образование и право. Перед смертью в 1790 году он многое отменил.",
     "difficulty": "medium",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -3180,8 +3180,8 @@
       "Карл X Густав",
       "Юхан III"
     ],
-    "explanation_de": "Gustav II. Adolf revolutionierte die Kriegsführung durch Kombination von Infanterie, Kavallerie und Artillerie. Er trat 1630 in den Dreißigjährigen Krieg ein und rettete die protestantische Sache – starb aber in der Siegesschlacht.",
-    "explanation_ru": "Густав II Адольф совершил революцию в военном деле, сочетая пехоту, кавалерию и артиллерию. В 1630 году он вступил в Тридцатилетнюю войну и спас протестантское дело — однако погиб в победоносном сражении.",
+    "explanation_de": "Gustav II. Adolf verband Infanterie, Kavallerie und Artillerie zu einer neuen Kriegsführung. Er griff 1630 in den Dreißigjährigen Krieg ein und fiel 1632 bei Lützen.",
+    "explanation_ru": "Густав II Адольф соединил пехоту, кавалерию и артиллерию в новую тактику. В 1630 году он вступил в Тридцатилетнюю войну и погиб в 1632 году при Лютцене.",
     "difficulty": "medium",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -3210,8 +3210,8 @@
     "id": 7225,
     "question_de": "Was war die 'Reconquista' und wann endete sie mit der Einnahme von Granada?",
     "question_ru": "Что такое «Реконкиста» и когда она завершилась взятием Гранады?",
-    "correct_answer_de": "Die christliche Rückeroberung der Iberischen Halbinsel von den Mauren – beendet 1492",
-    "correct_answer_ru": "Христианское отвоевание Пиренейского полуострова у мавров — завершилась в 1492 году",
+    "correct_answer_de": "Die christliche Rückeroberung Iberiens von den Mauren",
+    "correct_answer_ru": "Христианское отвоевание Пиренейского полуострова у мавров",
     "wrong_answers_de": [
       "Die Kreuzzüge ins Heilige Land im 11.–13. Jahrhundert",
       "Die spanische Eroberung Mittelamerikas",
@@ -3297,14 +3297,14 @@
     "correct_answer_de": "Isabella I. von Kastilien",
     "correct_answer_ru": "Изабелла I Кастильская",
     "wrong_answers_de": [
-      "Katharina von Aragon",
-      "Juana die Wahnsinnige",
-      "Maria von Burgund"
+      "Eleonore von Aquitanien",
+      "Isabella von Valois",
+      "Blanka von Kastilien"
     ],
     "wrong_answers_ru": [
-      "Екатерина Арагонская",
-      "Хуана Безумная",
-      "Мария Бургундская"
+      "Алиенора Аквитанская",
+      "Изабелла Валуа",
+      "Бланка Кастильская"
     ],
     "explanation_de": "Isabella I. und Ferdinand II. einigten Spanien durch ihre Ehe, finanzierten Kolumbus und förderten die Reconquista. Sie beauftragten auch die Spanische Inquisition unter Torquemada.",
     "explanation_ru": "Изабелла I и Фердинанд II объединили Испанию своим браком, финансировали Колумба и поддерживали Реконкисту. Они также учредили Испанскую инквизицию под руководством Торквемады.",
@@ -3545,8 +3545,8 @@
     "id": 7233,
     "question_de": "Was war der 'Augsburger Religionsfrieden' von 1555 und welches Prinzip legte er für das Heilige Römische Reich fest?",
     "question_ru": "Что такое Аугсбургский религиозный мир 1555 года и какой принцип он установил для Священной Римской империи?",
-    "correct_answer_de": "Cuius regio, eius religio – der Fürst bestimmt die Konfession seines Territoriums",
-    "correct_answer_ru": "Cuius regio, eius religio — правитель определяет вероисповедание своей земли",
+    "correct_answer_de": "Cuius regio, eius religio – der Fürst bestimmt die Konfession",
+    "correct_answer_ru": "Cuius regio, eius religio — князь определяет вероисповедание",
     "wrong_answers_de": [
       "Religionsfreiheit für alle Bürger im Reich",
       "Gemeinsame lutherisch-katholische Kirche",
@@ -3587,8 +3587,8 @@
     "id": 7234,
     "question_de": "Welches Wissenschaftsverständnis prägte die 'Wissenschaftliche Revolution' des 17. Jahrhunderts gegenüber der mittelalterlichen Scholastik?",
     "question_ru": "Какое понимание науки утвердила «Научная революция» XVII века в противовес средневековой схоластике?",
-    "correct_answer_de": "Beobachtung, Experiment und Mathematik statt Autorität und Aristoteles",
-    "correct_answer_ru": "Наблюдение, эксперимент и математика вместо авторитетов и Аристотеля",
+    "correct_answer_de": "Beobachtung, Experiment und Mathematik statt Autorität",
+    "correct_answer_ru": "Наблюдение, эксперимент и математика вместо авторитета",
     "wrong_answers_de": [
       "Rückkehr zur antiken griechischen Philosophie",
       "Kirche als höchste Instanz des Wissens",
@@ -3640,8 +3640,8 @@
       "Папа Лев X",
       "Папа Пий V"
     ],
-    "explanation_de": "Clemens VII. wollte die Ehe Heinrichs VIII. mit Katharina von Aragon nicht annullieren, weil Katharina die Nichte Kaiser Karls V. war – und Karl Rom kontrollierte. Heinrich gründete daraufhin die Kirche von England.",
-    "explanation_ru": "Климент VII не хотел аннулировать брак Генриха VIII с Екатериной Арагонской, поскольку Екатерина была племянницей императора Карла V — а Карл контролировал Рим. В ответ Генрих основал Церковь Англии.",
+    "explanation_de": "Papst Clemens VII. wollte die Ehe Heinrichs VIII. mit Katharina von Aragon nicht annullieren, weil sie Karls V. Tante war. Heinrich gründete daraufhin die Kirche von England.",
+    "explanation_ru": "Климент VII отказался аннулировать брак Генриха VIII с Екатериной Арагонской, ведь она была тётей Карла V. Тогда Генрих основал Церковь Англии.",
     "difficulty": "medium",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -3673,14 +3673,14 @@
     "correct_answer_de": "Maria I. (Mary Tudor)",
     "correct_answer_ru": "Мария I (Мария Тюдор)",
     "wrong_answers_de": [
-      "Maria Stuart",
-      "Katharina von Aragon",
-      "Anne Boleyn"
+      "Elisabeth I.",
+      "Jane Grey",
+      "Maria von Guise"
     ],
     "wrong_answers_ru": [
-      "Мария Стюарт",
-      "Екатерина Арагонская",
-      "Анна Болейн"
+      "Елизавета I",
+      "Джейн Грей",
+      "Мария де Гиз"
     ],
     "explanation_de": "Maria I., Tochter Heinrichs VIII. und Katharina von Aragons, restaurierte den Katholizismus in England und ließ fast 300 Protestanten verbrennen – daher ihr Beiname 'Bloody Mary'.",
     "explanation_ru": "Мария I, дочь Генриха VIII и Екатерины Арагонской, восстановила католицизм в Англии и сожгла почти 300 протестантов — отсюда её прозвище «Кровавая Мэри».",
@@ -3724,8 +3724,8 @@
       "Чай",
       "Сахар"
     ],
-    "explanation_de": "Tabak kam nach 1492 aus Amerika nach Europa. Der französische Botschafter Jean Nicot empfahl ihn 1560 als Heilmittel – nach ihm ist das Nikotin benannt. Erst im 20. Jahrhundert erkannte man seine Schädlichkeit.",
-    "explanation_ru": "После 1492 года табак попал из Америки в Европу. Французский посол Жан Нико рекомендовал его в 1560 году как лечебное средство — в его честь назван никотин. Вред табака был осознан лишь в XX веке.",
+    "explanation_de": "Tabak kam nach 1492 aus Amerika nach Europa. Der Botschafter Jean Nicot empfahl ihn 1560 als Heilmittel; nach ihm heißt das Nikotin.",
+    "explanation_ru": "Табак попал в Европу из Америки после 1492 года. Посол Жан Нико рекомендовал его в 1560 году как лекарство; в его честь назван никотин.",
     "difficulty": "easy",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -3758,16 +3758,16 @@
     "correct_answer_ru": "Николай Коперник",
     "wrong_answers_de": [
       "Tycho Brahe",
-      "Johannes Kepler",
-      "Galileo Galilei"
+      "Nikolaus von Kues",
+      "Johannes Hevelius"
     ],
     "wrong_answers_ru": [
       "Тихо Браге",
-      "Иоганн Кеплер",
-      "Галилео Галилей"
+      "Николай Кузанский",
+      "Ян Гевелий"
     ],
-    "explanation_de": "Kopernikus postulierte, dass die Erde und die Planeten um die Sonne kreisen – nicht die Sonne um die Erde. Er wartete mit der Veröffentlichung bis kurz vor seinem Tod, wohl aus Angst vor kirchlicher Reaktion.",
-    "explanation_ru": "Коперник постулировал, что Земля и планеты обращаются вокруг Солнца, а не Солнце вокруг Земли. Он медлил с публикацией до самой смерти — вероятно, опасаясь реакции церкви.",
+    "explanation_de": "Kopernikus lehrte, dass die Erde und die Planeten um die Sonne kreisen. Aus Angst vor der Kirche veröffentlichte er sein Werk erst kurz vor seinem Tod.",
+    "explanation_ru": "Коперник учил, что Земля и планеты вращаются вокруг Солнца. Опасаясь церкви, он издал свой труд лишь незадолго до смерти.",
     "difficulty": "easy",
     "category": "Frühe Neuzeit",
     "type": "factual",
@@ -3799,14 +3799,14 @@
     "correct_answer_de": "Giordano Bruno",
     "correct_answer_ru": "Джордано Бруно",
     "wrong_answers_de": [
-      "Galileo Galilei",
+      "Girolamo Savonarola",
       "Tommaso Campanella",
-      "Giulio Cesare Vanini"
+      "Michael Servet"
     ],
     "wrong_answers_ru": [
-      "Галилео Галилей",
+      "Джироламо Савонарола",
       "Томмазо Кампанелла",
-      "Джулио Чезаре Ванини"
+      "Мигель Сервет"
     ],
     "explanation_de": "Giordano Bruno lehrte, dass das Universum unendlich ist und viele bewohnte Welten enthält. Die Inquisition verurteilte ihn als Ketzer; er weigerte sich zu widerrufen und wurde lebendig verbrannt.",
     "explanation_ru": "Джордано Бруно учил, что вселенная бесконечна и содержит множество обитаемых миров. Инквизиция осудила его как еретика; он отказался отречься и был сожжён заживо.",
@@ -3838,8 +3838,8 @@
     "id": 7240,
     "question_de": "Wofür steht der Begriff 'Frühkapitalismus' in der Wirtschaftsgeschichte der Frühen Neuzeit?",
     "question_ru": "Что означает понятие «ранний капитализм» в экономической истории раннего Нового времени?",
-    "correct_answer_de": "Entstehung von Geldwirtschaft, Handel auf Kredit, Fernhandelsgesellschaften und erstem Bankwesen",
-    "correct_answer_ru": "Возникновение денежного хозяйства, торговли в кредит, дальнеторговых компаний и первых банков",
+    "correct_answer_de": "Geldwirtschaft, Kredithandel und erstes Bankwesen",
+    "correct_answer_ru": "Денежное хозяйство, торговля в кредит и первые банки",
     "wrong_answers_de": [
       "Industrielle Massenproduktion mit Dampfmaschinen",
       "Staatlich geplante Verteilung aller Güter",
@@ -3922,17 +3922,17 @@
     "correct_answer_de": "Großbritannien (England)",
     "correct_answer_ru": "Великобритания (Англия)",
     "wrong_answers_de": [
-      "Spanien",
-      "Portugal",
-      "Niederlande"
+      "Österreich",
+      "Savoyen",
+      "Preußen"
     ],
     "wrong_answers_ru": [
-      "Испания",
-      "Португалия",
-      "Нидерланды"
+      "Австрия",
+      "Савойя",
+      "Пруссия"
     ],
-    "explanation_de": "Im Spanischen Erbfolgekrieg besetzte England 1704 Gibraltar. Im Frieden von Utrecht 1713 wurde es offiziell britisch. Spanien beansprucht Gibraltar bis heute – Großbritannien hält es.",
-    "explanation_ru": "В ходе войны за испанское наследство Англия захватила Гибралтар в 1704 году. По Утрехтскому миру 1713 года он стал официально британским. Испания по сей день претендует на Гибралтар — Великобритания его удерживает.",
+    "explanation_de": "England besetzte im Spanischen Erbfolgekrieg 1704 Gibraltar, das 1713 im Frieden von Utrecht britisch wurde. Spanien erhebt bis heute Anspruch darauf.",
+    "explanation_ru": "Англия захватила Гибралтар в 1704 году, во время войны за испанское наследство; по Утрехтскому миру 1713 года он стал британским. Испания претендует на него до сих пор.",
     "difficulty": "medium",
     "category": "Frühe Neuzeit",
     "type": "factual",

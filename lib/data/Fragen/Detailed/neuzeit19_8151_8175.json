@@ -3,17 +3,29 @@
     "id": 8151,
     "question_de": "Was war der Deutsch-Französische Krieg (1870/71) und die Gründung des Deutschen Kaiserreichs?",
     "question_ru": "Что такое Франко-прусская война (1870/71) и основание Германской империи?",
-    "correct_answer_de": "Preußen besiegte Frankreich, Napoleon III. gefangen – im Schloss Versailles wurde das Deutsche Kaiserreich ausgerufen",
-    "correct_answer_ru": "Пруссия победила Францию, Наполеон III взят в плен — в Версальском дворце провозглашена Германская империя",
-    "wrong_answers_de": ["Das Deutsche Kaiserreich wurde 1871 in Berlin ausgerufen, nach einem Sieg über Österreich", "Napoleon III. gewann zunächst den Krieg, verlor aber durch den Volksaufstand 1871", "Die Einigung Deutschlands wurde durch Bismarcks Verhandlungen ohne Krieg erreicht"],
-    "wrong_answers_ru": ["Германская империя была провозглашена в 1871 году в Берлине после победы над Австрией", "Наполеон III поначалу выиграл войну, но проиграл из-за народного восстания 1871 года", "Объединение Германии было достигнуто переговорами Бисмарка без войны"],
-    "explanation_de": "Bismarck provozierte Frankreich mit Emser Depesche. Sedan (Sept. 1870): Napoleon III. gefangen. Paris belagert. 18. Januar 1871: Im Spiegelsaal von Versailles: Wilhelm I. zum deutschen Kaiser ausgerufen. Elsass-Lothringen an Deutschland. Reparationen: 5 Mrd. Francs. Frankreichs Demütigung: Ursache für 1914.",
-    "explanation_ru": "Бисмарк спровоцировал Францию Эмсской депешей. Седан (сентябрь 1870): Наполеон III взят в плен. Париж осаждён. 18 января 1871 года: в Зеркальном зале Версаля Вильгельм I провозглашён германским кайзером. Эльзас-Лотарингия к Германии. Репарации: 5 млрд франков. Унижение Франции: причина 1914 года.",
+    "correct_answer_de": "Preußen besiegte Frankreich – in Versailles wurde das Kaiserreich ausgerufen",
+    "correct_answer_ru": "Пруссия победила Францию — в Версале провозгласили империю",
+    "wrong_answers_de": [
+      "Das Kaiserreich wurde 1871 in Berlin nach dem Sieg über Österreich ausgerufen",
+      "Napoleon III. gewann zunächst den Krieg, verlor aber durch den Volksaufstand 1871",
+      "Die Einigung Deutschlands wurde durch Bismarcks Verhandlungen ohne Krieg erreicht"
+    ],
+    "wrong_answers_ru": [
+      "Империю провозгласили в 1871 году в Берлине после победы над Австрией",
+      "Наполеон III поначалу выиграл войну, но проиграл из-за народного восстания 1871 года",
+      "Объединение Германии было достигнуто переговорами Бисмарка без войны"
+    ],
+    "explanation_de": "Nach Sedan (September 1870) und der Belagerung von Paris wurde Wilhelm I. am 18. Januar 1871 in Versailles zum Kaiser ausgerufen. Frankreich verlor Elsass-Lothringen und zahlte 5 Milliarden Francs.",
+    "explanation_ru": "После Седана (сентябрь 1870) и осады Парижа Вильгельм I был провозглашён 18 января 1871 года в Версале императором. Франция потеряла Эльзас-Лотарингию и заплатила 5 миллиардов франков.",
     "difficulty": "easy",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1871 CE",
-    "tags": ["Deutschland", "Frankreich", "Krieg"],
+    "tags": [
+      "Deutschland",
+      "Frankreich",
+      "Krieg"
+    ],
     "interesting_facts": [
       {
         "de": "Die Proklamation im Spiegelsaal Versailles wurde gezielt gewählt: Demütigung Frankreichs im eigenen Königsschloss.",
@@ -33,17 +45,29 @@
     "id": 8152,
     "question_de": "Was war Bismarcks Bündnispolitik und das Dreikaiserabkommen?",
     "question_ru": "Что такое союзная политика Бисмарка и Союз трёх императоров?",
-    "correct_answer_de": "Bismarck baute ein komplexes Bündnisnetz auf – Dreikaiserbund, Dreibund, Rückversicherungsvertrag – um Frankreich zu isolieren",
-    "correct_answer_ru": "Бисмарк создал сложную сеть союзов — Союз трёх императоров, Тройственный союз, Договор перестрахования — чтобы изолировать Францию",
-    "wrong_answers_de": ["Bismarck schloss ein Militärbündnis mit Frankreich gegen Russland und Österreich", "Der Dreikaiserbund verband Deutschland, England und Österreich gegen Russland", "Bismarcks Bündnisse verlängerten seinen Kanzleramtszeit bis 1900"],
-    "wrong_answers_ru": ["Бисмарк заключил военный союз с Францией против России и Австрии", "Союз трёх императоров объединил Германию, Англию и Австрию против России", "Союзы Бисмарка продлили его канцлерство до 1900 года"],
-    "explanation_de": "Dreikaiserbund (1873, 1881): Deutschland, Österreich-Ungarn, Russland. Dreibund (1882): Deutschland, Österreich-Ungarn, Italien. Rückversicherungsvertrag (1887): geheimes Abkommen mit Russland. Wilhelm II. entließ Bismarck 1890 – ließ Rückversicherungsvertrag auslaufen. Frankreich-Russland-Bündnis 1892: Bismarck hatte es befürchtet.",
-    "explanation_ru": "Союз трёх императоров (1873, 1881): Германия, Австро-Венгрия, Россия. Тройственный союз (1882): Германия, Австро-Венгрия, Италия. Договор перестрахования (1887): тайное соглашение с Россией. Вильгельм II уволил Бисмарка в 1890 году — позволил договору перестрахования истечь. Франко-российский союз 1892: Бисмарк это предвидел.",
+    "correct_answer_de": "Bismarck schuf ein Bündnisnetz, um Frankreich zu isolieren",
+    "correct_answer_ru": "Бисмарк создал сеть союзов, чтобы изолировать Францию",
+    "wrong_answers_de": [
+      "Bismarck schloss ein Bündnis mit Frankreich gegen Russland",
+      "Der Dreikaiserbund einte Deutschland, England und Österreich",
+      "Bismarcks Bündnisse verlängerten seinen Kanzleramtszeit bis 1900"
+    ],
+    "wrong_answers_ru": [
+      "Бисмарк заключил союз с Францией против России",
+      "Союз трёх императоров объединял Германию, Англию и Австрию",
+      "Союзы Бисмарка продлили его канцлерство до 1900 года"
+    ],
+    "explanation_de": "Dreikaiserbund (1873, 1881), Dreibund (1882) und der geheime Rückversicherungsvertrag mit Russland (1887) sicherten Frieden. Nach Bismarcks Entlassung 1890 entstand das französisch-russische Bündnis.",
+    "explanation_ru": "Союз трёх императоров (1873, 1881), Тройственный союз (1882) и тайный договор перестраховки с Россией (1887) обеспечивали мир. После отставки Бисмарка в 1890 году возник франко-русский союз.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1882 CE",
-    "tags": ["Deutschland", "Politik", "Europa"],
+    "tags": [
+      "Deutschland",
+      "Politik",
+      "Europa"
+    ],
     "interesting_facts": [
       {
         "de": "Bismarck sagte: 'Politik ist die Kunst des Möglichen' – und meinte damit sein Bündnissystem.",
@@ -63,17 +87,29 @@
     "id": 8153,
     "question_de": "Was war die Entstehung des Frauenwahlrechts in der Schweiz?",
     "question_ru": "Что такое возникновение женского избирательного права в Швейцарии?",
-    "correct_answer_de": "Die Schweiz gab Frauen erst 1971 Bundeswahlrecht – eine der letzten westlichen Demokratien, obwohl sie als Vorzeigedemokratie galt",
-    "correct_answer_ru": "Швейцария дала женщинам федеральное избирательное право лишь в 1971 году — одна из последних западных демократий, хотя считалась образцовой",
-    "wrong_answers_de": ["Die Schweiz war das erste Land mit Frauenwahlrecht 1893 durch die Volksabstimmung", "Schweizer Frauen erhielten 1945 das Wahlrecht als Dank für Kriegshilfe", "Die Schweiz hat nie ein nationales Frauenwahlrecht eingeführt – es gilt nur kantonal"],
-    "wrong_answers_ru": ["Швейцария стала первой страной с женским избирательным правом в 1893 году через референдум", "Швейцарские женщины получили право голоса в 1945 году в знак благодарности за военную помощь", "Швейцария никогда не вводила национального женского избирательного права — оно действует только кантонально"],
-    "explanation_de": "Schweizer Männer stimmten dreimal gegen Frauenwahlrecht (1959, 1963, 1971 schließlich Ja). Kanton Appenzell Innerrhoden: erst 1990 durch Bundesgerichtsentscheid. Frauen in UNO für 'Demokratien' zählen – Schweiz galt nicht. Paradox: Direkte Demokratie als Hindernis für Frauenwahlrecht.",
-    "explanation_ru": "Швейцарские мужчины трижды голосовали против женского избирательного права (1959, 1963, 1971 — наконец «да»). Кантон Аппенцелль-Иннерроден: лишь в 1990 году по решению Федерального суда. Женщины в ООН не учитывали Швейцарию как «демократию». Парадокс: прямая демократия как препятствие для женского избирательного права.",
+    "correct_answer_de": "Die Schweiz gab Frauen erst 1971 das Bundeswahlrecht",
+    "correct_answer_ru": "Швейцария дала женщинам федеральное избирательное право лишь в 1971 году",
+    "wrong_answers_de": [
+      "Die Schweiz war 1893 das erste Land mit Frauenwahlrecht",
+      "Schweizer Frauen erhielten 1945 das Wahlrecht als Dank",
+      "Die Schweiz führte nie ein nationales Frauenwahlrecht ein"
+    ],
+    "wrong_answers_ru": [
+      "Швейцария в 1893 году первой ввела женское избирательное право",
+      "Швейцарки получили избирательное право в 1945 году в благодарность",
+      "Швейцария никогда не вводила общенациональное женское избирательное право"
+    ],
+    "explanation_de": "Schweizer Männer lehnten das Frauenwahlrecht 1959 ab, stimmten ihm erst 1971 zu. Appenzell Innerrhoden folgte 1990 nur auf Anordnung des Bundesgerichts; die direkte Demokratie bremste die Reform.",
+    "explanation_ru": "Швейцарские мужчины отвергли женское избирательное право в 1959 году и одобрили его лишь в 1971-м. Аппенцелль-Иннерроден последовал в 1990 году только по решению Федерального суда; прямая демократия тормозила реформу.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1900 CE",
-    "tags": ["Gesellschaft", "Politik", "Europa"],
+    "tags": [
+      "Gesellschaft",
+      "Politik",
+      "Europa"
+    ],
     "interesting_facts": [
       {
         "de": "Neuseeland: 1893 erstes Land mit Frauenwahlrecht. Australien 1902. Finnland 1906. Schweiz: 1971.",
@@ -93,17 +129,28 @@
     "id": 8154,
     "question_de": "Was war die Erfindung des Telefons (Alexander Graham Bell, 1876)?",
     "question_ru": "Что такое изобретение телефона (Александр Грэм Белл, 1876)?",
-    "correct_answer_de": "Bell patentierte 1876 das Telefon – Elisha Gray reichte Anmeldung am selben Tag ein; Bell gewann alle Patentstreitigkeiten",
-    "correct_answer_ru": "Белл запатентовал телефон в 1876 году — Элиша Грей подал заявку в тот же день; Белл выиграл все патентные споры",
-    "wrong_answers_de": ["Thomas Edison erfand das Telefon 1876 und lizenzierte es an Bell", "Das erste Telefongespräch führte Morse mit seinem Assistenten als Test seines Telegrafensystems", "Antonio Meucci erhielt das Telefonpatent 1876 und wird heute als alleiniger Erfinder anerkannt"],
-    "wrong_answers_ru": ["Томас Эдисон изобрёл телефон в 1876 году и лицензировал его Беллу", "Первый телефонный разговор провёл Морзе со своим ассистентом как испытание системы телеграфа", "Антонио Меуччи получил телефонный патент в 1876 году и сегодня признан единственным изобретателем"],
-    "explanation_de": "Erster Satz per Telefon: 'Mr. Watson, come here, I want to see you.' Bell und Gray: 2 Stunden Unterschied bei Patentanmeldung (Bell zuerst). Elisha Gray: Klage verloren. Antonio Meucci: vorheriger Erfinder aus Geldmangel gescheitert. Bell Telephone Company: Monopol bis 1984.",
-    "explanation_ru": "Первая фраза по телефону: «Мистер Уотсон, идите сюда, я хочу вас видеть». Белл и Грей: 2 часа разницы при подаче патентной заявки (Белл первым). Элиша Грей: иск проигран. Антонио Меуччи: более ранний изобретатель, не смогший из-за отсутствия денег. Bell Telephone Company: монополия до 1984 года.",
+    "correct_answer_de": "Bell patentierte 1876 das Telefon – Gray reichte am selben Tag ein",
+    "correct_answer_ru": "Белл запатентовал в 1876 году телефон — Грей подал заявку в тот же день",
+    "wrong_answers_de": [
+      "Thomas Edison erfand das Telefon 1876 und lizenzierte es an Bell",
+      "Das erste Telefongespräch führte Morse mit seinem Assistenten",
+      "Antonio Meucci erhielt 1876 das Patent und gilt als alleiniger Erfinder"
+    ],
+    "wrong_answers_ru": [
+      "Томас Эдисон изобрёл телефон в 1876 году и лицензировал его Беллу",
+      "Первый телефонный разговор провёл Морзе со своим помощником",
+      "Антонио Меуччи получил в 1876 году патент и считается единственным изобретателем"
+    ],
+    "explanation_de": "Bell meldete 1876 sein Patent zwei Stunden vor Elisha Gray an, der den Prozess verlor. Antonio Meucci hatte schon früher ein Gerät gebaut, scheiterte aber an Geldmangel.",
+    "explanation_ru": "Белл подал заявку на патент в 1876 году на два часа раньше Элайши Грея, который проиграл суд. Антонио Меуччи раньше построил аппарат, но потерпел неудачу из-за нехватки денег.",
     "difficulty": "easy",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1876 CE",
-    "tags": ["Erfindungen", "Amerika"],
+    "tags": [
+      "Erfindungen",
+      "Amerika"
+    ],
     "interesting_facts": [
       {
         "de": "Bells Schwiegergroßvater war Gardiner Hubbard – der das Kapital für Bell Telephone aufbrachte.",
@@ -123,17 +170,29 @@
     "id": 8155,
     "question_de": "Was war die indische Unabhängigkeitsbewegung im 19. Jahrhundert?",
     "question_ru": "Что такое индийское движение за независимость в XIX веке?",
-    "correct_answer_de": "Indischer Nationalkongress (1885) war erste nationale politische Organisation Indiens – Vorläufer der Unabhängigkeitsbewegung",
-    "correct_answer_ru": "Индийский национальный конгресс (1885) был первой общенациональной политической организацией Индии — предшественник движения за независимость",
-    "wrong_answers_de": ["Die indische Unabhängigkeitsbewegung begann erst 1919 mit Mahatma Gandhi", "Der Indische Nationalkongress wurde von britischen Kolonialbeamten als Kontrollmechanismus gegründet", "Bal Gangadhar Tilak gründete 1885 die erste Partei für sofortige Unabhängigkeit Indiens"],
-    "wrong_answers_ru": ["Индийское движение за независимость началось лишь в 1919 году с Махатмы Ганди", "Индийский национальный конгресс был основан британскими колониальными чиновниками как механизм контроля", "Бал Гангадхар Тилак в 1885 году основал первую партию за немедленную независимость Индии"],
-    "explanation_de": "Allan Octavian Hume (Brite) gründete 1885 INC mit 72 Delegierten in Bombay. Anfangs gemäßigt: mehr Mitsprache, nicht Unabhängigkeit. Bal Gangadhar Tilak radikalisierte Bewegung (Swaraj). Gopal Krishna Gokhale: Reformer. Gandhi (ab 1915) wandelte INC zur Massenbewegung. 1947: Unabhängigkeit.",
-    "explanation_ru": "Аллан Октавиан Хьюм (британец) основал в 1885 году ИНК с 72 делегатами в Бомбее. Поначалу умеренный: больше участия, а не независимость. Бал Гангадхар Тилак радикализировал движение (сварадж). Гопал Кришна Гокхале: реформатор. Ганди (с 1915) превратил ИНК в массовое движение. 1947: независимость.",
+    "correct_answer_de": "Der Indische Nationalkongress (1885) war Indiens erste nationale Partei",
+    "correct_answer_ru": "Индийский национальный конгресс (1885) — первая общеиндийская партия",
+    "wrong_answers_de": [
+      "Die indische Unabhängigkeitsbewegung begann erst 1919 mit Mahatma Gandhi",
+      "Der Kongress wurde von britischen Beamten als Kontrollinstrument gegründet",
+      "Tilak gründete 1885 die Partei für sofortige Unabhängigkeit"
+    ],
+    "wrong_answers_ru": [
+      "Индийское движение за независимость началось лишь в 1919 году с Махатмы Ганди",
+      "Конгресс был основан британскими чиновниками как инструмент контроля",
+      "Тилак основал в 1885 году партию немедленной независимости"
+    ],
+    "explanation_de": "Der Brite Allan Octavian Hume gründete 1885 den INC mit 72 Delegierten in Bombay. Zunächst forderte er nur Mitsprache; Tilak radikalisierte ihn, Gandhi machte ihn ab 1915 zur Massenbewegung.",
+    "explanation_ru": "Британец Юм основал в 1885 году ИНК с 72 делегатами в Бомбее. Сначала требовали лишь участия в управлении; Тилак радикализировал партию, Ганди с 1915 года сделал её массовой.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1885 CE",
-    "tags": ["Asien", "England", "Politik"],
+    "tags": [
+      "Asien",
+      "England",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Gokhale nannte den jungen Gandhi 'unser bestes Juwel' – und schickte ihn als Gesandten nach Südafrika.",
@@ -153,17 +212,29 @@
     "id": 8156,
     "question_de": "Was war der Erste Opiumkrieg (1839–1842) zwischen China und England?",
     "question_ru": "Что такое Первая Опиумная война (1839–1842) между Китаем и Англией?",
-    "correct_answer_de": "England erzwang durch Krieg das Recht, Opium nach China zu exportieren – China verlor und öffnete Häfen (Vertrag von Nanking)",
-    "correct_answer_ru": "Англия войной вынудила Китай принять право экспортировать опиум — Китай проиграл и открыл порты (Нанкинский договор)",
-    "wrong_answers_de": ["China gewann den ersten Opiumkrieg und verbot den britischen Opiumhandel dauerhaft", "Frankreich führte den Opiumkrieg in China durch – England half nur bei der Seeblockade", "Der Opiumkrieg begann, weil China britische Handelsschiffe angegriffen hatte"],
-    "wrong_answers_ru": ["Китай выиграл первую опиумную войну и навсегда запретил британскую торговлю опиумом", "Францию вела Опиумную войну в Китае — Англия лишь помогала при морской блокаде", "Опиумная война началась из-за того, что Китай атаковал британские торговые суда"],
-    "explanation_de": "East India Company exportierte Opium aus Indien nach China gegen Silber. Kaiser Daoguang verbot Opiumhandel 1839 – ließ 20.000 Opiumkisten verbrennen. England: Kriegserklärung. Qing-Marine hilflos gegen moderne Dampfschiffe. Nanking-Vertrag (1842): Hongkong an England, 5 Häfen geöffnet, Reparationen. Beginn der 'ungleichen Verträge'.",
-    "explanation_ru": "Ост-Индская компания экспортировала опиум из Индии в Китай за серебро. Император Даогуан запретил торговлю опиумом в 1839 году — велел сжечь 20 000 ящиков опиума. Англия: объявление войны. Флот Цин беспомощен против современных пароходов. Нанкинский договор (1842): Гонконг к Англии, 5 портов открыты, репарации. Начало «неравных договоров».",
+    "correct_answer_de": "England erzwang per Krieg das Recht, Opium nach China zu liefern",
+    "correct_answer_ru": "Англия войной добилась права ввозить опиум в Китай",
+    "wrong_answers_de": [
+      "China gewann den Opiumkrieg und verbot den Handel dauerhaft",
+      "Frankreich führte den Opiumkrieg, England blockierte nur",
+      "Der Opiumkrieg begann, weil China britische Handelsschiffe angegriffen hatte"
+    ],
+    "wrong_answers_ru": [
+      "Китай выиграл опиумную войну и навсегда запретил торговлю",
+      "Опиумную войну вела Франция, Англия лишь блокировала",
+      "Опиумная война началась из-за того, что Китай атаковал британские торговые суда"
+    ],
+    "explanation_de": "Kaiser Daoguang ließ 1839 Opium verbrennen, England erklärte Krieg. Im Vertrag von Nanking (1842) fiel Hongkong an England, fünf Häfen wurden geöffnet: der Beginn der «ungleichen Verträge».",
+    "explanation_ru": "Император Даогуан велел сжечь опиум в 1839 году, Англия объявила войну. По Нанкинскому договору (1842) Гонконг отошёл Англии, открыли пять портов: так начались «неравноправные договоры».",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1841 CE",
-    "tags": ["China", "England", "Krieg"],
+    "tags": [
+      "China",
+      "England",
+      "Krieg"
+    ],
     "interesting_facts": [
       {
         "de": "Der kaiserliche Beauftrage Lin Zexu schrieb einen Brief an Queen Victoria: 'Wenn ihr Opium schlecht ist, warum schickt ihr es uns?'",
@@ -183,17 +254,28 @@
     "id": 8157,
     "question_de": "Was war Friedrich Nietzsche und seine Philosophie?",
     "question_ru": "Что такое Фридрих Ницше и его философия?",
-    "correct_answer_de": "Nietzsche verkündete 'Gott ist tot', forderte Umwertung aller Werte und schuf das Konzept des Übermenschen",
-    "correct_answer_ru": "Ницше провозгласил «Бог умер», требовал переоценки всех ценностей и создал концепцию сверхчеловека",
-    "wrong_answers_de": ["Nietzsche war religiöser Philosoph, der den christlichen Glauben als höchste Moral verteidigte", "Marx und Nietzsche entwickelten gemeinsam die Kritik an der bürgerlichen Gesellschaft", "Nietzsche begründete den Existentialismus als philosophische Schule in Frankreich"],
-    "wrong_answers_ru": ["Ницше был религиозным философом, защищавшим христианскую веру как высшую мораль", "Маркс и Ницше совместно разработали критику буржуазного общества", "Ницше основал экзистенциализм как философскую школу во Франции"],
-    "explanation_de": "'Die Geburt der Tragödie' (1872). 'Also sprach Zarathustra' (1885): Gott ist tot, Wille zur Macht, Übermensch, Ewige Wiederkehr. Kritik an Sokrates, Christentum, Schopenhauer. Bruch mit Wagner. 1889: geistiger Zusammenbruch. Schwester Elisabeth missbrauchte sein Werk für Nazismus – von Nietzsche selbst abgelehnt.",
-    "explanation_ru": "«Рождение трагедии» (1872). «Так говорил Заратустра» (1885): Бог умер, воля к власти, сверхчеловек, вечное возвращение. Критика Сократа, христианства, Шопенгауэра. Разрыв с Вагнером. 1889: душевный надлом. Сестра Элизабет использовала его труды для нацизма — сам Ницше это отвергал.",
+    "correct_answer_de": "Nietzsche verkündete «Gott ist tot» und schuf den Übermenschen",
+    "correct_answer_ru": "Ницше провозгласил «Бог умер» и создал образ сверхчеловека",
+    "wrong_answers_de": [
+      "Nietzsche war religiöser Philosoph und verteidigte den Glauben",
+      "Marx und Nietzsche kritisierten gemeinsam die Bürgerlichkeit",
+      "Nietzsche begründete in Frankreich den Existentialismus"
+    ],
+    "wrong_answers_ru": [
+      "Ницше был религиозным философом и защищал веру",
+      "Маркс и Ницше вместе критиковали буржуазное общество",
+      "Ницше основал во Франции экзистенциализм"
+    ],
+    "explanation_de": "«Also sprach Zarathustra» (1885) verkündet «Gott ist tot», Wille zur Macht, Übermensch und ewige Wiederkehr. Nietzsche brach 1889 zusammen; seine Schwester missbrauchte sein Werk für den Nationalsozialismus.",
+    "explanation_ru": "«Так говорил Заратустра» (1885) возвещает «Бог умер», волю к власти, сверхчеловека и вечное возвращение. Ницше сломался в 1889 году; его сестра исказила его труды в пользу национал-социализма.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1885 CE",
-    "tags": ["Philosophie", "Deutschland"],
+    "tags": [
+      "Philosophie",
+      "Deutschland"
+    ],
     "interesting_facts": [
       {
         "de": "Nietzsche brach zusammen, als er sah, wie ein Pferd auf dem Platz in Turin geschlagen wurde – und umarmte es weinend.",
@@ -213,17 +295,29 @@
     "id": 8158,
     "question_de": "Was war die Entwicklung der Eisenbahn in Nordamerika?",
     "question_ru": "Что такое развитие железных дорог в Северной Америке?",
-    "correct_answer_de": "Die Transkontinentale Eisenbahn USA (1869) verband Ost- und Westküste – 30.000 chinesische Einwanderer bauten den Großteil",
-    "correct_answer_ru": "Трансконтинентальная железная дорога США (1869) соединила восточное и западное побережье — 30 000 китайских иммигрантов построили большую её часть",
-    "wrong_answers_de": ["Die transatlantische Eisenbahn verband 1869 New York mit London über den Atlantik", "Nur weiße amerikanische Arbeiter bauten die Transkontinentale Eisenbahn", "Die erste transatlantische Eisenbahn wurde erst 1890 fertiggestellt"],
-    "wrong_answers_ru": ["Трансатлантическая железная дорога в 1869 году соединила Нью-Йорк с Лондоном через Атлантику", "Только белые американские рабочие строили Трансконтинентальную железную дорогу", "Первая трансконтинентальная железная дорога была завершена лишь в 1890 году"],
-    "explanation_de": "10. Mai 1869: Promontory Summit (Utah): goldener Nagel. Central Pacific (Westen): chinesische Einwanderer. Union Pacific (Osten): irische Einwanderer und Bürgerkriegsveteranen. 3.000 km in 6 Jahren. Reisetzeit NY-Calif.: 6 Monate (Kutsche) → 1 Woche (Bahn). Büffel vernichtet, Indianergebiet durchschnitten.",
-    "explanation_ru": "10 мая 1869 года: Промонтори-Саммит (Юта): золотой гвоздь. Central Pacific (запад): китайские иммигранты. Union Pacific (восток): ирландские иммигранты и ветераны Гражданской войны. 3 000 км за 6 лет. Время в пути Нью-Йорк–Калифорния: 6 месяцев (дилижанс) → 1 неделя (поезд). Бизоны уничтожены, территория индейцев пересечена.",
+    "correct_answer_de": "Die Transkontinentalbahn der USA (1869) – 30.000 Chinesen bauten sie mit",
+    "correct_answer_ru": "Трансконтинентальная дорога США (1869) — её строили 30 000 китайцев",
+    "wrong_answers_de": [
+      "Die transatlantische Eisenbahn verband 1869 New York mit London über den Atlantik",
+      "Nur weiße amerikanische Arbeiter bauten die Transkontinentale Eisenbahn",
+      "Die erste transatlantische Eisenbahn wurde erst 1890 fertiggestellt"
+    ],
+    "wrong_answers_ru": [
+      "Трансатлантическая железная дорога в 1869 году соединила Нью-Йорк с Лондоном через Атлантику",
+      "Только белые американские рабочие строили Трансконтинентальную железную дорогу",
+      "Первая трансконтинентальная железная дорога была завершена лишь в 1890 году"
+    ],
+    "explanation_de": "Am 10. Mai 1869 trafen sich Central Pacific (chinesische Arbeiter) und Union Pacific (irische Arbeiter) in Promontory Summit. Die Reise von New York nach Kalifornien dauerte nun eine Woche.",
+    "explanation_ru": "10 мая 1869 года в Промонтори-Саммит встретились Центральная Тихоокеанская (китайские рабочие) и Юнион Пасифик (ирландские рабочие). Путь из Нью-Йорка в Калифорнию занимал теперь неделю.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1869 CE",
-    "tags": ["Amerika", "Wirtschaft", "Erfindungen"],
+    "tags": [
+      "Amerika",
+      "Wirtschaft",
+      "Erfindungen"
+    ],
     "interesting_facts": [
       {
         "de": "Chinesische Arbeiter erhielten 35 $ pro Monat – irische Arbeiter 35 $ plus Kost und Unterkunft.",
@@ -243,17 +337,28 @@
     "id": 8159,
     "question_de": "Was war die zweite Industrielle Revolution (1870–1914)?",
     "question_ru": "Что такое Вторая промышленная революция (1870–1914)?",
-    "correct_answer_de": "Stahl, Chemie, Elektrizität und Verbrennungsmotor ersetzten Kohle/Dampf – USA und Deutschland überholten England",
-    "correct_answer_ru": "Сталь, химия, электричество и двигатель внутреннего сгорания вытесняли уголь/пар — США и Германия обогнали Англию",
-    "wrong_answers_de": ["Die zweite Industrielle Revolution fand hauptsächlich in England als Fortführung der ersten statt", "Elektrizität war das einzige neue Element der zweiten Revolution – alle anderen Technologien bereits bekannt", "Die zweite Industrielle Revolution begann erst nach dem Ersten Weltkrieg 1918"],
-    "wrong_answers_ru": ["Вторая промышленная революция происходила главным образом в Англии как продолжение первой", "Электричество было единственным новым элементом второй революции — все остальные технологии уже были известны", "Вторая промышленная революция началась лишь после Первой мировой войны в 1918 году"],
-    "explanation_de": "Bessemer-Stahl (1856): billiger Massenstahl. Siemens Elektromotor. Edison Glühbirne (1879). Tesla Wechselstrom. Otto/Daimler: Verbrennungsmotor. Chemische Industrie: Farben, Pharmazeutika, Dünger. Fließband-Vorformen. USA überholt England 1890. Deutschland: BASF, Bayer, Siemens, AEG.",
-    "explanation_ru": "Бессемеровская сталь (1856): дешёвая массовая сталь. Электромотор Сименса. Лампа Эдисона (1879). Переменный ток Теслы. Отто/Даймлер: двигатель внутреннего сгорания. Химическая промышленность: краски, фармацевтика, удобрения. Прообразы конвейера. США обогнали Англию в 1890 году. Германия: BASF, Bayer, Siemens, AEG.",
+    "correct_answer_de": "Stahl, Chemie, Elektrizität und Verbrennungsmotor – USA und Deutschland überholten England",
+    "correct_answer_ru": "Сталь, химия, электричество и ДВС — США и Германия обогнали Англию",
+    "wrong_answers_de": [
+      "Die zweite Industrielle Revolution fand hauptsächlich in England als Fortführung der ersten statt",
+      "Elektrizität war das einzige Neue, alles andere war bekannt",
+      "Die zweite Industrielle Revolution begann erst nach dem Ersten Weltkrieg 1918"
+    ],
+    "wrong_answers_ru": [
+      "Вторая промышленная революция происходила главным образом в Англии как продолжение первой",
+      "Электричество было единственной новинкой, остальное уже известно",
+      "Вторая промышленная революция началась лишь после Первой мировой войны в 1918 году"
+    ],
+    "explanation_de": "Bessemer-Stahl machte Stahl billig, Edison erfand die Glühbirne (1879), Otto und Daimler den Verbrennungsmotor. 1890 überholten die USA England; Deutschland glänzte mit BASF, Bayer und Siemens.",
+    "explanation_ru": "Бессемеровская сталь удешевила сталь, Эдисон изобрёл лампу (1879), Отто и Даймлер — двигатель внутреннего сгорания. В 1890 году США обогнали Англию; Германия блистала BASF, Bayer и Siemens.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1885 CE",
-    "tags": ["Wirtschaft", "Erfindungen"],
+    "tags": [
+      "Wirtschaft",
+      "Erfindungen"
+    ],
     "interesting_facts": [
       {
         "de": "Nikola Tesla vs. Thomas Edison: 'War der Ströme' – AC gegen DC. Tesla gewann technisch, verlor wirtschaftlich.",
@@ -273,17 +378,29 @@
     "id": 8160,
     "question_de": "Was war die Pariser Commune (1871) und ihre Bedeutung?",
     "question_ru": "Что такое Парижская Коммуна (1871) и её значение?",
-    "correct_answer_de": "Die Pariser Commune war die erste Arbeiterregierung (März–Mai 1871) – brutal von Thiers niedergeschlagen, 10.000–30.000 Tote",
-    "correct_answer_ru": "Парижская Коммуна была первым рабочим правительством (март–май 1871) — жестоко подавлена Тьером, 10 000–30 000 погибших",
-    "wrong_answers_de": ["Die Pariser Commune war eine konservative Gegenbewegung zur Dritten Republik in Frankreich", "Marx leitete die Pariser Commune persönlich als Vorsitzender des Communrats", "Die Commune bestand zwei Jahre und wurde erst 1873 durch die französische Armee beendet"],
-    "wrong_answers_ru": ["Парижская Коммуна была консервативным контрдвижением против Третьей республики во Франции", "Маркс лично руководил Парижской Коммуной как председатель Коммунального совета", "Коммуна просуществовала два года и была завершена французской армией лишь в 1873 году"],
-    "explanation_de": "Nach Deutsch-Französischem Krieg: Paris wollte kapitulieren, Arbeiter wollten kämpfen. Commune: Trennung Kirche/Staat, kostenlose Bildung, Arbeiterselbstverwaltung. 'Semaine sanglante' (Blutige Woche, Mai 1871): 30.000 Communarden erschossen. Marx: 'Endlich! Die Diktatur des Proletariats!' Lenin studierte Commune genau.",
-    "explanation_ru": "После Франко-прусской войны: Париж хотел капитулировать, рабочие хотели бороться. Коммуна: отделение церкви от государства, бесплатное образование, рабочее самоуправление. «Кровавая неделя» (mai 1871): 30 000 коммунаров расстреляно. Маркс: «Наконец! Диктатура пролетариата!» Ленин тщательно изучал Коммуну.",
+    "correct_answer_de": "Die Pariser Commune: erste Arbeiterregierung, 1871 niedergeschlagen",
+    "correct_answer_ru": "Парижская коммуна: первое рабочее правительство, подавлено в 1871 году",
+    "wrong_answers_de": [
+      "Die Commune war eine konservative Gegenbewegung zur Republik",
+      "Marx leitete die Pariser Commune persönlich als Vorsitzender des Communrats",
+      "Die Commune bestand zwei Jahre bis 1873"
+    ],
+    "wrong_answers_ru": [
+      "Коммуна была консервативным противовесом республике",
+      "Маркс лично руководил Парижской Коммуной как председатель Коммунального совета",
+      "Коммуна просуществовала два года до 1873-го"
+    ],
+    "explanation_de": "Die Commune trennte Kirche und Staat, führte kostenlose Bildung und Arbeiterselbstverwaltung ein. In der «Blutigen Woche» im Mai 1871 wurden Tausende Communarden erschossen; Lenin studierte sie genau.",
+    "explanation_ru": "Коммуна отделила церковь от государства, ввела бесплатное образование и рабочее самоуправление. В «кровавую неделю» мая 1871 года расстреляли тысячи коммунаров; Ленин внимательно изучал её опыт.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1871 CE",
-    "tags": ["Frankreich", "Politik", "Gesellschaft"],
+    "tags": [
+      "Frankreich",
+      "Politik",
+      "Gesellschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Die Vendôme-Säule (Napoleon-Denkmal) wurde von der Commune gestürzt – Gustave Courbet, Maler, musste zahlen.",
@@ -303,17 +420,28 @@
     "id": 8161,
     "question_de": "Was war die Erfindung des Autos durch Nikolaus Otto?",
     "question_ru": "Что такое изобретение двигателя Николаусом Отто?",
-    "correct_answer_de": "Nikolaus Otto erfand 1876 den Viertakt-Verbrennungsmotor – Grundlage aller modernen Autos und Motoren",
-    "correct_answer_ru": "Николаус Отто изобрёл в 1876 году четырёхтактный двигатель внутреннего сгорания — основа всех современных автомобилей и двигателей",
-    "wrong_answers_de": ["Carl Benz erfand den Verbrennungsmotor 1876 und Otto verbesserte ihn nur", "Der erste Viertaktmotor wurde 1860 von Lenoir in Frankreich gebaut", "Otto und Edison erfanden den Elektromotor als Alternative zum Dampfantrieb"],
-    "wrong_answers_ru": ["Карл Бенц изобрёл двигатель внутреннего сгорания в 1876 году, а Отто лишь улучшил его", "Первый четырёхтактный двигатель был построен Ленуаром во Франции в 1860 году", "Отто и Эдисон изобрели электродвигатель как альтернативу паровому приводу"],
-    "explanation_de": "Nikolaus August Otto (Köln) baute 1876 den ersten funktionierenden Viertakt-Ottomotor. Gottlieb Daimler und Wilhelm Maybach arbeiteten für Otto. Daimler baute 1885 den ersten Motorrad-Motor. Rudolf Diesel: Dieselmotor 1892 (effizienter als Otto). Otto-Motor: Prinzip in 99 % aller Benzinmotoren heute.",
-    "explanation_ru": "Николаус Август Отто (Кёльн) построил в 1876 году первый работающий четырёхтактный двигатель Отто. Готлиб Даймлер и Вильгельм Майбах работали у Отто. Даймлер в 1885 году построил первый мотоциклетный двигатель. Рудольф Дизель: дизельный двигатель 1892 (эффективнее двигателя Отто). Двигатель Отто: принцип в 99% всех бензиновых двигателей сегодня.",
+    "correct_answer_de": "Nikolaus Otto erfand 1876 den Viertakt-Verbrennungsmotor",
+    "correct_answer_ru": "Николаус Отто изобрёл в 1876 году четырёхтактный двигатель внутреннего сгорания",
+    "wrong_answers_de": [
+      "Benz erfand den Verbrennungsmotor, Otto verbesserte nur",
+      "Der erste Viertaktmotor wurde 1860 von Lenoir in Frankreich gebaut",
+      "Otto und Edison erfanden den Elektromotor"
+    ],
+    "wrong_answers_ru": [
+      "Бенц изобрёл двигатель внутреннего сгорания, Отто лишь улучшил",
+      "Первый четырёхтактный двигатель был построен Ленуаром во Франции в 1860 году",
+      "Отто и Эдисон изобрели электродвигатель"
+    ],
+    "explanation_de": "Nikolaus August Otto baute 1876 den ersten Viertaktmotor. Daimler und Maybach arbeiteten für ihn, Diesel erfand 1892 den Dieselmotor. Das Otto-Prinzip steckt bis heute in fast allen Benzinmotoren.",
+    "explanation_ru": "Николаус Август Отто построил в 1876 году первый четырёхтактный двигатель. На него работали Даймлер и Майбах, Дизель изобрёл в 1892-м свой двигатель. Принцип Отто лежит в основе бензиновых двигателей.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1876 CE",
-    "tags": ["Erfindungen", "Deutschland"],
+    "tags": [
+      "Erfindungen",
+      "Deutschland"
+    ],
     "interesting_facts": [
       {
         "de": "Rudolf Diesel ertrank 1913 mysteriös auf dem Weg nach England – Selbstmord, Unfall oder Mord unbekannt.",
@@ -333,17 +461,29 @@
     "id": 8162,
     "question_de": "Was war das Ende der griechischen Unabhängigkeit und die Entstehung Griechenlands (1821–1830)?",
     "question_ru": "Что такое конец греческого порабощения и возникновение Греции (1821–1830)?",
-    "correct_answer_de": "Griechenlands Unabhängigkeit (1821–1830) war der erste erfolgreiche Nationalaufstand gegen das Osmanische Reich",
-    "correct_answer_ru": "Независимость Греции (1821–1830) было первым успешным национальным восстанием против Османской империи",
-    "wrong_answers_de": ["Griechenland wurde 1830 durch Napoleon als Königreich gegründet", "Der griechische Freiheitskampf begann 1848 als Teil des europäischen Völkerfrühlings", "England allein kämpfte für die griechische Unabhängigkeit gegen die Osmanen"],
-    "wrong_answers_ru": ["Греция была основана Наполеоном в 1830 году как королевство", "Греческая война за свободу началась в 1848 году как часть европейской «весны народов»", "Только Англия сражалась за греческую независимость против Османской империи"],
-    "explanation_de": "Heteristen (griechisches Geheimbund) planten Aufstand. 1821: Bischöfe riefen Freiheitskrieg aus. Lord Byron starb 1824 in Missolunghi für Griechenland. Navarin-Seeschlacht (1827): England, Frankreich, Russland besiegten Osmanen. 1830: Protokoll von London. König Otto I. (bayrischer Prinz) nach Griechenland.",
-    "explanation_ru": "Гетеристы (греческое тайное общество) планировали восстание. 1821: епископы призвали к войне за свободу. Лорд Байрон умер в 1824 году в Миссолунгах за Грецию. Наваринское сражение (1827): Англия, Франция, Россия разбили Османов. 1830: Лондонский протокол. Король Отто I (баварский принц) в Грецию.",
+    "correct_answer_de": "Griechenlands Unabhängigkeit (1821–1830): erster erfolgreicher Nationalaufstand gegen die Osmanen",
+    "correct_answer_ru": "Независимость Греции (1821–1830): первое успешное национальное восстание против османов",
+    "wrong_answers_de": [
+      "Griechenland wurde 1830 durch Napoleon als Königreich gegründet",
+      "Der griechische Freiheitskampf begann 1848 als Teil des europäischen Völkerfrühlings",
+      "England allein kämpfte für die griechische Unabhängigkeit gegen die Osmanen"
+    ],
+    "wrong_answers_ru": [
+      "Греция была основана Наполеоном в 1830 году как королевство",
+      "Греческая война за свободу началась в 1848 году как часть европейской «весны народов»",
+      "Только Англия сражалась за греческую независимость против Османской империи"
+    ],
+    "explanation_de": "Der Geheimbund der Heteristen plante den Aufstand, 1821 begann der Freiheitskampf. 1827 besiegten England, Frankreich und Russland bei Navarino die Osmanen; 1830 wurde Griechenland frei.",
+    "explanation_ru": "Тайное общество гетеристов готовило восстание, в 1821 году началась борьба за свободу. В 1827 году Англия, Франция и Россия разбили османов при Наварине; в 1830-м Греция стала независимой.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1825 CE",
-    "tags": ["Europa", "Krieg", "Politik"],
+    "tags": [
+      "Europa",
+      "Krieg",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Lord Byron gab alles für Griechenland – sein Geld, seine Gesundheit, sein Leben. Griechenland trauerte wie um einen Nationalhelden.",
@@ -365,15 +505,26 @@
     "question_ru": "Что такое развитие мировой экономики и торговли в XIX веке?",
     "correct_answer_de": "Freihandel, Dampfschiffe und der Goldstandard schufen erstmals eine echte Weltwirtschaft mit globalem Handel",
     "correct_answer_ru": "Свободная торговля, пароходы и золотой стандарт впервые создали настоящую мировую экономику с глобальной торговлей",
-    "wrong_answers_de": ["Die Weltwirtschaft des 19. Jh. basierte auf Schutzzöllen und Handelsblockaden zwischen Nationen", "England und Frankreich teilten die Weltwirtschaft unter sich – andere Länder hatten keinen Einfluss", "Globaler Handel entstand erst nach dem Ersten Weltkrieg durch die Gründung des Völkerbunds"],
-    "wrong_answers_ru": ["Мировая экономика XIX века основывалась на защитных пошлинах и торговых блокадах между нациями", "Англия и Франция делили мировую экономику между собой — другие страны не имели влияния", "Глобальная торговля возникла лишь после Первой мировой войны через основание Лиги Наций"],
-    "explanation_de": "Goldstandard (England 1821, universal 1870s): stabile Währungen. Freihandel-Ära 1846–1880. Suezkanal (1869), transatlantisches Telegrafenkabel (1866). Schiff: Dampfer halbierte Transportkosten. 1870–1914: erste Globalisierung. Weltexporte x5. London: Finanzzentrum. £ Sterling: Weltreservewährung.",
-    "explanation_ru": "Золотой стандарт (Англия 1821, универсальный 1870-е): стабильные валюты. Эра свободной торговли 1846–1880. Суэцкий канал (1869), трансатлантический телеграфный кабель (1866). Судно: пароход вдвое снизил транспортные расходы. 1870–1914: первая глобализация. Мировой экспорт ×5. Лондон: финансовый центр. Фунт стерлингов: мировая резервная валюта.",
+    "wrong_answers_de": [
+      "Die Weltwirtschaft des 19. Jh. basierte auf Schutzzöllen und Handelsblockaden zwischen Nationen",
+      "England und Frankreich teilten die Weltwirtschaft unter sich – andere Länder hatten keinen Einfluss",
+      "Globaler Handel entstand erst nach dem Ersten Weltkrieg durch die Gründung des Völkerbunds"
+    ],
+    "wrong_answers_ru": [
+      "Мировая экономика XIX века основывалась на защитных пошлинах и торговых блокадах между нациями",
+      "Англия и Франция делили мировую экономику между собой — другие страны не имели влияния",
+      "Глобальная торговля возникла лишь после Первой мировой войны через основание Лиги Наций"
+    ],
+    "explanation_de": "Goldstandard, Freihandel und Dampfer halbierten die Transportkosten. 1870–1914 erlebte die Welt eine erste Globalisierung, London war Finanzzentrum und das Pfund Weltreservewährung.",
+    "explanation_ru": "Золотой стандарт, свободная торговля и пароходы вдвое снизили стоимость перевозок. В 1870–1914 годах мир пережил первую глобализацию, Лондон был финансовым центром, а фунт — мировой резервной валютой.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1880 CE",
-    "tags": ["Wirtschaft", "England"],
+    "tags": [
+      "Wirtschaft",
+      "England"
+    ],
     "interesting_facts": [
       {
         "de": "Das erste transatlantische Telegramm (1858) war: 'Ehre sei Gott in der Höhe und auf Erden Friede' – von Queen Victoria.",
@@ -393,17 +544,29 @@
     "id": 8164,
     "question_de": "Was war die Entstehung des deutschen Nationalismus (Herder, Fichte, Arndt)?",
     "question_ru": "Что такое возникновение германского национализма (Гердер, Фихте, Арндт)?",
-    "correct_answer_de": "Deutschen Philosophen entwickelten Nationalismus als Reaktion auf Napoleon – Sprache und Kultur als Grundlage der Nation",
-    "correct_answer_ru": "Немецкие философы развили национализм как реакцию на Наполеона — язык и культура как основа нации",
-    "wrong_answers_de": ["Deutschen Nationalismus entstand 1848 als Forderung nach einem Deutschen Kaiserreich", "Hegel begründete den deutschen Nationalismus mit seiner Dialektik des Weltgeists", "Bismarck entwickelte den deutschen Nationalismus als politisches Instrument für die Einigung"],
-    "wrong_answers_ru": ["Германский национализм возник в 1848 году как требование Германской империи", "Гегель основал германский национализм своей диалектикой мирового духа", "Бисмарк развил германский национализм как политический инструмент для объединения"],
-    "explanation_de": "Herder (18. Jh.): jede Nation hat Seele (Volksgeist). Napoleon besiegte Preußen 1806. Fichte: 'Reden an die Deutsche Nation' (1807/08) – Deutschen sind besondere Kulturnation. Ernst Moritz Arndt: 'Was ist des Deutschen Vaterland?' Burschenschaften (1815): nationale Studentenbewegungen. Wartburgfest 1817.",
-    "explanation_ru": "Гердер (XVIII в.): у каждой нации есть душа («народный дух»). Наполеон победил Пруссию в 1806 году. Фихте: «Речи к немецкой нации» (1807/08) — немцы особая культурная нация. Эрнст Мориц Арндт: «Что есть Отечество немца?» Буршеншaften (1815): национальные студенческие движения. Вартбургский праздник 1817.",
+    "correct_answer_de": "Deutsche Philosophen entwickelten den Nationalismus als Antwort auf Napoleon",
+    "correct_answer_ru": "Немецкие философы развили национализм как ответ Наполеону",
+    "wrong_answers_de": [
+      "Deutschen Nationalismus entstand 1848 als Forderung nach einem Deutschen Kaiserreich",
+      "Hegel begründete den deutschen Nationalismus mit seiner Dialektik des Weltgeists",
+      "Bismarck nutzte den Nationalismus als Mittel zur Einigung"
+    ],
+    "wrong_answers_ru": [
+      "Германский национализм возник в 1848 году как требование Германской империи",
+      "Гегель основал германский национализм своей диалектикой мирового духа",
+      "Бисмарк использовал национализм как средство объединения"
+    ],
+    "explanation_de": "Herder sprach vom «Volksgeist», nach Napoleons Sieg über Preußen 1806 hielt Fichte seine «Reden an die deutsche Nation». Burschenschaften und das Wartburgfest 1817 trugen den Gedanken weiter.",
+    "explanation_ru": "Гердер говорил о «духе народа», после победы Наполеона над Пруссией в 1806 году Фихте произнёс «Речи к немецкой нации». Студенческие братства и Вартбургский праздник 1817 года развивали идею.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1815 CE",
-    "tags": ["Deutschland", "Philosophie", "Politik"],
+    "tags": [
+      "Deutschland",
+      "Philosophie",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Das Wartburgfest 1817: Studenten verbrannten reaktionäre Bücher – als Vorläufer der Nazi-Bücherverbrennung 1933.",
@@ -423,17 +586,28 @@
     "id": 8165,
     "question_de": "Was war Arthur Schopenhauers Pessimismus?",
     "question_ru": "Что такое пессимизм Артура Шопенгауэра?",
-    "correct_answer_de": "Schopenhauer lehrte: der Wille zum Leben ist blind und sinnlos – Leiden ist Grundzustand des Daseins; Kunst und Askese als Erlösung",
-    "correct_answer_ru": "Шопенгауэр учил: воля к жизни слепа и бессмысленна — страдание есть основное состояние бытия; искусство и аскеза как спасение",
-    "wrong_answers_de": ["Schopenhauer war Hegelianer und entwickelte den deutschen Idealismus weiter", "Schopenhauer glaubte an Fortschritt und Verbesserung der Menschheit durch Vernunft", "Schopenhauers Philosophie begründete den Positivismus als Gegensatz zum Nihilismus"],
-    "wrong_answers_ru": ["Шопенгауэр был гегельянцем и развивал немецкий идеализм", "Шопенгауэр верил в прогресс и совершенствование человечества через разум", "Философия Шопенгауэра основала позитивизм как противоположность нигилизму"],
-    "explanation_de": "'Die Welt als Wille und Vorstellung' (1818). Schopenhauer hasste Hegel. Beeinflusste Wagner (Ring des Nibelungen), Nietzsche (früh), Freud (Todestrieb). Weg aus Leiden: Kunst (temporär) oder Askese/Mitleid (dauerhaft). Buddhistische Einflüsse. 'Das Leben schwingt wie ein Pendel hin und her zwischen Schmerz und Langeweile.'",
-    "explanation_ru": "«Мир как воля и представление» (1818). Шопенгауэр ненавидел Гегеля. Влиял на Вагнера («Кольцо нибелунга»), Ницше (ранний), Фрейда (влечение к смерти). Выход из страдания: искусство (временно) или аскеза/сострадание (постоянно). Буддийские влияния. «Жизнь качается как маятник между болью и скукой».",
+    "correct_answer_de": "Schopenhauer: Der Wille zum Leben ist blind, Leiden der Grundzustand",
+    "correct_answer_ru": "Шопенгауэр: воля к жизни слепа, страдание — основное состояние",
+    "wrong_answers_de": [
+      "Schopenhauer war Hegelianer und entwickelte den deutschen Idealismus weiter",
+      "Schopenhauer glaubte an Fortschritt durch Vernunft",
+      "Schopenhauer begründete den Positivismus gegen den Nihilismus"
+    ],
+    "wrong_answers_ru": [
+      "Шопенгауэр был гегельянцем и развивал немецкий идеализм",
+      "Шопенгауэр верил в прогресс через разум",
+      "Шопенгауэр основал позитивизм против нигилизма"
+    ],
+    "explanation_de": "In «Die Welt als Wille und Vorstellung» (1818) lehrte Schopenhauer, der Wille sei blind und bringe Leiden. Erlösung bieten Kunst, Mitleid und Askese; er beeinflusste Wagner, Nietzsche und Freud.",
+    "explanation_ru": "В «Мире как воле и представлении» (1818) Шопенгауэр учил, что воля слепа и приносит страдание. Спасение — в искусстве, сострадании и аскезе; он повлиял на Вагнера, Ницше и Фрейда.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1850 CE",
-    "tags": ["Philosophie", "Deutschland"],
+    "tags": [
+      "Philosophie",
+      "Deutschland"
+    ],
     "interesting_facts": [
       {
         "de": "Schopenhauer lebte 72 Jahre und war sein ganzes Leben überzeugt, dass das Leben Leiden ist – ironisch gesund.",
@@ -453,17 +627,29 @@
     "id": 8166,
     "question_de": "Was war der Aufstieg Preußens zur Großmacht im 19. Jahrhundert?",
     "question_ru": "Что такое возвышение Пруссии как великой державы в XIX веке?",
-    "correct_answer_de": "Preußen wurde durch militärische Effizienz, Bildungsreformen und Bismarck zur dominanten deutschen Macht",
-    "correct_answer_ru": "Пруссия стала доминирующей германской державой благодаря военной эффективности, реформам образования и Бисмарку",
-    "wrong_answers_de": ["Preußen war im 19. Jh. ein liberaler Staat, der demokratische Reformen einführte", "Österreich war die mächtigste deutsche Staat, bis Preußen 1871 durch Volksabstimmung übernahm", "Preußen war ein kleiner Staat im Norden Deutschlands bis es 1890 durch Bismarck gegründet wurde"],
-    "wrong_answers_ru": ["Пруссия в XIX веке была либеральным государством, вводившим демократические реформы", "Австрия была самым мощным германским государством, пока Пруссия не взяла верх через народное голосование в 1871 году", "Пруссия была небольшим государством на севере Германии, пока не была основана Бисмарком в 1890 году"],
-    "explanation_de": "1806 von Napoleon gedemütigt, reformierte Preußen: Scharnhorst (Heeresreform), Hardenberg (Wirtschaft), Humboldt (Bildung). Zollverein (1834) von Preußen geführt. Schleswig-Holstein 1864 (gegen Dänemark). Königgrätz 1866 (gegen Österreich). Sedan 1870 (gegen Frankreich). Deutsche Einigung 1871 unter preußischer Führung.",
-    "explanation_ru": "Унижённая Наполеоном в 1806 году, Пруссия реформировалась: Шарнхорст (военная реформа), Харденберг (экономика), Гумбольдт (образование). Таможенный союз (1834) под руководством Пруссии. Шлезвиг-Гольштейн 1864 (против Дании). Кёниггрец 1866 (против Австрии). Седан 1870 (против Франции). Германское объединение 1871 под прусским руководством.",
+    "correct_answer_de": "Preußen wurde durch Militär, Bildung und Bismarck zur führenden deutschen Macht",
+    "correct_answer_ru": "Пруссия стала ведущей германской державой благодаря армии, образованию и Бисмарку",
+    "wrong_answers_de": [
+      "Preußen war im 19. Jh. ein liberaler Staat, der demokratische Reformen einführte",
+      "Österreich blieb mächtigster deutscher Staat, bis Preußen 1871 per Abstimmung übernahm",
+      "Preußen war klein, bis Bismarck es 1890 gründete"
+    ],
+    "wrong_answers_ru": [
+      "Пруссия в XIX веке была либеральным государством, вводившим демократические реформы",
+      "Австрия оставалась сильнейшей, пока Пруссия не взяла верх в 1871 году по референдуму",
+      "Пруссия была мала, пока Бисмарк не основал её в 1890 году"
+    ],
+    "explanation_de": "Nach der Niederlage von 1806 reformierten Scharnhorst, Hardenberg und Humboldt Heer, Wirtschaft und Bildung. Siege 1864, 1866 und 1870 führten zur deutschen Einigung unter preußischer Führung.",
+    "explanation_ru": "После поражения 1806 года Шарнгорст, Гарденберг и Гумбольдт реформировали армию, экономику и образование. Победы 1864, 1866 и 1870 годов привели к объединению Германии под руководством Пруссии.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1860 CE",
-    "tags": ["Deutschland", "Politik", "Krieg"],
+    "tags": [
+      "Deutschland",
+      "Politik",
+      "Krieg"
+    ],
     "interesting_facts": [
       {
         "de": "Wilhelm von Humboldt gründete die Berliner Universität (1810) – das Modell für moderne Forschungsuniversitäten weltweit.",
@@ -483,17 +669,29 @@
     "id": 8167,
     "question_de": "Was war die Entwicklung des Drucks und der Verlagswesens im 19. Jahrhundert?",
     "question_ru": "Что такое развитие книгопечатания и издательского дела в XIX веке?",
-    "correct_answer_de": "Dampfpresse und Setzmaschine ermöglichten Massendruck – Bücher wurden für alle erschwinglich, Alphabetisierung stieg",
-    "correct_answer_ru": "Паровой печатный станок и линотип сделали возможной массовую печать — книги стали доступны для всех, грамотность выросла",
-    "wrong_answers_de": ["Gutenbergs Druckerpresse aus dem 15. Jahrhundert blieb bis 1900 die dominante Druckmethode", "Massenalphabetisierung im 19. Jh. wurde durch Kirchen, nicht Verlage oder staatliche Schulen gefördert", "Der erste Roman wurde erst 1850 als Druckerzeugnis zugänglich – davor nur Manuskripte"],
-    "wrong_answers_ru": ["Печатный станок Гутенберга XV века оставался доминирующим методом печати до 1900 года", "Массовое распространение грамотности в XIX веке поощрялось церквями, а не издательствами или государственными школами", "Первый роман стал доступен в печатном виде лишь в 1850 году — до этого только рукописи"],
-    "explanation_de": "Koenig-Bauer-Dampfpresse (1814): 1.000 Seiten/Stunde. Linotype-Setzmaschine (1884): revolutionierte Schriftsatz. Penguin-Verlag (1935): Taschenbücher. Pflichtschule + Druckrevolution: Alphabetisierung von 30 % (1800) auf 90 % (1900) in Europa. Roman als Massenmedium entstand.",
-    "explanation_ru": "Паровой печатный станок Кёнига-Бауэра (1814): 1 000 страниц в час. Линотип (1884): революционизировал набор. Penguin Books (1935): карманные книги. Обязательная школа + печатная революция: грамотность с 30% (1800) до 90% (1900) в Европе. Возник роман как массовое средство.",
+    "correct_answer_de": "Dampfpresse und Setzmaschine machten Bücher für alle erschwinglich",
+    "correct_answer_ru": "Паровой пресс и наборная машина сделали книги доступными для всех",
+    "wrong_answers_de": [
+      "Gutenbergs Presse blieb bis 1900 die dominante Methode",
+      "Massenalphabetisierung wurde durch Kirchen, nicht durch Schulen gefördert",
+      "Der erste Roman erschien erst 1850 gedruckt"
+    ],
+    "wrong_answers_ru": [
+      "Пресс Гутенберга оставался основным методом до 1900 года",
+      "Массовую грамотность продвигали церкви, а не школы",
+      "Первый роман напечатали только в 1850 году"
+    ],
+    "explanation_de": "Die Koenig-Bauer-Dampfpresse (1814) druckte 1.000 Seiten pro Stunde, die Linotype (1884) revolutionierte den Satz. Mit der Schulpflicht stieg die Alphabetisierung in Europa von 30 auf 90 Prozent.",
+    "explanation_ru": "Паровой пресс Кёнига и Бауэра (1814) печатал 1 000 страниц в час, линотип (1884) совершил переворот в наборе. С обязательным обучением грамотность в Европе выросла с 30 до 90 процентов.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1860 CE",
-    "tags": ["Kultur", "Erfindungen", "Gesellschaft"],
+    "tags": [
+      "Kultur",
+      "Erfindungen",
+      "Gesellschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Die Times (London) druckte 1814 erstmals mit Dampf – und produzierte 1.100 Exemplare pro Stunde.",
@@ -513,17 +711,28 @@
     "id": 8168,
     "question_de": "Was war die Entstehung des Nationalstaats in Deutschland (Einigung 1871)?",
     "question_ru": "Что такое возникновение национального государства в Германии (объединение 1871)?",
-    "correct_answer_de": "Das Deutsche Reich (1871) vereinte 25 Staaten unter preußischer Führung – keine parlamentarische Demokratie, sondern konstitutionelle Monarchie",
-    "correct_answer_ru": "Германская империя (1871) объединила 25 государств под прусским руководством — не парламентская демократия, а конституционная монархия",
-    "wrong_answers_de": ["Das Deutsche Reich 1871 war eine demokratische Republik mit allgemeinem Wahlrecht für alle Erwachsenen", "Die Einigung Deutschlands wurde durch eine Volksabstimmung aller deutschen Bürger entschieden", "Österreich war Teil des Deutschen Reiches von 1871 unter habsburgischer Führung"],
-    "wrong_answers_ru": ["Германская империя 1871 года была демократической республикой со всеобщим избирательным правом для всех взрослых", "Объединение Германии было решено голосованием всех немецких граждан", "Австрия была частью Германской империи с 1871 года под руководством Габсбургов"],
-    "explanation_de": "Norddeutscher Bund (1867) + Süddeutsche Staaten (nach Krieg 1870). Kaiser (Wilhelm I.) + Kanzler (Bismarck) + Reichstag (allgemeines Männerwahlrecht). Bundesrat: Fürsten. Kleindeutsche Lösung: ohne Österreich. Wirtschaftswunder: Gründerjahre 1871–73. Wirtschaft booomte – Gesellschaft konservativ.",
-    "explanation_ru": "Северогерманский союз (1867) + южногерманские государства (после войны 1870). Кайзер (Вильгельм I) + канцлер (Бисмарк) + рейхстаг (всеобщее мужское избирательное право). Бундесрат: государи. Малогерманское решение: без Австрии. Экономическое чудо: «годы грюндерства» 1871–73. Экономика процветала — общество консервативно.",
+    "correct_answer_de": "Das Deutsche Reich (1871) vereinte 25 Staaten unter Preußen – eine konstitutionelle Monarchie",
+    "correct_answer_ru": "Германская империя (1871) объединила 25 государств под Пруссией — конституционная монархия",
+    "wrong_answers_de": [
+      "Das Deutsche Reich 1871 war eine demokratische Republik mit allgemeinem Wahlrecht für alle Erwachsenen",
+      "Die Einigung Deutschlands wurde durch eine Volksabstimmung aller deutschen Bürger entschieden",
+      "Österreich war Teil des Deutschen Reiches von 1871 unter habsburgischer Führung"
+    ],
+    "wrong_answers_ru": [
+      "Германская империя 1871 года была демократической республикой со всеобщим избирательным правом для всех взрослых",
+      "Объединение Германии было решено голосованием всех немецких граждан",
+      "Австрия была частью Германской империи с 1871 года под руководством Габсбургов"
+    ],
+    "explanation_de": "Das Reich von 1871 verband 25 Staaten mit Kaiser, Kanzler und Reichstag mit Männerwahlrecht, ohne Österreich. Die Gründerjahre brachten Wirtschaftsboom bei konservativer Gesellschaft.",
+    "explanation_ru": "Империя 1871 года объединила 25 государств с императором, канцлером и рейхстагом с мужским избирательным правом, без Австрии. Грюндерские годы принесли экономический подъём при консервативном обществе.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1871 CE",
-    "tags": ["Deutschland", "Politik"],
+    "tags": [
+      "Deutschland",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Das 'Gründerkrach' 1873 (Börsenkrise) folgte der Euphorie der Einigung – Deutschland lernte: Wirtschaft hat Zyklen.",
@@ -543,17 +752,29 @@
     "id": 8169,
     "question_de": "Was war die mexikanische Revolution (1910–1920)?",
     "question_ru": "Что такое Мексиканская революция (1910–1920)?",
-    "correct_answer_de": "Die mexikanische Revolution stürzte Diktator Díaz und führte zu einer Verfassung (1917) mit sozialen Grundrechten",
-    "correct_answer_ru": "Мексиканская революция свергла диктатора Диаса и привела к конституции (1917) с социальными основными правами",
-    "wrong_answers_de": ["Mexiko wurde 1910 durch die USA kolonisiert, nachdem Díaz die Revolution verloren hatte", "Die mexikanische Revolution führte sofort zu einem demokratischen Staat mit Wahlen", "Pancho Villa und Emiliano Zapata gründeten gemeinsam die erste sozialistische Regierung Mexikos"],
-    "wrong_answers_ru": ["Мексика была колонизирована США в 1910 году после того, как Диас проиграл революцию", "Мексиканская революция немедленно привела к демократическому государству с выборами", "Панчо Вилья и Эмилиано Сапата совместно основали первое социалистическое правительство Мексики"],
-    "explanation_de": "Porfirio Díaz: Diktator seit 1876. Francisco Madero: demokratischer Revolutionär (ermordet 1913). Emiliano Zapata: 'Tierra y Libertad!' (Land und Freiheit). Pancho Villa: Guerillakämpfer im Norden. Carranza gewann – Verfassung 1917: Agrarreform, Arbeitnehmerrechte, Nationalisierung von Ressourcen.",
-    "explanation_ru": "Порфирио Диас: диктатор с 1876 года. Франсиско Мадеро: демократический революционер (убит в 1913). Эмилиано Сапата: «Tierra y Libertad!» (Земля и Свобода!). Панчо Вилья: партизан на севере. Каррансa победил — конституция 1917: аграрная реформа, права трудящихся, национализация ресурсов.",
+    "correct_answer_de": "Die Revolution stürzte Díaz und führte zur Verfassung von 1917",
+    "correct_answer_ru": "Революция свергла Диаса и привела к конституции 1917 года",
+    "wrong_answers_de": [
+      "Die USA kolonisierten Mexiko 1910 nach Díaz' Niederlage",
+      "Die Revolution brachte sofort einen demokratischen Staat",
+      "Villa und Zapata gründeten Mexikos erste sozialistische Regierung"
+    ],
+    "wrong_answers_ru": [
+      "США колонизировали Мексику в 1910 году после поражения Диаса",
+      "Революция сразу создала демократическое государство",
+      "Вилья и Сапата создали первое социалистическое правительство"
+    ],
+    "explanation_de": "Madero stürzte Díaz und wurde 1913 ermordet. Zapata forderte «Tierra y Libertad», Villa kämpfte im Norden; Carranza setzte sich durch, und die Verfassung von 1917 brachte Agrarreform.",
+    "explanation_ru": "Мадеро свергнул Диаса и был убит в 1913 году. Сапата требовал «Земли и свободы», Вилья воевал на севере; победил Карранса, а конституция 1917 года принесла аграрную реформу.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1915 CE",
-    "tags": ["Amerika", "Politik", "Krieg"],
+    "tags": [
+      "Amerika",
+      "Politik",
+      "Krieg"
+    ],
     "interesting_facts": [
       {
         "de": "Zapatas Motto lebt bis heute in Zapatista-Bewegung Mexikos (EZLN, 1994, Chiapas).",
@@ -573,17 +794,29 @@
     "id": 8170,
     "question_de": "Was war der Bürgerrechtskämpfer Frederick Douglass?",
     "question_ru": "Кто такой борец за гражданские права Фредерик Дуглас?",
-    "correct_answer_de": "Frederick Douglass (1818–1895) war entflohener Sklave, Redner und Aktivist – wichtigster afroamerikanischer Führer des 19. Jh.",
-    "correct_answer_ru": "Фредерик Дуглас (1818–1895) был беглым рабом, оратором и активистом — важнейший афроамериканский лидер XIX века",
-    "wrong_answers_de": ["Douglass war ein britischer Sklavereigegner, der nie selbst versklavt war", "Frederick Douglass und Harriet Tubman leiteten gemeinsam die Underground Railroad als Organisation", "Douglass war Mitglied der republikanischen Partei und kämpfte für die Konföderation"],
-    "wrong_answers_ru": ["Дуглас был британским противником рабства, сам никогда не бывшим в рабстве", "Фредерик Дуглас и Гарриет Табмен совместно руководили Подземной железной дорогой как организацией", "Дуглас был членом Республиканской партии и воевал за Конфедерацию"],
-    "explanation_de": "Douglass floh 1838 aus Maryland. Autobiographie (1845): Bestseller, beweist Intelligenz trotz Sklaverei. Redete in England, gesammelt in Europa. Beratete Lincoln. 'Narrative of the Life of Frederick Douglass': lehrte, dass Sklaven voll Menschen sind. 'Was ist euer 4. Juli für mich?'",
-    "explanation_ru": "Дуглас бежал в 1838 году из Мэриленда. Автобиография (1845): бестселлер, доказывает интеллект вопреки рабству. Выступал в Англии, собирал средства в Европе. Советовал Линкольну. «Повествование о жизни Фредерика Дугласа»: учил, что рабы — полноценные люди. «Чем является для меня ваш 4 июля?»",
+    "correct_answer_de": "Entflohener Sklave, Redner und Aktivist – wichtigster schwarzer Führer des Jahrhunderts",
+    "correct_answer_ru": "Беглый раб, оратор и активист — главный чернокожий лидер века",
+    "wrong_answers_de": [
+      "Douglass war ein britischer Sklavereigegner, der nie selbst versklavt war",
+      "Frederick Douglass und Harriet Tubman leiteten gemeinsam die Underground Railroad als Organisation",
+      "Douglass war Mitglied der republikanischen Partei und kämpfte für die Konföderation"
+    ],
+    "wrong_answers_ru": [
+      "Дуглас был британским противником рабства, сам никогда не бывшим в рабстве",
+      "Фредерик Дуглас и Гарриет Табмен совместно руководили Подземной железной дорогой как организацией",
+      "Дуглас был членом Республиканской партии и воевал за Конфедерацию"
+    ],
+    "explanation_de": "Douglass floh 1838 aus Maryland in die Freiheit. Seine Autobiografie von 1845 wurde ein Bestseller, er sprach in England und beriet Lincoln.",
+    "explanation_ru": "Дуглас бежал в 1838 году из Мэриленда на свободу. Его автобиография 1845 года стала бестселлером, он выступал в Англии и советовал Линкольну.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1855 CE",
-    "tags": ["Amerika", "Gesellschaft", "Politik"],
+    "tags": [
+      "Amerika",
+      "Gesellschaft",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Douglass lernte Lesen heimlich – weil Alphabetisierung von Sklaven in Maryland illegal war.",
@@ -603,17 +836,29 @@
     "id": 8171,
     "question_de": "Was war der Russisch-Japanische Krieg (1904/05)?",
     "question_ru": "Что такое Русско-японская война (1904/05)?",
-    "correct_answer_de": "Japan besiegte Russland als erste nicht-westliche Nation, die eine europäische Großmacht schlug – Schock für Europa",
-    "correct_answer_ru": "Япония победила Россию как первая незападная нация, разбившая европейскую великую державу — шок для Европы",
-    "wrong_answers_de": ["Russland gewann den Krieg gegen Japan und übernahm die Mandschurei dauerhaft", "Der Krieg begann durch einen japanischen Angriff auf Russland in Sibirien", "Japan und Russland kämpften in einem Stellungskrieg um Korea, der mit Waffenstillstand endete"],
-    "wrong_answers_ru": ["Россия выиграла войну против Японии и навсегда захватила Маньчжурию", "Война началась из-за японского нападения на Россию в Сибири", "Япония и Россия вели позиционную войну за Корею, завершившуюся перемирием"],
-    "explanation_de": "8. Februar 1904: Japans Überraschungsangriff auf Port Arthur (russischer Flottenstützpunkt). Tsushima (Mai 1905): Japanische Marine vernichtete russische Baltische Flotte. Roosevelt vermittelte Frieden (Portsmouth-Vertrag 1905, Friedensnobelpreis). Revolution in Russland 1905 als Folge. Japan erhielt Sachalin und Korea.",
-    "explanation_ru": "8 февраля 1904 года: внезапное нападение Японии на Порт-Артур (российская военно-морская база). Цусима (май 1905): японский флот уничтожил русскую Балтийскую эскадру. Рузвельт выступил посредником мира (Портсмутский договор 1905, Нобелевская премия мира). Революция в России 1905 года как следствие. Япония получила Сахалин и Корею.",
+    "correct_answer_de": "Japan schlug als erste nichtwestliche Nation eine europäische Großmacht",
+    "correct_answer_ru": "Япония первой из незападных наций разбила европейскую великую державу",
+    "wrong_answers_de": [
+      "Russland gewann den Krieg gegen Japan und übernahm die Mandschurei dauerhaft",
+      "Der Krieg begann durch einen japanischen Angriff auf Russland in Sibirien",
+      "Ein Stellungskrieg um Korea endete mit Waffenstillstand"
+    ],
+    "wrong_answers_ru": [
+      "Россия выиграла войну против Японии и навсегда захватила Маньчжурию",
+      "Война началась из-за японского нападения на Россию в Сибири",
+      "Позиционная война за Корею закончилась перемирием"
+    ],
+    "explanation_de": "Japan überfiel am 8. Februar 1904 Port Arthur und vernichtete im Mai 1905 bei Tsushima die russische Baltikflotte. Roosevelt vermittelte den Frieden von Portsmouth und erhielt den Friedensnobelpreis.",
+    "explanation_ru": "Япония напала 8 февраля 1904 года на Порт-Артур и в мае 1905-го уничтожила при Цусиме русскую Балтийскую эскадру. Рузвельт устроил Портсмутский мир и получил Нобелевскую премию мира.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1905 CE",
-    "tags": ["Japan", "Russland", "Krieg"],
+    "tags": [
+      "Japan",
+      "Russland",
+      "Krieg"
+    ],
     "interesting_facts": [
       {
         "de": "Theodor Roosevelts Friedensnobelpreis (1906) für Vermittlung war der erste für einen US-Amerikaner.",
@@ -633,17 +878,29 @@
     "id": 8172,
     "question_de": "Was war die Entwicklung des modernen Bankwesens im 19. Jahrhundert?",
     "question_ru": "Что такое развитие современного банковского дела в XIX веке?",
-    "correct_answer_de": "Zentralbanken, Aktiengesellschaften und Investmentbanken finanzierten die Industrialisierung – Rothschilds und Morgans Aufstieg",
-    "correct_answer_ru": "Центральные банки, акционерные общества и инвестиционные банки финансировали индустриализацию — возвышение Ротшильдов и Морганов",
-    "wrong_answers_de": ["Moderne Banken entstanden erst mit der Federal Reserve 1913 in den USA als erste Zentralbank", "Rothschild und Morgan waren Konkurrenten, die den Banksektor aufgeteilt haben", "Aktiengesellschaften wurden erst 1870 nach dem Deutschen Reich eingeführt"],
-    "wrong_answers_ru": ["Современные банки возникли лишь с Федеральной резервной системой в 1913 году в США как первый центральный банк", "Ротшильды и Морганы были конкурентами, разделившими банковский сектор", "Акционерные общества были введены лишь в 1870 году после образования Германской империи"],
-    "explanation_de": "Bank of England (1694, älteste Zentralbank). Rothschilds: 5 Brüder in 5 Städten. Eisenbahnen, Kriege, Staaten finanziert. J.P. Morgan: US-Stahl, Banken, rettete USA-Währung 1907. Deutsche Bank (1870): Finanzierung der Industrie. Aktiengesellschaft ermöglichte Massenkapital. Bundesbank-Vorgänger.",
-    "explanation_ru": "Банк Англии (1694, старейший центральный банк). Ротшильды: 5 братьев в 5 городах. Финансировали железные дороги, войны, государства. Дж. П. Морган: американская сталь, банки, спас американскую валюту в 1907 году. Deutsche Bank (1870): финансирование промышленности. Акционерное общество сделало возможным массовый капитал. Предшественники Бундесбанка.",
+    "correct_answer_de": "Aktiengesellschaften und Investmentbanken finanzierten die Industrialisierung",
+    "correct_answer_ru": "Акционерные общества и инвестиционные банки финансировали индустриализацию",
+    "wrong_answers_de": [
+      "Banken entstanden erst mit der Federal Reserve 1913",
+      "Rothschild und Morgan waren Konkurrenten, die den Banksektor aufgeteilt haben",
+      "Aktiengesellschaften wurden erst 1870 nach dem Deutschen Reich eingeführt"
+    ],
+    "wrong_answers_ru": [
+      "Банки появились лишь с Федеральной резервной системой в 1913 году",
+      "Ротшильды и Морганы были конкурентами, разделившими банковский сектор",
+      "Акционерные общества были введены лишь в 1870 году после образования Германской империи"
+    ],
+    "explanation_de": "Die Rothschilds finanzierten mit fünf Brüdern in fünf Städten Eisenbahnen, Kriege und Staaten. J. P. Morgan stützte 1907 die US-Währung; die Aktiengesellschaft ermöglichte Massenkapital.",
+    "explanation_ru": "Ротшильды, пять братьев в пяти городах, финансировали железные дороги, войны и государства. Дж. П. Морган поддержал в 1907 году американскую валюту; акционерное общество позволило собирать массовый капитал.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1880 CE",
-    "tags": ["Wirtschaft", "England", "Amerika"],
+    "tags": [
+      "Wirtschaft",
+      "England",
+      "Amerika"
+    ],
     "interesting_facts": [
       {
         "de": "Rothschilds finanzierten die Waterloo-Kampagne (1815) und Napoleons Rückkehr – auf beiden Seiten.",
@@ -663,17 +920,29 @@
     "id": 8173,
     "question_de": "Was war die Entstehung des Kinos und der Stummfilm-Ära?",
     "question_ru": "Что такое возникновение кино и эра немого кино?",
-    "correct_answer_de": "Stummfilme (1895–1927) mit Chaplin, Griffith, Eisenstein prägten das 20. Jh. – 1927 erster Tonfilm 'The Jazz Singer'",
-    "correct_answer_ru": "Немые фильмы (1895–1927) с Чаплиным, Гриффитом, Эйзенштейном определили XX век — 1927 первый звуковой фильм «Певец джаза»",
-    "wrong_answers_de": ["Der erste Tonfilm war 'Citizen Kane' (1941) von Orson Welles – danach endete die Stummfilmära", "Charlie Chaplin war ein britischer Komiker, der erst nach dem Tonfilm berühmt wurde", "Stummfilme hatten keine Musik – der Begriff bedeutet, dass Kinos selbst beim Film schwiegen"],
-    "wrong_answers_ru": ["Первым звуковым фильмом был «Гражданин Кейн» (1941) Орсона Уэллса — после этого завершилась эра немого кино", "Чарли Чаплин был британским комиком, прославившимся лишь после прихода звукового кино", "Немые фильмы не имели музыки — термин означает, что в кинотеатрах молчали и во время фильма"],
-    "explanation_de": "Méliès: 'Reise zum Mond' (1902). D.W. Griffith: 'Birth of a Nation' (1915, rassistisch aber filmtechnisch revolutionär). Chaplin: 'Der Tramp' – universeller Komiker. Eisenstein: 'Panzerkreuzer Potemkin' (1925). Stummfilme hatten Live-Orchester oder Pianist. 1927 The Jazz Singer: erste Tonfilm-Szene.",
-    "explanation_ru": "Мельес: «Путешествие на Луну» (1902). Д.У. Гриффит: «Рождение нации» (1915, расистский, но революционный по технике). Чаплин: «Бродяга» — универсальный комик. Эйзенштейн: «Броненосец \"Потёмкин\"» (1925). Немые фильмы сопровождались живым оркестром или пианистом. 1927 год «Певец джаза»: первая сцена звукового кино.",
+    "correct_answer_de": "Stummfilme mit Chaplin und Eisenstein – 1927 kam der erste Tonfilm",
+    "correct_answer_ru": "Немое кино с Чаплином и Эйзенштейном — в 1927 году вышел первый звуковой фильм",
+    "wrong_answers_de": [
+      "Erster Tonfilm war «Citizen Kane» (1941) – dann endete die Stummfilmzeit",
+      "Chaplin wurde erst nach dem Tonfilm berühmt",
+      "Stummfilme hatten keine Musik – die Kinos schwiegen"
+    ],
+    "wrong_answers_ru": [
+      "Первым звуковым фильмом был «Гражданин Кейн» (1941) — тогда кончилась эпоха немого кино",
+      "Чаплин прославился лишь после звукового кино",
+      "В немом кино не было музыки — кинозалы молчали"
+    ],
+    "explanation_de": "Méliès drehte 1902 «Reise zum Mond», Chaplin wurde als «Tramp» zum Weltstar, Eisenstein schuf 1925 «Panzerkreuzer Potemkin». Stummfilme begleiteten Pianisten; 1927 kam der Tonfilm.",
+    "explanation_ru": "Мельес снял в 1902 году «Путешествие на Луну», Чаплин стал мировой звездой как «Бродяга», Эйзенштейн создал в 1925 году «Броненосец Потёмкин». Немые фильмы сопровождали пианисты; в 1927 году пришёл звук.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1910 CE",
-    "tags": ["Kultur", "Kunst", "Amerika"],
+    "tags": [
+      "Kultur",
+      "Kunst",
+      "Amerika"
+    ],
     "interesting_facts": [
       {
         "de": "Chaplin wurde vom FBI überwacht – wegen vermuteter kommunistischer Sympathien. Er verließ die USA 1952.",
@@ -693,17 +962,29 @@
     "id": 8174,
     "question_de": "Was war die Erfindung des Stroms und Edison vs. Tesla?",
     "question_ru": "Что такое изобретение электричества и Эдисон против Теслы?",
-    "correct_answer_de": "Edison erfand Glühbirne und DC-Netz (1879/82), Tesla erfand Wechselstrom (AC) – AC gewann den 'War of Currents'",
-    "correct_answer_ru": "Эдисон изобрёл лампу накаливания и сеть постоянного тока (1879/82), Тесла изобрёл переменный ток (AC) — AC выиграл «войну токов»",
-    "wrong_answers_de": ["Faraday erfand die Glühbirne 1879 – Edison verbesserte sie nur für kommerzielle Nutzung", "Tesla und Edison arbeiteten zusammen und entwickelten gemeinsam das Stromnetz", "AC und DC wurden als gleichwertige Systeme nebeneinander weltweit eingesetzt"],
-    "wrong_answers_ru": ["Фарадей изобрёл лампу накаливания в 1879 году — Эдисон лишь улучшил её для коммерческого использования", "Тесла и Эдисон сотрудничали и совместно разработали электрическую сеть", "AC и DC использовались параллельно как равноценные системы по всему миру"],
-    "explanation_de": "Faraday (1831): elektromagnetische Induktion. Edison (1879): Kohlefaden-Glühbirne. Pearl Street Station (1882): erstes kommerzielles DC-Netz. Tesla (1882): AC-Motor-Patent. Westinghouse kaufte Tesla-Patent. Niagara Falls (1895): Teslas AC-Generator lieferte Strom nach Buffalo. AC gewann: weniger Verluste über lange Distanzen.",
-    "explanation_ru": "Фарадей (1831): электромагнитная индукция. Эдисон (1879): угольная нить лампы накаливания. Pearl Street Station (1882): первая коммерческая сеть постоянного тока. Тесла (1882): патент на мотор переменного тока. Вестингхаус купил патент Теслы. Ниагарский водопад (1895): генератор переменного тока Теслы снабжал током Баффало. AC победил: меньше потерь на большие расстояния.",
+    "correct_answer_de": "Edison baute das Gleichstromnetz, doch Teslas Wechselstrom setzte sich durch",
+    "correct_answer_ru": "Эдисон создал сеть постоянного тока, но победил переменный ток Теслы",
+    "wrong_answers_de": [
+      "Faraday erfand die Glühbirne 1879 – Edison verbesserte sie nur für kommerzielle Nutzung",
+      "Tesla und Edison arbeiteten zusammen und entwickelten gemeinsam das Stromnetz",
+      "AC und DC wurden als gleichwertige Systeme nebeneinander weltweit eingesetzt"
+    ],
+    "wrong_answers_ru": [
+      "Фарадей изобрёл лампу накаливания в 1879 году — Эдисон лишь улучшил её для коммерческого использования",
+      "Тесла и Эдисон сотрудничали и совместно разработали электрическую сеть",
+      "AC и DC использовались параллельно как равноценные системы по всему миру"
+    ],
+    "explanation_de": "Edison baute 1882 in der Pearl Street das erste kommerzielle Gleichstromnetz. Tesla und Westinghouse setzten den Wechselstrom durch, der über weite Strecken weniger verlor; Niagara lieferte 1895 Strom nach Buffalo.",
+    "explanation_ru": "Эдисон построил в 1882 году на Перл-стрит первую коммерческую сеть постоянного тока. Тесла и Вестингауз внедрили переменный ток, терявший меньше на больших расстояниях; Ниагара в 1895 году дала ток Буффало.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1890 CE",
-    "tags": ["Erfindungen", "Amerika", "Wissenschaft"],
+    "tags": [
+      "Erfindungen",
+      "Amerika",
+      "Wissenschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Edison elektroexekutierte Elefanten öffentlich, um AC als gefährlich zu zeigen – grausam und vergeblich.",
@@ -723,17 +1004,28 @@
     "id": 8175,
     "question_de": "Was war die Entstehung moderner Demokratie und das Wahlrecht im 19. Jahrhundert?",
     "question_ru": "Что такое возникновение современной демократии и избирательного права в XIX веке?",
-    "correct_answer_de": "Im 19. Jh. wurde das Wahlrecht schrittweise ausgeweitet: von Besitzenden zu allen Männern – Demokratisierung als Prozess",
-    "correct_answer_ru": "В XIX веке избирательное право постепенно расширялось: от имущих ко всем мужчинам — демократизация как процесс",
-    "wrong_answers_de": ["Allgemeines Wahlrecht für Männer gab es seit der Amerikanischen Revolution 1776 in allen Demokratien", "Die Demokratie des 19. Jh. war sofort universal, da alle Erwachsenen ab 21 Jahren wählen durften", "Frankreich hatte als erstes Land 1789 dauerhaftes allgemeines Wahlrecht für alle Männer"],
-    "wrong_answers_ru": ["Всеобщее мужское избирательное право существовало во всех демократиях со времён Американской революции 1776 года", "Демократия XIX века была немедленно универсальной, поскольку все взрослые с 21 года могли голосовать", "Франция первой в 1789 году ввела постоянное всеобщее избирательное право для всех мужчин"],
-    "explanation_de": "USA 1776: theoretisch allgemeines Wahlrecht, praktisch nur weiße Männer mit Eigentum. Frankreich: 1792 allgemeines Männerwahlrecht, Napoleon schränkte ein, wiederhergestellt 1848. Deutschland: allgemeines Männerwahlrecht 1871 (auf Bundesebene). England: stufenweise 1832, 1867, 1884, 1918 (alle Männer). Frauen: USA 1920, England 1928.",
-    "explanation_ru": "США 1776: теоретически всеобщее избирательное право, на практике только белые мужчины с собственностью. Франция: 1792 — всеобщее мужское избирательное право, Наполеон ограничил, восстановлено в 1848. Германия: всеобщее мужское избирательное право 1871 (на федеральном уровне). Англия: поэтапно 1832, 1867, 1884, 1918 (все мужчины). Женщины: США 1920, Англия 1928.",
+    "correct_answer_de": "Das Wahlrecht wurde schrittweise von Besitzenden auf alle Männer ausgeweitet",
+    "correct_answer_ru": "Избирательное право постепенно расширили с собственников на всех мужчин",
+    "wrong_answers_de": [
+      "Allgemeines Männerwahlrecht gab es seit 1776 in allen Demokratien",
+      "Die Demokratie war sofort universal, alle ab 21 wählten",
+      "Frankreich hatte als erstes Land 1789 dauerhaftes allgemeines Wahlrecht für alle Männer"
+    ],
+    "wrong_answers_ru": [
+      "Всеобщее мужское право голоса существовало с 1776 года во всех демократиях",
+      "Демократия сразу стала всеобщей, голосовали все с 21 года",
+      "Франция первой в 1789 году ввела постоянное всеобщее избирательное право для всех мужчин"
+    ],
+    "explanation_de": "Frankreich führte 1792 das Männerwahlrecht ein, Deutschland folgte 1871. In England wuchs das Wahlrecht 1832, 1867, 1884 und 1918; Frauen wählten in den USA ab 1920.",
+    "explanation_ru": "Франция ввела мужское избирательное право в 1792 году, Германия — в 1871-м. В Англии оно расширялось в 1832, 1867, 1884 и 1918 годах; женщины в США голосуют с 1920 года.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1870 CE",
-    "tags": ["Politik", "Gesellschaft"],
+    "tags": [
+      "Politik",
+      "Gesellschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Das Wahlrecht wurde im 19. Jh. oft an Eigentumsbesitz gekoppelt: wer Land hat, ist 'vernünftig'.",

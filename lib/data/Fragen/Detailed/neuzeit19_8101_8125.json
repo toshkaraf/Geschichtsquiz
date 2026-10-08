@@ -3,17 +3,28 @@
     "id": 8101,
     "question_de": "Was war Gregor Mendels Entdeckung der Vererbungsgesetze?",
     "question_ru": "Что такое открытие законов наследственности Грегора Менделя?",
-    "correct_answer_de": "Mendel entdeckte 1866 die Vererbungsgesetze durch Erbsenversuche – dominant/rezessiv, Spaltungsregel",
-    "correct_answer_ru": "Мендель в 1866 году открыл законы наследственности через опыты с горохом — доминантный/рецессивный, закон расщепления",
-    "wrong_answers_de": ["Darwin entdeckte die Vererbungsgesetze als Ergänzung zur Evolutionstheorie", "Pasteur zeigte 1866, wie Gene durch Bakterien von Generation zu Generation weitergegeben werden", "Robert Koch entdeckte durch Tuberkulose-Forschung, wie Krankheiten vererbt werden"],
-    "wrong_answers_ru": ["Дарвин открыл законы наследственности как дополнение к теории эволюции", "Пастер в 1866 году показал, как гены передаются от поколения к поколению через бактерии", "Роберт Кох открыл при изучении туберкулёза, как передаются болезни по наследству"],
-    "explanation_de": "Gregor Mendel (österreichischer Mönch) kreuzte Erbsenpflanzen im Klostergarten. Er entdeckte dominante und rezessive Merkmale, Aufspaltung 3:1. Seine Arbeit (1866) wurde ignoriert – erst 1900 wiederentdeckt. Er ist Begründer der modernen Genetik.",
-    "explanation_ru": "Грегор Мендель (австрийский монах) скрещивал горох в монастырском саду. Он открыл доминантные и рецессивные признаки, расщепление 3:1. Его труд (1866) был проигнорирован — вновь открыт лишь в 1900 году. Он является основателем современной генетики.",
+    "correct_answer_de": "Mendel entdeckte 1866 durch Erbsenversuche die Vererbungsgesetze",
+    "correct_answer_ru": "Мендель открыл в 1866 году на горохе законы наследственности",
+    "wrong_answers_de": [
+      "Darwin entdeckte die Vererbungsgesetze als Ergänzung zur Evolutionstheorie",
+      "Pasteur zeigte 1866, wie Bakterien Gene weitergeben",
+      "Robert Koch zeigte, wie Krankheiten vererbt werden"
+    ],
+    "wrong_answers_ru": [
+      "Дарвин открыл законы наследственности как дополнение к теории эволюции",
+      "Пастер показал в 1866 году, как бактерии передают гены",
+      "Роберт Кох показал, как наследуются болезни"
+    ],
+    "explanation_de": "Der Mönch Gregor Mendel kreuzte Erbsen im Klostergarten und fand dominante und rezessive Merkmale im Verhältnis 3:1. Seine Arbeit von 1866 wurde erst 1900 wiederentdeckt.",
+    "explanation_ru": "Монах Грегор Мендель скрещивал горох в монастырском саду и обнаружил доминантные и рецессивные признаки в соотношении 3:1. Его работу 1866 года заново открыли лишь в 1900-м.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1866 CE",
-    "tags": ["Wissenschaft", "Österreich"],
+    "tags": [
+      "Wissenschaft",
+      "Österreich"
+    ],
     "interesting_facts": [
       {
         "de": "Mendel scheiterte zweimal am Lehrerexamen – Biologie war sein schwächstes Fach.",
@@ -33,17 +44,28 @@
     "id": 8102,
     "question_de": "Was war Robert Kochs Entdeckung der Tuberkulose-Erreger (1882)?",
     "question_ru": "Что такое открытие Робертом Кохом возбудителя туберкулёза (1882)?",
-    "correct_answer_de": "Koch entdeckte den Tuberkel-Bazillus als Erreger der Tuberkulose und begründete die moderne Bakteriologie",
-    "correct_answer_ru": "Кох открыл туберкулёзную бациллу как возбудителя туберкулёза и основал современную бактериологию",
-    "wrong_answers_de": ["Pasteur entdeckte den Tuberkulose-Erreger und entwickelte sofort die Impfung dagegen", "Koch beschrieb Tuberkulose als vererbte Krankheit ohne bakterielle Ursache", "Semmelweis fand den Tuberkulose-Erreger durch seine Studien über Geburtsfieher"],
-    "wrong_answers_ru": ["Пастер открыл возбудитель туберкулёза и сразу разработал вакцину против него", "Кох описал туберкулёз как наследственную болезнь без бактериальной причины", "Земмельвейс нашёл возбудителя туберкулёза в ходе изучения родильной горячки"],
-    "explanation_de": "Robert Koch (Preußen) bewies, dass Tuberkulose durch ein Bakterium (Mycobacterium tuberculosis) verursacht wird. Er entwickelte die 'Koch'schen Postulate' – Kriterien für den Nachweis von Krankheitserregern. 1905 Nobelpreis. Tuberkulose war damals häufigste Todesursache.",
-    "explanation_ru": "Роберт Кох (Пруссия) доказал, что туберкулёз вызывается бактерией (Mycobacterium tuberculosis). Он разработал «постулаты Коха» — критерии доказательства возбудителей болезней. Нобелевская премия 1905 года. Туберкулёз тогда был самой распространённой причиной смерти.",
+    "correct_answer_de": "Koch entdeckte den Tuberkel-Bazillus und begründete die Bakteriologie",
+    "correct_answer_ru": "Кох открыл туберкулёзную палочку и основал бактериологию",
+    "wrong_answers_de": [
+      "Pasteur fand den Tuberkulose-Erreger samt Impfung",
+      "Koch beschrieb Tuberkulose als vererbte Krankheit ohne bakterielle Ursache",
+      "Semmelweis fand den Tuberkulose-Erreger durch seine Studien über Geburtsfieher"
+    ],
+    "wrong_answers_ru": [
+      "Пастер нашёл возбудителя туберкулёза и сразу вакцину",
+      "Кох описал туберкулёз как наследственную болезнь без бактериальной причины",
+      "Земмельвейс нашёл возбудителя туберкулёза в ходе изучения родильной горячки"
+    ],
+    "explanation_de": "Robert Koch wies 1882 nach, dass Bakterien Tuberkulose verursachen, und formulierte die Kochschen Postulate zum Nachweis von Erregern. 1905 erhielt er den Nobelpreis.",
+    "explanation_ru": "Роберт Кох доказал в 1882 году, что туберкулёз вызывают бактерии, и сформулировал постулаты Коха для выявления возбудителей. В 1905 году он получил Нобелевскую премию.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1882 CE",
-    "tags": ["Wissenschaft", "Deutschland"],
+    "tags": [
+      "Wissenschaft",
+      "Deutschland"
+    ],
     "interesting_facts": [
       {
         "de": "Koch und Pasteur rivalisierten erbittert – als Franzose und Deutscher nach 1870 auch nationalistisch.",
@@ -63,17 +85,28 @@
     "id": 8103,
     "question_de": "Was war die Erfindung der Narkose (Anästhesie) im 19. Jahrhundert?",
     "question_ru": "Что такое изобретение наркоза (анестезии) в XIX веке?",
-    "correct_answer_de": "1846 wurde die erste erfolgreiche Äther-Narkose bei einer Operation in Boston durchgeführt – Schmerzfreiheit möglich",
-    "correct_answer_ru": "В 1846 году в Бостоне была проведена первая успешная эфирная анестезия при операции — стала возможна безболезненность",
-    "wrong_answers_de": ["Joseph Lister entdeckte die Narkose durch seine antiseptischen Operationsmethoden", "Florence Nightingale entwickelte die erste Narkose für Verwundete im Krimkrieg", "Louis Pasteur und Robert Koch entwickelten Anästhesie als Nebenergebnis der Impfstoffe"],
-    "wrong_answers_ru": ["Джозеф Листер открыл наркоз благодаря своим антисептическим методам операций", "Флоренс Найтингейл разработала первый наркоз для раненых в Крымской войне", "Луи Пастер и Роберт Кох разработали анестезию как побочный результат создания вакцин"],
-    "explanation_de": "William Morton demonstrierte 1846 in Boston die erste öffentliche Äther-Anästhesie. Chloroform (Simpson, 1847) wurde populärer. Zuvor war Chirurgie ohne Betäubung ein Martyrium – Schnelligkeit war Überlebensfaktor. Narkose revolutionierte Medizin.",
-    "explanation_ru": "Уильям Мортон в 1846 году в Бостоне продемонстрировал первую публичную эфирную анестезию. Хлороформ (Симпсон, 1847) стал более популярным. Ранее хирургия без обезболивания была мученичеством — скорость операции была фактором выживания. Наркоз революционизировал медицину.",
+    "correct_answer_de": "1846 gelang in Boston die erste erfolgreiche Äther-Narkose",
+    "correct_answer_ru": "В 1846 году в Бостоне впервые успешно применили эфирный наркоз",
+    "wrong_answers_de": [
+      "Joseph Lister fand die Narkose bei antiseptischen Operationen",
+      "Florence Nightingale entwickelte die erste Narkose im Krimkrieg",
+      "Pasteur und Koch entwickelten Anästhesie nebenbei bei Impfstoffen"
+    ],
+    "wrong_answers_ru": [
+      "Джозеф Листер открыл наркоз при антисептических операциях",
+      "Флоренс Найтингейл разработала первый наркоз в Крымской войне",
+      "Пастер и Кох разработали анестезию попутно с вакцинами"
+    ],
+    "explanation_de": "William Morton führte 1846 in Boston die erste öffentliche Äthernarkose vor, 1847 folgte Chloroform. Zuvor war Chirurgie ein Martyrium, bei dem Schnelligkeit über Leben entschied.",
+    "explanation_ru": "Уильям Мортон продемонстрировал в 1846 году в Бостоне первый публичный эфирный наркоз, в 1847-м появился хлороформ. До этого хирургия была мукой, где жизнь решала скорость.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1846 CE",
-    "tags": ["Wissenschaft", "Amerika"],
+    "tags": [
+      "Wissenschaft",
+      "Amerika"
+    ],
     "interesting_facts": [
       {
         "de": "Königin Viktoria ließ sich 1853 mit Chloroform bei der Geburt betäuben – was die Akzeptanz erhöhte.",
@@ -95,15 +128,26 @@
     "question_ru": "Что такое антисептический метод Джозефа Листера (1867)?",
     "correct_answer_de": "Lister führte Karbolsäure zur Desinfektion bei Operationen ein – Wundinfektionen stark reduziert",
     "correct_answer_ru": "Листер ввёл карболовую кислоту для дезинфекции при операциях — раневые инфекции резко сократились",
-    "wrong_answers_de": ["Koch entwickelte 1867 die Desinfektion durch Dampfsterilisation für Operationswerkzeug", "Semmelweis' Händewaschen wurde von Lister zur offiziellen Methode in Krankenhäusern gemacht", "Florence Nightingale führte Antiseptik in der Militärmedizin durch Dampf und Wärme ein"],
-    "wrong_answers_ru": ["Кох в 1867 году разработал дезинфекцию паровой стерилизацией для хирургических инструментов", "Мытьё рук Земмельвейса было принято Листером как официальный метод в больницах", "Флоренс Найтингейл ввела антисептику в военной медицине с помощью пара и тепла"],
-    "explanation_de": "Ignaz Semmelweis (Wien, 1847) zeigte, dass Händewaschen Kindbettfieber verhindert – wurde nicht geglaubt, starb in Irrenanstalt. Joseph Lister (Edinburgh) wendete Pasteurs Keimtheorie auf Chirurgie an – Karbolsäure als Desinfektionsmittel. Postoperative Sterblichkeit sank dramatisch.",
-    "explanation_ru": "Игнац Земмельвейс (Вена, 1847) показал, что мытьё рук предотвращает родильную горячку — ему не поверили, он умер в психиатрической больнице. Джозеф Листер (Эдинбург) применил теорию микробов Пастера к хирургии — карболовая кислота как дезинфектант. Послеоперационная смертность резко упала.",
+    "wrong_answers_de": [
+      "Koch entwickelte 1867 die Desinfektion durch Dampfsterilisation für Operationswerkzeug",
+      "Semmelweis' Händewaschen wurde von Lister zur offiziellen Methode in Krankenhäusern gemacht",
+      "Florence Nightingale führte Antiseptik in der Militärmedizin durch Dampf und Wärme ein"
+    ],
+    "wrong_answers_ru": [
+      "Кох в 1867 году разработал дезинфекцию паровой стерилизацией для хирургических инструментов",
+      "Мытьё рук Земмельвейса было принято Листером как официальный метод в больницах",
+      "Флоренс Найтингейл ввела антисептику в военной медицине с помощью пара и тепла"
+    ],
+    "explanation_de": "Semmelweis zeigte 1847, dass Händewaschen Kindbettfieber verhindert, wurde aber nicht geglaubt. Lister nutzte Pasteurs Keimtheorie und Karbolsäure; die Sterblichkeit nach Operationen sank stark.",
+    "explanation_ru": "Земмельвейс показал в 1847 году, что мытьё рук предотвращает родильную горячку, но ему не поверили. Листер применил теорию микробов Пастера и карболовую кислоту; смертность после операций резко упала.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1867 CE",
-    "tags": ["Wissenschaft", "England"],
+    "tags": [
+      "Wissenschaft",
+      "England"
+    ],
     "interesting_facts": [
       {
         "de": "Das Listerine-Mundwasser ist nach Joseph Lister benannt – aus seiner antiseptischen Forschung.",
@@ -123,17 +167,29 @@
     "id": 8105,
     "question_de": "Was war das Jugendstil / Art Nouveau als Kunstströmung?",
     "question_ru": "Что такое югендстиль / ар-нуво как художественное течение?",
-    "correct_answer_de": "Jugendstil (um 1890–1910) nutzte organische, pflanzliche Formen – Reaktion auf den Industrialismus; Klimt, Mucha, Gaudi",
-    "correct_answer_ru": "Югендстиль (ок. 1890–1910) использовал органические, растительные формы — реакция на индустриализм; Климт, Муха, Гауди",
-    "wrong_answers_de": ["Jugendstil war eine Rückkehr zu mittelalterlicher gotischer Architektur in Verbindung mit Handwerk", "Art Nouveau war eine Schule für Industriedesign, die Fabriken ästhetisch gestalten wollte", "Der Jugendstil entstand in Deutschland als nationalistische Alternative zum französischen Impressionismus"],
-    "wrong_answers_ru": ["Югендстиль был возвратом к средневековой готической архитектуре в сочетании с ремеслом", "Ар-нуво была школой промышленного дизайна, стремившейся эстетически оформить фабрики", "Югендстиль возник в Германии как националистическая альтернатива французскому импрессионизму"],
-    "explanation_de": "Art Nouveau (Frankreich), Jugendstil (Deutschland), Sezessionsstil (Wien): Natur als Vorbild, fließende Linien, ornamentale Details. Antoni Gaudí (Sagrada Família, Barcelona). Alfons Mucha (Plakatkunst). Gustav Klimt (Wien). Reaktion auf Industrialismus und Historismus.",
-    "explanation_ru": "Ар-нуво (Франция), Югендстиль (Германия), Сецессионизм (Вена): природа как образец, плавные линии, орнаментальные детали. Антони Гауди (Саграда Фамилия, Барселона). Альфонс Муха (плакатное искусство). Густав Климт (Вена). Реакция на индустриализм и историзм.",
+    "correct_answer_de": "Jugendstil nutzte organische, pflanzliche Formen – Klimt, Mucha, Gaudí",
+    "correct_answer_ru": "Модерн использовал органические, растительные формы — Климт, Муха, Гауди",
+    "wrong_answers_de": [
+      "Jugendstil kehrte zur mittelalterlichen Gotik und zum Handwerk zurück",
+      "Art Nouveau war eine Schule für Industriedesign von Fabriken",
+      "Jugendstil entstand in Deutschland als nationale Alternative zum Impressionismus"
+    ],
+    "wrong_answers_ru": [
+      "Модерн вернулся к средневековой готике и ремеслу",
+      "Ар-нуво было школой промышленного дизайна фабрик",
+      "Модерн возник в Германии как национальная альтернатива импрессионизму"
+    ],
+    "explanation_de": "Art Nouveau, Jugendstil und Wiener Sezession nahmen die Natur zum Vorbild, mit fließenden Linien und Ornament. Gaudí, Mucha und Klimt prägten die Reaktion auf Industrialismus.",
+    "explanation_ru": "Ар-нуво, югендштиль и венский сецессион брали за образец природу, с текучими линиями и орнаментом. Гауди, Муха и Климт воплотили реакцию на индустриализм.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1895 CE",
-    "tags": ["Kunst", "Kultur", "Europa"],
+    "tags": [
+      "Kunst",
+      "Kultur",
+      "Europa"
+    ],
     "interesting_facts": [
       {
         "de": "Gaudís Sagrada Família (begonnen 1882) ist bis heute unfertig – und soll 2026 vollendet werden.",
@@ -153,17 +209,29 @@
     "id": 8106,
     "question_de": "Was war das Konzept des freien Handels im 19. Jahrhundert (Richard Cobden)?",
     "question_ru": "Что такое концепция свободной торговли в XIX веке (Ричард Кобден)?",
-    "correct_answer_de": "Cobden und die Anti-Corn-Law-Liga (1838–1846) kämpften für Freihandel – Abschaffung der Getreidezölle in England",
-    "correct_answer_ru": "Кобден и Лига против хлебных законов (1838–1846) боролись за свободу торговли — отмена зерновых пошлин в Англии",
-    "wrong_answers_de": ["Adam Smith begründete den Freihandel erst 1880 als Reaktion auf den deutschen Zollverein", "Freihandel war eine Theorie von Marx und Engels zur Befreiung der Arbeiter von Zöllen", "Die Corn Laws wurden durch Bismarck abgeschafft – als Vorbild für den deutschen Zollverein"],
-    "wrong_answers_ru": ["Адам Смит основал свободную торговлю в 1880 году как реакцию на германский Таможенный союз", "Свободная торговля была теорией Маркса и Энгельса для освобождения рабочих от пошлин", "Хлебные законы были отменены Бисмарком — как образец для германского Таможенного союза"],
-    "explanation_de": "Die Corn Laws (Getreidezölle) schützten englische Grundbesitzer, machten Brot teuer für Arme. Richard Cobden und John Bright leiteten Anti-Corn-Law-Liga. Hungersnot in Irland beschleunigte Entscheidung. 1846: Peel schaffte Corn Laws ab. England wurde zum Freihandels-Vorbild.",
-    "explanation_ru": "Хлебные законы (зерновые пошлины) защищали английских землевладельцев, делая хлеб дорогим для бедных. Ричард Кобден и Джон Брайт возглавили Лигу против хлебных законов. Голод в Ирландии ускорил решение. 1846 год: Пил отменил хлебные законы. Англия стала образцом свободной торговли.",
+    "correct_answer_de": "Cobden und die Anti-Corn-Law-Liga kämpften für Freihandel in England",
+    "correct_answer_ru": "Кобден и Лига против хлебных законов боролись за свободу торговли в Англии",
+    "wrong_answers_de": [
+      "Adam Smith begründete den Freihandel erst 1880",
+      "Freihandel war eine Theorie von Marx und Engels",
+      "Bismarck schaffte die Corn Laws ab – Vorbild für den Zollverein"
+    ],
+    "wrong_answers_ru": [
+      "Адам Смит обосновал свободу торговли лишь в 1880 году",
+      "Свободная торговля была теорией Маркса и Энгельса",
+      "Бисмарк отменил хлебные законы — образец для Таможенного союза"
+    ],
+    "explanation_de": "Die Corn Laws schützten Grundbesitzer und verteuerten das Brot. Cobden und Bright führten die Anti-Corn-Law-Liga; die irische Hungersnot beschleunigte 1846 die Abschaffung unter Peel.",
+    "explanation_ru": "Хлебные законы защищали землевладельцев и удорожали хлеб. Кобден и Брайт возглавили Лигу против хлебных законов; голод в Ирландии ускорил их отмену Пилем в 1846 году.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1846 CE",
-    "tags": ["Wirtschaft", "England", "Politik"],
+    "tags": [
+      "Wirtschaft",
+      "England",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Die irische Hungersnot 1845–1849 tötete 1 Million Menschen – bei gesetzlich geschützten Getreideexporten aus Irland nach England.",
@@ -183,17 +251,29 @@
     "id": 8107,
     "question_de": "Was war John Stuart Mills Liberalismus?",
     "question_ru": "Что такое либерализм Джона Стюарта Милля?",
-    "correct_answer_de": "Mill entwickelte den modernen Liberalismus: individuelle Freiheit, Utilitarismus, Frauenrechte, freie Meinungsäußerung",
-    "correct_answer_ru": "Милль разработал современный либерализм: индивидуальная свобода, утилитаризм, права женщин, свобода слова",
-    "wrong_answers_de": ["Mill war Mitbegründer des Sozialismus als Alternative zur Demokratie in England", "Mill entwickelte den konservativen Liberalismus als Verteidigung der Aristokratie", "Mill und Bentham begründeten das Naturrecht als Basis der britischen Verfassung"],
-    "wrong_answers_ru": ["Милль был сооснователем социализма как альтернативы демократии в Англии", "Милль разработал консервативный либерализм как защиту аристократии", "Милль и Бентам основали естественное право как основу британской конституции"],
-    "explanation_de": "John Stuart Mill (1806–1873): 'Über die Freiheit' (1859) – Staat darf Einzelnen nur einschränken, wenn Andere geschädigt werden (Harm Principle). 'Utilitarismus': Größtes Glück der größten Zahl. 'Die Unterwerfung der Frauen' (1869): Argument für Frauenrechte.",
-    "explanation_ru": "Джон Стюарт Милль (1806–1873): «О свободе» (1859) — государство может ограничивать личность только если причиняется вред другим (принцип вреда). «Утилитаризм»: наибольшее счастье наибольшего числа людей. «Подчинённость женщины» (1869): аргумент в пользу прав женщин.",
+    "correct_answer_de": "Mill prägte den Liberalismus: Freiheit des Einzelnen, Frauenrechte, Meinungsfreiheit",
+    "correct_answer_ru": "Милль сформировал либерализм: свобода личности, права женщин, свобода слова",
+    "wrong_answers_de": [
+      "Mill war Mitbegründer des Sozialismus als Alternative zur Demokratie in England",
+      "Mill entwickelte den konservativen Liberalismus als Verteidigung der Aristokratie",
+      "Mill und Bentham begründeten das Naturrecht als Basis der britischen Verfassung"
+    ],
+    "wrong_answers_ru": [
+      "Милль был сооснователем социализма как альтернативы демократии в Англии",
+      "Милль разработал консервативный либерализм как защиту аристократии",
+      "Милль и Бентам основали естественное право как основу британской конституции"
+    ],
+    "explanation_de": "In «Über die Freiheit» (1859) verlangte Mill, den Einzelnen nur einzuschränken, wenn er anderen schadet. Er vertrat Utilitarismus und forderte in «Die Hörigkeit der Frau» Frauenrechte.",
+    "explanation_ru": "В трактате «О свободе» (1859) Милль требовал ограничивать человека лишь тогда, когда он вредит другим. Он был утилитаристом и в «Подчинении женщины» отстаивал права женщин.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1860 CE",
-    "tags": ["Philosophie", "England", "Politik"],
+    "tags": [
+      "Philosophie",
+      "England",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Mill war Mitglied des Parlaments und brachte als erster einen Frauenwahlrechts-Antrag ins Unterhaus ein (1866).",
@@ -213,17 +293,29 @@
     "id": 8108,
     "question_de": "Was war die Transsibirische Eisenbahn und ihre Bedeutung?",
     "question_ru": "Что такое Транссибирская магистраль и её значение?",
-    "correct_answer_de": "Russlands Transsibirische Eisenbahn (1891–1916) verband Moskau mit Wladiwostok über 9.288 km – längste Eisenbahn der Welt",
-    "correct_answer_ru": "Транссибирская магистраль России (1891–1916) соединила Москву с Владивостоком на протяжении 9 288 км — длиннейшая железная дорога в мире",
-    "wrong_answers_de": ["Die Transsibirische Eisenbahn verband St. Petersburg mit China und wurde 1880 fertiggestellt", "Russland baute die Transsibirische Eisenbahn 1870 nach dem Vorbild der amerikanischen Kontinentalbahn", "Die Transsibirische Eisenbahn fuhr von Moskau bis Istanbul durch Kasachstan"],
-    "wrong_answers_ru": ["Транссибирская магистраль соединила Санкт-Петербург с Китаем и была завершена в 1880 году", "Россия построила Транссибирскую магистраль в 1870 году по образцу американской трансконтинентальной дороги", "Транссибирская магистраль шла от Москвы до Стамбула через Казахстан"],
-    "explanation_de": "Zar Alexander III. befahl 1891 den Bau. Über 7 Zeitzonen, Permafrost, Gebirge. Sibirien besiedeln und Pazifikflotte versorgen. Beschleunigte Russisch-Japanischen Krieg (1904/05). Fertiggestellt 1916. Beförderte Millionen Siedler nach Sibirien.",
-    "explanation_ru": "Царь Александр III в 1891 году приказал начать строительство. Более 7 часовых поясов, вечная мерзлота, горы. Заселить Сибирь и снабжать тихоокеанский флот. Ускорила Русско-японскую войну (1904/05). Завершена в 1916 году. Перевезла миллионы переселенцев в Сибирь.",
+    "correct_answer_de": "Russlands Eisenbahn von Moskau nach Wladiwostok – 9.288 km, die längste der Welt",
+    "correct_answer_ru": "Российская дорога от Москвы до Владивостока — 9 288 км, самая длинная в мире",
+    "wrong_answers_de": [
+      "Die Transsibirische Eisenbahn verband St. Petersburg mit China und wurde 1880 fertiggestellt",
+      "Russland baute die Bahn 1870 nach amerikanischem Vorbild",
+      "Die Transsibirische Eisenbahn fuhr von Moskau bis Istanbul durch Kasachstan"
+    ],
+    "wrong_answers_ru": [
+      "Транссибирская магистраль соединила Санкт-Петербург с Китаем и была завершена в 1880 году",
+      "Россия построила дорогу в 1870 году по американскому образцу",
+      "Транссибирская магистраль шла от Москвы до Стамбула через Казахстан"
+    ],
+    "explanation_de": "Zar Alexander III. ordnete 1891 den Bau an. Die Bahn überwand sieben Zeitzonen, besiedelte Sibirien und versorgte die Pazifikflotte; sie wurde 1916 fertig.",
+    "explanation_ru": "Александр III приказал в 1891 году начать строительство. Дорога пересекла семь часовых поясов, заселила Сибирь и снабжала Тихоокеанский флот; её завершили в 1916 году.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1900 CE",
-    "tags": ["Russland", "Wirtschaft", "Erfindungen"],
+    "tags": [
+      "Russland",
+      "Wirtschaft",
+      "Erfindungen"
+    ],
     "interesting_facts": [
       {
         "de": "Die Strecke ist heute noch aktiv – die Fahrt dauert 6 Tage und 7 Nächte von Moskau nach Wladiwostok.",
@@ -243,17 +335,29 @@
     "id": 8109,
     "question_de": "Was war Herbert Spencers Sozialdarwinismus?",
     "question_ru": "Что такое социальный дарвинизм Герберта Спенсера?",
-    "correct_answer_de": "Spencer übertrug Darwins 'survival of the fittest' auf die Gesellschaft – Erfolgreiche seien 'natürlich überlegen'",
-    "correct_answer_ru": "Спенсер перенёс дарвиновский «survival of the fittest» на общество — успешные якобы «естественно превосходят» остальных",
-    "wrong_answers_de": ["Spencer kritisierte Darwin und entwickelte eine soziale Evolutionstheorie ohne Biologie", "Darwin selbst entwickelte den Sozialdarwinismus als Anwendung seiner Evolutionstheorie", "Sozialdarwinismus entstand als marxistische Kritik an der kapitalistischen Gesellschaft"],
-    "wrong_answers_ru": ["Спенсер критиковал Дарвина и разработал социальную теорию эволюции без биологии", "Сам Дарвин разработал социальный дарвинизм как применение своей теории эволюции", "Социальный дарвинизм возник как марксистская критика капиталистического общества"],
-    "explanation_de": "Herbert Spencer (1820–1903) prägte den Begriff 'survival of the fittest' (Darwin selbst benutzte ihn kaum). Spencer rechtfertigte Kapitalismus: Reiche sind reich, weil sie 'fitter' seien. Sozialhilfe 'verweichlicht' Gesellschaft. Rechtfertigte Kolonialismus, Rassismus, soziale Ungleichheit.",
-    "explanation_ru": "Герберт Спенсер (1820–1903) ввёл термин «survival of the fittest» (сам Дарвин почти им не пользовался). Спенсер оправдывал капитализм: богатые богаты, потому что они «более приспособлены». Социальная помощь «изнеживает» общество. Оправдывал колониализм, расизм, социальное неравенство.",
+    "correct_answer_de": "Spencer übertrug Darwins «Überleben der Stärksten» auf die Gesellschaft",
+    "correct_answer_ru": "Спенсер перенёс дарвиновское «выживание сильнейших» на общество",
+    "wrong_answers_de": [
+      "Spencer kritisierte Darwin und entwarf eine Sozialtheorie ohne Biologie",
+      "Darwin selbst entwickelte den Sozialdarwinismus",
+      "Sozialdarwinismus war eine marxistische Kapitalismuskritik"
+    ],
+    "wrong_answers_ru": [
+      "Спенсер критиковал Дарвина и создал социальную теорию без биологии",
+      "Сам Дарвин разработал социальный дарвинизм",
+      "Социальный дарвинизм был марксистской критикой капитализма"
+    ],
+    "explanation_de": "Herbert Spencer prägte «survival of the fittest». Er rechtfertigte Kapitalismus, Kolonialismus und Ungleichheit damit, dass Reiche «fitter» seien, und lehnte Sozialhilfe als verweichlichend ab.",
+    "explanation_ru": "Герберт Спенсер ввёл формулу «выживание наиболее приспособленных». Он оправдывал капитализм, колониализм и неравенство тем, что богатые «приспособленнее», и отвергал социальную помощь как расслабляющую.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1870 CE",
-    "tags": ["Philosophie", "England", "Gesellschaft"],
+    "tags": [
+      "Philosophie",
+      "England",
+      "Gesellschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Darwin missbilligte Spencers Verwendung seiner Theorie für die Gesellschaft – schweigend.",
@@ -273,17 +377,29 @@
     "id": 8110,
     "question_de": "Was war die erste Frauenrechtsbewegung in den USA (Seneca Falls 1848)?",
     "question_ru": "Что такое первое движение за права женщин в США (Сенека-Фолс, 1848)?",
-    "correct_answer_de": "Die Seneca Falls Convention (1848) war erste Frauenrechtskonvention – Forderung nach Wahlrecht und Gleichberechtigung",
-    "correct_answer_ru": "Конвенция в Сенека-Фолс (1848) была первым съездом по правам женщин — требование избирательного права и равноправия",
-    "wrong_answers_de": ["Die erste Frauenrechtsbewegung in den USA begann 1870 nach dem Bürgerkrieg", "Seneca Falls war eine Sklavenrechtskonvention, die auch Frauenrechte mitdiskutierte", "Elizabeth Cady Stanton gründete 1848 die erste sozialistische Frauenpartei"],
-    "wrong_answers_ru": ["Первое движение за права женщин в США началось в 1870 году после Гражданской войны", "Сенека-Фолс была конвенцией по правам рабов, которая также обсуждала права женщин", "Элизабет Кэди Стэнтон в 1848 году основала первую социалистическую женскую партию"],
-    "explanation_de": "Elizabeth Cady Stanton und Lucretia Mott organisierten die Konvention. 'Erklärung der Gefühle': Paraphrase der Unabhängigkeitserklärung für Frauen. Forderungen: Wahlrecht, gleicher Lohn, Bildung. Wahlrecht erreicht erst 1920 (19. Zusatz).",
-    "explanation_ru": "Элизабет Кэди Стэнтон и Лукреция Мотт организовали конвенцию. «Декларация чувств»: перефраз Декларации независимости для женщин. Требования: избирательное право, равная оплата, образование. Избирательное право достигнуто лишь в 1920 году (19-я поправка).",
+    "correct_answer_de": "Seneca Falls 1848: erste Frauenrechtskonvention, Forderung nach Wahlrecht",
+    "correct_answer_ru": "Сенека-Фолс, 1848: первая конвенция за права женщин, требование избирательного права",
+    "wrong_answers_de": [
+      "Die erste Frauenrechtsbewegung in den USA begann 1870 nach dem Bürgerkrieg",
+      "Seneca Falls war eine Sklavenrechtskonvention, die auch Frauenrechte mitdiskutierte",
+      "Elizabeth Cady Stanton gründete 1848 die erste sozialistische Frauenpartei"
+    ],
+    "wrong_answers_ru": [
+      "Первое движение за права женщин в США началось в 1870 году после Гражданской войны",
+      "Сенека-Фолс была конвенцией по правам рабов, которая также обсуждала права женщин",
+      "Элизабет Кэди Стэнтон в 1848 году основала первую социалистическую женскую партию"
+    ],
+    "explanation_de": "Elizabeth Cady Stanton und Lucretia Mott organisierten 1848 die Konvention von Seneca Falls. Ihre «Erklärung der Gefühle» forderte Wahlrecht, gleichen Lohn und Bildung; das Wahlrecht kam 1920.",
+    "explanation_ru": "Элизабет Кэди Стэнтон и Лукреция Мотт организовали в 1848 году конвент в Сенека-Фолс. Их «Декларация чувств» требовала избирательных прав, равной оплаты и образования; право голоса пришло в 1920 году.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1848 CE",
-    "tags": ["Amerika", "Gesellschaft", "Politik"],
+    "tags": [
+      "Amerika",
+      "Gesellschaft",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Frederick Douglass (Abolitionistenführer) war auf der Konvention und unterstützte das Frauenwahlrecht.",
@@ -303,17 +419,29 @@
     "id": 8111,
     "question_de": "Was war die erste Haager Friedenskonferenz (1899)?",
     "question_ru": "Что такое первая Гаагская мирная конференция (1899)?",
-    "correct_answer_de": "1899 in Den Haag: erste internationale Konferenz über Kriegsrecht und Rüstungsbegrenzung – Gründung Schiedsgerichtshof",
-    "correct_answer_ru": "1899 год в Гааге: первая международная конференция по законам войны и ограничению вооружений — основание третейского суда",
-    "wrong_answers_de": ["Die erste Haager Konferenz 1899 gründete den Völkerbund als Vorläufer der UNO", "In Den Haag 1899 wurde der Internationale Strafgerichtshof als erstes Weltgericht gegründet", "Die Haager Konferenz 1899 entschied über die Aufteilung Afrikas unter den Kolonialmächten"],
-    "wrong_answers_ru": ["Первая Гаагская конференция 1899 года основала Лигу Наций как предшественника ООН", "В Гааге в 1899 году был основан Международный уголовный суд как первый мировой трибунал", "Гаагская конференция 1899 года решила о разделе Африки между колониальными державами"],
-    "explanation_de": "Zar Nikolaus II. initiierte die Konferenz aus Angst vor dem Rüstungswettlauf. 26 Länder nahmen teil. Haager Landkriegsordnung: Regeln für Kriegführung, Schutz von Zivilisten, Behandlung von Kriegsgefangenen. Permanenter Schiedsgerichtshof gegründet. Zweite Konferenz 1907.",
-    "explanation_ru": "Царь Николай II инициировал конференцию из страха перед гонкой вооружений. 26 стран участвовали. Гаагское положение о законах сухопутной войны: правила ведения войны, защита мирных жителей, обращение с военнопленными. Основан Постоянный третейский суд. Вторая конференция в 1907 году.",
+    "correct_answer_de": "1899 in Den Haag: erste Konferenz über Kriegsrecht und Schiedsgerichtshof",
+    "correct_answer_ru": "1899, Гаага: первая конференция о праве войны и третейском суде",
+    "wrong_answers_de": [
+      "Die erste Haager Konferenz 1899 gründete den Völkerbund als Vorläufer der UNO",
+      "In Den Haag 1899 entstand der Internationale Strafgerichtshof",
+      "Die Haager Konferenz teilte Afrika unter den Kolonialmächten auf"
+    ],
+    "wrong_answers_ru": [
+      "Первая Гаагская конференция 1899 года основала Лигу Наций как предшественника ООН",
+      "В Гааге в 1899 году учредили Международный уголовный суд",
+      "Гаагская конференция разделила Африку между колониальными державами"
+    ],
+    "explanation_de": "Zar Nikolaus II. rief 1899 aus Angst vor dem Wettrüsten die Konferenz ein. 26 Staaten schufen die Haager Landkriegsordnung und den Ständigen Schiedshof.",
+    "explanation_ru": "Николай II созвал в 1899 году конференцию, опасаясь гонки вооружений. 26 государств приняли Гаагские правила сухопутной войны и учредили Постоянную палату третейского суда.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1899 CE",
-    "tags": ["Politik", "Recht", "Europa"],
+    "tags": [
+      "Politik",
+      "Recht",
+      "Europa"
+    ],
     "interesting_facts": [
       {
         "de": "Der Internationale Gerichtshof und der Ständige Schiedsgerichtshof haben beide ihren Sitz im Friedenspalast Den Haag.",
@@ -333,17 +461,29 @@
     "id": 8112,
     "question_de": "Was war Florence Nightingales Bedeutung für die moderne Krankenpflege?",
     "question_ru": "Каково значение Флоренс Найтингейл для современного сестринского дела?",
-    "correct_answer_de": "Nightingale revolutionierte die Krankenpflege im Krimkrieg (1854) – Hygiene, Statistik, Pflegerinnenausbildung",
-    "correct_answer_ru": "Найтингейл революционизировала уход за больными в Крымской войне (1854) — гигиена, статистика, подготовка медсестёр",
-    "wrong_answers_de": ["Nightingale entdeckte Antiseptika und Anästhesie für die Militärchirurgie", "Sie gründete das Rote Kreuz zusammen mit Henri Dunant nach dem Krimkrieg", "Nightingale schrieb die erste Pflegegesetzgebung für britische Krankenhäuser als Parlamentsmitglied"],
-    "wrong_answers_ru": ["Найтингейл открыла антисептики и анестезию для военной хирургии", "Она основала Красный Крест вместе с Анри Дюнаном после Крымской войны", "Найтингейл написала первое законодательство о сестринском деле для британских больниц как член парламента"],
-    "explanation_de": "Florence Nightingale reiste 1854 mit 38 Schwestern in die Krim. Sie verbesserte Hygiene drastisch – Sterblichkeit von 42 % auf 2 %. Entwickelte statistische Grafiken (Polar-Diagramme). Gründete 1860 erste Krankenpflegeschule (London). Die 'Lampenträgerin' wurde Ikone der Pflege.",
-    "explanation_ru": "Флоренс Найтингейл в 1854 году отправилась в Крым с 38 сёстрами. Она резко улучшила гигиену — смертность снизилась с 42% до 2%. Разработала статистические графики (полярные диаграммы). В 1860 году основала первую школу медсестёр (Лондон). «Дама с лампой» стала иконой сестринского дела.",
+    "correct_answer_de": "Nightingale reformierte im Krimkrieg die Pflege – Hygiene und Statistik",
+    "correct_answer_ru": "Найтингейл реформировала уход в Крымской войне — гигиена и статистика",
+    "wrong_answers_de": [
+      "Nightingale entdeckte Antiseptika und Anästhesie für die Militärchirurgie",
+      "Sie gründete das Rote Kreuz zusammen mit Henri Dunant nach dem Krimkrieg",
+      "Nightingale schrieb als Abgeordnete das erste Pflegegesetz Britanniens"
+    ],
+    "wrong_answers_ru": [
+      "Найтингейл открыла антисептики и анестезию для военной хирургии",
+      "Она основала Красный Крест вместе с Анри Дюнаном после Крымской войны",
+      "Найтингейл как депутат написала первый закон об уходе в Британии"
+    ],
+    "explanation_de": "Florence Nightingale reiste 1854 mit 38 Schwestern auf die Krim und senkte die Sterblichkeit von 42 auf 2 Prozent. 1860 gründete sie die erste Krankenpflegeschule.",
+    "explanation_ru": "Флоренс Найтингейл прибыла в 1854 году в Крым с 38 сёстрами и снизила смертность с 42 до 2 процентов. В 1860 году она основала первую школу медсестёр.",
     "difficulty": "easy",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1855 CE",
-    "tags": ["Wissenschaft", "England", "Gesellschaft"],
+    "tags": [
+      "Wissenschaft",
+      "England",
+      "Gesellschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Nightingale gilt als Begründerin der modernen Statistik – ihre Polardiagramme überzeugten das Parlament von Hygienereformen.",
@@ -363,17 +503,29 @@
     "id": 8113,
     "question_de": "Was war der Chartismus in England (1838–1848)?",
     "question_ru": "Что такое чартизм в Англии (1838–1848)?",
-    "correct_answer_de": "Erste Arbeiterbewegung Englands für politische Reformen: allgemeines Männerwahlrecht, Geheimwahl, bezahlte Abgeordnete",
-    "correct_answer_ru": "Первое рабочее движение Англии за политические реформы: всеобщее мужское избирательное право, тайное голосование, оплата депутатов",
-    "wrong_answers_de": ["Chartismus war eine Bewegung englischer Handwerker für traditionelle Gildenrechte", "Chartisten kämpften 1848 für die Unabhängigkeit Irlands von England", "Eine Bewegung für Freihandel und Abschaffung der Corn Laws in England"],
-    "wrong_answers_ru": ["Чартизм был движением английских ремесленников за традиционные права гильдий", "Чартисты в 1848 году боролись за независимость Ирландии от Англии", "Движение за свободную торговлю и отмену хлебных законов в Англии"],
-    "explanation_de": "Die 'Volkscharte' (People's Charter) von 1838 hatte 6 Forderungen: allgemeines Männerwahlrecht, geheime Wahl, gleiche Wahlkreise, bezahlte Abgeordnete, keine Eigentumsvoraussetzung, jährliche Parlamentswahlen. 3 Petitionen mit Millionen Unterschriften – alle abgelehnt. Aber 5 von 6 Forderungen später umgesetzt.",
-    "explanation_ru": "«Народная хартия» 1838 года содержала 6 требований: всеобщее мужское избирательное право, тайное голосование, равные избирательные округа, оплата депутатов, отсутствие имущественного ценза, ежегодные парламентские выборы. 3 петиции с миллионами подписей — все отклонены. Но 5 из 6 требований позже были выполнены.",
+    "correct_answer_de": "Englands erste Arbeiterbewegung: Männerwahlrecht, Geheimwahl, bezahlte Abgeordnete",
+    "correct_answer_ru": "Первое рабочее движение Англии: мужское избирательное право, тайное голосование, оплата депутатов",
+    "wrong_answers_de": [
+      "Chartismus war eine Bewegung englischer Handwerker für traditionelle Gildenrechte",
+      "Chartisten kämpften 1848 für die Unabhängigkeit Irlands von England",
+      "Eine Bewegung für Freihandel und Abschaffung der Corn Laws in England"
+    ],
+    "wrong_answers_ru": [
+      "Чартизм был движением английских ремесленников за традиционные права гильдий",
+      "Чартисты в 1848 году боролись за независимость Ирландии от Англии",
+      "Движение за свободную торговлю и отмену хлебных законов в Англии"
+    ],
+    "explanation_de": "Die Volkscharte von 1838 forderte sechs Punkte, darunter Männerwahlrecht, geheime Wahl und bezahlte Abgeordnete. Drei Petitionen scheiterten, doch fünf Forderungen wurden später erfüllt.",
+    "explanation_ru": "Народная хартия 1838 года содержала шесть требований, среди них мужское избирательное право, тайное голосование и оплату депутатов. Три петиции не удались, но пять требований позднее выполнили.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1843 CE",
-    "tags": ["Politik", "England", "Gesellschaft"],
+    "tags": [
+      "Politik",
+      "England",
+      "Gesellschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Die letzte Chartistendemonstration 1848 hatte 150.000 Teilnehmer – London stand unter Sicherheitskräften.",
@@ -393,17 +545,28 @@
     "id": 8114,
     "question_de": "Was war Alfred Nobels Erfindung des Dynamits (1867)?",
     "question_ru": "Что такое изобретение динамита Альфредом Нобелем (1867)?",
-    "correct_answer_de": "Nobel erfand 1867 das Dynamit als sicheres Sprengmittel – machte ein Vermögen, gründete nach seinem Tod den Nobelpreis",
-    "correct_answer_ru": "Нобель изобрёл в 1867 году динамит как безопасное взрывчатое вещество — сколотил состояние, основал Нобелевскую премию после смерти",
-    "wrong_answers_de": ["Nobel erfand das Schwarzpulver und verbesserte es für Bergbau und Sprengungen", "Dynamit wurde von Thomas Edison erfunden und von Nobel vermarktet", "Nobel erfand Plastiksprengstoff als Alternative zum Nitroglyzerin"],
-    "wrong_answers_ru": ["Нобель изобрёл чёрный порох и усовершенствовал его для горного дела и взрывов", "Динамит был изобретён Томасом Эдисоном и коммерциализирован Нобелем", "Нобель изобрёл пластическую взрывчатку как альтернативу нитроглицерину"],
-    "explanation_de": "Nitroglyzerin war extrem instabil – explodierte zufällig und tötete Nobels Bruder. Nobel mischte es mit Kieselgur: stabiles Dynamit. Revolutionierte Bergbau, Tunnelbau, Kanalisation (Suezkanal, Gotthardbahn). Nobel bereute militärische Verwendung – sein Testament gründete die Nobelpreise (1895).",
-    "explanation_ru": "Нитроглицерин был крайне нестабилен — случайно взрывался и убил брата Нобеля. Нобель смешал его с кизельгуром: стабильный динамит. Революционизировал горное дело, строительство туннелей, канализацию (Суэцкий канал, Готтарды). Нобель сожалел о военном применении — его завещание основало Нобелевские премии (1895).",
+    "correct_answer_de": "Nobel erfand 1867 das Dynamit – später stiftete er den Nobelpreis",
+    "correct_answer_ru": "Нобель изобрёл в 1867 году динамит — позже учредил Нобелевскую премию",
+    "wrong_answers_de": [
+      "Nobel erfand das Schwarzpulver und verbesserte es für Bergbau und Sprengungen",
+      "Dynamit wurde von Thomas Edison erfunden und von Nobel vermarktet",
+      "Nobel erfand Plastiksprengstoff als Alternative zum Nitroglyzerin"
+    ],
+    "wrong_answers_ru": [
+      "Нобель изобрёл чёрный порох и усовершенствовал его для горного дела и взрывов",
+      "Динамит был изобретён Томасом Эдисоном и коммерциализирован Нобелем",
+      "Нобель изобрёл пластическую взрывчатку как альтернативу нитроглицерину"
+    ],
+    "explanation_de": "Nitroglyzerin war instabil und tötete Nobels Bruder. Mit Kieselgur gemischt wurde es als Dynamit sicher und revolutionierte Bergbau und Tunnelbau; aus Reue stiftete Nobel 1895 die Preise.",
+    "explanation_ru": "Нитроглицерин был нестабилен и убил брата Нобеля. Смешанный с кизельгуром, он стал безопасным динамитом и совершил переворот в горном деле и тоннелестроении; из раскаяния Нобель учредил в 1895 году премии.",
     "difficulty": "easy",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1867 CE",
-    "tags": ["Erfindungen", "Wissenschaft"],
+    "tags": [
+      "Erfindungen",
+      "Wissenschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Nobel besaß Anfang des 20. Jh. über 90 Sprengstoffwerke in 20 Ländern.",
@@ -423,17 +586,29 @@
     "id": 8115,
     "question_de": "Was war der Aufstieg Japans zur modernen Großmacht nach der Meiji-Restauration?",
     "question_ru": "Что такое возвышение Японии как современной великой державы после реставрации Мэйдзи?",
-    "correct_answer_de": "Japan industrialisierte sich rasant 1868–1900 nach westlichem Vorbild – Armee, Marine, Industrie, Verfassung",
-    "correct_answer_ru": "Япония стремительно индустриализировалась в 1868–1900 годах по западному образцу — армия, флот, промышленность, конституция",
-    "wrong_answers_de": ["Japan öffnete sich 1868 durch amerikanischen Druck und blieb Agrarland bis 1920", "Die Meiji-Restauration führte zu einer demokratischen Revolution nach amerikanischem Vorbild", "Japan industrialisierte sich durch Hilfe Russlands und Chinas im späten 19. Jahrhundert"],
-    "wrong_answers_ru": ["Япония открылась в 1868 году под американским давлением и оставалась аграрной страной до 1920-го", "Реставрация Мэйдзи привела к демократической революции по американскому образцу", "Япония индустриализировалась с помощью России и Китая в конце XIX века"],
-    "explanation_de": "Nach der Öffnung durch Perry (1853) erkannte Japan: Modernisierung oder Kolonisierung. Meiji-Restauration 1868: Kaiser zurück. Iwakura-Mission (1871–73): japanische Delegation reiste durch Europa und USA. Schickte Studenten nach Deutschland, England, Frankreich. Erste Verfassung 1889. Sieg über China 1895, Russland 1905.",
-    "explanation_ru": "После открытия через Перри (1853) Япония поняла: модернизация или колонизация. Реставрация Мэйдзи 1868 года: возврат императора. Миссия Ивакуры (1871–73): японская делегация путешествовала по Европе и США. Отправила студентов в Германию, Англию, Францию. Первая конституция 1889 года. Победа над Китаем 1895, Россией 1905.",
+    "correct_answer_de": "Japan industrialisierte sich 1868–1900 nach westlichem Vorbild",
+    "correct_answer_ru": "Япония индустриализировалась в 1868–1900 годах по западному образцу",
+    "wrong_answers_de": [
+      "Japan öffnete sich 1868 durch US-Druck und blieb Agrarland",
+      "Die Meiji-Restauration war eine Revolution nach amerikanischem Vorbild",
+      "Japan industrialisierte sich mit Hilfe Russlands und Chinas"
+    ],
+    "wrong_answers_ru": [
+      "Япония открылась в 1868 году под давлением США и осталась аграрной",
+      "Реставрация Мэйдзи была революцией по американскому образцу",
+      "Япония индустриализировалась с помощью России и Китая"
+    ],
+    "explanation_de": "Nach Perrys Besuch 1853 wählte Japan Modernisierung statt Kolonisierung. Die Iwakura-Mission reiste 1871–73 durch Europa und die USA; 1889 folgte die Verfassung, 1895 und 1905 Siege.",
+    "explanation_ru": "После визита Перри в 1853 году Япония выбрала модернизацию. Миссия Ивакуры в 1871–1873 годах объехала Европу и США; в 1889 году появилась конституция, затем победы 1895 и 1905 годов.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1885 CE",
-    "tags": ["Japan", "Politik", "Wirtschaft"],
+    "tags": [
+      "Japan",
+      "Politik",
+      "Wirtschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Japan schickte 1871 über 100 hochrangige Beamte auf die Iwakura-Mission – um Westeuropa zu studieren.",
@@ -453,17 +628,28 @@
     "id": 8116,
     "question_de": "Was war die Entstehung der Fotografie im 19. Jahrhundert?",
     "question_ru": "Что такое возникновение фотографии в XIX веке?",
-    "correct_answer_de": "Daguerre erfand 1839 die Daguerreotypie – erste praktische Fotografiemethode; Talbot entwickelte das Negativ-Positiv-Verfahren",
-    "correct_answer_ru": "Дагер изобрёл в 1839 году дагерротипию — первый практический метод фотографии; Тальбот разработал метод негатив-позитив",
-    "wrong_answers_de": ["Fotografie wurde 1876 von Edison als Alternative zum Gemälde für die Massen erfunden", "Niépce erfand 1839 die erste Kamera, Daguerre entwickelte nur die Linsen dazu", "Das Fotografiepatent stammte von Bell, der es zusammen mit dem Telefon entwickelte"],
-    "wrong_answers_ru": ["Фотография была изобретена в 1876 году Эдисоном как альтернатива картине для масс", "Ньепс изобрёл в 1839 году первую камеру, Дагер лишь разработал к ней линзы", "Патент на фотографию принадлежал Беллу, разработавшему её вместе с телефоном"],
-    "explanation_de": "Joseph Nicéphore Niépce machte 1826 das erste Foto (8-Stunden-Belichtung). Daguerre perfektionierte 1839 die Technik. Talbot erfand Calotyp (Negativ → viele Positive). Kodak (Eastman, 1888): tragbare Kameras für alle. Fotografie revolutionierte Dokumentation, Kunst, Presse.",
-    "explanation_ru": "Жозеф Нисефор Ньепс сделал в 1826 году первую фотографию (экспозиция 8 часов). Дагер усовершенствовал технику в 1839 году. Тальбот изобрёл калотип (негатив → много позитивов). Kodak (Истман, 1888): портативные фотоаппараты для всех. Фотография революционизировала документацию, искусство, прессу.",
+    "correct_answer_de": "Daguerre erfand 1839 die Daguerreotypie, die erste praktische Fotografie",
+    "correct_answer_ru": "Дагер изобрёл в 1839 году дагеротипию — первую практичную фотографию",
+    "wrong_answers_de": [
+      "Fotografie wurde 1876 von Edison als Alternative zum Gemälde für die Massen erfunden",
+      "Niépce erfand 1839 die erste Kamera, Daguerre entwickelte nur die Linsen dazu",
+      "Das Fotografiepatent stammte von Bell, der es zusammen mit dem Telefon entwickelte"
+    ],
+    "wrong_answers_ru": [
+      "Фотография была изобретена в 1876 году Эдисоном как альтернатива картине для масс",
+      "Ньепс изобрёл в 1839 году первую камеру, Дагер лишь разработал к ней линзы",
+      "Патент на фотографию принадлежал Беллу, разработавшему её вместе с телефоном"
+    ],
+    "explanation_de": "Niépce machte 1826 das erste Foto mit acht Stunden Belichtung, Daguerre perfektionierte 1839 das Verfahren. Kodak brachte 1888 tragbare Kameras für alle.",
+    "explanation_ru": "Ньепс сделал в 1826 году первый снимок с выдержкой восемь часов, Дагер усовершенствовал способ в 1839-м. Kodak выпустил в 1888 году портативные камеры для всех.",
     "difficulty": "easy",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1839 CE",
-    "tags": ["Erfindungen", "Kultur"],
+    "tags": [
+      "Erfindungen",
+      "Kultur"
+    ],
     "interesting_facts": [
       {
         "de": "Die erste Daguerreotypie-Fabrik wurde sofort zerstört – Maler sahen ihre Berufung bedroht.",
@@ -483,17 +669,28 @@
     "id": 8117,
     "question_de": "Was war die Entstehung der Psychologie als Wissenschaft (Wundt 1879)?",
     "question_ru": "Что такое возникновение психологии как науки (Вундт, 1879)?",
-    "correct_answer_de": "Wilhelm Wundt gründete 1879 in Leipzig das erste psychologische Laboratorium – Psychologie als empirische Wissenschaft",
-    "correct_answer_ru": "Вильгельм Вундт основал в 1879 году в Лейпциге первую психологическую лабораторию — психология как эмпирическая наука",
-    "wrong_answers_de": ["Freud gründete 1879 die empirische Psychologie durch seine Hypnose-Versuche in Wien", "Die Psychologie als Wissenschaft begann durch Lockes Erkenntnistheorie im 17. Jahrhundert", "William James gründete die erste psychologische Schule 1875 in Harvard als erste der Welt"],
-    "wrong_answers_ru": ["Фрейд основал в 1879 году эмпирическую психологию через свои опыты с гипнозом в Вене", "Психология как наука началась с теории познания Локка в XVII веке", "Уильям Джеймс основал первую психологическую школу в 1875 году в Гарварде как первую в мире"],
-    "explanation_de": "Wundt experimentierte mit Reaktionszeiten, Wahrnehmung, Bewusstsein. Trennte Psychologie von Philosophie. Über 100 Studenten aus aller Welt kamen zu ihm. William James ('Principles of Psychology', 1890) etablierte Psychologie in den USA. Freud entwickelte Psychoanalyse (ab 1895).",
-    "explanation_ru": "Вундт проводил эксперименты со временем реакции, восприятием, сознанием. Отделил психологию от философии. Более 100 студентов со всего мира приехали к нему. Уильям Джеймс («Принципы психологии», 1890) утвердил психологию в США. Фрейд разработал психоанализ (с 1895).",
+    "correct_answer_de": "Wundt gründete 1879 in Leipzig das erste psychologische Labor",
+    "correct_answer_ru": "Вундт основал в 1879 году в Лейпциге первую психологическую лабораторию",
+    "wrong_answers_de": [
+      "Freud gründete 1879 die empirische Psychologie in Wien",
+      "Die Psychologie begann mit Lockes Erkenntnistheorie im 17. Jahrhundert",
+      "William James gründete 1875 in Harvard die erste psychologische Schule"
+    ],
+    "wrong_answers_ru": [
+      "Фрейд основал в 1879 году эмпирическую психологию в Вене",
+      "Психология началась с теории познания Локка в XVII веке",
+      "Уильям Джеймс основал в 1875 году в Гарварде первую психологическую школу"
+    ],
+    "explanation_de": "Wundt untersuchte in Leipzig Reaktionszeiten und Wahrnehmung und löste die Psychologie von der Philosophie. Über 100 Studenten aus aller Welt kamen; William James und Freud folgten.",
+    "explanation_ru": "Вундт изучал в Лейпциге время реакции и восприятие и отделил психологию от философии. К нему приезжали более 100 студентов со всего мира; затем появились Уильям Джеймс и Фрейд.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1879 CE",
-    "tags": ["Wissenschaft", "Deutschland"],
+    "tags": [
+      "Wissenschaft",
+      "Deutschland"
+    ],
     "interesting_facts": [
       {
         "de": "Wundts Labor in Leipzig gilt als Geburtsstunde der Psychologie als eigenständige Disziplin.",
@@ -513,17 +710,29 @@
     "id": 8118,
     "question_de": "Was war der Imperialismus und die 'Mission civilisatrice' Frankreichs?",
     "question_ru": "Что такое империализм и французская «mission civilisatrice»?",
-    "correct_answer_de": "Frankreichs 'Zivilisierungsmission' rechtfertigte Kolonialherrschaft als Aufgabe, unzivilisierte Völker zu erziehen",
-    "correct_answer_ru": "Французская «цивилизаторская миссия» оправдывала колониальное господство как задачу воспитания «нецивилизованных» народов",
-    "wrong_answers_de": ["Mission civilisatrice war ein Konzept zur Verbreitung des Christentums durch katholische Missionare", "Eine britische Doktrin zur friedlichen Entwicklung von Kolonien durch Freihandel", "Ein sozialistisches Konzept zur Industrialisierung Afrikas durch europaäische Technologietransfer"],
-    "wrong_answers_ru": ["Mission civilisatrice была концепцией распространения христианства через католических миссионеров", "Британская доктрина мирного развития колоний через свободную торговлю", "Социалистическая концепция индустриализации Африки через европейский технологический трансфер"],
-    "explanation_de": "Jules Ferry (französischer Premierminister) erklärte 1885: Höhere Rassen haben Rechte über niedere. Frankreich kolonisierte Algerien (1830), Indochina (1858–84), Westafrika. British Empire sprach von der 'White Man's Burden' (Kipling). Imperialismus war ökonomisch (Ressourcen) und ideologisch.",
-    "explanation_ru": "Жюль Ферри (французский премьер-министр) заявил в 1885 году: высшие расы имеют права над низшими. Франция колонизировала Алжир (1830), Индокитай (1858–84), Западную Африку. Британская империя говорила о «бремени белого человека» (Киплинг). Империализм был экономическим (ресурсы) и идеологическим.",
+    "correct_answer_de": "Frankreichs «Zivilisierungsmission» rechtfertigte die Kolonialherrschaft",
+    "correct_answer_ru": "«Цивилизаторская миссия» Франции оправдывала колониальное господство",
+    "wrong_answers_de": [
+      "Konzept zur Verbreitung des Christentums durch katholische Missionare",
+      "Eine britische Doktrin zur friedlichen Entwicklung von Kolonien durch Freihandel",
+      "Ein sozialistisches Konzept zur Industrialisierung Afrikas"
+    ],
+    "wrong_answers_ru": [
+      "Концепция распространения христианства католическими миссионерами",
+      "Британская доктрина мирного развития колоний через свободную торговлю",
+      "Социалистическая концепция индустриализации Африки"
+    ],
+    "explanation_de": "Jules Ferry erklärte 1885, höhere Rassen hätten Rechte über niedere. Frankreich kolonisierte Algerien, Indochina und Westafrika; Imperialismus hatte wirtschaftliche und ideologische Gründe.",
+    "explanation_ru": "Жюль Ферри заявил в 1885 году, что высшие расы имеют права над низшими. Франция колонизировала Алжир, Индокитай и Западную Африку; империализм имел экономические и идеологические причины.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "conceptual",
     "period": "1885 CE",
-    "tags": ["Frankreich", "Afrika", "Politik"],
+    "tags": [
+      "Frankreich",
+      "Afrika",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Frankreich hat noch heute Überseegebiete (DOM-TOM) – Teile des ehemaligen Kolonialreichs.",
@@ -543,17 +752,29 @@
     "id": 8119,
     "question_de": "Was war die Entstehung der Kinematographie (Lumière 1895)?",
     "question_ru": "Что такое возникновение кинематографии (Люмьер, 1895)?",
-    "correct_answer_de": "Louis und Auguste Lumière zeigten 1895 in Paris die erste öffentliche Filmvorführung – Geburt des Kinos",
-    "correct_answer_ru": "Луи и Огюст Люмьер в 1895 году показали в Париже первый публичный киносеанс — рождение кино",
-    "wrong_answers_de": ["Thomas Edison erfand das Kino 1895 und ließ es in den USA als einziger patentieren", "Georges Méliès erfand die Filmkamera und führte die erste Vorstellung 1895 durch", "Die erste Filmvorführung fand 1895 in Berlin statt, nicht in Paris"],
-    "wrong_answers_ru": ["Томас Эдисон изобрёл кино в 1895 году и запатентовал его в США единолично", "Жорж Мельес изобрёл кинокамеру и провёл первый показ в 1895 году", "Первый киносеанс состоялся в 1895 году в Берлине, а не в Париже"],
-    "explanation_de": "28. Dezember 1895: Lumières 'Cinématographe' im Salon Indien du Grand Café, Paris. 10 kurze Filme à 50 Sekunden. 'Die Ankunft eines Zuges' – Zuschauer flohen panisch. Edison hatte Kinetoskop (Einzelbetrachter), Lumières machten es zum Massenspektakel. Lumières dachten, Kino sei eine Kuriosität ohne Zukunft.",
-    "explanation_ru": "28 декабря 1895 года: «Синематограф» Люмьеров в салоне Индии Grand Café, Париж. 10 коротких фильмов по 50 секунд. «Прибытие поезда» — зрители в панике бежали. У Эдисона был кинетоскоп (индивидуальный просмотр), Люмьеры превратили это в массовое зрелище. Люмьеры считали кино курьёзом без будущего.",
+    "correct_answer_de": "Die Brüder Lumière zeigten 1895 in Paris den ersten öffentlichen Film",
+    "correct_answer_ru": "Братья Люмьер показали в 1895 году в Париже первый публичный фильм",
+    "wrong_answers_de": [
+      "Edison erfand das Kino 1895 und patentierte es allein",
+      "Georges Méliès erfand die Filmkamera und führte die erste Vorstellung 1895 durch",
+      "Die erste Filmvorführung fand 1895 in Berlin statt, nicht in Paris"
+    ],
+    "wrong_answers_ru": [
+      "Эдисон изобрёл кино в 1895 году и единолично запатентовал",
+      "Жорж Мельес изобрёл кинокамеру и провёл первый показ в 1895 году",
+      "Первый киносеанс состоялся в 1895 году в Берлине, а не в Париже"
+    ],
+    "explanation_de": "Am 28. Dezember 1895 zeigten die Lumières im Pariser Grand Café zehn Kurzfilme von je rund 50 Sekunden. Sie hielten das Kino zunächst für eine Kuriosität ohne Zukunft.",
+    "explanation_ru": "28 декабря 1895 года братья Люмьер показали в парижском Гранд-кафе десять коротких фильмов по 50 секунд. Сначала они считали кино курьёзом без будущего.",
     "difficulty": "easy",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1895 CE",
-    "tags": ["Erfindungen", "Kultur", "Frankreich"],
+    "tags": [
+      "Erfindungen",
+      "Kultur",
+      "Frankreich"
+    ],
     "interesting_facts": [
       {
         "de": "Louis Lumière sagte: 'Das Kino ist eine Erfindung ohne Zukunft' – falsch geraten.",
@@ -573,17 +794,28 @@
     "id": 8120,
     "question_de": "Was war die Entstehung der Soziologie als Wissenschaft?",
     "question_ru": "Что такое возникновение социологии как науки?",
-    "correct_answer_de": "Comte (Begriff), Spencer, Durkheim und Weber begründeten Soziologie als Wissenschaft der Gesellschaft im 19. Jh.",
-    "correct_answer_ru": "Конт (термин), Спенсер, Дюркгейм и Вебер основали социологию как науку об обществе в XIX веке",
-    "wrong_answers_de": ["Marx und Engels gründeten die Soziologie als Gegenentwurf zur kapitalistischen Wirtschaftstheorie", "Die Soziologie wurde 1850 von John Stuart Mill als Erweiterung der liberalen Politikwissenschaft gegründet", "Nietzsche und Freud schufen gemeinsam die Soziologie als Reaktion auf den Positivismus"],
-    "wrong_answers_ru": ["Маркс и Энгельс основали социологию как альтернативу капиталистической экономической теории", "Социологию основал в 1850 году Джон Стюарт Милль как расширение либеральной политической науки", "Ницше и Фрейд совместно создали социологию как реакцию на позитивизм"],
-    "explanation_de": "Émile Durkheim ('Der Selbstmord', 1897): statistische Analyse sozialer Phänomene. Max Weber ('Die protestantische Ethik und der Geist des Kapitalismus', 1905): Ideen formen Gesellschaft. Beide wurden zu Gründervätern der modernen Soziologie.",
-    "explanation_ru": "Эмиль Дюркгейм («Самоубийство», 1897): статистический анализ социальных явлений. Макс Вебер («Протестантская этика и дух капитализма», 1905): идеи формируют общество. Оба стали отцами-основателями современной социологии.",
+    "correct_answer_de": "Comte, Spencer, Durkheim und Weber begründeten die Soziologie",
+    "correct_answer_ru": "Конт, Спенсер, Дюркгейм и Вебер основали социологию",
+    "wrong_answers_de": [
+      "Marx und Engels gründeten die Soziologie als Gegenentwurf zur Ökonomie",
+      "John Stuart Mill gründete die Soziologie 1850 als Politikwissenschaft",
+      "Nietzsche und Freud schufen gemeinsam die Soziologie"
+    ],
+    "wrong_answers_ru": [
+      "Маркс и Энгельс основали социологию как альтернативу экономической теории",
+      "Джон Стюарт Милль основал социологию в 1850 году как политологию",
+      "Ницше и Фрейд вместе создали социологию"
+    ],
+    "explanation_de": "Durkheim analysierte 1897 in «Der Selbstmord» soziale Phänomene mit Statistik. Weber zeigte 1905, wie Ideen die Gesellschaft formen; beide gelten als Gründerväter der Soziologie.",
+    "explanation_ru": "Дюркгейм проанализировал в 1897 году в «Самоубийстве» социальные явления статистикой. Вебер показал в 1905 году, как идеи формируют общество; оба считаются основателями социологии.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1897 CE",
-    "tags": ["Wissenschaft", "Philosophie"],
+    "tags": [
+      "Wissenschaft",
+      "Philosophie"
+    ],
     "interesting_facts": [
       {
         "de": "Durkheims Studie 'Suicide' (1897) zeigte: Suizid ist keine rein individuelle Tat, sondern hat soziale Ursachen.",
@@ -603,17 +835,28 @@
     "id": 8121,
     "question_de": "Was war die Massenemigration aus Europa in die USA im 19. Jahrhundert?",
     "question_ru": "Что такое массовая эмиграция из Европы в США в XIX веке?",
-    "correct_answer_de": "1820–1920 emigrierten über 30 Millionen Europäer in die USA – Iren, Deutsche, Italiener, Juden auf der Flucht",
-    "correct_answer_ru": "В 1820–1920 годах более 30 миллионов европейцев эмигрировали в США — ирландцы, немцы, итальянцы, евреи в бегстве",
-    "wrong_answers_de": ["Die Massenemigration in die USA fand hauptsächlich nach dem Ersten Weltkrieg 1918–1940 statt", "Die meisten Einwanderer kamen nach 1920 aus Osteuropa durch den Niedergang des Zarenreichs", "Nur 5 Millionen Menschen emigrierten insgesamt aus Europa in die USA im 19. Jahrhundert"],
-    "wrong_answers_ru": ["Массовая эмиграция в США происходила главным образом после Первой мировой войны, в 1918–1940 годах", "Большинство иммигрантов прибыли после 1920 года из Восточной Европы в связи с упадком царской империи", "Всего лишь 5 миллионов человек эмигрировали из Европы в США в XIX веке"],
-    "explanation_de": "Ellis Island (1892): Einwanderer-Registrierung. Hungersnöte (Irland), Pogrome (Juden), Armut (Südeuropa). 'New York, New York' – Millionen begannen als Fabrikarbeiter. 1924 Immigration Act begrenzte Einwanderung (Quotas). USA wurde Einwanderungsland mit nationaler Identität.",
-    "explanation_ru": "Эллис-Айленд (1892): регистрация иммигрантов. Голод (Ирландия), погромы (евреи), бедность (Южная Европа). Миллионы начинали как фабричные рабочие. Закон об иммиграции 1924 года ограничил въезд (квоты). США стали иммигрантской страной с национальной идентичностью.",
+    "correct_answer_de": "1820–1920 wanderten über 30 Millionen Europäer in die USA aus",
+    "correct_answer_ru": "В 1820–1920 годах в США эмигрировали свыше 30 миллионов европейцев",
+    "wrong_answers_de": [
+      "Die Massenemigration fand hauptsächlich 1918–1940 statt",
+      "Die meisten Einwanderer kamen nach 1920 aus Osteuropa",
+      "Insgesamt wanderten nur 5 Millionen Europäer in die USA aus"
+    ],
+    "wrong_answers_ru": [
+      "Массовая эмиграция происходила в основном в 1918–1940 годах",
+      "Большинство иммигрантов приехали после 1920 года из Восточной Европы",
+      "Всего в США эмигрировало лишь 5 миллионов европейцев"
+    ],
+    "explanation_de": "Hungersnöte in Irland, Pogrome gegen Juden und Armut im Süden trieben Millionen nach Amerika. Ellis Island registrierte ab 1892 Einwanderer; 1924 begrenzten Quoten die Zuwanderung.",
+    "explanation_ru": "Голод в Ирландии, погромы против евреев и бедность на юге гнали миллионы в Америку. Эллис-Айленд регистрировал иммигрантов с 1892 года; в 1924 году квоты ограничили приток.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1880 CE",
-    "tags": ["Amerika", "Gesellschaft"],
+    "tags": [
+      "Amerika",
+      "Gesellschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Ellis Island bearbeitete an Spitzentagen über 11.000 Einwanderer pro Tag.",
@@ -633,17 +876,29 @@
     "id": 8122,
     "question_de": "Was war Bismarcks Sozialpolitik und die erste Sozialversicherung?",
     "question_ru": "Что такое социальная политика Бисмарка и первое социальное страхование?",
-    "correct_answer_de": "Bismarck führte 1883–89 Kranken-, Unfall- und Rentenversicherung ein – erste staatliche Sozialversicherung der Welt",
-    "correct_answer_ru": "Бисмарк ввёл в 1883–89 годах страхование по болезни, от несчастных случаев и пенсионное — первое государственное социальное страхование в мире",
-    "wrong_answers_de": ["Bismarck führte Sozialversicherung ein, um die Arbeiterbewegung ideologisch zu unterstützen", "Die SPD initiierte 1883 die Sozialversicherung und Bismarck unterschrieb sie widerwillig", "England führte die erste staatliche Rentenversicherung ein – Deutschland folgte erst 1900"],
-    "wrong_answers_ru": ["Бисмарк ввёл социальное страхование, чтобы идеологически поддержать рабочее движение", "СДПГ инициировала страхование в 1883 году, а Бисмарк подписал его неохотно", "Англия первой ввела государственное пенсионное страхование — Германия последовала лишь в 1900 году"],
-    "explanation_de": "Bismarck wollte Sozialisten schwächen: 'Wer die Zuckerpeitsche gibt, braucht die Eisenpeitsche nicht'. Krankenversicherung 1883, Unfallversicherung 1884, Rentenversicherung 1889. Rente ab 70 Jahren (Lebenserwartung war 45). Weltweites Vorbild. Soziale Sicherung als Instrument gegen Revolution.",
-    "explanation_ru": "Бисмарк хотел ослабить социалистов: «Кто даёт сахарный пряник, тому не нужен железный кнут». Страхование по болезни 1883 год, от несчастных случаев 1884 год, пенсионное 1889 год. Пенсия с 70 лет (ожидаемая продолжительность жизни была 45). Мировой образец. Социальное обеспечение как инструмент против революции.",
+    "correct_answer_de": "Bismarck führte 1883–89 die erste staatliche Sozialversicherung der Welt ein",
+    "correct_answer_ru": "Бисмарк ввёл в 1883–89 годах первое в мире государственное соцстрахование",
+    "wrong_answers_de": [
+      "Bismarck förderte die Arbeiterbewegung ideologisch durch Versicherungen",
+      "Die SPD initiierte 1883 die Sozialversicherung und Bismarck unterschrieb sie widerwillig",
+      "England führte die erste Rentenversicherung ein, Deutschland 1900"
+    ],
+    "wrong_answers_ru": [
+      "Бисмарк идеологически поддерживал рабочее движение страхованием",
+      "СДПГ инициировала страхование в 1883 году, а Бисмарк подписал его неохотно",
+      "Англия ввела первое пенсионное страхование, Германия — в 1900-м"
+    ],
+    "explanation_de": "Bismarck wollte die Sozialisten schwächen: Krankenversicherung 1883, Unfallversicherung 1884, Rentenversicherung 1889, mit Rente ab 70. Das Modell wurde weltweit Vorbild.",
+    "explanation_ru": "Бисмарк хотел ослабить социалистов: страхование по болезни 1883 года, от несчастных случаев 1884-го, пенсионное 1889-го, с пенсией с 70 лет. Модель стала образцом для мира.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1885 CE",
-    "tags": ["Deutschland", "Gesellschaft", "Politik"],
+    "tags": [
+      "Deutschland",
+      "Gesellschaft",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Die Rente mit 70 war absichtlich hoch angesetzt – die meisten erreichten sie nie (durchschnittliche Lebenserwartung: 45 Jahre).",
@@ -663,17 +918,29 @@
     "id": 8123,
     "question_de": "Was war die Chinesische Boxerrebellion (1899–1901)?",
     "question_ru": "Что такое восстание боксёров в Китае (1899–1901)?",
-    "correct_answer_de": "Nationalistischer Aufstand in China gegen ausländischen Einfluss und Missionare – Niederschlagung durch internationales Expeditionskorps",
-    "correct_answer_ru": "Националистическое восстание в Китае против иностранного влияния и миссионеров — подавление международным экспедиционным корпусом",
-    "wrong_answers_de": ["Eine kommunistische Revolution in China, die die Qing-Dynastie stürzte", "Ein Aufstand japanischer Einwanderer gegen die chinesische Regierung", "Eine Revolution der Handelsklasse gegen die kaiserliche Zollpolitik"],
-    "wrong_answers_ru": ["Коммунистическая революция в Китае, свергшая династию Цин", "Восстание японских иммигрантов против китайского правительства", "Революция торгового класса против имперской таможенной политики"],
-    "explanation_de": "Die 'Yihetuan' ('Fäuste der Gerechtigkeit und Harmonie') glaubten, Magie mache sie unverwundbar. Töteten Missionare und chinesische Christen. Belagerten internationale Gesandtschaften in Peking (55 Tage). 8-Nationen-Allianz (Deutschland, England, Japan, USA etc.) entsandte Truppen. China zahlte riesige Entschädigungen.",
-    "explanation_ru": "«Ихэтуань» («Кулаки во имя справедливости и согласия») верили, что магия делает их неуязвимыми. Убивали миссионеров и китайских христиан. Осадили иностранные посольства в Пекине (55 дней). Альянс 8 наций (Германия, Англия, Япония, США и др.) направил войска. Китай выплатил огромные компенсации.",
+    "correct_answer_de": "Nationalistischer Aufstand in China gegen ausländischen Einfluss",
+    "correct_answer_ru": "Националистическое восстание в Китае против иностранного влияния",
+    "wrong_answers_de": [
+      "Eine kommunistische Revolution in China, die die Qing-Dynastie stürzte",
+      "Ein Aufstand japanischer Einwanderer gegen die chinesische Regierung",
+      "Eine Revolution der Handelsklasse gegen die kaiserliche Zollpolitik"
+    ],
+    "wrong_answers_ru": [
+      "Коммунистическая революция в Китае, свергшая династию Цин",
+      "Восстание японских иммигрантов против китайского правительства",
+      "Революция торгового класса против имперской таможенной политики"
+    ],
+    "explanation_de": "Die Boxer glaubten, Magie mache sie unverwundbar, töteten Missionare und belagerten 55 Tage lang die Gesandtschaften in Peking. Eine Acht-Nationen-Allianz zwang China zu hohen Entschädigungen.",
+    "explanation_ru": "«Боксёры» верили, что магия делает их неуязвимыми, убивали миссионеров и 55 дней осаждали посольства в Пекине. Альянс восьми государств заставил Китай выплатить огромные репарации.",
     "difficulty": "medium",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1900 CE",
-    "tags": ["China", "Krieg", "Politik"],
+    "tags": [
+      "China",
+      "Krieg",
+      "Politik"
+    ],
     "interesting_facts": [
       {
         "de": "Kaiser Wilhelm II. gab den deutschen Truppen den Befehl: 'Keine Pardon!' – der 'Hunnenrede' Skandal.",
@@ -693,17 +960,29 @@
     "id": 8124,
     "question_de": "Was war die Panama-Kanalzone – erste französische Versuche (1880er)?",
     "question_ru": "Что такое зона Панамского канала — первые французские попытки (1880-е)?",
-    "correct_answer_de": "Ferdinand de Lesseps' französisches Kanalprojekt (1880–1889) scheiterte an Krankheiten und Korruption – 22.000 Tote",
-    "correct_answer_ru": "Французский проект канала Фердинанда де Лессепса (1880–1889) провалился из-за болезней и коррупции — 22 000 погибших",
-    "wrong_answers_de": ["USA bauten den Panamakanal als erstes Land 1870 nach dem amerikanischen Bürgerkrieg", "England baute den Panamakanal als Alternative zum Suezkanal in Zentralamerika", "De Lesseps baute 1880 erfolgreich den Panamakanal und eröffnete ihn 1890"],
-    "wrong_answers_ru": ["США построили Панамский канал первыми в 1870 году после Гражданской войны", "Англия построила Панамский канал как альтернативу Суэцкому каналу в Центральной Америке", "Де Лессепс успешно построил Панамский канал в 1880 году и открыл его в 1890-м"],
-    "explanation_de": "De Lesseps hatte den Suezkanal gebaut (1869) – glaubte, Panama sei ähnlich. Aber Panama-Dschungel: Malaria, Gelbfieber töteten Arbeiter massenhaft. 1889 Bankrott der Kanalgesellschaft – Skandal erschütterte Frankreich ('Panama-Skandal'). USA übernahmen und bauten Kanal fertig (1914).",
-    "explanation_ru": "Де Лессепс построил Суэцкий канал (1869) — думал, что Панама похожа. Но панамские джунгли: малярия, жёлтая лихорадка косили рабочих массово. В 1889 году банкротство компании канала — скандал потряс Францию («Панамский скандал»). США взяли над и достроили канал (1914).",
+    "correct_answer_de": "Lesseps' französisches Kanalprojekt scheiterte an Krankheiten und Korruption",
+    "correct_answer_ru": "Французский канальный проект Лессепса провалился из-за болезней и коррупции",
+    "wrong_answers_de": [
+      "USA bauten den Panamakanal als erstes Land 1870 nach dem amerikanischen Bürgerkrieg",
+      "England baute den Panamakanal als Alternative zum Suezkanal in Zentralamerika",
+      "De Lesseps baute 1880 erfolgreich den Panamakanal und eröffnete ihn 1890"
+    ],
+    "wrong_answers_ru": [
+      "США построили Панамский канал первыми в 1870 году после Гражданской войны",
+      "Англия построила Панамский канал как альтернативу Суэцкому каналу в Центральной Америке",
+      "Де Лессепс успешно построил Панамский канал в 1880 году и открыл его в 1890-м"
+    ],
+    "explanation_de": "De Lesseps wollte nach dem Suezkanal auch Panama durchstechen, doch Malaria und Gelbfieber töteten Arbeiter massenhaft. 1889 ging die Gesellschaft pleite; die USA vollendeten den Kanal 1914.",
+    "explanation_ru": "Лессепс после Суэца хотел прорыть и Панаму, но малярия и жёлтая лихорадка массово убивали рабочих. В 1889 году компания обанкротилась; США достроили канал в 1914 году.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1885 CE",
-    "tags": ["Amerika", "Frankreich", "Wirtschaft"],
+    "tags": [
+      "Amerika",
+      "Frankreich",
+      "Wirtschaft"
+    ],
     "interesting_facts": [
       {
         "de": "Der Panama-Skandal 1892 enthüllte, dass Hunderte französische Parlamentarier bestochen worden waren.",
@@ -723,17 +1002,29 @@
     "id": 8125,
     "question_de": "Was war Richard Wagners Konzept des 'Gesamtkunstwerks'?",
     "question_ru": "Что такое концепция «Gesamtkunstwerk» Рихарда Вагнера?",
-    "correct_answer_de": "Wagner vereinte in seinen Opern Musik, Dichtung, Theater, Bühnenbild zu einer Einheit – 'Gesamtkunstwerk'",
-    "correct_answer_ru": "Вагнер объединил в своих операх музыку, поэзию, театр, сценографию в единое целое — «Gesamtkunstwerk»",
-    "wrong_answers_de": ["Wagners Gesamtkunstwerk war eine Theorie, die Skulptur und Malerei mit Musik kombinierte", "Das Gesamtkunstwerk bezeichnete Wagners Plan, alle deutschen Opernhäuser zu vereinen", "Wagner entwickelte das Leitmotiv als einzige kompositorische Neuerung in der Romantik"],
-    "wrong_answers_ru": ["Gesamtkunstwerk Вагнера была теорией, объединявшей скульптуру и живопись с музыкой", "Gesamtkunstwerk обозначал план Вагнера объединить все немецкие оперные театры", "Вагнер разработал лейтмотив как единственное композиционное новшество в романтизме"],
-    "explanation_de": "Wagner schrieb selbst Libretti, komponierte Musik, entwickelte Inszenierungen. Leitmotive: wiederkehrende musikalische Themen für Figuren/Ideen. Bayreuther Festspielhaus (1876): speziell für seine Opern gebaut. Der Ring des Nibelungen (16-stündiger Opernzyklus). Nietzsche bewunderte Wagner zunächst.",
-    "explanation_ru": "Вагнер сам писал либретто, сочинял музыку, разрабатывал постановки. Лейтмотивы: повторяющиеся музыкальные темы для персонажей/идей. Байройтский фестивальный театр (1876): построен специально для его опер. «Кольцо нибелунга» (16-часовой цикл опер). Ницше поначалу восхищался Вагнером.",
+    "correct_answer_de": "Wagner vereinte Musik, Dichtung und Bühne zum «Gesamtkunstwerk»",
+    "correct_answer_ru": "Вагнер соединил музыку, поэзию и сцену в «синтез искусств»",
+    "wrong_answers_de": [
+      "Gesamtkunstwerk meinte Skulptur und Malerei mit Musik",
+      "Wagner wollte alle deutschen Opernhäuser vereinen",
+      "Das Leitmotiv war Wagners einzige Neuerung"
+    ],
+    "wrong_answers_ru": [
+      "«Синтез искусств» означал скульптуру и живопись с музыкой",
+      "Вагнер хотел объединить все немецкие оперные театры",
+      "Лейтмотив был единственным новшеством Вагнера"
+    ],
+    "explanation_de": "Wagner schrieb selbst Libretti, komponierte und inszenierte. Mit Leitmotiven und dem Bayreuther Festspielhaus (1876) schuf er «Der Ring des Nibelungen», einen vierteiligen Zyklus von rund 16 Stunden.",
+    "explanation_ru": "Вагнер сам писал либретто, сочинял музыку и ставил спектакли. Лейтмотивами и Байройтским театром (1876) он создал «Кольцо нибелунга» — тетралогию примерно на 16 часов.",
     "difficulty": "hard",
     "category": "Neuzeit (19. Jahrhundert)",
     "type": "factual",
     "period": "1876 CE",
-    "tags": ["Musik", "Kunst", "Deutschland"],
+    "tags": [
+      "Musik",
+      "Kunst",
+      "Deutschland"
+    ],
     "interesting_facts": [
       {
         "de": "Wagner wurde von Nietzsche verehrt, dann gebrochen – ihre Freundschaft endete öffentlich als 'Fall Wagner'.",
