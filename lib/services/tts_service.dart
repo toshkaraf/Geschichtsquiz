@@ -4,6 +4,7 @@ import 'package:flutter_tts/flutter_tts.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'german_tts_text.dart';
 import 'offline_piper_tts.dart';
 
 /// Which TTS engine is currently active.
@@ -101,6 +102,7 @@ class TtsService {
   Future<void> speak(String text) async {
     await _ensureInit();
     await stop();
+    text = prepareGermanTts(text);
 
     if (!kIsWeb && _useOfflinePiper) {
       final ok = await OfflinePiperTts.instance.speak(
@@ -123,12 +125,13 @@ class TtsService {
     await _ensureInit();
     await stop();
     _lastEngine = TtsEngine.systemVoice;
-    await _systemTts.speak(text);
+    await _systemTts.speak(prepareGermanTts(text));
   }
 
   Future<void> speakWithOfflinePiper(String text) async {
     await _ensureInit();
     await stop();
+    text = prepareGermanTts(text);
     final ok = await OfflinePiperTts.instance.speak(
       text,
       speed: _mapRateToPiperSpeed(_speechRate),
